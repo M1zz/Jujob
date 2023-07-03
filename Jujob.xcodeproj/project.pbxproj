@@ -8,17 +8,83 @@
 
 /* Begin PBXBuildFile section */
 		581A09922A53227A004F2DBA /* JujobApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09912A53227A004F2DBA /* JujobApp.swift */; };
-		581A09942A53227A004F2DBA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09932A53227A004F2DBA /* ContentView.swift */; };
 		581A09962A53227B004F2DBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 581A09952A53227B004F2DBA /* Assets.xcassets */; };
 		581A09992A53227B004F2DBA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 581A09982A53227B004F2DBA /* Preview Assets.xcassets */; };
+		581A09A72A5322EB004F2DBA /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 581A09A62A5322EB004F2DBA /* WidgetKit.framework */; };
+		581A09A92A5322EB004F2DBA /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 581A09A82A5322EB004F2DBA /* SwiftUI.framework */; };
+		581A09AC2A5322EB004F2DBA /* JujobWidgetBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09AB2A5322EB004F2DBA /* JujobWidgetBundle.swift */; };
+		581A09AE2A5322EB004F2DBA /* JujobWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09AD2A5322EB004F2DBA /* JujobWidget.swift */; };
+		581A09B02A5322EC004F2DBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 581A09AF2A5322EC004F2DBA /* Assets.xcassets */; };
+		581A09B42A5322EC004F2DBA /* JujobWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 581A09A42A5322EB004F2DBA /* JujobWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		581A09BD2A53238E004F2DBA /* QuotesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09BB2A53238E004F2DBA /* QuotesManager.swift */; };
+		581A09BE2A53238E004F2DBA /* WidgetManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09BC2A53238E004F2DBA /* WidgetManager.swift */; };
+		581A09C22A532731004F2DBA /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 581A09C02A532731004F2DBA /* Media.xcassets */; };
+		581A09C32A532731004F2DBA /* WidgetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09C12A532731004F2DBA /* WidgetView.swift */; };
+		581A09C42A532735004F2DBA /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 581A09C02A532731004F2DBA /* Media.xcassets */; };
+		581A09C52A532738004F2DBA /* WidgetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09C12A532731004F2DBA /* WidgetView.swift */; };
+		581A09C92A53274D004F2DBA /* AppConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09C72A53274D004F2DBA /* AppConfig.swift */; };
+		581A09D32A532760004F2DBA /* WidgetSizePreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09CC2A532760004F2DBA /* WidgetSizePreview.swift */; };
+		581A09D42A532760004F2DBA /* LocalPhotoGallery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09CD2A532760004F2DBA /* LocalPhotoGallery.swift */; };
+		581A09D52A532760004F2DBA /* CategoriesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09CE2A532760004F2DBA /* CategoriesListView.swift */; };
+		581A09D62A532760004F2DBA /* FontsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09CF2A532760004F2DBA /* FontsListView.swift */; };
+		581A09D72A532760004F2DBA /* PKDarkThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09D02A532760004F2DBA /* PKDarkThemeView.swift */; };
+		581A09D82A532760004F2DBA /* TutorialContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09D12A532760004F2DBA /* TutorialContentView.swift */; };
+		581A09D92A532760004F2DBA /* MainContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09D22A532760004F2DBA /* MainContentView.swift */; };
+		581A09DA2A532816004F2DBA /* WidgetManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09BC2A53238E004F2DBA /* WidgetManager.swift */; };
+		581A09DB2A53281C004F2DBA /* QuotesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09BB2A53238E004F2DBA /* QuotesManager.swift */; };
+		581A09DC2A53282D004F2DBA /* AppConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09C72A53274D004F2DBA /* AppConfig.swift */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		581A09B22A5322EC004F2DBA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 581A09862A53227A004F2DBA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 581A09A32A5322EB004F2DBA;
+			remoteInfo = JujobWidgetExtension;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		581A09B82A5322EC004F2DBA /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				581A09B42A5322EC004F2DBA /* JujobWidgetExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		581A098E2A53227A004F2DBA /* Jujob.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Jujob.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		581A09912A53227A004F2DBA /* JujobApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JujobApp.swift; sourceTree = "<group>"; };
-		581A09932A53227A004F2DBA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		581A09952A53227B004F2DBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		581A09982A53227B004F2DBA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		581A099F2A532289004F2DBA /* Jujob.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Jujob.entitlements; sourceTree = "<group>"; };
+		581A09A42A5322EB004F2DBA /* JujobWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = JujobWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		581A09A62A5322EB004F2DBA /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
+		581A09A82A5322EB004F2DBA /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
+		581A09AB2A5322EB004F2DBA /* JujobWidgetBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JujobWidgetBundle.swift; sourceTree = "<group>"; };
+		581A09AD2A5322EB004F2DBA /* JujobWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JujobWidget.swift; sourceTree = "<group>"; };
+		581A09AF2A5322EC004F2DBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		581A09B12A5322EC004F2DBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		581A09B92A5322F6004F2DBA /* JujobWidgetExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = JujobWidgetExtension.entitlements; sourceTree = "<group>"; };
+		581A09BB2A53238E004F2DBA /* QuotesManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuotesManager.swift; sourceTree = "<group>"; };
+		581A09BC2A53238E004F2DBA /* WidgetManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WidgetManager.swift; sourceTree = "<group>"; };
+		581A09C02A532731004F2DBA /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		581A09C12A532731004F2DBA /* WidgetView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WidgetView.swift; sourceTree = "<group>"; };
+		581A09C72A53274D004F2DBA /* AppConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppConfig.swift; sourceTree = "<group>"; };
+		581A09CC2A532760004F2DBA /* WidgetSizePreview.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WidgetSizePreview.swift; sourceTree = "<group>"; };
+		581A09CD2A532760004F2DBA /* LocalPhotoGallery.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocalPhotoGallery.swift; sourceTree = "<group>"; };
+		581A09CE2A532760004F2DBA /* CategoriesListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoriesListView.swift; sourceTree = "<group>"; };
+		581A09CF2A532760004F2DBA /* FontsListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontsListView.swift; sourceTree = "<group>"; };
+		581A09D02A532760004F2DBA /* PKDarkThemeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PKDarkThemeView.swift; sourceTree = "<group>"; };
+		581A09D12A532760004F2DBA /* TutorialContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialContentView.swift; sourceTree = "<group>"; };
+		581A09D22A532760004F2DBA /* MainContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,13 +95,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		581A09A12A5322EB004F2DBA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				581A09A92A5322EB004F2DBA /* SwiftUI.framework in Frameworks */,
+				581A09A72A5322EB004F2DBA /* WidgetKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
 		581A09852A53227A004F2DBA = {
 			isa = PBXGroup;
 			children = (
+				581A09B92A5322F6004F2DBA /* JujobWidgetExtension.entitlements */,
 				581A09902A53227A004F2DBA /* Jujob */,
+				581A09AA2A5322EB004F2DBA /* JujobWidget */,
+				581A09A52A5322EB004F2DBA /* Frameworks */,
 				581A098F2A53227A004F2DBA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -44,6 +122,7 @@
 			isa = PBXGroup;
 			children = (
 				581A098E2A53227A004F2DBA /* Jujob.app */,
+				581A09A42A5322EB004F2DBA /* JujobWidgetExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -51,8 +130,11 @@
 		581A09902A53227A004F2DBA /* Jujob */ = {
 			isa = PBXGroup;
 			children = (
-				581A09912A53227A004F2DBA /* JujobApp.swift */,
-				581A09932A53227A004F2DBA /* ContentView.swift */,
+				581A09CB2A532755004F2DBA /* AppContentViews */,
+				581A09C62A532744004F2DBA /* AppDelegate */,
+				581A09BF2A532724004F2DBA /* Common */,
+				581A09BA2A532349004F2DBA /* Managers */,
+				581A099F2A532289004F2DBA /* Jujob.entitlements */,
 				581A09952A53227B004F2DBA /* Assets.xcassets */,
 				581A09972A53227B004F2DBA /* Preview Content */,
 			);
@@ -67,6 +149,67 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		581A09A52A5322EB004F2DBA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				581A09A62A5322EB004F2DBA /* WidgetKit.framework */,
+				581A09A82A5322EB004F2DBA /* SwiftUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		581A09AA2A5322EB004F2DBA /* JujobWidget */ = {
+			isa = PBXGroup;
+			children = (
+				581A09AB2A5322EB004F2DBA /* JujobWidgetBundle.swift */,
+				581A09AD2A5322EB004F2DBA /* JujobWidget.swift */,
+				581A09AF2A5322EC004F2DBA /* Assets.xcassets */,
+				581A09B12A5322EC004F2DBA /* Info.plist */,
+			);
+			path = JujobWidget;
+			sourceTree = "<group>";
+		};
+		581A09BA2A532349004F2DBA /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				581A09BB2A53238E004F2DBA /* QuotesManager.swift */,
+				581A09BC2A53238E004F2DBA /* WidgetManager.swift */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		581A09BF2A532724004F2DBA /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				581A09C02A532731004F2DBA /* Media.xcassets */,
+				581A09C12A532731004F2DBA /* WidgetView.swift */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		581A09C62A532744004F2DBA /* AppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				581A09C72A53274D004F2DBA /* AppConfig.swift */,
+				581A09912A53227A004F2DBA /* JujobApp.swift */,
+			);
+			path = AppDelegate;
+			sourceTree = "<group>";
+		};
+		581A09CB2A532755004F2DBA /* AppContentViews */ = {
+			isa = PBXGroup;
+			children = (
+				581A09CE2A532760004F2DBA /* CategoriesListView.swift */,
+				581A09CF2A532760004F2DBA /* FontsListView.swift */,
+				581A09CD2A532760004F2DBA /* LocalPhotoGallery.swift */,
+				581A09D22A532760004F2DBA /* MainContentView.swift */,
+				581A09D02A532760004F2DBA /* PKDarkThemeView.swift */,
+				581A09D12A532760004F2DBA /* TutorialContentView.swift */,
+				581A09CC2A532760004F2DBA /* WidgetSizePreview.swift */,
+			);
+			path = AppContentViews;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -77,15 +220,34 @@
 				581A098A2A53227A004F2DBA /* Sources */,
 				581A098B2A53227A004F2DBA /* Frameworks */,
 				581A098C2A53227A004F2DBA /* Resources */,
+				581A09B82A5322EC004F2DBA /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				581A09B32A5322EC004F2DBA /* PBXTargetDependency */,
 			);
 			name = Jujob;
 			productName = Jujob;
 			productReference = 581A098E2A53227A004F2DBA /* Jujob.app */;
 			productType = "com.apple.product-type.application";
+		};
+		581A09A32A5322EB004F2DBA /* JujobWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 581A09B52A5322EC004F2DBA /* Build configuration list for PBXNativeTarget "JujobWidgetExtension" */;
+			buildPhases = (
+				581A09A02A5322EB004F2DBA /* Sources */,
+				581A09A12A5322EB004F2DBA /* Frameworks */,
+				581A09A22A5322EB004F2DBA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JujobWidgetExtension;
+			productName = JujobWidgetExtension;
+			productReference = 581A09A42A5322EB004F2DBA /* JujobWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
@@ -98,6 +260,9 @@
 				LastUpgradeCheck = 1430;
 				TargetAttributes = {
 					581A098D2A53227A004F2DBA = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+					581A09A32A5322EB004F2DBA = {
 						CreatedOnToolsVersion = 14.3.1;
 					};
 				};
@@ -116,6 +281,7 @@
 			projectRoot = "";
 			targets = (
 				581A098D2A53227A004F2DBA /* Jujob */,
+				581A09A32A5322EB004F2DBA /* JujobWidgetExtension */,
 			);
 		};
 /* End PBXProject section */
@@ -126,7 +292,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				581A09992A53227B004F2DBA /* Preview Assets.xcassets in Resources */,
+				581A09C22A532731004F2DBA /* Media.xcassets in Resources */,
 				581A09962A53227B004F2DBA /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		581A09A22A5322EB004F2DBA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				581A09C42A532735004F2DBA /* Media.xcassets in Resources */,
+				581A09B02A5322EC004F2DBA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,12 +313,43 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				581A09942A53227A004F2DBA /* ContentView.swift in Sources */,
+				581A09D42A532760004F2DBA /* LocalPhotoGallery.swift in Sources */,
+				581A09BE2A53238E004F2DBA /* WidgetManager.swift in Sources */,
+				581A09D62A532760004F2DBA /* FontsListView.swift in Sources */,
+				581A09BD2A53238E004F2DBA /* QuotesManager.swift in Sources */,
+				581A09D52A532760004F2DBA /* CategoriesListView.swift in Sources */,
+				581A09D32A532760004F2DBA /* WidgetSizePreview.swift in Sources */,
+				581A09D72A532760004F2DBA /* PKDarkThemeView.swift in Sources */,
+				581A09C92A53274D004F2DBA /* AppConfig.swift in Sources */,
 				581A09922A53227A004F2DBA /* JujobApp.swift in Sources */,
+				581A09C32A532731004F2DBA /* WidgetView.swift in Sources */,
+				581A09D82A532760004F2DBA /* TutorialContentView.swift in Sources */,
+				581A09D92A532760004F2DBA /* MainContentView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		581A09A02A5322EB004F2DBA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				581A09DB2A53281C004F2DBA /* QuotesManager.swift in Sources */,
+				581A09C52A532738004F2DBA /* WidgetView.swift in Sources */,
+				581A09DA2A532816004F2DBA /* WidgetManager.swift in Sources */,
+				581A09DC2A53282D004F2DBA /* AppConfig.swift in Sources */,
+				581A09AE2A5322EB004F2DBA /* JujobWidget.swift in Sources */,
+				581A09AC2A5322EB004F2DBA /* JujobWidgetBundle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		581A09B32A5322EC004F2DBA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 581A09A32A5322EB004F2DBA /* JujobWidgetExtension */;
+			targetProxy = 581A09B22A5322EC004F2DBA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		581A099A2A53227B004F2DBA /* Debug */ = {
@@ -262,14 +469,17 @@
 		581A099D2A53227B004F2DBA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Jujob/Jujob.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_ASSET_PATHS = "\"Jujob/Preview Content\"";
 				DEVELOPMENT_TEAM = QGAQ3AY3R3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "오늘의 주접";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -280,25 +490,31 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.leeo.Jujob;
+				PRODUCT_BUNDLE_IDENTIFIER = com.leeo.JuJob;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		581A099E2A53227B004F2DBA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Jujob/Jujob.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_ASSET_PATHS = "\"Jujob/Preview Content\"";
 				DEVELOPMENT_TEAM = QGAQ3AY3R3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "오늘의 주접";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -309,8 +525,67 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.leeo.Jujob;
+				PRODUCT_BUNDLE_IDENTIFIER = com.leeo.JuJob;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		581A09B62A5322EC004F2DBA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_ENTITLEMENTS = JujobWidgetExtension.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QGAQ3AY3R3;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = JujobWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = JujobWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.leeo.JuJob.JuJobWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		581A09B72A5322EC004F2DBA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_ENTITLEMENTS = JujobWidgetExtension.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QGAQ3AY3R3;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = JujobWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = JujobWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.leeo.JuJob.JuJobWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -334,6 +609,15 @@
 			buildConfigurations = (
 				581A099D2A53227B004F2DBA /* Debug */,
 				581A099E2A53227B004F2DBA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		581A09B52A5322EC004F2DBA /* Build configuration list for PBXNativeTarget "JujobWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				581A09B62A5322EC004F2DBA /* Debug */,
+				581A09B72A5322EC004F2DBA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
