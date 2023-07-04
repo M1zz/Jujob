@@ -8,29 +8,15 @@
 import WidgetKit
 import SwiftUI
 
-
-
-struct SimpleEntry: TimelineEntry {
-    let date: Date
-}
-
-struct JujobWidgetEntryView : View {
-    var entry: Provider.Entry
-
-    var body: some View {
-        Text(entry.date, style: .time)
-    }
-}
-
 struct JujobWidget: Widget {
     let kind: String = "JujobWidget"
 
     var body: some WidgetConfiguration {
         StaticConfiguration(kind: kind, provider: Provider()) { entry in
-            JujobWidgetEntryView(entry: entry)
+            WidgetView(entry: entry, manager: WidgetManager())
         }
-        .configurationDisplayName("My Widget")
-        .description("This is an example widget.")
+        .configurationDisplayName("주접 위젯")
+        .description("매일 매일 나를 사랑해요")
     }
 }
 
