@@ -34,6 +34,7 @@ struct WidgetView: View {
             .multilineTextAlignment(textAlignment)
             .font(.custom(manager.selectedFont, size: manager.textFontSize))
             .foregroundColor(manager.selectedTextColor)
+            .lineSpacing(manager.textLineSpacing ?? 0)
             .minimumScaleFactor(0.2)
             .padding()
         }

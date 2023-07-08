@@ -30,10 +30,10 @@ struct MainContentView: View {
     @State private var actionSheet: PresentationType?
     @State private var guideAlert: GuideAlert?
     private let previewSize = UIScreen.main.bounds.width/1.3
-
+    
     var body: some View {
         ZStack {
-//            Color(#colorLiteral(red: 0.9490196078, green: 0.9490196078, blue: 0.968627451, alpha: 1)).edgesIgnoringSafeArea(.all)
+            //            Color(#colorLiteral(red: 0.9490196078, green: 0.9490196078, blue: 0.968627451, alpha: 1)).edgesIgnoringSafeArea(.all)
             TutorialButton
             VStack(alignment: .center) {
                 HeaderView.padding()
@@ -121,7 +121,7 @@ struct MainContentView: View {
             createSectionHeader(title: "배경색상")
             VStack(spacing: 20) {
                 HStack(spacing: 20) {
-                ColorPicker("그라데이션 색", selection: $primaryColor).onChange(of: primaryColor, perform: { value in
+                    ColorPicker("그라데이션 색", selection: $primaryColor).onChange(of: primaryColor, perform: { value in
                         manager.selectedBackgroundColor = [value, secondaryColor]
                     })
                     ColorPicker("", selection: $secondaryColor).labelsHidden().onChange(of: secondaryColor, perform: { value in
@@ -130,7 +130,7 @@ struct MainContentView: View {
                 }
                 Divider().background(Color.white)
                 HStack {
-                    Text("배경이지미")
+                    Text("배경이미지")
                     Spacer()
                     
                     Button(action: {
@@ -144,11 +144,11 @@ struct MainContentView: View {
                     Button(action: {
                         
                         actionSheet = .photoPicker
-//                        if manager.isPremiumUser {
-//
-//                        } else {
-//                            actionSheet = .purchases
-//                        }
+                        //                        if manager.isPremiumUser {
+                        //
+                        //                        } else {
+                        //                            actionSheet = .purchases
+                        //                        }
                     }, label: {
                         VStack {
                             if !manager.backgroundImageName.isEmpty {
@@ -188,6 +188,14 @@ struct MainContentView: View {
                     })
                 }
                 Divider().background(Color.white)
+                HStack {
+                    Text("행간")
+                    Spacer()
+                        .frame(width: 70)
+                    Slider(value: $manager.selectedTextLineSpacing, in: 0...40)
+                        
+                }
+                Divider().background(Color.white)
                 ColorPicker("글자 색", selection: $manager.selectedTextColor)
                 Divider().background(Color.white)
                 Picker("", selection: $textAlignmentIndex, content: {
@@ -214,16 +222,16 @@ struct MainContentView: View {
         VStack {
             createSectionHeader(title: "설정")
             VStack(spacing: 20) {
-//                HStack {
-//                    Text("카테고리")
-//                    Spacer()
-//                    Button(action: {
-//                        actionSheet = .categoryPicker
-//                    }, label: {
-//                        Text(manager.currentQuoteCategory.rawValue.capitalized).bold()
-//                    })
-//                }
-//                Divider().background(Color.white)
+                //                HStack {
+                //                    Text("카테고리")
+                //                    Spacer()
+                //                    Button(action: {
+                //                        actionSheet = .categoryPicker
+                //                    }, label: {
+                //                        Text(manager.currentQuoteCategory.rawValue.capitalized).bold()
+                //                    })
+                //                }
+                //                Divider().background(Color.white)
                 Toggle("제안한 사람", isOn: $manager.showQuoteAuthor)
                 Divider().background(Color.white)
                 VStack {

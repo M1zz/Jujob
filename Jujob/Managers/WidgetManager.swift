@@ -51,6 +51,7 @@ class WidgetManager: WidgetConfigurator, ObservableObject {
         selectedBackgroundColor = gradientColors
         refreshInterval = RefreshInterval(rawValue: interval) ?? .five
         selectedFont = fontStyle ?? "Arial"
+        selectedTextLineSpacing = textLineSpacing ?? 0
         selectedTextColor = fontColor
         contentAlignment = horizontalAlignment
         showQuoteAuthor = shouldShowQuoteAuthor
@@ -70,6 +71,13 @@ class WidgetManager: WidgetConfigurator, ObservableObject {
     @Published public var selectedBackgroundColor: [Color] = [Color(#colorLiteral(red: 0.9529411793, green: 0.6862745285, blue: 0.1333333403, alpha: 1)), Color(#colorLiteral(red: 0.9529411793, green: 0.5576358299, blue: 0.1333333403, alpha: 1))] {
         didSet {
             gradientColors = selectedBackgroundColor
+        }
+    }
+    
+    /// Selected text color
+    @Published public var selectedTextLineSpacing: Double = 0 {
+        didSet {
+            textLineSpacing = selectedTextLineSpacing
         }
     }
     
