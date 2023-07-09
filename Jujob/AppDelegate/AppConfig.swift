@@ -93,6 +93,16 @@ open class WidgetConfigurator: NSObject {
         }
     }
     
+    public var textLineSpacing: Double? {
+        set {
+            UserDefaults(suiteName: appGroupId())?.setValue(newValue, forKey: "lineSpacing")
+            UserDefaults(suiteName: appGroupId())?.synchronize()
+        }
+        get {
+            return UserDefaults(suiteName: appGroupId())?.double(forKey: "lineSpacing")
+        }
+    }
+    
     /// Returns the font color set by the user
     public var fontColor: Color {
         set {

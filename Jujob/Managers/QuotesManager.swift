@@ -34,7 +34,6 @@ class QuotesManager {
         Quote(text: "너를 음계로 표현하면 레야.. \n도를 지나쳐서 미치기 직전이니까.", category: .happiness, author: "Leeo"),
         Quote(text: "경마장 가면 안 되겠다. \n너무 완벽해서 말이 안 나와.", category: .happiness, author: "Leeo"),
         Quote(text: "너보고 예쁠 때마다 이마를 쳤더니 거북목이 완치됐어.", category: .happiness, author: "Leeo"),
-        
         Quote(text: "제가 주유소만 가면 넣는 기름이 있어요. \n바로 온리유.", category: .happiness, author: "Leeo"),
         Quote(text: "너 때문에 비가 올 것 같아. \n심장마비.", category: .happiness, author: "Leeo"),
         Quote(text: "혹시 종교 있으세요. 뭘 믿고 그렇게 예뻐요?", category: .happiness, author: "Leeo"),
@@ -42,8 +41,15 @@ class QuotesManager {
         Quote(text: "그 짐좀 내려놔요. \n멋짐.", category: .happiness, author: "Leeo"),
         Quote(text: "너한테선 벽이 느껴져. \n완벽.", category: .happiness, author: "Leeo"),
         Quote(text: "비주얼 솔직히 거품 아닌가요? \n언빌리버블.", category: .happiness, author: "Leeo"),
-        Quote(text: "너는 영어를 못하는구나. \n하지만 영문 없이도 귀엽다.", category: .happiness, author: "Leeo")
+        Quote(text: "너는 영어를 못하는구나. \n하지만 영문 없이도 귀엽다.", category: .happiness, author: "Leeo"),
         
+        Quote(text: "너 혼혈이라면서? \n한국과 천국.", category: .happiness, author: "Leeo"),
+        Quote(text: "그거 아세요? \n이목구비가 제 미래보다 뚜렷해요.", category: .happiness, author: "Leeo"),
+        Quote(text: "너는 베를린이야. \n내 마음에 치명적인 독일수도.", category: .happiness, author: "Leeo"),
+        Quote(text: "너는 C급이야. \n문화재 제정 시급.", category: .happiness, author: "Leeo"),
+        Quote(text: "너 잘 때 셋이서 잔다면서? \n칭찬과 명성이 자자해서...", category: .happiness, author: "Leeo"),
+        Quote(text: "왜 일하고 있어요? \n이미 미모가 열일하는데.", category: .happiness, author: "Leeo"),
         
+        Quote(text: "날 그만 좋아해 \"뭐?\" \n날 그만 좋아하라고 \n\"그거 어떻게 하는건데.\"", category: .happiness, author: "Musk"),
     ]
 }
