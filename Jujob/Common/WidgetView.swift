@@ -23,13 +23,18 @@ struct WidgetView: View {
                 }
             }
             VStack(alignment: manager.contentAlignment) {
-                Image("quote_image").resizable().aspectRatio(contentMode: .fit).frame(height: 15)
+                Spacer()
+
                 Text(entry.quote?.text ?? manager.currentQuote.text)
+
                 if manager.showQuoteAuthor {
+                    Spacer().frame(height: 10)
                     Divider()
                     Text("— \(entry.quote?.author ?? manager.currentQuote.author)")
                         .font(.custom(manager.selectedFont, size: manager.textFontSize / 1.5))
                 }
+
+                Spacer()
             }
             .multilineTextAlignment(textAlignment)
             .font(.custom(manager.selectedFont, size: manager.textFontSize))

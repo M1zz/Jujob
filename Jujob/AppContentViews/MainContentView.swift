@@ -40,14 +40,20 @@ struct MainContentView: View {
         ZStack {
             //            Color(#colorLiteral(red: 0.9490196078, green: 0.9490196078, blue: 0.968627451, alpha: 1)).edgesIgnoringSafeArea(.all)
             TutorialButton
-            VStack(alignment: .center) {
-                HeaderView.padding()
-                ScrollView {
-                    LazyHStack {
-                        WidgetSizePreview(manager: manager)
-                    }
-                }
-                EditingToolsView.padding(.top, 10)
+            VStack(alignment: .center, spacing: 0) {
+                HeaderView
+                    .padding(.horizontal)
+                    .padding(.top)
+
+                Spacer()
+
+                // 프리뷰를 가운데 배치
+                WidgetSizePreview(manager: manager)
+                    .frame(height: UIScreen.main.bounds.height * 0.3)
+
+                Spacer()
+
+                EditingToolsView
             }
         }
         .sheet(item: $actionSheet, content: { item in
@@ -90,9 +96,9 @@ struct MainContentView: View {
                 Button(action: {
                     actionSheet = .tutorial
                 }, label: {
-                    Image(systemName: "questionmark.square.dashed").resizable()
-                        .aspectRatio(contentMode: .fit)
-                        .frame(width: 25, height: 25)
+                    Image(systemName: "info.circle")
+                        .font(.system(size: 22))
+                        .foregroundColor(.gray)
                 })
             }
             .padding()
@@ -202,6 +208,14 @@ struct MainContentView: View {
                 ) {
                     actionSheet = .userNameSetting
                 }
+
+                FeatureButton(
+                    icon: "arrow.right.circle.fill",
+                    title: "다음 주접",
+                    color: .cyan
+                ) {
+                    manager.loadNextQuote()
+                }
             }
             .padding()
             .background(RoundedRectangle(cornerRadius: 15).foregroundColor(Color(#colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1))))
@@ -242,12 +256,12 @@ struct MainContentView: View {
 
             VStack(spacing: 20) {
                 HStack(spacing: 20) {
-                    ColorPicker("그라데이션 색", selection: $primaryColor).onChange(of: primaryColor, perform: { value in
-                        manager.selectedBackgroundColor = [value, secondaryColor]
-                    })
-                    ColorPicker("", selection: $secondaryColor).labelsHidden().onChange(of: secondaryColor, perform: { value in
-                        manager.selectedBackgroundColor = [primaryColor, value]
-                    })
+                    ColorPicker("그라데이션 색", selection: $primaryColor).onChange(of: primaryColor) {  _, newValue in
+                        manager.selectedBackgroundColor = [newValue, secondaryColor]
+                    }
+                    ColorPicker("", selection: $secondaryColor).labelsHidden().onChange(of: secondaryColor) { _, newValue in
+                        manager.selectedBackgroundColor = [primaryColor, newValue]
+                    }
                 }
                 Divider().background(Color.white)
                 HStack {
@@ -326,17 +340,7 @@ struct MainContentView: View {
                 Divider().background(Color.white)
                 ColorPicker("글자 색", selection: $manager.selectedTextColor)
                 Divider().background(Color.white)
-                Picker("", selection: $textAlignmentIndex, content: {
-                    ForEach(0..<TextAlignment.allCases.count, content: { index in
-                        Text(index == 1 ? "중앙" : index == 0 ? "왼쪽" : "오른쪽")
-                    })
-                })
-                .onChange(of: textAlignmentIndex, perform: { value in
-                    manager.contentAlignment = value == 0 ? .leading : value == 1 ? .center : .trailing
-                })
-                .background(RoundedRectangle(cornerRadius: 8).foregroundColor(Color(#colorLiteral(red: 0.6965066386, green: 0.6965066386, blue: 0.6965066386, alpha: 1))))
-                .pickerStyle(SegmentedPickerStyle())
-                .labelsHidden()
+                TextAlignmentPicker(selection: $textAlignmentIndex, manager: manager)
             }
             .padding()
             .background(RoundedRectangle(cornerRadius: 15).foregroundColor(Color(#colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1))))
@@ -378,22 +382,13 @@ struct MainContentView: View {
                             Text(RefreshInterval.allCases[index].rawValue)
                         })
                     })
-                    .onChange(of: textAlignmentIndex, perform: { value in
-                        manager.contentAlignment = value == 0 ? .leading : value == 1 ? .center : .trailing
-                    })
+                    .onChange(of: refreshIntervalIndex) { _, newValue in
+                        manager.refreshInterval = RefreshInterval.allCases[newValue]
+                    }
                     .background(RoundedRectangle(cornerRadius: 8).foregroundColor(Color(#colorLiteral(red: 0.6965066386, green: 0.6965066386, blue: 0.6965066386, alpha: 1))))
                     .pickerStyle(SegmentedPickerStyle())
                     .labelsHidden()
                 }
-                Divider().background(Color.white)
-                Button(action: {
-                    manager.loadNextQuote()
-                }, label: {
-                    ZStack {
-                        RoundedRectangle(cornerRadius: 10).foregroundColor(.blue)
-                        Text("다음 주접보기").bold().padding()
-                    }
-                })
             }
             .padding()
             .background(RoundedRectangle(cornerRadius: 15).foregroundColor(Color(#colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1))))
@@ -436,6 +431,30 @@ struct FeatureButton: View {
                 RoundedRectangle(cornerRadius: 12)
                     .fill(Color(#colorLiteral(red: 0.1764705926, green: 0.1921568662, blue: 0.2078431398, alpha: 1)))
             )
+        }
+    }
+}
+
+// MARK: - Text Alignment Picker Component
+struct TextAlignmentPicker: View {
+    @Binding var selection: Int
+    @ObservedObject var manager: WidgetManager
+
+    private let bgColor = Color(#colorLiteral(red: 0.6965066386, green: 0.6965066386, blue: 0.6965066386, alpha: 1))
+
+    var body: some View {
+        VStack {
+            Picker("", selection: $selection) {
+                Text("왼쪽").tag(0)
+                Text("중앙").tag(1)
+                Text("오른쪽").tag(2)
+            }
+            .pickerStyle(SegmentedPickerStyle())
+            .labelsHidden()
+            .background(RoundedRectangle(cornerRadius: 8).foregroundColor(bgColor))
+            .onChange(of: selection, perform: { value in
+                manager.contentAlignment = value == 0 ? .leading : value == 1 ? .center : .trailing
+            })
         }
     }
 }

@@ -18,10 +18,10 @@ struct WidgetSizePreview: View {
             WidgetPreview(scale: CGSize(width: 1.0, height: 1.8))
             WidgetPreview(scale: CGSize(width: 1.2, height: 1.2))
         }
-        .frame(width: UIScreen.main.bounds.width, height: previewSize/1.2)
+        .frame(width: UIScreen.main.bounds.width)
         .tabViewStyle(PageTabViewStyle(indexDisplayMode: .never))
     }
-    
+
     private func WidgetPreview(scale: CGSize) -> some View {
         WidgetView(entry: QuoteEntry(date: Date(), quote: nil), manager: manager)
             .cornerRadius(30).padding(20)

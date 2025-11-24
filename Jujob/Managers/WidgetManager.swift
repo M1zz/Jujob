@@ -162,7 +162,6 @@ class WidgetManager: WidgetConfigurator, ObservableObject {
     // MARK: - Load next quote for a given category
     func loadNextQuote() {
         let categoryQuotes = QuotesManager.quotes//.filter({ $0.category == currentQuoteCategory })
-        let currentIndex = categoryQuotes.firstIndex(where: { $0.text == currentQuote.text })!
         if categoryQuotes.count > 0 {
             currentQuote = categoryQuotes.randomElement() ?? Quote(text: "완벽하지만 구멍 하나 있네요. \n황홀(hole).", category: .random, author: "Leeo")
 //            if currentIndex + 1 < categoryQuotes.count {
