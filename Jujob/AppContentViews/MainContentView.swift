@@ -14,6 +14,11 @@ enum PresentationType: Identifiable {
     case categoryPicker
     case tutorial
     case purchases
+    case moodSelection
+    case favorites
+    case history
+    case achievements
+    case userNameSetting
     var id: Int { hashValue }
 }
 
@@ -57,6 +62,16 @@ struct MainContentView: View {
                 CategoriesListView(manager: manager)
             case .purchases:
                 Text("premium")
+            case .moodSelection:
+                MoodSelectionView(manager: manager)
+            case .favorites:
+                FavoritesView(widgetManager: manager)
+            case .history:
+                HistoryView(widgetManager: manager)
+            case .achievements:
+                AchievementsView()
+            case .userNameSetting:
+                UserNameSettingView()
             }
         })
         .onAppear {
@@ -101,6 +116,7 @@ struct MainContentView: View {
         ScrollView(showsIndicators: false) {
             VStack {
                 Spacer(minLength: 30)
+                NewFeatures
                 BackgroundGradient
                 FontStyle
                 QuoteSettings
@@ -111,6 +127,57 @@ struct MainContentView: View {
         .foregroundColor(.white)
         .background(RoundedCorner(radius: 35, corners: [.topLeft, .topRight]).foregroundColor(Color(#colorLiteral(red: 0.1350388601, green: 0.1350388601, blue: 0.1350388601, alpha: 1))))
         .edgesIgnoringSafeArea(.bottom)
+    }
+
+    // MARK: - New Features Section
+    private var NewFeatures: some View {
+        VStack {
+            createSectionHeader(title: "새로운 기능")
+
+            LazyVGrid(columns: [GridItem(.flexible()), GridItem(.flexible())], spacing: 12) {
+                FeatureButton(
+                    icon: "face.smiling",
+                    title: "기분 선택",
+                    color: .blue
+                ) {
+                    actionSheet = .moodSelection
+                }
+
+                FeatureButton(
+                    icon: "star.fill",
+                    title: "즐겨찾기",
+                    color: .yellow
+                ) {
+                    actionSheet = .favorites
+                }
+
+                FeatureButton(
+                    icon: "clock.fill",
+                    title: "히스토리",
+                    color: .green
+                ) {
+                    actionSheet = .history
+                }
+
+                FeatureButton(
+                    icon: "trophy.fill",
+                    title: "나의 기록",
+                    color: .orange
+                ) {
+                    actionSheet = .achievements
+                }
+
+                FeatureButton(
+                    icon: "person.circle",
+                    title: "이름 설정",
+                    color: .purple
+                ) {
+                    actionSheet = .userNameSetting
+                }
+            }
+            .padding()
+            .background(RoundedRectangle(cornerRadius: 15).foregroundColor(Color(#colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1))))
+        }
     }
     
     // MARK: - Background Gradient and Image
@@ -268,6 +335,34 @@ extension MainContentView {
             Spacer()
         }
         .foregroundColor(Color(#colorLiteral(red: 0.9488552213, green: 0.9487094283, blue: 0.9693081975, alpha: 1)))
+    }
+}
+
+// MARK: - Feature Button Component
+struct FeatureButton: View {
+    let icon: String
+    let title: String
+    let color: Color
+    let action: () -> Void
+
+    var body: some View {
+        Button(action: action) {
+            VStack(spacing: 8) {
+                Image(systemName: icon)
+                    .font(.system(size: 24))
+                    .foregroundColor(color)
+
+                Text(title)
+                    .font(.system(size: 13, weight: .medium))
+                    .foregroundColor(.white)
+            }
+            .frame(maxWidth: .infinity)
+            .frame(height: 80)
+            .background(
+                RoundedRectangle(cornerRadius: 12)
+                    .fill(Color(#colorLiteral(red: 0.1764705926, green: 0.1921568662, blue: 0.2078431398, alpha: 1)))
+            )
+        }
     }
 }
 

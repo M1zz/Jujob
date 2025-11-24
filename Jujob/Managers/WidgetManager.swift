@@ -31,7 +31,10 @@ enum RefreshInterval: String, CaseIterable, Identifiable {
 
 // MARK: - Main manager to handle data for app and widget
 class WidgetManager: WidgetConfigurator, ObservableObject {
-    
+
+    /// User preferences manager instance
+    private let preferencesManager = UserPreferencesManager.shared
+
     /// Default initializer will retrieve all configurations
     override init() {
         super.init()
@@ -153,13 +156,21 @@ class WidgetManager: WidgetConfigurator, ObservableObject {
         let categoryQuotes = QuotesManager.quotes//.filter({ $0.category == currentQuoteCategory })
         let currentIndex = categoryQuotes.firstIndex(where: { $0.text == currentQuote.text })!
         if categoryQuotes.count > 0 {
-            currentQuote = categoryQuotes.randomElement() ?? Quote(text: "완벽하지만 구멍 하나 있네요. \n황홀(hole).", category: .happiness, author: "Leeo")
+            currentQuote = categoryQuotes.randomElement() ?? Quote(text: "완벽하지만 구멍 하나 있네요. \n황홀(hole).", category: .random, author: "Leeo")
 //            if currentIndex + 1 < categoryQuotes.count {
 //                currentQuote = categoryQuotes[currentIndex + 1]
 //            } else {
 //                currentQuote = categoryQuotes[0]
 //            }
+
+            // 히스토리에 추가 및 스트릭 업데이트
+            preferencesManager.addToHistory(quote: currentQuote)
         }
+    }
+
+    /// Get customized quote text with user's name
+    func getCustomizedQuoteText() -> String {
+        return preferencesManager.customizeQuote(currentQuote.text)
     }
     
     // MARK: - Update current quote based on category changes
