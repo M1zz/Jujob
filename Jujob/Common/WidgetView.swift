@@ -12,37 +12,49 @@ import WidgetKit
 struct WidgetView: View {
     var entry: Provider.Entry
     @ObservedObject var manager: WidgetManager
-    
+    var isPreview: Bool = false // 앱 내 프리뷰용 플래그
+
     var body: some View {
-        ZStack {
-            LinearGradient(gradient: Gradient(colors: manager.selectedBackgroundColor), startPoint: .top, endPoint: .bottom)
-            if !manager.backgroundImageName.isEmpty {
-                GeometryReader { _ in
-                    Image(uiImage: UIImage(named: manager.backgroundImageName)!)
-                        .resizable().aspectRatio(contentMode: .fill)
+        if #available(iOS 17.0, *), !isPreview {
+            // iOS 17+: 실제 위젯에서는 배경을 containerBackground로 처리
+            contentView
+        } else {
+            // iOS 16 이하 또는 앱 내 프리뷰: 기존 방식
+            ZStack {
+                LinearGradient(gradient: Gradient(colors: manager.selectedBackgroundColor), startPoint: .top, endPoint: .bottom)
+                if !manager.backgroundImageName.isEmpty {
+                    GeometryReader { _ in
+                        Image(uiImage: UIImage(named: manager.backgroundImageName)!)
+                            .resizable().aspectRatio(contentMode: .fill)
+                    }
                 }
+                contentView
             }
-            VStack(alignment: manager.contentAlignment) {
-                Spacer()
-
-                Text(entry.quote?.text ?? manager.currentQuote.text)
-
-                if manager.showQuoteAuthor {
-                    Spacer().frame(height: 10)
-                    Divider()
-                    Text("— \(entry.quote?.author ?? manager.currentQuote.author)")
-                        .font(.custom(manager.selectedFont, size: manager.textFontSize / 1.5))
-                }
-
-                Spacer()
-            }
-            .multilineTextAlignment(textAlignment)
-            .font(.custom(manager.selectedFont, size: manager.textFontSize))
-            .foregroundColor(manager.selectedTextColor)
-            .lineSpacing(manager.textLineSpacing ?? 0)
-            .minimumScaleFactor(0.2)
-            .padding()
         }
+    }
+
+    /// 위젯의 텍스트 콘텐츠
+    private var contentView: some View {
+        VStack(alignment: manager.contentAlignment) {
+            Spacer()
+
+            Text(entry.quote?.text ?? manager.currentQuote.text)
+
+            if manager.showQuoteAuthor {
+                Spacer().frame(height: 10)
+                Divider()
+                Text("— \(entry.quote?.author ?? manager.currentQuote.author)")
+                    .font(.custom(manager.selectedFont, size: manager.textFontSize / 1.5))
+            }
+
+            Spacer()
+        }
+        .multilineTextAlignment(textAlignment)
+        .font(.custom(manager.selectedFont, size: manager.textFontSize))
+        .foregroundColor(manager.selectedTextColor)
+        .lineSpacing(manager.textLineSpacing ?? 0)
+        .minimumScaleFactor(0.2)
+        .padding()
     }
     
     /// Returns the text alignment based on the overall content alignment
@@ -72,8 +84,25 @@ struct RoundedCorner: Shape {
 // MARK: - Render preview UI
 struct WidgetView_Previews: PreviewProvider {
     static var previews: some View {
-        WidgetView(entry: QuoteEntry(date: Date(), quote: nil), manager: WidgetManager())
-            .previewContext(WidgetPreviewContext(family: .systemSmall))
+        if #available(iOS 17.0, *) {
+            WidgetView(entry: QuoteEntry(date: Date(), quote: nil), manager: WidgetManager())
+                .containerBackground(for: .widget) {
+                    let manager = WidgetManager()
+                    ZStack {
+                        LinearGradient(gradient: Gradient(colors: manager.selectedBackgroundColor), startPoint: .top, endPoint: .bottom)
+                        if !manager.backgroundImageName.isEmpty {
+                            GeometryReader { _ in
+                                Image(uiImage: UIImage(named: manager.backgroundImageName)!)
+                                    .resizable().aspectRatio(contentMode: .fill)
+                            }
+                        }
+                    }
+                }
+                .previewContext(WidgetPreviewContext(family: .systemSmall))
+        } else {
+            WidgetView(entry: QuoteEntry(date: Date(), quote: nil), manager: WidgetManager())
+                .previewContext(WidgetPreviewContext(family: .systemSmall))
+        }
     }
 }
 

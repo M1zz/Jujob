@@ -23,7 +23,7 @@ struct WidgetSizePreview: View {
     }
 
     private func WidgetPreview(scale: CGSize) -> some View {
-        WidgetView(entry: QuoteEntry(date: Date(), quote: nil), manager: manager)
+        WidgetView(entry: QuoteEntry(date: Date(), quote: nil), manager: manager, isPreview: true)
             .cornerRadius(30).padding(20)
             .frame(width: previewSize/scale.width, height: previewSize/scale.height)
             .contentShape(Rectangle()).shadow(radius: 10)
