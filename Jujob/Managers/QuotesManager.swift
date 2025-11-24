@@ -16,17 +16,32 @@ struct Quote {
 
 /// This is the list of categories for quotes
 enum QuoteCategory: String, CaseIterable, Identifiable {
-    case wisdom
-    case life
-    case love
-    case friendship
-    case happiness
+    case morning = "아침"
+    case evening = "저녁"
+    case feelingDown = "기분다운"
+    case tough = "힘들때"
+    case beforeWork = "일시작전"
+    case beforeExercise = "운동전"
+    case commute = "출근길"
+    case afterWork = "퇴근길"
+    case beforeExam = "시험전"
+    case beforeInterview = "면접전"
+    case beforeDate = "데이트전"
+    case motivation = "동기부여"
+    case confidence = "자신감"
+    case healing = "힐링"
+    case random = "랜덤"
+
     var id: Int { hashValue }
+
+    var displayName: String {
+        return self.rawValue
+    }
 }
 
 /// This is the main quotes manager where you will write your own quotes
 class QuotesManager {
-    
+
     static let quotes: [Quote] = [
         Quote(text: "완벽하지만 구멍 하나 있네요. \n황홀(hole).", category: .happiness, author: "Leeo"),
         Quote(text: "엠비티아이 검사결과 큐트라며?", category: .happiness, author: "Leeo"),

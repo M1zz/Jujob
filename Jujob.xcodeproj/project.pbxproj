@@ -9,6 +9,13 @@
 /* Begin PBXBuildFile section */
 		581A09922A53227A004F2DBA /* JujobApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09912A53227A004F2DBA /* JujobApp.swift */; };
 		581A09962A53227B004F2DBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 581A09952A53227B004F2DBA /* Assets.xcassets */; };
+		581A0A002B6F3400004F2DBA /* UserPreferencesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09FF2B6F3400004F2DBA /* UserPreferencesManager.swift */; };
+		581A0A022B6F3401004F2DBA /* MoodSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A0A012B6F3401004F2DBA /* MoodSelectionView.swift */; };
+		581A0A042B6F3402004F2DBA /* FavoritesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A0A032B6F3402004F2DBA /* FavoritesView.swift */; };
+		581A0A062B6F3403004F2DBA /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A0A052B6F3403004F2DBA /* HistoryView.swift */; };
+		581A0A082B6F3404004F2DBA /* AchievementsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A0A072B6F3404004F2DBA /* AchievementsView.swift */; };
+		581A0A0A2B6F3405004F2DBA /* UserNameSettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A0A092B6F3405004F2DBA /* UserNameSettingView.swift */; };
+		581A0A0B2B6F3406004F2DBA /* UserPreferencesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09FF2B6F3400004F2DBA /* UserPreferencesManager.swift */; };
 		581A09992A53227B004F2DBA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 581A09982A53227B004F2DBA /* Preview Assets.xcassets */; };
 		581A09A72A5322EB004F2DBA /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 581A09A62A5322EB004F2DBA /* WidgetKit.framework */; };
 		581A09A92A5322EB004F2DBA /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 581A09A82A5322EB004F2DBA /* SwiftUI.framework */; };
@@ -62,6 +69,12 @@
 /* Begin PBXFileReference section */
 		581A098E2A53227A004F2DBA /* Jujob.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Jujob.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		581A09912A53227A004F2DBA /* JujobApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JujobApp.swift; sourceTree = "<group>"; };
+		581A09FF2B6F3400004F2DBA /* UserPreferencesManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserPreferencesManager.swift; sourceTree = "<group>"; };
+		581A0A012B6F3401004F2DBA /* MoodSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoodSelectionView.swift; sourceTree = "<group>"; };
+		581A0A032B6F3402004F2DBA /* FavoritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
+		581A0A052B6F3403004F2DBA /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
+		581A0A072B6F3404004F2DBA /* AchievementsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementsView.swift; sourceTree = "<group>"; };
+		581A0A092B6F3405004F2DBA /* UserNameSettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserNameSettingView.swift; sourceTree = "<group>"; };
 		581A09952A53227B004F2DBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		581A09982A53227B004F2DBA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		581A099F2A532289004F2DBA /* Jujob.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Jujob.entitlements; sourceTree = "<group>"; };
@@ -174,6 +187,7 @@
 			children = (
 				581A09BB2A53238E004F2DBA /* QuotesManager.swift */,
 				581A09BC2A53238E004F2DBA /* WidgetManager.swift */,
+				581A09FF2B6F3400004F2DBA /* UserPreferencesManager.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -206,6 +220,11 @@
 				581A09D02A532760004F2DBA /* PKDarkThemeView.swift */,
 				581A09D12A532760004F2DBA /* TutorialContentView.swift */,
 				581A09CC2A532760004F2DBA /* WidgetSizePreview.swift */,
+				581A0A012B6F3401004F2DBA /* MoodSelectionView.swift */,
+				581A0A032B6F3402004F2DBA /* FavoritesView.swift */,
+				581A0A052B6F3403004F2DBA /* HistoryView.swift */,
+				581A0A072B6F3404004F2DBA /* AchievementsView.swift */,
+				581A0A092B6F3405004F2DBA /* UserNameSettingView.swift */,
 			);
 			path = AppContentViews;
 			sourceTree = "<group>";
@@ -325,6 +344,12 @@
 				581A09C32A532731004F2DBA /* WidgetView.swift in Sources */,
 				581A09D82A532760004F2DBA /* TutorialContentView.swift in Sources */,
 				581A09D92A532760004F2DBA /* MainContentView.swift in Sources */,
+				581A0A002B6F3400004F2DBA /* UserPreferencesManager.swift in Sources */,
+				581A0A022B6F3401004F2DBA /* MoodSelectionView.swift in Sources */,
+				581A0A042B6F3402004F2DBA /* FavoritesView.swift in Sources */,
+				581A0A062B6F3403004F2DBA /* HistoryView.swift in Sources */,
+				581A0A082B6F3404004F2DBA /* AchievementsView.swift in Sources */,
+				581A0A0A2B6F3405004F2DBA /* UserNameSettingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -338,6 +363,7 @@
 				581A09DC2A53282D004F2DBA /* AppConfig.swift in Sources */,
 				581A09AE2A5322EB004F2DBA /* JujobWidget.swift in Sources */,
 				581A09AC2A5322EB004F2DBA /* JujobWidgetBundle.swift in Sources */,
+				581A0A0B2B6F3406004F2DBA /* UserPreferencesManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -480,11 +506,13 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "오늘의 주접";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -515,11 +543,13 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "오늘의 주접";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
