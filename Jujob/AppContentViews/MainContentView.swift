@@ -117,9 +117,8 @@ struct MainContentView: View {
             VStack {
                 Spacer(minLength: 30)
                 NewFeatures
-                BackgroundGradient
-                FontStyle
-                QuoteSettings
+                Spacer(minLength: 40)
+                DetailedSettings
                 Spacer(minLength: 50)
             }
         }
@@ -132,7 +131,36 @@ struct MainContentView: View {
     // MARK: - New Features Section
     private var NewFeatures: some View {
         VStack {
-            createSectionHeader(title: "새로운 기능")
+            // 헤더 + 카테고리 배지
+            HStack {
+                Text("내 주접 관리".uppercased())
+                    .font(.system(size: 15))
+                    .fontWeight(.bold)
+                    .padding(.leading, 15)
+                    .foregroundColor(Color(#colorLiteral(red: 0.9488552213, green: 0.9487094283, blue: 0.9693081975, alpha: 1)))
+
+                Spacer()
+
+                // 카테고리 배지
+                HStack(spacing: 6) {
+                    Text(manager.currentQuoteCategory.emoji)
+                        .font(.system(size: 14))
+                    Text(manager.currentQuoteCategory.displayName)
+                        .font(.system(size: 12, weight: .semibold))
+                        .foregroundColor(.white)
+                }
+                .padding(.horizontal, 12)
+                .padding(.vertical, 6)
+                .background(
+                    Capsule()
+                        .fill(Color.white.opacity(0.15))
+                )
+                .overlay(
+                    Capsule()
+                        .stroke(Color.white.opacity(0.3), lineWidth: 1)
+                )
+                .padding(.trailing, 15)
+            }
 
             LazyVGrid(columns: [GridItem(.flexible()), GridItem(.flexible())], spacing: 12) {
                 FeatureButton(
@@ -179,13 +207,39 @@ struct MainContentView: View {
             .background(RoundedRectangle(cornerRadius: 15).foregroundColor(Color(#colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1))))
         }
     }
-    
+
+    // MARK: - Detailed Settings Section
+    private var DetailedSettings: some View {
+        VStack(spacing: 30) {
+            VStack {
+                createSectionHeader(title: "상세 설정")
+                Text("위젯 모양과 글꼴을 세밀하게 조정하세요")
+                    .font(.system(size: 13))
+                    .foregroundColor(.gray)
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                    .padding(.leading, 15)
+                    .padding(.top, 2)
+            }
+
+            BackgroundGradient
+            FontStyle
+            QuoteSettings
+        }
+    }
+
     // MARK: - Background Gradient and Image
     @State private var primaryColor: Color = Color(#colorLiteral(red: 0.9529411793, green: 0.6862745285, blue: 0.1333333403, alpha: 1))
     @State private var secondaryColor: Color = Color(#colorLiteral(red: 0.9529411793, green: 0.5576358299, blue: 0.1333333403, alpha: 1))
     private var BackgroundGradient: some View {
         VStack {
-            createSectionHeader(title: "배경색상")
+            HStack {
+                Text("배경 설정")
+                    .font(.system(size: 16, weight: .semibold))
+                    .foregroundColor(.white)
+                Spacer()
+            }
+            .padding(.bottom, 10)
+
             VStack(spacing: 20) {
                 HStack(spacing: 20) {
                     ColorPicker("그라데이션 색", selection: $primaryColor).onChange(of: primaryColor, perform: { value in
@@ -238,12 +292,19 @@ struct MainContentView: View {
             .background(RoundedRectangle(cornerRadius: 15).foregroundColor(Color(#colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1))))
         }
     }
-    
+
     // MARK: - Font Style, Text Color and Text Alignment
     @State private var textAlignmentIndex: Int = 1
     private var FontStyle: some View {
         VStack {
-            createSectionHeader(title: "폰트 스타일")
+            HStack {
+                Text("폰트 설정")
+                    .font(.system(size: 16, weight: .semibold))
+                    .foregroundColor(.white)
+                Spacer()
+            }
+            .padding(.bottom, 10)
+
             VStack(spacing: 20) {
                 HStack {
                     Text("폰트")
@@ -280,14 +341,20 @@ struct MainContentView: View {
             .padding()
             .background(RoundedRectangle(cornerRadius: 15).foregroundColor(Color(#colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1))))
         }
-        .padding(.top, 30)
     }
-    
+
     // MARK: - Show Author, Change quote category and other settings
     @State private var refreshIntervalIndex: Int = 0
     private var QuoteSettings: some View {
         VStack {
-            createSectionHeader(title: "설정")
+            HStack {
+                Text("위젯 설정")
+                    .font(.system(size: 16, weight: .semibold))
+                    .foregroundColor(.white)
+                Spacer()
+            }
+            .padding(.bottom, 10)
+
             VStack(spacing: 20) {
                 //                HStack {
                 //                    Text("카테고리")
@@ -331,7 +398,6 @@ struct MainContentView: View {
             .padding()
             .background(RoundedRectangle(cornerRadius: 15).foregroundColor(Color(#colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1))))
         }
-        .padding(.top, 30)
     }
 }
 
