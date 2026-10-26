@@ -101,6 +101,12 @@
             "state" : "translated",
             "value" : "%lld ημέρες"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld pv"
+          }
         }
       }
     },
@@ -200,6 +206,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Έζησες και τα 100 παινέματα·\nπλέον κατέχεις την τέχνη!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olet nähnyt kaikki 100 kehua.\nNyt olet oikea mestari!"
           }
         }
       }
@@ -301,6 +313,12 @@
             "state" : "translated",
             "value" : "100 ημέρες στη σειρά με παινέματα!"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kehut luettu 100 päivää putkeen!"
+          }
         }
       }
     },
@@ -400,6 +418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Θαύμα 100 ημερών! Η επιμονή σου\nάλλαξε τον κόσμο!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 päivän ihme! Sinnikkyytesi\nmuutti maailmaa!"
           }
         }
       }
@@ -501,6 +525,12 @@
             "state" : "translated",
             "value" : "Ένα απίστευτο ταξίδι 100 ημερών μαζί,\nκαι εσύ είσαι σπουδαίος άνθρωπος!"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 päivän huikea matka yhdessä.\nSinä olet aivan mahtava!"
+          }
         }
       }
     },
@@ -600,6 +630,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 λεπτά"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 min"
           }
         }
       }
@@ -701,6 +737,12 @@
             "state" : "translated",
             "value" : "30 λεπτά"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 min"
+          }
         }
       }
     },
@@ -800,6 +842,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "30 ημέρες στη σειρά με παινέματα!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kehut luettu 30 päivää putkeen!"
           }
         }
       }
@@ -901,6 +949,12 @@
             "state" : "translated",
             "value" : "Τόσες ημέρες χωρίς διακοπή·\nεσύ είσαι κορυφή!"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 päivää ahkerasti mukana.\nSinä olet paras!"
+          }
         }
       }
     },
@@ -1000,6 +1054,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Είδες και τα 50 παινέματα·\nεσύ έχεις αληθινό πάθος!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jo 50 kehua luettu.\nSinulla on todella intoa!"
           }
         }
       }
@@ -1101,6 +1161,12 @@
             "state" : "translated",
             "value" : "5 λεπτά"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 min"
+          }
         }
       }
     },
@@ -1201,6 +1267,12 @@
             "state" : "translated",
             "value" : "7 ημέρες στη σειρά με παινέματα!"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kehut luettu 7 päivää putkeen!"
+          }
         }
       }
     },
@@ -1300,6 +1372,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Μια εβδομάδα μαζί·\nνα συνεχίσουμε έτσι!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seitsemän päivää yhdessä.\nJatketaan samaan malliin!"
           }
         }
       }
@@ -1407,6 +1485,12 @@
             "state" : "translated",
             "value" : "Επαναφορά αγορών"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Palauta ostokset"
+          }
         }
       }
     },
@@ -1512,6 +1596,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Επιλογή κατηγορίας"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valitse luokka"
           }
         }
       }
@@ -1619,6 +1709,12 @@
             "state" : "translated",
             "value" : "Επιλογή γραμματοσειράς"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valitse fontti"
+          }
         }
       }
     },
@@ -1724,6 +1820,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Οδηγός"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ohjeet"
           }
         }
       }
@@ -1831,6 +1933,12 @@
             "state" : "translated",
             "value" : "Ανώνυμος"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nimetön"
+          }
         }
       }
     },
@@ -1933,6 +2041,12 @@
           }
         },
         "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
+          }
+        },
+        "fi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Premium"
@@ -2040,6 +2154,12 @@
             "state" : "translated",
             "value" : "Επικοινωνία με τον δημιουργό"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ota yhteyttä kehittäjään"
+          }
         }
       }
     },
@@ -2139,6 +2259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Χρώμα διαβάθμισης"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liukuvärit"
           }
         }
       }
@@ -2240,6 +2366,12 @@
             "state" : "translated",
             "value" : "Χρώμα κειμένου"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tekstin väri"
+          }
         }
       }
     },
@@ -2339,6 +2471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Επιλογή διάθεσης"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valitse fiilis"
           }
         }
       }
@@ -2440,6 +2578,12 @@
             "state" : "translated",
             "value" : "Κακή διάθεση"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matalalla"
+          }
         }
       }
     },
@@ -2539,6 +2683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Θα διαλέξω το παίνεμα\nπου ταιριάζει στη διάθεσή σου!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valitsen fiiliksen tai tilanteen\nmukaisen kehun puolestasi!"
           }
         }
       }
@@ -2640,6 +2790,12 @@
             "state" : "translated",
             "value" : "Τα στατιστικά μου"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omat tilastot"
+          }
         }
       }
     },
@@ -2740,6 +2896,12 @@
             "state" : "translated",
             "value" : "Τα παινέματά μου"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omat kehut"
+          }
         }
       }
     },
@@ -2839,6 +3001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Επόμενο παίνεμα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seuraava kehu"
           }
         }
       }
@@ -2941,6 +3109,12 @@
             "state" : "translated",
             "value" : "εσύ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "sinä"
+          }
         }
       }
     },
@@ -3040,6 +3214,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Αξίζεις πολλά·\nεσύ είσαι ξεχωριστός άνθρωπος!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sinä olet täysin\narvokas ihminen!"
           }
         }
       }
@@ -3141,6 +3321,12 @@
             "state" : "translated",
             "value" : "Πριν το ραντεβού"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ennen treffejä"
+          }
         }
       }
     },
@@ -3240,6 +3426,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Κίνητρο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motivaatio"
           }
         }
       }
@@ -3341,6 +3533,12 @@
             "state" : "translated",
             "value" : "Τυχαίο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Satunnainen"
+          }
         }
       }
     },
@@ -3440,6 +3638,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Πάτα το αστέρι και κράτα\nτα παινέματα που αγαπάς!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tallenna lempikehusi\ntähtipainikkeella!"
           }
         }
       }
@@ -3541,6 +3745,12 @@
             "state" : "translated",
             "value" : "Αγαπώ τον εαυτό μου κάθε μέρα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rakasta itseäsi joka päivä"
+          }
         }
       }
     },
@@ -3640,6 +3850,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Πριν τη συνέντευξη"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ennen haastattelua"
           }
         }
       }
@@ -3741,6 +3957,12 @@
             "state" : "translated",
             "value" : "Προεπισκόπηση"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esikatselu"
+          }
         }
       }
     },
@@ -3840,6 +4062,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ρυθμίσεις φόντου"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taustan asetukset"
           }
         }
       }
@@ -3941,6 +4169,12 @@
             "state" : "translated",
             "value" : "Εικόνα φόντου"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taustakuva"
+          }
         }
       }
     },
@@ -4040,6 +4274,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 ημέρες!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 päivää täynnä!"
           }
         }
       }
@@ -4141,6 +4381,12 @@
             "state" : "translated",
             "value" : "Εκατό μέρες κάθε μέρα εδώ·\nεσύ είσαι ό,τι πιο πολύτιμο!"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sata päivää joka päivä mukana.\nSinä olet maailman tärkeimpiä!"
+          }
         }
       }
     },
@@ -4240,6 +4486,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Αναφορές σφαλμάτων και ιδέες είναι ευπρόσδεκτες."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Virheilmoitukset ja ideat ovat tervetulleita."
           }
         }
       }
@@ -4341,6 +4593,12 @@
             "state" : "translated",
             "value" : "Σύνθετες ρυθμίσεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisäasetukset"
+          }
         }
       }
     },
@@ -4440,6 +4698,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Συχνότητα ανανέωσης"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivitysväli"
           }
         }
       }
@@ -4541,6 +4805,12 @@
             "state" : "translated",
             "value" : "Πριν τις εξετάσεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ennen koetta"
+          }
         }
       }
     },
@@ -4640,6 +4910,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Πρωί"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aamu"
           }
         }
       }
@@ -4741,6 +5017,12 @@
             "state" : "translated",
             "value" : "Κύλισε μέχρι να βρεις το όνομα της εφαρμογής.\n«Το Παίνεμα της Ημέρας»"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selaa, kunnes sovelluksen nimi löytyy.\n\"Päivän hehkutus\""
+          }
         }
       }
     },
@@ -4840,6 +5122,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Επιτεύγματα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saavutukset"
           }
         }
       }
@@ -4941,6 +5229,12 @@
             "state" : "translated",
             "value" : "Σερί ημερών"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Putki"
+          }
         }
       }
     },
@@ -5040,6 +5334,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Πώς νιώθεις σήμερα;"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mikä fiilis tänään?"
           }
         }
       }
@@ -5141,6 +5441,12 @@
             "state" : "translated",
             "value" : "Και σήμερα όπως πάντα εσύ·\nαυτό είναι το καλύτερο!"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ole tänäänkin sinä itse,\nse on parasta!"
+          }
         }
       }
     },
@@ -5240,6 +5546,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Το Παίνεμα της Ημέρας"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivän hehkutus"
           }
         }
       }
@@ -5341,6 +5653,12 @@
             "state" : "translated",
             "value" : "Δεξιά"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oikea"
+          }
         }
       }
     },
@@ -5440,6 +5758,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ποιος πείραξε το παιδί μου;\nΔιάλεξε μια κουβέντα για να τονωθείς!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Älä lannista omaa lastasi!\nValitse itsellesi rohkaiseva sana!"
           }
         }
       }
@@ -5541,6 +5865,12 @@
             "state" : "translated",
             "value" : "Αριστερά"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vasen"
+          }
         }
       }
     },
@@ -5640,6 +5970,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Πριν την προπόνηση"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ennen treeniä"
           }
         }
       }
@@ -5741,6 +6077,12 @@
             "state" : "translated",
             "value" : "Ρύθμισε με ακρίβεια την όψη και τη γραμματοσειρά του widget"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hio widgetin ulkoasu ja fontti tarkasti"
+          }
         }
       }
     },
@@ -5840,6 +6182,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ρυθμίσεις widget"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgetin asetukset"
           }
         }
       }
@@ -5941,6 +6289,12 @@
             "state" : "translated",
             "value" : "Χρήση αυτού του παινέματος"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Käytä tätä kehua"
+          }
         }
       }
     },
@@ -6040,6 +6394,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Όνομα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nimi"
           }
         }
       }
@@ -6141,6 +6501,12 @@
             "state" : "translated",
             "value" : "Ορισμός ονόματος"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nimen asetus"
+          }
         }
       }
     },
@@ -6240,6 +6606,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Πες μου το όνομά σου!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kerro nimesi!"
           }
         }
       }
@@ -6341,6 +6713,12 @@
             "state" : "translated",
             "value" : "Γράψε το όνομά σου"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kirjoita nimesi"
+          }
         }
       }
     },
@@ -6440,6 +6818,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Επικοινωνία με email"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lähetä sähköpostia"
           }
         }
       }
@@ -6541,6 +6925,12 @@
             "state" : "translated",
             "value" : "Τώρα διάλεξε μέγεθος και πάτα «Προσθήκη widget»."
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valitse vielä widgetin koko ja napauta \"Lisää widget\"."
+          }
         }
       }
     },
@@ -6640,6 +7030,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Μήνυμα στο Instagram (@lee25_ios)"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instagram-viesti (@lee25_ios)"
           }
         }
       }
@@ -6741,6 +7137,12 @@
             "state" : "translated",
             "value" : "Πριν τη δουλειά"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ennen töitä"
+          }
         }
       }
     },
@@ -6840,6 +7242,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Μία εβδομάδα!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viikko täynnä!"
           }
         }
       }
@@ -6941,6 +7349,12 @@
             "state" : "translated",
             "value" : "Μια εβδομάδα χωρίς διακοπή·\nνιώθω περηφάνια για σένα!"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viikon verran ahkerasti mukana.\nOlen todella ylpeä sinusta!"
+          }
         }
       }
     },
@@ -7040,6 +7454,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Αυτοπεποίθηση"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Itsevarmuus"
           }
         }
       }
@@ -7141,6 +7561,12 @@
             "state" : "translated",
             "value" : "Βράδυ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ilta"
+          }
         }
       }
     },
@@ -7240,6 +7666,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Αποθήκευση"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tallenna"
           }
         }
       }
@@ -7341,6 +7773,12 @@
             "state" : "translated",
             "value" : "Πρότεινε"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ehdottaja"
+          }
         }
       }
     },
@@ -7440,6 +7878,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Μέγας Μάστορας Παινεμάτων"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hehkutuksen suurmestari"
           }
         }
       }
@@ -7541,6 +7985,12 @@
             "state" : "translated",
             "value" : "Μάστορας Παινεμάτων"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hehkutusmestari"
+          }
         }
       }
     },
@@ -7640,6 +8090,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widget παινεμάτων"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hehkutus-widget"
           }
         }
       }
@@ -7741,6 +8197,12 @@
             "state" : "translated",
             "value" : "Θα βάλω το όνομά σου στα παινέματα\nστη θέση του «εσύ»!"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Korvaan kehuissa sanan 'sinä'\nnimelläsi!"
+          }
         }
       }
     },
@@ -7840,6 +8302,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Μόλις δεις ένα παίνεμα,\nκαταγράφεται αυτόματα!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun luet kehuja,\nne kirjataan automaattisesti!"
           }
         }
       }
@@ -7941,6 +8409,12 @@
             "state" : "translated",
             "value" : "Κέντρο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keskellä"
+          }
         }
       }
     },
@@ -8040,6 +8514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Αγαπημένα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suosikit"
           }
         }
       }
@@ -8141,6 +8621,12 @@
             "state" : "translated",
             "value" : "Δεν έχεις αγαπημένα ακόμη"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ei vielä suosikkeja"
+          }
         }
       }
     },
@@ -8240,6 +8726,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Είδες συνολικά 100 παινέματα!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yhteensä 100 kehua luettu!"
           }
         }
       }
@@ -8341,6 +8833,12 @@
             "state" : "translated",
             "value" : "Είδες συνολικά 50 παινέματα!"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yhteensä 50 kehua luettu!"
+          }
         }
       }
     },
@@ -8440,6 +8938,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Σύνολο ημερών"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päiviä yhteensä"
           }
         }
       }
@@ -8541,6 +9045,12 @@
             "state" : "translated",
             "value" : "Ρεκόρ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ennätys"
+          }
         }
       }
     },
@@ -8640,6 +9150,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Στον δρόμο για τη δουλειά"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Töihin matkalla"
           }
         }
       }
@@ -8741,6 +9257,12 @@
             "state" : "translated",
             "value" : "Στον δρόμο για το σπίτι"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Töistä kotiin"
+          }
         }
       }
     },
@@ -8840,6 +9362,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Γραμματοσειρά"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fontti"
           }
         }
       }
@@ -8941,6 +9469,12 @@
             "state" : "translated",
             "value" : "Ρυθμίσεις γραμματοσειράς"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fontin asetukset"
+          }
         }
       }
     },
@@ -9040,6 +9574,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ένας μήνας!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuukausi täynnä!"
           }
         }
       }
@@ -9141,6 +9681,12 @@
             "state" : "translated",
             "value" : "Ένας ολόκληρος μήνας μαζί·\nεσύ είσαι πολύ ξεχωριστός άνθρωπος!"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kokonainen kuukausi yhdessä.\nSinä olet todella erityinen!"
+          }
         }
       }
     },
@@ -9240,6 +9786,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Διάστιχο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riviväli"
           }
         }
       }
@@ -9341,6 +9893,12 @@
             "state" : "translated",
             "value" : "Τρέχον σερί"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nykyinen putki"
+          }
         }
       }
     },
@@ -9440,6 +9998,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Κράτα πατημένη την αρχική οθόνη και πάτα το ➕ πάνω αριστερά ή δεξιά."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paina koti-valikkoa pitkään, kunnes kuvakkeet alkavat täristä, ja napauta ➕-merkkiä ylänurkassa."
           }
         }
       }
@@ -9541,6 +10105,12 @@
             "state" : "translated",
             "value" : "Ιστορικό"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historia"
+          }
         }
       }
     },
@@ -9640,6 +10210,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Το ιστορικό είναι άδειο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historia on tyhjä"
           }
         }
       }
@@ -9741,6 +10317,12 @@
             "state" : "translated",
             "value" : "Χαλάρωση"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rentoutus"
+          }
         }
       }
     },
@@ -9840,6 +10422,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Δύσκολη στιγμή"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rankka hetki"
           }
         }
       }

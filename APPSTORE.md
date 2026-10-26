@@ -767,3 +767,49 @@ widget,κομπλιμέντα,κίνητρο,αυτοπεποίθηση,θετι
 
 Η ιδιωτικότητά σου μένει ανέγγιχτη. Δεν συλλέγουμε προσωπικά δεδομένα, και ό,τι αποθηκεύεται, όπως το όνομα και τα αγαπημένα, μένει μόνο στη συσκευή σου.
 Για σφάλματα και ιδέες, γράψε μας από τις ρυθμίσεις με email ή Instagram.
+
+## fi
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/fi/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/fi/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/fi/index.html
+
+### 이름
+
+Päivän hehkutus
+
+### 부제
+
+Kehuja överiksi asti
+
+### 키워드
+
+motivaatio,itsetunto,kannustus,mietelause,widget,positiivisuus,haastattelu,treffit,tsemppi
+
+### 프로모션 텍스트
+
+Saat oman hehkuttajan kotinäytölle! Widget kannustaa aamusta iltaan, ja nimesi mukaan laitettuna jokainen kehu on vähän kuin ystävä, joka ylistää överiksi.
+
+### 설명
+
+Widget-sovellus, joka kehuu sinua aivan överiksi. Kotinäytölläsi odottaa päivittäin uusi hehkutus, joka saa hymyn huulille.
+Tarvitsetko tsemppiä aamuun, työmatkalle tai haastatteluun? 281 liioiteltua kehua kulkee mukanasi aamusta iltaan, ja ne ovat tehty naurattamaan ja nostamaan itsetuntoa.
+
+Ominaisuudet
+- Kotinäytön widget: muokkaa fonttia, tekstin väriä, taustakuvaa, tasausta, riviväliä ja päivitysväliä oman makusi mukaan.
+- 281 kehua: hupaisia, ylistäviä ja välillä täysin överiksi vedettyjä.
+- Fiilis ja tilanne: valitse aamu, työmatka, haastattelu, koe, treeni, treffit, kotimatka, ilta, rankka hetki, rentoutus, itsevarmuus tai motivaatio.
+- Nimi mukaan: sovellus vaihtaa kehuissa esiintyvän sanan "sinä" omaksi nimeksesi, jolloin kehut kuulostavat henkilökohtaisilta.
+- Suosikit ja historia: tallenna parhaat tähtipainikkeella ja palaa jo nähtyihin kehuihin milloin vain.
+- Putki ja saavutukset: kun avaat sovelluksen 7, 30 ja 100 päivää peräkkäin, saat uusia saavutuksia.
+
+Yksityisyys on meille tärkeää. Sovellus ei kerää mitään henkilötietoja. Nimesi, suosikkisi ja muut tiedot pysyvät vain omalla laitteellasi.
+Virheilmoitukset ja kehitysideat voit lähettää asetuksista sähköpostilla tai Instagramissa.

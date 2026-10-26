@@ -103,3 +103,9 @@ Fejl og forslag: mail eller Instagram
 Παινέματα πια σε πολλές γλώσσες
 Μήνυμα στον δημιουργό από τις ρυθμίσεις
 Σφάλματα και ιδέες: email ή Instagram
+
+### 앱스토어 (핀란드어)
+
+Kehuja nyt monella kielellä
+Kehittäjään saa yhteyden asetuksista
+Virheistä ja ideoista voi kertoa suoraan

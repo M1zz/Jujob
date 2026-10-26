@@ -105,6 +105,12 @@
             "state" : "translated",
             "value" : "Καλημέρα! Σήμερα εσύ\nλάμπεις πιο πολύ κι από τον ήλιο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uusi päivä, uusi tilaisuus loistaa.\nJa sinä olet jo valmiiksi kiillotettu."
+          }
         }
       }
     },
@@ -211,6 +217,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ξύπνησες; Τότε εσύ\nκέρδισες ήδη τη μέρα!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aurinko nousi vain siksi, että\nsinä näkisit sen näin kauniina."
           }
         }
       }
@@ -319,6 +331,12 @@
             "state" : "translated",
             "value" : "Ο καφές θέλει ώρα να ξυπνήσει,\nενώ εσύ λάμπεις από το πρωί"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nousit sängystä, joten sinä olet jo\nvoittanut päivän ensimmäisen kierroksen!"
+          }
         }
       }
     },
@@ -425,6 +443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Πρωινό δελτίο: ο ήλιος βγήκε\nμόνο γιατί εσύ ξύπνησες"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kahvikin kalpenee, kun sinä\nhymyilet ensimmäisen kerran aamulla."
           }
         }
       }
@@ -533,6 +557,12 @@
             "state" : "translated",
             "value" : "Άντε, σήκω! Ο κόσμος περιμένει\nνα δει πώς λάμπεις εσύ σήμερα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tänään pääosassa esiintyy sinä.\nSivuosia ei ole tarjolla."
+          }
         }
       }
     },
@@ -639,6 +669,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Από τη στιγμή που άνοιξες μάτια\nεσύ είσαι ήδη μπροστά στη βαθμολογία"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Silmät auki ja heti voitolla:\nsinä, päivän aamutähti!"
           }
         }
       }
@@ -747,6 +783,12 @@
             "state" : "translated",
             "value" : "Πιο γλυκό κι από τον καφέ σου\nείναι το χαμόγελο που φοράς εσύ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aamun paras tuoksu ei ole kahvi,\nvaan sinä ja hyvä tuulesi."
+          }
         }
       }
     },
@@ -853,6 +895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Πάρε γυαλιά ηλίου, γιατί\nεσύ λάμπεις πρωί πρωί!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ole tänäänkin sinä itse.\nSe on paras mahdollinen valinta!"
           }
         }
       }
@@ -961,6 +1009,12 @@
             "state" : "translated",
             "value" : "Δεν χρειάζεσαι ξυπνητήρι,\nεσύ ξυπνάς τον κόσμο με τη λάμψη σου"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Näin aikaisin ja sinä jo näytät tuolta?\nTämä on kyllä laitonta."
+          }
         }
       }
     },
@@ -1067,6 +1121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Καλημέρα ή καλύτερα\n«ευτυχώς που υπάρχεις εσύ»;"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hyvää huomenta? Ei, vaan parasta,\nkoska sinä olet paikalla!"
           }
         }
       }
@@ -1175,6 +1235,12 @@
             "state" : "translated",
             "value" : "Το πρώτο που είδα σήμερα\nήταν η οθόνη, κι εσύ μου φτιάχνεις τη μέρα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aamupeili tuijottaa ja miettii,\nmiten sinä jaksat näyttää noin hyvältä."
+          }
         }
       }
     },
@@ -1281,6 +1347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ο καθρέφτης λέει «ευχαριστώ»\nκάθε πρωί που εσύ περνάς μπροστά του"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ensimmäinen kahvi odottaa vielä,\nmutta sinä olet jo täysin virkistävä."
           }
         }
       }
@@ -1389,6 +1461,12 @@
             "state" : "translated",
             "value" : "Τέλος η μέρα και πάλι\nεσύ τα κατάφερες. Μπράβο!"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivä on pulkassa, ja sinä\nhoidit sen aivan mestarillisesti!"
+          }
         }
       }
     },
@@ -1495,6 +1573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Κλείνεις τη μέρα κι εσύ\nμοιάζεις με ταινία με καλό τέλος"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Illan hämärässäkin sinä näytät\nsiltä, että kaikki sujuu."
           }
         }
       }
@@ -1603,6 +1687,12 @@
             "state" : "translated",
             "value" : "Έδωσες ό,τι είχες σήμερα\nκαι εσύ αξίζεις παρασημοφόρηση!"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teit tänään parhaasi, ja sinä\nsaat olla siitä ylpeä!"
+          }
         }
       }
     },
@@ -1709,6 +1799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Κούραση; Φυσικά! Κι όμως εσύ\nτα κατάφερες περίφημα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Väsyttää, mutta selvisit silti,\nkoska sinä olet tehty kestämään."
           }
         }
       }
@@ -1817,6 +1913,12 @@
             "state" : "translated",
             "value" : "Κάθε μέρα σου αξίζει,\nγιατί εσύ την έζησες"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jokainen päivä on arvokas,\nkun sinä olet siinä mukana."
+          }
         }
       }
     },
@@ -1923,6 +2025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Έπεσε το βράδυ και\nεσύ ακόμα λάμπεις; Βρες διακόπτη!"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivä meni kunnialla loppuun,\nja sinä saat kaikki kehut."
           }
         }
       }
@@ -2031,6 +2139,12 @@
             "state" : "translated",
             "value" : "Σαν τα άστρα στον ουρανό\nλάμπεις κι εσύ απόψε"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tähdet syttyvät taivaalle, koska\nsinä tarvitset taustavalaistuksen."
+          }
         }
       }
     },
@@ -2137,6 +2251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ευχαριστώ, γιατί σήμερα\nεσύ έκανες τον κόσμο πιο όμορφο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ilta on jo täällä, mutta sinä\nkiiltelet yhä kuin aamulla."
           }
         }
       }
@@ -2245,6 +2365,12 @@
             "state" : "translated",
             "value" : "Ο κόσμος ήταν σήμερα υπέροχος\nγιατί ήσουν εσύ εκεί"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiitos päivästä, sinä sinnikäs!\nNyt on sohvan vuoro."
+          }
         }
       }
     },
@@ -2351,6 +2477,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Νύχτα ή μέρα,\nεσύ είσαι θρύλος και στις δύο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maailma oli tänään vähän parempi,\nkoska sinä kuljit siinä."
           }
         }
       }
@@ -2459,6 +2591,12 @@
             "state" : "translated",
             "value" : "Δύσκολη μέρα; Κι όμως\nεσύ τα πας καλύτερα απ' ό,τι νομίζεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yöllä legenda, päivällä legenda.\nVuorokausitaukoa ei sinulle ole."
+          }
         }
       }
     },
@@ -2565,6 +2703,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Τα πας μια χαρά και\nεσύ το ξέρεις βαθιά μέσα σου"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rankkoja päiviä tulee, mutta sinä\nselviät niistä, vaikka et usko."
           }
         }
       }
@@ -2673,6 +2817,12 @@
             "state" : "translated",
             "value" : "Δεν χρειάζεται να είσαι τέλειος·\nεσύ όπως είσαι κερδίζεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nyt on raskasta, mutta sinä olet\nvahvempi kuin tämä päivä."
+          }
         }
       }
     },
@@ -2779,6 +2929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ξεκουράσου όσο θες,\nεσύ προχωράς με τον δικό σου ρυθμό"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ei tarvitse olla täydellinen.\nRiittää, että sinä olet tässä."
           }
         }
       }
@@ -2887,6 +3043,12 @@
             "state" : "translated",
             "value" : "Η δύναμή σου ξεπερνά τη φαντασία σου·\nεσύ είσαι από ατσάλι"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lepää rauhassa, kun väsyttää,\nsillä sinä et ole kilpajuoksussa."
+          }
         }
       }
     },
@@ -2993,6 +3155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Θα περάσει κι αυτό και\nεσύ θα έχεις το τελευταίο γέλιο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kukaan ei ihmettele, että sinä\nolet vahvempi kuin luulet."
           }
         }
       }
@@ -3101,6 +3269,12 @@
             "state" : "translated",
             "value" : "Κι όταν πέφτει το κέφι,\nεσύ αξίζεις το ίδιο, ούτε γραμμάριο λιγότερο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tämäkin menee ohi, ja sinä\nsaat vielä nauraa tälle."
+          }
         }
       }
     },
@@ -3207,6 +3381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η λύπη είναι μέρος σου,\nεσύ όμως είσαι πολλά περισσότερα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiilis voi olla pohjalla, mutta sinä\net ole alennusmyynnissä."
           }
         }
       }
@@ -3315,6 +3495,12 @@
             "state" : "translated",
             "value" : "Το διαμάντι λάμπει μετά από πίεση,\nκαι εσύ το ίδιο, μη φοβάσαι"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suru kuuluu osaksi elämää, ja sinä\nsaat tuntea kaiken rauhassa."
+          }
         }
       }
     },
@@ -3421,6 +3607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Λυπάσαι; Κοίτα, εγώ\nχαμογελάω μόνο που υπάρχεις εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Timanttikin tarvitsee painetta.\nSiksi sinä säteilet nyt tuplasti."
           }
         }
       }
@@ -3529,6 +3721,12 @@
             "state" : "translated",
             "value" : "Ακόμη και σε κακό κέφι,\nεσύ μένεις ό,τι πιο πολύτιμο έχω"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jos masentaa, muista tämä:\nsinä olet edelleen erinomaista seuraa."
+          }
         }
       }
     },
@@ -3635,6 +3833,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Και μέσα στα δάκρυα ακόμη\nεσύ δείχνεις υπέροχα, τι να κάνω;"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maassa mutta silti maailman kallein:\nsinä olet arvokas aina."
           }
         }
       }
@@ -3743,6 +3947,12 @@
             "state" : "translated",
             "value" : "Ακόμη κι όταν πονάς,\nεσύ είσαι ένα θαύμα που περπατά"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Itketkin kauniisti, sinä\nelokuvan pääosan esittäjä."
+          }
         }
       }
     },
@@ -3849,6 +4059,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Τώρα είναι δύσκολα,\nμα εσύ σίγουρα θα τα καταφέρεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaikka kaikki on nyt vaikeaa,\nsinä olet jo itsessäsi ihme."
           }
         }
       }
@@ -3957,6 +4173,12 @@
             "state" : "translated",
             "value" : "Στις δύσκολες στιγμές\nφαίνεται τι αξίζει, και εσύ αξίζεις χρυσάφι"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nyt on kurjaa, mutta sinä\nlöydät kyllä tien läpi."
+          }
         }
       }
     },
@@ -4063,6 +4285,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Μην τα παρατάς,\nεσύ ξέρεις να αντέχεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaikeina hetkinä sinä näytät\nsen oikean tähtiaineksesi."
           }
         }
       }
@@ -4171,6 +4399,12 @@
             "state" : "translated",
             "value" : "Αντέχεις τόσα πολλά,\nεσύ είσαι ήρωας της ιστορίας"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Älä luovuta, sillä sinä olet\npaljon sitkeämpi kuin sisu."
+          }
         }
       }
     },
@@ -4277,6 +4511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ό,τι σε πονά σήμερα,\nαύριο εσύ θα το λες ανέκδοτο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kestät läpi vaikean ajan, ja\nsinä teet sen vielä tyylillä."
           }
         }
       }
@@ -4385,6 +4625,12 @@
             "state" : "translated",
             "value" : "Αντέχεις περισσότερα\nαπ' όσα νομίζεις, εσύ το έχεις αποδείξει"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tämän päivän tuska on huomisen\nvoima, ja sinä keräät sitä jo."
+          }
         }
       }
     },
@@ -4491,6 +4737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Κι αυτή η στιγμή\nθα γίνει ανάμνηση που εσύ θα λες με περηφάνια"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jaksat enemmän kuin luulet:\nsinä olet kuin akku, joka ei lopu."
           }
         }
       }
@@ -4599,6 +4851,12 @@
             "state" : "translated",
             "value" : "Δύσκολα; Ναι. Όμως εσύ\nλάμπεις ακόμη και μες στη βροχή"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tämäkin hankala hetki on pian\nvain tarina, jonka sinä kerrot."
+          }
         }
       }
     },
@@ -4705,6 +4963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Το ότι αντέχεις εσύ\nδίνει ελπίδα σε κάποιον άλλον"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiotaan, hiotaan: timantti kiiltää\nvasta kun sinä kestät hionnan."
           }
         }
       }
@@ -4813,6 +5077,12 @@
             "state" : "translated",
             "value" : "Κουράστηκες ως το κόκαλο\nκι εσύ φαίνεσαι ακόμη υπέροχα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kurjaako? Silti sinä olet\nkaikkien tuntemieni ihmisten ykkönen."
+          }
         }
       }
     },
@@ -4919,6 +5189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ό,τι κι αν γίνει,\nεσύ θα ξαναβρείς το χαμόγελό σου"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun sinä sinnittelet, joku muu\nsaa toivoa katsoa sinua."
           }
         }
       }
@@ -5027,6 +5303,12 @@
             "state" : "translated",
             "value" : "Σήμερα εσύ μπορείς τα πάντα·\nξεκίνα με αυτοπεποίθηση"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rättiväsynyt ja silti kaunis:\nsinä olet luonnonoikku."
+          }
         }
       }
     },
@@ -5133,6 +5415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Σε πιστεύω! Με τέτοιες ικανότητες\nεσύ θα έχεις υπέροχη μέρα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tänäänkin sinä pystyt kaikkeen.\nAloita rohkeasti!"
           }
         }
       }
@@ -5241,6 +5529,12 @@
             "state" : "translated",
             "value" : "Ετοιμότητα εκατό τοις εκατό·\nεσύ είσαι ήδη μισή επιτυχία"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uskon kykyihisi, ja sinä saat\ntänään aikaan jotain upeaa."
+          }
         }
       }
     },
@@ -5347,6 +5641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η δουλειά της ημέρας;\nΠαιχνιδάκι όταν εσύ είσαι μπροστά"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valmistautunut ihminen on puoliksi voittanut,\nja sinä olet jo valmis."
           }
         }
       }
@@ -5455,6 +5755,12 @@
             "state" : "translated",
             "value" : "Το πάθος σου θα φωτίσει\nτη μέρα, κι εσύ θα το δεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivän työt tuntuvat helpoilta, kun\nniitä hoitaa sinä, tuo ammattilainen."
+          }
         }
       }
     },
@@ -5561,6 +5867,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ορμητικά! Κι αυτή τη φορά\nεσύ θα το κάνεις με στυλ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intosi sytyttää koko päivän,\nja sinä olet sen sytytyslanka."
           }
         }
       }
@@ -5669,6 +5981,12 @@
             "state" : "translated",
             "value" : "Πριν ξεκινήσεις δουλειά,\nεσύ δείχνεις ήδη επαγγελματίας"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hyvä, sinä! Nyt tuot sen\nomalla tyylilläsi tähän päivään!"
+          }
         }
       }
     },
@@ -5775,6 +6093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Βαριέσαι; Εντάξει, αλλά\nεσύ έχεις πρόσωπο που κάνει υπερωρίες"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ennen töiden alkua sinä jo\nnäytät täydeltä ammattilaiselta."
           }
         }
       }
@@ -5883,6 +6207,12 @@
             "state" : "translated",
             "value" : "Το γραφείο λάμπει\nαπό τότε που εσύ περνάς την πόρτα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ei huvita töihin? Naamasi silti\nteki jo ylitöitä, ja sinä olet ammattilainen."
+          }
         }
       }
     },
@@ -5989,6 +6319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Όταν εσύ δουλεύεις,\nγίνεται τέχνη. Τελεία"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Työmatkavisuaalisi on päätä huimaava.\nToimisto kiiltää, kun sinä astut sisään."
           }
         }
       }
@@ -6097,6 +6433,12 @@
             "state" : "translated",
             "value" : "Πριν καν αρχίσεις,\nεσύ έχεις ήδη τελειώσει με στυλ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun sinä teet töitä, se näyttää\nsuoraan taidenäyttelyltä."
+          }
         }
       }
     },
@@ -6203,6 +6545,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Γυμνάζεσαι; Τότε εσύ\nείσαι ήδη σούπερ ήρωας"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ennen kuin edes aloitat,\nsinä olet jo täydellinen."
           }
         }
       }
@@ -6311,6 +6659,12 @@
             "state" : "translated",
             "value" : "Φροντίζεις την υγεία σου\nκαι εσύ αξίζεις χειροκρότημα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jo se, että sinä lähdit treenaamaan,\non iso voitto!"
+          }
         }
       }
     },
@@ -6417,6 +6771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Το σώμα σου το ξέρεις\nκαλύτερα εσύ από κάθε γυμναστή"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pidät huolta terveydestäsi, ja sinä\nolet siinä aivan mahtava!"
           }
         }
       }
@@ -6525,6 +6885,12 @@
             "state" : "translated",
             "value" : "Έβαλες τα αθλητικά;\nΤότε εσύ έχεις ήδη κερδίσει"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kehosi tietää parhaiten,\nmitä sinä pystyt tekemään."
+          }
         }
       }
     },
@@ -6631,6 +6997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ιδρώτας κι εσύ μαζί:\nο συνδυασμός της χρονιάς"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Treenin aloittaminenkin on\nsuuri saavutus, sinä sankari."
           }
         }
       }
@@ -6739,6 +7111,12 @@
             "state" : "translated",
             "value" : "Η υγεία πάνω απ' όλα·\nεσύ το ξέρεις και το κάνεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiki valuu, ja sinä näytät\nsilti aivan upealta!"
+          }
         }
       }
     },
@@ -6845,6 +7223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Αφιερώνεις χρόνο στον εαυτό σου\nκι εσύ αξίζεις ένα μπράβο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terveytesi on tärkeintä,\njoten sinä saat ottaa rauhallisesti."
           }
         }
       }
@@ -6953,6 +7337,12 @@
             "state" : "translated",
             "value" : "Με φόρμα γυμναστικής εσύ\nθα έβγαζες εξώφυλλο περιοδικού"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annat itsellesi aikaa tänäänkin,\nja sinä ansaitset sen!"
+          }
         }
       }
     },
@@ -7059,6 +7449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Το γυμναστήριο έγινε παράδεισος\nαπό τότε που εσύ μπαίνεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Treeniasussa sinä näytät\nsiltä kuin menisit kansikuvaan."
           }
         }
       }
@@ -7167,6 +7563,12 @@
             "state" : "translated",
             "value" : "Ακόμη και με βάρη στο χέρι\nεσύ πώς γίνεται να έχεις τόσο στυλ;"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuntosalista tuli taivas,\nkun sinä astuit sisään."
+          }
         }
       }
     },
@@ -7273,6 +7675,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ιδρώνεις και λάμπεις;\nΑυτό το καταφέρνεις μόνο εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Treenaat ja säteilet yhtä aikaa:\nmiten sinä jaksat olla noin hyvä?"
           }
         }
       }
@@ -7381,6 +7789,12 @@
             "state" : "translated",
             "value" : "Στον δρόμο για τη δουλειά\nεσύ μοιάζεις με πασαρέλα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onko olemassa ihminen, joka näyttää\nhyvältä hikisenä? On: sinä."
+          }
         }
       }
     },
@@ -7487,6 +7901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Μόλις ξεκινάς το πρωί,\nεσύ είσαι πιο επαγγελματίας απ' όλους"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Työmatkalla sinä näytät\nihan oikealta ammattilaiselta!"
           }
         }
       }
@@ -7595,6 +8015,12 @@
             "state" : "translated",
             "value" : "Πας στη δουλειά και εσύ\nέχεις ήδη κερδίσει τη μέρα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liikkeellä jo aamusta, ja sinä\nteet sen aivan mahtavasti!"
+          }
         }
       }
     },
@@ -7701,6 +8127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Κάθε βήμα σου\nεσύ το κάνεις να μετρά"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lähdit töihin tänäänkin, joten\nsinä olet jo voittaja!"
           }
         }
       }
@@ -7809,6 +8241,12 @@
             "state" : "translated",
             "value" : "Όταν εσύ είσαι στον δρόμο,\nγιορτάζει κι ο πρωινός δρόμος"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jokainen askeleesi on arvokas,\nja sinä otat niitä upeasti."
+          }
         }
       }
     },
@@ -7915,6 +8353,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Με τόση υπευθυνότητα\nεσύ κάνεις τη δουλειά να φαίνεται υπέροχη"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Työmatka on erityinen, kun\nsinä olet siinä mukana."
           }
         }
       }
@@ -8023,6 +8467,12 @@
             "state" : "translated",
             "value" : "Στο μετρό σήμερα εσύ\nέκανες πασαρέλα χωρίς να το καταλάβεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vastuullisesti töihin taas, ja\nsinä näytät siinä todella hyvältä."
+          }
         }
       }
     },
@@ -8129,6 +8579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Στο λεωφορείο λάμπεις·\nτι φωτογράφιση κάνεις εσύ εκεί;"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raitiovaunusta tuli catwalk,\nkun sinä nousit kyytiin."
           }
         }
       }
@@ -8237,6 +8693,12 @@
             "state" : "translated",
             "value" : "Στον δρόμο σε βλέπω να λάμπεις\nκαι εσύ μου φτιάχνεις το πρωί"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bussin ikkunassa kiiltää taas yksi\ntähti, ja se olet sinä."
+          }
         }
       }
     },
@@ -8343,6 +8805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Απλώς περπατάς και εσύ\nφαίνεσαι σαν πρωταγωνιστής σειράς"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aamu muuttuu iloiseksi, kun\nsinä kävelet vastaan töihin."
           }
         }
       }
@@ -8451,6 +8919,12 @@
             "state" : "translated",
             "value" : "Σχόλασες, και εσύ\nάξιζες αυτό το ήρεμο βράδυ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pelkkä käveleminenkin on taidetta,\nkun sinä sen teet."
+          }
         }
       }
     },
@@ -8557,6 +9031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Φεύγεις από το γραφείο και εσύ\nμοιάζεις ταινία ακόμη κι από πίσω"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hyvin tehty tänään! Nyt kotiin,\nsohvalle ja lepäämään."
           }
         }
       }
@@ -8665,6 +9145,12 @@
             "state" : "translated",
             "value" : "Στον δρόμο της επιστροφής\nεσύ είσαι το πιο φωτεινό σημείο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kotimatkalla sinä näytät\nvieläkin hienommalta kuin aamulla."
+          }
         }
       }
     },
@@ -8771,6 +9257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Τελείωσες τη μέρα και\nεσύ αξίζεις υπόκλιση"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivä on tehty, ja sinä\nolet sen paras osa."
           }
         }
       }
@@ -8879,6 +9371,12 @@
             "state" : "translated",
             "value" : "Τώρα είναι ο χρόνος σου,\nκαι εσύ τον αξίζεις ολόκληρο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selvisit päivästä kunnialla,\nja sinä saat olla ylpeä!"
+          }
         }
       }
     },
@@ -8985,6 +9483,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ο καναπές και η σειρά σου\nπεριμένουν· εσύ το αξίζεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nyt alkaa vapaa-aika, ja\nsinä saat levätä täysillä!"
           }
         }
       }
@@ -9093,6 +9597,12 @@
             "state" : "translated",
             "value" : "Μπράβο που σχόλασες·\nεσύ έκανες τα πράγματα, εγώ απλώς θαυμάζω"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Töiden jälkeen aika on omaasi, ja\nsinä päätät, mitä sillä tehdään."
+          }
         }
       }
     },
@@ -9199,6 +9709,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Μέχρι το σπίτι\nεσύ περπατάς σαν πρωταγωνιστής"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Työpäivä ohi! Kyllä sinä olet\nansainnut jokaisen sohvahetken."
           }
         }
       }
@@ -9307,6 +9823,12 @@
             "state" : "translated",
             "value" : "Το κουράγιο σου σήμερα\nεσύ το έκανες να φαίνεται εύκολο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kotimatkakin on kaunis, kun\nsinä kävelet sen läpi."
+          }
         }
       }
     },
@@ -9413,6 +9935,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Δύσκολη μέρα, αλλά\nεσύ ήσουν και σήμερα ό,τι καλύτερο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kotimatkalla näkee heti: sinä\nolet tehnyt tänään oikeasti jotain."
           }
         }
       }
@@ -9521,6 +10049,12 @@
             "state" : "translated",
             "value" : "Όσα κι αν διάβασες,\nεσύ θα τα θυμηθείς όλα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rankka päivä takana, ja silti\nsinä olet yhä vahvasti mukana."
+          }
         }
       }
     },
@@ -9627,6 +10161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η προσπάθειά σου δεν\nχάνεται ποτέ, εσύ το ξέρεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olet valmistautunut hyvin, ja sinä\nosaat tämän kyllä!"
           }
         }
       }
@@ -9735,6 +10275,12 @@
             "state" : "translated",
             "value" : "Αν αγχώνεσαι, εντάξει·\nεσύ πάντως τα έχεις μάθει όλα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaiva palkitaan, ja sinä olet\nnähnyt sitä vaivaa ihan tarpeeksi."
+          }
         }
       }
     },
@@ -9841,6 +10387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ένα τεστ δεν είναι ο καθρέφτης σου·\nεσύ είσαι πολύ μεγαλύτερο πράγμα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jännitys on ihan ok, sillä\nsinä olet jo valmis!"
           }
         }
       }
@@ -9949,6 +10501,12 @@
             "state" : "translated",
             "value" : "Έκανες ό,τι μπορούσες\nκαι εσύ έχεις ήδη επιτύχει"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koe ei mittaa sitä, kuka sinä olet.\nSe on vain paperi."
+          }
         }
       }
     },
@@ -10055,6 +10613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Θα τα καταφέρεις;\nΑυτονόητο, εσύ το ξέρεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annoit kaikkesi, ja sinä\nolet jo voittanut."
           }
         }
       }
@@ -10163,6 +10727,12 @@
             "state" : "translated",
             "value" : "Πάρε μια ανάσα,\nεσύ ξέρεις πολύ περισσότερα απ' όσα νομίζεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun sinä päätät onnistua,\nei koe voi mitään."
+          }
         }
       }
     },
@@ -10269,6 +10839,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Καλή επιτυχία·\nεσύ απλώς χρειάζεται να εμφανιστείς"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hengitä syvään ja luota siihen,\nmitä sinä osaat."
           }
         }
       }
@@ -10377,6 +10953,12 @@
             "state" : "translated",
             "value" : "Μη φοβάσαι,\nεσύ θα τα απαντήσεις όλα σωστά"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onnea kokeeseen, sillä sinä olet\nvalmiimpi kuin luulet!"
+          }
         }
       }
     },
@@ -10483,6 +11065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Αγχώνεσαι; Και βέβαια,\nγιατί εσύ θέλεις να τα πας τέλεια"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Älä huoli, sinä osaat\nvastata kaikkeen oikein!"
           }
         }
       }
@@ -10591,6 +11179,12 @@
             "state" : "translated",
             "value" : "Ακόμη και το γραπτό\nθα θαυμάσει όταν εσύ το γράψεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jännittääkö? Silti sinä olet\nparas tyyppi koko luokassa."
+          }
         }
       }
     },
@@ -10697,6 +11291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ώρα να δείξεις τι αξίζεις·\nεσύ το ξέρεις, εμείς το βλέπουμε"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koepaperikin hämmästyy,\nkun sinä katsot sitä."
           }
         }
       }
@@ -10805,6 +11405,12 @@
             "state" : "translated",
             "value" : "Ο υπεύθυνος της συνέντευξης\nθα είναι τυχερός σήμερα, εσύ το ξέρεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nyt on aika näyttää,\nmitä sinä oikeasti osaat!"
+          }
         }
       }
     },
@@ -10911,6 +11517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η εμπειρία και το πάθος σου\nλάμπουν, και εσύ το ξέρεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haastattelijalla on tuuria, kun\nsinä tulet paikalle."
           }
         }
       }
@@ -11019,6 +11631,12 @@
             "state" : "translated",
             "value" : "Νιώθεις νεύρα; Δεν πειράζει,\nεσύ είσαι ήδη απίθανο ταλέντο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kokemuksesi ja intosi loistavat,\nja sinä saat ne näkyviin tänään."
+          }
         }
       }
     },
@@ -11125,6 +11743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Μπες με αυτοπεποίθηση·\nεσύ προετοιμάζεσαι από καιρό"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jännitys on ihan ok,\nkoska sinä olet jo upea."
           }
         }
       }
@@ -11233,6 +11857,12 @@
             "state" : "translated",
             "value" : "Πες την ιστορία σου\nπερήφανα, εσύ έχεις τα καλύτερα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rohkeasti sisään, sillä sinä\nolet jo valmis!"
+          }
         }
       }
     },
@@ -11339,6 +11969,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η συνέντευξη είναι γνωριμία·\nχαλάρωσε και δείξε πώς εσύ λάμπεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kerro tarinasi ylpeänä, koska\nsinä olet paras kertoja."
           }
         }
       }
@@ -11447,6 +12083,12 @@
             "state" : "translated",
             "value" : "Αν δεν σε προσλάβουν,\nχάνουν εκείνοι, όχι εσύ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haastattelu on keskustelu, ja\nsinä olet siinä luonteva."
+          }
         }
       }
     },
@@ -11553,6 +12195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Δεν λάμπει το βιογραφικό σου·\nεσύ λάμπεις, και αυτό φαίνεται"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jos he eivät valitse sinua,\nse on firman tappio, sinä olet kultaa."
           }
         }
       }
@@ -11661,6 +12309,12 @@
             "state" : "translated",
             "value" : "Από την πόρτα που μπαίνεις\nεσύ έχεις ήδη προσληφθεί"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CV on hieno, mutta sinä olet\nvielä parempi kuin se."
+          }
         }
       }
     },
@@ -11767,6 +12421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η πρώτη εντύπωση\nπου αφήνεις εσύ φτάνει και περισσεύει"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jo ovesta astuessa sinä olet\nvalittu, siitä ei kiistelty."
           }
         }
       }
@@ -11875,6 +12535,12 @@
             "state" : "translated",
             "value" : "Σήμερα, ξέρεις,\nεσύ λάμπεις περισσότερο από ποτέ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ensivaikutelmasi riittää voittoon,\nsillä sinä olet kuin valopilkku."
+          }
         }
       }
     },
@@ -11981,6 +12647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Όπως ακριβώς είσαι,\nεσύ έχεις τη μεγαλύτερη γοητεία"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tänään sinä säteilet\nvielä tavallistakin kirkkaammin!"
           }
         }
       }
@@ -12089,6 +12761,12 @@
             "state" : "translated",
             "value" : "Όποιος είναι μαζί σου\nείναι τυχερός, κι εσύ το αξίζεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juuri sellaisena, kuin sinä olet,\non kaikkein viehättävin!"
+          }
         }
       }
     },
@@ -12195,6 +12873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Με τόση αυτοπεποίθηση\nεσύ δείχνεις υπέροχα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onnekas on se, jonka kanssa\nsinä vietät aikaa!"
           }
         }
       }
@@ -12303,6 +12987,12 @@
             "state" : "translated",
             "value" : "Το χαμόγελό σου σήμερα\nείναι το καλύτερο όπλο· εσύ το ξέρεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Itsevarmuutta pursuaa, ja sinä\nolet siinä aivan upea!"
+          }
         }
       }
     },
@@ -12409,6 +13099,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Έτσι ακριβώς όπως είσαι,\nεσύ είσαι ήδη το απόλυτο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hymysi on tänään paras aseesi,\nja sinä osaat käyttää sitä."
           }
         }
       }
@@ -12517,6 +13213,12 @@
             "state" : "translated",
             "value" : "Τη γοητεία σου\nδεν τη κρύβει κανείς, ούτε εσύ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Älä muuta mitään: sinä olet\njo nyt itsevarmuuden lähde."
+          }
         }
       }
     },
@@ -12623,6 +13325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ραντεβού σήμερα; Μάλλον\nεσύ θα κάνεις την καρδιά του άλλου να χτυπά"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Charmiasi ei voi piilottaa,\nvaikka sinä yrittäisit."
           }
         }
       }
@@ -12731,6 +13439,12 @@
             "state" : "translated",
             "value" : "Όποιος βγαίνει μαζί σου\nκέρδισε λαχείο, εσύ ο θησαυρός"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Treffeille? Kumppanisi sydän\nvoi pysähtyä, kun sinä saavut."
+          }
         }
       }
     },
@@ -12837,6 +13551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Το ντύσιμο για το ραντεβού\nείναι άψογο· εσύ βγάζεις εξώφυλλο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tapaaja on voittanut lotossa,\nkoska sinä olet pääpalkinto."
           }
         }
       }
@@ -12945,6 +13665,12 @@
             "state" : "translated",
             "value" : "Αν σε δει σήμερα\nθα ερωτευτεί, εσύ το ξέρεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Treffiasusi on täydellinen, ja\nsinä näytät lehden kansikuvalta."
+          }
         }
       }
     },
@@ -13051,6 +13777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Πριν καν βγεις,\nεσύ έχεις ήδη κλέψει μια καρδιά"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jos sinä astut ovesta sisään,\nkoko ravintola rakastuu."
           }
         }
       }
@@ -13159,6 +13891,12 @@
             "state" : "translated",
             "value" : "Μπορείς! Εγώ θα είμαι ο πρώτος\nθαυμαστής όταν εσύ τα καταφέρεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Treffit eivät ole edes alkaneet, ja sinä\nolet jo sydänten murskaaja."
+          }
         }
       }
     },
@@ -13265,6 +14003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ακόμη και το μικρό βήμα\nείναι αρχή· εσύ το έχεις ήδη κάνει"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totta kai sinä pystyt tähän,\nja minä pidän peukkuja."
           }
         }
       }
@@ -13373,6 +14117,12 @@
             "state" : "translated",
             "value" : "Μην τα παρατάς, το όνειρό σου\nθα γίνει πραγματικότητα και εσύ θα το δεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pienikin askel on osa suurta\nmatkaa, ja sinä olet jo matkalla."
+          }
         }
       }
     },
@@ -13479,6 +14229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η σημερινή προσπάθεια\nχτίζει αυριανή επιτυχία· εσύ είσαι ο μάστορας"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Älä luovuta, sillä sinä olet\nsaavuttamassa unelmasi!"
           }
         }
       }
@@ -13587,6 +14343,12 @@
             "state" : "translated",
             "value" : "Το πάθος σου θα αλλάξει\nτον κόσμο, εσύ έχεις τη δύναμη"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tämän päivän vaiva on huomisen\nvoitto, ja sinä teet sen hyvin."
+          }
         }
       }
     },
@@ -13693,6 +14455,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η αποτυχία είναι δάσκαλος\nκαι εσύ μαθαίνεις πιο γρήγορα απ' όλους"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intosi voi muuttaa maailmaa,\nja sinä olet jo liikkeellä."
           }
         }
       }
@@ -13801,6 +14569,12 @@
             "state" : "translated",
             "value" : "Οι δυνατότητές σου\nείναι άπειρες, εσύ το ξέρεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Epäonnistuminen on vain harjoitusta.\nHuomenna sinä onnistut."
+          }
         }
       }
     },
@@ -13907,6 +14681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Δώσε κάθε μέρα\nό,τι έχεις κι εσύ θα δεις θαύματα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mahdollisuutesi ovat rajattomat,\nja sinä olet vasta alussa."
           }
         }
       }
@@ -14015,6 +14795,12 @@
             "state" : "translated",
             "value" : "Όταν εσύ προσπαθείς,\nκάποιος αλλού παίρνει κουράγιο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tee tänään parhaasi, koska\nsinä olet siinä loistava."
+          }
         }
       }
     },
@@ -14121,6 +14907,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Όλα θα πάνε καλά·\nεσύ είσαι το καλύτερο σημάδι"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun sinä yrität kovasti, joku\nmuu saa siitä intoa."
           }
         }
       }
@@ -14229,6 +15021,12 @@
             "state" : "translated",
             "value" : "Μην παραιτείσαι· εσύ\nέχεις ήδη αποδείξει πολλά"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaikki järjestyy, jos sinä\nvain jatkat. Ihan oikeasti!"
+          }
         }
       }
     },
@@ -14335,6 +15133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Δύναμη τώρα, γιατί εσύ\nμπορείς να καταφέρεις τα πάντα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Älä anna periksi, sillä sinä\nolet loistava ihminen."
           }
         }
       }
@@ -14443,6 +15247,12 @@
             "state" : "translated",
             "value" : "Όσοι ξέρουν τον κόπο σου\nχειροκροτούν, κι εσύ το αξίζεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hyvä sinä! Tänäänkin saat\nkaiken aikaan."
+          }
         }
       }
     },
@@ -14549,6 +15359,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η αξία σου είναι δεδομένη·\nεσύ δεν χρειάζεσαι άλλη απόδειξη"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Joka näkee vaivannäkösi, pitää\npeukkuja, ja sinä ansaitset sen."
           }
         }
       }
@@ -14657,6 +15473,12 @@
             "state" : "translated",
             "value" : "Όπως είσαι,\nεσύ είσαι ήδη ολοκληρωμένο έργο τέχνης"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arvokas olet jo sellaisenaan, sinä\nihana ihminen!"
+          }
         }
       }
     },
@@ -14763,6 +15585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Και μόνο η ύπαρξή σου\nείναι ξεχωριστή, εσύ το ξέρεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juuri sellaisena sinä olet täydellinen,\nei yhtään vähempää."
           }
         }
       }
@@ -14871,6 +15699,12 @@
             "state" : "translated",
             "value" : "Με αυτοπεποίθηση, γιατί\nεσύ είσαι ένας φοβερός άνθρωπος"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pelkkä olemassaolosi on jo\njotain erityistä, sinä ihme."
+          }
         }
       }
     },
@@ -14977,6 +15811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η δύναμή σου είναι\nμεγαλύτερη απ' όσο φαίνεται, εσύ το ξέρεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rohkeasti eteenpäin, sillä sinä\nolet aika upea tyyppi!"
           }
         }
       }
@@ -15085,6 +15925,12 @@
             "state" : "translated",
             "value" : "Η προσωπικότητά σου\nλάμπει, και εσύ το ξέρεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vahvempi olet kuin luulet,\nja sinä tiedät sen jo."
+          }
         }
       }
     },
@@ -15191,6 +16037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Πίστεψε στον εαυτό σου,\nεσύ μπορείς να κατακτήσεις τον κόσμο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luonteesi saa sinut loistamaan,\nja sinä olet ainutlaatuinen."
           }
         }
       }
@@ -15299,6 +16151,12 @@
             "state" : "translated",
             "value" : "Έτσι όπως είσαι, εσύ\nταιριάζεις τέλεια στον κόσμο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usko itseesi, sillä sinä\nosaat kyllä!"
+          }
         }
       }
     },
@@ -15405,6 +16263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Με τόση αυτοπεποίθηση,\nεσύ είσαι ό,τι καλύτερο έχει ο κόσμος"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Täydellinen sellaisenaan:\nsinä, ei mitään lisättävää."
           }
         }
       }
@@ -15513,6 +16377,12 @@
             "state" : "translated",
             "value" : "Αξίζεις πολύ περισσότερα\nαπ' όσα νομίζεις, εσύ το ξέρεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Itsevarmana sinä olet\nmaailman upein näky!"
+          }
         }
       }
     },
@@ -15619,6 +16489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Τα πας ήδη υπέροχα,\nεσύ δεν έχεις τίποτα να αποδείξεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Huikeampi olet kuin ajattelet,\nja sinä saat sen vielä huomata."
           }
         }
       }
@@ -15727,6 +16603,12 @@
             "state" : "translated",
             "value" : "Όποιος δεν βλέπει τη γοητεία σου\nδεν έχει μάτια, εσύ δεν φταις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jo nyt teet hyvää työtä,\nja sinä olet sen arvoinen."
+          }
         }
       }
     },
@@ -15833,6 +16715,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Σήμερα απλώς\nχαλάρωσε, εσύ το αξίζεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Joka ei huomaa viehätystäsi,\nei ole katsonut, sillä sinä loistat."
           }
         }
       }
@@ -15941,6 +16829,12 @@
             "state" : "translated",
             "value" : "Ακόμη κι εσύ\nχρειάζεσαι ξεκούραση"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tänään vain lepäillään,\nrauhassa ja hyvässä seurassa."
+          }
         }
       }
     },
@@ -16047,6 +16941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Να μην κάνεις τίποτα\nείναι εντάξει, εσύ το ξέρεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lepo kuuluu myös sinulle,\nja sinä saat sen nyt."
           }
         }
       }
@@ -16155,6 +17055,12 @@
             "state" : "translated",
             "value" : "Η ψυχή σου είναι\nτο πιο σημαντικό, εσύ το ξέρεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivä, jona ei tarvitse tehdä mitään,\non ihan täysi päivä."
+          }
         }
       }
     },
@@ -16261,6 +17167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Αργά και σταθερά,\nεσύ με τον δικό σου ρυθμό"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mielesi on kaikkein tärkein,\nja sinä saat kuunnella sitä."
           }
         }
       }
@@ -16369,6 +17281,12 @@
             "state" : "translated",
             "value" : "Αφιέρωσε χρόνο στον εαυτό σου·\nεσύ το χρειάζεσαι σήμερα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edetään hitaasti, ja sinä\nsaat valita tahdin."
+          }
         }
       }
     },
@@ -16475,6 +17393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η ξεκούραση είναι\nπαραγωγική, εσύ το πιστεύεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tänään vietetään aikaa kanssasi,\nja sinä olet erinomaista seuraa."
           }
         }
       }
@@ -16583,6 +17507,12 @@
             "state" : "translated",
             "value" : "Το να ξεκουράζεσαι\nείναι δικαίωμά σου, εσύ το αξίζεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lepo on tuottavaa, joten sinä\nolet tehnyt töitä koko ajan!"
+          }
         }
       }
     },
@@ -16689,6 +17619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Την ώρα που γιατρεύεσαι\nεσύ ακόμη κερδίζεις τον κόσμο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lepääminen on oikeutesi, ja sinä\nsaat ottaa sen vapaasti."
           }
         }
       }
@@ -16797,6 +17733,12 @@
             "state" : "translated",
             "value" : "Μπορείς να σταματήσεις·\nεσύ δεν χρωστάς τίποτα σε κανέναν"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rentoutuessasi sinä olet\nvieläkin kauniimpi."
+          }
         }
       }
     },
@@ -16903,6 +17845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ξεκουράζεσαι και πάλι\nεσύ λάμπεις, δεν γίνεται αλλιώς"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ota aikaa itsellesi, sillä\nsinä olet sen ansainnut."
           }
         }
       }
@@ -17011,6 +17959,12 @@
             "state" : "translated",
             "value" : "Ακόμη και στην ηρεμία σου\nεσύ είσαι ό,τι ομορφότερο στον κόσμο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lepäilet ja loistat samalla,\nkuinka sinä sen teet?"
+          }
         }
       }
     },
@@ -17117,6 +18071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Τέλεια, εκτός από ένα κενό:\nαυτό που αφήνεις όταν λείπεις εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jopa pyjamassa sohvalla sinä\nolet maailman kaunein ihminen."
           }
         }
       }
@@ -17225,6 +18185,12 @@
             "state" : "translated",
             "value" : "Το τεστ προσωπικότητας\nβγάζει «κούκλα»· εσύ διαφωνείς;"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Täydellinen, mutta yksi vika:\nsinä olet liian hyvä ollaksesi totta."
+          }
         }
       }
     },
@@ -17331,6 +18297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ο καθρέφτης είπε «πάω για ύπνο»\nγιατί εσύ τον ξεπέρασες σε λάμψη"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Persoonallisuustesti paljasti:\nsinä olet sataprosenttisesti ihana."
           }
         }
       }
@@ -17439,6 +18411,12 @@
             "state" : "translated",
             "value" : "Αν η ομορφιά ήταν έγκλημα,\nεσύ θα είχες ήδη ισόβια"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kysyin: nostakaa käsi, jos sinä olet söpö.\nNyt koko planeetta vilkuttaa."
+          }
         }
       }
     },
@@ -17545,6 +18523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Σε λένε κόσμημα;\nΛίγο είναι, εσύ είσαι ολόκληρο κοσμηματοπωλείο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kauneusihmeet vertaavat itseään:\nsinä olet se mittapuu."
           }
         }
       }
@@ -17653,6 +18637,12 @@
             "state" : "translated",
             "value" : "Στον πίνακα βαθμολογίας\nσε βάζουν δέκα, κι εσύ είσαι εκτός κλίμακας"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poliisi pysäytti ja sanoi:\nsinä ajat sydämeeni ylinopeutta."
+          }
         }
       }
     },
@@ -17759,6 +18749,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Σε λένε μπαλαρίνα;\nΜάλλον ναι, γιατί εσύ χορεύεις στις καρδιές"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sakkolappu tuli: sinä olet liian\nhyvännäköinen julkiseen tilaan."
           }
         }
       }
@@ -17867,6 +18863,12 @@
             "state" : "translated",
             "value" : "Έχω ένα πρόβλημα:\nτα επίθετα τελειώνουν όταν σκέφτομαι εσύ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kysyin, mikä kaupan paras tuote on,\nja myyjä osoitti: sinä."
+          }
         }
       }
     },
@@ -17973,6 +18975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ο ήλιος παραιτήθηκε·\nεσύ κάνεις καλύτερα τη δουλειά"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kehu kehuu kehua, mutta sinä\nolet koko kehuoppikirja."
           }
         }
       }
@@ -18081,6 +19089,12 @@
             "state" : "translated",
             "value" : "Το GPS λέει «έχετε φτάσει»\nκάθε φορά που σε βλέπω"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uskotko taikuuteen? Siitä viis,\nkoska sinä olet elävä todiste."
+          }
         }
       }
     },
@@ -18187,6 +19201,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Τόση λάμψη, και δεν σε πληρώνει\nη εταιρεία ρεύματος;"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaikki on kunnossa, mutta mitä puuttuu?\nEi mitään, sinä olet täysi."
           }
         }
       }
@@ -18295,6 +19315,12 @@
             "state" : "translated",
             "value" : "Δεν είσαι ζαχαροπλαστείο,\nαλλά εσύ μου γλυκαίνεις τη μέρα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laske laukku alas, sinä olet\nkantanut jo tarpeeksi hurmaa."
+          }
         }
       }
     },
@@ -18401,6 +19427,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Τα χνάρια σου θα μπουν στο μουσείο,\nεσύ ο καλλιτέχνης"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiljaa hyvä tulee, mutta sinä\ntulet kuin ukkonen: kaikki huomaavat."
           }
         }
       }
@@ -18509,6 +19541,12 @@
             "state" : "translated",
             "value" : "Κοστίζεις ακριβά,\nαλλά για μένα εσύ είσαι δωρεάν χαμόγελο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lakritsi on hyvää ja salmiakki parempaa,\nmutta sinä olet suklaata."
+          }
         }
       }
     },
@@ -18615,6 +19653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Μου έβαλαν πρόστιμο\nγια υπερβολικό θαυμασμό· ευθύνη εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sauna lauantaina on ihanaa,\nmutta sinä olet vielä löylyisempi."
           }
         }
       }
@@ -18723,6 +19767,12 @@
             "state" : "translated",
             "value" : "Μοιάζεις με Wi-Fi:\nεσύ μου δίνεις σύνδεση με τη ζωή"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revontulet pyytävät tuuraajaa, kun\nsinä olet paikalla."
+          }
         }
       }
     },
@@ -18829,6 +19879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ο καλύτερος τύπος:\nεσύ + χαμόγελο = ευτυχία"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sisua ei tarvita, kun sinä olet\nvalmiiksi liian upea."
           }
         }
       }
@@ -18937,6 +19993,12 @@
             "state" : "translated",
             "value" : "Στο ηλιοβασίλεμα δίνω εννιά·\nεσύ παίρνεις δέκα με τόνο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mökillä on rauhallista, mutta\nsinä tuot sinne kesäyön auringon."
+          }
         }
       }
     },
@@ -19043,6 +20105,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Αν η καλοσύνη ήταν νόμισμα,\nεσύ θα είχες ήδη τράπεζα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pulla pehmeää, kahvi kuumaa,\nmutta sinä olet makeampi."
           }
         }
       }
@@ -19151,6 +20219,12 @@
             "state" : "translated",
             "value" : "Μην βγεις βόλτα· θα γεμίσει\nο δρόμος θαυμαστές, και εσύ φταις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paljon on kaunista Suomessa,\nmutta sinä olet ihan oma järvensä."
+          }
         }
       }
     },
@@ -19257,6 +20331,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Μπήκε το κέφι στο σπίτι\nμε ένα όνομα: εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Karjalanpiirakka on kansallisaarre,\nmutta sinä olet vielä suurempi."
           }
         }
       }
@@ -19365,6 +20445,12 @@
             "state" : "translated",
             "value" : "Το κινητό μου έβαλε φίλτρο·\nεσύ δεν χρειάζεσαι κανένα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miksi sinä työskentelet?\nNaamasi tekee jo kaiken työn."
+          }
         }
       }
     },
@@ -19471,6 +20557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ποιος είπε ότι υπάρχει σχέδιο Β;\nΌταν εσύ είσαι το σχέδιο Α"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gaalassa ei voi jakaa palkintoja,\nkoska sinä veisit ne kaikki."
           }
         }
       }
@@ -19579,6 +20671,12 @@
             "state" : "translated",
             "value" : "Το μουσείο θα σε ήθελε έκθεμα·\nεσύ πάντως ήδη είσαι έργο τέχνης"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuvaaja on pyytänyt tulla uudestaan,\nkoska sinä olet liian hyvä kuva."
+          }
         }
       }
     },
@@ -19685,6 +20783,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Βγάζεις φωτογραφία;\nΟ φακός ζητά συγγνώμη, εσύ ήσουν τέλειο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ei, et ole mikään idoli, vaan sinä\nolet sydämeni listaykkönen."
           }
         }
       }
@@ -19793,6 +20897,12 @@
             "state" : "translated",
             "value" : "Δόξα τω Θεώ, υπάρχεις·\nεσύ είσαι ο λόγος που ζει η λέξη «τέλειο»"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pyydän nimikirjoitusta:\nsinä saat signeerata koko päiväni."
+          }
         }
       }
     },
@@ -19899,6 +21009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Σήμερα η ομορφιά\nβγήκε βόλτα και είχε όνομα: εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debytoi pian, sillä sinä olet\njo sydämessäni keskipisteenä."
           }
         }
       }
@@ -20007,6 +21123,12 @@
             "state" : "translated",
             "value" : "Σε είδα στην οθόνη· εσύ\nκάνεις το ίντερνετ καλύτερο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listaykkönen taas! Kun sinä\nastut lavalle, hitti on valmis."
+          }
         }
       }
     },
@@ -20113,6 +21235,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Με έναν καφέ κι εσύ\nη μέρα γίνεται γιορτή"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pysähdy hetkeksi, kun sinä\nhymyilet, haluan ottaa kuvan."
           }
         }
       }
@@ -20221,6 +21349,12 @@
             "state" : "translated",
             "value" : "Πέρασες από δω και τα λουλούδια\nάνθισαν από ζήλια· εσύ φταις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paluu lavalle? Kyllä, sinä olet\nkäynnistänyt sydämeni uudelleen."
+          }
         }
       }
     },
@@ -20327,6 +21461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Το γέλιο σου κάνει τα δέντρα\nνα χορεύουν, εσύ το ξέρεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Videoleikkeet sinusta pyörivät päässäni,\nkoska sinä olet joka kohtauksessa."
           }
         }
       }
@@ -20435,6 +21575,12 @@
             "state" : "translated",
             "value" : "Κανένα σχόλιο·\nμόνο εσύ, και αρκεί"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musiikkivideossa ei ole tilaa muille,\nkun sinä olet pääosassa."
+          }
         }
       }
     },
@@ -20541,6 +21687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ο καλύτερος ρόλος της ταινίας;\nΟ δικός σου, γιατί εσύ είσαι ο πρωταγωνιστής"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dokumenttisarjassa sinä olisit\nmaailman viehättävin päähenkilö."
           }
         }
       }
@@ -20649,6 +21801,12 @@
             "state" : "translated",
             "value" : "Βγαίνεις στη βόλτα\nκαι ο ήλιος κάνει χώρο, εσύ φωτίζεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keskushenkilö jokaisessa huoneessa:\nsinä, ihan varmasti."
+          }
         }
       }
     },
@@ -20755,6 +21913,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η καρδιά μου έχει δύο ρυθμούς:\nκανονικό και όταν εσύ χαμογελάς"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuoden kasvot -palkinto on sinun, ja\nsinä olet ollut ehdolla ikuisesti."
           }
         }
       }
@@ -20863,6 +22027,12 @@
             "state" : "translated",
             "value" : "Αν ήσουν γλυκό,\nεσύ θα ήσουν το πιο ακριβό της βιτρίνας"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mainoksissa sinä loistat niin,\nettä kaikki haluavat ostaa kaiken."
+          }
         }
       }
     },
@@ -20969,6 +22139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Σε κάθε φωτογραφία\nέλειπες εσύ, και τώρα συμπληρώθηκε"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lehden kansikuvaan sinä kuulut,\nsekä jokaiseen numeroon."
           }
         }
       }
@@ -21077,6 +22253,12 @@
             "state" : "translated",
             "value" : "Δεν σε έχω ανάγκη·\nαπλώς εσύ είσαι η πιο ωραία συνήθεια"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lavalla sinä olet karismaa,\nja arjessakin loistat kuin valonheitin."
+          }
         }
       }
     },
@@ -21183,6 +22365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Όλο φως και πάθος,\nεσύ είσαι αυτό που ψάχνει ο κόσμος"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jos keräisin kuvakortteja, sinä\nolisit koko pakka, ei muuta."
           }
         }
       }
@@ -21291,6 +22479,12 @@
             "state" : "translated",
             "value" : "Τα αστέρια ρώτησαν\nπώς λάμπεις έτσι εσύ, και δεν απάντησες"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fanitapaaminen? Kyllä, sinä olet se,\njonka haluan nähdä joka päivä."
+          }
         }
       }
     },
@@ -21397,6 +22591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Όπου πας,\nεσύ φέρνεις φως, ακόμη και στο ασανσέρ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tanssivideo tulille, koska sinä\nliikut kuin taideteos."
           }
         }
       }
@@ -21505,6 +22705,12 @@
             "state" : "translated",
             "value" : "Αστέρι είσαι, και μάλιστα\nεσύ από αυτά που φαίνονται και με φως ημέρας"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esittelyvideo on turha, koska\nsinä olet aina pelkkä huippukohta."
+          }
         }
       }
     },
@@ -21611,6 +22817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Δέκα στα δέκα,\nκαι εσύ το ξέρεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maailmankiertue odottaa, mutta\nsinä olet jo järisyttänyt maailmani."
           }
         }
       }
@@ -21719,6 +22931,12 @@
             "state" : "translated",
             "value" : "Αν είχες μάρκα,\nεσύ θα εξαντλούσες τα αποθέματα σε μια ώρα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Albumiin nimikirjoitus, kiitos:\nsinä olet rajoitettu erä."
+          }
         }
       }
     },
@@ -21825,6 +23043,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Μόνο με το χαμόγελό σου\nεσύ έχεις φίλους σε όλο τον κόσμο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heiluttelen valotikkua, ja sinä\nsaat koko sydämeni valot."
           }
         }
       }
@@ -21933,6 +23157,12 @@
             "state" : "translated",
             "value" : "Σε ψάχνω παντού\nκαι εσύ είσαι πάντα στην καρδιά μου"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nousu listalle on selvä, mutta\nsinä olet ollut legenda aina."
+          }
         }
       }
     },
@@ -22039,6 +23269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η Δευτέρα φοβάται\nόταν σε βλέπει να χαμογελάς εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konserttiliput odottavat, mutta\nsinä olet päivittäinen keikkani."
           }
         }
       }
@@ -22147,6 +23383,12 @@
             "state" : "translated",
             "value" : "Αν η Δευτέρα είχε προσωπικότητα,\nεσύ θα την έκανες Παρασκευή"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kappale ykkössijalla, ja sinä\nolet elämäni parhaat soinnut."
+          }
         }
       }
     },
@@ -22253,6 +23495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η καρδιά μου έχει\nμια θέση, και εσύ την έχεις πιάσει"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vielä yksi encore, sillä sinä\nolet liian hyvä lopetettavaksi."
           }
         }
       }
@@ -22361,6 +23609,12 @@
             "state" : "translated",
             "value" : "Η μουσική είναι ωραία,\nαλλά εσύ είσαι το τραγούδι"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuvauksen taustakuvatkin ovat täydellisiä,\nsillä sinä olet joka kuvassa."
+          }
         }
       }
     },
@@ -22467,6 +23721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Θα σε έβαζα για πάντα\nστη λίστα αναπαραγωγής, εσύ κομμάτι-όνειρο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaihdan suosikkini, koska sinä\nolet ainoa, jota jaksan katsoa."
           }
         }
       }
@@ -22575,6 +23835,12 @@
             "state" : "translated",
             "value" : "Μ' αρέσει που υπάρχεις·\nεσύ δεν το ήξερες;"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fanittamaan ryhdyin heti, kun sinä\nastuit huoneeseen."
+          }
         }
       }
     },
@@ -22681,6 +23947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Όταν γελάς εσύ,\nγελά μαζί σου όλος ο κόσμος"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paljastan suosikkini: se on\nsinä, ei muuta vaihtoehtoa."
           }
         }
       }
@@ -22789,6 +24061,12 @@
             "state" : "translated",
             "value" : "Λες και έχεις μαγικό ραβδί:\nεσύ αλλάζεις τη διάθεση όλων"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ostin kaikki tuotteet, mutta sinä\nolet oikea keräilyharvinaisuus."
+          }
         }
       }
     },
@@ -22895,6 +24173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ο κόσμος θα έμενε μπερδεμένος\nχωρίς εσύ, και το ξέρει"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fanitan sinua elämäni loppuun,\nkoska sinä olet ikuinen suosikkini."
           }
         }
       }
@@ -23003,6 +24287,12 @@
             "state" : "translated",
             "value" : "Με το που σε βλέπω\nεσύ μου φτιάχνεις το χαμόγελο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kotijoukkueeni löytyy luotasi,\nsillä sinä olet minun kapteenini."
+          }
         }
       }
     },
@@ -23109,6 +24399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Το αστείο μου ήταν μέτριο·\nεσύ το έκανες αστείο γελώντας"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aloitan fanituksen heti, ja sinä\nsaat minulta kaiken innostuksen."
           }
         }
       }
@@ -23217,6 +24513,12 @@
             "state" : "translated",
             "value" : "Δεν χρειάζομαι πρωινό·\nμου φτάνει το χαμόγελό σου, εσύ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ryhdyn valokuvaajaksi, sillä sinä\nolet jokaisen otoksen arvoinen."
+          }
         }
       }
     },
@@ -23323,6 +24625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ευχάριστη έκπληξη είσαι\nχωρίς ημερομηνία λήξης, εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aika kultaa muistot, mutta kun sinä\nolet mukana, kaikki on kultaa jo nyt."
           }
         }
       }
@@ -23431,6 +24739,12 @@
             "state" : "translated",
             "value" : "Αν ήσουν βιβλίο,\nεσύ θα ήσουν best seller"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synttärimainos kaupungin taululle:\nsinä synnyit täydellisenä."
+          }
         }
       }
     },
@@ -23537,6 +24851,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Για την ιστορία:\nεσύ είσαι ο λόγος που ο κόσμος αξίζει"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuen sinua elämän loppuun asti,\nja sinä olet fanikuntani ylpeys."
           }
         }
       }
@@ -23645,6 +24965,12 @@
             "state" : "translated",
             "value" : "Η καρδιά μου τρέχει\nόταν εσύ μπαίνεις στο δωμάτιο"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sydämeni hakkaa, kun sinä\nkäännät katseen minuun."
+          }
         }
       }
     },
@@ -23751,6 +25077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ξέρεις κάτι; Ο κόσμος\nγίνεται ομορφότερος όπου περνάς εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maailma kaunistuu, kun sinä\nvain katsot siihen."
           }
         }
       }
@@ -23859,6 +25191,12 @@
             "state" : "translated",
             "value" : "Στη ζωή μου εσύ\nείσαι η βιταμίνη της χαράς"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olet onnellisuuden vitamiini,\nja sinä vaikutat jo ilman annosta."
+          }
         }
       }
     },
@@ -23965,6 +25303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Χαμογελώ κι εγώ\nχωρίς λόγο όταν γελάς εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kirkkain tähti, minkä olen nähnyt,\non se, jota sinä katsot hymyillen."
           }
         }
       }
@@ -24073,6 +25417,12 @@
             "state" : "translated",
             "value" : "Έχω δει πολλά αστέρια,\nαλλά εσύ είσαι το πιο φωτεινό"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Joka päivä on juhla, kun\nsinä olet läsnä sydämessäni."
+          }
         }
       }
     },
@@ -24179,6 +25529,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Κάθε μέρα σου\nείναι γιορτή στην καρδιά μου, εσύ το ξέρεις"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Äänesi kuuleminen riittää, sillä\nsinä saat hyvälle mielelle tilaa."
           }
         }
       }
@@ -24287,6 +25643,12 @@
             "state" : "translated",
             "value" : "Με τη φωνή σου\nεσύ μου φτιάχνεις τη διάθεση"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elämäni suurin onni, ja\nsinä olet sen alkulähde."
+          }
         }
       }
     },
@@ -24393,6 +25755,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Μεγάλη μου τύχη\nείναι που υπάρχεις εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tänäänkin sinä saat minut\nnauramaan ilman syytä."
           }
         }
       }
@@ -24501,6 +25869,12 @@
             "state" : "translated",
             "value" : "Χαμογελώ σήμερα\nεπειδή υπάρχεις εσύ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maailman rakkain ihminen, ja\nsinä tiedät sen jo."
+          }
         }
       }
     },
@@ -24607,6 +25981,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Από όλα όσα ξέρω,\nεσύ είσαι το πιο πολύτιμο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun ajattelen sinua, sinä saat\nhymyn tulemaan ihan itsestään."
           }
         }
       }
@@ -24715,6 +26095,12 @@
             "state" : "translated",
             "value" : "Ειρωνεία της μοίρας:\nεσύ με κάνεις να χαμογελώ μόνος μου"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mielenrauhani, ja sinä\nolet sen kotiosoite."
+          }
         }
       }
     },
@@ -24821,6 +26207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Γαλήνη θα πει\nεσύ, με ένα φλιτζάνι τσάι"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hetket kanssasi ovat aina\nerityisiä, koska sinä olet mukana."
           }
         }
       }
@@ -24929,6 +26321,12 @@
             "state" : "translated",
             "value" : "Η ώρα που περνάμε μαζί\nγίνεται ξεχωριστή επειδή εσύ είσαι εκεί"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parasta, mitä tiedän, on\nsinä ja sinun hymysi."
+          }
         }
       }
     },
@@ -25035,6 +26433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Από όσους ξέρω,\nεσύ είσαι το καλύτερο δείγμα ανθρώπου"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiitollisuus täyttää mieleni, koska\nsinä olet vain olemassa."
           }
         }
       }
@@ -25143,6 +26547,12 @@
             "state" : "translated",
             "value" : "Και μόνο που υπάρχεις,\nεσύ αξίζεις ένα μεγάλο ευχαριστώ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päiväni kohokohta on se hetki,\nkun sinä ilmestyt kuvaan."
+          }
         }
       }
     },
@@ -25249,6 +26659,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Στη μέρα μου\nεσύ είσαι πάντα το highlight"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivät muuttuvat erityisiksi, kun\nsinä olet niissä mukana."
           }
         }
       }
@@ -25357,6 +26773,12 @@
             "state" : "translated",
             "value" : "Κάθε μέρα γίνεται ξεχωριστή\nεπειδή εσύ ήρθες στη ζωή μου"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valaiset huoneen, kun sinä\nastut sisään, ei lamppua tarvita."
+          }
         }
       }
     },
@@ -25463,6 +26885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Φως μπαίνει στο δωμάτιο\nόποτε φτάνεις εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elämän paras lahja, ja sinä\nolet sen punainen rusetti."
           }
         }
       }
@@ -25571,6 +26999,12 @@
             "state" : "translated",
             "value" : "Το πιο ωραίο δώρο\nτης ζωής μου είσαι εσύ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maailma on kauniimpi, koska\nsinä asut siinä."
+          }
         }
       }
     },
@@ -25677,6 +27111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ο κόσμος είναι ομορφότερος\nγιατί εσύ είσαι εδώ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivä ilman sinua olisi kuin\nkahvi ilman kofeiinia, sinä."
           }
         }
       }
@@ -25785,6 +27225,12 @@
             "state" : "translated",
             "value" : "Μια μέρα χωρίς εσύ\nδεν μπορώ να τη φανταστώ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ykkönen sydämessäni on\nsinä, ei kiistaa."
+          }
         }
       }
     },
@@ -25891,6 +27337,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Σε κάθε λίστα μου\nεσύ είσαι πάντα το νούμερο ένα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaiken mahdollistaa se, että\nsinä seisot vierelläni."
           }
         }
       }
@@ -25999,6 +27451,12 @@
             "state" : "translated",
             "value" : "Όταν είσαι δίπλα μου, εσύ\nμε κάνεις να νιώθω ότι όλα γίνονται"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Joka päivä kiitän tuurista, koska\nsinä olet osunut kohdalleni."
+          }
         }
       }
     },
@@ -26105,6 +27563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Κάθε μέρα ευχαριστώ\nτον κόσμο που υπάρχεις εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hymysi voittaa kaiken maailmassa,\nja sinä tiedät sen."
           }
         }
       }
@@ -26213,6 +27677,12 @@
             "state" : "translated",
             "value" : "Ένα δικό σου χαμόγελο\nκαι η μέρα φτιάχνεται, εσύ μάγε"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elämäni suurin siunaus on\nsinä, ei ole toista."
+          }
         }
       }
     },
@@ -26319,6 +27789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η μεγαλύτερη ευλογία\nτης ζωής μου είσαι εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajatus sinusta tekee päivästä\nonnellisen, ja sinä tiedät sen."
           }
         }
       }
@@ -26427,6 +27903,12 @@
             "state" : "translated",
             "value" : "Μόλις σε σκέφτομαι,\nη μέρα φωτίζεται, εσύ φταις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sydämeni koti on siellä,\nmissä sinä olet."
+          }
         }
       }
     },
@@ -26533,6 +28015,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Σπίτι μου πια\nείναι εκεί που βρίσκεσαι εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaikki on täydellistä, kun\nsinä olet lähellä."
           }
         }
       }
@@ -26641,6 +28129,12 @@
             "state" : "translated",
             "value" : "Όταν είσαι εδώ εσύ,\nόλα είναι στη θέση τους"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuvittelin unelmieni ihmisen,\nja sinä olet ihan se."
+          }
         }
       }
     },
@@ -26747,6 +28241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η ιδανική μου εικόνα\nείναι ακριβώς εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Katson sinua ja sydän menee\nepäkuntoon. Korjaajaksi kelpaa vain sinä."
           }
         }
       }
@@ -26855,6 +28355,12 @@
             "state" : "translated",
             "value" : "Λέω στην καρδιά μου «ηρέμησε»\nκαι εσύ την ξαναχαλάς"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matkaan kanssasi vaikka kuuhun, sillä\nsinä olet paras reppukaveri."
+          }
         }
       }
     },
@@ -26961,6 +28467,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Περπατώντας εσύ\nγράφεις ιστορία"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historiankirjoihin päätyvä ihminen, ja\nsinä olet jo kävelevä elämäkerta."
           }
         }
       }
@@ -27069,6 +28581,12 @@
             "state" : "translated",
             "value" : "Στη γοητεία σου\nεσύ με νικάς κάθε φορά"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Charmisi iskee jatkuvasti, ja\nsinä saat jatkaa vaan."
+          }
         }
       }
     },
@@ -27175,6 +28693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Σε κοιτάζω τόσο πολύ\nπου εσύ μου έφερες πόνο στον αυχένα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sinuun keskittyessäni niskani\njäi jumiin, sinä viehkeä."
           }
         }
       }
@@ -27283,6 +28807,12 @@
             "state" : "translated",
             "value" : "Κάθε φορά που εσύ\nχαμογελάς, ανεβαίνει ο σφυγμός μου"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sykkeeni nousee aina, kun sinä\nastut näkökenttääni."
+          }
         }
       }
     },
@@ -27389,6 +28919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Στα μάτια μου\nεσύ είσαι θρύλος"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Silmissäni sinä olet\nlegendaarinen kansikuva."
           }
         }
       }
@@ -27497,6 +29033,12 @@
             "state" : "translated",
             "value" : "Κάθε μέρα που εσύ\nυπάρχεις, είναι η αγαπημένη μου"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Joka päivä on suosikkipäivä,\nkun sinä olet siinä."
+          }
         }
       }
     },
@@ -27603,6 +29145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ζωντανό θαύμα είσαι·\nτο ήξερες εσύ;"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elävä ihme, ja sinä\nolet kävelevä todiste."
           }
         }
       }
@@ -27711,6 +29259,12 @@
             "state" : "translated",
             "value" : "Με κοιτάς και όλα\nγίνονται αργή κίνηση, εσύ φταις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajan hidastuessa huomaan, että\nsinä olet syy tähän."
+          }
         }
       }
     },
@@ -27817,6 +29371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Για μένα εσύ\nείσαι το χρυσό εισιτήριο"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elämäni VIP-kortti, ja sinä\nolet sen ainoa haltija."
           }
         }
       }
@@ -27925,6 +29485,12 @@
             "state" : "translated",
             "value" : "Τρέλα μου είναι να σε βλέπω·\nεσύ είσαι το highlight της μέρας"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivän kohokohta on se, kun\nsinä tulet kuvaan."
+          }
         }
       }
     },
@@ -28031,6 +29597,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Το καλύτερο περιεχόμενο\nπου έχω δει είσαι εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sydämelleni premium-sisältöä, ja sinä\nolet sen ykkössuosikki."
           }
         }
       }
@@ -28139,6 +29711,12 @@
             "state" : "translated",
             "value" : "Μαζί σου ο κόσμος\nείναι σε HD, εσύ το ξέρεις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maailma näyttää teräväpiirtoiselta, kun\nsinä astut kuvaan."
+          }
         }
       }
     },
@@ -28245,6 +29823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Η καλύτερη ώρα της ζωής μου\nείσαι εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elämäni kultainen hetki, ja sinä\nolet sen kellonaika."
           }
         }
       }
@@ -28353,6 +29937,12 @@
             "state" : "translated",
             "value" : "Το χαμόγελο έρχεται μόνο του\nόταν σε σκέφτομαι, εσύ φταις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aina kun sinä olet mielessäni,\nhymy tulee automaattisesti."
+          }
         }
       }
     },
@@ -28459,6 +30049,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Πεντάστερο ξενοδοχείο\nείναι η καρδιά μου, και εσύ ο μόνιμος πελάτης"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sydämeni luksushotelli, ja sinä\nolet sen ainoa vieras."
           }
         }
       }
@@ -28567,6 +30163,12 @@
             "state" : "translated",
             "value" : "Επειδή υπάρχεις εσύ,\nκάθε μέρα είναι ειδική ημέρα"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Joka päivä on huippupäivä,\nkun sinä olet siinä mukana."
+          }
         }
       }
     },
@@ -28673,6 +30275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Κύριο γεγονός της ζωής μου\nείσαι εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elämäni pääsarja, ja sinä\nolet sen tähti."
           }
         }
       }
@@ -28781,6 +30389,12 @@
             "state" : "translated",
             "value" : "Η καρδιά μου χορεύει\nόταν εσύ δίνεις ρυθμό"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Syke tanssii, kun sinä\nvain katsot minua."
+          }
         }
       }
     },
@@ -28887,6 +30501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Στα μάτια μου εσύ\nέχεις ανάλυση 4K"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Silmissäni sinä olet\nkirkkaampi kuin 4K."
           }
         }
       }
@@ -28995,6 +30615,12 @@
             "state" : "translated",
             "value" : "Ο κόσμος λάμπει όταν σε κοιτάζω,\nεσύ τον φώτισες"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kun sinä astut paikalle, maailma\nsaa kirkkaammat värit."
+          }
         }
       }
     },
@@ -29101,6 +30727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ο μοναδικός VIP\nτης καρδιάς μου είσαι εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mielessäni sinä olet\nehdottomasti ykkönen."
           }
         }
       }
@@ -29209,6 +30841,12 @@
             "state" : "translated",
             "value" : "Επειδή υπάρχεις εσύ,\nη μέρα γίνεται ξεχωριστή"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sydämeni vip-vieras on se,\njonka nimi on sinä."
+          }
         }
       }
     },
@@ -29315,6 +30953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Το κρυφό μου χαρτί\nείσαι εσύ"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivästä tulee erityinen, kun\nsinä olet jossain lähellä."
           }
         }
       }
@@ -29423,6 +31067,12 @@
             "state" : "translated",
             "value" : "Το κέφι μου αναβαθμίζεται\nόταν σε σκέφτομαι, εσύ φταις"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salainen valttikorttini on\nsinä, joka voitat kaiken."
+          }
         }
       }
     },
@@ -29529,6 +31179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Αίθουσα δόξας; Μπορεί\nεσύ να είσαι το πρώτο και μοναδικό όνομα"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mielialani nousee kuin hissi, kun\nsinä ilmestyt kuvaan."
           }
         }
       }
@@ -29637,6 +31293,12 @@
             "state" : "translated",
             "value" : "Χάρη στο χαμόγελό σου\nεσύ έκανες τη ζωή μου έγχρωμη"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kunniatauluni ensimmäinen nimi on\nsinä, ja loput ovat tyhjiä."
+          }
         }
       }
     },
@@ -29743,6 +31405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Θρύλος όλων των εποχών\nείσαι εσύ, στα μάτια μου"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elämäni värikuvaa täydentää\nse, että sinä olet täällä."
           }
         }
       }
@@ -29851,6 +31519,12 @@
             "state" : "translated",
             "value" : "Ο χρόνος κάνει αργή κίνηση\nόταν περνάς εσύ μπροστά μου"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Silmissäni olet aikojen legenda,\nja sinä tiedät sen."
+          }
         }
       }
     },
@@ -29958,6 +31632,12 @@
             "state" : "translated",
             "value" : "Το πολυτιμότερο πάσο\nτης ζωής μου είσαι εσύ"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maailma kulkee hidastettuna, kun\nsinä käännät päätäsi."
+          }
         }
       }
     },
@@ -30064,6 +31744,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Το πιο όμορφο ηλιοβασίλεμα;\nΓια μένα είναι όταν εσύ γυρίζεις και γελάς"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium-passini elämään on\nsinä, ja se on voimassa ikuisesti."
           }
         }
       }

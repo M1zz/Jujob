@@ -106,6 +106,12 @@
             "state" : "translated",
             "value" : "Το Παίνεμα της Ημέρας"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivän hehkutus"
+          }
         }
       }
     },
@@ -213,6 +219,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Το Παίνεμα της Ημέρας"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Päivän hehkutus"
           }
         }
       }
