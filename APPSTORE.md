@@ -632,3 +632,48 @@ Tính năng chính
 
 Ứng dụng không thu thập dữ liệu cá nhân. Tên, mục yêu thích và mọi thông tin khác chỉ nằm trong thiết bị của bạn.
 Báo lỗi và góp ý qua email hoặc Instagram ngay trong phần Cài đặt nhé.
+
+## cs
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/cs/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/cs/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/cs/index.html
+
+### 이름
+
+Pochvala dne
+
+### 부제
+
+Pojďme přehánět spolu
+
+### 키워드
+
+citáty,motivace,widget,komplimenty,podpora,sebevědomí,povzbuzení,hlášky,nálada,ráno,rande,pohoda
+
+### 프로모션 텍스트
+
+Hláška, která tě dnes zvedne ze židle! Widget na ploše tě od rána až po cestu domů zasype přehnanou chválou a pořádně rozesměje. Teď i s tvým jménem.
+
+### 설명
+
+Widget, který tě chválí přehnaně, nahlas a s humorem. Na ploše tě několikrát denně přivítá hláška, po které se prostě usměješ.
+Celých 281 hlášek čeká na každou náladu a situaci: ráno, cestu do práce, pohovor, zkoušku, trému i špatný den.
+
+Co v aplikaci najdeš
+- Widget na ploše: nastav si velikost, písmo, barvu textu, obrázek na pozadí, zarovnání, řádkování i interval obnovy.
+- Výběr nálady: ráno, cesta do práce, před pohovorem, před zkouškou, před cvičením, před rande, cesta domů, večer, těžké chvíle, pohoda, sebevědomí a motivace.
+- Tvoje jméno: v hláškách se místo „ty“ objeví tvoje jméno, takže z tebe bude hvězda každé věty.
+- Oblíbené a historie: hlášky, které tě pobavily, si uložíš hvězdičkou a přečtené se ti vrátí v historii.
+- Série a úspěchy: když se podíváš 7, 30 nebo 100 dní v řadě, odemkneš zvláštní odměny.
+
+Osobní údaje nesbíráme. Jméno, oblíbené a další data zůstávají jen v tvém zařízení.
+Chyby a nápady na vylepšení nám pošli e-mailem nebo přes Instagram přímo z nastavení.

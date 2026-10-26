@@ -87,6 +87,12 @@
             "state" : "translated",
             "value" : "Chào buổi sáng! Hôm nay bạn đã\nđủ lấp lánh rồi nhé."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dobré ráno! Slunce dnes vstává\njen proto, že ty už jsi vzhůru."
+          }
         }
       }
     },
@@ -175,6 +181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mặt trời còn phải nể\nkhi thấy bạn thức dậy."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Káva? Pro tebe zbytečná,\nty potřebuješ jen publikum."
           }
         }
       }
@@ -265,6 +277,12 @@
             "state" : "translated",
             "value" : "Dậy được là bạn đã thắng\nmột nửa cuộc đời rồi!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ráno vstát? To zvládne jen ty,\nostatní se ještě nabíjejí."
+          }
         }
       }
     },
@@ -353,6 +371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sáng nay bạn tỏa sáng hơn\ncả bình minh luôn đó."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Budík zazvonil a celý svět\nzadržel dech, jestli ty vstaneš."
           }
         }
       }
@@ -443,6 +467,12 @@
             "state" : "translated",
             "value" : "Hôm nay bạn là nhân vật chính,\ncứ thế mà tỏa sáng thôi!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hlavní role dne: ty.\nOstatní jsou jen komparz."
+          }
         }
       }
     },
@@ -531,6 +561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vừa mở mắt ra là bạn\nđã chiến thắng rồi đó."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oči otevřené a ty už vítězíš.\nTohle je talent."
           }
         }
       }
@@ -621,6 +657,12 @@
             "state" : "translated",
             "value" : "Nụ cười của bạn buổi sáng\nngọt hơn cả ly cà phê sữa."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Káva je fajn, ale ráno ty\nbereš dech mnohem víc."
+          }
         }
       }
     },
@@ -709,6 +751,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hôm nay vẫn là bạn,\nvà thế là quá đỉnh rồi!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dneska buď zase ty.\nTo je ta nejlepší varianta!"
           }
         }
       }
@@ -799,6 +847,12 @@
             "state" : "translated",
             "value" : "Sáng ra đã xinh thế này,\nbạn định phạm luật hả?"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hned po ránu takhle zářit?\nOpravdu to ty přeháníš!"
+          }
         }
       }
     },
@@ -887,6 +941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Người ta chúc buổi sáng tốt lành,\nem chúc bạn buổi sáng cực phẩm!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dobré ráno? Spíš nejlepší ráno,\nprotože v něm jsi ty."
           }
         }
       }
@@ -977,6 +1037,12 @@
             "state" : "translated",
             "value" : "Mới sáng ra đã gặp bạn,\nmắt em được đi spa luôn."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sotva otevřeš oči, už je tu\nnejhezčí pohled dne: ty."
+          }
         }
       }
     },
@@ -1065,6 +1131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sáng nay em tìm ra người rạng rỡ\nnhất quả đất, chính là bạn!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ranní ty je nejlepší ty na světě.\nHvězdy mají dneska volno."
           }
         }
       }
@@ -1155,6 +1227,12 @@
             "state" : "translated",
             "value" : "Vất vả cả ngày rồi,\nbạn giỏi lắm đó nha!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vstávat dnes ráno je hračka,\nkdyž na světě existuje ty."
+          }
         }
       }
     },
@@ -1243,6 +1321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Khép lại một ngày, bạn vẫn\nlung linh như lúc mới sáng."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den končí, ale ty jako legenda\njedeš dál i po západu slunce."
           }
         }
       }
@@ -1333,6 +1417,12 @@
             "state" : "translated",
             "value" : "Hôm nay đã cố hết sức,\nem tự hào về bạn ghê!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Večer svítí hvězdy,\nale ty jim stejně kradeš show."
+          }
         }
       }
     },
@@ -1421,6 +1511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mệt thì mệt, nhưng bạn vẫn\ntrụ vững cả ngày. Đỉnh!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Únava jde spát, ty jsi\npořád hvězda i v domácím."
           }
         }
       }
@@ -1511,6 +1607,12 @@
             "state" : "translated",
             "value" : "Ngày nào của bạn\ncũng đáng giá hết."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Měsíc se ptá, kdo to tam tak\nzáří. To budeš ty."
+          }
         }
       }
     },
@@ -1599,6 +1701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Một ngày bình yên trôi qua,\nthế là đủ rồi bạn nhé."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Za dnešek ti patří medaile\na ty víš za co."
           }
         }
       }
@@ -1689,6 +1797,12 @@
             "state" : "translated",
             "value" : "Như sao trên bầu trời đêm,\nbạn cũng đang tỏa sáng đó."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Večerní ty je tak krásné,\nže si zaslouží vlastní hymnu."
+          }
         }
       }
     },
@@ -1777,6 +1891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tối rồi mà bạn vẫn rạng rỡ,\nbật pin dự phòng hả?"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I po celém dni vypadáš skvěle.\nJak to ty děláš?"
           }
         }
       }
@@ -1867,6 +1987,12 @@
             "state" : "translated",
             "value" : "Chạy deadline cả ngày mà bạn\nvẫn dễ thương, sao được vậy?"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tolik práce, a ty se ještě\nusmíváš? To je nadpozemské."
+          }
         }
       }
     },
@@ -1955,6 +2081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhờ có bạn mà hôm nay\nthế giới đẹp hơn hẳn."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dobrou noc, ty hvězdo.\nZítřek už se na tebe těší."
           }
         }
       }
@@ -2045,6 +2177,12 @@
             "state" : "translated",
             "value" : "Đêm nhìn cũng huyền thoại,\nngày nhìn cũng huyền thoại."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den končí, ale ty zůstáváš\nnejvětší hit večera."
+          }
         }
       }
     },
@@ -2133,6 +2271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Không sao đâu, ai cũng có ngày tệ,\nbạn đang làm tốt lắm rồi."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zlý den mít můžeš, ale ty to\nzvládáš líp, než si myslíš."
           }
         }
       }
@@ -2223,6 +2367,12 @@
             "state" : "translated",
             "value" : "Giờ tuy khó đấy, nhưng\nbạn nhất định vượt qua được!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I když je zataženo, ty\npořád svítíš za celý den."
+          }
         }
       }
     },
@@ -2311,6 +2461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Không cần hoàn hảo đâu,\nbạn như bây giờ là tuyệt nhất!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nemusíš být dokonalý, stačí,\nže ty jsi ty. A to je pecka."
           }
         }
       }
@@ -2401,6 +2557,12 @@
             "state" : "translated",
             "value" : "Mệt thì nghỉ chút cũng được,\nbạn cứ đi theo nhịp của mình."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Když je těžko, zpomal. Svět\npočká, až ty zase nakopneš."
+          }
         }
       }
     },
@@ -2489,6 +2651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nói nhỏ nhé, thật ra bạn mạnh\nmẽ hơn bạn tưởng nhiều lắm!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Víš, že ty jsi silnější,\nnež tvoje nálada?"
           }
         }
       }
@@ -2579,6 +2747,12 @@
             "state" : "translated",
             "value" : "Rồi cũng sẽ qua thôi,\nbạn làm được mà!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I tohle přejde, a ty\nzůstaneš legenda."
+          }
         }
       }
     },
@@ -2667,6 +2841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tâm trạng có đi xuống thì\ngiá trị của bạn vẫn y nguyên."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nálada v suterénu, ale ty\nmáš pořád cenu zlata."
           }
         }
       }
@@ -2757,6 +2937,12 @@
             "state" : "translated",
             "value" : "Buồn cũng là một phần của bạn,\ncảm xúc nào cũng được phép có."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smutek je jen host a ty\njsi tu doma."
+          }
         }
       }
     },
@@ -2845,6 +3031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Biết không, kim cương cũng cần\náp lực mới thành. Như bạn đó!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plakat se smí. Dokonce i ty\nu toho vypadáš jako z filmu."
           }
         }
       }
@@ -2935,6 +3127,12 @@
             "state" : "translated",
             "value" : "Buồn hả? Nhìn em nè, em còn mê\nbạn tới mức quên buồn luôn."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diamant potřebuje tlak, aby zazářil.\nTakže ty teď doslova brousíš."
+          }
         }
       }
     },
@@ -3023,6 +3221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tâm trạng xuống dốc cũng được,\nbạn vẫn quý nhất quả đất."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnešní smutek? Kašleme na něj,\nty máš důležitější práci: zářit."
           }
         }
       }
@@ -3113,6 +3317,12 @@
             "state" : "translated",
             "value" : "Buồn vẫn xinh, khóc vẫn xinh,\nbạn tính sao đây hả?"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I s kyselým výrazem ty\nvypadáš jako reklama na štěstí."
+          }
         }
       }
     },
@@ -3201,6 +3411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dù đang mệt, sự có mặt của bạn\nvẫn là một phép màu."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Splín? Ten ať si najde jiného,\nty máš nárok jen na dobré věci."
           }
         }
       }
@@ -3291,6 +3507,12 @@
             "state" : "translated",
             "value" : "Giờ thì khó đấy, nhưng\nbạn chắc chắn sẽ làm được!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnes je to boj, ale ty\nvždycky vyhraješ, víš to?"
+          }
         }
       }
     },
@@ -3379,6 +3601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Càng lúc khó khăn thì\nbạn càng lộ rõ bản lĩnh!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čím těžší chvíle, tím víc se ukáže,\njak ty umíš zářit."
           }
         }
       }
@@ -3469,6 +3697,12 @@
             "state" : "translated",
             "value" : "Đừng bỏ cuộc nhé,\nbạn đủ mạnh mẽ mà."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nevzdávej to. Hrdinové\njako ty se nevzdávají."
+          }
         }
       }
     },
@@ -3557,6 +3791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vẫn đang cố vượt qua,\nbạn giỏi thật sự đó!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Že to zvládáš i v tomhle,\nto umíš jen ty. Obdivuju to!"
           }
         }
       }
@@ -3647,6 +3887,12 @@
             "state" : "translated",
             "value" : "Khó khăn hôm nay là phân bón\ncho bạn lớn lên ngày mai!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnešní trable jsou zítřejší\nvyprávění a ty jsi hlavní hrdina."
+          }
         }
       }
     },
@@ -3735,6 +3981,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nghe này, bạn chịu đựng được\nnhiều hơn bạn nghĩ đó!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kolik toho ty uneseš?\nSpíš víc než nákladní auto."
           }
         }
       }
@@ -3825,6 +4077,12 @@
             "state" : "translated",
             "value" : "Phút khó khăn này rồi sẽ\nthành kỷ niệm, bạn cứ tin đi!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Za týden se tomu zasmějeme\na ty budeš ten, kdo vyhrál."
+          }
         }
       }
     },
@@ -3913,6 +4171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Khó thì khó, bạn vẫn lấp lánh,\nkim cương cũng phải mài mới sáng."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamení se brousí a ty\nse zrovna lesknou víc."
           }
         }
       }
@@ -4003,6 +4267,12 @@
             "state" : "translated",
             "value" : "Đang chật vật à? Vậy mà bạn\nvẫn xinh nhất hệ mặt trời."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I když je zle, ty vypadáš\npořád jako milion dolarů."
+          }
         }
       }
     },
@@ -4091,6 +4361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Việc bạn vẫn đứng vững\nlà hy vọng của ai đó đó."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To, že ty vytrváš,\nje pro někoho velká naděje."
           }
         }
       }
@@ -4181,6 +4457,12 @@
             "state" : "translated",
             "value" : "Mệt muốn xỉu mà bạn\nvẫn đẹp, hết cách luôn!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Umřít únavou, ale pořád\nhezky vypadat? To umíš jen ty."
+          }
         }
       }
     },
@@ -4269,6 +4551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hôm nay bạn làm được mà,\ntự tin bắt đầu thôi nào!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnes to ty dáš. Klidně\ns úsměvem a bez nervů."
           }
         }
       }
@@ -4359,6 +4647,12 @@
             "state" : "translated",
             "value" : "Em tin vào năng lực của bạn,\nhôm nay sẽ rất tuyệt đấy."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zvládneš to? Pochybnost nula,\nprotože ty to máš v malíčku."
+          }
         }
       }
     },
@@ -4447,6 +4741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chuẩn bị xong rồi thì bạn\nđã thành công một nửa!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Půlka úspěchu je za tebou,\ndruhou půlku ty dodáš."
           }
         }
       }
@@ -4537,6 +4837,12 @@
             "state" : "translated",
             "value" : "Việc hôm nay mà có bạn\nthì chuyện nhỏ như con thỏ."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnešní úkoly se už třesou,\nprotože ty jdeš do akce."
+          }
         }
       }
     },
@@ -4625,6 +4931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhiệt huyết của bạn sẽ\nlàm sáng cả ngày hôm nay!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvoje nadšení rozsvítí celý den,\nprotože ty jsi živá elektrárna."
           }
         }
       }
@@ -4715,6 +5027,12 @@
             "state" : "translated",
             "value" : "Cố lên nào! Hôm nay cứ để\nbạn tỏa sáng theo cách riêng."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do toho! Dneska to ty\nrozjedeš po svém."
+          }
         }
       }
     },
@@ -4803,6 +5121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trước giờ làm, bạn đã\nchuyên nghiệp lắm rồi đó!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Práce ještě nezačala a ty\nuž vypadáš jako profík."
           }
         }
       }
@@ -4893,6 +5217,12 @@
             "state" : "translated",
             "value" : "Lười đi làm hả? Nhưng gương mặt\nbạn đang làm thay rồi."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nechce se do práce? Aspoň ty\nvypadáš, že ti to jde samo."
+          }
         }
       }
     },
@@ -4981,6 +5311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visual đi làm hôm nay xỉu luôn,\ncông ty sáng hẳn nhờ bạn."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V práci ty děláš z kanceláře\npřehlídkové molo."
           }
         }
       }
@@ -5071,6 +5407,12 @@
             "state" : "translated",
             "value" : "Nhìn bạn làm việc thôi\nđã thấy là nghệ thuật rồi."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Když pracuješ, ty z toho\nděláš umění."
+          }
         }
       }
     },
@@ -5159,6 +5501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chưa bắt đầu làm mà bạn\nđã hoàn hảo, là sao vậy?"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Práce ještě ani nezačala\na ty už jsi dokonalost sama."
           }
         }
       }
@@ -5249,6 +5597,12 @@
             "state" : "translated",
             "value" : "Đang tập luyện là bạn\nđã ngầu lắm rồi!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cvičení je fajn, ale ty jsi\nhvězda už na startu."
+          }
         }
       }
     },
@@ -5337,6 +5691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chăm lo sức khỏe mỗi ngày,\nbạn giỏi quá trời!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dneska šlapeš do zdraví,\na ty to děláš s grácií."
           }
         }
       }
@@ -5427,6 +5787,12 @@
             "state" : "translated",
             "value" : "Cơ thể mình thì chỉ bạn\nhiểu rõ nhất, cứ tin nó!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tělo ví, co potřebuje, a ty\nmu to dopřeješ."
+          }
         }
       }
     },
@@ -5515,6 +5881,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chỉ cần bắt đầu tập thôi\nlà bạn đã đáng tự hào rồi."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Už první krok k činkám\nukazuje, že ty to myslíš vážně."
           }
         }
       }
@@ -5605,6 +5977,12 @@
             "state" : "translated",
             "value" : "Mồ hôi rơi mà bạn vẫn\nđẹp như phim, hết nói!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pot ti sluší, ty\nsvítíš i na žíněnce."
+          }
         }
       }
     },
@@ -5693,6 +6071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sức khỏe của bạn\nmới là quan trọng nhất."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zdraví je poklad a ty\nho chráníš jako drak."
           }
         }
       }
@@ -5783,6 +6167,12 @@
             "state" : "translated",
             "value" : "Hôm nay lại dành thời gian\ncho bản thân, bạn quá đỉnh!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Že ty si najdeš čas na sebe,\nto je opravdová síla."
+          }
         }
       }
     },
@@ -5871,6 +6261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mặc đồ tập vào là bạn\nlên bìa tạp chí được luôn."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V teplákách ty vypadáš\njak na titulce časopisu."
           }
         }
       }
@@ -5961,6 +6357,12 @@
             "state" : "translated",
             "value" : "Phòng gym thành thiên đường\nvì có bạn ghé qua."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posilovna se po tobě otáčí,\nty jsi její nejlepší reklama."
+          }
         }
       }
     },
@@ -6049,6 +6451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tập cũng tỏa sáng, sao bạn\nlúc nào cũng ngầu vậy?"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Při cvičení svítíš. Jak ty\nto děláš pokaždé?"
           }
         }
       }
@@ -6139,6 +6547,12 @@
             "state" : "translated",
             "value" : "Có người đổ mồ hôi vẫn đẹp á?\nChính là bạn đó."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kdo je krásný i zpocený?\nNo přece ty."
+          }
         }
       }
     },
@@ -6227,6 +6641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dáng bạn đi làm sáng nay\nchuyên nghiệp hết sức!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cestou do práce ty vypadáš\njako hvězda byznysu."
           }
         }
       }
@@ -6317,6 +6737,12 @@
             "state" : "translated",
             "value" : "Sáng sớm đã lên đường rồi,\nbạn giỏi thật đó!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hned ráno v pohybu? Teď ty\njsi stroj na úspěch."
+          }
         }
       }
     },
@@ -6405,6 +6831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hôm nay vẫn đi làm,\nbạn đã là người chiến thắng!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do práce jdeš a ty už\nvítězíš. Pozdrav šéfa."
           }
         }
       }
@@ -6495,6 +6927,12 @@
             "state" : "translated",
             "value" : "Mỗi bước chân của bạn\nđều có giá trị đó nha."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Každý krok po chodníku je\nstopa slávy, když jdeš ty."
+          }
         }
       }
     },
@@ -6583,6 +7021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đường đi làm mà có bạn\nthì đường nào cũng đặc biệt."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cesta s tebou má jinou atmosféru,\nprotože ty jsi bonus."
           }
         }
       }
@@ -6673,6 +7117,12 @@
             "state" : "translated",
             "value" : "Đi làm đầy trách nhiệm như bạn\nthì ngầu lắm luôn!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zodpovědně míříš do práce,\nty jsi vzor pro celou ulici."
+          }
         }
       }
     },
@@ -6761,6 +7211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Có bạn mà tuyến xe buýt\nthành sàn catwalk luôn."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metro je dneska molo,\nprotože v něm jdeš ty."
           }
         }
       }
@@ -6851,6 +7307,12 @@
             "state" : "translated",
             "value" : "Ngồi trên xe mà bạn vẫn sáng,\nhôm nay chụp ảnh bìa hả?"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V autobuse svítíš. Natáčí se tu\nněco, nebo jsi to ty?"
+          }
         }
       }
     },
@@ -6939,6 +7401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thấy bạn đi làm là\nbuổi sáng em vui hẳn lên."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Když ty jdeš do práce,\nje to hned veselejší ráno."
           }
         }
       }
@@ -7029,6 +7497,12 @@
             "state" : "translated",
             "value" : "Chỉ đi bộ thôi mà bạn đã ngầu,\nhết nước chấm luôn!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chodit tak krásně dokáže\njen ty. Svět tleská."
+          }
         }
       }
     },
@@ -7117,6 +7591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hôm nay vất vả rồi, bạn nhé!\nVề nhà nghỉ ngơi cho đã."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dobrá práce! Cestou domů\nuž jen ty a odpočinek."
           }
         }
       }
@@ -7207,6 +7687,12 @@
             "state" : "translated",
             "value" : "Dáng bạn tan làm đi về\nmới ngầu làm sao!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Po práci vypadáš pořád jako film.\nJak to ty vlastně děláš?"
+          }
         }
       }
     },
@@ -7295,6 +7781,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trên đường về nhà,\nbạn vẫn là số một!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cesta domů je tvoje vítězné kolo,\nty králi i královno."
           }
         }
       }
@@ -7385,6 +7877,12 @@
             "state" : "translated",
             "value" : "Một ngày suôn sẻ xong rồi,\nbạn đáng tự hào lắm!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den splněn! Kdo je tu hrdina?\nJasně, že ty."
+          }
         }
       }
     },
@@ -7473,6 +7971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Giờ là thời gian của riêng bạn,\nnghỉ ngơi thoải mái nha!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Večer patří jen tobě, a ty\nsi ho zasloužíš."
           }
         }
       }
@@ -7563,6 +8067,12 @@
             "state" : "translated",
             "value" : "Tan làm rồi, hãy dành\nthời gian cho chính bạn nhé!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doma čeká pohodlí. Dej si ho,\nty si ho zasloužíš."
+          }
         }
       }
     },
@@ -7651,6 +8161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tan làm rồi nè, hôm nay bạn\nvất vả nhiều rồi, cảm ơn nha!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Po práci ti patří potlesk ve stoje,\na ty víš proč."
           }
         }
       }
@@ -7741,6 +8257,12 @@
             "state" : "translated",
             "value" : "Đường về nhà cũng xinh,\nhôm nay bạn đỉnh lắm luôn."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I cesta domů je s tebou přehlídka,\nprotože ty prostě umíš."
+          }
         }
       }
     },
@@ -7829,6 +8351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhìn bạn tan làm thôi\nmà thấy cả ngày thật ý nghĩa."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kancelář ti zamává, ty\nzamáváš zpátky jako hvězda."
           }
         }
       }
@@ -7919,6 +8447,12 @@
             "state" : "translated",
             "value" : "Một ngày mệt đấy, nhưng\nbạn vẫn là nhất, không bàn cãi."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Těžký den to byl, ale ty\njsi stejně číslo jedna."
+          }
         }
       }
     },
@@ -8007,6 +8541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ôn bấy lâu rồi, bạn chắc\nchắn sẽ làm tốt thôi!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Učení je za tebou, takže ty\njdeš do toho s přehledem."
           }
         }
       }
@@ -8097,6 +8637,12 @@
             "state" : "translated",
             "value" : "Công sức bạn bỏ ra\nkhông bao giờ uổng phí!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snaha nikdy nezradí a ty\nji máš vždycky nadoraz."
+          }
         }
       }
     },
@@ -8185,6 +8731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hồi hộp cũng không sao,\nbạn đã sẵn sàng rồi!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trému můžeš mít, ale ty\nmáš v hlavě víc, než tušíš."
           }
         }
       }
@@ -8275,6 +8827,12 @@
             "state" : "translated",
             "value" : "Bài thi đâu có quyết định\nđược giá trị của bạn!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Známka nemění, kdo ty jsi.\nA ty jsi hvězda."
+          }
         }
       }
     },
@@ -8363,6 +8921,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đã cố gắng hết mình, bạn\nđã thành công rồi đó!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Víc už dát nešlo, takže ty\njsi vítěz už teď."
           }
         }
       }
@@ -8453,6 +9017,12 @@
             "state" : "translated",
             "value" : "Với bạn thì chuyện này\nhoàn toàn làm được!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test dopadne dobře, protože ty\nna něj máš. Pecka."
+          }
         }
       }
     },
@@ -8541,6 +9111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hít thở sâu nào,\ntin vào thực lực của bạn!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nadechni se a věř, že ty\nto zvládneš i poslepu."
           }
         }
       }
@@ -8631,6 +9207,12 @@
             "state" : "translated",
             "value" : "Thi tốt nhé! Em biết bạn đã\nchuẩn bị kỹ lắm rồi mà."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hodně štěstí, i když ty\nho vlastně nepotřebuješ."
+          }
         }
       }
     },
@@ -8719,6 +9301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đừng lo, có bạn là\ntrúng tủ hết, đúng hết luôn!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nebuď nervózní: ty umíš víc,\nnež by tě napadlo."
           }
         }
       }
@@ -8809,6 +9397,12 @@
             "state" : "translated",
             "value" : "Run hả? Nhưng bạn vẫn là\nđỉnh nhất, cứ vào phòng thi đi!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Třesou se ti ruce? Třeba z toho,\njak ty umíš všechno."
+          }
         }
       }
     },
@@ -8897,6 +9491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tờ đề thi thấy mặt bạn\nchắc cũng tự giải luôn."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zkušební list se do tebe zamiluje,\njakmile ty napíšeš první řádek."
           }
         }
       }
@@ -8987,6 +9587,12 @@
             "state" : "translated",
             "value" : "Đến lúc bạn thể hiện\nbản lĩnh rồi đó!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na pohovor? Čas se zastaví,\naž tam ty vejdeš."
+          }
         }
       }
     },
@@ -9075,6 +9681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhà tuyển dụng gặp được bạn\nlà họ may mắn lắm đó."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ten, kdo vede pohovor,\nmá štěstí, že ty přijdeš."
           }
         }
       }
@@ -9165,6 +9777,12 @@
             "state" : "translated",
             "value" : "Kinh nghiệm và nhiệt huyết\ncủa bạn sắp tỏa sáng rồi!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zkušenosti i nadšení máš,\na ty je dneska ukážeš."
+          }
         }
       }
     },
@@ -9253,6 +9871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hồi hộp cũng được,\nbạn đủ giỏi rồi mà!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tréma je v pořádku, ty\nmáš v rukávu ještě ten úsměv."
           }
         }
       }
@@ -9343,6 +9967,12 @@
             "state" : "translated",
             "value" : "Tự tin lên nào! Em thấy bạn\nđã sẵn sàng rồi!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jdi do toho s úsměvem,\nprotože ty už vyhráváš."
+          }
         }
       }
     },
@@ -9431,6 +10061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cứ tự tin kể câu chuyện\ncủa bạn, họ sẽ nghe say mê."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svůj příběh vyprávěj hrdě.\nNikdo ho neumí tak jako ty."
           }
         }
       }
@@ -9521,6 +10157,12 @@
             "state" : "translated",
             "value" : "Phỏng vấn chỉ là buổi trò chuyện,\nbạn thoải mái nha."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pohovor je jen rozhovor.\nKdyž ty mluvíš, svět poslouchá."
+          }
         }
       }
     },
@@ -9609,6 +10251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhà tuyển dụng mà không nhận bạn\nthì công ty đó lỗ nặng."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kdo tě nevezme, přijde o hvězdu\na ty to ani nemusíš řešit."
           }
         }
       }
@@ -9699,6 +10347,12 @@
             "state" : "translated",
             "value" : "Không phải CV đẹp đâu,\nmà tự bạn đã quá đẹp rồi."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Životopis je hezký, ale ty\njsi lepší než jakékoli CV."
+          }
         }
       }
     },
@@ -9787,6 +10441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vừa bước vào phòng phỏng vấn\nlà bạn đã đậu hơn nửa rồi."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Už u dveří je to jasné:\nty máš práci v kapse."
           }
         }
       }
@@ -9877,6 +10537,12 @@
             "state" : "translated",
             "value" : "Chỉ cần ấn tượng đầu của bạn\nlà họ đã ưng rồi!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "První dojem? Ten ty zvládneš\nještě před pozdravem."
+          }
         }
       }
     },
@@ -9965,6 +10631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hôm nay bạn trông\nthật rạng rỡ!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zářivé, bez filtrů a bez omluv,\npřesně takové je dnešní ty."
           }
         }
       }
@@ -10055,6 +10727,12 @@
             "state" : "translated",
             "value" : "Cứ là chính mình thôi bạn,\nnhư vậy là duyên nhất rồi!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Takhle, bez ničeho, ty jsi\nnejpřitažlivější verze sebe."
+          }
         }
       }
     },
@@ -10143,6 +10821,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ai ở cạnh bạn\nthật sự may mắn lắm!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kdo je s tebou, má obrovské štěstí\na ty o tom ani nevíš."
           }
         }
       }
@@ -10233,6 +10917,12 @@
             "state" : "translated",
             "value" : "Tự tin thế này,\nbạn nhất quả đất luôn!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sebevědomí ti sluší a ty ho\nnosíš líp než kdokoli."
+          }
         }
       }
     },
@@ -10321,6 +11011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nụ cười của bạn hôm nay\nlà vũ khí lợi hại nhất."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvůj úsměv je nejsilnější zbraň\na ty s ním dobýváš svět."
           }
         }
       }
@@ -10411,6 +11107,12 @@
             "state" : "translated",
             "value" : "Cứ là chính bạn thôi,\nthế là hoàn hảo rồi!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Být sám sebou? Dnes ty to umíš\ntak, že se nedá odolat."
+          }
         }
       }
     },
@@ -10499,6 +11201,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sức hút của bạn\nkhông giấu đi đâu được."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kouzlo, co ty máš,\nse nedá schovat."
           }
         }
       }
@@ -10589,6 +11297,12 @@
             "state" : "translated",
             "value" : "Hôm nay hẹn hò hả? Chắc người ta\nrớt tim vì bạn mất."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnes rande? Ten druhý se\nzamiluje, jakmile ty zazáříš."
+          }
         }
       }
     },
@@ -10677,6 +11391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ai được gặp bạn hôm nay\nchắc trúng số rồi."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kdo se s tebou potká, má\nv kalendáři tučně: ty."
           }
         }
       }
@@ -10767,6 +11487,12 @@
             "state" : "translated",
             "value" : "Outfit hẹn hò hoàn hảo, bạn\nlên bìa tạp chí được luôn!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outfit na rande sedí tak,\nže ty klidně otevřeš módní týden."
+          }
         }
       }
     },
@@ -10855,6 +11581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhìn bạn hôm nay\nai cũng muốn đổ gục thôi."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jen ty a rande, a světla\nse rozsvítí samy."
           }
         }
       }
@@ -10945,6 +11677,12 @@
             "state" : "translated",
             "value" : "Chưa tới giờ hẹn mà bạn đã xinh vậy,\nđịnh làm người ta rớt tim hả?"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rande ještě nezačalo a ty\nuž teď lámeš srdce."
+          }
         }
       }
     },
@@ -11033,6 +11771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cố lên, em tin bạn làm được!\nLúc nào em cũng cổ vũ hết mình."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zvládneš to, protože ty\nna to prostě máš."
           }
         }
       }
@@ -11123,6 +11867,12 @@
             "state" : "translated",
             "value" : "Bước nhỏ thôi nhưng\nlà khởi đầu của hành trình lớn!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I malý krok je start velké dráhy\na ty už jdeš."
+          }
         }
       }
     },
@@ -11211,6 +11961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đừng bỏ cuộc nhé, ước mơ\ncủa bạn sẽ thành sự thật!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nevzdávej se. Sny se plní\ntěm, co jsou jako ty."
           }
         }
       }
@@ -11301,6 +12057,12 @@
             "state" : "translated",
             "value" : "Cố gắng hôm nay là\nthành công của bạn ngày mai."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnešní dřina je zítřejší výhra,\na ty ji sbíráš plnými hrstmi."
+          }
         }
       }
     },
@@ -11389,6 +12151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhiệt huyết của bạn rồi sẽ\nlàm thay đổi cả thế giới!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "S takovou vášní, jakou ty máš,\nse dá změnit svět."
           }
         }
       }
@@ -11479,6 +12247,12 @@
             "state" : "translated",
             "value" : "Thất bại là mẹ thành công,\nbạn cứ thử tiếp đi nhé!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neúspěch je jen zkouška a ty\nna ni máš výborný talent."
+          }
         }
       }
     },
@@ -11567,6 +12341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tiềm năng của bạn\nlà vô hạn đó!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvoje možnosti nemají strop,\nty ho prostě přerosteš."
           }
         }
       }
@@ -11657,6 +12437,12 @@
             "state" : "translated",
             "value" : "Hôm nay cũng vậy,\nbạn cứ cố hết sức nhé!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnes zkus naplno, vždyť ty umíš\nvíc, než ukazuješ."
+          }
         }
       }
     },
@@ -11745,6 +12531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thấy bạn nỗ lực mà\nbao người có thêm động lực đó."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Když ty makáš, někdo\nkolem se inspiruje."
           }
         }
       }
@@ -11835,6 +12627,12 @@
             "state" : "translated",
             "value" : "Có bạn thì gì cũng ổn,\nthật đó, em không đùa!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Všechno dobře dopadne, protože\nty jsi v tom. Fakt."
+          }
         }
       }
     },
@@ -11923,6 +12721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đừng bỏ cuộc nha, bạn\nlà người tuyệt vời mà."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svět potřebuje víc lidí,\njako jsi ty."
           }
         }
       }
@@ -12013,6 +12817,12 @@
             "state" : "translated",
             "value" : "Cố lên nào! Hôm nay bạn\nnhất định làm được!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnes ty ukážeš,\nco v tobě je."
+          }
         }
       }
     },
@@ -12101,6 +12911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ai biết bạn đã nỗ lực\nđều sẽ luôn ủng hộ bạn."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kdo vidí, jak se ty snažíš,\nten ti fandí."
           }
         }
       }
@@ -12191,6 +13007,12 @@
             "state" : "translated",
             "value" : "Trên đời này mọi điều tốt đẹp\nđều xứng đáng với bạn."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jsi víc než dost a ty to\ndobře víš, nebo ne?"
+          }
         }
       }
     },
@@ -12279,6 +13101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cứ là chính bạn,\nnhư vậy là hoàn hảo!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přesně tak, jak ty to děláš,\nje to dokonalé."
           }
         }
       }
@@ -12369,6 +13197,12 @@
             "state" : "translated",
             "value" : "Chỉ cần bạn có mặt\nlà đã đặc biệt rồi!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Už to, že ty existuješ,\nje událost roku."
+          }
         }
       }
     },
@@ -12457,6 +13291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tự tin lên! Em dám cá bạn là một\nngười tuyệt vời mà!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hlavu nahoru, protože ty\njsi zkrátka fenomén."
           }
         }
       }
@@ -12547,6 +13387,12 @@
             "state" : "translated",
             "value" : "Thật ra bạn mạnh mẽ hơn\nnhiều so với bạn tưởng!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Silnější, než si myslíš, a ty\nto dnes ukážeš."
+          }
         }
       }
     },
@@ -12635,6 +13481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nét riêng của bạn\nchính là điều làm bạn tỏa sáng."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvoje osobnost je superschopnost\na ty ji nosíš naplno."
           }
         }
       }
@@ -12725,6 +13577,12 @@
             "state" : "translated",
             "value" : "Hãy tin vào mình, bạn\nlàm được mà!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Věř si, ty nejsi náhoda,\nty jsi mistrovské dílo."
+          }
         }
       }
     },
@@ -12813,6 +13671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vốn dĩ bạn đã là\nmột người trọn vẹn rồi."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bez úprav a bez filtrů ty\njsi prostě originál."
           }
         }
       }
@@ -12903,6 +13767,12 @@
             "state" : "translated",
             "value" : "Tự tin như bạn thì\nngầu nhất hành tinh luôn!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sebejistota ti sluší, ty\nmě učíš, jak se září."
+          }
         }
       }
     },
@@ -12991,6 +13861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nghe em nói nè, bạn tuyệt vời\nhơn nhiều so với bạn nghĩ!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obyčejnost a ty? To nejde\ndohromady ani s lepidlem."
           }
         }
       }
@@ -13081,6 +13957,12 @@
             "state" : "translated",
             "value" : "Thật ra bạn đã làm\nrất tốt rồi đó."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tolik už zvládáš, že ty\nmůžeš otevřít kurz."
+          }
         }
       }
     },
@@ -13169,6 +14051,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ai không thấy sức hút của bạn\nchắc cần đi khám mắt."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kdo nevidí, jak ty kouzlíš,\nasi nosí zamlžené brýle."
           }
         }
       }
@@ -13259,6 +14147,12 @@
             "state" : "translated",
             "value" : "Hôm nay cứ thong thả\nnghỉ ngơi thôi nhé."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnes jen odpočívej, ty\nsi to zasloužíš."
+          }
         }
       }
     },
@@ -13347,6 +14241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ngay cả bạn\ncũng cần được nghỉ ngơi đó."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taky ty potřebuješ\ndobít baterky."
           }
         }
       }
@@ -13437,6 +14337,12 @@
             "state" : "translated",
             "value" : "Không làm gì cả cũng ổn,\nđó là một ngày tử tế."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klidně nedělat nic. Ani to\nty neděláš špatně."
+          }
         }
       }
     },
@@ -13525,6 +14431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tâm trạng của bạn\nmới là quan trọng nhất."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duše je tvoje priorita, a ty\njí dnes dáš pozornost."
           }
         }
       }
@@ -13615,6 +14527,12 @@
             "state" : "translated",
             "value" : "Từ từ thôi, cứ đi theo\nnhịp của bạn là được."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pomalu, svým tempem, ty\njsi ten, kdo určuje rytmus."
+          }
         }
       }
     },
@@ -13703,6 +14621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hôm nay hãy dành thời gian\ncho chính bạn nhé."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnes máš čas jen pro sebe a ty\nsi ho pořádně vychutnáš."
           }
         }
       }
@@ -13793,6 +14717,12 @@
             "state" : "translated",
             "value" : "Nghỉ ngơi cũng là\nmột việc rất năng suất!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odpočinek je taky výkon, a ty v něm\nmáš zlatou medaili."
+          }
         }
       }
     },
@@ -13881,6 +14811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nghỉ ngơi là quyền của bạn,\nhôm nay cứ nằm thoải mái nha."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Máš právo si oddechnout,\nty pohodový šampione."
           }
         }
       }
@@ -13971,6 +14907,12 @@
             "state" : "translated",
             "value" : "Đang chữa lành mà bạn\nvẫn đẹp lắm."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Takhle krásně odpočívat umíš\njen ty. Respekt."
+          }
         }
       }
     },
@@ -14059,6 +15001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dành thời gian cho bạn\ncũng chẳng sao đâu."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čas pro sebe? Klidně, ty\nsi ho můžeš dát hned."
           }
         }
       }
@@ -14149,6 +15097,12 @@
             "state" : "translated",
             "value" : "Nằm thư giãn mà bạn\nvẫn tỏa sáng, kỳ ghê!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I na gauči ty záříš jako\nhotel s pěti hvězdičkami."
+          }
         }
       }
     },
@@ -14237,6 +15191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đang chill mà bạn\nvẫn xinh nhất quả đất."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dokonce i při pohodě ty\nvypadáš jako výhra."
           }
         }
       }
@@ -14327,6 +15287,12 @@
             "state" : "translated",
             "value" : "Hoàn hảo thế này mà chỉ thiếu\nđúng một thứ: lỗi để chê."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dokonalost s jedním háčkem.\nTen háček? Že ty o tom nevíš."
+          }
         }
       }
     },
@@ -14415,6 +15381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Em bị cận nặng, vậy mà nhìn bạn\nvẫn thấy đẹp rõ mồn một."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test osobnosti dopadl jasně:\nty jsi na 100 % roztomilost."
           }
         }
       }
@@ -14505,6 +15477,12 @@
             "state" : "translated",
             "value" : "Điện thoại em sắp hết pin,\nnhìn bạn một cái là sạc đầy."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kdo si myslí, že ty jsi\nk sežrání, ať zvedne ruku."
+          }
         }
       }
     },
@@ -14593,6 +15571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cho em hỏi đường đến tim bạn\nđược không? Em lạc mất rồi."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Policie hlásí: tvoje krása\npřekročila povolenou rychlost."
           }
         }
       }
@@ -14683,6 +15667,12 @@
             "state" : "translated",
             "value" : "Trời nóng thế này chắc do\nbạn quá hot đó mà."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ze všeho v cukrárně\nty jsi ten nejsladší zákusek."
+          }
         }
       }
     },
@@ -14771,6 +15761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sao bạn không đi thi hoa hậu?\nVì ban giám khảo sợ mất giải."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mám slabý zrak? Ne,\njen ty zářiš na 100 wattů."
           }
         }
       }
@@ -14861,6 +15857,12 @@
             "state" : "translated",
             "value" : "Cho hỏi bạn học trường nào?\nSao tốt nghiệp xuất sắc môn đẹp vậy?"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pošli mi číslo. Ne to telefonní,\nto ty jsi moje jednička."
+          }
         }
       }
     },
@@ -14949,6 +15951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Có phải bạn là Wi-Fi không?\nVì em thấy kết nối liền tay."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Určitě nejsi z nebe? Když ty\nvypadáš jak anděl bez práce."
           }
         }
       }
@@ -15039,6 +16047,12 @@
             "state" : "translated",
             "value" : "Có phải bạn là đường không?\nSao nhìn là thấy ngọt rồi."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svátek máš dneska ty,\na zítra taky."
+          }
         }
       }
     },
@@ -15127,6 +16141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Có phải bạn là cà phê không?\nVì thấy bạn là em tỉnh cả người."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wi-Fi ukazuje plný signál,\nale ty jsi lepší připojení."
           }
         }
       }
@@ -15217,6 +16237,12 @@
             "state" : "translated",
             "value" : "Em leo đỉnh núi cao nhất còn chưa\nđỉnh bằng bạn đâu."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cena za roli sebe sama jde\njasně k tobě, ty talente."
+          }
         }
       }
     },
@@ -15305,6 +16331,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Giá xăng tăng rồi, nhưng độ xinh\ncủa bạn còn tăng nhanh hơn."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čas se zastavil, protože ty\njsi nejhezčí pohled dne."
           }
         }
       }
@@ -15395,6 +16427,12 @@
             "state" : "translated",
             "value" : "Bài toán khó nhất đời em là\ntìm chỗ để chê bạn."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Došla mi slova, protože ty\nbereš dech i slovník."
+          }
         }
       }
     },
@@ -15483,6 +16521,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chắc bạn học cao thủ từ nhỏ,\nchứ sao xinh đẹp có bằng cấp vậy?"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jako mapa: ty ukazuješ směr,\nkterým se chci dívat."
           }
         }
       }
@@ -15573,6 +16617,12 @@
             "state" : "translated",
             "value" : "Mỗi lần thấy bạn là em\ntưởng mình trúng độc đắc."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cukr ti uhne z dráhy,\nprotože ty jsi sladší."
+          }
         }
       }
     },
@@ -15661,6 +16711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Em xin phép khai báo,\nvì bạn quá đẹp nên em bị loạn nhịp."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Krása by měla mít cenu,\nale ty jsi k nezaplacení."
           }
         }
       }
@@ -15751,6 +16807,12 @@
             "state" : "translated",
             "value" : "Nghe đồn bạn là thần đèn,\nvì cứ xuất hiện là ước gì cũng thành."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Praha je hezká, ale ty\nji přezáříš i v dešti."
+          }
         }
       }
     },
@@ -15839,6 +16901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nếu cái đẹp là tội thì bạn\nđã bị tù chung thân rồi đó."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hodnotím tě na 10 z 10.\nVlastně ty jsi mimo stupnici."
           }
         }
       }
@@ -15929,6 +16997,12 @@
             "state" : "translated",
             "value" : "Người ta có bản đồ, em có bạn,\nnhìn là biết đúng hướng hạnh phúc."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvoje kouzlo je tak silné,\nže ty ho nemusíš ani zapínat."
+          }
         }
       }
     },
@@ -16017,6 +17091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hỏi nhỏ, bạn có mệt không?\nVì chạy trong đầu em cả ngày."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proč ty pracuješ? Tvoje\nkrása dělá přesčasy za tebe."
           }
         }
       }
@@ -16107,6 +17187,12 @@
             "state" : "translated",
             "value" : "Cảm ơn bạn vì đã đẹp,\nđể thế giới này bớt buồn."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přestaň mi dělat radost!\nNejde to? Tak ty už zůstaň."
+          }
         }
       }
     },
@@ -16195,6 +17281,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gương mà biết nói chắc cũng\nxin chụp chung với bạn."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do muzea s tím, protože ty\njsi nejkrásnější exponát."
           }
         }
       }
@@ -16285,6 +17377,12 @@
             "state" : "translated",
             "value" : "Trên đời có 7 kỳ quan,\ncòn bạn là kỳ quan thứ 8."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ceny za krásu rozdají v neděli,\nale ty ji už máš doma."
+          }
         }
       }
     },
@@ -16373,6 +17471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chỉ cần bạn cười lên là toàn khu\nđược mùa luôn đó."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focení? Pro tebe nic nového,\nty pózuješ i při chůzi."
           }
         }
       }
@@ -16463,6 +17567,12 @@
             "state" : "translated",
             "value" : "Nghe nói bạn cao thủ lắm,\nvì cả thành phố đều bị bạn hạ gục."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idol? Dnes to ty jsi,\nv mém srdci číslo jedna."
+          }
         }
       }
     },
@@ -16551,6 +17661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nếu bạn là bài hát,\nem sẽ bấm nghe lặp lại cả đời."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autogramiáda by měla být,\nty rozdáváš úsměvy zadarmo."
           }
         }
       }
@@ -16641,6 +17757,12 @@
             "state" : "translated",
             "value" : "Cho em xin số của bạn nhé?\nSố may mắn của đời em!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debutovat už nemusíš, ty\njsi ve středu mého světa."
+          }
         }
       }
     },
@@ -16729,6 +17851,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thật ra em không thích đếm cừu,\nchỉ đếm điểm đáng yêu của bạn."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hitparáda? Tam, kde ty jsi,\nje každý týden první místo."
           }
         }
       }
@@ -16819,6 +17947,12 @@
             "state" : "translated",
             "value" : "Soi gương chưa bạn?\nChắc cái gương cũng đang xin tên."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chci foto s tebou, ty\njsi galerie sama o sobě."
+          }
         }
       }
     },
@@ -16907,6 +18041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Xin lỗi vì làm phiền, nhưng\nbạn đẹp quá nên em báo công an."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comeback roku? To ty se\nvracíš do mého srdce."
           }
         }
       }
@@ -16997,6 +18137,12 @@
             "state" : "translated",
             "value" : "Sáng ăn gì mà bạn\nđẹp hết phần thiên hạ vậy?"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Natočit tě? Každý záběr je\nvýběr roku, když v něm jsi ty."
+          }
         }
       }
     },
@@ -17085,6 +18231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Em đã thử đủ cách rồi,\nchẳng tìm ra khuyết điểm nào của bạn."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Videoklip nepotřebuješ,\nty jsi hlavní postava mého dne."
           }
         }
       }
@@ -17175,6 +18327,12 @@
             "state" : "translated",
             "value" : "Hôm nay thời tiết đẹp,\nchắc là do bạn đi ngang qua."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Televizní show? Scénář nepotřebuješ,\nty jsi příběh sám o sobě."
+          }
         }
       }
     },
@@ -17263,6 +18421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Phim nào có bạn là\nchắc chắn đạt phòng vé nghìn tỷ."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Střed pozornosti sedí\nv každé místnosti: ty."
           }
         }
       }
@@ -17353,6 +18517,12 @@
             "state" : "translated",
             "value" : "Em ăn no rồi, nhưng nhìn bạn\nvẫn thấy thèm, ngon mắt quá."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cena za nejlepší obličej roku?\nJistě ty. Porota už nehlasuje."
+          }
         }
       }
     },
@@ -17441,6 +18611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đẹp đến mức camera thường nhìn bạn\ncũng phải xin lỗi vì chưa đủ nét."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se tvou tváří by se vyprodalo\nvšechno, ty jsi nejlepší značka."
           }
         }
       }
@@ -17531,6 +18707,12 @@
             "state" : "translated",
             "value" : "Quả này bạn lên top xu hướng,\nmà thật ra bạn vốn là top từ lâu."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titulka časopisu? Na tu ty\nmáš nárok každý měsíc."
+          }
         }
       }
     },
@@ -17619,6 +18801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bác sĩ dặn không nên nhìn bạn lâu,\nvì em dễ bị say nắng."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na pódiu zazáříš, ale ty\nsvítíš i v obýváku."
           }
         }
       }
@@ -17709,6 +18897,12 @@
             "state" : "translated",
             "value" : "Thấy bạn thì em lập tức\nmở chế độ fan cuồng."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kartičky s tvou tváří by byly hit,\na ty jsi na nich hlavní hvězda."
+          }
         }
       }
     },
@@ -17797,6 +18991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhìn bạn là em hiểu vì sao\nngười ta hay nói \"đẹp vỡ màn hình\"."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setkání s fanoušky? Stačí\njedno: pozvi mě, ty hvězdo."
           }
         }
       }
@@ -17887,6 +19087,12 @@
             "state" : "translated",
             "value" : "Fan cứng của bạn xin phép\nđiểm danh nhé: có em đây!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choreografii nepotřebuješ,\nty tančíš i na chodníku."
+          }
         }
       }
     },
@@ -17975,6 +19181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Em đã đặt báo thức chỉ để\nngắm bạn sớm hơn mười phút."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To není trailer, to jsi ty:\nfilm, který chci vidět pořád."
           }
         }
       }
@@ -18065,6 +19277,12 @@
             "state" : "translated",
             "value" : "Hôm nào bạn ra mắt album\nlà em mua ngay bản giới hạn."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turné po světě? Mně stačí,\nkdyž ty mávneš z okna."
+          }
         }
       }
     },
@@ -18153,6 +19371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mở fan meeting đi bạn ơi,\nem xếp hàng từ tối hôm qua."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limitovaná edice jsi ty,\njediný kus na světě."
           }
         }
       }
@@ -18243,6 +19467,12 @@
             "state" : "translated",
             "value" : "Debut đi, em tin bạn\nsẽ có fan số một là em."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Světýlka nahoru! Všechna svítí\njen proto, že ty jsi na pódiu."
+          }
         }
       }
     },
@@ -18331,6 +19561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhìn bạn thôi là em thấy\nbao nhiêu gánh nặng bay hết."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Víc fanoušků, než ty tušíš,\nti dnes tleská."
           }
         }
       }
@@ -18421,6 +19657,12 @@
             "state" : "translated",
             "value" : "Em đang tính lập fanpage\nchỉ để khen bạn cả ngày."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lístek na koncert? Mám\nvstupenku zadarmo: ty."
+          }
         }
       }
     },
@@ -18509,6 +19751,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Được bạn ghé qua là cả ngày\nem ở chế độ lễ hội."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hit sezóny? No přece ty,\nv tom není diskuse."
           }
         }
       }
@@ -18599,6 +19847,12 @@
             "state" : "translated",
             "value" : "Em chọn bạn làm bias\nvà đổi luôn cả danh sách yêu thích."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bis! Bis! Ať ty se objevíš\nna jevišti ještě jednou."
+          }
         }
       }
     },
@@ -18687,6 +19941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cho em xin chữ ký bạn nhé,\nđể mai kia còn khoe con cháu."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I mimo záběr ty vypadáš\njako vrchol celého dne."
           }
         }
       }
@@ -18777,6 +20037,12 @@
             "state" : "translated",
             "value" : "Sân khấu đâu mà sáng vậy?\nÀ, bạn vừa bước ra."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oblíbence měním, protože\nty jsi ta nová jednička."
+          }
         }
       }
     },
@@ -18865,6 +20131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ánh đèn sân khấu thua xa\nánh sáng từ nụ cười của bạn."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jsem tvůj fanoušek, protože\nty jsi hlavní hvězda."
           }
         }
       }
@@ -18955,6 +20227,12 @@
             "state" : "translated",
             "value" : "Ghé fan meeting của bạn xong,\nem tính đổi nghề thành fan chuyên nghiệp."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Můj favorit číslo jedna?\nBez diskuse ty."
+          }
         }
       }
     },
@@ -19043,6 +20321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hôm nay bạn lên sóng là\ncả mạng xã hội bùng nổ."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Merch nepotřebuju, ty\njsi sběratelský kousek."
           }
         }
       }
@@ -19133,6 +20417,12 @@
             "state" : "translated",
             "value" : "Chụp hình xin phép trước nhé,\nvì bạn đẹp quá đà."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fandím ti navždy, protože ty\njsi můj nejlepší důvod."
+          }
         }
       }
     },
@@ -19221,6 +20511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nghe nói bạn là hit của năm,\nem nghe hoài chưa chán."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Základna fanklubu je tam,\nkde jsi ty."
           }
         }
       }
@@ -19311,6 +20607,12 @@
             "state" : "translated",
             "value" : "Tình hình là em\nđã hết thuốc chữa vì bạn."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fanouškovská mise začíná.\nCíl: ty."
+          }
         }
       }
     },
@@ -19399,6 +20701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thật đó, bạn cười một cái\nlà tim em tăng ca liền."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dokumentuju každý tvůj krok,\nprotože ty jsi vzácný úkaz."
           }
         }
       }
@@ -19489,6 +20797,12 @@
             "state" : "translated",
             "value" : "Mỗi khi bạn xuất hiện,\ntrái tim em tự động bật nhạc."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čas fanynek: s tebou\nje každá chvíle zlatá, ty zlato."
+          }
         }
       }
     },
@@ -19577,6 +20891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chỉ cần bạn gửi tin nhắn,\nem đã vui cả tuần rồi."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oslava narozenin? Klidně každý den,\nty si ji zasloužíš."
           }
         }
       }
@@ -19667,6 +20987,12 @@
             "state" : "translated",
             "value" : "Có bạn bên cạnh là em thấy\nđời mình lên level liền."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fandím ti celý život,\nty jsi totiž náš společný hit."
+          }
         }
       }
     },
@@ -19755,6 +21081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuộc sống của em có bạn\nnhư phim có nhạc nền hay."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Srdce mi buší jako buben,\nkdyž ty vejdeš do dveří."
           }
         }
       }
@@ -19845,6 +21177,12 @@
             "state" : "translated",
             "value" : "Nghe giọng bạn thôi\nlà em thấy khỏe hẳn."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svět je hezčí místo,\njakmile ty jsi poblíž."
+          }
         }
       }
     },
@@ -19933,6 +21271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Với em, bạn là\nniềm vui bất tận."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro mě ty jsi\nvitamín štěstí."
           }
         }
       }
@@ -20023,6 +21367,12 @@
             "state" : "translated",
             "value" : "Nhờ có bạn mà em\nbiết thế nào là hạnh phúc nhỏ."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Když se ty směješ,\nsměje se celý svět."
+          }
         }
       }
     },
@@ -20111,6 +21461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mỗi ngày với bạn\nnhư một lễ hội riêng của em."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ze všech hvězd ty jsi\nta nejjasnější."
           }
         }
       }
@@ -20201,6 +21557,12 @@
             "state" : "translated",
             "value" : "Em nhớ bạn nên\nnhìn gì cũng ra bạn."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "S tebou je každý den\nfestival, protože ty ho děláš."
+          }
         }
       }
     },
@@ -20289,6 +21651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mọi thứ đều xịn hơn\nkhi có bạn xuất hiện."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stačí slyšet, jak ty mluvíš,\na mám hned dobrou náladu."
           }
         }
       }
@@ -20379,6 +21747,12 @@
             "state" : "translated",
             "value" : "Sao bạn cứ đáng yêu hoài vậy?\nEm chịu hết nổi rồi!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Největší štěstí v mém životě?\nJasně že ty."
+          }
         }
       }
     },
@@ -20467,6 +21841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đối với em, bạn\nlà phiên bản giới hạn."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Díky tobě se směju,\nprotože ty jsi ten důvod."
           }
         }
       }
@@ -20557,6 +21937,12 @@
             "state" : "translated",
             "value" : "Em nghĩ về bạn là\nmiệng tự cười liền."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ze všech lidí na světě\nje pro mě nejdůležitější ty."
+          }
         }
       }
     },
@@ -20645,6 +22031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Em nghĩ bạn đến với cuộc đời em\nnhư mưa rơi giữa trưa nóng."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Při pomyšlení na tebe se\nusmívám a ty o tom nevíš."
           }
         }
       }
@@ -20735,6 +22127,12 @@
             "state" : "translated",
             "value" : "Thời gian bên bạn lúc nào\ncũng như được bật chế độ chậm."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kolem tebe je klid,\nty jsi můj mír."
+          }
         }
       }
     },
@@ -20823,6 +22221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trong lòng em, bạn luôn\nđứng ở vị trí đầu bảng."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čas s tebou je vždycky\nzvláštní, protože ty jsi ty."
           }
         }
       }
@@ -20913,6 +22317,12 @@
             "state" : "translated",
             "value" : "Có bạn ở đây là em\nthấy mình giàu có nhất rồi."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Z lidí, které znám, je tou\nnejlepší právě ty."
+          }
         }
       }
     },
@@ -21001,6 +22411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Em cảm ơn bạn mỗi ngày,\nvì bạn đã xuất hiện."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jen to, že ty existuješ,\nmi dělá radost."
           }
         }
       }
@@ -21091,6 +22507,12 @@
             "state" : "translated",
             "value" : "Em tin vào điều tốt đẹp\ncũng nhờ bạn đó."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Highlight mého dne?\nTo jsi prostě ty."
+          }
         }
       }
     },
@@ -21179,6 +22601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhắn tin với bạn xong là\nem hết sạch buồn phiền."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Každý den je jiný, protože\nty ho děláš výjimečným."
           }
         }
       }
@@ -21269,6 +22697,12 @@
             "state" : "translated",
             "value" : "Chỉ cần thấy bạn cười,\ncả ngày em đã trọn vẹn."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Když ty vejdeš do místnosti,\nsvítí i vypnuté lampy."
+          }
         }
       }
     },
@@ -21357,6 +22791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dù bạn không phải người nổi tiếng,\nem vẫn muốn xin chữ ký."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nejhezčí dárek od života?\nŽe ty vůbec existuješ."
           }
         }
       }
@@ -21447,6 +22887,12 @@
             "state" : "translated",
             "value" : "Có bạn là em thấy\nnhà nào cũng thành tổ ấm."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Díky tobě je svět barevnější\na ty to víš."
+          }
         }
       }
     },
@@ -21535,6 +22981,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mỗi lần gặp bạn, em lại\ncó thêm lý do để yêu đời."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den bez tebe nedává smysl,\nty jsi přece jeho střed."
           }
         }
       }
@@ -21625,6 +23077,12 @@
             "state" : "translated",
             "value" : "Nếu em có điều ước,\nchắc em chỉ muốn thấy bạn vui."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V žebříčku srdce ty vedeš\na nikdo tě nepředběhne."
+          }
         }
       }
     },
@@ -21713,6 +23171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Với em thì bạn\nlà món quà quý nhất."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "S tebou zvládnu cokoli,\nty jsi můj tým."
           }
         }
       }
@@ -21803,6 +23267,12 @@
             "state" : "translated",
             "value" : "Nghe bạn nói như bài hát ru,\nem thấy bình yên liền."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Každý den děkuju, že ty\njsi na světě."
+          }
         }
       }
     },
@@ -21891,6 +23361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhìn bạn một cái\nlà em quên hết mệt mỏi."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úsměv, který ty máš, je krásnější\nnež cokoli, co znám."
           }
         }
       }
@@ -21981,6 +23457,12 @@
             "state" : "translated",
             "value" : "Gặp được bạn là em\nbiết mình đã trúng quẻ may."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Největší požehnání? Že ty\njsi v mém životě."
+          }
         }
       }
     },
@@ -22069,6 +23551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mỗi sáng có bạn nhắn tin\nlà pin em đầy cả ngày."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stačí na tebe pomyslet a ty\nmi zlepšíš celý den."
           }
         }
       }
@@ -22159,6 +23647,12 @@
             "state" : "translated",
             "value" : "Nếu bạn làm đầu bếp thì\nmón nào cũng ngon cả thế giới."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Domov není tam, kde bydlím,\nale tam, kde jsi ty."
+          }
         }
       }
     },
@@ -22247,6 +23741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Em đỏ mặt mà vẫn thích,\nchỉ có bạn làm được thôi."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "S tebou je vše dokonalé, ty\nse ani nemusíš snažit."
           }
         }
       }
@@ -22337,6 +23837,12 @@
             "state" : "translated",
             "value" : "Chỗ nào có bạn đứng\nlà chỗ đó thành nơi đáng sống."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ideál, o kterém se mi zdálo,\njsi ty, bez diskuse."
+          }
         }
       }
     },
@@ -22425,6 +23931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chỉ cần bạn gật đầu,\nem sẵn sàng xếp hàng cả đời."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Srdce přeskočí rytmus, jakmile\nty mrkneš."
           }
         }
       }
@@ -22515,6 +24027,12 @@
             "state" : "translated",
             "value" : "Em đã thử đếm sao trên trời,\nnhưng bạn vẫn sáng nhất."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chodící učebnice krásy,\na ty jsi její hlavní kapitola."
+          }
         }
       }
     },
@@ -22603,6 +24121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thế giới có bạn thật là\nmay mắn vô cùng."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvůj šarm je nebezpečný,\nale ty ho nosíš s úsměvem."
           }
         }
       }
@@ -22693,6 +24217,12 @@
             "state" : "translated",
             "value" : "Thật ra bạn là phiên bản\nnâng cấp của sự dễ thương."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Z koukání na tebe mě bolí\nkrk, a ty za to můžeš."
+          }
         }
       }
     },
@@ -22781,6 +24311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hôm nay bạn cũng là\nngười em muốn khoe nhất."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Můj tep ví, kdy ty jdeš:\nhned vyskočí nahoru."
           }
         }
       }
@@ -22871,6 +24407,12 @@
             "state" : "translated",
             "value" : "Cảm giác khi nhìn bạn\ngiống như được ăn kem giữa hè."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro moje oči jsi\nty hlavní událost."
+          }
         }
       }
     },
@@ -22959,6 +24501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Em chấm bạn 10 điểm,\nkhông có nhưng gì hết."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Každý den je svátek,\nprotože ty jsi tu."
           }
         }
       }
@@ -23049,6 +24597,12 @@
             "state" : "translated",
             "value" : "Tổng kết năm nay, bạn\nvẫn là nhân vật xuất sắc nhất."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zázraky existují, ty jsi\nten nejlepší z nich."
+          }
         }
       }
     },
@@ -23137,6 +24691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cả xóm em ai cũng tự hào\nvì có bạn đó."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jakmile ty přijdeš, svět\njede ve zpomaleném záběru."
           }
         }
       }
@@ -23227,6 +24787,12 @@
             "state" : "translated",
             "value" : "Xin trao tặng bạn\ndanh hiệu người đáng yêu nhất."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Můj život je VIP zóna,\nvstup má jen ty."
+          }
         }
       }
     },
@@ -23315,6 +24881,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhờ bạn mà em hiểu\nthế nào là cảm xúc dâng trào."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvězdná chvíle dne?\nKdyž se ty usmíváš."
           }
         }
       }
@@ -23405,6 +24977,12 @@
             "state" : "translated",
             "value" : "Giải thưởng gương mặt của năm\nchắc chắn thuộc về bạn rồi."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium obsah? To jsi přece ty,\nnejlepší seriál mého dne."
+          }
         }
       }
     },
@@ -23493,6 +25071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nếu hạnh phúc có địa chỉ thì\nđó là chỗ bạn đang đứng."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svět vidím ostřeji od chvíle,\nkdy ty jsi v něm."
           }
         }
       }
@@ -23583,6 +25167,12 @@
             "state" : "translated",
             "value" : "Với bạn thì mọi ánh nhìn\nđều là ánh nhìn ngưỡng mộ."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zlatá hodinka? Tu mi nadělíš\nprávě ty."
+          }
         }
       }
     },
@@ -23671,6 +25261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chuyện lạ có thật: bạn xuất hiện,\nlà tâm trạng em lên liền."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stačí na tebe myslet a ty\nmě už rozesmíváš."
           }
         }
       }
@@ -23761,6 +25357,12 @@
             "state" : "translated",
             "value" : "Tình yêu em dành cho bạn\ncòn lớn hơn cả bầu trời."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hotel s pěti hvězdami je proti tobě\nrohožka, ty jsi ráj."
+          }
         }
       }
     },
@@ -23849,6 +25451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sau tất cả thì bạn vẫn là\nđiều tuyệt nhất em từng gặp."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Díky tobě je každý den prémie,\nty jsi nejlepší bonus."
           }
         }
       }
@@ -23939,6 +25547,12 @@
             "state" : "translated",
             "value" : "Ngày mai bạn cũng sẽ đỉnh,\nem bảo chứng luôn đó!"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hlavní událost roku se koná\ntam, kde se objeví ty."
+          }
         }
       }
     },
@@ -24027,6 +25641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tin vui đầu ngày: bạn vẫn\nđẹp trai xinh gái như hôm qua."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moje srdce tančí, kdykoli\nty se na mě podíváš."
           }
         }
       }
@@ -24117,6 +25737,12 @@
             "state" : "translated",
             "value" : "Nếu có cuộc thi tỏa sáng thì\nbạn đã nhận cúp từ lâu."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rozlišení 4K je málo,\naby uneslo, jak ty vypadáš."
+          }
         }
       }
     },
@@ -24205,6 +25831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Giữa phố đông người, em vẫn\nnhận ra bạn đầu tiên."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barvy jsou syté jen proto,\nže ty jsi ve scéně."
           }
         }
       }
@@ -24295,6 +25927,12 @@
             "state" : "translated",
             "value" : "Khen bạn thì em có thừa,\nnhưng chê thì xin chịu."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro mě ty jsi VIP,\na to bez pozvánky."
+          }
         }
       }
     },
@@ -24383,6 +26021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nắng đẹp, gió mát, và\nbạn nữa. Đủ bộ rồi nhé!"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Díky tobě je den speciální,\nty se ani nesnažíš."
           }
         }
       }
@@ -24473,6 +26117,12 @@
             "state" : "translated",
             "value" : "Mai mốt bạn nổi tiếng nhớ\nnhận em là fan đầu tiên nha."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eso v rukávu? To ty\njsi moje tajná zbraň."
+          }
         }
       }
     },
@@ -24561,6 +26211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gặp ai cũng muốn kể cho mẹ nghe\nvề bạn, kiểu người hiếm có."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Když na tebe myslím, ty\nmi pošleš upgrade nálady."
           }
         }
       }
@@ -24651,6 +26307,12 @@
             "state" : "translated",
             "value" : "Gió có thổi bay cả mây,\ncũng không bay nổi sức hút của bạn."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Síň slávy v mém srdci má\njediného člena: ty."
+          }
         }
       }
     },
@@ -24739,6 +26401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hít một hơi thật sâu, rồi\nnhớ rằng bạn đang làm rất tốt."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Život je v barvě díky tomu,\nže ty jsi jeho režisér."
           }
         }
       }
@@ -24829,6 +26497,12 @@
             "state" : "translated",
             "value" : "Em không mê tín đâu, nhưng\ngặp bạn đúng là vận may."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ze všech legend na světě je\nnejvíc legendární ty."
+          }
         }
       }
     },
@@ -24918,6 +26592,12 @@
             "state" : "translated",
             "value" : "Đời em có hai điều chắc chắn:\ntrời sẽ sáng, và bạn sẽ đỉnh."
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Když ty se podíváš,\nčas jede ve slow motion."
+          }
         }
       }
     },
@@ -25006,6 +26686,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chưa bao giờ em thấy ai\nvừa giỏi vừa dễ thương như bạn."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permanentka do mého srdce\nje tvoje, ty zlatíčko."
           }
         }
       }

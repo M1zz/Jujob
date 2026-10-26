@@ -85,3 +85,9 @@ Envie bugs e ideias por e-mail ou DM
 Đã có lời khen lố nhiều ngôn ngữ
 Liên hệ nhà phát triển ngay ở Cài đặt
 Báo lỗi, góp ý qua email hay Instagram
+
+### 앱스토어 (체코어)
+
+Hlášky teď přicházejí ve více jazycích
+Z nastavení můžeš rovnou napsat vývojáři
+Chyby i nápady pošli e-mailem či DM

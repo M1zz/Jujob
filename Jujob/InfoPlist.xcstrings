@@ -88,6 +88,12 @@
             "state" : "translated",
             "value" : "Khen Lố Mỗi Ngày"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pochvala dne"
+          }
         }
       }
     },
@@ -177,6 +183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Khen Lố Mỗi Ngày"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pochvala dne"
           }
         }
       }
