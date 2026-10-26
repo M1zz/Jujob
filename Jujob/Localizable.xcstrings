@@ -17,6 +17,12 @@
             "state" : "translated",
             "value" : "%lld days"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld天"
+          }
         }
       }
     },
@@ -32,6 +38,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You have seen all 100 gushes,\nso you are a proper master now!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100句彩虹屁全看完的你，\n已是货真价实的大师啦！"
           }
         }
       }
@@ -49,6 +61,12 @@
             "state" : "translated",
             "value" : "You checked in 100 days in a row!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已连续100天查看彩虹屁！"
+          }
         }
       }
     },
@@ -64,6 +82,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 days, what a marvel! Your\nconsistency has changed the world!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "百日奇迹！你的坚持，\n已经改变了世界！"
           }
         }
       }
@@ -81,6 +105,12 @@
             "state" : "translated",
             "value" : "A hundred days on this journey,\nand you are absolutely brilliant!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一起走过了神奇的100天，\n你真是太了不起了！"
+          }
         }
       }
     },
@@ -96,6 +126,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 min"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15分钟"
           }
         }
       }
@@ -113,6 +149,12 @@
             "state" : "translated",
             "value" : "30 min"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30分钟"
+          }
         }
       }
     },
@@ -128,6 +170,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You checked in 30 days in a row!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已连续30天查看彩虹屁！"
           }
         }
       }
@@ -145,6 +193,12 @@
             "state" : "translated",
             "value" : "Thirty days of turning up,\nyou are an absolute star!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "整整30天都准时来报到，\n你真的超棒！"
+          }
         }
       }
     },
@@ -160,6 +214,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You have seen 50 gushes,\nnow that is enthusiasm!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "50句彩虹屁全部看完，\n你的热情太让人感动啦！"
           }
         }
       }
@@ -177,6 +237,12 @@
             "state" : "translated",
             "value" : "5 min"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5分钟"
+          }
         }
       }
     },
@@ -193,6 +259,12 @@
             "state" : "translated",
             "value" : "You checked in 7 days in a row!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已连续7天查看彩虹屁！"
+          }
         }
       }
     },
@@ -208,6 +280,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seven days together,\nhere's to many more!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一起走过了7天，\n接下来也要继续同行哦！"
           }
         }
       }
@@ -231,6 +309,12 @@
             "state" : "translated",
             "value" : "Restore Purchases"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复购买"
+          }
         }
       }
     },
@@ -252,6 +336,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Choose a category"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择分类"
           }
         }
       }
@@ -275,6 +365,12 @@
             "state" : "translated",
             "value" : "Choose a font"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择字体"
+          }
         }
       }
     },
@@ -296,6 +392,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quick guide"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用教程"
           }
         }
       }
@@ -319,6 +421,12 @@
             "state" : "translated",
             "value" : "anonymous"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匿名"
+          }
         }
       }
     },
@@ -341,6 +449,12 @@
             "state" : "translated",
             "value" : "premium"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级版"
+          }
         }
       }
     },
@@ -360,6 +474,12 @@
             "state" : "translated",
             "value" : "Contact the developer"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "联系开发者"
+          }
         }
       }
     },
@@ -375,6 +495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gradient colour"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "渐变颜色"
           }
         }
       }
@@ -392,6 +518,12 @@
             "state" : "translated",
             "value" : "Text colour"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文字颜色"
+          }
         }
       }
     },
@@ -407,6 +539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pick a mood"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择心情"
           }
         }
       }
@@ -424,6 +562,12 @@
             "state" : "translated",
             "value" : "Feeling low"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心情低落"
+          }
         }
       }
     },
@@ -439,6 +583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "We'll pick a gush to suit\nyour mood or moment!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按你的心情和场景，\n挑一句最合适的彩虹屁！"
           }
         }
       }
@@ -456,6 +606,12 @@
             "state" : "translated",
             "value" : "My records"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的记录"
+          }
         }
       }
     },
@@ -472,6 +628,12 @@
             "state" : "translated",
             "value" : "Manage my gushes"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理我的彩虹屁"
+          }
         }
       }
     },
@@ -487,6 +649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Next gush"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下一句"
           }
         }
       }
@@ -505,6 +673,12 @@
             "state" : "translated",
             "value" : "you"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你"
+          }
         }
       }
     },
@@ -520,6 +694,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Honestly, you are more\nthan enough, and worth every bit!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你已经足够好，\n是个很有价值的人！"
           }
         }
       }
@@ -537,6 +717,12 @@
             "state" : "translated",
             "value" : "Date night"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "约会前"
+          }
         }
       }
     },
@@ -552,6 +738,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Motivation"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打鸡血"
           }
         }
       }
@@ -569,6 +761,12 @@
             "state" : "translated",
             "value" : "Surprise me"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "随机"
+          }
         }
       }
     },
@@ -584,6 +782,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tap the star to save\nthe gushes you love!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "遇到喜欢的彩虹屁，\n点星标收藏起来吧！"
           }
         }
       }
@@ -601,6 +805,12 @@
             "state" : "translated",
             "value" : "Love myself every day"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每天都要爱自己"
+          }
         }
       }
     },
@@ -616,6 +826,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pre-interview"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "面试前"
           }
         }
       }
@@ -633,6 +849,12 @@
             "state" : "translated",
             "value" : "Preview"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "预览"
+          }
         }
       }
     },
@@ -648,6 +870,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Background"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "背景设置"
           }
         }
       }
@@ -665,6 +893,12 @@
             "state" : "translated",
             "value" : "Background image"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "背景图片"
+          }
         }
       }
     },
@@ -680,6 +914,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 days!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "百日达成！"
           }
         }
       }
@@ -697,6 +937,12 @@
             "state" : "translated",
             "value" : "A hundred days, every single day,\nyou are an absolute treasure!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "连续一百天天天都来，\n你就是这世上最珍贵的人！"
+          }
         }
       }
     },
@@ -712,6 +958,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bug reports and ideas are very welcome."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "欢迎反馈问题、提出建议。"
           }
         }
       }
@@ -729,6 +981,12 @@
             "state" : "translated",
             "value" : "Advanced settings"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "详细设置"
+          }
         }
       }
     },
@@ -744,6 +1002,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Refresh interval"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刷新间隔"
           }
         }
       }
@@ -761,6 +1025,12 @@
             "state" : "translated",
             "value" : "Pre-exam"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "考试前"
+          }
         }
       }
     },
@@ -776,6 +1046,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Morning"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "早晨"
           }
         }
       }
@@ -793,6 +1069,12 @@
             "state" : "translated",
             "value" : "Scroll until you spot the app name.\n\"Daily Gush\""
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "向下滑动，直到看到应用名称\n“今日彩虹屁”"
+          }
         }
       }
     },
@@ -808,6 +1090,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Achievements"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "成就"
           }
         }
       }
@@ -825,6 +1113,12 @@
             "state" : "translated",
             "value" : "Streak"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "连续记录"
+          }
         }
       }
     },
@@ -840,6 +1134,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "How are you feeling today?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天心情怎么样？"
           }
         }
       }
@@ -857,6 +1157,12 @@
             "state" : "translated",
             "value" : "Just be yourself today,\nit is the best look going!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天也做你自己，\n这就是最棒的！"
+          }
         }
       }
     },
@@ -872,6 +1178,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Daily Gush"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日彩虹屁"
           }
         }
       }
@@ -889,6 +1201,12 @@
             "state" : "translated",
             "value" : "Right"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "靠右"
+          }
         }
       }
     },
@@ -904,6 +1222,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Who has been getting our favourite down?\nPick something to cheer yourself on!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "谁欺负我家孩子了！\n挑一句话，好好鼓励自己吧！"
           }
         }
       }
@@ -921,6 +1245,12 @@
             "state" : "translated",
             "value" : "Left"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "靠左"
+          }
         }
       }
     },
@@ -936,6 +1266,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pre-workout"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "运动前"
           }
         }
       }
@@ -953,6 +1289,12 @@
             "state" : "translated",
             "value" : "Fine-tune the widget's look and font"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "精细调整小组件的外观和字体"
+          }
         }
       }
     },
@@ -968,6 +1310,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widget settings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小组件设置"
           }
         }
       }
@@ -985,6 +1333,12 @@
             "state" : "translated",
             "value" : "Use this gush"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "就用这句"
+          }
         }
       }
     },
@@ -1000,6 +1354,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Name"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名字"
           }
         }
       }
@@ -1017,6 +1377,12 @@
             "state" : "translated",
             "value" : "Set your name"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名字设置"
+          }
         }
       }
     },
@@ -1032,6 +1398,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What's your name?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "告诉我你的名字吧！"
           }
         }
       }
@@ -1049,6 +1421,12 @@
             "state" : "translated",
             "value" : "Enter your name"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请输入名字"
+          }
         }
       }
     },
@@ -1064,6 +1442,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Email us"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发邮件咨询"
           }
         }
       }
@@ -1081,6 +1465,12 @@
             "state" : "translated",
             "value" : "Now just choose a widget size and tap \"Add Widget\"."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最后选好小组件尺寸，点“添加小组件”就大功告成啦。"
+          }
         }
       }
     },
@@ -1096,6 +1486,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instagram DM (@lee25_ios)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instagram 私信 (@lee25_ios)"
           }
         }
       }
@@ -1113,6 +1509,12 @@
             "state" : "translated",
             "value" : "Before work"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开工前"
+          }
         }
       }
     },
@@ -1128,6 +1530,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "One week!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一周达成！"
           }
         }
       }
@@ -1145,6 +1553,12 @@
             "state" : "translated",
             "value" : "A whole week of turning up,\nwe are dead proud of you!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一整周都坚持来看，\n真为你骄傲！"
+          }
         }
       }
     },
@@ -1160,6 +1574,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Confidence"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自信"
           }
         }
       }
@@ -1177,6 +1597,12 @@
             "state" : "translated",
             "value" : "Evening"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "傍晚"
+          }
         }
       }
     },
@@ -1192,6 +1618,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Save"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
           }
         }
       }
@@ -1209,6 +1641,12 @@
             "state" : "translated",
             "value" : "Suggested by"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提议者"
+          }
         }
       }
     },
@@ -1224,6 +1662,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Grand Gush Master"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "彩虹屁宗师"
           }
         }
       }
@@ -1241,6 +1685,12 @@
             "state" : "translated",
             "value" : "Gush Master"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "彩虹屁大师"
+          }
         }
       }
     },
@@ -1256,6 +1706,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gush widget"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "彩虹屁小组件"
           }
         }
       }
@@ -1273,6 +1729,12 @@
             "state" : "translated",
             "value" : "We'll swap \"you\" in the gushes\nfor your own name!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "把彩虹屁里的“你”，\n换成你的名字！"
+          }
         }
       }
     },
@@ -1288,6 +1750,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Check a gush and it\nis logged automatically!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "看过的彩虹屁，\n会自动记下来！"
           }
         }
       }
@@ -1305,6 +1773,12 @@
             "state" : "translated",
             "value" : "Centre"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "居中"
+          }
         }
       }
     },
@@ -1320,6 +1794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Favourites"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收藏"
           }
         }
       }
@@ -1337,6 +1817,12 @@
             "state" : "translated",
             "value" : "No favourites yet"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还没有收藏"
+          }
         }
       }
     },
@@ -1352,6 +1838,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You have seen 100 gushes in total!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "累计查看了100句彩虹屁！"
           }
         }
       }
@@ -1369,6 +1861,12 @@
             "state" : "translated",
             "value" : "You have seen 50 gushes in total!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "累计查看了50句彩虹屁！"
+          }
         }
       }
     },
@@ -1384,6 +1882,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Total days"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "累计天数"
           }
         }
       }
@@ -1401,6 +1905,12 @@
             "state" : "translated",
             "value" : "Best streak"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最长记录"
+          }
         }
       }
     },
@@ -1416,6 +1926,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Commute"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上班路上"
           }
         }
       }
@@ -1433,6 +1949,12 @@
             "state" : "translated",
             "value" : "Home time"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下班路上"
+          }
         }
       }
     },
@@ -1448,6 +1970,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Font"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字体"
           }
         }
       }
@@ -1465,6 +1993,12 @@
             "state" : "translated",
             "value" : "Font settings"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字体设置"
+          }
         }
       }
     },
@@ -1480,6 +2014,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "One month!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "满月达成！"
           }
         }
       }
@@ -1497,6 +2037,12 @@
             "state" : "translated",
             "value" : "A month together,\nyou are truly one of a kind!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一起度过了一个月，\n你真是个特别的人！"
+          }
         }
       }
     },
@@ -1512,6 +2058,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Line spacing"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "行距"
           }
         }
       }
@@ -1529,6 +2081,12 @@
             "state" : "translated",
             "value" : "Current streak"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当前连续"
+          }
         }
       }
     },
@@ -1544,6 +2102,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Press and hold the Home Screen until the icons wiggle, then tap the ➕ at the top left or right."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "长按主屏幕进入编辑模式，再点左上角或右上角的 ➕。"
           }
         }
       }
@@ -1561,6 +2125,12 @@
             "state" : "translated",
             "value" : "History"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "历史记录"
+          }
         }
       }
     },
@@ -1576,6 +2146,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nothing in your history yet"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还没有历史记录"
           }
         }
       }
@@ -1593,6 +2169,12 @@
             "state" : "translated",
             "value" : "Unwind"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "治愈"
+          }
         }
       }
     },
@@ -1608,6 +2190,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rough patch"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "难过的时候"
           }
         }
       }

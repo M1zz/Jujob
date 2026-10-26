@@ -19,3 +19,9 @@ Report bugs and ideas by email or DM
 Get gushes in many languages now
 Contact the developer from Settings
 Send bugs and ideas by email or DM
+
+### 앱스토어 (중국어(간체))
+
+现在可以收到多种语言的彩虹屁啦
+在设置页就能直接联系开发者
+欢迎通过邮件或Instagram反馈问题和建议

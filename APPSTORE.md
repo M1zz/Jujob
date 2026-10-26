@@ -134,3 +134,50 @@ What you get
 
 No personal data is collected. Your name, favourites and history stay on your device and nowhere else.
 Found a bug or have a bright idea? Send it by email or Instagram from the Settings screen. We would love to hear from you.
+
+## zh-Hans
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/zh-Hans/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/zh-Hans/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/zh-Hans/index.html
+
+### 이름
+
+今日彩虹屁
+
+### 부제
+
+一起夸夸，夸到飞起来
+
+### 키워드
+
+鼓励,打气,赞美,小组件,桌面组件,励志,语录,治愈,自信,正能量,心情,上班,面试,考试,健身,约会,安慰,情话,文案,加油,每日一句,暖心,表扬,搞笑,解压,小部件,桌面,夸人,暖心话,日常
+
+### 프로모션 텍스트
+
+每天来一句专属马屁，把你夸得美美的！主屏幕小组件从早到晚随时打气，还能把句子里的“你”换成你的名字，被偏爱的感觉直接拉满。
+
+### 설명
+
+把你夸上天的小组件应用，一句句彩虹屁直接出现在主屏幕上。
+心情低落时来一句，出门打拼前来一句，每天都被夸得美滋滋。
+
+281句原创彩虹屁，按心情和场景分好类：早晨、上班路上、开工前、面试前、考试前、运动前、约会前、下班路上、傍晚、难过的时候、治愈、自信、打鸡血……想被怎么夸，自己挑。
+
+主要功能
+- 主屏幕小组件：字体、文字颜色、背景图片、对齐方式、行距、刷新间隔，都可以按你的喜好调整。
+- 选择心情：根据今天的心情或场景，挑出最合适的一句。
+- 填上名字：把句子里的“你”换成你的名字，就像专属粉丝在为你应援。
+- 收藏与历史记录：喜欢的句子点星标收藏，看过的也能随时翻回去再读一遍。
+- 连续记录与成就：连续查看7天、30天、100天，就能解锁特别的彩虹屁。
+
+不收集任何个人信息。名字、收藏等数据只保存在你的设备里。
+遇到问题或有好点子，欢迎在设置页通过邮件或Instagram告诉我们。
