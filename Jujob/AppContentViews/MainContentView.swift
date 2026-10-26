@@ -125,6 +125,8 @@ struct MainContentView: View {
                 NewFeatures
                 Spacer(minLength: 40)
                 DetailedSettings
+                Spacer(minLength: 40)
+                DeveloperContact
                 Spacer(minLength: 50)
             }
         }
@@ -388,6 +390,54 @@ struct MainContentView: View {
                     .background(RoundedRectangle(cornerRadius: 8).foregroundColor(Color(#colorLiteral(red: 0.6965066386, green: 0.6965066386, blue: 0.6965066386, alpha: 1))))
                     .pickerStyle(SegmentedPickerStyle())
                     .labelsHidden()
+                }
+            }
+            .padding()
+            .background(RoundedRectangle(cornerRadius: 15).foregroundColor(Color(#colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1))))
+        }
+    }
+
+    // MARK: - 개발자 문의
+    private var DeveloperContact: some View {
+        VStack {
+            createSectionHeader(title: "개발자에게 문의")
+            Text("버그 제보와 기능 제안을 환영합니다.")
+                .font(.system(size: 13))
+                .foregroundColor(.gray)
+                .frame(maxWidth: .infinity, alignment: .leading)
+                .padding(.leading, 15)
+                .padding(.top, 2)
+                .padding(.bottom, 10)
+
+            VStack(spacing: 20) {
+                Link(destination: URL(string: "mailto:leeo@kakao.com")!) {
+                    HStack {
+                        Image(systemName: "envelope")
+                            .font(.system(size: 18))
+                            .foregroundColor(.blue)
+                            .frame(width: 28)
+                        Text("이메일로 문의하기")
+                            .foregroundColor(.white)
+                        Spacer()
+                        Image(systemName: "chevron.right")
+                            .font(.system(size: 13, weight: .semibold))
+                            .foregroundColor(.gray)
+                    }
+                }
+                Divider().background(Color.white)
+                Link(destination: URL(string: "https://instagram.com/lee25_ios")!) {
+                    HStack {
+                        Image(systemName: "paperplane")
+                            .font(.system(size: 18))
+                            .foregroundColor(.pink)
+                            .frame(width: 28)
+                        Text("인스타그램 DM (@lee25_ios)")
+                            .foregroundColor(.white)
+                        Spacer()
+                        Image(systemName: "chevron.right")
+                            .font(.system(size: 13, weight: .semibold))
+                            .foregroundColor(.gray)
+                    }
                 }
             }
             .padding()
