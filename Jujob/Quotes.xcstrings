@@ -123,6 +123,12 @@
             "state" : "translated",
             "value" : "Hei sann! Allerede nå har du\nvunnet dagen ved å våkne."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat een stralende start! Want\nvandaag ben jij al geweldig genoeg."
+          }
         }
       }
     },
@@ -247,6 +253,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Morgensolen blekner mot hvor\nmye du skinner i dag!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Net als de ochtendzon straal jij vandaag,\ndus dit wordt een topdag!"
           }
         }
       }
@@ -373,6 +385,12 @@
             "state" : "translated",
             "value" : "Hurra, du sto opp! Det er jo\nhelt rått. Heia deg i dag også!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dat jij je bed uit kwam\nis al een prestatie. Go go go!"
+          }
         }
       }
     },
@@ -497,6 +515,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verdens fineste morgen starter\nakkurat når du åpner øynene."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een mooier begin van de dag\nals dat jij wakker wordt bestaat niet."
           }
         }
       }
@@ -623,6 +647,12 @@
             "state" : "translated",
             "value" : "Alle snakker om deg i dag:\ndu er hovedpersonen!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vandaag speel jij de hoofdrol,\ndus geniet van je applaus."
+          }
         }
       }
     },
@@ -747,6 +777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Øynene åpne, og allerede er\ndu en vinner!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ogen open en meteen winnen,\nzo doe jij dat dus."
           }
         }
       }
@@ -873,6 +909,12 @@
             "state" : "translated",
             "value" : "Så søtt som du smiler, blir\nselv første kaffekopp sjalu."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koffie? Ach, jij met een glimlach\nom half acht is veel wakkerder."
+          }
         }
       }
     },
@@ -997,6 +1039,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vær deg selv i dag også,\nfor du er best sånn."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ook vandaag is het enige dat telt:\njij gewoon lekker jezelf."
           }
         }
       }
@@ -1123,6 +1171,12 @@
             "state" : "translated",
             "value" : "Så pen så tidlig på dagen?\nHvordan kan du være lovlig?"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zo mooi al vroeg in de ochtend?\nEerlijk, jij bent een kunstwerk."
+          }
         }
       }
     },
@@ -1247,6 +1301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "God morgen? Nei da, du gjør den\nom til en fantastisk morgen!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Goedemorgen? Nee joh,\nmet jij erbij wordt het een topmorgen!"
           }
         }
       }
@@ -1373,6 +1433,12 @@
             "state" : "translated",
             "value" : "Først ser jeg deg i dag,\nog morgenøynene sier takk, du."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eerste blik van de dag, en daar ben jij.\nMijn ogen krijgen meteen een traktatie."
+          }
         }
       }
     },
@@ -1497,6 +1563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvem lyser opp hele stua?\nDet er jo du!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alarm! Gevonden: de meest stralende\nmens van de ochtend, en dat ben jij."
           }
         }
       }
@@ -1623,6 +1695,12 @@
             "state" : "translated",
             "value" : "Takk for innsatsen i dag!\nÆrlig talt, du er helt rå."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat heb jij weer hard gewerkt!\nRespect, echt waar."
+          }
         }
       }
     },
@@ -1747,6 +1825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dagen er over, og du står\nfortsatt som en helt!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een dag afsluiten zoals jij dat doet,\ndat kan echt niemand."
           }
         }
       }
@@ -1873,6 +1957,12 @@
             "state" : "translated",
             "value" : "I dag ga du alt,\nog jeg er kjempestolt."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je gaf vandaag alles en ik ben trots,\ndus nu mag jij uitrusten."
+          }
         }
       }
     },
@@ -1997,6 +2087,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Litt sliten? Ja visst, men\ndu klarte det likevel!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moe, maar toch hield jij het vol.\nDat is pas een held."
           }
         }
       }
@@ -2123,6 +2219,12 @@
             "state" : "translated",
             "value" : "En dag der du er med\ner aldri bortkastet. Aldri!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elke dag waarin jij meedoet\nis een dag die telt."
+          }
         }
       }
     },
@@ -2247,6 +2349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hele dagen klarte du, og\ndet er mer enn nok i dag."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dat jij de dag heelhuids doorkwam,\nis voldoende. Echt."
           }
         }
       }
@@ -2373,6 +2481,12 @@
             "state" : "translated",
             "value" : "Som stjernene på himmelen\nskinner du også i kveld."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sterren aan de nachtelijke hemel?\nTja, jij schittert harder."
+          }
         }
       }
     },
@@ -2497,6 +2611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fortsatt like fin på kvelden.\nHvordan får du det til?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het is al avond en jij glanst nog.\nHoe doe je dat toch?"
           }
         }
       }
@@ -2623,6 +2743,12 @@
             "state" : "translated",
             "value" : "Takk for i dag. Verden trenger\nat du fortsetter å være deg."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bedankt voor je inzet vandaag.\nGelukkig bestaat er maar één jij."
+          }
         }
       }
     },
@@ -2747,6 +2873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verden ble litt finere i dag\nfordi du var i den."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Door alles wat jij doet\nwas de wereld vandaag weer mooier."
           }
         }
       }
@@ -2873,6 +3005,12 @@
             "state" : "translated",
             "value" : "Legende om dagen,\nlegende om natten. Aldri fri, du."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In het donker een legende,\nin het licht ook. Typisch jij."
+          }
         }
       }
     },
@@ -2997,6 +3135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dårlige dager finnes, men uansett\ngjør du det bra."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geeft niks, zo'n dag hoort erbij.\nWant jij doet het écht goed."
           }
         }
       }
@@ -3123,6 +3267,12 @@
             "state" : "translated",
             "value" : "Det er tungt nå, men du\nkommer deg gjennom dette!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu even zwaar, maar vertrouw erop:\njij komt er wel doorheen."
+          }
         }
       }
     },
@@ -3247,6 +3397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du trenger ikke være perfekt.\nDu er best akkurat slik du er!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfect hoeft niet.\nGewoon zoals jij bent is al top."
           }
         }
       }
@@ -3373,6 +3529,12 @@
             "state" : "translated",
             "value" : "Ta en pause om du vil.\nDu bestemmer tempoet selv."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een pauze mag best. Zolang jij\nmaar je eigen tempo aanhoudt."
+          }
         }
       }
     },
@@ -3497,6 +3659,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du er faktisk mye sterkere\nenn du tror!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veel sterker dan je denkt:\ndat laat jij elke dag zien."
           }
         }
       }
@@ -3623,6 +3791,12 @@
             "state" : "translated",
             "value" : "Dette går over også.\nOg du klarer det!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ook dit gaat voorbij.\nTuurlijk kan jij dit!"
+          }
         }
       }
     },
@@ -3747,6 +3921,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv om humøret synker,\nblir du aldri mindre verdt."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zelfs als jij somber bent,\nverandert je waarde geen millimeter."
           }
         }
       }
@@ -3873,6 +4053,12 @@
             "state" : "translated",
             "value" : "Tristhet hører også til.\nHusk at du får kjenne på alt."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verdriet hoort ook bij je.\nEn ja, jij mag alle gevoelens voelen."
+          }
         }
       }
     },
@@ -3997,6 +4183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visste du at diamanter blir\ntil under press? Akkurat som du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weet je wat? Diamanten ontstaan onder druk,\ndus straks schitter jij net zo."
           }
         }
       }
@@ -4123,6 +4315,12 @@
             "state" : "translated",
             "value" : "Nedfor? Husk at du er så fin\nat selv regnet vil trøste deg."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Somber? Dan ben ik het ook,\nwant zodra jij niet lacht, is alles grijs."
+          }
         }
       }
     },
@@ -4247,6 +4445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nedtur? Akkurat da er du\nhelt uerstattelig."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Down? Juist dan blijf jij\nhet kostbaarste wat er bestaat."
           }
         }
       }
@@ -4373,6 +4577,12 @@
             "state" : "translated",
             "value" : "Pen når du er lei deg,\npen når du gråter. Urettferdig!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zelfs huilend zie jij er prachtig uit.\nWat ga je daar nou aan doen?"
+          }
         }
       }
     },
@@ -4497,6 +4707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv på en tung dag\ner du et lite mirakel."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ook nu het zwaar is, blijft het zo:\ndat jij bestaat, is al een wonder."
           }
         }
       }
@@ -4623,6 +4839,12 @@
             "state" : "translated",
             "value" : "Det er tøft nå, men du\nkommer til å klare det!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het is nu pittig, maar echt:\njij gaat dit redden!"
+          }
         }
       }
     },
@@ -4747,6 +4969,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når det butter imot, viser du\nhva du virkelig er laget av!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juist in lastige momenten\nlaat jij zien wat je waard bent."
           }
         }
       }
@@ -4873,6 +5101,12 @@
             "state" : "translated",
             "value" : "Ikke gi opp! Du er\nsterkere enn du aner."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niet opgeven.\nDaar ben jij veel te sterk voor!"
+          }
         }
       }
     },
@@ -4997,6 +5231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gjennom harde tider holder du ut.\nHelt utrolig!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doorzetten in barre tijden:\nvolgens mij ben jij echt bijzonder."
           }
         }
       }
@@ -5123,6 +5363,12 @@
             "state" : "translated",
             "value" : "Motgangen i dag gjør at du\nvokser enda mer i morgen!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De ellende van vandaag is de brandstof\nvoor de kracht die jij morgen toont."
+          }
         }
       }
     },
@@ -5247,6 +5493,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du tåler faktisk mye\nmer enn du tror."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je kunt veel meer hebben dan je denkt,\nen dat weet jij zelf ook wel."
           }
         }
       }
@@ -5373,6 +5625,12 @@
             "state" : "translated",
             "value" : "Tungt nå, men du vet\nat det snart bare er et minne."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit zware moment is straks nog maar\neen verhaaltje, vind jij ook niet?"
+          }
         }
       }
     },
@@ -5497,6 +5755,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv med regn og motvind\nlyser du opp hele veien."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zwaar, maar toch glinster jij.\nSlijpen laat een diamant schitteren."
           }
         }
       }
@@ -5623,6 +5887,12 @@
             "state" : "translated",
             "value" : "Tungt akkurat nå? Likevel er du\nden fineste jeg vet om."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zwaar vandaag? Toch blijf jij\nde mooiste die ik ken."
+          }
         }
       }
     },
@@ -5747,6 +6017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "At du holder ut,\ner håp for noen andre."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dat jij blijft doorgaan\ngeeft iemand hoop."
           }
         }
       }
@@ -5873,6 +6149,12 @@
             "state" : "translated",
             "value" : "Utslitt til tusen, men du\ner fortsatt pen. Urettferdig!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doodmoe en toch zo mooi,\ntja, daar kan jij ook niks aan doen."
+          }
         }
       }
     },
@@ -5997,6 +6279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kjør på! I dag vet du at du kan,\nså start dagen med selvtillit."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vandaag kun jij alles.\nBegin maar zelfverzekerd!"
           }
         }
       }
@@ -6123,6 +6411,12 @@
             "state" : "translated",
             "value" : "Jeg tror på deg! Vet du hva?\nDet blir en toppdag."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik geloof in je kunnen, want\nals jij het doet, wordt het een topdag!"
+          }
         }
       }
     },
@@ -6247,6 +6541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Forberedt som du er, er\nhalve jobben allerede gjort!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klaar voor de start,\ndus jij bent al halverwege."
           }
         }
       }
@@ -6373,6 +6673,12 @@
             "state" : "translated",
             "value" : "Dagens oppgaver? Gleder meg,\nfor du tar dem på strak arm."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die to-dolijst vandaag?\nVoor jij is dat een peulenschil."
+          }
         }
       }
     },
@@ -6497,6 +6803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se, nå lyser du opp\nhele dagen med den gnisten!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zodra jij vol vuur bent,\nstraalt de hele dag!"
           }
         }
       }
@@ -6623,6 +6935,12 @@
             "state" : "translated",
             "value" : "Heia deg! I dag skal du\nvise hva du går for!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kom op! Doe het vandaag\nzoals alleen jij dat kunt."
+          }
         }
       }
     },
@@ -6747,6 +7065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Før du setter i gang: du ser\nallerede ut som en proff!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoe jij je werkdag begint\nis al een en al professionaliteit."
           }
         }
       }
@@ -6873,6 +7197,12 @@
             "state" : "translated",
             "value" : "Null lyst til å jobbe? Likevel\njobber fjeset ditt overtid, du."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geen zin in werk? Maar jij\nmet dat gezicht werkt al overuren."
+          }
         }
       }
     },
@@ -6997,6 +7327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se hvor fin du er i dag.\nKontoret gleder seg til deg."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat zie jij er goed uit op weg naar werk.\nHet kantoor knapt ervan op."
           }
         }
       }
@@ -7123,6 +7459,12 @@
             "state" : "translated",
             "value" : "Når du jobber, er det ren kunst.\nGalleriet kan bare pakke sammen."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zodra jij aan het werk gaat,\nis het gewoon kunst."
+          }
         }
       }
     },
@@ -7247,6 +7589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ikke engang begynt,\nog du er allerede perfekt."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog niet eens begonnen\nen toch al perfect, jij."
           }
         }
       }
@@ -7373,6 +7721,12 @@
             "state" : "translated",
             "value" : "Du vet hva? Bare at du trener\ngjør deg til en tøffing!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kijk, daar ga jij sporten:\nmeteen een topper."
+          }
         }
       }
     },
@@ -7497,6 +7851,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Igjen i dag tar du vare\npå kroppen din. Imponerende!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Goed voor je lijf zorgen,\ndat doe jij weer lekker."
           }
         }
       }
@@ -7623,6 +7983,12 @@
             "state" : "translated",
             "value" : "Kroppen din kjenner du best.\nHør på den og gi gass!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niemand kent je lijf zo goed\nals jij, dus vertrouw erop."
+          }
         }
       }
     },
@@ -7747,6 +8113,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bare ved å starte treningen\ner du allerede en vinner."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dat jij überhaupt begonnen bent\nmaakt me al enorm trots."
           }
         }
       }
@@ -7873,6 +8245,12 @@
             "state" : "translated",
             "value" : "Du ser vakker ut når du svetter.\nSelv svetten er fan."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zweten? Wat zie jij er daarbij\nechter dan echt prachtig uit."
+          }
         }
       }
     },
@@ -7997,6 +8375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Helsen din er det\nviktigste du har!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weet je wat het belangrijkste is?\nDat jij gezond blijft!"
           }
         }
       }
@@ -8123,6 +8507,12 @@
             "state" : "translated",
             "value" : "Tid til deg selv? Der har du\nvirkelig tatt det riktige valget!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tijd maken voor jezelf,\ndaar is jij een kampioen in."
+          }
         }
       }
     },
@@ -8247,6 +8637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I treningstøyet ser du ut\nsom et motemagasin. Seriøst."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sportkleding aan en jij ziet eruit\nalsof je een fotoshoot hebt!"
           }
         }
       }
@@ -8373,6 +8769,12 @@
             "state" : "translated",
             "value" : "Treningssenteret er himmelen\nfordi du kom."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De sportschool is een paradijs\nsinds jij er rondloopt."
+          }
         }
       }
     },
@@ -8497,6 +8899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv i treningen lyser du.\nHvordan klarer du å være så rå?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altijd weer zo goed, hoe blijf jij\nzo geweldig, ook tijdens het sporten?"
           }
         }
       }
@@ -8623,6 +9031,12 @@
             "state" : "translated",
             "value" : "Finnes det noen som er pen etter\ntrening? Ja, det er du."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bestaat er iemand die zweet en mooi blijft?\nJazeker, en dat ben jij."
+          }
         }
       }
     },
@@ -8747,6 +9161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "På vei til jobb ser du\nhelt proff ut!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoe jij naar je werk gaat,\nwat een uitstraling!"
           }
         }
       }
@@ -8873,6 +9293,12 @@
             "state" : "translated",
             "value" : "Så tidlig i gang og du er\nallerede på farten. Fantastisk!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vroeg op pad, daarom ben jij\nechte klasse."
+          }
         }
       }
     },
@@ -8997,6 +9423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Møter du opp i dag også?\nDa har du allerede vunnet!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ook vandaag stap jij weer richting werk,\ndus je hebt al gewonnen!"
           }
         }
       }
@@ -9123,6 +9555,12 @@
             "state" : "translated",
             "value" : "Hvert eneste skritt du tar\ner verdt noe."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elke stap die jij zet\nis iets waard."
+          }
         }
       }
     },
@@ -9247,6 +9685,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv rushtiden blir fin\nnår du er med."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een gewone route wordt speciaal\nzodra jij meereist."
           }
         }
       }
@@ -9373,6 +9817,12 @@
             "state" : "translated",
             "value" : "Respekt, du tar ansvar og\nmøter opp. Det er sterkt!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verantwoordelijk naar je werk,\nwat een held ben jij."
+          }
         }
       }
     },
@@ -9497,6 +9947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bussen ble en catwalk\nda du gikk om bord."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sinds jij instapt\nis de metro een catwalk geworden."
           }
         }
       }
@@ -9623,6 +10079,12 @@
             "state" : "translated",
             "value" : "Selv i trikken lyser du.\nEr det fotoshoot i dag?"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In de bus stralen? Zeker, want jij\nziet eruit als een covermodel."
+          }
         }
       }
     },
@@ -9747,6 +10209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Morgenen blir gladere når jeg\nser at du er på vei til jobb."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als jij naar je werk loopt,\nwordt mijn ochtend meteen vrolijk."
           }
         }
       }
@@ -9873,6 +10341,12 @@
             "state" : "translated",
             "value" : "Bare ved å gå ser du\nkul ut. Helt rått."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zelfs wandelend ben jij\neen topfiguur."
+          }
         }
       }
     },
@@ -9997,6 +10471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "God jobba i dag!\nNå kan du gå hjem og slappe av."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Goed gedaan vandaag!\nTijd voor de bank, vind jij ook?"
           }
         }
       }
@@ -10123,6 +10603,12 @@
             "state" : "translated",
             "value" : "Se hvor stilig du går\nhjem etter jobb."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoe jij na werk wegloopt,\nwat een stijl!"
+          }
         }
       }
     },
@@ -10247,6 +10733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hjemveien skinner,\nog du er helt på topp!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Op weg naar huis na een lange dag:\nechte winnaars zoals jij."
           }
         }
       }
@@ -10373,6 +10865,12 @@
             "state" : "translated",
             "value" : "Dagen er unnagjort, og du\nkan være skikkelig stolt!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De dag is gelukt!\nTrots, hoor."
+          }
         }
       }
     },
@@ -10497,6 +10995,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nå er det din tid, og du\nfortjener å hvile!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu begint de tijd voor jezelf.\nRust maar lekker uit, jij."
           }
         }
       }
@@ -10623,6 +11127,12 @@
             "state" : "translated",
             "value" : "Ta en pause etter jobb,\nfor du har fortjent kveldskos."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na het werk komt de tijd voor jou,\ndus neem die zoals jij dat wilt."
+          }
         }
       }
     },
@@ -10747,6 +11257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Solid dag bak deg.\nHeia, du er ferdig!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je mag naar huis, jij kanjer.\nGoed gewerkt!"
           }
         }
       }
@@ -10873,6 +11389,12 @@
             "state" : "translated",
             "value" : "Selv på vei hjem er du flott.\nDet var en prima dag."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zelfs onderweg naar huis zie jij er mooi uit,\nwat een dag was dit."
+          }
         }
       }
     },
@@ -10997,6 +11519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se hvordan du går hjem:\nhele dagen virker verdt det."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als jij naar huis loopt,\nzie je dat de dag de moeite waard was."
           }
         }
       }
@@ -11123,6 +11651,12 @@
             "state" : "translated",
             "value" : "Tung dag, men du er\nfortsatt gull verdt!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een zware dag, maar jij\nblijft gewoon de allerbeste."
+          }
         }
       }
     },
@@ -11247,6 +11781,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du har øvd så lenge\nat du kommer til å klare det."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hebt je voorbereid,\ndus jij gaat dit goed doen."
           }
         }
       }
@@ -11373,6 +11913,12 @@
             "state" : "translated",
             "value" : "Innsatsen din svikter deg aldri,\nog det vet du!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hard werk? Daar hoeft jij nooit\nbang voor te zijn, het loont altijd."
+          }
         }
       }
     },
@@ -11497,6 +12043,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nervøs? Det er greit. I dag\ner du allerede godt forberedt!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spanning is prima.\nWant jij bent allang klaar!"
           }
         }
       }
@@ -11623,6 +12175,12 @@
             "state" : "translated",
             "value" : "Eksamen kan aldri bestemme\nhva du er verdt!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zo'n toets bepaalt niet\nwat jij waard bent."
+          }
         }
       }
     },
@@ -11747,6 +12305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du har gjort ditt beste,\nså du har allerede lykkes!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat jij hebt gedaan\nis je beste, dus het is al gelukt."
           }
         }
       }
@@ -11873,6 +12437,12 @@
             "state" : "translated",
             "value" : "Dette fikser du\ni søvne. Nesten."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als iemand het kan,\ndan is het jij!"
+          }
         }
       }
     },
@@ -11997,6 +12567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pust dypt inn og\nstol på det du kan!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diep ademhalen en vertrouwen\nop alles wat jij kunt."
           }
         }
       }
@@ -12123,6 +12699,12 @@
             "state" : "translated",
             "value" : "Lykke til på eksamen! Du vet\nat du er mer enn klar."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Succes met je toets!\nVolgens mij ben jij prima voorbereid."
+          }
         }
       }
     },
@@ -12247,6 +12829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ikke bekymre deg. I dag kommer du\ntil å treffe alle svarene!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maak je niet druk,\nwant jij weet vast alle antwoorden!"
           }
         }
       }
@@ -12373,6 +12961,12 @@
             "state" : "translated",
             "value" : "Nervøs? Likevel er du\nden beste jeg vet om."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zenuwachtig? Toch blijf jij\nde allerbeste."
+          }
         }
       }
     },
@@ -12497,6 +13091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv prøvearket blir imponert\nnår du kommer inn døra."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zelfs het tentamenpapier valt stil\nzodra jij binnenkomt."
           }
         }
       }
@@ -12623,6 +13223,12 @@
             "state" : "translated",
             "value" : "Nå er det tid for å\nvise hva du er laget av!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu is het moment om\nte laten zien wat jij kunt!"
+          }
         }
       }
     },
@@ -12747,6 +13353,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intervjueren er heldig som\nfår møte deg, og det vet du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De interviewer boft maar,\nwant jij komt als kandidaat!"
           }
         }
       }
@@ -12873,6 +13485,12 @@
             "state" : "translated",
             "value" : "Erfaringen og gnisten din gjør\nat du skinner i dag!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu gaan jouw ervaring en passie schitteren,\nwant dat is wat jij doet!"
+          }
         }
       }
     },
@@ -12997,6 +13615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det er greit å være nervøs,\nfor uansett er du bra nok!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zenuwen zijn oké.\nWant jij bent al geweldig genoeg!"
           }
         }
       }
@@ -13123,6 +13747,12 @@
             "state" : "translated",
             "value" : "Hold hodet høyt! I dag vet du\nat du er klar for dette!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zelfverzekerd naar binnen!\nVolgens mij ben jij helemaal klaar."
+          }
         }
       }
     },
@@ -13247,6 +13877,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fortell historien din med\nstolthet, for du har mye å by på!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vertel je verhaal\nlekker trots en helder, zoals jij kunt."
           }
         }
       }
@@ -13373,6 +14009,12 @@
             "state" : "translated",
             "value" : "Et intervju er en samtale.\nSlapp av, så er du deg selv."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een gesprek is gewoon kennismaken,\ndus ontspan maar, jij."
+          }
         }
       }
     },
@@ -13497,6 +14139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvis de ikke ansetter deg,\ntaper selskapet. Det vet du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nemen ze jou niet aan? Dan hebben ze pech,\nwant jij komt maar één keer voorbij."
           }
         }
       }
@@ -13623,6 +14271,12 @@
             "state" : "translated",
             "value" : "Det er ikke CV-en din som er\nglansfull, det er du."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niet je cv is indrukwekkend,\nmaar jij als geheel."
+          }
         }
       }
     },
@@ -13747,6 +14401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Allerede i døren\ner du i praksis ansatt."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vanaf het moment dat jij binnenkomt\nben je eigenlijk al aangenomen."
           }
         }
       }
@@ -13873,6 +14533,12 @@
             "state" : "translated",
             "value" : "Førsteinntrykket ditt gjør\nat du vinner halve kampen!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dat jij binnenkomt\nis al de halve baan."
+          }
         }
       }
     },
@@ -13997,6 +14663,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I dag er du helt\nsprakende!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echt waar, vandaag straal jij\nweer extra hard!"
           }
         }
       }
@@ -14123,6 +14795,12 @@
             "state" : "translated",
             "value" : "Akkurat som du er,\ner du mest sjarmerende!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precies zoals jij bent,\nzo ben je het aantrekkelijkst!"
+          }
         }
       }
     },
@@ -14247,6 +14925,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Den som får være med deg\ner utrolig heldig, vet du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie bij jou is, heeft geluk.\nWant jij bent een kostbaar mens."
           }
         }
       }
@@ -14373,6 +15057,12 @@
             "state" : "translated",
             "value" : "Så full av selvtillit du er.\nSå kul!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat zie jij er zelfverzekerd uit,\nwerkelijk indrukwekkend!"
+          }
         }
       }
     },
@@ -14497,6 +15187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Smilet ditt er dagens\nbeste våpen, og det vet du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dat jij vandaag lacht\nis je allersterkste wapen!"
           }
         }
       }
@@ -14623,6 +15319,12 @@
             "state" : "translated",
             "value" : "Bare vær deg selv, for du\ner flott nok!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volledig jezelf zijn, dat is\nwat jij het beste doet!"
+          }
         }
       }
     },
@@ -14747,6 +15449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sjarmen din?\nDen kan du ikke skjule!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeg, jij kunt je charme\necht niet verbergen."
           }
         }
       }
@@ -14873,6 +15581,12 @@
             "state" : "translated",
             "value" : "Date i dag? Når du kommer,\nfaller hjertet til de andre ut."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date vandaag? Weet je,\njij laat een hart sneller kloppen."
+          }
         }
       }
     },
@@ -14997,6 +15711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Den som skal møte deg har\ntrukket i lotto, og det vet du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie jou mag ontmoeten,\nheeft de jackpot, en jij bent die prijs."
           }
         }
       }
@@ -15123,6 +15843,12 @@
             "state" : "translated",
             "value" : "Datelooken sitter perfekt,\nså du kunne vært på forsiden!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dat date-outfit zit perfect.\nIk bel alvast een fotograaf!"
+          }
         }
       }
     },
@@ -15247,6 +15973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når de ser at du kommer i dag,\nblir de forelsket på flekken."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zodra de ander ziet hoe jij eruitziet,\nis verliefd worden onvermijdelijk."
           }
         }
       }
@@ -15373,6 +16105,12 @@
             "state" : "translated",
             "value" : "Fin før daten allerede. Hva skal\ndu gjøre med alle hjertene?"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog voor de date zie jij er stralend uit.\nWat doe je met zijn of haar hart?"
+          }
         }
       }
     },
@@ -15497,6 +16235,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Heia! Jeg heier på at du\nklarer det uansett."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Natuurlijk kun jij dit!\nIk sta altijd achter je."
           }
         }
       }
@@ -15623,6 +16367,12 @@
             "state" : "translated",
             "value" : "Selv det minste skrittet du tar\nstarter den lengste reisen!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elk klein stapje is het begin\nvan een grote reis!"
+          }
         }
       }
     },
@@ -15747,6 +16497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ikke gi opp, for du skal\nnå drømmene dine!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geef niet op.\nWant jij haalt je droom echt!"
           }
         }
       }
@@ -15873,6 +16629,12 @@
             "state" : "translated",
             "value" : "Innsatsen du gjør i dag lager\nmorgendagens suksess!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De inzet van vandaag\nbouwt het succes van morgen."
+          }
         }
       }
     },
@@ -15997,6 +16759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gnisten din kan endre verden,\nog det vet du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeg het maar, jij gaat\nde wereld veranderen!"
           }
         }
       }
@@ -16123,6 +16891,12 @@
             "state" : "translated",
             "value" : "Feil er veien til suksess!\nPrøv igjen, for du kan."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falen hoort bij winnen.\nBlijf proberen!"
+          }
         }
       }
     },
@@ -16247,6 +17021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mulighetene dine er uendelige,\nog du vet det!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat jij allemaal kunt?\nEindeloos veel!"
           }
         }
       }
@@ -16373,6 +17153,12 @@
             "state" : "translated",
             "value" : "Gjør ditt beste, for du\ner nok også i dag!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geef vandaag weer\nje beste!"
+          }
         }
       }
     },
@@ -16497,6 +17283,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når du gir alt, blir du\nmotivasjon for andre."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zoals jij je best doet,\ndaar krijgt iemand weer moed van."
           }
         }
       }
@@ -16623,6 +17415,12 @@
             "state" : "translated",
             "value" : "Ting ordner seg for deg, du.\nVirkelig!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zolang jij erbij bent komt alles goed.\nEcht waar!"
+          }
         }
       }
     },
@@ -16747,6 +17545,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ikke gi deg. Du er en\nflott person, vet du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blijf niet stilstaan.\nVolgens mij ben jij een fantastisch mens."
           }
         }
       }
@@ -16873,6 +17677,12 @@
             "state" : "translated",
             "value" : "Heia! I dag er det du\nsom skal få det til!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hup, vandaag ook weer!\nWant jij gaat het redden!"
+          }
         }
       }
     },
@@ -16997,6 +17807,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle som ser at du gir alt\nkommer til å heie på deg."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie weet hoe hard jij werkt,\njuicht voor je."
           }
         }
       }
@@ -17123,6 +17939,12 @@
             "state" : "translated",
             "value" : "Du er god nok, og det betyr\nat du er verdt hele greia!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weet je, jij bent heel\nveel waard!"
+          }
         }
       }
     },
@@ -17247,6 +18069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Akkurat som du er,\ner du perfekt!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precies zoals jij bent,\nzo is het perfect!"
           }
         }
       }
@@ -17373,6 +18201,12 @@
             "state" : "translated",
             "value" : "At du finnes\ner allerede noe helt spesielt!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dat jij er bent\nis al bijzonder genoeg!"
+          }
         }
       }
     },
@@ -17497,6 +18331,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hold hodet høyt! I dag er du\net fantastisk menneske."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zelfverzekerd blijven!\nVolgens mij ben jij een prachtmens."
           }
         }
       }
@@ -17623,6 +18463,12 @@
             "state" : "translated",
             "value" : "Mye sterkere enn du tror,\ndet er hva du er!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echt sterker dan je denkt,\nzo ben jij."
+          }
         }
       }
     },
@@ -17747,6 +18593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det er særpreget ditt som\ngjør at du skinner."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Door je eigenheid\nstraal jij zo."
           }
         }
       }
@@ -17873,6 +18725,12 @@
             "state" : "translated",
             "value" : "Tro på deg selv, for du\nklarer det!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geloof in jezelf.\nWant jij kunt dit!"
+          }
         }
       }
     },
@@ -17997,6 +18855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perfekt som du er,\nakkurat som du er."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je bent gewoon\nvolmaakt, zoals jij bent."
           }
         }
       }
@@ -18123,6 +18987,12 @@
             "state" : "translated",
             "value" : "Full av selvtillit?\nDa er du verdens fineste."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Met zoveel zelfvertrouwen ben jij\nde coolste van de hele wereld!"
+          }
         }
       }
     },
@@ -18247,6 +19117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du er mye bedre enn\ndu selv tror!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veel geweldiger dan wat jij\nover jezelf denkt!"
           }
         }
       }
@@ -18373,6 +19249,12 @@
             "state" : "translated",
             "value" : "Slutt å tvile, for du\ngjør det faktisk bra."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoor eens, jij doet het al\nhartstikke goed."
+          }
         }
       }
     },
@@ -18497,6 +19379,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ser noen ikke at du er sjarmerende,\nmå de ha mistet synet."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie niet ziet wat jij uitstraalt,\nheeft blinde ogen."
           }
         }
       }
@@ -18623,6 +19511,12 @@
             "state" : "translated",
             "value" : "I dag skal du ta det rolig\nog hvile."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vandaag lekker\nontspannen doen."
+          }
         }
       }
     },
@@ -18747,6 +19641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv du trenger\nlitt hvile."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ook jij hebt\neven rust nodig."
           }
         }
       }
@@ -18873,6 +19773,12 @@
             "state" : "translated",
             "value" : "Det er helt greit om du\nikke gjør noe i dag."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niks doen mag\nvandaag gewoon."
+          }
         }
       }
     },
@@ -18997,6 +19903,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvordan du har det\ner det aller viktigste."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoe jij je voelt\nis het allerbelangrijkste."
           }
         }
       }
@@ -19123,6 +20035,12 @@
             "state" : "translated",
             "value" : "Ta det rolig, for du\ngår i ditt eget tempo."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rustig aan, als jij maar\nin je eigen tempo gaat."
+          }
         }
       }
     },
@@ -19247,6 +20165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I dag får du bruke\ntiden på deg selv."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vandaag neem jij de tijd\nvoor jezelf."
           }
         }
       }
@@ -19373,6 +20297,12 @@
             "state" : "translated",
             "value" : "Å hvile er også noe du gjør\nmed nytte. Faktisk!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rusten is ook\neen soort productiviteit!"
+          }
         }
       }
     },
@@ -19497,6 +20427,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvile er din rett. Slapp\nhelt av i dag, du fortjener det."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitrusten is je recht.\nGa vandaag maar lekker liggen, jij."
           }
         }
       }
@@ -19623,6 +20559,12 @@
             "state" : "translated",
             "value" : "Når du koser deg,\ner du også nydelig."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zelfs als jij chillt,\nben je prachtig."
+          }
         }
       }
     },
@@ -19747,6 +20689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I dag kan du godt bruke\ndagen på deg selv."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vandaag mag jij\neens aan jezelf denken."
           }
         }
       }
@@ -19873,6 +20821,12 @@
             "state" : "translated",
             "value" : "Selv mens du slapper av,\nskinner du."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lekker relaxen en toch\nblijf jij stralen."
+          }
         }
       }
     },
@@ -19997,6 +20951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du er finest i verden,\nselv når du bare ligger i sofaen."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ook tijdens het bijtanken ben jij\nde mooiste van het land."
           }
         }
       }
@@ -20123,6 +21083,12 @@
             "state" : "translated",
             "value" : "Så fin du er at jeg trenger\nsolbriller innendørs."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfect, op één puntje na:\nje maakt me volledig sprakeloos."
+          }
         }
       }
     },
@@ -20247,6 +21213,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Har du kart? Jeg gikk meg vill\ni øynene dine."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat zei de persoonlijkheidstest?\nDat jij het schattigst bent."
           }
         }
       }
@@ -20373,6 +21345,12 @@
             "state" : "translated",
             "value" : "Er du wifi?\nFor jeg kjenner en sterk forbindelse."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Handen omhoog wie denkt dat jij schattig bent!\nDe hele wereld stond meteen op."
+          }
         }
       }
     },
@@ -20497,6 +21475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er det varmt her inne,\neller er det bare at du er her?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als jij een tijdperk was,\nvolgde ik meteen een geschiedenisles."
           }
         }
       }
@@ -20623,6 +21607,12 @@
             "state" : "translated",
             "value" : "Hvis du var en grønnsak,\nvar du en søtpotet."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moet jij naar de dokter? Nee,\njij bent de enige remedie die ik zoek."
+          }
         }
       }
     },
@@ -20747,6 +21737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ikke bare pen, nei, du er\npen på alle språk."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elke keer dat jij lacht, hoor ik engelen.\nMijn gehoor is er beter van geworden."
           }
         }
       }
@@ -20873,6 +21869,12 @@
             "state" : "translated",
             "value" : "Glem janteloven i dag.\nI dag får du lov til å være best."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn hart heeft maar één brandstof:\ndat ben jij, en de tank is altijd vol."
+          }
         }
       }
     },
@@ -20997,6 +21999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fredagstaco i menneskeform,\nsånn er du. Alle gleder seg."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeg, jij zorgt voor een regenbui:\nmijn hart loopt over."
           }
         }
       }
@@ -21123,6 +22131,12 @@
             "state" : "translated",
             "value" : "Hvem trenger brunost når\ndu er det søteste på brødskiva?"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heb jij een geloof?\nWaarom ben je anders zo hemels mooi?"
+          }
         }
       }
     },
@@ -21247,6 +22261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Speilet ber om autograf\nfordi du er så fin."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alles is top, maar mist er niet iets?\nOh ja, jij die voor altijd blijft."
           }
         }
       }
@@ -21373,6 +22393,12 @@
             "state" : "translated",
             "value" : "Er du fra Bergen? For det regner\nkomplimenter hver gang du kommer."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leg die tas maar neer, jij hoeft niets te dragen.\nAlleen maar prachtig te zijn."
+          }
         }
       }
     },
@@ -21497,6 +22523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvis skjønnhet var en forbrytelse,\nvar du dømt til livstid."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeg, jij ziet er zo goed uit\ndat mijn spiegel jaloers wordt."
           }
         }
       }
@@ -21623,6 +22655,12 @@
             "state" : "translated",
             "value" : "Hvis du var en fjord,\nvar du den dypeste og fineste."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gefotoshopt? Nee hoor,\nzo mooi ben jij gewoon echt."
+          }
         }
       }
     },
@@ -21747,6 +22785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Snøen smelter\nnår du går forbi. Klimakrise?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spreek jij geen Frans? Geen probleem,\njij zegt alles al met je ogen."
           }
         }
       }
@@ -21873,6 +22917,12 @@
             "state" : "translated",
             "value" : "Heldige er de som kjenner deg.\nHeldigst er de du snakker med."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kom jij van een andere planeet?\nZo mooi bestaat niet op aarde."
+          }
         }
       }
     },
@@ -21997,6 +23047,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv elgen stopper opp og\nklapper når du går forbi."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weet je wat? Jouw gelaatstrekken zijn\nscherper dan mijn toekomst."
           }
         }
       }
@@ -22123,6 +23179,12 @@
             "state" : "translated",
             "value" : "Trenger du en vits?\nNei, du er morsom nok."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even serieus: jij bent Berlijn.\nEen muur van mooi, en ik val erover."
+          }
         }
       }
     },
@@ -22247,6 +23309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jeg har sjekket det nøye:\ndu er 100 prosent topp."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als jij een monument was,\nvroeg ik meteen een beschermde status aan."
           }
         }
       }
@@ -22373,6 +23441,12 @@
             "state" : "translated",
             "value" : "Hvorfor sliter du? Utseendet ditt\njobber jo overtid for deg."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik hoorde dat jij een lopende lamp bent.\nNu bespaar ik op stroom."
+          }
         }
       }
     },
@@ -22497,6 +23571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Slutt å være så fin. «Hvordan?»\nNettopp. Det kan du ikke."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waarom werk je nog?\nJe uitstraling doet al alles."
           }
         }
       }
@@ -22623,6 +23703,12 @@
             "state" : "translated",
             "value" : "Fjeset ditt burde fredes, for du\ner en nasjonalskatt."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"Stop met zo mooi zijn.\" \"Wat?\"\n\"Stop ermee.\" \"Hoe dan?\""
+          }
         }
       }
     },
@@ -22747,6 +23833,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ikke gå på prisutdelingen,\nfor du tar hovedprisen uansett."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je gezicht is nationaal erfgoed.\nTentoonstelling in het Rijksmuseum volgt."
           }
         }
       }
@@ -22873,6 +23965,12 @@
             "state" : "translated",
             "value" : "Er det fotoshoot?\nEller går du bare sånn til vanlig?"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naar de prijsuitreiking? Beter niet,\nwant jij wint de hoofdprijs al."
+          }
         }
       }
     },
@@ -22997,6 +24095,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Popstjerne? Det er du.\nNummer én på hjertets hitliste."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fotoshoot gehad?\nOf loop jij gewoon zo rond?"
           }
         }
       }
@@ -23123,6 +24227,12 @@
             "state" : "translated",
             "value" : "Hold signeringsstund, for jeg\nvil ha at du signerer daglig."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik zeg het eerlijk: jij bent een popster.\nNummer één in mijn hart."
+          }
         }
       }
     },
@@ -23247,6 +24357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Debuter, da! I hjertet mitt står\ndu allerede på scenen."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Houd eens een handtekeningensessie.\nVolgens mij ben jij een ster."
           }
         }
       }
@@ -23373,6 +24489,12 @@
             "state" : "translated",
             "value" : "Gratulerer med førsteplassen.\nSå pen som du er, topper du alt."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maak je debuut!\nIn mijn hart sta jij al vooraan."
+          }
         }
       }
     },
@@ -23497,6 +24619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Et bilde av at du smiler hver dag?\nDet tar jeg gjerne."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gefeliciteerd met nummer één!\nVolgens mij sta jij dagelijks bovenaan."
           }
         }
       }
@@ -23623,6 +24751,12 @@
             "state" : "translated",
             "value" : "Comeback? Så du fikk hjertet mitt\ntil å gjøre comeback."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even poseren?\nIk wil elk moment dat jij lacht vastleggen."
+          }
         }
       }
     },
@@ -23747,6 +24881,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kan jeg filme deg? Alle øyeblikk\nder du er med er høydepunkter."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terug van weggeweest?\nJe liet mijn hart weer opveren."
           }
         }
       }
@@ -23873,6 +25013,12 @@
             "state" : "translated",
             "value" : "Musikkvideo? I livet mitt har du\nallerede hovedrollen."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mag ik filmen? Want jij hebt\nelke seconde een filmmoment."
+          }
         }
       }
     },
@@ -23997,6 +25143,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reality-TV? Egentlig er du\nenda bedre i virkeligheten."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speel jij in een videoclip?\nJe bent al de hoofdpersoon in mijn leven."
           }
         }
       }
@@ -24123,6 +25275,12 @@
             "state" : "translated",
             "value" : "Sikkert at du står i midten,\nfor du lyser mest overalt."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een realityshow? In het echt ben jij\nnog perfecter dan op beeld."
+          }
         }
       }
     },
@@ -24247,6 +25405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prisen for årets fjes går til\ndeg. Så sjelden som du er!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dus jij bent het middelpunt?\nOveral straal jij het hardst."
           }
         }
       }
@@ -24373,6 +25537,12 @@
             "state" : "translated",
             "value" : "Skal du reklamere? Ser jeg deg,\nvil jeg kjøpe alt."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gezicht van het jaar word je zeker.\nEen absolute topper."
+          }
         }
       }
     },
@@ -24497,6 +25667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Forsidemodell? Fjeset ditt burde\npryde hvert eneste blad, du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ben jij reclamemodel?\nAls ik je zie, wil ik alles kopen."
           }
         }
       }
@@ -24623,6 +25799,12 @@
             "state" : "translated",
             "value" : "Ekte scenekarisma? Selv når du\ngår på butikken er det show."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sta je op een tijdschriftomslag?\nEigenlijk elke maand, zo'n gezicht."
+          }
         }
       }
     },
@@ -24747,6 +25929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skal vi bytte samlekort? Jeg vil\nha hele settet der du er med."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dat charisma op het podium, is dat echt?\nOok in het gewone leven steel jij de show."
           }
         }
       }
@@ -24873,6 +26061,12 @@
             "state" : "translated",
             "value" : "Når er fansamlingen? Jeg vil\nmøte deg hver dag, vet du."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruilen we fotokaartjes?\nIk wil alleen de set waar jij op staat."
+          }
         }
       }
     },
@@ -24997,6 +26191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Legg ut danseklipp! Hver\nbevegelse du gjør er kunst."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wanneer is de meet-and-greet?\nIk wil jou dagelijks zien."
           }
         }
       }
@@ -25123,6 +26323,12 @@
             "state" : "translated",
             "value" : "Som en teaser når du kommer.\nJeg gleder meg hver gang."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Post eens een dansvideo.\nWant jij beweegt als een kunstwerk."
+          }
         }
       }
     },
@@ -25247,6 +26453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verdensturné? Det er du som\nallerede har svingt hjertet mitt."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het lijkt wel een teaser.\nElke keer dat jij binnenkomt krijg ik kriebels."
           }
         }
       }
@@ -25373,6 +26585,12 @@
             "state" : "translated",
             "value" : "Signer albumet mitt, for du\ner en limited edition."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ga je op wereldtournee?\nMijn hart schommelt al over de hele planeet."
+          }
         }
       }
     },
@@ -25497,6 +26715,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jeg tenner lysstaven, og du\nfår hele hjertet mitt for alltid."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teken even mijn album,\nwant jij bent zelf al een limited edition."
           }
         }
       }
@@ -25623,6 +26847,12 @@
             "state" : "translated",
             "value" : "Plutselig stjerne? Det var du\njo alltid, en legende."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lichtstok aan.\nIk juich een leven lang, en jij bent de reden."
+          }
         }
       }
     },
@@ -25747,6 +26977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Konsertbilletter? Å se på at du\ngår forbi er min daglige konsert."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viral gegaan? Niet vreemd,\nwant jij was allang een legende."
           }
         }
       }
@@ -25873,6 +27109,12 @@
             "state" : "translated",
             "value" : "Førsteplass på alle lister,\nog i livet mitt er du også først."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Concertkaartje nodig? Nee hoor,\njij bent mijn dagelijkse concert."
+          }
         }
       }
     },
@@ -25997,6 +27239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ekstranummer, takk! Jeg vet\nat du aldri blir for mye."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nummer één in de hitlijsten?\nMaakt niet uit, jij bent de nummer één van mijn leven."
           }
         }
       }
@@ -26123,6 +27371,12 @@
             "state" : "translated",
             "value" : "Bak kameraet er du også perfekt.\nIngen svake øyeblikk å finne."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog één toegift graag.\nWant als jij erbij bent, is het nooit genoeg."
+          }
         }
       }
     },
@@ -26247,6 +27501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jeg må bytte favoritt, for jeg\nkan ikke se på noen andre enn du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zelfs achter de schermen perfect.\nElk moment een legende, jij."
           }
         }
       }
@@ -26373,6 +27633,12 @@
             "state" : "translated",
             "value" : "Jeg ble fan på stedet, og nå\ner du favoritten for evig."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik moet mijn favoriet vervangen.\nWant sinds jij er bent, zie ik niemand anders."
+          }
         }
       }
     },
@@ -26497,6 +27763,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Favoritten avsløres: det er\ningen andre enn du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik ben fan geworden.\nEn jij bent voor altijd mijn favoriet."
           }
         }
       }
@@ -26623,6 +27895,12 @@
             "state" : "translated",
             "value" : "All merch er kjøpt, og du\ner allerede et samleobjekt."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn favoriet wordt bekendgemaakt.\nHet is jij, natuurlijk."
+          }
         }
       }
     },
@@ -26747,6 +28025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fan for livet, det er jeg.\nAller mest fordi du er artisten."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle merchandise gekocht,\nmaar jij bent zelf het mooiste souvenir."
           }
         }
       }
@@ -26873,6 +28157,12 @@
             "state" : "translated",
             "value" : "Hovedkvarteret mitt er der du er.\nJeg flytter inn."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een leven lang fan.\nWant jij blijft mijn eeuwige artiest."
+          }
         }
       }
     },
@@ -26997,6 +28287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nå starter fandommen. Jeg satser\nalt på at du er den eneste."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn thuisbasis gevonden.\nDie ben jij."
           }
         }
       }
@@ -27123,6 +28419,12 @@
             "state" : "translated",
             "value" : "Jeg blir fotografen din.\nAlt du gjør skal dokumenteres."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik begin aan mijn fanleven.\nWant jij bent mijn eerste en enige missie."
+          }
         }
       }
     },
@@ -27247,6 +28549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle stunder som du er med på\ner gulltid."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik word je fotograaf.\nIk wil elk moment dat jij lacht vastleggen."
           }
         }
       }
@@ -27373,6 +28681,12 @@
             "state" : "translated",
             "value" : "Jeg setter opp en reklametavle:\nhver dag bør være dagen du fyller år."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het is gezelligheidstijd.\nElk uur dat jij er bent is goud waard."
+          }
         }
       }
     },
@@ -27497,6 +28811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jeg heier på deg for alltid.\nStolt over at du har meg som fan."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik plaats een verjaardagsadvertentie.\nWat als jij elke dag jarig was?"
           }
         }
       }
@@ -27623,6 +28943,12 @@
             "state" : "translated",
             "value" : "Hjertet mitt hamrer\nnår jeg tenker på at du finnes."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik juich een leven lang.\nWant dat jij bestaat, maakt me trots."
+          }
         }
       }
     },
@@ -27747,6 +29073,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Så snart du kommer inn\nblir verden vakrere."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als jij binnenkomt, klopt mijn hart\nin dubbele snelheid."
           }
         }
       }
@@ -27873,6 +29205,12 @@
             "state" : "translated",
             "value" : "Hos meg er du vitaminet\ni hverdagen."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zodra jij in beeld komt,\nis de wereld mooi."
+          }
         }
       }
     },
@@ -27997,6 +29335,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når du ler, ler jeg med.\nOg blir så glad!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voor mij ben jij de vitamine\nvan mijn geluk."
           }
         }
       }
@@ -28123,6 +29467,12 @@
             "state" : "translated",
             "value" : "Aldri har jeg sett en stjerne\nsom skinner mer enn du."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als jij lacht,\nlach ik vrolijk mee."
+          }
         }
       }
     },
@@ -28247,6 +29597,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hver dag når du er med blir\net lite festspill i hjertet."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echt, jij bent de helderste ster\ndie ik ooit zag."
           }
         }
       }
@@ -28373,6 +29729,12 @@
             "state" : "translated",
             "value" : "Hører jeg stemmen din, blir jeg\nglad. Det holder at du sier hei."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elke dag dat jij er bent voelt\nals een feest in mijn hart."
+          }
         }
       }
     },
@@ -28497,6 +29859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Heldigvis fikk jeg deg, for du\ner livets største lykketreff."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zodra jij iets zegt\nben ik meteen blij."
           }
         }
       }
@@ -28623,6 +29991,12 @@
             "state" : "translated",
             "value" : "Fordi du finnes, kan jeg\nsmile også i dag."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik vind dat jij het grootste geluk\nin mijn leven bent."
+          }
         }
       }
     },
@@ -28747,6 +30121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ingen i verden er\nså kjær for meg som du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omdat jij er bent\nkan ik vandaag weer lachen."
           }
         }
       }
@@ -28873,6 +30253,12 @@
             "state" : "translated",
             "value" : "Tenker jeg på deg,\nkommer smilet av seg selv, du."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voor mij ben jij de\nbelangrijkste mens op aarde."
+          }
         }
       }
     },
@@ -28997,6 +30383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sammen med deg er det fred,\nog du er min egen ro."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als ik denk aan hoe jij lacht,\nlach ik vanzelf mee."
           }
         }
       }
@@ -29123,6 +30515,12 @@
             "state" : "translated",
             "value" : "Hver time med deg er spesiell,\nfor du gjør alt bedre."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeg het maar, jij bent de rust\nin mijn hoofd."
+          }
         }
       }
     },
@@ -29247,6 +30645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Av alle jeg kjenner er du\nden fineste."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elke tijd die jij met me doorbrengt\nis bijzonder."
           }
         }
       }
@@ -29373,6 +30777,12 @@
             "state" : "translated",
             "value" : "Takk for at du finnes.\nDet er nok for meg."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik moet het zeggen: jij bent de gaafste mens\ndie ik ken."
+          }
         }
       }
     },
@@ -29497,6 +30907,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Høydepunktet på dagen min\ner alltid når du er der."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dat jij er gewoon bent,\nis al reden tot dank."
           }
         }
       }
@@ -29623,6 +31039,12 @@
             "state" : "translated",
             "value" : "Hver dag blir spesiell\nfordi du er i den."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het hoogtepunt van mijn dag?\nDat is jij, zonder twijfel."
+          }
         }
       }
     },
@@ -29747,6 +31169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verden lysner så snart jeg\nser at du kommer."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omdat jij er bent\nis elke dag een beetje speciaal."
           }
         }
       }
@@ -29873,6 +31301,12 @@
             "state" : "translated",
             "value" : "Beste gaven livet har gitt meg\ner at du kom."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als jij de kamer binnenkomt,\nwordt de wereld lichter."
+          }
         }
       }
     },
@@ -29997,6 +31431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verden er enda vakrere\nfordi du er i den."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het mooiste cadeau van mijn leven?\nDat ben jij."
           }
         }
       }
@@ -30123,6 +31563,12 @@
             "state" : "translated",
             "value" : "En dag uten deg?\nIkke tenkelig, så du blir her."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik zweer het: als jij er bent\nis de wereld nog een stuk mooier."
+          }
         }
       }
     },
@@ -30247,6 +31693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I hjertet mitt står du\npå førsteplass for alltid."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik kan me geen dag voorstellen\nwaarin jij ontbreekt."
           }
         }
       }
@@ -30373,6 +31825,12 @@
             "state" : "translated",
             "value" : "Med deg ved min side tror jeg\nat du og jeg kan alt."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In mijn hart blijf jij altijd\nnummer één."
+          }
         }
       }
     },
@@ -30497,6 +31955,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hver dag er jeg takknemlig\nfor at du finnes."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wanneer jij naast me staat,\nlijkt alles mogelijk."
           }
         }
       }
@@ -30623,6 +32087,12 @@
             "state" : "translated",
             "value" : "Når du smiler, mister alt annet\nsin glans."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elke dag ben ik dankbaar\nomdat jij er bent."
+          }
         }
       }
     },
@@ -30747,6 +32217,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Livet mitt fikk sin største\nvelsignelse da du kom."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als jij lacht, is dat\nmooier dan wat dan ook ter wereld."
           }
         }
       }
@@ -30873,6 +32349,12 @@
             "state" : "translated",
             "value" : "Tenker jeg på deg, blir dagen\nbedre, så du er min medisin."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echt, jij bent de grootste\nzegen in mijn leven."
+          }
         }
       }
     },
@@ -30997,6 +32479,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hjemmet mitt, det er deg. Hjertet\nmitt bor der du bor."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elke keer dat jij in mijn gedachten komt,\nis mijn dag meteen goed."
           }
         }
       }
@@ -31123,6 +32611,12 @@
             "state" : "translated",
             "value" : "Sammen med deg er alt akkurat\nsom det skal, så du blir."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voor mijn hart ben jij\nde thuishaven."
+          }
         }
       }
     },
@@ -31247,6 +32741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Drømmetypen min? Det er du,\nmen jeg torde aldri ønske det."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zodra jij erbij bent\nis alles ineens perfect."
           }
         }
       }
@@ -31373,6 +32873,12 @@
             "state" : "translated",
             "value" : "Siden jeg så deg er hjertet mitt\nødelagt. Kan du lappe det?"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eerlijk, jij bent precies de droom\ndie ik ooit had."
+          }
         }
       }
     },
@@ -31497,6 +33003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gå rolig, du er en vandrende\nbiografi. Historien husker deg."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telkens als jij lacht,\nlijkt mijn hart kapot te gaan."
           }
         }
       }
@@ -31623,6 +33135,12 @@
             "state" : "translated",
             "value" : "Sjarmen din vil jeg gjerne\nfalle for, så du får skylden."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kijk, jij bent een wandelend geschiedenisboek.\nIemand voor de eeuwigheid."
+          }
         }
       }
     },
@@ -31747,6 +33265,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når jeg stirrer på deg\nfår jeg nakkesleng. Verdt det, du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waar jij charme uitdeelt,\nwil ik voor altijd in de rij staan."
           }
         }
       }
@@ -31873,6 +33397,12 @@
             "state" : "translated",
             "value" : "Hver gang jeg ser at du kommer,\nstiger pulsen. Takk for det."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zo lang kijken naar jou?\nDan krijg jij mij met een stijve nek."
+          }
         }
       }
     },
@@ -31997,6 +33527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I mine øyne er du et\nmesterlig forsidebilde."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elke keer dat jij lacht,\nstijgt mijn hartslag."
           }
         }
       }
@@ -32123,6 +33659,12 @@
             "state" : "translated",
             "value" : "Fordi du finnes\ner hver dag favorittdagen min."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voor mijn ogen ben jij\neen legendarische fotoreportage."
+          }
         }
       }
     },
@@ -32247,6 +33789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Et levende under, det er du,\nog det kan jeg bevise."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sinds jij in mijn leven bent\nis elke dag een feestdag."
           }
         }
       }
@@ -32373,6 +33921,12 @@
             "state" : "translated",
             "value" : "Alt går i sakte film\nså fort du kommer inn."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik weet het zeker: jij bent een\nlopend wonder."
+          }
         }
       }
     },
@@ -32497,6 +34051,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gullkort i livet mitt, det har du.\nVIP uten kø."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wanneer jij voorbijloopt,\ngaat de wereld in slowmotion."
           }
         }
       }
@@ -32623,6 +34183,12 @@
             "state" : "translated",
             "value" : "Å se at du kommer\ner dagens høydepunkt."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In mijn leven ben jij het\nVIP-lidmaatschap."
+          }
         }
       }
     },
@@ -32747,6 +34313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hjertets serie har en beste\nepisode, og du er den."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn dagelijkse hoogtepunt?\nDat is als jij verschijnt."
           }
         }
       }
@@ -32873,6 +34445,12 @@
             "state" : "translated",
             "value" : "Verden ser ut som i 4K\nbare fordi du er der."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In mijn hart ben jij\nde premium content."
+          }
         }
       }
     },
@@ -32997,6 +34575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I livet mitt er du gullstunden,\nog alt faller på plass."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sinds jij er bent\nzie ik de wereld in HD."
           }
         }
       }
@@ -33123,6 +34707,12 @@
             "state" : "translated",
             "value" : "Bare å tenke på deg\ngir et smil, og du vet det."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeg maar eerlijk, jij bent het\ngouden moment van mijn leven."
+          }
         }
       }
     },
@@ -33247,6 +34837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Femstjerners hotell for hjertet\nmitt, det er du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als ik denk aan wat jij allemaal doet,\nlach ik automatisch."
           }
         }
       }
@@ -33373,6 +34969,12 @@
             "state" : "translated",
             "value" : "Fordi du er her, blir hver dag\nen liten feiring."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn hart is een vijfsterrenhotel\nen jij bent de enige gast."
+          }
         }
       }
     },
@@ -33497,6 +35099,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hovedarrangementet i livet mitt?\nDet er du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doordat jij er bent\nis elke dag een extra mooie dag."
           }
         }
       }
@@ -33623,6 +35231,12 @@
             "state" : "translated",
             "value" : "Ser jeg at du kommer, danser\nhjertet av seg selv."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In mijn leven ben jij\nhet grote evenement."
+          }
         }
       }
     },
@@ -33747,6 +35361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I øynene mine har du\nbildekvalitet i 8K."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telkens als jij binnenstapt,\ndanst mijn hart."
           }
         }
       }
@@ -33873,6 +35493,12 @@
             "state" : "translated",
             "value" : "Så snart du kommer,\nlyser alt litt klarere."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als jij in beeld komt,\nis alles ineens 4K."
+          }
         }
       }
     },
@@ -33997,6 +35623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Æresgjest i hjertet mitt er du,\nalltid med plass ved bordet."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wanneer jij er maar bent,\nlijkt de hele wereld te stralen."
           }
         }
       }
@@ -34123,6 +35755,12 @@
             "state" : "translated",
             "value" : "Takket være deg blir dagen bedre,\nfor du er solen."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Op de ereplaats van mijn hart\nzit niemand anders dan jij."
+          }
         }
       }
     },
@@ -34247,6 +35885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trumfkortet i livet mitt,\ndet er du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elke dag is een beetje speciaal\nzolang jij er bent."
           }
         }
       }
@@ -34373,6 +36017,12 @@
             "state" : "translated",
             "value" : "Tenker jeg på at du finnes, blir\nhumøret automatisk oppgradert."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn troefkaart in het leven?\nDat ben jij."
+          }
         }
       }
     },
@@ -34497,6 +36147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plass nummer én i hjertets\næreshall går til deg, du."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn humeur gaat omhoog\nzodra jij ergens in de buurt bent."
           }
         }
       }
@@ -34623,6 +36279,12 @@
             "state" : "translated",
             "value" : "Siden du kom\ner livet i full farge."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Op plek één in mijn eregalerij\nstaat jij, en niemand anders."
+          }
         }
       }
     },
@@ -34747,6 +36409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "For øynene mine er du\net evig mesterverk."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sinds jij er bent\nis mijn leven in volle kleur."
           }
         }
       }
@@ -34873,6 +36541,12 @@
             "state" : "translated",
             "value" : "Når jeg ser at du smiler,\ngår verden litt langsommere."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De grootste legende aller tijden?\nDat ben jij, voor mijn ogen."
+          }
         }
       }
     },
@@ -34998,6 +36672,12 @@
             "state" : "translated",
             "value" : "Nøkkelen jeg trengte, det er du.\nLivet mitt er opplåst."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als jij door de deur loopt\nlijkt de tijd stil te staan."
+          }
         }
       }
     },
@@ -35122,6 +36802,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Livet mitt har fått ny lyd\nsiden du begynte å smile til meg."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn levenspas met alle voordelen\nben jij, voor altijd."
           }
         }
       }

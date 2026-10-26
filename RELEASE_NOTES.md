@@ -121,3 +121,9 @@ Lapor bug dan saran via email atau IG
 Nå kan du få skryt på mange språk
 Kontakt utvikleren fra innstillingene
 Send feil og ideer på e-post
+
+### 앱스토어 (네덜란드어)
+
+Complimenten nu in meer talen
+De maker mailen kan via Instellingen
+Bugs en ideeën? Mail of Instagram

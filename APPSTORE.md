@@ -903,3 +903,48 @@ Dette får du
 
 Personvern er enkelt. Appen samler ikke inn noe om deg, og alt du lagrer ligger bare på din egen enhet.
 Feil og ideer kan du sende på e-post eller Instagram fra innstillinger i appen.
+
+## nl
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/nl/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/nl/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/nl/index.html
+
+### 이름
+
+Dagelijkse Hypeman
+
+### 부제
+
+Overdreven complimenten
+
+### 키워드
+
+widget,motivatie,zelfvertrouwen,peptalk,positief,quotes,spreuken,steun,zelfliefde,stemming,tentamen
+
+### 프로모션 텍스트
+
+Een vriend die je elke dag veel te hard ophemelt, rechtstreeks op je beginscherm. Van ochtend tot avond een peptalk, nu ook met jouw eigen naam erin.
+
+### 설명
+
+Dagelijkse Hypeman is de widget-app die je met veel te veel complimenten overlaadt. Meerdere keren per dag verschijnt er een overdreven peptalk op je beginscherm.
+Heb je een zetje nodig? 281 opgeklopte complimenten wachten op je, voor elke stemming en situatie: ochtend, onderweg naar werk, voor een sollicitatie of toets, of op een zware dag.
+
+Wat je kunt doen
+- Widget op je beginscherm: pas lettertype, tekstkleur, achtergrondfoto, uitlijning, regelafstand en verversinterval helemaal naar eigen smaak aan.
+- Kies je stemming: ochtend, naar werk, sollicitatie, toets, sporten, date, naar huis, avond, zware dag, ontspanning, zelfvertrouwen of motivatie.
+- Jouw naam erin: de hype spreekt je aan met je eigen naam, alsof je beste vriend je persoonlijk toejuicht.
+- Favorieten en geschiedenis: bewaar je lievelingshypes met de ster en lees terug wat je eerder zag.
+- Reeks en prestaties: kom je 7, 30 of 100 dagen op rij langs, dan ontgrendel je een speciale beloning.
+
+Je privacy blijft van jou. De app verzamelt geen persoonlijke gegevens. Je naam, favorieten en instellingen blijven alleen op je eigen toestel.
+Bugs of ideeën? Stuur ze via Instellingen per mail of Instagram naar de maker.

@@ -119,6 +119,12 @@
             "state" : "translated",
             "value" : "%lld dager"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld dagen"
+          }
         }
       }
     },
@@ -236,6 +242,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle 100 skryt er sett,\nså nå er du en ekte mester!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle 100 hypes gezien, jij\nbent nu een echte meester!"
           }
         }
       }
@@ -355,6 +367,12 @@
             "state" : "translated",
             "value" : "100 dager på rad med dagens skryt!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hebt 100 dagen op rij een hype bekeken!"
+          }
         }
       }
     },
@@ -472,6 +490,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 dagers under! Utholdenheten din\nhar forandret verden!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het wonder van 100 dagen! Door jij\nis de wereld een beetje veranderd!"
           }
         }
       }
@@ -591,6 +615,12 @@
             "state" : "translated",
             "value" : "100 dager sammen,\nog du er rett og slett eksepsjonell!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat een reis, die 100 dagen samen.\nJij bent echt geweldig!"
+          }
         }
       }
     },
@@ -705,6 +735,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 min"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 min"
@@ -827,6 +863,12 @@
             "state" : "translated",
             "value" : "30 min"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 min"
+          }
         }
       }
     },
@@ -944,6 +986,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "30 dager på rad med dagens skryt!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hebt 30 dagen op rij een hype bekeken!"
           }
         }
       }
@@ -1063,6 +1111,12 @@
             "state" : "translated",
             "value" : "30 dager, og du bare fortsetter\nå komme tilbake. Helt topp!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een hele maand lang kwam jij\nelke dag langs. Je bent de beste!"
+          }
         }
       }
     },
@@ -1181,6 +1235,12 @@
             "state" : "translated",
             "value" : "Alle 50 skryt er sett,\nså engasjert du er!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Al 50 hypes gezien, wat\nben jij enthousiast!"
+          }
         }
       }
     },
@@ -1295,6 +1355,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 min"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "5 min"
@@ -1417,6 +1483,12 @@
             "state" : "translated",
             "value" : "7 dager på rad med dagens skryt!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je hebt 7 dagen op rij een hype bekeken!"
+          }
         }
       }
     },
@@ -1534,6 +1606,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En hel uke sammen,\nher skal vi fortsette!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een week samen onderweg.\nLaten we lekker doorgaan!"
           }
         }
       }
@@ -1659,6 +1737,12 @@
             "state" : "translated",
             "value" : "Gjenopprett kjøp"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aankopen herstellen"
+          }
         }
       }
     },
@@ -1782,6 +1866,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Velg kategori"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kies een categorie"
           }
         }
       }
@@ -1907,6 +1997,12 @@
             "state" : "translated",
             "value" : "Velg skrifttype"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kies een lettertype"
+          }
         }
       }
     },
@@ -2030,6 +2126,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Veiledning"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitleg"
           }
         }
       }
@@ -2155,6 +2257,12 @@
             "state" : "translated",
             "value" : "anonym"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "anoniem"
+          }
         }
       }
     },
@@ -2275,6 +2383,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "premium"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "premium"
@@ -2400,6 +2514,12 @@
             "state" : "translated",
             "value" : "Kontakt utvikleren"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contact met de maker"
+          }
         }
       }
     },
@@ -2517,6 +2637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fargegradient"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kleurverloop"
           }
         }
       }
@@ -2636,6 +2762,12 @@
             "state" : "translated",
             "value" : "Tekstfarge"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tekstkleur"
+          }
         }
       }
     },
@@ -2753,6 +2885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Velg humør"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kies je stemming"
           }
         }
       }
@@ -2872,6 +3010,12 @@
             "state" : "translated",
             "value" : "Nedtur"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Somber"
+          }
         }
       }
     },
@@ -2989,6 +3133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jeg finner skryt som passer\nhumøret og situasjonen din!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ik kies een hype die bij\njouw stemming of situatie past!"
           }
         }
       }
@@ -3108,6 +3258,12 @@
             "state" : "translated",
             "value" : "Min statistikk"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn voortgang"
+          }
         }
       }
     },
@@ -3226,6 +3382,12 @@
             "state" : "translated",
             "value" : "Mine skryt"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mijn hypes"
+          }
         }
       }
     },
@@ -3343,6 +3505,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Neste skryt"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volgende hype"
           }
         }
       }
@@ -3463,6 +3631,12 @@
             "state" : "translated",
             "value" : "du"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "jij"
+          }
         }
       }
     },
@@ -3580,6 +3754,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du er god nok\nog verdt hele greia!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weet je, jij bent\nzoveel waard!"
           }
         }
       }
@@ -3699,6 +3879,12 @@
             "state" : "translated",
             "value" : "Før daten"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voor de date"
+          }
         }
       }
     },
@@ -3816,6 +4002,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Motivasjon"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motivatie"
           }
         }
       }
@@ -3935,6 +4127,12 @@
             "state" : "translated",
             "value" : "Tilfeldig"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Willekeurig"
+          }
         }
       }
     },
@@ -4052,6 +4250,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trykk på stjernen for å\nlagre skryt du liker!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tik op de ster om een hype\ndie je mooi vindt te bewaren!"
           }
         }
       }
@@ -4171,6 +4375,12 @@
             "state" : "translated",
             "value" : "Elsk deg selv hver dag"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hou elke dag van jezelf"
+          }
         }
       }
     },
@@ -4288,6 +4498,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Før intervjuet"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sollicitatie"
           }
         }
       }
@@ -4407,6 +4623,12 @@
             "state" : "translated",
             "value" : "Forhåndsvisning"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voorbeeld"
+          }
         }
       }
     },
@@ -4524,6 +4746,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bakgrunn"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Achtergrond"
           }
         }
       }
@@ -4643,6 +4871,12 @@
             "state" : "translated",
             "value" : "Bakgrunnsbilde"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Achtergrondfoto"
+          }
         }
       }
     },
@@ -4760,6 +4994,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 dager!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 dagen!"
           }
         }
       }
@@ -4879,6 +5119,12 @@
             "state" : "translated",
             "value" : "Hver eneste dag i 100 dager,\nog du er helt uvurderlig!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honderd dagen lang kwam jij elke dag,\nen dus ben je echt goud waard!"
+          }
         }
       }
     },
@@ -4996,6 +5242,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Meld fra om feil og foreslå gjerne nye funksjoner."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugmeldingen en ideeën zijn welkom."
           }
         }
       }
@@ -5115,6 +5367,12 @@
             "state" : "translated",
             "value" : "Avanserte innstillinger"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instellingen"
+          }
         }
       }
     },
@@ -5232,6 +5490,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oppdateringsintervall"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verversen om de"
           }
         }
       }
@@ -5351,6 +5615,12 @@
             "state" : "translated",
             "value" : "Før eksamen"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voor de toets"
+          }
         }
       }
     },
@@ -5468,6 +5738,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Morgen"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ochtend"
           }
         }
       }
@@ -5587,6 +5863,12 @@
             "state" : "translated",
             "value" : "Bla til du finner appnavnet.\n\"Dagens skryt\""
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scrol tot je de appnaam ziet.\n\"Dagelijkse Hypeman\""
+          }
         }
       }
     },
@@ -5704,6 +5986,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prestasjoner"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prestaties"
           }
         }
       }
@@ -5823,6 +6111,12 @@
             "state" : "translated",
             "value" : "Dagsrekke"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reeks"
+          }
         }
       }
     },
@@ -5940,6 +6234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvordan har du det i dag?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoe voel jij je vandaag?"
           }
         }
       }
@@ -6059,6 +6359,12 @@
             "state" : "translated",
             "value" : "Vær deg selv i dag også,\nfor det er best!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ook vandaag gewoon jij,\nwant dat is het beste!"
+          }
         }
       }
     },
@@ -6176,6 +6482,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dagens skryt"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagelijkse Hypeman"
           }
         }
       }
@@ -6295,6 +6607,12 @@
             "state" : "translated",
             "value" : "Høyre"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rechts"
+          }
         }
       }
     },
@@ -6412,6 +6730,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hei, ikke slå ned på barnet mitt!\nVelg noe pent å si til deg selv!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kom op, geen sombere bui!\nKies een peptalk voor jezelf!"
           }
         }
       }
@@ -6531,6 +6855,12 @@
             "state" : "translated",
             "value" : "Venstre"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Links"
+          }
         }
       }
     },
@@ -6648,6 +6978,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Før treningen"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voor het sporten"
           }
         }
       }
@@ -6767,6 +7103,12 @@
             "state" : "translated",
             "value" : "Finjuster utseendet og skrifttypen på widgeten"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stel vorm en lettertype van je widget helemaal af"
+          }
         }
       }
     },
@@ -6884,6 +7226,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widget-innstillinger"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget-instellingen"
           }
         }
       }
@@ -7003,6 +7351,12 @@
             "state" : "translated",
             "value" : "Bruk dette skrytet"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deze hype gebruiken"
+          }
         }
       }
     },
@@ -7120,6 +7474,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Navn"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naam"
           }
         }
       }
@@ -7239,6 +7599,12 @@
             "state" : "translated",
             "value" : "Angi navn"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naam instellen"
+          }
         }
       }
     },
@@ -7356,6 +7722,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hva heter du?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoe heet je?"
           }
         }
       }
@@ -7475,6 +7847,12 @@
             "state" : "translated",
             "value" : "Skriv inn navnet ditt"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typ je naam"
+          }
         }
       }
     },
@@ -7592,6 +7970,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Send e-post"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mail de maker"
           }
         }
       }
@@ -7711,6 +8095,12 @@
             "state" : "translated",
             "value" : "Velg widget-størrelse og trykk på «Legg til widget»."
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kies nu een widgetgrootte en tik op \"Widget toevoegen\"."
+          }
         }
       }
     },
@@ -7825,6 +8215,12 @@
           }
         },
         "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instagram-DM (@lee25_ios)"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instagram-DM (@lee25_ios)"
@@ -7947,6 +8343,12 @@
             "state" : "translated",
             "value" : "Før jobb"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voor het werk"
+          }
         }
       }
     },
@@ -8064,6 +8466,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En uke!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een week!"
           }
         }
       }
@@ -8183,6 +8591,12 @@
             "state" : "translated",
             "value" : "Hele uken har du kommet innom,\nså stolt jeg er av deg!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een hele week lang kwam jij elke dag,\ndus ik ben echt trots!"
+          }
         }
       }
     },
@@ -8300,6 +8714,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selvtillit"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zelfvertrouwen"
           }
         }
       }
@@ -8419,6 +8839,12 @@
             "state" : "translated",
             "value" : "Kveld"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avond"
+          }
         }
       }
     },
@@ -8536,6 +8962,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lagre"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewaren"
           }
         }
       }
@@ -8655,6 +9087,12 @@
             "state" : "translated",
             "value" : "Foreslått av"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bedacht door"
+          }
         }
       }
     },
@@ -8772,6 +9210,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stormester i skryt"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hype-grootmeester"
           }
         }
       }
@@ -8891,6 +9335,12 @@
             "state" : "translated",
             "value" : "Skrytemester"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hype-meester"
+          }
         }
       }
     },
@@ -9008,6 +9458,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skryt-widget"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hype-widget"
           }
         }
       }
@@ -9127,6 +9583,12 @@
             "state" : "translated",
             "value" : "Jeg bytter ut «du» i skrytene\nmed navnet ditt!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In de hypes zet ik jouw naam\nin plaats van 'jij'!"
+          }
         }
       }
     },
@@ -9244,6 +9706,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når du ser et skryt,\nlagres det automatisk!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekijk je een hype,\ndan wordt dat vanzelf bijgehouden!"
           }
         }
       }
@@ -9363,6 +9831,12 @@
             "state" : "translated",
             "value" : "Midten"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Midden"
+          }
         }
       }
     },
@@ -9480,6 +9954,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Favoritter"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorieten"
           }
         }
       }
@@ -9599,6 +10079,12 @@
             "state" : "translated",
             "value" : "Ingen favoritter ennå"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog geen favorieten"
+          }
         }
       }
     },
@@ -9716,6 +10202,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du har sett 100 skryt totalt!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In totaal 100 hypes bekeken!"
           }
         }
       }
@@ -9835,6 +10327,12 @@
             "state" : "translated",
             "value" : "Du har sett 50 skryt totalt!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In totaal 50 hypes bekeken!"
+          }
         }
       }
     },
@@ -9952,6 +10450,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dager totalt"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagen in totaal"
           }
         }
       }
@@ -10071,6 +10575,12 @@
             "state" : "translated",
             "value" : "Beste rekke"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beste reeks"
+          }
         }
       }
     },
@@ -10188,6 +10698,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "På vei til jobb"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naar werk"
           }
         }
       }
@@ -10307,6 +10823,12 @@
             "state" : "translated",
             "value" : "På vei hjem"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naar huis"
+          }
         }
       }
     },
@@ -10424,6 +10946,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skrift"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lettertype"
           }
         }
       }
@@ -10543,6 +11071,12 @@
             "state" : "translated",
             "value" : "Skriftinnstillinger"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lettertype instellen"
+          }
         }
       }
     },
@@ -10660,6 +11194,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En måned!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een maand!"
           }
         }
       }
@@ -10779,6 +11319,12 @@
             "state" : "translated",
             "value" : "En hel måned sammen,\nog du er helt spesiell!"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een maand samen onderweg,\nen jij bent echt bijzonder!"
+          }
         }
       }
     },
@@ -10896,6 +11442,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Linjeavstand"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regelafstand"
           }
         }
       }
@@ -11015,6 +11567,12 @@
             "state" : "translated",
             "value" : "Nåværende rekke"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Huidige reeks"
+          }
         }
       }
     },
@@ -11132,6 +11690,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trykk og hold på hjemskjermen til ikonene vingler, og trykk på ➕ øverst til høyre eller venstre."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Houd je beginscherm ingedrukt tot de apps gaan wiebelen en tik linksboven of rechtsboven op ➕."
           }
         }
       }
@@ -11251,6 +11815,12 @@
             "state" : "translated",
             "value" : "Historikk"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geschiedenis"
+          }
         }
       }
     },
@@ -11368,6 +11938,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Historikken er tom"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog geen geschiedenis"
           }
         }
       }
@@ -11487,6 +12063,12 @@
             "state" : "translated",
             "value" : "Kos"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontspanning"
+          }
         }
       }
     },
@@ -11604,6 +12186,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når det er tungt"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zware dag"
           }
         }
       }
