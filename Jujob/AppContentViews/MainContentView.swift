@@ -141,7 +141,7 @@ struct MainContentView: View {
         VStack {
             // 헤더 + 카테고리 배지
             HStack {
-                Text("내 주접 관리".uppercased())
+                Text(String(localized: "내 주접 관리").uppercased())
                     .font(.system(size: 15))
                     .fontWeight(.bold)
                     .padding(.leading, 15)
@@ -173,7 +173,7 @@ struct MainContentView: View {
             LazyVGrid(columns: [GridItem(.flexible()), GridItem(.flexible())], spacing: 12) {
                 FeatureButton(
                     icon: "face.smiling",
-                    title: "기분 선택",
+                    title: String(localized: "기분 선택"),
                     color: .blue
                 ) {
                     actionSheet = .moodSelection
@@ -181,7 +181,7 @@ struct MainContentView: View {
 
                 FeatureButton(
                     icon: "star.fill",
-                    title: "즐겨찾기",
+                    title: String(localized: "즐겨찾기"),
                     color: .yellow
                 ) {
                     actionSheet = .favorites
@@ -189,7 +189,7 @@ struct MainContentView: View {
 
                 FeatureButton(
                     icon: "clock.fill",
-                    title: "히스토리",
+                    title: String(localized: "히스토리"),
                     color: .green
                 ) {
                     actionSheet = .history
@@ -197,7 +197,7 @@ struct MainContentView: View {
 
                 FeatureButton(
                     icon: "trophy.fill",
-                    title: "나의 기록",
+                    title: String(localized: "나의 기록"),
                     color: .orange
                 ) {
                     actionSheet = .achievements
@@ -205,7 +205,7 @@ struct MainContentView: View {
 
                 FeatureButton(
                     icon: "person.circle",
-                    title: "이름 설정",
+                    title: String(localized: "이름 설정"),
                     color: .purple
                 ) {
                     actionSheet = .userNameSetting
@@ -213,7 +213,7 @@ struct MainContentView: View {
 
                 FeatureButton(
                     icon: "arrow.right.circle.fill",
-                    title: "다음 주접",
+                    title: String(localized: "다음 주접"),
                     color: .cyan
                 ) {
                     manager.loadNextQuote()
@@ -228,7 +228,7 @@ struct MainContentView: View {
     private var DetailedSettings: some View {
         VStack(spacing: 30) {
             VStack {
-                createSectionHeader(title: "상세 설정")
+                createSectionHeader(title: String(localized: "상세 설정"))
                 Text("위젯 모양과 글꼴을 세밀하게 조정하세요")
                     .font(.system(size: 13))
                     .foregroundColor(.gray)
@@ -381,7 +381,7 @@ struct MainContentView: View {
                     }
                     Picker("", selection: $refreshIntervalIndex, content: {
                         ForEach(0..<RefreshInterval.allCases.count, content: { index in
-                            Text(RefreshInterval.allCases[index].rawValue)
+                            Text(RefreshInterval.allCases[index].displayName)
                         })
                     })
                     .onChange(of: refreshIntervalIndex) { _, newValue in
@@ -400,7 +400,7 @@ struct MainContentView: View {
     // MARK: - 개발자 문의
     private var DeveloperContact: some View {
         VStack {
-            createSectionHeader(title: "개발자에게 문의")
+            createSectionHeader(title: String(localized: "개발자에게 문의"))
             Text("버그 제보와 기능 제안을 환영합니다.")
                 .font(.system(size: 13))
                 .foregroundColor(.gray)

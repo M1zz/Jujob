@@ -58,61 +58,61 @@ struct Achievement: Codable, Identifiable {
     static let allAchievements: [Achievement] = [
         Achievement(
             id: "streak_7",
-            title: "일주일 달성!",
-            description: "7일 연속으로 주접을 확인했어요!",
+            title: String(localized: "일주일 달성!"),
+            description: String(localized: "7일 연속으로 주접을 확인했어요!"),
             requirement: 7,
             isUnlocked: false,
             unlockedDate: nil,
             specialQuotes: [
-                "일주일 동안 꾸준히 찾아와준 당신,\n정말 자랑스러워요!",
-                "7일의 여정을 함께한 우리,\n앞으로도 계속 함께해요!"
+                String(localized: "일주일 동안 꾸준히 찾아와준 당신,\n정말 자랑스러워요!"),
+                String(localized: "7일의 여정을 함께한 우리,\n앞으로도 계속 함께해요!")
             ]
         ),
         Achievement(
             id: "streak_30",
-            title: "한 달 달성!",
-            description: "30일 연속으로 주접을 확인했어요!",
+            title: String(localized: "한 달 달성!"),
+            description: String(localized: "30일 연속으로 주접을 확인했어요!"),
             requirement: 30,
             isUnlocked: false,
             unlockedDate: nil,
             specialQuotes: [
-                "한 달 동안 함께한 우리,\n당신은 정말 특별한 사람이에요!",
-                "30일이라는 긴 시간 동안\n꾸준히 찾아와준 당신, 최고예요!"
+                String(localized: "한 달 동안 함께한 우리,\n당신은 정말 특별한 사람이에요!"),
+                String(localized: "30일이라는 긴 시간 동안\n꾸준히 찾아와준 당신, 최고예요!")
             ]
         ),
         Achievement(
             id: "streak_100",
-            title: "백일 달성!",
-            description: "100일 연속으로 주접을 확인했어요!",
+            title: String(localized: "백일 달성!"),
+            description: String(localized: "100일 연속으로 주접을 확인했어요!"),
             requirement: 100,
             isUnlocked: false,
             unlockedDate: nil,
             specialQuotes: [
-                "100일이라는 놀라운 여정을 함께한 우리,\n당신은 정말 대단한 사람이에요!",
-                "백일 동안 매일 찾아와준 당신,\n이 세상에서 가장 소중한 사람이에요!",
-                "100일의 기적! 당신의 꾸준함이\n세상을 변화시켰어요!"
+                String(localized: "100일이라는 놀라운 여정을 함께한 우리,\n당신은 정말 대단한 사람이에요!"),
+                String(localized: "백일 동안 매일 찾아와준 당신,\n이 세상에서 가장 소중한 사람이에요!"),
+                String(localized: "100일의 기적! 당신의 꾸준함이\n세상을 변화시켰어요!")
             ]
         ),
         Achievement(
             id: "total_50",
-            title: "주접 마스터",
-            description: "총 50개의 주접을 확인했어요!",
+            title: String(localized: "주접 마스터"),
+            description: String(localized: "총 50개의 주접을 확인했어요!"),
             requirement: 50,
             isUnlocked: false,
             unlockedDate: nil,
             specialQuotes: [
-                "50개의 주접을 모두 확인한 당신,\n정말 열정적이에요!"
+                String(localized: "50개의 주접을 모두 확인한 당신,\n정말 열정적이에요!")
             ]
         ),
         Achievement(
             id: "total_100",
-            title: "주접 그랜드 마스터",
-            description: "총 100개의 주접을 확인했어요!",
+            title: String(localized: "주접 그랜드 마스터"),
+            description: String(localized: "총 100개의 주접을 확인했어요!"),
             requirement: 100,
             isUnlocked: false,
             unlockedDate: nil,
             specialQuotes: [
-                "100개의 주접을 모두 경험한 당신,\n이제 진정한 마스터예요!"
+                String(localized: "100개의 주접을 모두 경험한 당신,\n이제 진정한 마스터예요!")
             ]
         )
     ]
@@ -191,7 +191,16 @@ class UserPreferencesManager: ObservableObject {
     private func loadAchievements() {
         if let data = userDefaults.data(forKey: achievementsKey),
            let decoded = try? JSONDecoder().decode([Achievement].self, from: data) {
-            achievements = decoded
+            // 저장본에는 저장할 때의 언어로 된 제목·문구가 들어 있다.
+            // 달성 여부만 가져오고 글은 지금 언어의 정의를 쓴다.
+            achievements = Achievement.allAchievements.map { definition in
+                var achievement = definition
+                if let saved = decoded.first(where: { $0.id == definition.id }) {
+                    achievement.isUnlocked = saved.isUnlocked
+                    achievement.unlockedDate = saved.unlockedDate
+                }
+                return achievement
+            }
         }
     }
 
@@ -386,6 +395,10 @@ class UserPreferencesManager: ObservableObject {
         }
 
         // "당신" -> 사용자 이름으로 변경
-        return quoteText.replacingOccurrences(of: "당신", with: userName)
+        return quoteText.replacingOccurrences(of: Self.nameToken, with: userName)
     }
+
+    /// 주접 문구에서 사용자 이름으로 바꿔 넣을 2인칭 표현.
+    /// 언어마다 그 언어 주접 문구에 실제로 쓰인 낱말과 같아야 이름 넣기가 동작한다.
+    static let nameToken = String(localized: "당신", comment: "Name setting: the second-person word in the quotes that gets replaced with the user's name. Must match the exact word used in this language's quote translations.")
 }

@@ -49,14 +49,14 @@ struct AchievementsView: View {
 
             HStack(spacing: 20) {
                 StreakCard(
-                    title: "현재 연속",
+                    title: String(localized: "현재 연속"),
                     value: "\(preferencesManager.dailyStreak.currentStreak)",
                     icon: "flame.fill",
                     color: .orange
                 )
 
                 StreakCard(
-                    title: "최고 기록",
+                    title: String(localized: "최고 기록"),
                     value: "\(preferencesManager.dailyStreak.longestStreak)",
                     icon: "star.fill",
                     color: .yellow
@@ -64,7 +64,7 @@ struct AchievementsView: View {
             }
 
             StreakCard(
-                title: "총 확인 일수",
+                title: String(localized: "총 확인 일수"),
                 value: "\(preferencesManager.dailyStreak.totalDaysViewed)",
                 icon: "calendar",
                 color: .blue

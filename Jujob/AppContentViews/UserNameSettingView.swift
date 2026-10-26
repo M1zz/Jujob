@@ -95,14 +95,14 @@ struct UserNameSettingView: View {
 
             VStack(spacing: 15) {
                 PreviewQuote(
-                    original: "당신은 충분히\n가치 있는 사람이에요!",
-                    customized: preferencesManager.customizeQuote("당신은 충분히\n가치 있는 사람이에요!"),
+                    original: String(localized: "당신은 충분히\n가치 있는 사람이에요!"),
+                    customized: preferencesManager.customizeQuote(String(localized: "당신은 충분히\n가치 있는 사람이에요!")),
                     tempName: tempName
                 )
 
                 PreviewQuote(
-                    original: "오늘도 당신답게,\n그게 최고예요!",
-                    customized: preferencesManager.customizeQuote("오늘도 당신답게,\n그게 최고예요!"),
+                    original: String(localized: "오늘도 당신답게,\n그게 최고예요!"),
+                    customized: preferencesManager.customizeQuote(String(localized: "오늘도 당신답게,\n그게 최고예요!")),
                     tempName: tempName
                 )
             }
@@ -136,7 +136,7 @@ struct PreviewQuote: View {
         if tempName.isEmpty {
             return original
         } else {
-            return original.replacingOccurrences(of: "당신", with: tempName)
+            return original.replacingOccurrences(of: UserPreferencesManager.nameToken, with: tempName)
         }
     }
 

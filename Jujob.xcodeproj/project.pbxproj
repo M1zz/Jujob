@@ -40,6 +40,11 @@
 		581A0A082B6F3404004F2DBA /* AchievementsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A0A072B6F3404004F2DBA /* AchievementsView.swift */; };
 		581A0A0A2B6F3405004F2DBA /* UserNameSettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A0A092B6F3405004F2DBA /* UserNameSettingView.swift */; };
 		581A0A0B2B6F3406004F2DBA /* UserPreferencesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09FF2B6F3400004F2DBA /* UserPreferencesManager.swift */; };
+		5C1000000000000000000011 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5C1000000000000000000001 /* Localizable.xcstrings */; };
+		5C1000000000000000000012 /* Quotes.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5C1000000000000000000002 /* Quotes.xcstrings */; };
+		5C1000000000000000000013 /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5C1000000000000000000003 /* InfoPlist.xcstrings */; };
+		5C1000000000000000000021 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5C1000000000000000000001 /* Localizable.xcstrings */; };
+		5C1000000000000000000022 /* Quotes.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5C1000000000000000000002 /* Quotes.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -98,6 +103,10 @@
 		581A0A052B6F3403004F2DBA /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
 		581A0A072B6F3404004F2DBA /* AchievementsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementsView.swift; sourceTree = "<group>"; };
 		581A0A092B6F3405004F2DBA /* UserNameSettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserNameSettingView.swift; sourceTree = "<group>"; };
+		5C1000000000000000000001 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		5C1000000000000000000002 /* Quotes.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Quotes.xcstrings; sourceTree = "<group>"; };
+		5C1000000000000000000003 /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
+		5C1000000000000000000004 /* Version.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config/Version.xcconfig; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +158,10 @@
 				581A09BA2A532349004F2DBA /* Managers */,
 				581A099F2A532289004F2DBA /* Jujob.entitlements */,
 				581A09952A53227B004F2DBA /* Assets.xcassets */,
+				5C1000000000000000000001 /* Localizable.xcstrings */,
+				5C1000000000000000000002 /* Quotes.xcstrings */,
+				5C1000000000000000000003 /* InfoPlist.xcstrings */,
+				5C1000000000000000000004 /* Version.xcconfig */,
 				581A09972A53227B004F2DBA /* Preview Content */,
 			);
 			path = Jujob;
@@ -288,10 +301,10 @@
 			};
 			buildConfigurationList = 581A09892A53227A004F2DBA /* Build configuration list for PBXProject "Jujob" */;
 			compatibilityVersion = "Xcode 14.0";
-			developmentRegion = en;
+			developmentRegion = ko;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				en,
+				ko,
 				Base,
 			);
 			mainGroup = 581A09852A53227A004F2DBA;
@@ -313,6 +326,9 @@
 				581A09992A53227B004F2DBA /* Preview Assets.xcassets in Resources */,
 				581A09C22A532731004F2DBA /* Media.xcassets in Resources */,
 				581A09962A53227B004F2DBA /* Assets.xcassets in Resources */,
+				5C1000000000000000000011 /* Localizable.xcstrings in Resources */,
+				5C1000000000000000000012 /* Quotes.xcstrings in Resources */,
+				5C1000000000000000000013 /* InfoPlist.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -322,6 +338,8 @@
 			files = (
 				581A09C42A532735004F2DBA /* Media.xcassets in Resources */,
 				581A09B02A5322EC004F2DBA /* Assets.xcassets in Resources */,
+				5C1000000000000000000021 /* Localizable.xcstrings in Resources */,
+				5C1000000000000000000022 /* Quotes.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -380,6 +398,7 @@
 /* Begin XCBuildConfiguration section */
 		581A099A2A53227B004F2DBA /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5C1000000000000000000004 /* Version.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -443,6 +462,7 @@
 		};
 		581A099B2A53227B004F2DBA /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5C1000000000000000000004 /* Version.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -500,12 +520,12 @@
 		};
 		581A099D2A53227B004F2DBA /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5C1000000000000000000004 /* Version.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = Jujob/Jujob.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Jujob/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -521,12 +541,12 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.leeo.JuJob;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -535,12 +555,12 @@
 		};
 		581A099E2A53227B004F2DBA /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5C1000000000000000000004 /* Version.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = Jujob/Jujob.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Jujob/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -556,12 +576,12 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.leeo.JuJob;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -570,12 +590,12 @@
 		};
 		581A09B62A5322EC004F2DBA /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5C1000000000000000000004 /* Version.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
 				CODE_SIGN_ENTITLEMENTS = JujobWidgetExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = JujobWidget/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = JujobWidget;
@@ -585,10 +605,10 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.leeo.JuJob.JuJobWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -597,12 +617,12 @@
 		};
 		581A09B72A5322EC004F2DBA /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5C1000000000000000000004 /* Version.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
 				CODE_SIGN_ENTITLEMENTS = JujobWidgetExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = JujobWidget/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = JujobWidget;
@@ -612,10 +632,10 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.leeo.JuJob.JuJobWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

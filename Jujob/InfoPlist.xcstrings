@@ -1,0 +1,30 @@
+{
+  "sourceLanguage" : "ko",
+  "strings" : {
+    "CFBundleDisplayName" : {
+      "comment" : "Bundle display name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "오늘의 주접"
+          }
+        }
+      }
+    },
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "오늘의 주접"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

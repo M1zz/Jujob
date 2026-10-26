@@ -18,11 +18,11 @@ enum TutorialStep: String, CaseIterable, Identifiable {
     var description: String {
         switch self {
         case .stepOne:
-            return "홈 화면을 길게 눌러 지글 모드로 진입한 후 우측/좌측 상단의 ➕를 탭합니다."
+            return String(localized: "홈 화면을 길게 눌러 지글 모드로 진입한 후 우측/좌측 상단의 ➕를 탭합니다.")
         case .stepTwo:
-            return "앱 이름이 나올 때 까지 스크롤 해주세요.\n\"오늘의 주접\""
+            return String(localized: "앱 이름이 나올 때 까지 스크롤 해주세요.\n\"오늘의 주접\"")
         case .stepThree:
-            return "이제 위젯 크기를 선택하고 \"위젯 추가\" 버튼을 누르기만 하면 됩니다."
+            return String(localized: "이제 위젯 크기를 선택하고 \"위젯 추가\" 버튼을 누르기만 하면 됩니다.")
         }
     }
 }

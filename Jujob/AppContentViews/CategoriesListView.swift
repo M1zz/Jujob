@@ -61,7 +61,7 @@ struct CategoriesListView: View {
                         .frame(width: 30).foregroundColor(.white)
                     Spacer()
                 }
-                Text(categories[row][item].capitalized).foregroundColor(.white).bold().padding()
+                Text(QuoteCategory(rawValue: categories[row][item])?.displayName ?? categories[row][item]).foregroundColor(.white).bold().padding()
             }
             VStack {
                 HStack {

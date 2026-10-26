@@ -15,6 +15,15 @@ enum RefreshInterval: String, CaseIterable, Identifiable {
     case fifteen = "15분"
     case thirty = "30분"
     var id: Int { hashValue }
+
+    /// rawValue 는 저장 키라 바꾸지 않는다. 화면에는 이 번역된 이름을 쓴다.
+    var displayName: String {
+        switch self {
+        case .five: return String(localized: "5분")
+        case .fifteen: return String(localized: "15분")
+        case .thirty: return String(localized: "30분")
+        }
+    }
     
     /// Index value that will be used for the segmented control / picker
     var indexValue: Int {
@@ -163,7 +172,7 @@ class WidgetManager: WidgetConfigurator, ObservableObject {
     func loadNextQuote() {
         let categoryQuotes = QuotesManager.quotes//.filter({ $0.category == currentQuoteCategory })
         if categoryQuotes.count > 0 {
-            currentQuote = categoryQuotes.randomElement() ?? Quote(text: "완벽하지만 구멍 하나 있네요. \n황홀(hole).", category: .random, author: "Leeo")
+            currentQuote = categoryQuotes.randomElement() ?? categoryQuotes[0]
 //            if currentIndex + 1 < categoryQuotes.count {
 //                currentQuote = categoryQuotes[currentIndex + 1]
 //            } else {
