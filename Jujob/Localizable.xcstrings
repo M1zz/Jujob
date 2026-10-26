@@ -125,6 +125,12 @@
             "state" : "translated",
             "value" : "%lld dagen"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld dni"
+          }
         }
       }
     },
@@ -248,6 +254,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle 100 hypes gezien, jij\nbent nu een echte meester!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wszystkie 100 peanów za tobą,\nty to już prawdziwy mistrz!"
           }
         }
       }
@@ -373,6 +385,12 @@
             "state" : "translated",
             "value" : "Je hebt 100 dagen op rij een hype bekeken!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaglądasz do peanów 100 dni z rzędu!"
+          }
         }
       }
     },
@@ -496,6 +514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Het wonder van 100 dagen! Door jij\nis de wereld een beetje veranderd!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cud setki! Twoja wytrwałość\nzmieniła świat!"
           }
         }
       }
@@ -621,6 +645,12 @@
             "state" : "translated",
             "value" : "Wat een reis, die 100 dagen samen.\nJij bent echt geweldig!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sto dni wspólnej drogi za nami,\nty to naprawdę ktoś wielki!"
+          }
         }
       }
     },
@@ -741,6 +771,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 min"
+          }
+        },
+        "pl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 min"
@@ -869,6 +905,12 @@
             "state" : "translated",
             "value" : "30 min"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 min"
+          }
         }
       }
     },
@@ -992,6 +1034,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je hebt 30 dagen op rij een hype bekeken!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaglądasz do peanów 30 dni z rzędu!"
           }
         }
       }
@@ -1117,6 +1165,12 @@
             "state" : "translated",
             "value" : "Een hele maand lang kwam jij\nelke dag langs. Je bent de beste!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przez 30 dni wracasz codziennie,\nty to numer jeden!"
+          }
         }
       }
     },
@@ -1241,6 +1295,12 @@
             "state" : "translated",
             "value" : "Al 50 hypes gezien, wat\nben jij enthousiast!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "50 peanów odhaczone,\nty to prawdziwy zapaleniec!"
+          }
         }
       }
     },
@@ -1361,6 +1421,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 min"
+          }
+        },
+        "pl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "5 min"
@@ -1489,6 +1555,12 @@
             "state" : "translated",
             "value" : "Je hebt 7 dagen op rij een hype bekeken!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaglądasz do peanów 7 dni z rzędu!"
+          }
         }
       }
     },
@@ -1612,6 +1684,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Een week samen onderweg.\nLaten we lekker doorgaan!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siedem dni za nami,\nidziemy razem dalej!"
           }
         }
       }
@@ -1743,6 +1821,12 @@
             "state" : "translated",
             "value" : "Aankopen herstellen"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przywróć zakupy"
+          }
         }
       }
     },
@@ -1872,6 +1956,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kies een categorie"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wybierz kategorię"
           }
         }
       }
@@ -2003,6 +2093,12 @@
             "state" : "translated",
             "value" : "Kies een lettertype"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wybierz czcionkę"
+          }
         }
       }
     },
@@ -2132,6 +2228,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uitleg"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samouczek"
           }
         }
       }
@@ -2263,6 +2365,12 @@
             "state" : "translated",
             "value" : "anoniem"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "anonim"
+          }
         }
       }
     },
@@ -2389,6 +2497,12 @@
           }
         },
         "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "premium"
+          }
+        },
+        "pl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "premium"
@@ -2520,6 +2634,12 @@
             "state" : "translated",
             "value" : "Contact met de maker"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Napisz do twórcy"
+          }
         }
       }
     },
@@ -2643,6 +2763,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kleurverloop"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kolor gradientu"
           }
         }
       }
@@ -2768,6 +2894,12 @@
             "state" : "translated",
             "value" : "Tekstkleur"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kolor tekstu"
+          }
         }
       }
     },
@@ -2891,6 +3023,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kies je stemming"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wybierz nastrój"
           }
         }
       }
@@ -3016,6 +3154,12 @@
             "state" : "translated",
             "value" : "Somber"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gorszy dzień"
+          }
         }
       }
     },
@@ -3139,6 +3283,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ik kies een hype die bij\njouw stemming of situatie past!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dobierzemy peany\ndo nastroju i sytuacji!"
           }
         }
       }
@@ -3264,6 +3414,12 @@
             "state" : "translated",
             "value" : "Mijn voortgang"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moje wyniki"
+          }
         }
       }
     },
@@ -3388,6 +3544,12 @@
             "state" : "translated",
             "value" : "Mijn hypes"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moje peany"
+          }
         }
       }
     },
@@ -3511,6 +3673,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Volgende hype"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Następny pean"
           }
         }
       }
@@ -3637,6 +3805,12 @@
             "state" : "translated",
             "value" : "jij"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ty"
+          }
         }
       }
     },
@@ -3760,6 +3934,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Weet je, jij bent\nzoveel waard!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiedz, że ty to\nczłowiek o wielkiej wartości!"
           }
         }
       }
@@ -3885,6 +4065,12 @@
             "state" : "translated",
             "value" : "Voor de date"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przed randką"
+          }
         }
       }
     },
@@ -4008,6 +4194,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Motivatie"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapał"
           }
         }
       }
@@ -4133,6 +4325,12 @@
             "state" : "translated",
             "value" : "Willekeurig"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Losowo"
+          }
         }
       }
     },
@@ -4256,6 +4454,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tik op de ster om een hype\ndie je mooi vindt te bewaren!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapisz ulubione peany\nprzyciskiem z gwiazdką!"
           }
         }
       }
@@ -4381,6 +4585,12 @@
             "state" : "translated",
             "value" : "Hou elke dag van jezelf"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kocham siebie każdego dnia"
+          }
         }
       }
     },
@@ -4504,6 +4714,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sollicitatie"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przed rozmową"
           }
         }
       }
@@ -4629,6 +4845,12 @@
             "state" : "translated",
             "value" : "Voorbeeld"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podgląd"
+          }
         }
       }
     },
@@ -4752,6 +4974,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Achtergrond"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ustawienia tła"
           }
         }
       }
@@ -4877,6 +5105,12 @@
             "state" : "translated",
             "value" : "Achtergrondfoto"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obraz tła"
+          }
         }
       }
     },
@@ -5000,6 +5234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 dagen!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setny dzień!"
           }
         }
       }
@@ -5125,6 +5365,12 @@
             "state" : "translated",
             "value" : "Honderd dagen lang kwam jij elke dag,\nen dus ben je echt goud waard!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sto dni codziennie z nami,\nty to skarb tego świata!"
+          }
         }
       }
     },
@@ -5248,6 +5494,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bugmeldingen en ideeën zijn welkom."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zgłoszenia błędów i pomysły są mile widziane."
           }
         }
       }
@@ -5373,6 +5625,12 @@
             "state" : "translated",
             "value" : "Instellingen"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Szczegóły"
+          }
         }
       }
     },
@@ -5496,6 +5754,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verversen om de"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odświeżanie co"
           }
         }
       }
@@ -5621,6 +5885,12 @@
             "state" : "translated",
             "value" : "Voor de toets"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przed egzaminem"
+          }
         }
       }
     },
@@ -5744,6 +6014,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ochtend"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rano"
           }
         }
       }
@@ -5869,6 +6145,12 @@
             "state" : "translated",
             "value" : "Scrol tot je de appnaam ziet.\n\"Dagelijkse Hypeman\""
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przewiń, aż zobaczysz nazwę aplikacji.\n\"Dzienna Dawka Peanów\""
+          }
         }
       }
     },
@@ -5992,6 +6274,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prestaties"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Osiągnięcia"
           }
         }
       }
@@ -6117,6 +6405,12 @@
             "state" : "translated",
             "value" : "Reeks"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seria dni"
+          }
         }
       }
     },
@@ -6240,6 +6534,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoe voel jij je vandaag?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak się dziś czujesz?"
           }
         }
       }
@@ -6365,6 +6665,12 @@
             "state" : "translated",
             "value" : "Ook vandaag gewoon jij,\nwant dat is het beste!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dziś też po swojemu,\nbo ty to mistrz bycia sobą!"
+          }
         }
       }
     },
@@ -6488,6 +6794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dagelijkse Hypeman"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzienna Dawka Peanów"
           }
         }
       }
@@ -6613,6 +6925,12 @@
             "state" : "translated",
             "value" : "Rechts"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do prawej"
+          }
         }
       }
     },
@@ -6736,6 +7054,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kom op, geen sombere bui!\nKies een peptalk voor jezelf!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hej, nie dołuj mi tu ziomka!\nWybierz słowa, które cię podniosą!"
           }
         }
       }
@@ -6861,6 +7185,12 @@
             "state" : "translated",
             "value" : "Links"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do lewej"
+          }
         }
       }
     },
@@ -6984,6 +7314,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voor het sporten"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przed treningiem"
           }
         }
       }
@@ -7109,6 +7445,12 @@
             "state" : "translated",
             "value" : "Stel vorm en lettertype van je widget helemaal af"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dopracuj wygląd widżetu i czcionkę"
+          }
         }
       }
     },
@@ -7232,6 +7574,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widget-instellingen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ustawienia widżetu"
           }
         }
       }
@@ -7357,6 +7705,12 @@
             "state" : "translated",
             "value" : "Deze hype gebruiken"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Użyj tego peanu"
+          }
         }
       }
     },
@@ -7480,6 +7834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Naam"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imię"
           }
         }
       }
@@ -7605,6 +7965,12 @@
             "state" : "translated",
             "value" : "Naam instellen"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ustaw imię"
+          }
         }
       }
     },
@@ -7728,6 +8094,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoe heet je?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podaj swoje imię!"
           }
         }
       }
@@ -7853,6 +8225,12 @@
             "state" : "translated",
             "value" : "Typ je naam"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wpisz imię"
+          }
         }
       }
     },
@@ -7976,6 +8354,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mail de maker"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Napisz e-mail"
           }
         }
       }
@@ -8101,6 +8485,12 @@
             "state" : "translated",
             "value" : "Kies nu een widgetgrootte en tik op \"Widget toevoegen\"."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teraz wybierz rozmiar widżetu i dotknij \"Dodaj widżet\"."
+          }
         }
       }
     },
@@ -8224,6 +8614,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instagram-DM (@lee25_ios)"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instagram DM (@lee25_ios)"
           }
         }
       }
@@ -8349,6 +8745,12 @@
             "state" : "translated",
             "value" : "Voor het werk"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przed pracą"
+          }
         }
       }
     },
@@ -8472,6 +8874,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Een week!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siedem dni!"
           }
         }
       }
@@ -8597,6 +9005,12 @@
             "state" : "translated",
             "value" : "Een hele week lang kwam jij elke dag,\ndus ik ben echt trots!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siedem dni z rzędu, a ty\nnadal w formie. Duma!"
+          }
         }
       }
     },
@@ -8720,6 +9134,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zelfvertrouwen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pewność siebie"
           }
         }
       }
@@ -8845,6 +9265,12 @@
             "state" : "translated",
             "value" : "Avond"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wieczór"
+          }
         }
       }
     },
@@ -8968,6 +9394,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bewaren"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapisz"
           }
         }
       }
@@ -9093,6 +9525,12 @@
             "state" : "translated",
             "value" : "Bedacht door"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autor pomysłu"
+          }
         }
       }
     },
@@ -9216,6 +9654,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hype-grootmeester"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wielki Mistrz Peanów"
           }
         }
       }
@@ -9341,6 +9785,12 @@
             "state" : "translated",
             "value" : "Hype-meester"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mistrz Peanów"
+          }
         }
       }
     },
@@ -9464,6 +9914,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hype-widget"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widżet z peanami"
           }
         }
       }
@@ -9589,6 +10045,12 @@
             "state" : "translated",
             "value" : "In de hypes zet ik jouw naam\nin plaats van 'jij'!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W peanach wstawimy twoje imię\nzamiast słowa 'ty'!"
+          }
         }
       }
     },
@@ -9712,6 +10174,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bekijk je een hype,\ndan wordt dat vanzelf bijgehouden!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaglądanie do peanów\nzapisuje się samo!"
           }
         }
       }
@@ -9837,6 +10305,12 @@
             "state" : "translated",
             "value" : "Midden"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Środek"
+          }
         }
       }
     },
@@ -9960,6 +10434,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Favorieten"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ulubione"
           }
         }
       }
@@ -10085,6 +10565,12 @@
             "state" : "translated",
             "value" : "Nog geen favorieten"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brak ulubionych"
+          }
         }
       }
     },
@@ -10208,6 +10694,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "In totaal 100 hypes bekeken!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Łącznie 100 peanów zaliczone!"
           }
         }
       }
@@ -10333,6 +10825,12 @@
             "state" : "translated",
             "value" : "In totaal 50 hypes bekeken!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Łącznie 50 peanów zaliczone!"
+          }
         }
       }
     },
@@ -10456,6 +10954,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dagen in totaal"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dni łącznie"
           }
         }
       }
@@ -10581,6 +11085,12 @@
             "state" : "translated",
             "value" : "Beste reeks"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Najlepsza seria"
+          }
         }
       }
     },
@@ -10704,6 +11214,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Naar werk"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Droga do pracy"
           }
         }
       }
@@ -10829,6 +11345,12 @@
             "state" : "translated",
             "value" : "Naar huis"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Droga z pracy"
+          }
         }
       }
     },
@@ -10952,6 +11474,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lettertype"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Czcionka"
           }
         }
       }
@@ -11077,6 +11605,12 @@
             "state" : "translated",
             "value" : "Lettertype instellen"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ustawienia czcionki"
+          }
         }
       }
     },
@@ -11200,6 +11734,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Een maand!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miesiąc razem!"
           }
         }
       }
@@ -11325,6 +11865,12 @@
             "state" : "translated",
             "value" : "Een maand samen onderweg,\nen jij bent echt bijzonder!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miesiąc razem za nami,\nty to wyjątkowy człowiek!"
+          }
         }
       }
     },
@@ -11448,6 +11994,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Regelafstand"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interlinia"
           }
         }
       }
@@ -11573,6 +12125,12 @@
             "state" : "translated",
             "value" : "Huidige reeks"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obecna seria"
+          }
         }
       }
     },
@@ -11696,6 +12254,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Houd je beginscherm ingedrukt tot de apps gaan wiebelen en tik linksboven of rechtsboven op ➕."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przytrzymaj ekran główny, aż ikony zaczną drżeć, i dotknij ➕ w górnym rogu."
           }
         }
       }
@@ -11821,6 +12385,12 @@
             "state" : "translated",
             "value" : "Geschiedenis"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historia"
+          }
         }
       }
     },
@@ -11944,6 +12514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nog geen geschiedenis"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historia jest pusta"
           }
         }
       }
@@ -12069,6 +12645,12 @@
             "state" : "translated",
             "value" : "Ontspanning"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Relaks"
+          }
         }
       }
     },
@@ -12192,6 +12774,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zware dag"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trudny moment"
           }
         }
       }

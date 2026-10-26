@@ -129,6 +129,12 @@
             "state" : "translated",
             "value" : "Wat een stralende start! Want\nvandaag ben jij al geweldig genoeg."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nowy dzień, nowe blaski.\nA największy blask? To ty."
+          }
         }
       }
     },
@@ -259,6 +265,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Net als de ochtendzon straal jij vandaag,\ndus dit wordt een topdag!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Słońce już wstało, ale to ty\nrozświetlasz mi poranek."
           }
         }
       }
@@ -391,6 +403,12 @@
             "state" : "translated",
             "value" : "Dat jij je bed uit kwam\nis al een prestatie. Go go go!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udało się wstać? Brawa!\nBo ty to siła natury."
+          }
         }
       }
     },
@@ -521,6 +539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Een mooier begin van de dag\nals dat jij wakker wordt bestaat niet."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Najlepszy poranny widok? Wiadomo:\nty, ty i jeszcze raz ty."
           }
         }
       }
@@ -653,6 +677,12 @@
             "state" : "translated",
             "value" : "Vandaag speel jij de hoofdrol,\ndus geniet van je applaus."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dziś na scenie ty,\na reszta świata klaszcze."
+          }
         }
       }
     },
@@ -783,6 +813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ogen open en meteen winnen,\nzo doe jij dat dus."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kawa jeszcze paruje,\na ty już rozgrzewasz cały świat."
           }
         }
       }
@@ -915,6 +951,12 @@
             "state" : "translated",
             "value" : "Koffie? Ach, jij met een glimlach\nom half acht is veel wakkerder."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cukier słodzi kawę,\na ty słodzisz cały dzień."
+          }
         }
       }
     },
@@ -1045,6 +1087,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ook vandaag is het enige dat telt:\njij gewoon lekker jezelf."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dobre wieści z samego rana:\nty, jak zawsze, w formie."
           }
         }
       }
@@ -1177,6 +1225,12 @@
             "state" : "translated",
             "value" : "Zo mooi al vroeg in de ochtend?\nEerlijk, jij bent een kunstwerk."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taki urok od samego rana?\nSkandal, ty chodząca urodo!"
+          }
         }
       }
     },
@@ -1307,6 +1361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Goedemorgen? Nee joh,\nmet jij erbij wordt het een topmorgen!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzień dobry to za mało,\nty zasługujesz na dzień genialny!"
           }
         }
       }
@@ -1439,6 +1499,12 @@
             "state" : "translated",
             "value" : "Eerste blik van de dag, en daar ben jij.\nMijn ogen krijgen meteen een traktatie."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ledwo oczy otwarte,\na tu ty: widok bez filtra, a jaki!"
+          }
         }
       }
     },
@@ -1569,6 +1635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alarm! Gevonden: de meest stralende\nmens van de ochtend, en dat ben jij."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poranny radar wykrył\nnajjaśniejszą osobę w okolicy: ty."
           }
         }
       }
@@ -1701,6 +1773,12 @@
             "state" : "translated",
             "value" : "Wat heb jij weer hard gewerkt!\nRespect, echt waar."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dobra robota dziś, ty maszyno!\nZasłużony odpoczynek czeka."
+          }
         }
       }
     },
@@ -1831,6 +1909,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Een dag afsluiten zoals jij dat doet,\ndat kan echt niemand."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koniec dnia, a ty\nnadal prezentujesz się świetnie."
           }
         }
       }
@@ -1963,6 +2047,12 @@
             "state" : "translated",
             "value" : "Je gaf vandaag alles en ik ben trots,\ndus nu mag jij uitrusten."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cały dzień na pełnych obrotach.\nCo za wzór wytrwałości, ty!"
+          }
         }
       }
     },
@@ -2093,6 +2183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Moe, maar toch hield jij het vol.\nDat is pas een held."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nogi odmawiają posłuszeństwa,\nale ty i tak zasługujesz na medal."
           }
         }
       }
@@ -2225,6 +2321,12 @@
             "state" : "translated",
             "value" : "Elke dag waarin jij meedoet\nis een dag die telt."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzień był udany z jednego powodu:\nty."
+          }
         }
       }
     },
@@ -2355,6 +2457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dat jij de dag heelhuids doorkwam,\nis voldoende. Echt."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzień zaliczony na szóstkę,\nty zresztą też."
           }
         }
       }
@@ -2487,6 +2595,12 @@
             "state" : "translated",
             "value" : "Sterren aan de nachtelijke hemel?\nTja, jij schittert harder."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gwiazdy na niebie są ładne,\nale ty świecisz mocniej."
+          }
         }
       }
     },
@@ -2617,6 +2731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Het is al avond en jij glanst nog.\nHoe doe je dat toch?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wieczór, a ty ciągle jak z okładki.\nJak ty to robisz?"
           }
         }
       }
@@ -2749,6 +2869,12 @@
             "state" : "translated",
             "value" : "Bedankt voor je inzet vandaag.\nGelukkig bestaat er maar één jij."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dobranoc, ty promyczku.\nJutro znowu świecimy!"
+          }
         }
       }
     },
@@ -2879,6 +3005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Door alles wat jij doet\nwas de wereld vandaag weer mooier."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Świat dzisiaj jaśniał,\ni wiemy, kto za to odpowiada: ty."
           }
         }
       }
@@ -3011,6 +3143,12 @@
             "state" : "translated",
             "value" : "In het donker een legende,\nin het licht ook. Typisch jij."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legenda w dzień, legenda w nocy,\nty zawsze na posterunku."
+          }
         }
       }
     },
@@ -3141,6 +3279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geeft niks, zo'n dag hoort erbij.\nWant jij doet het écht goed."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zdarzają się gorsze dni,\nale ty i tak jesteś w porządku."
           }
         }
       }
@@ -3273,6 +3417,12 @@
             "state" : "translated",
             "value" : "Nu even zwaar, maar vertrouw erop:\njij komt er wel doorheen."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teraz jest ciężko, ale ty\nto kawał twardego orzecha."
+          }
         }
       }
     },
@@ -3403,6 +3553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perfect hoeft niet.\nGewoon zoals jij bent is al top."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfekcja jest przereklamowana,\nbo ty w wersji oryginalnej to hit."
           }
         }
       }
@@ -3535,6 +3691,12 @@
             "state" : "translated",
             "value" : "Een pauze mag best. Zolang jij\nmaar je eigen tempo aanhoudt."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zwolnij, jeśli musisz.\nTo twoje tempo i ty tu rządzisz."
+          }
         }
       }
     },
@@ -3665,6 +3827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Veel sterker dan je denkt:\ndat laat jij elke dag zien."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masz w sobie więcej siły,\nniż ty przypuszczasz."
           }
         }
       }
@@ -3797,6 +3965,12 @@
             "state" : "translated",
             "value" : "Ook dit gaat voorbij.\nTuurlijk kan jij dit!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To też minie,\na ty zostaniesz w świetnej formie."
+          }
         }
       }
     },
@@ -3927,6 +4101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zelfs als jij somber bent,\nverandert je waarde geen millimeter."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Humor w dół, ale ty\nnadal jesteś na topie."
           }
         }
       }
@@ -4059,6 +4239,12 @@
             "state" : "translated",
             "value" : "Verdriet hoort ook bij je.\nEn ja, jij mag alle gevoelens voelen."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wolno się smucić i wolno się śmiać,\nty i tak jesteś wspaniałym człowiekiem."
+          }
         }
       }
     },
@@ -4189,6 +4375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Weet je wat? Diamanten ontstaan onder druk,\ndus straks schitter jij net zo."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Z presji rodzi się diament,\na ty jesteś już brylantem."
           }
         }
       }
@@ -4321,6 +4513,12 @@
             "state" : "translated",
             "value" : "Somber? Dan ben ik het ook,\nwant zodra jij niet lacht, is alles grijs."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smutek przemija, a ty\nzostajesz moim ulubionym lekarstwem."
+          }
         }
       }
     },
@@ -4451,6 +4649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Down? Juist dan blijf jij\nhet kostbaarste wat er bestaat."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gorszy dzień? Pamiętaj:\nty to najcenniejszy skarb w okolicy."
           }
         }
       }
@@ -4583,6 +4787,12 @@
             "state" : "translated",
             "value" : "Zelfs huilend zie jij er prachtig uit.\nWat ga je daar nou aan doen?"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nawet we łzach ty wyglądasz uroczo.\nI co ty na to?"
+          }
         }
       }
     },
@@ -4713,6 +4923,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ook nu het zwaar is, blijft het zo:\ndat jij bestaat, is al een wonder."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gorsze chwile mijają, a ty\njesteś cudem samym w sobie."
           }
         }
       }
@@ -4845,6 +5061,12 @@
             "state" : "translated",
             "value" : "Het is nu pittig, maar echt:\njij gaat dit redden!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dziś ciężko, ale ty\nbez wątpienia dasz radę!"
+          }
         }
       }
     },
@@ -4975,6 +5197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Juist in lastige momenten\nlaat jij zien wat je waard bent."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W trudnej chwili wychodzi\nprawdziwy ty: bohater."
           }
         }
       }
@@ -5107,6 +5335,12 @@
             "state" : "translated",
             "value" : "Niet opgeven.\nDaar ben jij veel te sterk voor!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie poddawaj się,\nbo ty masz w sobie siłę lwa."
+          }
         }
       }
     },
@@ -5237,6 +5471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Doorzetten in barre tijden:\nvolgens mij ben jij echt bijzonder."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przetrwać trudny czas?\nTo ty potrafisz, brawo!"
           }
         }
       }
@@ -5369,6 +5609,12 @@
             "state" : "translated",
             "value" : "De ellende van vandaag is de brandstof\nvoor de kracht die jij morgen toont."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzisiejsze zmartwienie to jutrzejszy trening,\na ty już jesteś w formie."
+          }
         }
       }
     },
@@ -5499,6 +5745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je kunt veel meer hebben dan je denkt,\nen dat weet jij zelf ook wel."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wytrzymasz więcej,\nniż ty sądzisz."
           }
         }
       }
@@ -5631,6 +5883,12 @@
             "state" : "translated",
             "value" : "Dit zware moment is straks nog maar\neen verhaaltje, vind jij ook niet?"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ten kryzys wkrótce będzie anegdotą,\na ty będziesz jej bohaterem."
+          }
         }
       }
     },
@@ -5761,6 +6019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zwaar, maar toch glinster jij.\nSlijpen laat een diamant schitteren."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ciężko? Wiem. Ale ty\nbłyszczysz mimo wszystko."
           }
         }
       }
@@ -5893,6 +6157,12 @@
             "state" : "translated",
             "value" : "Zwaar vandaag? Toch blijf jij\nde mooiste die ik ken."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ciężko? Fakt. A jednak ty\nnadal wyglądasz jak marzenie."
+          }
         }
       }
     },
@@ -6023,6 +6293,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dat jij blijft doorgaan\ngeeft iemand hoop."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To, że ty trwasz,\nkomuś daje nadzieję."
           }
         }
       }
@@ -6155,6 +6431,12 @@
             "state" : "translated",
             "value" : "Doodmoe en toch zo mooi,\ntja, daar kan jij ook niks aan doen."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ledwo żyjemy, ale ty\nnadal wyglądasz jak z reklamy."
+          }
         }
       }
     },
@@ -6285,6 +6567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vandaag kun jij alles.\nBegin maar zelfverzekerd!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dziś też dasz radę,\nbo ty zawsze potrafisz."
           }
         }
       }
@@ -6417,6 +6705,12 @@
             "state" : "translated",
             "value" : "Ik geloof in je kunnen, want\nals jij het doet, wordt het een topdag!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wierzę w twoje umiejętności,\nbo ty dziś zrobisz coś wielkiego."
+          }
         }
       }
     },
@@ -6547,6 +6841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Klaar voor de start,\ndus jij bent al halverwege."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przygotowanie masz za sobą,\nwięc ty jesteś w połowie drogi."
           }
         }
       }
@@ -6679,6 +6979,12 @@
             "state" : "translated",
             "value" : "Die to-dolijst vandaag?\nVoor jij is dat een peulenschil."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zadania na dziś? Pestka,\nbo ty to po prostu klasa."
+          }
         }
       }
     },
@@ -6809,6 +7115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zodra jij vol vuur bent,\nstraalt de hele dag!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapał to twój znak firmowy,\ni ty rozpalisz cały dzień."
           }
         }
       }
@@ -6941,6 +7253,12 @@
             "state" : "translated",
             "value" : "Kom op! Doe het vandaag\nzoals alleen jij dat kunt."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do boju! Dziś ty\nrządzisz sceną."
+          }
         }
       }
     },
@@ -7071,6 +7389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoe jij je werkdag begint\nis al een en al professionaliteit."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zanim zaczniesz pracę,\nty już wyglądasz jak profesjonalista."
           }
         }
       }
@@ -7203,6 +7527,12 @@
             "state" : "translated",
             "value" : "Geen zin in werk? Maar jij\nmet dat gezicht werkt al overuren."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Praca cię nie kręci? Spoko,\nty i tak masz urodę na etacie."
+          }
         }
       }
     },
@@ -7333,6 +7663,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wat zie jij er goed uit op weg naar werk.\nHet kantoor knapt ervan op."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wygląd do pracy: miażdżący.\nBiuro lśni, bo ty tam jesteś."
           }
         }
       }
@@ -7465,6 +7801,12 @@
             "state" : "translated",
             "value" : "Zodra jij aan het werk gaat,\nis het gewoon kunst."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Praca w twoim wykonaniu\nto sztuka, ty mistrzostwo."
+          }
         }
       }
     },
@@ -7595,6 +7937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nog niet eens begonnen\nen toch al perfect, jij."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nawet nie zaczęliśmy pracy,\na ty już jesteś ideałem."
           }
         }
       }
@@ -7727,6 +8075,12 @@
             "state" : "translated",
             "value" : "Kijk, daar ga jij sporten:\nmeteen een topper."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trening dopiero przed tobą,\nale ty już wyglądasz jak mistrz."
+          }
         }
       }
     },
@@ -7857,6 +8211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Goed voor je lijf zorgen,\ndat doe jij weer lekker."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dbasz o zdrowie,\nty jesteś wzorem dla innych."
           }
         }
       }
@@ -7989,6 +8349,12 @@
             "state" : "translated",
             "value" : "Niemand kent je lijf zo goed\nals jij, dus vertrouw erop."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twoje ciało to twoja forteca,\na ty jesteś jej szefem."
+          }
         }
       }
     },
@@ -8119,6 +8485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dat jij überhaupt begonnen bent\nmaakt me al enorm trots."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samo ruszenie na trening to sukces,\ni to ty jesteś jego autorem."
           }
         }
       }
@@ -8251,6 +8623,12 @@
             "state" : "translated",
             "value" : "Zweten? Wat zie jij er daarbij\nechter dan echt prachtig uit."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pot na czole, blask w oczach,\nty to widok jak z marzeń."
+          }
         }
       }
     },
@@ -8381,6 +8759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Weet je wat het belangrijkste is?\nDat jij gezond blijft!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zdrowie jest najważniejsze,\na ty dbasz o nie jak mistrz."
           }
         }
       }
@@ -8513,6 +8897,12 @@
             "state" : "translated",
             "value" : "Tijd maken voor jezelf,\ndaar is jij een kampioen in."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Znajdujesz czas dla siebie,\nbo ty wiesz, co jest ważne."
+          }
         }
       }
     },
@@ -8643,6 +9033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sportkleding aan en jij ziet eruit\nalsof je een fotoshoot hebt!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W dresie ty wyglądasz\njak z okładki magazynu."
           }
         }
       }
@@ -8775,6 +9171,12 @@
             "state" : "translated",
             "value" : "De sportschool is een paradijs\nsinds jij er rondloopt."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siłownia dziś zyskała gwiazdę:\nty."
+          }
         }
       }
     },
@@ -8905,6 +9307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Altijd weer zo goed, hoe blijf jij\nzo geweldig, ook tijdens het sporten?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Świecisz nawet na bieżni,\njak ty to robisz?"
           }
         }
       }
@@ -9037,6 +9445,12 @@
             "state" : "translated",
             "value" : "Bestaat er iemand die zweet en mooi blijft?\nJazeker, en dat ben jij."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piękny w pocie? Nie wierzę,\nale ty to udowadniasz co dzień."
+          }
         }
       }
     },
@@ -9167,6 +9581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoe jij naar je werk gaat,\nwat een uitstraling!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W drodze do pracy ty\nwyglądasz jak profesjonalista."
           }
         }
       }
@@ -9299,6 +9719,12 @@
             "state" : "translated",
             "value" : "Vroeg op pad, daarom ben jij\nechte klasse."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Od rana w ruchu, a ty\nto maszyna sukcesu."
+          }
         }
       }
     },
@@ -9429,6 +9855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ook vandaag stap jij weer richting werk,\ndus je hebt al gewonnen!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do pracy jedziesz,\na ty to od rana zwycięzca."
           }
         }
       }
@@ -9561,6 +9993,12 @@
             "state" : "translated",
             "value" : "Elke stap die jij zet\nis iets waard."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Każdy twój krok ma sens,\na ty idziesz jak po czerwonym dywanie."
+          }
         }
       }
     },
@@ -9691,6 +10129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Een gewone route wordt speciaal\nzodra jij meereist."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Korki, tłok i spóźnienia,\nale ty to sam urok."
           }
         }
       }
@@ -9823,6 +10267,12 @@
             "state" : "translated",
             "value" : "Verantwoordelijk naar je werk,\nwat een held ben jij."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odpowiedzialność to twoje drugie imię,\nty to chodząca solidność."
+          }
         }
       }
     },
@@ -9953,6 +10403,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sinds jij instapt\nis de metro een catwalk geworden."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metro? Wybieg modowy,\nskoro ty w nim jedziesz."
           }
         }
       }
@@ -10085,6 +10541,12 @@
             "state" : "translated",
             "value" : "In de bus stralen? Zeker, want jij\nziet eruit als een covermodel."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nawet w autobusie świecisz jak reflektor,\nty to zjawisko."
+          }
         }
       }
     },
@@ -10215,6 +10677,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als jij naar je werk loopt,\nwordt mijn ochtend meteen vrolijk."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiedy ty idziesz do pracy,\nporanek robi się piękniejszy."
           }
         }
       }
@@ -10347,6 +10815,12 @@
             "state" : "translated",
             "value" : "Zelfs wandelend ben jij\neen topfiguur."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idziesz i już jest pięknie,\nty to człowiek-zjawisko."
+          }
         }
       }
     },
@@ -10477,6 +10951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Goed gedaan vandaag!\nTijd voor de bank, vind jij ook?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dobra robota dziś, ty ikono!\nWracaj do domu i odpoczywaj."
           }
         }
       }
@@ -10609,6 +11089,12 @@
             "state" : "translated",
             "value" : "Hoe jij na werk wegloopt,\nwat een stijl!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Z biura wychodzi ktoś, kto\nzasłużył na medal: ty."
+          }
         }
       }
     },
@@ -10739,6 +11225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Op weg naar huis na een lange dag:\nechte winnaars zoals jij."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Droga do domu to twój wybieg,\nty zasługujesz na brawa."
           }
         }
       }
@@ -10871,6 +11363,12 @@
             "state" : "translated",
             "value" : "De dag is gelukt!\nTrots, hoor."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzień w pracy zaliczony,\na ty zasługujesz na owacje."
+          }
         }
       }
     },
@@ -11001,6 +11499,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nu begint de tijd voor jezelf.\nRust maar lekker uit, jij."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reszta dnia należy do ciebie,\nwięc ty tu dziś rządzisz."
           }
         }
       }
@@ -11133,6 +11637,12 @@
             "state" : "translated",
             "value" : "Na het werk komt de tijd voor jou,\ndus neem die zoals jij dat wilt."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Po pracy zrób coś dla siebie,\nbo ty na to zasługujesz."
+          }
         }
       }
     },
@@ -11263,6 +11773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je mag naar huis, jij kanjer.\nGoed gewerkt!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koniec pracy, a ty nadal\nwyglądasz jak nówka sztuka."
           }
         }
       }
@@ -11395,6 +11911,12 @@
             "state" : "translated",
             "value" : "Zelfs onderweg naar huis zie jij er mooi uit,\nwat een dag was dit."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nawet chodnik ma dziś dobry dzień,\nbo ty po nim wracasz."
+          }
         }
       }
     },
@@ -11525,6 +12047,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als jij naar huis loopt,\nzie je dat de dag de moeite waard was."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Po całym dniu ty ciągle w formie?\nSzacunek, szefie."
           }
         }
       }
@@ -11657,6 +12185,12 @@
             "state" : "translated",
             "value" : "Een zware dag, maar jij\nblijft gewoon de allerbeste."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzień był ciężki, ale ty\nwciąż jesteś w czołówce."
+          }
         }
       }
     },
@@ -11787,6 +12321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je hebt je voorbereid,\ndus jij gaat dit goed doen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nauka za tobą,\nwięc ty dasz radę z klasą."
           }
         }
       }
@@ -11919,6 +12459,12 @@
             "state" : "translated",
             "value" : "Hard werk? Daar hoeft jij nooit\nbang voor te zijn, het loont altijd."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wysiłek się opłaca,\ni ty jesteś na to dowodem."
+          }
         }
       }
     },
@@ -12049,6 +12595,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spanning is prima.\nWant jij bent allang klaar!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stres jest normalny,\nale ty masz to w małym palcu."
           }
         }
       }
@@ -12181,6 +12733,12 @@
             "state" : "translated",
             "value" : "Zo'n toets bepaalt niet\nwat jij waard bent."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Egzamin nie ocenia twojej wartości,\nbo ty wykraczasz poza skalę."
+          }
         }
       }
     },
@@ -12311,6 +12869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wat jij hebt gedaan\nis je beste, dus het is al gelukt."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wszystko, co trzeba, już zrobione,\na ty możesz odetchnąć."
           }
         }
       }
@@ -12443,6 +13007,12 @@
             "state" : "translated",
             "value" : "Als iemand het kan,\ndan is het jij!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poradzisz sobie,\nbo ty to materiał na piątkę."
+          }
         }
       }
     },
@@ -12573,6 +13143,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Diep ademhalen en vertrouwen\nop alles wat jij kunt."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wdech, wydech i do dzieła,\nty znasz to na pamięć."
           }
         }
       }
@@ -12705,6 +13281,12 @@
             "state" : "translated",
             "value" : "Succes met je toets!\nVolgens mij ben jij prima voorbereid."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Powodzenia na egzaminie,\nbo ty to czysta wiedza."
+          }
         }
       }
     },
@@ -12835,6 +13417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Maak je niet druk,\nwant jij weet vast alle antwoorden!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bez paniki, ty zaznaczysz\nsame dobre odpowiedzi."
           }
         }
       }
@@ -12967,6 +13555,12 @@
             "state" : "translated",
             "value" : "Zenuwachtig? Toch blijf jij\nde allerbeste."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stres jest, ale\nty i tak jesteś najlepszą wersją siebie."
+          }
         }
       }
     },
@@ -13097,6 +13691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zelfs het tentamenpapier valt stil\nzodra jij binnenkomt."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nawet arkusz egzaminacyjny zachwyci się,\ngdy zobaczy, że ty go rozwiązujesz."
           }
         }
       }
@@ -13229,6 +13829,12 @@
             "state" : "translated",
             "value" : "Nu is het moment om\nte laten zien wat jij kunt!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Czas na pokaz prawdziwej klasy,\nczyli ty w akcji."
+          }
         }
       }
     },
@@ -13359,6 +13965,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "De interviewer boft maar,\nwant jij komt als kandidaat!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rekruter ma dziś dzień szczęścia,\nbo trafił na ciebie, ty talencie."
           }
         }
       }
@@ -13491,6 +14103,12 @@
             "state" : "translated",
             "value" : "Nu gaan jouw ervaring en passie schitteren,\nwant dat is wat jij doet!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doświadczenie plus pasja\nrówna się ty w pełnym blasku."
+          }
         }
       }
     },
@@ -13621,6 +14239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zenuwen zijn oké.\nWant jij bent al geweldig genoeg!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trema to normalna sprawa,\na ty i tak jesteś rewelacją."
           }
         }
       }
@@ -13753,6 +14377,12 @@
             "state" : "translated",
             "value" : "Zelfverzekerd naar binnen!\nVolgens mij ben jij helemaal klaar."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wejdź z podniesioną głową,\nbo ty to materiał na etat."
+          }
         }
       }
     },
@@ -13883,6 +14513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vertel je verhaal\nlekker trots en helder, zoals jij kunt."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opowiedz swoją historię z dumą,\nty to potrafisz."
           }
         }
       }
@@ -14015,6 +14651,12 @@
             "state" : "translated",
             "value" : "Een gesprek is gewoon kennismaken,\ndus ontspan maar, jij."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To rozmowa, nie przesłuchanie,\nwyluzuj, ty to po prostu klasa."
+          }
         }
       }
     },
@@ -14145,6 +14787,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nemen ze jou niet aan? Dan hebben ze pech,\nwant jij komt maar één keer voorbij."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie zatrudnią? To strata firmy,\nbo ty i tak lśnisz."
           }
         }
       }
@@ -14277,6 +14925,12 @@
             "state" : "translated",
             "value" : "Niet je cv is indrukwekkend,\nmaar jij als geheel."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CV jest efektowne, ale\nty to dopiero osobowość."
+          }
         }
       }
     },
@@ -14407,6 +15061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vanaf het moment dat jij binnenkomt\nben je eigenlijk al aangenomen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Od progu sali ty już\nwyglądasz jak ktoś zatrudniony."
           }
         }
       }
@@ -14539,6 +15199,12 @@
             "state" : "translated",
             "value" : "Dat jij binnenkomt\nis al de halve baan."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pierwsze wrażenie to ty,\ni pół pracy już za tobą."
+          }
         }
       }
     },
@@ -14669,6 +15335,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Echt waar, vandaag straal jij\nweer extra hard!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzisiaj ty\nświecisz najmocniej."
           }
         }
       }
@@ -14801,6 +15473,12 @@
             "state" : "translated",
             "value" : "Precies zoals jij bent,\nzo ben je het aantrekkelijkst!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Urok naturalny w wersji deluxe?\nTo właśnie ty."
+          }
         }
       }
     },
@@ -14931,6 +15609,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wie bij jou is, heeft geluk.\nWant jij bent een kostbaar mens."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ludzie obok ciebie to szczęściarze,\nbo ty to skarb."
           }
         }
       }
@@ -15063,6 +15747,12 @@
             "state" : "translated",
             "value" : "Wat zie jij er zelfverzekerd uit,\nwerkelijk indrukwekkend!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pewność siebie ci służy,\nty w niej to dopiero widok."
+          }
         }
       }
     },
@@ -15193,6 +15883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dat jij vandaag lacht\nis je allersterkste wapen!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twój uśmiech to broń,\nktórą ty nosisz bez pozwolenia."
           }
         }
       }
@@ -15325,6 +16021,12 @@
             "state" : "translated",
             "value" : "Volledig jezelf zijn, dat is\nwat jij het beste doet!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wystarczy być sobą,\na ty to już szczyt możliwości."
+          }
         }
       }
     },
@@ -15455,6 +16157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zeg, jij kunt je charme\necht niet verbergen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twojego uroku nie ukryjesz,\nbo ty to latarnia morska."
           }
         }
       }
@@ -15587,6 +16295,12 @@
             "state" : "translated",
             "value" : "Date vandaag? Weet je,\njij laat een hart sneller kloppen."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dziś randka? Druga osoba\ndostanie zawału, ty to bomba."
+          }
         }
       }
     },
@@ -15717,6 +16431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wie jou mag ontmoeten,\nheeft de jackpot, en jij bent die prijs."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kto idzie na randkę z tobą,\nten ma farta, ty to jackpot."
           }
         }
       }
@@ -15849,6 +16569,12 @@
             "state" : "translated",
             "value" : "Dat date-outfit zit perfect.\nIk bel alvast een fotograaf!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strój na randkę idealny,\nty to okładka magazynu."
+          }
         }
       }
     },
@@ -15979,6 +16705,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zodra de ander ziet hoe jij eruitziet,\nis verliefd worden onvermijdelijk."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spojrzy na ciebie i się zakocha,\nbo ty to nokaut."
           }
         }
       }
@@ -16111,6 +16843,12 @@
             "state" : "translated",
             "value" : "Nog voor de date zie jij er stralend uit.\nWat doe je met zijn of haar hart?"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przed randką ty wyglądasz jak z filmu.\nCo teraz z sercem tej drugiej osoby?"
+          }
         }
       }
     },
@@ -16241,6 +16979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Natuurlijk kun jij dit!\nIk sta altijd achter je."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dasz radę, a ty\nmasz we mnie największego kibica."
           }
         }
       }
@@ -16373,6 +17117,12 @@
             "state" : "translated",
             "value" : "Elk klein stapje is het begin\nvan een grote reis!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mały krok to początek wielkiej drogi,\nty to wiesz."
+          }
         }
       }
     },
@@ -16503,6 +17253,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geef niet op.\nWant jij haalt je droom echt!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie odpuszczaj, bo ty to\nosoba, której marzenia się spełniają."
           }
         }
       }
@@ -16635,6 +17391,12 @@
             "state" : "translated",
             "value" : "De inzet van vandaag\nbouwt het succes van morgen."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzisiejsza praca buduje jutrzejszy sukces,\na ty budujesz bez przerwy."
+          }
         }
       }
     },
@@ -16765,6 +17527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zeg het maar, jij gaat\nde wereld veranderen!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twoja pasja zmieni świat,\nbo ty to potęga."
           }
         }
       }
@@ -16897,6 +17665,12 @@
             "state" : "translated",
             "value" : "Falen hoort bij winnen.\nBlijf proberen!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Potknięcie to nie klęska,\nty i tak lecisz po wygraną."
+          }
         }
       }
     },
@@ -17027,6 +17801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wat jij allemaal kunt?\nEindeloos veel!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twoje możliwości są bez końca,\na ty dopiero się rozkręcasz."
           }
         }
       }
@@ -17159,6 +17939,12 @@
             "state" : "translated",
             "value" : "Geef vandaag weer\nje beste!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dziś bierzemy się za to,\nco ty umiesz najlepiej: błyszczeć."
+          }
         }
       }
     },
@@ -17289,6 +18075,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zoals jij je best doet,\ndaar krijgt iemand weer moed van."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ktoś dziś patrzy na twój wysiłek\ni dostaje skrzydeł, ty inspiracjo."
           }
         }
       }
@@ -17421,6 +18213,12 @@
             "state" : "translated",
             "value" : "Zolang jij erbij bent komt alles goed.\nEcht waar!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wszystko się ułoży,\nskoro ty masz to w planach."
+          }
         }
       }
     },
@@ -17551,6 +18349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Blijf niet stilstaan.\nVolgens mij ben jij een fantastisch mens."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie rezygnuj,\nbo ty to materiał na bohatera."
           }
         }
       }
@@ -17683,6 +18487,12 @@
             "state" : "translated",
             "value" : "Hup, vandaag ook weer!\nWant jij gaat het redden!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do boju, ty\nogarniesz to na luzie."
+          }
         }
       }
     },
@@ -17813,6 +18623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wie weet hoe hard jij werkt,\njuicht voor je."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Każdy, kto zna twój wysiłek, klaszcze ci dziś.\nTo ty tu jesteś gwiazdą."
           }
         }
       }
@@ -17945,6 +18761,12 @@
             "state" : "translated",
             "value" : "Weet je, jij bent heel\nveel waard!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wartość? Ogromna,\nbo ty to rarytas."
+          }
         }
       }
     },
@@ -18075,6 +18897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precies zoals jij bent,\nzo is het perfect!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doskonały bez poprawek,\nbo ty to oryginał."
           }
         }
       }
@@ -18207,6 +19035,12 @@
             "state" : "translated",
             "value" : "Dat jij er bent\nis al bijzonder genoeg!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samo to, że ty istniejesz,\nto już święto."
+          }
         }
       }
     },
@@ -18337,6 +19171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zelfverzekerd blijven!\nVolgens mij ben jij een prachtmens."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Śmiało naprzód, bo ty\nto jeden z wielkich."
           }
         }
       }
@@ -18469,6 +19309,12 @@
             "state" : "translated",
             "value" : "Echt sterker dan je denkt,\nzo ben jij."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siła? Masz jej więcej, niż myślisz,\nbo ty to prawdziwy kombajn."
+          }
         }
       }
     },
@@ -18599,6 +19445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Door je eigenheid\nstraal jij zo."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twój charakter\nto ty w najlepszym wydaniu."
           }
         }
       }
@@ -18731,6 +19583,12 @@
             "state" : "translated",
             "value" : "Geloof in jezelf.\nWant jij kunt dit!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaufaj sobie, bo\nty jesteś najlepszym doradcą."
+          }
         }
       }
     },
@@ -18861,6 +19719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je bent gewoon\nvolmaakt, zoals jij bent."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ideał nie istnieje,\nale ty jesteś najbliżej."
           }
         }
       }
@@ -18993,6 +19857,12 @@
             "state" : "translated",
             "value" : "Met zoveel zelfvertrouwen ben jij\nde coolste van de hele wereld!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pewności siebie ci nie brakuje,\nty to szczyt kategorii."
+          }
         }
       }
     },
@@ -19123,6 +19993,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Veel geweldiger dan wat jij\nover jezelf denkt!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dużo więcej w tobie mocy,\nniż ty to sobie wyobrażasz."
           }
         }
       }
@@ -19255,6 +20131,12 @@
             "state" : "translated",
             "value" : "Hoor eens, jij doet het al\nhartstikke goed."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idzie ci świetnie,\na ty jeszcze nie masz pojęcia."
+          }
         }
       }
     },
@@ -19385,6 +20267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wie niet ziet wat jij uitstraalt,\nheeft blinde ogen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kto nie docenia ciebie,\nten zgubił okulary. A ty dalej lśnisz."
           }
         }
       }
@@ -19517,6 +20405,12 @@
             "state" : "translated",
             "value" : "Vandaag lekker\nontspannen doen."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzisiaj sobie odpuść,\nbo ty zasługujesz na wolne."
+          }
         }
       }
     },
@@ -19647,6 +20541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ook jij hebt\neven rust nodig."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odpoczynek ci się należy,\nty to wiesz."
           }
         }
       }
@@ -19779,6 +20679,12 @@
             "state" : "translated",
             "value" : "Niks doen mag\nvandaag gewoon."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nic nie robić też można,\nty to robisz z klasą."
+          }
         }
       }
     },
@@ -19909,6 +20815,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoe jij je voelt\nis het allerbelangrijkste."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Najważniejszy jest twój spokój,\na ty jesteś jego strażnikiem."
           }
         }
       }
@@ -20041,6 +20953,12 @@
             "state" : "translated",
             "value" : "Rustig aan, als jij maar\nin je eigen tempo gaat."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Powoli, we własnym tempie,\nty ustalasz zasady."
+          }
         }
       }
     },
@@ -20171,6 +21089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vandaag neem jij de tijd\nvoor jezelf."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dziś na szczycie zadań:\nty i odpoczynek."
           }
         }
       }
@@ -20303,6 +21227,12 @@
             "state" : "translated",
             "value" : "Rusten is ook\neen soort productiviteit!"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odpoczynek to też praca,\na ty robisz to wzorowo."
+          }
         }
       }
     },
@@ -20433,6 +21363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uitrusten is je recht.\nGa vandaag maar lekker liggen, jij."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masz prawo odpocząć,\nty to wiesz, więc leż."
           }
         }
       }
@@ -20565,6 +21501,12 @@
             "state" : "translated",
             "value" : "Zelfs als jij chillt,\nben je prachtig."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odpoczywasz? Nawet wtedy ty\nwyglądasz zjawiskowo."
+          }
         }
       }
     },
@@ -20695,6 +21637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vandaag mag jij\neens aan jezelf denken."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dziś dogadzaj sobie,\nbo ty to numer jeden."
           }
         }
       }
@@ -20827,6 +21775,12 @@
             "state" : "translated",
             "value" : "Lekker relaxen en toch\nblijf jij stralen."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nawet na kanapie świecisz,\nty to gwiazda domowego zacisza."
+          }
         }
       }
     },
@@ -20957,6 +21911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ook tijdens het bijtanken ben jij\nde mooiste van het land."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nawet w trybie relaksu\nty to najpiękniejsza wersja siebie."
           }
         }
       }
@@ -21089,6 +22049,12 @@
             "state" : "translated",
             "value" : "Perfect, op één puntje na:\nje maakt me volledig sprakeloos."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Szukam wad, a ty\nbez żadnej. Skandal."
+          }
         }
       }
     },
@@ -21219,6 +22185,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wat zei de persoonlijkheidstest?\nDat jij het schattigst bent."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test osobowości wyszedł jasno:\nty to słodziak z dyplomem."
           }
         }
       }
@@ -21351,6 +22323,12 @@
             "state" : "translated",
             "value" : "Handen omhoog wie denkt dat jij schattig bent!\nDe hele wereld stond meteen op."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ilu ludzi uważa, że ty to słodziak?\nNie wiem, zabrakło palców."
+          }
         }
       }
     },
@@ -21481,6 +22459,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als jij een tijdperk was,\nvolgde ik meteen een geschiedenisles."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skala ma siedem nut,\nale ty to ósmy cud."
           }
         }
       }
@@ -21613,6 +22597,12 @@
             "state" : "translated",
             "value" : "Moet jij naar de dokter? Nee,\njij bent de enige remedie die ik zoek."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy ty wchodzisz na tor,\nkonie stają z wrażenia."
+          }
         }
       }
     },
@@ -21743,6 +22733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elke keer dat jij lacht, hoor ik engelen.\nMijn gehoor is er beter van geworden."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prognoza: przelotne zauroczenie,\nwinowajca: ty."
           }
         }
       }
@@ -21875,6 +22871,12 @@
             "state" : "translated",
             "value" : "Mijn hart heeft maar één brandstof:\ndat ben jij, en de tank is altijd vol."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jedno paliwo mnie napędza:\nty, na sto procent."
+          }
         }
       }
     },
@@ -22005,6 +23007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zeg, jij zorgt voor een regenbui:\nmijn hart loopt over."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przy tobie serce bije jak burza,\na ty to zjawisko naturalne."
           }
         }
       }
@@ -22137,6 +23145,12 @@
             "state" : "translated",
             "value" : "Heb jij een geloof?\nWaarom ben je anders zo hemels mooi?"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W co ty wierzysz,\nże wyglądasz tak dobrze?"
+          }
         }
       }
     },
@@ -22267,6 +23281,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alles is top, maar mist er niet iets?\nOh ja, jij die voor altijd blijft."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brakuje czegoś? Nie, ty to\nkompletny zestaw."
           }
         }
       }
@@ -22399,6 +23419,12 @@
             "state" : "translated",
             "value" : "Leg die tas maar neer, jij hoeft niets te dragen.\nAlleen maar prachtig te zijn."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zostaw ten bagaż, ty\nwejdź lekko do mojego serca."
+          }
         }
       }
     },
@@ -22529,6 +23555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zeg, jij ziet er zo goed uit\ndat mijn spiegel jaloers wordt."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do ideału nic ci nie brakuje,\nbo ty to właśnie ideał."
           }
         }
       }
@@ -22661,6 +23693,12 @@
             "state" : "translated",
             "value" : "Gefotoshopt? Nee hoor,\nzo mooi ben jij gewoon echt."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taka uroda? To pewnie filtr!\nNie, ty tak naprawdę."
+          }
         }
       }
     },
@@ -22791,6 +23829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spreek jij geen Frans? Geen probleem,\njij zegt alles al met je ogen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Język obcy? Zbędny,\nbo ty to słodkość w każdym języku."
           }
         }
       }
@@ -22923,6 +23967,12 @@
             "state" : "translated",
             "value" : "Kom jij van een andere planeet?\nZo mooi bestaat niet op aarde."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mówią, że ty masz korzenie w niebie.\nPolska plus niebo."
+          }
         }
       }
     },
@@ -23053,6 +24103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Weet je wat? Jouw gelaatstrekken zijn\nscherper dan mijn toekomst."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twoje rysy są wyraźniejsze\nniż moje plany, ty rzeźbo."
           }
         }
       }
@@ -23185,6 +24241,12 @@
             "state" : "translated",
             "value" : "Even serieus: jij bent Berlijn.\nEen muur van mooi, en ik val erover."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak Kraków, ty też\nzachwycasz od pierwszego wejrzenia."
+          }
         }
       }
     },
@@ -23315,6 +24377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als jij een monument was,\nvroeg ik meteen een beschermde status aan."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klasa? Powiedzmy: ty\nto liga mistrzów."
           }
         }
       }
@@ -23447,6 +24515,12 @@
             "state" : "translated",
             "value" : "Ik hoorde dat jij een lopende lamp bent.\nNu bespaar ik op stroom."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podobno ty zasypiasz w otoczeniu komplementów.\nSłusznie!"
+          }
         }
       }
     },
@@ -23577,6 +24651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Waarom werk je nog?\nJe uitstraling doet al alles."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Po co ty pracujesz?\nUroda już robi nadgodziny."
           }
         }
       }
@@ -23709,6 +24789,12 @@
             "state" : "translated",
             "value" : "\"Stop met zo mooi zijn.\" \"Wat?\"\n\"Stop ermee.\" \"Hoe dan?\""
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przestań mi się podobać!\n- Ale jak?\n- No właśnie, ty nie umiesz."
+          }
         }
       }
     },
@@ -23839,6 +24925,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je gezicht is nationaal erfgoed.\nTentoonstelling in het Rijksmuseum volgt."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taki skarb narodowy jak ty\nmuzeum już szykuje gablotę."
           }
         }
       }
@@ -23971,6 +25063,12 @@
             "state" : "translated",
             "value" : "Naar de prijsuitreiking? Beter niet,\nwant jij wint de hoofdprijs al."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie chodź na galę nagród,\nbo ty zgarniesz wszystko."
+          }
         }
       }
     },
@@ -24101,6 +25199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fotoshoot gehad?\nOf loop jij gewoon zo rond?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sesja zdjęciowa? A może ty\njesteś po prostu chodzącą okładką?"
           }
         }
       }
@@ -24233,6 +25337,12 @@
             "state" : "translated",
             "value" : "Ik zeg het eerlijk: jij bent een popster.\nNummer één in mijn hart."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiesz, że ty jesteś idolem?\nW rankingu mojego serca numer jeden."
+          }
         }
       }
     },
@@ -24363,6 +25473,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Houd eens een handtekeningensessie.\nVolgens mij ben jij een ster."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zorganizuj spotkanie z autografami,\nbo ty zasługujesz na kolejkę fanów."
           }
         }
       }
@@ -24495,6 +25611,12 @@
             "state" : "translated",
             "value" : "Maak je debuut!\nIn mijn hart sta jij al vooraan."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zadebiutuj, bo ty\ni tak stoisz w moim sercu na środku sceny."
+          }
         }
       }
     },
@@ -24625,6 +25747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gefeliciteerd met nummer één!\nVolgens mij sta jij dagelijks bovenaan."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gratulacje pierwszego miejsca!\nA ty wygrywasz co dzień."
           }
         }
       }
@@ -24757,6 +25885,12 @@
             "state" : "translated",
             "value" : "Even poseren?\nIk wil elk moment dat jij lacht vastleggen."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fotka z tobą? Pewnie,\nale ty już jesteś jak sesja."
+          }
         }
       }
     },
@@ -24887,6 +26021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Terug van weggeweest?\nJe liet mijn hart weer opveren."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comeback roku? To ty,\nbo serce znów bije szybciej."
           }
         }
       }
@@ -25019,6 +26159,12 @@
             "state" : "translated",
             "value" : "Mag ik filmen? Want jij hebt\nelke seconde een filmmoment."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mogę nagrać fancam?\nBo ty to każda klatka hit."
+          }
         }
       }
     },
@@ -25149,6 +26295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Speel jij in een videoclip?\nJe bent al de hoofdpersoon in mijn leven."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teledysk? Nie trzeba,\nbo ty to cały film."
           }
         }
       }
@@ -25281,6 +26433,12 @@
             "state" : "translated",
             "value" : "Een realityshow? In het echt ben jij\nnog perfecter dan op beeld."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy ty jesteś w realu,\nkażdy serial przy tobie blednie."
+          }
         }
       }
     },
@@ -25411,6 +26569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dus jij bent het middelpunt?\nOveral straal jij het hardst."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centralne miejsce w kadrze?\nDla ciebie, bo ty lśnisz wszędzie."
           }
         }
       }
@@ -25543,6 +26707,12 @@
             "state" : "translated",
             "value" : "Gezicht van het jaar word je zeker.\nEen absolute topper."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nagrodę za najlepszy wygląd\nodbierasz co roku, ty rekordzisto."
+          }
         }
       }
     },
@@ -25673,6 +26843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ben jij reclamemodel?\nAls ik je zie, wil ik alles kopen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy ty pojawiasz się w reklamie,\nkażdy chce kupić wszystko."
           }
         }
       }
@@ -25805,6 +26981,12 @@
             "state" : "translated",
             "value" : "Sta je op een tijdschriftomslag?\nEigenlijk elke maand, zo'n gezicht."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kto na okładce co miesiąc?\nNo ty, bo konkurencja odpada."
+          }
         }
       }
     },
@@ -25935,6 +27117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dat charisma op het podium, is dat echt?\nOok in het gewone leven steel jij de show."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na scenie ty błyszczysz,\na w tramwaju też."
           }
         }
       }
@@ -26067,6 +27255,12 @@
             "state" : "translated",
             "value" : "Ruilen we fotokaartjes?\nIk wil alleen de set waar jij op staat."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kolekcja z twoją twarzą?\nZbieram całą serię, ty gwiazdo."
+          }
         }
       }
     },
@@ -26197,6 +27391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wanneer is de meet-and-greet?\nIk wil jou dagelijks zien."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiedy spotkanie z fanami?\nJa jestem pierwszy, ty gwiazdo."
           }
         }
       }
@@ -26329,6 +27529,12 @@
             "state" : "translated",
             "value" : "Post eens een dansvideo.\nWant jij beweegt als een kunstwerk."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poproszę choreo,\nbo ty każdym ruchem robisz sztukę."
+          }
         }
       }
     },
@@ -26459,6 +27665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Het lijkt wel een teaser.\nElke keer dat jij binnenkomt krijg ik kriebels."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zwiastun hitu? To ty:\nserce skacze od pierwszej sekundy."
           }
         }
       }
@@ -26591,6 +27803,12 @@
             "state" : "translated",
             "value" : "Ga je op wereldtournee?\nMijn hart schommelt al over de hele planeet."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy ty ruszasz w trasę,\nserce drży na pięciu lądach."
+          }
         }
       }
     },
@@ -26721,6 +27939,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Teken even mijn album,\nwant jij bent zelf al een limited edition."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autograf na płycie poproszę,\nbo ty to edycja limitowana."
           }
         }
       }
@@ -26853,6 +28077,12 @@
             "state" : "translated",
             "value" : "Lichtstok aan.\nIk juich een leven lang, en jij bent de reden."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapalam lightstick,\nbo ty to gwiazda mojego wieczoru."
+          }
         }
       }
     },
@@ -26983,6 +28213,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Viral gegaan? Niet vreemd,\nwant jij was allang een legende."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rozgłos? Spoko, bo ty\nlegenda od zawsze, świat dopiero łapie."
           }
         }
       }
@@ -27115,6 +28351,12 @@
             "state" : "translated",
             "value" : "Concertkaartje nodig? Nee hoor,\njij bent mijn dagelijkse concert."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wejściówki na koncert są drogie,\nale ty dajesz show za darmo."
+          }
         }
       }
     },
@@ -27245,6 +28487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nummer één in de hitlijsten?\nMaakt niet uit, jij bent de nummer één van mijn leven."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nawet lista przebojów\nwie, że ty to numer jeden."
           }
         }
       }
@@ -27377,6 +28625,12 @@
             "state" : "translated",
             "value" : "Nog één toegift graag.\nWant als jij erbij bent, is het nooit genoeg."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bis! Jeszcze raz,\nbo ty to piosenka na repeat."
+          }
         }
       }
     },
@@ -27507,6 +28761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zelfs achter de schermen perfect.\nElk moment een legende, jij."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nawet kadry zza kulis wychodzą ci super,\nty to naturalna gwiazda."
           }
         }
       }
@@ -27639,6 +28899,12 @@
             "state" : "translated",
             "value" : "Ik moet mijn favoriet vervangen.\nWant sinds jij er bent, zie ik niemand anders."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muszę zmienić faworyta:\nod dziś to ty."
+          }
         }
       }
     },
@@ -27769,6 +29035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ik ben fan geworden.\nEn jij bent voor altijd mijn favoriet."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oficjalnie zapisuję się do fanklubu,\nty jesteś prezesem."
           }
         }
       }
@@ -27901,6 +29173,12 @@
             "state" : "translated",
             "value" : "Mijn favoriet wordt bekendgemaakt.\nHet is jij, natuurlijk."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mój faworyt? Odsłaniam kartę:\nty."
+          }
         }
       }
     },
@@ -28031,6 +29309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle merchandise gekocht,\nmaar jij bent zelf het mooiste souvenir."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Najlepszy gadżet w historii\nto ty, wersja limitowana."
           }
         }
       }
@@ -28163,6 +29447,12 @@
             "state" : "translated",
             "value" : "Een leven lang fan.\nWant jij blijft mijn eeuwige artiest."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Będę twoim fanem do końca,\nbo ty to ikona stulecia."
+          }
         }
       }
     },
@@ -28293,6 +29583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mijn thuisbasis gevonden.\nDie ben jij."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wybieram na zawsze jedną gwiazdę:\nty."
           }
         }
       }
@@ -28425,6 +29721,12 @@
             "state" : "translated",
             "value" : "Ik begin aan mijn fanleven.\nWant jij bent mijn eerste en enige missie."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaczynam fanowanie,\nbo ty to cel na lata."
+          }
         }
       }
     },
@@ -28555,6 +29857,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ik word je fotograaf.\nIk wil elk moment dat jij lacht vastleggen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oficjalnie zostaję twoim fotografem,\nbo ty zasługujesz na każdą klatkę."
           }
         }
       }
@@ -28687,6 +29995,12 @@
             "state" : "translated",
             "value" : "Het is gezelligheidstijd.\nElk uur dat jij er bent is goud waard."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Złota godzina? To każda,\ngdy ty jesteś obok."
+          }
         }
       }
     },
@@ -28817,6 +30131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ik plaats een verjaardagsadvertentie.\nWat als jij elke dag jarig was?"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Billboard urodzinowy dla ciebie?\nBiorę, bo ty świętujesz codziennie."
           }
         }
       }
@@ -28949,6 +30269,12 @@
             "state" : "translated",
             "value" : "Ik juich een leven lang.\nWant dat jij bestaat, maakt me trots."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kibicuję ci do końca świata,\nbo ty to największa duma."
+          }
         }
       }
     },
@@ -29079,6 +30405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als jij binnenkomt, klopt mijn hart\nin dubbele snelheid."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serce bije szybciej,\nodkąd ty pojawiasz się na horyzoncie."
           }
         }
       }
@@ -29211,6 +30543,12 @@
             "state" : "translated",
             "value" : "Zodra jij in beeld komt,\nis de wereld mooi."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy ty jesteś w pobliżu,\nświat robi się piękniejszy."
+          }
         }
       }
     },
@@ -29341,6 +30679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voor mij ben jij de vitamine\nvan mijn geluk."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dla mnie ty to witamina\nszczęścia na cały dzień."
           }
         }
       }
@@ -29473,6 +30817,12 @@
             "state" : "translated",
             "value" : "Als jij lacht,\nlach ik vrolijk mee."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiedy ty się śmiejesz,\nja uśmiecham się razem z tobą."
+          }
         }
       }
     },
@@ -29603,6 +30953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Echt, jij bent de helderste ster\ndie ik ooit zag."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wśród milionów gwiazd\nnajjaśniejsza to ty."
           }
         }
       }
@@ -29735,6 +31091,12 @@
             "state" : "translated",
             "value" : "Elke dag dat jij er bent voelt\nals een feest in mijn hart."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Każdy dzień z tobą to festiwal,\na ty jesteś gwiazdą wieczoru."
+          }
         }
       }
     },
@@ -29865,6 +31227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zodra jij iets zegt\nben ik meteen blij."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wystarczy, że usłyszę twój głos,\na ty już poprawiasz mi humor."
           }
         }
       }
@@ -29997,6 +31365,12 @@
             "state" : "translated",
             "value" : "Ik vind dat jij het grootste geluk\nin mijn leven bent."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W moim życiu największy fart\nto ty."
+          }
         }
       }
     },
@@ -30127,6 +31501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Omdat jij er bent\nkan ik vandaag weer lachen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uśmiecham się dzisiaj,\nbo ty jesteś na świecie."
           }
         }
       }
@@ -30259,6 +31639,12 @@
             "state" : "translated",
             "value" : "Voor mij ben jij de\nbelangrijkste mens op aarde."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Najważniejszy człowiek na świecie\nto ty."
+          }
         }
       }
     },
@@ -30389,6 +31775,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als ik denk aan hoe jij lacht,\nlach ik vanzelf mee."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na samą myśl o tobie robi się miło,\nty to czysta magia."
           }
         }
       }
@@ -30521,6 +31913,12 @@
             "state" : "translated",
             "value" : "Zeg het maar, jij bent de rust\nin mijn hoofd."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dla mojej duszy ty\nto kojący spokój."
+          }
         }
       }
     },
@@ -30651,6 +32049,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elke tijd die jij met me doorbrengt\nis bijzonder."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Czas z tobą zawsze jest wyjątkowy,\nbo ty to specjalna osoba."
           }
         }
       }
@@ -30783,6 +32187,12 @@
             "state" : "translated",
             "value" : "Ik moet het zeggen: jij bent de gaafste mens\ndie ik ken."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wśród wszystkich, których znam,\nty to numer jeden na liście."
+          }
         }
       }
     },
@@ -30913,6 +32323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dat jij er gewoon bent,\nis al reden tot dank."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samo to, że jesteś,\nto już prezent, ty skarbie."
           }
         }
       }
@@ -31045,6 +32461,12 @@
             "state" : "translated",
             "value" : "Het hoogtepunt van mijn dag?\nDat is jij, zonder twijfel."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Najlepszy moment mojego dnia?\nTo ty."
+          }
         }
       }
     },
@@ -31175,6 +32597,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Omdat jij er bent\nis elke dag een beetje speciaal."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzień wygląda lepiej,\nodkąd ty w nim jesteś."
           }
         }
       }
@@ -31307,6 +32735,12 @@
             "state" : "translated",
             "value" : "Als jij de kamer binnenkomt,\nwordt de wereld lichter."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rozjaśniasz wszystko,\nbo ty to żywe słońce."
+          }
         }
       }
     },
@@ -31437,6 +32871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Het mooiste cadeau van mijn leven?\nDat ben jij."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Najlepszy prezent od losu?\nOczywiście ty."
           }
         }
       }
@@ -31569,6 +33009,12 @@
             "state" : "translated",
             "value" : "Ik zweer het: als jij er bent\nis de wereld nog een stuk mooier."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Świat jest piękniejszy,\nbo ty na nim mieszkasz."
+          }
         }
       }
     },
@@ -31699,6 +33145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ik kan me geen dag voorstellen\nwaarin jij ontbreekt."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzień bez ciebie? Nie dla mnie,\nty to mój tlen."
           }
         }
       }
@@ -31831,6 +33283,12 @@
             "state" : "translated",
             "value" : "In mijn hart blijf jij altijd\nnummer één."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W moim sercu numer jeden:\nty. Bez konkurencji."
+          }
         }
       }
     },
@@ -31961,6 +33419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wanneer jij naast me staat,\nlijkt alles mogelijk."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Z tobą mogę wszystko,\nbo ty to moja supermoc."
           }
         }
       }
@@ -32093,6 +33557,12 @@
             "state" : "translated",
             "value" : "Elke dag ben ik dankbaar\nomdat jij er bent."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Codziennie dziękuję losowi,\nże ty istniejesz."
+          }
         }
       }
     },
@@ -32223,6 +33693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als jij lacht, is dat\nmooier dan wat dan ook ter wereld."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ten uśmiech to arcydzieło,\na ty jesteś jego autorem."
           }
         }
       }
@@ -32355,6 +33831,12 @@
             "state" : "translated",
             "value" : "Echt, jij bent de grootste\nzegen in mijn leven."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Największe błogosławieństwo\nw moim życiu to ty."
+          }
         }
       }
     },
@@ -32485,6 +33967,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elke keer dat jij in mijn gedachten komt,\nis mijn dag meteen goed."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy ty pojawiasz się w myślach,\ncały dzień robi się lepszy."
           }
         }
       }
@@ -32617,6 +34105,12 @@
             "state" : "translated",
             "value" : "Voor mijn hart ben jij\nde thuishaven."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moje serce czuje się jak w domu,\ngdy ty jesteś blisko."
+          }
         }
       }
     },
@@ -32747,6 +34241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zodra jij erbij bent\nis alles ineens perfect."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy ty jesteś obok,\nwszystko po prostu gra."
           }
         }
       }
@@ -32879,6 +34379,12 @@
             "state" : "translated",
             "value" : "Eerlijk, jij bent precies de droom\ndie ik ooit had."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ideał z moich marzeń?\nTo ty, w wersji deluxe."
+          }
         }
       }
     },
@@ -33009,6 +34515,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Telkens als jij lacht,\nlijkt mijn hart kapot te gaan."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy ty wchodzisz do pokoju,\nserce wywala błąd."
           }
         }
       }
@@ -33141,6 +34653,12 @@
             "state" : "translated",
             "value" : "Kijk, jij bent een wandelend geschiedenisboek.\nIemand voor de eeuwigheid."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak ty chodzisz,\nhistoria zapisuje nowy rozdział."
+          }
         }
       }
     },
@@ -33271,6 +34789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Waar jij charme uitdeelt,\nwil ik voor altijd in de rij staan."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magnes? To ty:\ntrzymasz mnie przy sobie bez wysiłku."
           }
         }
       }
@@ -33403,6 +34927,12 @@
             "state" : "translated",
             "value" : "Zo lang kijken naar jou?\nDan krijg jij mij met een stijve nek."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gapię się na ciebie bez przerwy,\ni to ty odpowiadasz za mój kark."
+          }
         }
       }
     },
@@ -33533,6 +35063,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elke keer dat jij lacht,\nstijgt mijn hartslag."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy ty przechodzisz obok,\npuls skacze jak szalony."
           }
         }
       }
@@ -33665,6 +35201,12 @@
             "state" : "translated",
             "value" : "Voor mijn ogen ben jij\neen legendarische fotoreportage."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dla moich oczu ty\nto sesja okładkowa."
+          }
         }
       }
     },
@@ -33795,6 +35337,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sinds jij in mijn leven bent\nis elke dag een feestdag."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odkąd ty jesteś obok,\nkażdy dzień to moje święto."
           }
         }
       }
@@ -33927,6 +35475,12 @@
             "state" : "translated",
             "value" : "Ik weet het zeker: jij bent een\nlopend wonder."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Żywy cud?\nTo ty, w pełnej okazałości."
+          }
         }
       }
     },
@@ -34057,6 +35611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wanneer jij voorbijloopt,\ngaat de wereld in slowmotion."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy ty wchodzisz do pokoju,\nczas zwalnia jak w filmie."
           }
         }
       }
@@ -34189,6 +35749,12 @@
             "state" : "translated",
             "value" : "In mijn leven ben jij het\nVIP-lidmaatschap."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W moim życiu ty to\nkarta VIP bez limitu."
+          }
         }
       }
     },
@@ -34319,6 +35885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mijn dagelijkse hoogtepunt?\nDat is als jij verschijnt."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gdy ty jesteś w kadrze,\nreszta dnia to dodatek."
           }
         }
       }
@@ -34451,6 +36023,12 @@
             "state" : "translated",
             "value" : "In mijn hart ben jij\nde premium content."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dla mojej duszy ty\nto treść premium bez reklam."
+          }
         }
       }
     },
@@ -34581,6 +36159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sinds jij er bent\nzie ik de wereld in HD."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odkąd ty jesteś w pobliżu,\nświat ma wyższą rozdzielczość."
           }
         }
       }
@@ -34713,6 +36297,12 @@
             "state" : "translated",
             "value" : "Zeg maar eerlijk, jij bent het\ngouden moment van mijn leven."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Najlepsze chwile dnia\nto te, w których ty się pojawiasz."
+          }
         }
       }
     },
@@ -34843,6 +36433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Als ik denk aan wat jij allemaal doet,\nlach ik automatisch."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wystarczy myśl o tobie,\ni uśmiech włącza się sam, bo ty tak działasz."
           }
         }
       }
@@ -34975,6 +36571,12 @@
             "state" : "translated",
             "value" : "Mijn hart is een vijfsterrenhotel\nen jij bent de enige gast."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dla mojego serca ty\nto pięciogwiazdkowy hotel."
+          }
         }
       }
     },
@@ -35105,6 +36707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Doordat jij er bent\nis elke dag een extra mooie dag."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Każdy dzień to dzień premium,\ngdy ty jesteś w pobliżu."
           }
         }
       }
@@ -35237,6 +36845,12 @@
             "state" : "translated",
             "value" : "In mijn leven ben jij\nhet grote evenement."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W filmie mojego życia ty\nto główna rola."
+          }
         }
       }
     },
@@ -35367,6 +36981,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Telkens als jij binnenstapt,\ndanst mijn hart."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na twój widok serce tańczy,\ni ty nawet nie musisz grać muzyki."
           }
         }
       }
@@ -35499,6 +37119,12 @@
             "state" : "translated",
             "value" : "Als jij in beeld komt,\nis alles ineens 4K."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4K? Dla moich oczu\nty to jakość ponad skalę."
+          }
         }
       }
     },
@@ -35629,6 +37255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wanneer jij er maar bent,\nlijkt de hele wereld te stralen."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Świat lśni kolorami,\nkiedy ty patrzysz w moją stronę."
           }
         }
       }
@@ -35761,6 +37393,12 @@
             "state" : "translated",
             "value" : "Op de ereplaats van mijn hart\nzit niemand anders dan jij."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lista VIP w moim sercu\nma jedną osobę: ty."
+          }
         }
       }
     },
@@ -35891,6 +37529,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elke dag is een beetje speciaal\nzolang jij er bent."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przez ciebie dzień robi się wyjątkowy,\ni ty nawet palcem nie ruszasz."
           }
         }
       }
@@ -36023,6 +37667,12 @@
             "state" : "translated",
             "value" : "Mijn troefkaart in het leven?\nDat ben jij."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dla mnie ty to\nas w rękawie."
+          }
         }
       }
     },
@@ -36153,6 +37803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mijn humeur gaat omhoog\nzodra jij ergens in de buurt bent."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiedy ty się pojawiasz,\nmój nastrój robi aktualizację."
           }
         }
       }
@@ -36285,6 +37941,12 @@
             "state" : "translated",
             "value" : "Op plek één in mijn eregalerij\nstaat jij, en niemand anders."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "W moim sercu jest Aleja Sław,\ngdzie pierwsza gwiazda to ty."
+          }
         }
       }
     },
@@ -36415,6 +38077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sinds jij er bent\nis mijn leven in volle kleur."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Życie bez ciebie jest czarno-białe,\nale ty dajesz mu pełnię barw."
           }
         }
       }
@@ -36547,6 +38215,12 @@
             "state" : "translated",
             "value" : "De grootste legende aller tijden?\nDat ben jij, voor mijn ogen."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klasyk wszech czasów?\nOczywiście ty."
+          }
         }
       }
     },
@@ -36678,6 +38352,12 @@
             "state" : "translated",
             "value" : "Als jij door de deur loopt\nlijkt de tijd stil te staan."
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nawet czas robi przerwę,\nżeby popatrzeć, jak ty idziesz."
+          }
         }
       }
     },
@@ -36808,6 +38488,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mijn levenspas met alle voordelen\nben jij, voor altijd."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dożywotni karnet na ciebie?\nBiorę, bo ty to najlepsza oferta."
           }
         }
       }

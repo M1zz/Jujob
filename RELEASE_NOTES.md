@@ -127,3 +127,9 @@ Send feil og ideer på e-post
 Complimenten nu in meer talen
 De maker mailen kan via Instellingen
 Bugs en ideeën? Mail of Instagram
+
+### 앱스토어 (폴란드어)
+
+Peany są teraz w wielu językach świata
+Z ustawień napiszesz prosto do twórcy
+Błędy i pomysły wyślij mailem lub na IG

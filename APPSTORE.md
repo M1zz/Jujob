@@ -948,3 +948,48 @@ Wat je kunt doen
 
 Je privacy blijft van jou. De app verzamelt geen persoonlijke gegevens. Je naam, favorieten en instellingen blijven alleen op je eigen toestel.
 Bugs of ideeën? Stuur ze via Instellingen per mail of Instagram naar de maker.
+
+## pl
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/pl/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/pl/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/pl/index.html
+
+### 이름
+
+Dzienna Dawka Peanów
+
+### 부제
+
+Pochwały z grubej rury
+
+### 키워드
+
+widżet,wsparcie,samoocena,afirmacje,nastrój,zachęta,humor,śmieszne,relaks,randka,egzamin,odwaga
+
+### 프로모션 텍스트
+
+Ktoś w końcu musi cię nazwać legendą, więc robi to widżet na ekranie głównym! Peany na każdy nastrój, a nawet z twoim imieniem.
+
+### 설명
+
+Dzienna Dawka Peanów to widżet, który zasypuje cię przesadnymi pochwałami wprost na ekranie głównym. Kilka razy dziennie dostajesz porcję zachwytów, po której trudno się nie uśmiechnąć.
+Na dobry nastrój, na stres, na rozmowę o pracę albo na gorszy dzień: 281 peanów czeka na swoją kolej.
+
+Co potrafi aplikacja
+- Widżet na ekran główny: dopasuj rozmiar, czcionkę, kolor tekstu, obraz tła, wyrównanie, interlinię i częstotliwość odświeżania.
+- Wybór nastroju i sytuacji: rano, droga do pracy, przed rozmową kwalifikacyjną, przed egzaminem, przed treningiem, przed randką, droga z pracy, wieczór, trudny moment, relaks, pewność siebie i zapał.
+- Twoje imię: w peanach słowo "ty" zamienia się w twoje imię, a ty zyskujesz własnego, przesadnie zakochanego fana.
+- Ulubione i historia: ulubione peany zapisujesz gwiazdką, a te, które już widziałeś, znajdziesz w historii.
+- Seria dni i osiągnięcia: zaglądaj przez 7, 30 i 100 dni z rzędu, a odblokujesz wyjątkowe nagrody.
+
+Nie zbieramy żadnych danych osobowych. Imię, ulubione i ustawienia zostają wyłącznie na twoim urządzeniu.
+Błędy i pomysły możesz wysłać z ustawień, mailem albo przez Instagram.

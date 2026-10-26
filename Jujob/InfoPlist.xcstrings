@@ -130,6 +130,12 @@
             "state" : "translated",
             "value" : "Dagelijkse Hypeman"
           }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzienna Dawka Peanów"
+          }
         }
       }
     },
@@ -261,6 +267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dagelijkse Hypeman"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzienna Dawka Peanów"
           }
         }
       }
