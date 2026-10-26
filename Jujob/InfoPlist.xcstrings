@@ -76,6 +76,12 @@
             "state" : "translated",
             "value" : "Elogio Exagerado"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ชมเว่อร์ทุกวัน"
+          }
         }
       }
     },
@@ -153,6 +159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elogio Exagerado"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ชมเว่อร์ทุกวัน"
           }
         }
       }

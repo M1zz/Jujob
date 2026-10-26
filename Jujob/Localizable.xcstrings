@@ -71,6 +71,12 @@
             "state" : "translated",
             "value" : "%lld dias"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld วัน"
+          }
         }
       }
     },
@@ -140,6 +146,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Já são 100 elogios vistos,\nagora você é mestre de verdade!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ครบ 100 คำชมแล้ว คุณคือ\nเซียนตัวจริงเลยนะ!"
           }
         }
       }
@@ -211,6 +223,12 @@
             "state" : "translated",
             "value" : "100 dias seguidos de elogios!"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เข้ามาดูคำชมต่อเนื่อง 100 วันแล้ว!"
+          }
         }
       }
     },
@@ -280,6 +298,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Milagre de 100 dias! Sua constância\nmudou o mundo!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปาฏิหาริย์ 100 วัน! ความสม่ำเสมอ\nของคุณเปลี่ยนโลกแล้ว!"
           }
         }
       }
@@ -351,6 +375,12 @@
             "state" : "translated",
             "value" : "100 dias de jornada juntos,\ne você é simplesmente demais!"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เราผ่าน 100 วันมาด้วยกัน\nคุณนี่สุดยอดจริงๆ!"
+          }
         }
       }
     },
@@ -420,6 +450,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 min"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 นาที"
           }
         }
       }
@@ -491,6 +527,12 @@
             "state" : "translated",
             "value" : "30 min"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 นาที"
+          }
         }
       }
     },
@@ -560,6 +602,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "30 dias seguidos de elogios!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เข้ามาดูคำชมต่อเนื่อง 30 วันแล้ว!"
           }
         }
       }
@@ -631,6 +679,12 @@
             "state" : "translated",
             "value" : "30 dias firme e forte por aqui,\nvocê é o melhor!"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มาหากันทุกวันตลอด 30 วัน\nคุณนี่ที่หนึ่งเลย!"
+          }
         }
       }
     },
@@ -700,6 +754,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "50 elogios vistos! Haja\nentusiasmo, hein?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดูคำชมครบ 50 ข้อแล้ว\nคุณนี่ไฟแรงจริงๆ!"
           }
         }
       }
@@ -771,6 +831,12 @@
             "state" : "translated",
             "value" : "5 min"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 นาที"
+          }
         }
       }
     },
@@ -841,6 +907,12 @@
             "state" : "translated",
             "value" : "7 dias seguidos de elogios!"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เข้ามาดูคำชมต่อเนื่อง 7 วันแล้ว!"
+          }
         }
       }
     },
@@ -910,6 +982,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uma semana juntos!\nBora continuar assim?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เราอยู่ด้วยกันมา 7 วันแล้ว\nไปต่อด้วยกันนะ!"
           }
         }
       }
@@ -987,6 +1065,12 @@
             "state" : "translated",
             "value" : "Restaurar compras"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กู้คืนการซื้อ"
+          }
         }
       }
     },
@@ -1062,6 +1146,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escolha uma categoria"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เลือกหมวดหมู่"
           }
         }
       }
@@ -1139,6 +1229,12 @@
             "state" : "translated",
             "value" : "Escolha uma fonte"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เลือกฟอนต์"
+          }
         }
       }
     },
@@ -1214,6 +1310,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tutorial"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วิธีใช้งาน"
           }
         }
       }
@@ -1291,6 +1393,12 @@
             "state" : "translated",
             "value" : "Anônimo"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่ระบุชื่อ"
+          }
         }
       }
     },
@@ -1367,6 +1475,12 @@
             "state" : "translated",
             "value" : "Premium"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พรีเมียม"
+          }
         }
       }
     },
@@ -1440,6 +1554,12 @@
             "state" : "translated",
             "value" : "Falar com o dev"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ติดต่อผู้พัฒนา"
+          }
         }
       }
     },
@@ -1509,6 +1629,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cor do degradê"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สีไล่เฉด"
           }
         }
       }
@@ -1580,6 +1706,12 @@
             "state" : "translated",
             "value" : "Cor do texto"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สีตัวอักษร"
+          }
         }
       }
     },
@@ -1649,6 +1781,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escolha o humor"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เลือกอารมณ์"
           }
         }
       }
@@ -1720,6 +1858,12 @@
             "state" : "translated",
             "value" : "Baixo astral"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใจห่อเหี่ยว"
+          }
         }
       }
     },
@@ -1789,6 +1933,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eu escolho o elogio certo\npro seu humor ou momento!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เลือกคำชมที่เข้ากับ\nอารมณ์และสถานการณ์ให้เอง!"
           }
         }
       }
@@ -1860,6 +2010,12 @@
             "state" : "translated",
             "value" : "Minha jornada"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บันทึกของฉัน"
+          }
         }
       }
     },
@@ -1930,6 +2086,12 @@
             "state" : "translated",
             "value" : "Meus elogios"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จัดการคำชมของฉัน"
+          }
         }
       }
     },
@@ -1999,6 +2161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Próximo"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คำชมถัดไป"
           }
         }
       }
@@ -2071,6 +2239,12 @@
             "state" : "translated",
             "value" : "você"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณ"
+          }
         }
       }
     },
@@ -2140,6 +2314,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você já é mais\nque suficiente!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แค่เป็นคุณก็มีค่า\nมากพอแล้วนะ!"
           }
         }
       }
@@ -2211,6 +2391,12 @@
             "state" : "translated",
             "value" : "Pré-date"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ก่อนเดต"
+          }
         }
       }
     },
@@ -2280,6 +2466,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Motivação"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฮึบสู้"
           }
         }
       }
@@ -2351,6 +2543,12 @@
             "state" : "translated",
             "value" : "Aleatório"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สุ่ม"
+          }
         }
       }
     },
@@ -2420,6 +2618,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toque na estrela pra salvar\nos elogios que você mais curtir!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถูกใจคำชมไหน\nกดปุ่มดาวเก็บไว้ได้เลย!"
           }
         }
       }
@@ -2491,6 +2695,12 @@
             "state" : "translated",
             "value" : "Se ame um pouco todo dia"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รักตัวเองให้มากขึ้นทุกวัน"
+          }
         }
       }
     },
@@ -2560,6 +2770,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pré-entrevista"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ก่อนสัมภาษณ์"
           }
         }
       }
@@ -2631,6 +2847,12 @@
             "state" : "translated",
             "value" : "Prévia"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตัวอย่าง"
+          }
         }
       }
     },
@@ -2700,6 +2922,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fundo"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตั้งค่าพื้นหลัง"
           }
         }
       }
@@ -2771,6 +2999,12 @@
             "state" : "translated",
             "value" : "Imagem de fundo"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รูปพื้นหลัง"
+          }
         }
       }
     },
@@ -2840,6 +3074,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 dias!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ครบ 100 วัน!"
           }
         }
       }
@@ -2911,6 +3151,12 @@
             "state" : "translated",
             "value" : "Cem dias seguidos por aqui,\nvocê é muito especial!"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มาหากันทุกวันตลอด 100 วัน\nคุณคือคนสำคัญที่สุดในโลกเลย!"
+          }
         }
       }
     },
@@ -2980,6 +3226,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bugs e sugestões são muito bem-vindos."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยินดีรับแจ้งบั๊กและข้อเสนอแนะฟีเจอร์"
           }
         }
       }
@@ -3051,6 +3303,12 @@
             "state" : "translated",
             "value" : "Ajustes avançados"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตั้งค่าละเอียด"
+          }
         }
       }
     },
@@ -3120,6 +3378,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Atualizar a cada"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รอบการรีเฟรช"
           }
         }
       }
@@ -3191,6 +3455,12 @@
             "state" : "translated",
             "value" : "Pré-prova"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ก่อนสอบ"
+          }
         }
       }
     },
@@ -3260,6 +3530,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Manhã"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนเช้า"
           }
         }
       }
@@ -3331,6 +3607,12 @@
             "state" : "translated",
             "value" : "Role até achar o nome do app.\n\"Elogio Exagerado\""
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เลื่อนลงจนเจอชื่อแอป\n\"ชมเว่อร์ทุกวัน\""
+          }
         }
       }
     },
@@ -3400,6 +3682,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Conquistas"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความสำเร็จ"
           }
         }
       }
@@ -3471,6 +3759,12 @@
             "state" : "translated",
             "value" : "Sequência"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สถิติต่อเนื่อง"
+          }
         }
       }
     },
@@ -3540,6 +3834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Como você tá hoje?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้รู้สึกยังไงบ้าง?"
           }
         }
       }
@@ -3611,6 +3911,12 @@
             "state" : "translated",
             "value" : "Hoje também, sendo você,\né o melhor que há!"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้ก็เป็นตัวของตัวเองนะ\nแบบนั้นแหละดีที่สุด!"
+          }
         }
       }
     },
@@ -3680,6 +3986,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elogio Exagerado"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ชมเว่อร์ทุกวัน"
           }
         }
       }
@@ -3751,6 +4063,12 @@
             "state" : "translated",
             "value" : "Direita"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขวา"
+          }
         }
       }
     },
@@ -3820,6 +4138,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ei, sem desanimar! Escolha uma\nfrase pra se dar aquele ânimo!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใครมาทำน้องเราเสียกำลังใจ!\nเลือกคำปลอบใจให้ตัวเองสักคำนะ!"
           }
         }
       }
@@ -3891,6 +4215,12 @@
             "state" : "translated",
             "value" : "Esquerda"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ซ้าย"
+          }
         }
       }
     },
@@ -3960,6 +4290,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pré-treino"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ก่อนออกกำลังกาย"
           }
         }
       }
@@ -4031,6 +4367,12 @@
             "state" : "translated",
             "value" : "Ajuste o visual e a fonte do widget"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปรับหน้าตาและฟอนต์ของวิดเจ็ตได้ละเอียด"
+          }
         }
       }
     },
@@ -4100,6 +4442,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajustes do widget"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตั้งค่าวิดเจ็ต"
           }
         }
       }
@@ -4171,6 +4519,12 @@
             "state" : "translated",
             "value" : "Usar este elogio"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใช้คำชมนี้"
+          }
         }
       }
     },
@@ -4240,6 +4594,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nome"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ชื่อ"
           }
         }
       }
@@ -4311,6 +4671,12 @@
             "state" : "translated",
             "value" : "Definir nome"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตั้งชื่อ"
+          }
         }
       }
     },
@@ -4380,6 +4746,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Como posso te chamar?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บอกชื่อหน่อยนะ!"
           }
         }
       }
@@ -4451,6 +4823,12 @@
             "state" : "translated",
             "value" : "Digite seu nome"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใส่ชื่อของคุณ"
+          }
         }
       }
     },
@@ -4520,6 +4898,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Enviar e-mail"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ติดต่อทางอีเมล"
           }
         }
       }
@@ -4591,6 +4975,12 @@
             "state" : "translated",
             "value" : "Agora é só escolher o tamanho e tocar em \"Adicionar widget\"."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แค่เลือกขนาดวิดเจ็ต แล้วแตะปุ่ม \"เพิ่มวิดเจ็ต\" เท่านี้ก็เสร็จ"
+          }
         }
       }
     },
@@ -4660,6 +5050,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "DM no Instagram (@lee25_ios)"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DM อินสตาแกรม (@lee25_ios)"
           }
         }
       }
@@ -4731,6 +5127,12 @@
             "state" : "translated",
             "value" : "Antes do trampo"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ก่อนเริ่มงาน"
+          }
         }
       }
     },
@@ -4800,6 +5202,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 semana!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ครบหนึ่งสัปดาห์!"
           }
         }
       }
@@ -4871,6 +5279,12 @@
             "state" : "translated",
             "value" : "Uma semana firme por aqui,\nque orgulho de você!"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มาหากันไม่ขาดทั้งสัปดาห์\nภูมิใจในตัวคุณสุดๆ!"
+          }
         }
       }
     },
@@ -4940,6 +5354,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Autoconfiança"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มั่นใจ"
           }
         }
       }
@@ -5011,6 +5431,12 @@
             "state" : "translated",
             "value" : "Noite"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนเย็น"
+          }
         }
       }
     },
@@ -5080,6 +5506,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Salvar"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บันทึก"
           }
         }
       }
@@ -5151,6 +5583,12 @@
             "state" : "translated",
             "value" : "Sugerido por"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ผู้เสนอ"
+          }
         }
       }
     },
@@ -5220,6 +5658,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Grão-Mestre do Elogio"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แกรนด์มาสเตอร์สายชม"
           }
         }
       }
@@ -5291,6 +5735,12 @@
             "state" : "translated",
             "value" : "Mestre do Elogio"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เซียนสายชม"
+          }
         }
       }
     },
@@ -5360,6 +5810,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widget de elogios"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วิดเจ็ตชมเว่อร์"
           }
         }
       }
@@ -5431,6 +5887,12 @@
             "state" : "translated",
             "value" : "Nos elogios, no lugar de 'você',\nvou usar o seu nome!"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เราจะใส่ชื่อของคุณแทนคำว่า\n'คุณ' ในคำชมให้เอง!"
+          }
         }
       }
     },
@@ -5500,6 +5962,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ao ver um elogio,\nele entra aqui sozinho!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปิดดูคำชมเมื่อไหร่\nก็บันทึกให้อัตโนมัติ!"
           }
         }
       }
@@ -5571,6 +6039,12 @@
             "state" : "translated",
             "value" : "Centro"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กลาง"
+          }
         }
       }
     },
@@ -5640,6 +6114,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Favoritos"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รายการโปรด"
           }
         }
       }
@@ -5711,6 +6191,12 @@
             "state" : "translated",
             "value" : "Nenhum favorito ainda"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยังไม่มีรายการโปรด"
+          }
         }
       }
     },
@@ -5780,6 +6266,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 elogios vistos no total!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดูคำชมครบ 100 ข้อแล้ว!"
           }
         }
       }
@@ -5851,6 +6343,12 @@
             "state" : "translated",
             "value" : "50 elogios vistos no total!"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดูคำชมครบ 50 ข้อแล้ว!"
+          }
         }
       }
     },
@@ -5920,6 +6418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Total de dias"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จำนวนวันที่เข้าดู"
           }
         }
       }
@@ -5991,6 +6495,12 @@
             "state" : "translated",
             "value" : "Melhor sequência"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สถิติสูงสุด"
+          }
         }
       }
     },
@@ -6060,6 +6570,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ida pro trabalho"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทางไปทำงาน"
           }
         }
       }
@@ -6131,6 +6647,12 @@
             "state" : "translated",
             "value" : "Volta pra casa"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทางกลับบ้าน"
+          }
         }
       }
     },
@@ -6200,6 +6722,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonte"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฟอนต์"
           }
         }
       }
@@ -6271,6 +6799,12 @@
             "state" : "translated",
             "value" : "Ajustes da fonte"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตั้งค่าฟอนต์"
+          }
         }
       }
     },
@@ -6340,6 +6874,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1 mês!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ครบหนึ่งเดือน!"
           }
         }
       }
@@ -6411,6 +6951,12 @@
             "state" : "translated",
             "value" : "Um mês juntos, e você\né muito especial!"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เราอยู่ด้วยกันมาหนึ่งเดือนแล้ว\nคุณคือคนพิเศษจริงๆ!"
+          }
         }
       }
     },
@@ -6480,6 +7026,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entrelinha"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ระยะบรรทัด"
           }
         }
       }
@@ -6551,6 +7103,12 @@
             "state" : "translated",
             "value" : "Sequência atual"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ต่อเนื่องตอนนี้"
+          }
         }
       }
     },
@@ -6620,6 +7178,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Segure a tela inicial até os ícones tremerem e toque no ➕ no canto superior."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กดค้างที่หน้าจอโฮมจนไอคอนสั่น แล้วแตะ ➕ มุมซ้ายบนหรือขวาบน"
           }
         }
       }
@@ -6691,6 +7255,12 @@
             "state" : "translated",
             "value" : "Histórico"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประวัติ"
+          }
         }
       }
     },
@@ -6760,6 +7330,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Histórico vazio"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยังไม่มีประวัติ"
           }
         }
       }
@@ -6831,6 +7407,12 @@
             "state" : "translated",
             "value" : "Relaxar"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ผ่อนคลาย"
+          }
         }
       }
     },
@@ -6900,6 +7482,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dia difícil"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนเหนื่อย"
           }
         }
       }

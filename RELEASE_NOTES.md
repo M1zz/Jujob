@@ -73,3 +73,9 @@ Bug e idee? Scrivi via email o Instagram
 Receba elogios em vários idiomas
 Contato com o dev direto nos Ajustes
 Envie bugs e ideias por e-mail ou DM
+
+### 앱스토어 (태국어)
+
+ตอนนี้รับคำชมได้หลายภาษาแล้ว
+ติดต่อผู้พัฒนาได้ตรงจากหน้าตั้งค่า
+แจ้งบั๊กทางอีเมลหรืออินสตาแกรมได้เลย

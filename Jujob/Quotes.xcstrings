@@ -75,6 +75,12 @@
             "state" : "translated",
             "value" : "Bom dia! O sol só nasceu\nporque você acordou."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตื่นมาก็เฉิดฉายแล้ว\nคุณนี่มันตัวแม่แห่งเช้านี้"
+          }
         }
       }
     },
@@ -151,6 +157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoje o mundo tá melhor,\ne a prova é que você acordou."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตะวันยังต้องเกรงใจ\nเพราะคุณเปล่งประกายกว่า"
           }
         }
       }
@@ -229,6 +241,12 @@
             "state" : "translated",
             "value" : "Levantou da cama? Já ganhou!\nAgora é só você brilhar."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แค่ลืมตาตื่นขึ้นมา\nคุณก็ชนะไปครึ่งวันแล้ว!"
+          }
         }
       }
     },
@@ -305,6 +323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seu sorriso de manhã vale\nmais que café, e você sabe."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เช้านี้โลกสดใสขึ้น\nเพราะมีคุณอยู่บนโลกใบนี้"
           }
         }
       }
@@ -383,6 +407,12 @@
             "state" : "translated",
             "value" : "Hoje o protagonista do dia\né você, sem teste de elenco."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตัวเอกของวันนี้\nก็คือคุณ ไม่ต้องไปสมัครบทไหนเลย"
+          }
         }
       }
     },
@@ -459,6 +489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abriu os olhos e o dia pensou:\nnossa, olha só quem chegou, você!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่ต้องรอกาแฟหรอก\nแค่เห็นคุณก็ตาสว่างแล้ว"
           }
         }
       }
@@ -537,6 +573,12 @@
             "state" : "translated",
             "value" : "Café é bom, mas você de manhã\nacorda o Brasil inteiro."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ผมยุ่งๆ ตาปรือๆ\nคุณก็ยังน่ามองที่สุดอยู่ดี"
+          }
         }
       }
     },
@@ -613,6 +655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Acordou com o brilho\nno modo turbo, e você nem viu."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สวัสดีตอนเช้ายังไม่พอ\nต้องบอกว่าคุณปังตั้งแต่ตื่น"
           }
         }
       }
@@ -691,6 +739,12 @@
             "state" : "translated",
             "value" : "Acordar com essa beleza é crime,\ne você reincide todo dia."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตื่นมาหน้าเป๊ะขนาดนี้\nคุณขโมยฟิลเตอร์ใครมาเนี่ย"
+          }
         }
       }
     },
@@ -767,6 +821,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bom dia? Nada, é \"dia ótimo\",\nporque você chegou."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้ก็มีคนหนึ่ง\nที่ทำให้เช้านี้น่าตื่น คือคุณ"
           }
         }
       }
@@ -845,6 +905,12 @@
             "state" : "translated",
             "value" : "O despertador toca, mas quem\nacorda o dia de verdade é você."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "นาฬิกาปลุกดังแค่ครั้งเดียว\nคุณก็ลุกมาเป็นตำนานแล้ว"
+          }
         }
       }
     },
@@ -921,6 +987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mesmo de segunda-feira, você\nfaz a manhã parecer sábado."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยิ้มแรกของวันจากคุณ\nมีค่ากว่าหวยงวดไหนๆ"
           }
         }
       }
@@ -999,6 +1071,12 @@
             "state" : "translated",
             "value" : "Missão do dia cumprida!\nAgora você merece aplauso de pé."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เหนื่อยมาทั้งวัน\nแต่คุณก็ยังเก่งที่สุดเลยนะ"
+          }
         }
       }
     },
@@ -1075,6 +1153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoje você deu conta de tudo,\naté do que não era com você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปิดวันได้สวยมาก\nคุณนี่ทำได้ทุกอย่างจริงๆ"
           }
         }
       }
@@ -1153,6 +1237,12 @@
             "state" : "translated",
             "value" : "Fim do dia: sofá, descanso\ne você de parabéns."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้ทุ่มเทเต็มที่\nฉันภูมิใจในตัวคุณจัง"
+          }
         }
       }
     },
@@ -1229,6 +1319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Deu sono, mas o dia deu certo\nporque você apareceu."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ล้าก็ล้า แต่คุณก็รอดมา\nได้อีกวัน สุดยอด!"
           }
         }
       }
@@ -1307,6 +1403,12 @@
             "state" : "translated",
             "value" : "Cansaço é o troféu de quem\nfez tudo certo, e você fez."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทุกวันของคุณ\nมีค่าเสมอ รู้ไหม"
+          }
         }
       }
     },
@@ -1383,6 +1485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dia encerrado! Hoje você merece\nmedalha, abraço e brigadeiro."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รอดมาได้อีกวันโดยไม่เป็นอะไร\nแค่นี้คุณก็เก่งเกินพอแล้ว"
           }
         }
       }
@@ -1461,6 +1569,12 @@
             "state" : "translated",
             "value" : "As estrelas saíram só\npra copiar o seu brilho."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดาวบนฟ้ายังต้องมองตาม\nเพราะคุณเปล่งประกายไม่แพ้กัน"
+          }
         }
       }
     },
@@ -1537,6 +1651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lá fora é noite, mas você\ncontinua iluminando tudo."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ค่ำแล้วยังเปล่งประกาย\nคุณชาร์จแสงมาจากไหนเนี่ย"
           }
         }
       }
@@ -1615,6 +1735,12 @@
             "state" : "translated",
             "value" : "Boa noite pro mundo, e pra você\nmeus parabéns pelo dia."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สู้มาทั้งวัน เก่งมากนะ\nมีคุณอยู่ ฉันสบายใจ"
+          }
         }
       }
     },
@@ -1691,6 +1817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A lua tá linda hoje,\nmas você tá de outro nível."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "โลกวันนี้สวยขึ้นเยอะ\nก็เพราะมีคุณนั่นแหละ"
           }
         }
       }
@@ -1769,6 +1901,12 @@
             "state" : "translated",
             "value" : "Dia ruim ou dia bom, o saldo\nfinal é que você é demais."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กลางคืนก็ปัง กลางวันก็ปัง\nคุณคือตำนาน 24 ชั่วโมง"
+          }
         }
       }
     },
@@ -1845,6 +1983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Calma, dias ruins existem.\nMas você ainda é um espetáculo."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่เป็นไรนะ วันแย่ๆ ก็มี\nคุณทำได้ดีมากแล้ว"
           }
         }
       }
@@ -1923,6 +2067,12 @@
             "state" : "translated",
             "value" : "Respira fundo: você já\npassou por pior e venceu."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนนี้อาจเหนื่อย\nแต่คุณผ่านไปได้แน่"
+          }
         }
       }
     },
@@ -1999,6 +2149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perfeição é superestimada.\nAté porque você sendo você já é demais."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่ต้องสมบูรณ์แบบก็ได้\nแบบที่คุณเป็นอยู่ก็ดีที่สุดแล้ว"
           }
         }
       }
@@ -2077,6 +2233,12 @@
             "state" : "translated",
             "value" : "Descansar faz parte.\nVai no seu ritmo, você chega lá."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เหนื่อยก็พักได้\nเดินตามจังหวะของคุณเอง"
+          }
         }
       }
     },
@@ -2153,6 +2315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mais forte do que imagina,\né isso que você é. E eu imagino muito."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ที่จริงคุณแข็งแกร่ง\nกว่าที่คิดเยอะเลย"
           }
         }
       }
@@ -2231,6 +2399,12 @@
             "state" : "translated",
             "value" : "Isso também vai passar,\ne você vai passar por cima."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เดี๋ยวมันก็ผ่านไป\nและคุณทำได้แน่นอน"
+          }
         }
       }
     },
@@ -2307,6 +2481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dia nublado por dentro?\nPelo menos você continua valendo ouro."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใจจะห่อเหี่ยวแค่ไหน\nค่าของคุณก็ไม่ลดลงเลย"
           }
         }
       }
@@ -2385,6 +2565,12 @@
             "state" : "translated",
             "value" : "Chorar faz parte, e até\nchorando você tem estilo."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความเศร้าก็เป็นส่วนหนึ่งของคุณ\nจะรู้สึกยังไงก็ไม่เป็นไรนะ"
+          }
         }
       }
     },
@@ -2461,6 +2647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Diamante só nasce sob pressão,\nentão você tá virando joia."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รู้ไหมว่าคุณเปล่งประกายตอนยากๆ\nเพชรยังต้องโดนเจียก่อนถึงจะแวว"
           }
         }
       }
@@ -2539,6 +2731,12 @@
             "state" : "translated",
             "value" : "Se bater tristeza, lembra:\nvocê é a melhor parte do dia de alguém."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เศร้าอยู่ใช่ไหม มองมาทางนี้\nฉันตกหลุมคุณจนไม่เหลือที่ให้เศร้า"
+          }
         }
       }
     },
@@ -2615,6 +2813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Baixo astral é visita,\nvocê é morador do meu coração."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใจฟูจะลดลงก็ช่างมัน\nคุณยังเป็นที่รักที่สุดของฉัน"
           }
         }
       }
@@ -2693,6 +2897,12 @@
             "state" : "translated",
             "value" : "Mesmo sem energia, você\ncontinua sendo um luxo."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ร้องไห้ก็ยังน่ารัก\nคุณนี่จะให้ทำไงดีเนี่ย"
+          }
         }
       }
     },
@@ -2769,6 +2979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Que bom que você existe,\naté nos dias cinzentos."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนนี้จะยากแค่ไหน\nการที่มีคุณก็คือปาฏิหาริย์แล้ว"
           }
         }
       }
@@ -2847,6 +3063,12 @@
             "state" : "translated",
             "value" : "Tá puxado agora, mas você\nnasceu pra fazer o impossível."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แม้วันนี้จะหนัก\nแต่คุณต้องทำได้แน่ๆ!"
+          }
         }
       }
     },
@@ -2923,6 +3145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nas horas difíceis é que\nvocê mostra a que veio."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยิ่งยากเท่าไหร่\nยิ่งเห็นว่าคุณเจ๋งแค่ไหน"
           }
         }
       }
@@ -3001,6 +3229,12 @@
             "state" : "translated",
             "value" : "Desistir? Nem pensar!\nPois você tem fibra de gigante."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อย่าเพิ่งยอมแพ้นะ\nคุณแกร่งพอแน่นอน"
+          }
         }
       }
     },
@@ -3077,6 +3311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aguentar tudo isso e ainda sorrir?\nSó pode ser que você veio de outro mundo."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฝ่าช่วงยากๆ มาได้ขนาดนี้\nคุณนี่สุดยอดจริงๆ"
           }
         }
       }
@@ -3155,6 +3395,12 @@
             "state" : "translated",
             "value" : "A dor de hoje é o músculo\nde amanhã. Segue firme!"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความลำบากวันนี้\nคือปุ๋ยของคุณในวันพรุ่งนี้"
+          }
         }
       }
     },
@@ -3231,6 +3477,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pode apostar que você aguenta\nmuito mais do que acha que aguenta."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความจริงคุณรับมือได้\nมากกว่าที่คิดไว้เยอะเลย"
           }
         }
       }
@@ -3309,6 +3561,12 @@
             "state" : "translated",
             "value" : "Um dia você vai rir disso\ne dizer: eu sobrevivi!"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ช่วงหนักๆ นี้\nเดี๋ยวก็กลายเป็นเรื่องเล่าของคุณ"
+          }
         }
       }
     },
@@ -3385,6 +3643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Até diamante apanha pra brilhar,\ne você já tá ofuscando geral."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ต่อให้เหนื่อย คุณก็ยังเปล่งประกาย\nเพชรต้องโดนเจียถึงจะแวว"
           }
         }
       }
@@ -3463,6 +3727,12 @@
             "state" : "translated",
             "value" : "Tá difícil, mas você continua\nsendo a coisa mais bonita daqui."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บอกว่าเหนื่อยเหรอ?\nแต่คุณก็ยังน่ารักที่สุดอยู่ดี"
+          }
         }
       }
     },
@@ -3539,6 +3809,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sua persistência vira esperança\npra alguém, e você nem sabe."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การที่ยังสู้อยู่ของคุณ\nเป็นกำลังใจให้ใครอีกหลายคน"
           }
         }
       }
@@ -3617,6 +3893,12 @@
             "state" : "translated",
             "value" : "Mesmo no limite, você\nsegue com o charme em dia."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เหนื่อยจนจะขาดใจ\nแต่คุณก็ยังเก๋ห้ามไม่อยู่"
+          }
         }
       }
     },
@@ -3693,6 +3975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bora! Com você no time,\nqualquer meta vira brincadeira."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้ก็ลุยได้เลย\nมั่นใจเข้าไว้ ยังไงคุณก็เก๋"
           }
         }
       }
@@ -3771,6 +4059,12 @@
             "state" : "translated",
             "value" : "Acredito em você mais do que\nno Wi-Fi do escritório."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เชื่อมือคุณเลย\nวันนี้ต้องปังแน่นอน"
+          }
         }
       }
     },
@@ -3847,6 +4141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se você já chegou, o dia\njá tem cara de sucesso."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คนที่เตรียมพร้อมอย่างคุณ\nสำเร็จไปครึ่งทางแล้ว"
           }
         }
       }
@@ -3925,6 +4225,12 @@
             "state" : "translated",
             "value" : "Pode vir tarefa, que tem você\npra resolver tudo."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "งานวันนี้น่ะเหรอ\nถ้าเป็นคุณ สบายมาก"
+          }
         }
       }
     },
@@ -4001,6 +4307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoje o seu brilho ilumina\naté a segunda, e você sabe disso."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไฟในตัวคุณ\nจะทำให้วันนี้ลุกโชน"
           }
         }
       }
@@ -4079,6 +4391,12 @@
             "state" : "translated",
             "value" : "Vai lá, faz do seu jeito,\nque você sempre dá um show."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สู้ๆ นะ\nวันนี้ก็เป็นคุณแบบที่เก่งสุดเลย"
+          }
         }
       }
     },
@@ -4155,6 +4473,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Com essa postura, você\nnem precisa de crachá: é VIP."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ก่อนเริ่มงานก็ดูโปรเกินร้อย\nคุณนี่มืออาชีพตัวจริง"
           }
         }
       }
@@ -4233,6 +4557,12 @@
             "state" : "translated",
             "value" : "Sem vontade de trabalhar?\nSeu rosto já trabalha por você."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่อยากทำงานเหรอ?\nแต่หน้าคุณทำงานล่วงเวลาอยู่นะ"
+          }
         }
       }
     },
@@ -4309,6 +4639,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A empresa nem sabe, mas você\né o melhor benefício dela."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หน้าตาตอนไปทำงานของคุณ\nทำให้ออฟฟิศสว่างขึ้นเป็นกอง"
           }
         }
       }
@@ -4387,6 +4723,12 @@
             "state" : "translated",
             "value" : "Visual de reunião:\nvocê ofuscando o projetor."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ภาพตอนคุณทำงาน\nมันคือศิลปะชัดๆ"
+          }
         }
       }
     },
@@ -4463,6 +4805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nem começou o expediente e\nvocê já é case de sucesso."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยังไม่ทันเริ่มงานเลย\nคุณก็เพอร์เฟกต์ซะแล้ว"
           }
         }
       }
@@ -4541,6 +4889,12 @@
             "state" : "translated",
             "value" : "Pegou o tênis? Então você\njá ganhou metade do treino."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คนที่ออกกำลังกายอย่างคุณ\nเท่อยู่แล้วตั้งแต่ก้าวแรก"
+          }
         }
       }
     },
@@ -4617,6 +4971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuidar da saúde é amor,\ne você tá dando show de amor-próprio."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดูแลสุขภาพทุกวัน\nคุณนี่ใจเด็ดจริงๆ"
           }
         }
       }
@@ -4695,6 +5055,12 @@
             "state" : "translated",
             "value" : "Seu corpo agradece, e a sua\nversão de amanhã também."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ร่างกายของคุณ\nคุณรู้ใจมันดีที่สุดเสมอ"
+          }
         }
       }
     },
@@ -4771,6 +5137,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Só de você chegar na academia,\no ventilador já aplaude."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แค่ลุกขึ้นมาออกกำลัง\nก็น่าภูมิใจในตัวคุณแล้ว"
           }
         }
       }
@@ -4849,6 +5221,12 @@
             "state" : "translated",
             "value" : "Suou? Então você já\né a pessoa mais bonita de lá."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เหงื่อที่หยดจากคุณ\nดูสวยกว่าเพชรเม็ดไหนๆ"
+          }
         }
       }
     },
@@ -4925,6 +5303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saúde em primeiro lugar,\ne você em primeiro no ranking."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สุขภาพของคุณ\nสำคัญที่สุดเลยนะ"
           }
         }
       }
@@ -5003,6 +5387,12 @@
             "state" : "translated",
             "value" : "Esse tempinho que você tira\npra você é puro ouro."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้ก็ยังแบ่งเวลาให้ตัวเอง\nคุณนี่ที่หนึ่งจริงๆ"
+          }
         }
       }
     },
@@ -5079,6 +5469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "De roupa de treino, você\nparece capa de revista."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใส่ชุดออกกำลังกายแล้ว\nคุณถ่ายแมกกาซีนได้เลยนะ"
           }
         }
       }
@@ -5157,6 +5553,12 @@
             "state" : "translated",
             "value" : "A academia virou passarela\ndesde que você chegou."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฟิตเนสกลายเป็นสวรรค์\nเพราะมีคุณมาเยือน"
+          }
         }
       }
     },
@@ -5233,6 +5635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Treinando ou parado, você\ntem aura de campeonato."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ออกกำลังกายก็ยังเปล่งประกาย\nคุณเท่ได้ตลอดยังไงเนี่ย"
           }
         }
       }
@@ -5311,6 +5719,12 @@
             "state" : "translated",
             "value" : "Gente que fica bonita suando\nexiste? Existe: é você."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เหงื่อออกแล้วยังสวยหล่อ\nใช่ คุณนี่แหละ"
+          }
         }
       }
     },
@@ -5387,6 +5801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No caminho pro trabalho,\nvocê é a trilha sonora do dia."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เดินไปทำงานแบบนี้\nคุณดูโปรมากเลย"
           }
         }
       }
@@ -5465,6 +5885,12 @@
             "state" : "translated",
             "value" : "Madrugou e foi à luta?\nIsso, você já é inspiração."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เช้าตรู่ก็ขยับตัวแล้ว\nคุณนี่สุดยอด"
+          }
         }
       }
     },
@@ -5541,6 +5967,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saiu de casa cedo? Então\nvocê já bateu a meta do dia."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้ก็ออกไปทำงานอีกแล้ว\nคุณคือผู้ชนะตัวจริง"
           }
         }
       }
@@ -5619,6 +6051,12 @@
             "state" : "translated",
             "value" : "Cada passo seu na calçada\nvale mais que ação em alta, você sabe."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทุกก้าวที่คุณเดิน\nมีค่าทั้งนั้น"
+          }
         }
       }
     },
@@ -5695,6 +6133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Com você junto, até o\ntrânsito vira passeio."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้ามีคุณร่วมทาง\nทางไปทำงานก็พิเศษขึ้นมา"
           }
         }
       }
@@ -5773,6 +6217,12 @@
             "state" : "translated",
             "value" : "Responsabilidade e estilo:\nesse é o seu combo de sempre."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รับผิดชอบเต็มร้อย\nคุณเท่มากที่ไปทำงานทุกวัน"
+          }
         }
       }
     },
@@ -5849,6 +6299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O ônibus lotado virou passarela\nquando você entrou."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพราะคุณขึ้นรถไฟฟ้า\nตู้นี้เลยกลายเป็นรันเวย์"
           }
         }
       }
@@ -5927,6 +6383,12 @@
             "state" : "translated",
             "value" : "Fone no ouvido e você\ndesfilando na calçada: cinema."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "นั่งรถเมล์ก็ยังเปล่งประกาย\nวันนี้คุณถ่ายแฟชั่นเหรอ"
+          }
         }
       }
     },
@@ -6003,6 +6465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A manhã fica mais feliz\nquando você passa."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เห็นคุณไปทำงาน\nเช้านี้ก็มีความสุขขึ้นมาทันที"
           }
         }
       }
@@ -6081,6 +6549,12 @@
             "state" : "translated",
             "value" : "Até no sinal fechado, você\né a vista mais bonita."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แค่เดินเฉยๆ ก็เท่แล้ว\nก็คุณไงล่ะ"
+          }
         }
       }
     },
@@ -6157,6 +6631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bateu o ponto, bateu a meta.\nAgora descansa, você merece."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้เหนื่อยมาเยอะ\nกลับไปพักให้เต็มที่นะ คุณเก่งมาก"
           }
         }
       }
@@ -6235,6 +6715,12 @@
             "state" : "translated",
             "value" : "Saindo do trabalho, você\nparece final de novela: aplaudidíssimo."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เห็นคุณเดินกลับบ้าน\nก็ยังสง่างามเหมือนเดิม"
+          }
         }
       }
     },
@@ -6311,6 +6797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hora de voltar pra casa,\ne você leva o brilho junto."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนเลิกงานเดินกลับ\nคุณคือที่หนึ่งเสมอ"
           }
         }
       }
@@ -6389,6 +6881,12 @@
             "state" : "translated",
             "value" : "Mais um dia vencido!\nE olha, você é de dar orgulho."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้ก็จบอย่างสวยงาม\nภูมิใจในตัวคุณจัง"
+          }
         }
       }
     },
@@ -6465,6 +6963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Agora o tempo é seu.\nHoje você merece sofá e carinho."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนนี้เป็นเวลาของคุณแล้ว\nพักให้สบายเลย"
           }
         }
       }
@@ -6543,6 +7047,12 @@
             "state" : "translated",
             "value" : "Fechou o notebook? Abre\no coração, você mereceu a pausa."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หลังเลิกงานแล้ว\nขอเวลาดีๆ ให้คุณบ้างนะ"
+          }
         }
       }
     },
@@ -6619,6 +7129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Foi puxado, mas você\nchegou ao fim com classe."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เลิกงานแล้วนะ\nวันนี้คุณทำดีมาก พักได้เลย"
           }
         }
       }
@@ -6697,6 +7213,12 @@
             "state" : "translated",
             "value" : "Até voltando pra casa, você\ndeixa a rua mais bonita."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทางกลับบ้านก็ยังดูดี\nวันนี้คุณทำได้เจ๋งมาก"
+          }
         }
       }
     },
@@ -6773,6 +7295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cansaço é prova de que você\ndeu o seu melhor hoje."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พอเห็นคุณตอนเลิกงาน\nก็รู้เลยว่าวันนี้คุ้มค่า"
           }
         }
       }
@@ -6851,6 +7379,12 @@
             "state" : "translated",
             "value" : "Hoje você mandou tão bem\nque a segunda-feira ficou com inveja."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้อาจจะหนักหนา\nแต่คุณก็ยังเยี่ยมเหมือนเดิม"
+          }
         }
       }
     },
@@ -6927,6 +7461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Respira, você estudou\ne o cérebro lembra de tudo."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เตรียมตัวมาขนาดนี้\nคุณทำได้ดีแน่นอน"
           }
         }
       }
@@ -7005,6 +7545,12 @@
             "state" : "translated",
             "value" : "O esforço que você fez\nnão vai te deixar na mão."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความพยายามของคุณ\nไม่เคยทรยศคุณหรอก"
+          }
         }
       }
     },
@@ -7081,6 +7627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se bater nervoso, lembra:\nvocê sabe muito mais do que pensa."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตื่นเต้นก็ไม่เป็นไร\nคุณพร้อมแล้ว"
           }
         }
       }
@@ -7159,6 +7711,12 @@
             "state" : "translated",
             "value" : "Prova nenhuma mede o\ntanto que você vale."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ข้อสอบวัดค่าของคุณ\nไม่ได้หรอกนะ"
+          }
         }
       }
     },
@@ -7235,6 +7793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Já deu o seu melhor, e você\nsempre entrega ainda mais."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทุ่มเทเต็มที่แล้ว\nถือว่าคุณสำเร็จแล้ว"
           }
         }
       }
@@ -7313,6 +7877,12 @@
             "state" : "translated",
             "value" : "Se alguém vai passar, esse alguém\né você. Sem dúvida."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าเป็นคุณ\nต้องทำได้แน่ๆ"
+          }
         }
       }
     },
@@ -7389,6 +7959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Respira fundo e confia:\nvocê nasceu pra mandar bem."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หายใจลึกๆ\nแล้วเชื่อมือตัวเอง คุณเก่งนะ"
           }
         }
       }
@@ -7467,6 +8043,12 @@
             "state" : "translated",
             "value" : "Boa prova! Pode ir,\nque você vai arrasar."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขอให้สอบผ่านนะ\nเพราะคุณเตรียมมาดีแล้ว"
+          }
         }
       }
     },
@@ -7543,6 +8125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vai acertar tudo, e até o que\nvocê chutar vai estar certo."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่ต้องกังวลเลย\nคุณน่าจะตอบถูกหมดทุกข้อ"
           }
         }
       }
@@ -7621,6 +8209,12 @@
             "state" : "translated",
             "value" : "Nervosismo? Normal. Mas você\nbrilha até sob pressão."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประหม่าเหรอ?\nแต่คุณก็ยังเจ๋งที่สุดอยู่ดี"
+          }
         }
       }
     },
@@ -7697,6 +8291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A folha de prova vai olhar\npra você e dizer: uau!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กระดาษข้อสอบยังต้อง\nตะลึงเมื่อเห็นหน้าคุณ"
           }
         }
       }
@@ -7775,6 +8375,12 @@
             "state" : "translated",
             "value" : "É a sua hora de mostrar\nque você é o prêmio."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถึงเวลาที่คุณ\nจะโชว์ของดีแล้ว"
+          }
         }
       }
     },
@@ -7851,6 +8457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O recrutador vai ter sorte\nde conhecer você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "กรรมการสัมภาษณ์\nโชคดีมากที่ได้เจอคุณ"
           }
         }
       }
@@ -7929,6 +8541,12 @@
             "state" : "translated",
             "value" : "Sua história é um case,\ne você conta com orgulho."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประสบการณ์กับไฟของคุณ\nถึงเวลาเปล่งประกายแล้ว"
+          }
         }
       }
     },
@@ -8005,6 +8623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frio na barriga é normal,\nmas você tem charme de sobra."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประหม่าไม่เป็นไร\nคุณเจ๋งพออยู่แล้ว"
           }
         }
       }
@@ -8083,6 +8707,12 @@
             "state" : "translated",
             "value" : "Entra firme, que você\njá merece a vaga."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มั่นใจเข้าไว้!\nคุณพร้อมแล้ว"
+          }
         }
       }
     },
@@ -8159,6 +8789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Conta a sua história, você\né o melhor roteiro que existe."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เล่าเรื่องของคุณ\nออกมาอย่างภูมิใจเลย"
           }
         }
       }
@@ -8237,6 +8873,12 @@
             "state" : "translated",
             "value" : "Entrevista é só um papo,\ne papo é com você mesmo."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สัมภาษณ์คือการทำความรู้จัก\nผ่อนคลายแล้วเป็นคุณเลย"
+          }
         }
       }
     },
@@ -8313,6 +8955,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se a empresa não te contratar,\nela é que perdeu você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าเขาไม่รับคุณเข้าทำงาน\nบริษัทนั้นขาดทุนแน่นอน"
           }
         }
       }
@@ -8391,6 +9039,12 @@
             "state" : "translated",
             "value" : "Currículo bom é bom,\nmas você ao vivo é melhor."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่ใช่เรซูเม่ที่เริ่ด\nแต่คุณทั้งคนนี่แหละที่เริ่ด"
+          }
         }
       }
     },
@@ -8467,6 +9121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Passou pela porta, passou\nno processo. Lógica pura, você sabe."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ก้าวเข้าห้องสัมภาษณ์ปุ๊บ\nคุณก็ผ่านไปแล้ว"
           }
         }
       }
@@ -8545,6 +9205,12 @@
             "state" : "translated",
             "value" : "Primeira impressão? Aí você\nganha de lavada."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แค่ความประทับใจแรกของคุณ\nก็ได้แต้มไปครึ่งหนึ่ง"
+          }
         }
       }
     },
@@ -8621,6 +9287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoje você tá tão bem que\no espelho pediu autógrafo."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณในวันนี้\nปังสุดๆ ไปเลย"
           }
         }
       }
@@ -8699,6 +9371,12 @@
             "state" : "translated",
             "value" : "Do jeito que você é, já\ndá pra encher qualquer olhar."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แบบที่คุณเป็น\nน่าหลงใหลที่สุด"
+          }
         }
       }
     },
@@ -8775,6 +9453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quem sai com você tira\na sorte grande."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คนที่ได้อยู่ข้างคุณ\nโชคดีมากๆ"
           }
         }
       }
@@ -8853,6 +9537,12 @@
             "state" : "translated",
             "value" : "Autoconfiança dá um brilho\nque você carrega muito bem."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มั่นใจแบบนี้\nคุณเท่สุดๆ ไปเลย"
+          }
         }
       }
     },
@@ -8929,6 +9619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O sorriso de hoje é a\nmelhor arma que você tem."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รอยยิ้มของคุณวันนี้\nคืออาวุธที่เด็ดที่สุด"
           }
         }
       }
@@ -9007,6 +9703,12 @@
             "state" : "translated",
             "value" : "Seja você mesmo: essa\nversão já é um encanto."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เป็นตัวของตัวเอง\nคุณก็ดีที่สุดแล้ว"
+          }
         }
       }
     },
@@ -9083,6 +9785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Charme assim, você até tenta\nesconder, mas não adianta."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เสน่ห์ของคุณ\nปิดไม่มิดหรอกนะ"
           }
         }
       }
@@ -9161,6 +9869,12 @@
             "state" : "translated",
             "value" : "Date hoje? Avisa a outra pessoa:\nsegura o coração."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้ไปเดต?\nอีกฝ่ายใจละลายแน่เลย"
+          }
         }
       }
     },
@@ -9237,6 +9951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quem vai encontrar você\njá ganhou na loteria."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คนที่ได้เจอคุณ\nดวงดีเป็นบ้า"
           }
         }
       }
@@ -9315,6 +10035,12 @@
             "state" : "translated",
             "value" : "Esse look tá um espetáculo.\nAgora você só precisa chegar."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ลุคเดตวันนี้เป๊ะมาก\nคุณถ่ายนิตยสารได้เลยนะ"
+          }
         }
       }
     },
@@ -9391,6 +10117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se apaixonar por você\né questão de segundos."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เห็นคุณวันนี้\nใครก็ตกหลุมรักได้ง่ายๆ"
           }
         }
       }
@@ -9469,6 +10201,12 @@
             "state" : "translated",
             "value" : "Antes mesmo do encontro,\nvocê já derrete corações."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยังไม่ทันเดตเลยคุณก็น่ารักแล้ว\nอีกฝ่ายจะรอดเหรอเนี่ย"
+          }
         }
       }
     },
@@ -9545,6 +10283,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vai com tudo! Eu aposto\nem você, sempre."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณทำได้แน่\nเป็นกำลังใจให้เสมอ"
           }
         }
       }
@@ -9623,6 +10367,12 @@
             "state" : "translated",
             "value" : "Passinho pequeno também\né caminho, e você anda bem."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ก้าวเล็กๆ ของคุณ\nคือจุดเริ่มต้นของเส้นทางที่ยิ่งใหญ่"
+          }
         }
       }
     },
@@ -9699,6 +10449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Não desiste, que o seu\nsonho só tá aquecendo."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อย่าเพิ่งยอมแพ้\nความฝันของคุณจะเป็นจริง"
           }
         }
       }
@@ -9777,6 +10533,12 @@
             "state" : "translated",
             "value" : "O esforço de hoje é o\nsucesso de amanhã."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความพยายามวันนี้\nคือความสำเร็จของคุณในวันพรุ่งนี้"
+          }
         }
       }
     },
@@ -9853,6 +10615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Com essa garra, você\nainda muda o mundo."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไฟในใจของคุณ\nเปลี่ยนโลกได้เลย"
           }
         }
       }
@@ -9931,6 +10699,12 @@
             "state" : "translated",
             "value" : "Errou? Faz parte. É\nassim que você vira lenda."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ล้มเหลวคือครูที่ดี\nลองอีกครั้งสิ คุณไหว"
+          }
         }
       }
     },
@@ -10007,6 +10781,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Com um potencial desse, você\nnão cabe nem no mapa."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ศักยภาพของคุณ\nไม่มีขีดจำกัดเลย"
           }
         }
       }
@@ -10085,6 +10865,12 @@
             "state" : "translated",
             "value" : "Hoje é dia de você\ndar o seu melhor. De novo."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้ลองให้สุดตัวดู\nแล้วคุณจะภูมิใจ"
+          }
         }
       }
     },
@@ -10161,6 +10947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quando você se esforça, alguém\nlá fora se inspira em silêncio."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เห็นคุณพยายามแล้ว\nมันคือแรงบันดาลใจของใครบางคน"
           }
         }
       }
@@ -10239,6 +11031,12 @@
             "state" : "translated",
             "value" : "Vai dar certo. Falo sério,\ne você sabe que eu sei."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าเป็นคุณ\nทุกอย่างต้องลงตัวแน่ ฉันพูดจริง!"
+          }
         }
       }
     },
@@ -10315,6 +11113,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Segue o baile! Aí você\ntem talento de sobra."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อย่าถอดใจนะ\nคุณเก่งเกินพออยู่แล้ว"
           }
         }
       }
@@ -10393,6 +11197,12 @@
             "state" : "translated",
             "value" : "Foco, força e fé:\nvocê já tem os três."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้ก็สู้ต่อ\nเพราะคุณทำได้"
+          }
         }
       }
     },
@@ -10469,6 +11279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quem vê o seu esforço\nvira torcedor de você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คนที่รู้ว่าคุณพยายามแค่ไหน\nจะเชียร์คุณเสมอ"
           }
         }
       }
@@ -10547,6 +11363,12 @@
             "state" : "translated",
             "value" : "Fato, não opinião: você\ntem valor de sobra."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณมีค่ามากพอแล้ว\nแค่เป็นคุณก็พอ"
+          }
         }
       }
     },
@@ -10623,6 +11445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Do jeito que você é, já\nvem de fábrica com tudo."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แบบที่คุณเป็นอยู่\nก็สมบูรณ์แบบแล้ว"
           }
         }
       }
@@ -10701,6 +11529,12 @@
             "state" : "translated",
             "value" : "Existir já te torna especial.\nE você existe com muito estilo."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แค่คุณมีตัวตนอยู่\nก็พิเศษแล้ว"
+          }
         }
       }
     },
@@ -10777,6 +11611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Peito aberto, queixo erguido:\nvocê é demais."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มั่นใจเลย!\nคุณเป็นคนเจ๋งมาก"
           }
         }
       }
@@ -10855,6 +11695,12 @@
             "state" : "translated",
             "value" : "Mais forte do que pensa,\né o que você é."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เก่งกว่าที่คิดเยอะเลย\nใช่ คุณนี่แหละ"
+          }
         }
       }
     },
@@ -10931,6 +11777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O seu jeito único é o\nsuperpoder que você tem."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เอกลักษณ์ของคุณ\nทำให้คุณเปล่งประกาย"
           }
         }
       }
@@ -11009,6 +11861,12 @@
             "state" : "translated",
             "value" : "Acredita: você dá conta\ne ainda sobra estilo."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เชื่อมั่นในตัวเองสิ\nคุณทำได้"
+          }
         }
       }
     },
@@ -11085,6 +11943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ninguém é igual a você,\ne esse é o melhor spoiler."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพอร์เฟกต์ในแบบของคุณเอง\nไม่ต้องเทียบกับใคร"
           }
         }
       }
@@ -11163,6 +12027,12 @@
             "state" : "translated",
             "value" : "Com essa confiança, você\né o centro do universo."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มั่นใจแบบนี้\nใครจะไปสู้คุณได้"
+          }
         }
       }
     },
@@ -11239,6 +12109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se pudesse se ver com\nos meus olhos, você nem piscava."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ที่จริงคุณเจ๋งกว่าที่คิด\nอีกเท่าตัวเลยนะ"
           }
         }
       }
@@ -11317,6 +12193,12 @@
             "state" : "translated",
             "value" : "Tá indo bem, e você\nnem percebe o tanto."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณทำได้ดีอยู่แล้ว\nไม่ต้องกดดันตัวเองเลย"
+          }
         }
       }
     },
@@ -11393,6 +12275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quem não vê seu valor\nprecisa trocar de óculos."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใครไม่เห็นเสน่ห์ของคุณ\nตาบอดสีแล้วล่ะ"
           }
         }
       }
@@ -11471,6 +12359,12 @@
             "state" : "translated",
             "value" : "Hoje o plano é nenhum.\nSó você e o seu descanso."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้ไม่ต้องทำอะไร\nพักให้เต็มที่นะ"
+          }
         }
       }
     },
@@ -11547,6 +12441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pausa merecida: você\ntrabalhou o suficiente por três."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใจของคุณเองก็\nต้องการพักบ้าง"
           }
         }
       }
@@ -11625,6 +12525,12 @@
             "state" : "translated",
             "value" : "Não fazer nada também\né ótimo programa pra você."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่ต้องทำอะไรเลย\nวันนี้ก็เป็นวันที่ดีแล้ว"
+          }
         }
       }
     },
@@ -11701,6 +12607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuida do coração, que é\no que você tem de mais precioso."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไม่ต้องรีบนะ\nใจของคุณสำคัญที่สุด"
           }
         }
       }
@@ -11779,6 +12691,12 @@
             "state" : "translated",
             "value" : "No seu tempo, do seu jeito.\nPode confiar que você chega lá."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ค่อยๆ ไปนะ\nตามจังหวะของคุณ"
+          }
         }
       }
     },
@@ -11855,6 +12773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O evento de hoje é você\ne o seu bem-estar."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้ให้เวลา\nกับคุณเองบ้าง"
           }
         }
       }
@@ -11933,6 +12857,12 @@
             "state" : "translated",
             "value" : "Descansar é produtivo.\nSeu corpo agradece, e você também."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การพักผ่อน\nก็เป็นความสำเร็จเหมือนกันนะ"
+          }
         }
       }
     },
@@ -12009,6 +12939,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Descansar é direito seu,\ne você pode usar à vontade."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พักได้เลยนะ\nวันนี้คุณนอนยาวๆ ไปเลย"
           }
         }
       }
@@ -12087,6 +13023,12 @@
             "state" : "translated",
             "value" : "Cuidando de si, você\nfica ainda mais radiante."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนคุณเยียวยาใจ\nก็ยังน่ารักอยู่ดี"
+          }
         }
       }
     },
@@ -12163,6 +13105,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mesmo em modo soneca,\nvocê continua incrível."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณจะใช้เวลากับตัวเองก็ได้\nไม่มีใครว่า"
           }
         }
       }
@@ -12241,6 +13189,12 @@
             "state" : "translated",
             "value" : "Gastar tempo com você\né o melhor investimento."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "นอนเล่นสบายๆ\nคุณก็ยังเปล่งประกาย"
+          }
         }
       }
     },
@@ -12317,6 +13271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Até relaxando, você\nganha o prêmio de pessoa mais bonita."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตอนพักผ่อนอยู่\nคุณก็ยังน่ารักที่สุดในโลก"
           }
         }
       }
@@ -12395,6 +13355,12 @@
             "state" : "translated",
             "value" : "Sabe o que falta em você?\nNada. Nem um defeitinho pra contar."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณไม่ใช่ขนมหวาน\nแต่ทำใจฉันเป็นเบาหวานได้"
+          }
         }
       }
     },
@@ -12471,6 +13437,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuidado: você causa vício,\ne ainda não existe reabilitação."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เป็นลูกกวาดหรือเปล่าเนี่ย\nถึงหวานใจฉันทุกครั้งที่เห็นคุณ"
           }
         }
       }
@@ -12549,6 +13521,12 @@
             "state" : "translated",
             "value" : "Se beleza fosse crime, você\npegava prisão perpétua."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าความน่ารักต้องเสียภาษี\nคุณคงเสียมากสุดในประเทศ"
+          }
         }
       }
     },
@@ -12625,6 +13603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tá com GPS? Porque você\nme deixou perdido de vez."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เห็นคุณทีไรใจสั่น\nคุณนี่สัญญาณเตือนภัยชัดๆ"
           }
         }
       }
@@ -12703,6 +13687,12 @@
             "state" : "translated",
             "value" : "Dizem que perfeição não existe,\nmas aí vem você e desmente."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แบตฉันเหลือ 1%\nพอเจอคุณก็ชาร์จเต็มเลย"
+          }
         }
       }
     },
@@ -12779,6 +13769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se você fosse um verbo,\nseria \"brilhar\": irregular e único."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อย่าเดินผ่านหน้าฉันบ่อย\nเดี๋ยวใจต้องส่งซ่อม เพราะคุณ"
           }
         }
       }
@@ -12857,6 +13853,12 @@
             "state" : "translated",
             "value" : "Me explica: como você pode\nser tão incrível e ainda humilde?"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณเป็นเครื่องซักผ้าหรือเปล่า\nล้างความเหนื่อยแล้วใจหมุนติ้ว"
+          }
         }
       }
     },
@@ -12933,6 +13935,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Será que você é Wi-Fi?\nPorque senti conexão na hora."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฉันสอบตกวิชาลืมคุณ\nได้เกรดเอฟทุกเทอมเลย"
           }
         }
       }
@@ -13011,6 +14019,12 @@
             "state" : "translated",
             "value" : "Seu sorriso devia pagar imposto,\nde tão valioso."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณชื่อเสิร์ชเอนจินหรือเปล่า\nเพราะมีทุกสิ่งที่ฉันตามหา"
+          }
         }
       }
     },
@@ -13087,6 +14101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pernas pra que te quero?\nSó pra chegar até você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขอไวไฟหน่อยนะ\nใจฉันเชื่อมต่อกับคุณแล้ว"
           }
         }
       }
@@ -13165,6 +14185,12 @@
             "state" : "translated",
             "value" : "Mapa do tesouro? Achei.\nO X marca onde você está."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณเป็นตำรวจหรือเปล่า\nถึงได้จับใจฉันไว้อยู่หมัด"
+          }
         }
       }
     },
@@ -13241,6 +14267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Usou filtro? Nada! Aí você\ntem beleza de fábrica."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณทำอะไรหกหรือเปล่า\nใจฉันถึงเลอะไปหมด"
           }
         }
       }
@@ -13319,6 +14351,12 @@
             "state" : "translated",
             "value" : "Sua presença soma, multiplica\ne nunca divide a alegria."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฟิวส์ใจฉันขาดแล้ว\nแรงดันความน่ารักของคุณสูงเกิน"
+          }
         }
       }
     },
@@ -13395,6 +14433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aviso: quem passa perto\nde você sai com o coração acelerado."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ชื่อ \"ใช่เลย\" ใช่ไหม\nเพราะเจอคุณทีไรก็ใช่ทุกที"
           }
         }
       }
@@ -13473,6 +14517,12 @@
             "state" : "translated",
             "value" : "Tá com febre? Não, é\nsó o efeito que você causa."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณ + ฉัน = เรา\nสมการนี้ฉันตอบถูกแน่นอน"
+          }
         }
       }
     },
@@ -13549,6 +14599,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ponto turístico? Não, é só\nvocê andando pela rua."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฟ้าไม่ได้มีแค่สีฟ้า\nแต่มีสีของคุณด้วย"
           }
         }
       }
@@ -13627,6 +14683,12 @@
             "state" : "translated",
             "value" : "Ave Maria! Aí você é uma\nobra-prima sem moldura."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ฉันไม่ได้เป็นหวัด\nแต่เป็นไข้ใจเพราะคุณ"
+          }
         }
       }
     },
@@ -13703,6 +14765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se sorriso fosse moeda,\nvocê já teria banco próprio."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เดือนเพ็ญที่ไม่มีวันแรม\nก็คือคุณในใจฉัน"
           }
         }
       }
@@ -13781,6 +14849,12 @@
             "state" : "translated",
             "value" : "Pelas minhas contas, você\ntem 100% de aprovação. As contas são minhas."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มีแผนที่ไหมคะ\nฉันหลงอยู่ในรอยยิ้มของคุณ"
+          }
         }
       }
     },
@@ -13857,6 +14931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perguntaram quem é o melhor.\nRespondi sem pensar: você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้าคุณเป็นข้อสอบ\nฉันยอมสอบซ้ำเป็นร้อยรอบ"
           }
         }
       }
@@ -13935,6 +15015,12 @@
             "state" : "translated",
             "value" : "Por que trabalhar, se a sua beleza\njá faz hora extra?"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขอเลิกชอบคุณสักที\nแต่ไม่รู้จะเริ่มยังไงเลย"
+          }
         }
       }
     },
@@ -14011,6 +15097,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dizem que a lua é linda,\nmas nunca viram você de perto."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "หน้าตาระดับสมบัติชาติ\nคุณต้องไปจัดแสดงในพิพิธภัณฑ์"
           }
         }
       }
@@ -14089,6 +15181,12 @@
             "state" : "translated",
             "value" : "Se você fosse bateria,\nseria 100% e sem descarregar."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "งานประกาศรางวัลอย่ามานะ\nเพราะรางวัลใหญ่คือหน้าคุณ"
+          }
         }
       }
     },
@@ -14165,6 +15263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sabe aquele filme bom\nque a gente quer rever? É você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ่ายแฟชั่นอยู่เหรอ\nหรือคุณแค่เดินมาก็เป็นแฟชั่น"
           }
         }
       }
@@ -14243,6 +15347,12 @@
             "state" : "translated",
             "value" : "Que anúncio é esse?\nAh, é você chegando com tudo."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณคือไอดอล\nศิลปินอันดับ 1 ในใจฉัน"
+          }
         }
       }
     },
@@ -14319,6 +15429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Isso é uma pessoa ou\num filtro de cinema? Ah, é você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปิดแฟนไซน์หน่อยสิ\nอยากได้ลายเซ็นคุณทุกวัน"
           }
         }
       }
@@ -14397,6 +15513,12 @@
             "state" : "translated",
             "value" : "Se simpatia ganhasse prêmio,\nvocê levava a taça e a torcida."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไปเดบิวต์เถอะ\nคุณเป็นเซ็นเตอร์ในใจฉันแล้ว"
+          }
         }
       }
     },
@@ -14473,6 +15595,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Até o horóscopo disse:\n\"hoje é dia de elogiar você\"."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยินดีด้วยที่ได้ที่หนึ่งบนชาร์ต\nความปังของคุณขึ้นอันดับหนึ่งทุกวันอยู่แล้ว"
           }
         }
       }
@@ -14551,6 +15679,12 @@
             "state" : "translated",
             "value" : "Sem querer incomodar, mas\nvocê é demais, tá?"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขอถ่ายรูปหน่อย\nอยากเก็บหน้าคุณทุกวัน"
+          }
         }
       }
     },
@@ -14627,6 +15761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Para de ser tão incrível:\no ranking acabou, só tem você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คัมแบ็กแล้วเหรอ\nคุณทำใจฉันคัมแบ็กมาเต้นแรงอีกแล้ว"
           }
         }
       }
@@ -14705,6 +15845,12 @@
             "state" : "translated",
             "value" : "A receita do bolo perfeito?\nUma pitada de você."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขอถ่ายโฟกัสหน่อยได้ไหม\nทุกมุมของคุณคือฉากเด็ด"
+          }
         }
       }
     },
@@ -14781,6 +15927,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Meu café com você\ntem gosto de domingo."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เล่นมิวสิกวิดีโอด้วยเหรอ\nคุณเป็นตัวเอกในชีวิตฉันอยู่แล้วนะ"
           }
         }
       }
@@ -14859,6 +16011,12 @@
             "state" : "translated",
             "value" : "Pessoa de verdade é melhor que\nfiltro, e você nem usa filtro."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไปออกเรียลลิตี้เหรอ\nตัวจริงของคุณก็เพอร์เฟกต์กว่าอยู่ดี"
+          }
         }
       }
     },
@@ -14935,6 +16093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dizem que ninguém é insubstituível,\nmas ninguém tentou trocar você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วิชวลเซ็นเตอร์ใช่ไหม\nคุณไปไหนก็สว่างที่สุด"
           }
         }
       }
@@ -15013,6 +16177,12 @@
             "state" : "translated",
             "value" : "Nasceu com estrela?\nQue nada, você nasceu com o céu inteiro."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รางวัลหน้าตาแห่งปี\nต้องยกให้คุณ ไม่มีข้อโต้แย้ง"
+          }
         }
       }
     },
@@ -15089,6 +16259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Procurei um elogio à sua altura.\nNão existe, mas você merece."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เป็นพรีเซนเตอร์เหรอ\nเห็นคุณทีไรอยากซื้อทุกอย่าง"
           }
         }
       }
@@ -15167,6 +16343,12 @@
             "state" : "translated",
             "value" : "Cada vez que você ri,\num unicórnio ganha asas."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขึ้นปกนิตยสารใช่ไหม\nปกทุกเดือนคงต้องเป็นหน้าคุณ"
+          }
         }
       }
     },
@@ -15243,6 +16425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se carisma fosse um rio,\nvocê seria a cachoeira."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ออร่าบนเวทีของคุณนี่จริงเหรอ\nชีวิตประจำวันก็เหมือนเวทีเลย"
           }
         }
       }
@@ -15321,6 +16509,12 @@
             "state" : "translated",
             "value" : "Tá todo mundo perguntando:\nquem é essa lenda? É você."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มาแลกการ์ดกันไหม\nอยากสะสมครบเซ็ตแต่หน้าคุณ"
+          }
         }
       }
     },
@@ -15397,6 +16591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mitou! Pode soltar o\n\"lacrou\" que você merece."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แฟนมีตจะจัดเมื่อไหร่\nอยากเจอคุณทุกวันเลย"
           }
         }
       }
@@ -15475,6 +16675,12 @@
             "state" : "translated",
             "value" : "Olha só! Aí vem você,\ne o chão vira tapete vermelho."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขอคลิปเต้นหน่อย\nทุกการเคลื่อนไหวของคุณคือศิลปะ"
+          }
         }
       }
     },
@@ -15551,6 +16757,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vai ser difícil competir:\nvocê tem torcida organizada."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เห็นคุณแล้วเหมือนดูทีเซอร์\nใจเต้นรัวทุกครั้ง"
           }
         }
       }
@@ -15629,6 +16841,12 @@
             "state" : "translated",
             "value" : "Já pode abrir o fã-clube:\neu sou o presidente, você é o astro."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "จะไปทัวร์โลกไหม\nใจฉันสั่นไปทั่วโลกเพราะคุณแล้ว"
+          }
         }
       }
     },
@@ -15705,6 +16923,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Esgotou! O ingresso pra ver\nvocê sorrir já acabou."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขอลายเซ็นบนอัลบั้มหน่อย\nคุณนี่ลิมิเต็ดอิดิชันชัดๆ"
           }
         }
       }
@@ -15783,6 +17007,12 @@
             "state" : "translated",
             "value" : "Pedido de bis: você\nchegando de novo pro dia todo."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขอเปิดแท่งไฟนะ\nจะเชียร์คุณไปตลอดชีวิต"
+          }
         }
       }
     },
@@ -15859,6 +17089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ei, na primeira fila,\nsó tem fã de você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พุ่งแรงเลยนะ\nก็คุณเป็นตำนานตั้งแต่แรกแล้ว"
           }
         }
       }
@@ -15937,6 +17173,12 @@
             "state" : "translated",
             "value" : "Assina aqui? Quero levar\num autógrafo seu pra vida inteira."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ต้องหาบัตรคอนเสิร์ตแล้ว\nเพราะการได้เห็นคุณคือคอนเสิร์ตของฉัน"
+          }
         }
       }
     },
@@ -16013,6 +17255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hit do verão? Que nada,\no hit do ano inteiro é você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ได้ที่หนึ่งรายการเพลงใช่ไหม\nคุณคือเพลงอันดับหนึ่งในชีวิตฉัน"
           }
         }
       }
@@ -16091,6 +17339,12 @@
             "state" : "translated",
             "value" : "Na minha playlist, só você\ntoca no repeat."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขออีกหนึ่งเพลงนะ\nดูคุณกี่รอบก็ยังอยากดูอีก"
+          }
         }
       }
     },
@@ -16167,6 +17421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Viralizou! Sua beleza\njá tá nos trending topics."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ภาพเบื้องหลังก็ปัง\nทุกวินาทีของคุณคือตำนาน"
           }
         }
       }
@@ -16245,6 +17505,12 @@
             "state" : "translated",
             "value" : "Capa de revista é pouco:\no seu charme pede edição especial."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ต้องเปลี่ยนตัวท็อปในใจแล้ว\nไม่มีใครเทียบคุณได้เลย"
+          }
         }
       }
     },
@@ -16321,6 +17587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Turnê mundial? Pode ir,\nque eu já sou fã de você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตกหลุมรักเข้าด้อมแล้ว\nขอเป็นติ่งคุณตลอดไป"
           }
         }
       }
@@ -16399,6 +17671,12 @@
             "state" : "translated",
             "value" : "Virei fã de carteirinha:\nvocê é minha estrela favorita."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เปิดเผยตัวท็อปของฉัน\nก็คือคุณนั่นแหละ"
+          }
         }
       }
     },
@@ -16475,6 +17753,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Show é o seu bom dia:\nvocê rouba a cena de graça."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ซื้อของที่ระลึกครบแล้ว\nแต่คุณคือของสะสมที่ดีที่สุด"
           }
         }
       }
@@ -16553,6 +17837,12 @@
             "state" : "translated",
             "value" : "Tapete vermelho pra quê?\nJá que você chega brilhando."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขอเป็นแฟนคลับตลอดชีวิต\nคุณคือศิลปินตลอดกาลของฉัน"
+          }
         }
       }
     },
@@ -16629,6 +17919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pedi um álbum e ganhei\no disco da minha vida: você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปักหลักเป็นสายคุณแล้ว\nตอนนี้คุณคือด้อมหลักของฉัน"
           }
         }
       }
@@ -16707,6 +18003,12 @@
             "state" : "translated",
             "value" : "Ensaio fotográfico? Aí você\nnem precisa, já nasceu em alta resolução."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เริ่มเป็นติ่งแล้วนะ\nจะทุ่มสุดตัวให้คุณ"
+          }
         }
       }
     },
@@ -16783,6 +18085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Acabei de criar um fã-clube.\nPrimeira sócia: eu. Líder: você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขอเป็นช่างภาพประจำตัว\nอยากเก็บทุกวินาทีของคุณ"
           }
         }
       }
@@ -16861,6 +18169,12 @@
             "state" : "translated",
             "value" : "Estreia mundial! Em cartaz, o filme\n\"Arrasando\": estrelando você."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ได้เวลาเชียร์แล้ว\nทุกนาทีกับคุณคือช่วงเวลาทอง"
+          }
         }
       }
     },
@@ -16937,6 +18251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fiz fila pra ver você.\nValeu cada minuto, hein!"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขอทำป้ายโฆษณาวันเกิด\nอยากให้ทุกวันเป็นวันเกิดคุณ"
           }
         }
       }
@@ -17015,6 +18335,12 @@
             "state" : "translated",
             "value" : "Troféu de melhor sorriso:\nvai pra você, sem votação."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ขอเชียร์คุณไปตลอด\nภูมิใจที่ได้เป็นแฟนคลับ"
+          }
         }
       }
     },
@@ -17091,6 +18417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quando você aparece, meu\ncoração faz solo de bateria."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใจฉันเต้นรัว\nก็เพราะคุณนี่แหละ"
           }
         }
       }
@@ -17169,6 +18501,12 @@
             "state" : "translated",
             "value" : "Olhar pra você deixa\no mundo bem mais bonito."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เห็นคุณทีไร\nโลกก็สวยขึ้นทุกที"
+          }
         }
       }
     },
@@ -17245,6 +18583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Com você por perto, o dia\nvira vitamina de felicidade."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คุณคือวิตามินแห่ง\nความสุขของฉัน"
           }
         }
       }
@@ -17323,6 +18667,12 @@
             "state" : "translated",
             "value" : "O seu riso é contagiante,\ne eu já peguei de você."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ยิ้มของคุณทีไร\nใจฉันก็ยิ้มตาม"
+          }
         }
       }
     },
@@ -17399,6 +18749,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tem estrela que só brilha\nporque você deixou emprestado."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ดาวที่สว่างที่สุด\nที่ฉันเคยเห็นคือคุณ"
           }
         }
       }
@@ -17477,6 +18833,12 @@
             "state" : "translated",
             "value" : "Toda manhã é festival\ndesde que você existe."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทุกวันของคุณ\nคือเทศกาลในใจฉัน"
+          }
         }
       }
     },
@@ -17553,6 +18915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escutar você falar já\nmelhora o meu humor."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แค่ได้ยินเสียงคุณ\nอารมณ์ก็ดีขึ้นทันที"
           }
         }
       }
@@ -17631,6 +18999,12 @@
             "state" : "translated",
             "value" : "Que sorte a minha de\nconhecer você!"
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "โชคดีที่สุดในชีวิต\nคือได้เจอคุณ"
+          }
         }
       }
     },
@@ -17707,6 +19081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ter você por perto é\nganhar na loteria todo dia."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพราะมีคุณอยู่\nวันนี้ก็ยิ้มได้อีกวัน"
           }
         }
       }
@@ -17785,6 +19165,12 @@
             "state" : "translated",
             "value" : "Pessoa mais importante da sala:\nsempre você, sem votação."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สำหรับฉัน คุณคือ\nคนที่สำคัญที่สุดในโลก"
+          }
         }
       }
     },
@@ -17861,6 +19247,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Só de pensar em você\no sorriso aparece sozinho."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คิดถึงคุณทีไร\nยิ้มออกมาเองทุกที"
           }
         }
       }
@@ -17939,6 +19331,12 @@
             "state" : "translated",
             "value" : "Paz de espírito tem nome,\ne o nome é você."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความสงบในใจฉัน\nก็คือคุณนี่แหละ"
+          }
         }
       }
     },
@@ -18015,6 +19413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Momentos com você são\nsempre edição de colecionador."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เวลาอยู่กับคุณ\nพิเศษเสมอเลย"
           }
         }
       }
@@ -18093,6 +19497,12 @@
             "state" : "translated",
             "value" : "Olha, de todo mundo que\nconheço, você é a melhor versão."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คนที่เจ๋งที่สุดเท่าที่ฉันเคยรู้จัก\nก็คือคุณ"
+          }
         }
       }
     },
@@ -18169,6 +19579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Agradeço todo dia só\npor você existir."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แค่มีคุณอยู่\nฉันก็ซาบซึ้งมากแล้ว"
           }
         }
       }
@@ -18247,6 +19663,12 @@
             "state" : "translated",
             "value" : "O melhor momento do meu dia\né quando você aparece."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไฮไลต์ของวันฉัน\nก็คือคุณ"
+          }
         }
       }
     },
@@ -18323,6 +19745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Graças a você, todo dia\ntem cara de feriado."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพราะคุณ\nทุกวันถึงกลายเป็นวันพิเศษ"
           }
         }
       }
@@ -18401,6 +19829,12 @@
             "state" : "translated",
             "value" : "Quando você chega, a\nescuridão pede licença."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พอเห็นคุณ\nโลกก็สว่างขึ้นเลย"
+          }
         }
       }
     },
@@ -18477,6 +19911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Presente do universo?\nSó pode ser você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ของขวัญที่ดีที่สุด\nในชีวิตฉันคือคุณ"
           }
         }
       }
@@ -18555,6 +19995,12 @@
             "state" : "translated",
             "value" : "O mundo ganhou mais cor\ndesde que você chegou."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "โลกสวยขึ้นอีกเท่าตัว\nเพราะมีคุณอยู่"
+          }
         }
       }
     },
@@ -18631,6 +20077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Imaginar um dia sem você?\nImpossível, já tentei."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันไหนไม่มีคุณ\nฉันนึกภาพไม่ออกเลย"
           }
         }
       }
@@ -18709,6 +20161,12 @@
             "state" : "translated",
             "value" : "No pódio do meu coração,\nvocê ocupa os três lugares."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ที่หนึ่งในใจฉัน\nคือคุณตลอดกาล"
+          }
         }
       }
     },
@@ -18785,6 +20243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se você tá do meu lado,\nqualquer plano dá certo."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ถ้ามีคุณอยู่ข้างๆ\nฉันทำได้ทุกอย่าง"
           }
         }
       }
@@ -18863,6 +20327,12 @@
             "state" : "translated",
             "value" : "Agradecimento do dia:\nvocê, na primeira linha."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทุกวันฉันซึ้งใจ\nที่มีคุณอยู่ตรงนี้"
+          }
         }
       }
     },
@@ -18939,6 +20409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seu sorriso ganha de\nqualquer pôr do sol."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รอยยิ้มของคุณ\nสวยกว่าอะไรในโลก"
           }
         }
       }
@@ -19017,6 +20493,12 @@
             "state" : "translated",
             "value" : "Maior bênção da minha vida?\nFoi você aparecer."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พรที่ยิ่งใหญ่ที่สุด\nในชีวิตของฉัน คือคุณ"
+          }
         }
       }
     },
@@ -19093,6 +20575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pensou em você, o dia\njá ficou mais leve."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พอนึกถึงคุณ\nทั้งวันก็มีความสุข"
           }
         }
       }
@@ -19171,6 +20659,12 @@
             "state" : "translated",
             "value" : "Casa, doce casa:\nvocê é o meu cantinho favorito."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บ้านของใจฉัน\nก็คือคุณ"
+          }
         }
       }
     },
@@ -19247,6 +20741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perto de você tudo fica\nno lugar, até a bagunça."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทุกวินาทีที่มีคุณ\nมันเพอร์เฟกต์ไปหมด"
           }
         }
       }
@@ -19325,6 +20825,12 @@
             "state" : "translated",
             "value" : "Meu tipo ideal? Chegou:\nvocê, em tamanho real."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สเปกในฝันของฉัน\nก็คือคุณทั้งตัวเลย"
+          }
         }
       }
     },
@@ -19401,6 +20907,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Meu coração perdeu o\ncompasso quando viu você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ใจฉันรวนหมดแล้ว\nทุกครั้งที่เห็นคุณ"
           }
         }
       }
@@ -19479,6 +20991,12 @@
             "state" : "translated",
             "value" : "Biografia ambulante, é\nisso que você é: pura história."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ประวัติศาสตร์เดินได้\nก็คือคุณ ต้องจารึกไว้ในตำรา"
+          }
         }
       }
     },
@@ -19555,6 +21073,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seu charme me derrota toda vez.\nPior: você nem tenta, né?"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เสน่ห์ของคุณ\nฉันยอมโดนทุกวันเลย"
           }
         }
       }
@@ -19633,6 +21157,12 @@
             "state" : "translated",
             "value" : "De tanto olhar pra você\no pescoço já pediu arrego."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มองแต่คุณจนเพลิน\nกลัวคอเคล็ดแล้วนะ"
+          }
         }
       }
     },
@@ -19709,6 +21239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cada vez que você passa\nmeu coração faz hora extra."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทุกครั้งที่เห็นคุณ\nหัวใจก็วิ่งมาราธอน"
           }
         }
       }
@@ -19787,6 +21323,12 @@
             "state" : "translated",
             "value" : "Pra mim você é capa de\nrevista que anda e fala."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ในสายตาฉัน\nคุณคือภาพถ่ายระดับตำนาน"
+          }
         }
       }
     },
@@ -19863,6 +21405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Todo dia vira folga\ncom você por perto."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ได้อยู่ใกล้คุณทีไร\nทุกวันก็กลายเป็นวันของคนที่ใช่"
           }
         }
       }
@@ -19941,6 +21489,12 @@
             "state" : "translated",
             "value" : "Milagre? Que nada,\nmilagre é pouco: é você."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ปาฏิหาริย์ที่ยังมีลมหายใจ\nก็คือคุณนั่นแหละ"
+          }
         }
       }
     },
@@ -20017,6 +21571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quando você passa, o\nmundo ativa a câmera lenta."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พอได้มองคุณ\nโลกก็เป็นสโลว์โมชั่นเลย"
           }
         }
       }
@@ -20095,6 +21655,12 @@
             "state" : "translated",
             "value" : "Cartão VIP da vida:\nvocê é a lista inteira."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สมาชิกวีไอพีของชีวิตฉัน\nก็คือคุณ"
+          }
         }
       }
     },
@@ -20171,6 +21737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ver você é o meu\nprograma favorito do dia."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ได้เห็นคุณ\nคือไฮไลต์ประจำวันของฉัน"
           }
         }
       }
@@ -20249,6 +21821,12 @@
             "state" : "translated",
             "value" : "Em pleno domingo, você\né o melhor conteúdo da minha tela."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "คอนเทนต์พรีเมียมที่ฉันดูไม่เบื่อ\nก็คือคุณ"
+          }
         }
       }
     },
@@ -20325,6 +21903,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Depois de você, o mundo\npassou a ser em alta definição."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เพราะมีคุณ\nโลกถึงคมชัดระดับเอชดี"
           }
         }
       }
@@ -20403,6 +21987,12 @@
             "state" : "translated",
             "value" : "Hora de ouro? É a hora\nem que você aparece."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ช่วงเวลาทองของฉัน\nก็คือตอนมีคุณ"
+          }
         }
       }
     },
@@ -20479,6 +22069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pensar em você ativa\no sorriso automático."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แค่คิดถึงคุณ\nก็ยิ้มโดยอัตโนมัติ"
           }
         }
       }
@@ -20557,6 +22153,12 @@
             "state" : "translated",
             "value" : "Hotel cinco estrelas? É meu\ncoração, e você é o hóspede VIP."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "โรงแรมห้าดาวสุดหรูในใจฉัน\nก็คือคุณ"
+          }
         }
       }
     },
@@ -20633,6 +22235,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Com você, até terça-feira\nvira dia de festa."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ทุกวันของฉัน\nเป็นวันพรีเมียมเพราะคุณ"
           }
         }
       }
@@ -20711,6 +22319,12 @@
             "state" : "translated",
             "value" : "No grande evento da vida,\nvocê é a atração principal."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อีเวนต์หลักของชีวิตฉัน\nก็คือคุณ"
+          }
         }
       }
     },
@@ -20787,6 +22401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Olho pra você e o\ncoração começa a dançar."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เห็นคุณทีไร\nหัวใจก็เต้นระบำ"
           }
         }
       }
@@ -20865,6 +22485,12 @@
             "state" : "translated",
             "value" : "Visão de 4K? Só se\nfor pra olhar pra você."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ภาพคมชัดระดับ 4K\nของสายตาฉัน คือคุณ"
+          }
         }
       }
     },
@@ -20941,6 +22567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tudo parece mais brilhante\nquando você tá em cena."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มองแต่คุณ\nโลกก็ดูเปล่งประกายไปหมด"
           }
         }
       }
@@ -21019,6 +22651,12 @@
             "state" : "translated",
             "value" : "Pra mim você é\na lista VIP de uma pessoa só."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วีวีไอพีในใจฉันเสมอ\nก็คือคุณ"
+          }
         }
       }
     },
@@ -21095,6 +22733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Graças a você, o dia\nganha trilha sonora e tudo."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "วันนี้พิเศษขึ้นมา\nเพราะคุณคนเดียว"
           }
         }
       }
@@ -21173,6 +22817,12 @@
             "state" : "translated",
             "value" : "Carta na manga? Aqui\na carta de ouro é você."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไพ่ใบลับที่เด็ดที่สุด\nในชีวิตฉัน คือคุณ"
+          }
         }
       }
     },
@@ -21249,6 +22899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Só de pensar em você\no humor sobe de nível."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "พอคิดถึงคุณ\nอารมณ์ก็อัปเกรดทันที"
           }
         }
       }
@@ -21327,6 +22983,12 @@
             "state" : "translated",
             "value" : "Hall da fama, vaga número um:\nreservada pra você, claro."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ในหอเกียรติยศของใจฉัน\nคุณคือคนแรกเลย"
+          }
         }
       }
     },
@@ -21403,6 +23065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A vida era preto e branco,\naí você chegou e pintou tudo."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ชีวิตกลายเป็นสีสัน\nก็เพราะมีคุณ"
           }
         }
       }
@@ -21481,6 +23149,12 @@
             "state" : "translated",
             "value" : "De todos os tempos, você\né a lenda que nunca sai de moda."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ตำนานตลอดกาลของสายตาฉัน\nก็คือคุณ"
+          }
         }
       }
     },
@@ -21558,6 +23232,12 @@
             "state" : "translated",
             "value" : "Ao seu lado o relógio\nfica tímido: você faz o tempo parar."
           }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เวลาเห็นคุณ\nโลกเหมือนวิดีโอสโลว์"
+          }
         }
       }
     },
@@ -21634,6 +23314,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Passe livre pra vida inteira?\nJá tenho: você."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บัตรผ่านพรีเมียมของชีวิตฉัน\nก็คือคุณ"
           }
         }
       }
