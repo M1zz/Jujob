@@ -813,3 +813,48 @@ Ominaisuudet
 
 Yksityisyys on meille tärkeää. Sovellus ei kerää mitään henkilötietoja. Nimesi, suosikkisi ja muut tiedot pysyvät vain omalla laitteellasi.
 Virheilmoitukset ja kehitysideat voit lähettää asetuksista sähköpostilla tai Instagramissa.
+
+## id
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/id/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/id/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/id/index.html
+
+### 이름
+
+Pujian Lebay Harian
+
+### 부제
+
+Yuk, kita heboh bareng!
+
+### 키워드
+
+widget,motivasi,semangat,afirmasi,quotes,positif,healing,mood,pede,galau,gombal,ujian,kencan,favorit
+
+### 프로모션 텍스트
+
+Pujian lebay yang selalu nemenin kamu! Dari pagi sampai pulang kerja, widget di layar utama siap menyemangati kamu habis-habisan. Sekarang namamu juga bisa dipanggil.
+
+### 설명
+
+Aplikasi widget yang bakal muji kamu habis-habisan, lebay banget, tanpa ampun. Beberapa kali sehari, satu kalimat pujian muncul di layar utamamu.
+Biar rasa percaya dirimu nggak gampang turun, ada 281 pujian lebay yang siap menemani dari pagi, berangkat kerja, sebelum wawancara, sampai pas lagi berat.
+
+Fitur utama
+- Widget layar utama: atur font, warna teks, gambar latar, perataan, jarak baris, dan interval refresh sesuka hati.
+- Pilih mood: pilih pujian yang cocok sama suasana hati atau situasimu, misalnya pagi, berangkat kerja, sebelum wawancara, sebelum ujian, sebelum olahraga, sebelum kencan, pulang kerja, malam, lagi berat, healing, percaya diri, dan motivasi.
+- Masukkan nama: kata "kamu" di dalam pujian diganti jadi namamu, jadi rasanya kayak punya fans nomor satu.
+- Favorit dan riwayat: simpan pujian yang kamu suka dengan tombol bintang, dan lihat lagi pujian yang pernah muncul.
+- Rekor beruntun dan pencapaian: cek pujian 7, 30, atau 100 hari berturut-turut, lalu buka pujian spesial.
+
+Privasi aman. Aplikasi ini tidak mengumpulkan data pribadi apa pun. Nama, favorit, dan pengaturan cuma tersimpan di perangkatmu.
+Ada bug atau ide fitur? Kirim lewat email atau Instagram dari layar pengaturan.

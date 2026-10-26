@@ -112,6 +112,12 @@
             "state" : "translated",
             "value" : "Päivän hehkutus"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pujian Lebay Harian"
+          }
         }
       }
     },
@@ -225,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Päivän hehkutus"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pujian Lebay Harian"
           }
         }
       }

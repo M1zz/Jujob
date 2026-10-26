@@ -109,3 +109,9 @@ Fejl og forslag: mail eller Instagram
 Kehuja nyt monella kielellä
 Kehittäjään saa yhteyden asetuksista
 Virheistä ja ideoista voi kertoa suoraan
+
+### 앱스토어 (인도네시아어)
+
+Sekarang tersedia dalam banyak bahasa
+Hubungi developer dari layar Pengaturan
+Lapor bug dan saran via email atau IG

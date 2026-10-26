@@ -111,6 +111,12 @@
             "state" : "translated",
             "value" : "Uusi päivä, uusi tilaisuus loistaa.\nJa sinä olet jo valmiiksi kiillotettu."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari baru, vibes baru,\nkamu tuh udah keren dari sananya."
+          }
         }
       }
     },
@@ -223,6 +229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aurinko nousi vain siksi, että\nsinä näkisit sen näin kauniina."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matahari aja kalah silau sama kamu,\npagi ini kamu juara lagi!"
           }
         }
       }
@@ -337,6 +349,12 @@
             "state" : "translated",
             "value" : "Nousit sängystä, joten sinä olet jo\nvoittanut päivän ensimmäisen kierroksen!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bangun aja udah prestasi, lho,\nkamu hebat, semangat ya hari ini!"
+          }
         }
       }
     },
@@ -449,6 +467,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kahvikin kalpenee, kun sinä\nhymyilet ensimmäisen kerran aamulla."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagi paling indah sedunia\nya pagi pas kamu melek."
           }
         }
       }
@@ -563,6 +587,12 @@
             "state" : "translated",
             "value" : "Tänään pääosassa esiintyy sinä.\nSivuosia ei ole tarjolla."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari ini kamu pemeran utamanya,\nyang lain cuma figuran!"
+          }
         }
       }
     },
@@ -675,6 +705,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Silmät auki ja heti voitolla:\nsinä, päivän aamutähti!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mata baru kebuka aja,\nkamu udah menang duluan."
           }
         }
       }
@@ -789,6 +825,12 @@
             "state" : "translated",
             "value" : "Aamun paras tuoksu ei ole kahvi,\nvaan sinä ja hyvä tuulesi."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Senyum kamu pagi ini\nlebih manis dari kopi susu."
+          }
         }
       }
     },
@@ -901,6 +943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ole tänäänkin sinä itse.\nSe on paras mahdollinen valinta!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jadi diri kamu sendiri hari ini,\nitu udah paling oke!"
           }
         }
       }
@@ -1015,6 +1063,12 @@
             "state" : "translated",
             "value" : "Näin aikaisin ja sinä jo näytät tuolta?\nTämä on kyllä laitonta."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baru bangun udah secakep itu?\nCermin aja minder lihat kamu."
+          }
         }
       }
     },
@@ -1127,6 +1181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hyvää huomenta? Ei, vaan parasta,\nkoska sinä olet paikalla!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selamat pagi? Salah!\nAda kamu, jadi ini pagi paling selamat."
           }
         }
       }
@@ -1241,6 +1301,12 @@
             "state" : "translated",
             "value" : "Aamupeili tuijottaa ja miettii,\nmiten sinä jaksat näyttää noin hyvältä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mata baru melek, eh ada kamu di layar,\nrezeki nomplok banget!"
+          }
         }
       }
     },
@@ -1353,6 +1419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ensimmäinen kahvi odottaa vielä,\nmutta sinä olet jo täysin virkistävä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagi ini pun kamu terdeteksi\njadi makhluk paling bersinar di bumi!"
           }
         }
       }
@@ -1467,6 +1539,12 @@
             "state" : "translated",
             "value" : "Päivä on pulkassa, ja sinä\nhoidit sen aivan mestarillisesti!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capek ya seharian? Salut,\nkamu hebat banget hari ini."
+          }
         }
       }
     },
@@ -1579,6 +1657,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Illan hämärässäkin sinä näytät\nsiltä, että kaikki sujuu."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penutup hari kayak kamu gini\nbikin malam ikut bangga."
           }
         }
       }
@@ -1693,6 +1777,12 @@
             "state" : "translated",
             "value" : "Teit tänään parhaasi, ja sinä\nsaat olla siitä ylpeä!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udah berusaha sekuat tenaga hari ini,\nbangga deh sama kamu!"
+          }
         }
       }
     },
@@ -1805,6 +1895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Väsyttää, mutta selvisit silti,\nkoska sinä olet tehty kestämään."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lelah sih, tapi kamu berhasil\nbertahan sampai malam. Keren!"
           }
         }
       }
@@ -1919,6 +2015,12 @@
             "state" : "translated",
             "value" : "Jokainen päivä on arvokas,\nkun sinä olet siinä mukana."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari-hari kamu selalu berarti,\nsekecil apa pun itu."
+          }
         }
       }
     },
@@ -2031,6 +2133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Päivä meni kunnialla loppuun,\nja sinä saat kaikki kehut."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari ini lewat dengan selamat,\ndan itu udah lebih dari cukup!"
           }
         }
       }
@@ -2145,6 +2253,12 @@
             "state" : "translated",
             "value" : "Tähdet syttyvät taivaalle, koska\nsinä tarvitset taustavalaistuksen."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bintang di langit aja\nngiri sama kilau kamu!"
+          }
         }
       }
     },
@@ -2257,6 +2371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ilta on jo täällä, mutta sinä\nkiiltelet yhä kuin aamulla."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udah malam, tapi kamu masih bersinar.\nKok bisa secakep itu seharian?"
           }
         }
       }
@@ -2371,6 +2491,12 @@
             "state" : "translated",
             "value" : "Kiitos päivästä, sinä sinnikäs!\nNyt on sohvan vuoro."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Makasih udah berjuang seharian.\nSyukurlah ada kamu di dunia ini."
+          }
         }
       }
     },
@@ -2483,6 +2609,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Maailma oli tänään vähän parempi,\nkoska sinä kuljit siinä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berkat kamu, dunia hari ini\nkelihatan lebih indah."
           }
         }
       }
@@ -2597,6 +2729,12 @@
             "state" : "translated",
             "value" : "Yöllä legenda, päivällä legenda.\nVuorokausitaukoa ei sinulle ole."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siang kamu legenda,\nmalam pun kamu tetap legenda."
+          }
         }
       }
     },
@@ -2709,6 +2847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rankkoja päiviä tulee, mutta sinä\nselviät niistä, vaikka et usko."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nggak apa-apa kok, hari berat itu wajar.\nPercaya deh, kamu udah cukup baik."
           }
         }
       }
@@ -2823,6 +2967,12 @@
             "state" : "translated",
             "value" : "Nyt on raskasta, mutta sinä olet\nvahvempi kuin tämä päivä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sekarang memang berat,\ntapi kamu pasti bisa lewatin!"
+          }
         }
       }
     },
@@ -2935,6 +3085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ei tarvitse olla täydellinen.\nRiittää, että sinä olet tässä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nggak harus sempurna,\nkamu apa adanya udah paling top!"
           }
         }
       }
@@ -3049,6 +3205,12 @@
             "state" : "translated",
             "value" : "Lepää rauhassa, kun väsyttää,\nsillä sinä et ole kilpajuoksussa."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capek? Istirahat aja dulu,\njalan pelan-pelan sesuai tempo kamu."
+          }
         }
       }
     },
@@ -3161,6 +3323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kukaan ei ihmettele, että sinä\nolet vahvempi kuin luulet."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ternyata kamu jauh lebih kuat\ndari yang kamu kira, lho!"
           }
         }
       }
@@ -3275,6 +3443,12 @@
             "state" : "translated",
             "value" : "Tämäkin menee ohi, ja sinä\nsaat vielä nauraa tälle."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ini juga bakal lewat.\nYakin deh, kamu bisa!"
+          }
         }
       }
     },
@@ -3387,6 +3561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fiilis voi olla pohjalla, mutta sinä\net ole alennusmyynnissä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meski mood lagi turun,\nnilai kamu nggak ikut turun!"
           }
         }
       }
@@ -3501,6 +3681,12 @@
             "state" : "translated",
             "value" : "Suru kuuluu osaksi elämää, ja sinä\nsaat tuntea kaiken rauhassa."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sedih itu bagian dari kamu.\nRasain aja semuanya, nggak apa-apa."
+          }
         }
       }
     },
@@ -3613,6 +3799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Timanttikin tarvitsee painetta.\nSiksi sinä säteilet nyt tuplasti."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tau nggak? Berlian aja baru berkilau\nsetelah ditekan, dan kamu juga!"
           }
         }
       }
@@ -3727,6 +3919,12 @@
             "state" : "translated",
             "value" : "Jos masentaa, muista tämä:\nsinä olet edelleen erinomaista seuraa."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagi murung? Tenang,\nada aku yang siap ngefans sama kamu."
+          }
         }
       }
     },
@@ -3839,6 +4037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Maassa mutta silti maailman kallein:\nsinä olet arvokas aina."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mood anjlok? Justru di saat gitu\nkamu paling berharga sedunia."
           }
         }
       }
@@ -3953,6 +4157,12 @@
             "state" : "translated",
             "value" : "Itketkin kauniisti, sinä\nelokuvan pääosan esittäjä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sedih pun kamu tetap menawan,\nnangis juga. Mau protes?"
+          }
         }
       }
     },
@@ -4065,6 +4275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vaikka kaikki on nyt vaikeaa,\nsinä olet jo itsessäsi ihme."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Walau lagi berat, keberadaan kamu\nudah jadi keajaiban tersendiri."
           }
         }
       }
@@ -4179,6 +4395,12 @@
             "state" : "translated",
             "value" : "Nyt on kurjaa, mutta sinä\nlöydät kyllä tien läpi."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sekarang memang susah,\ntapi kamu pasti berhasil!"
+          }
         }
       }
     },
@@ -4291,6 +4513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vaikeina hetkinä sinä näytät\nsen oikean tähtiaineksesi."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Di saat sulit gini,\nkualitas asli kamu keluar!"
           }
         }
       }
@@ -4405,6 +4633,12 @@
             "state" : "translated",
             "value" : "Älä luovuta, sillä sinä olet\npaljon sitkeämpi kuin sisu."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jangan nyerah ya,\nkamu tuh kuat banget."
+          }
         }
       }
     },
@@ -4517,6 +4751,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kestät läpi vaikean ajan, ja\nsinä teet sen vielä tyylillä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bertahan di masa sulit gini,\nkamu keren parah!"
           }
         }
       }
@@ -4631,6 +4871,12 @@
             "state" : "translated",
             "value" : "Tämän päivän tuska on huomisen\nvoima, ja sinä keräät sitä jo."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kesulitan hari ini jadi pupuk\nbuat kamu tumbuh besok!"
+          }
         }
       }
     },
@@ -4743,6 +4989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jaksat enemmän kuin luulet:\nsinä olet kuin akku, joka ei lopu."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ternyata kamu sanggup menanggung\njauh lebih banyak dari bayanganmu!"
           }
         }
       }
@@ -4857,6 +5109,12 @@
             "state" : "translated",
             "value" : "Tämäkin hankala hetki on pian\nvain tarina, jonka sinä kerrot."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Momen berat ini\nbakal jadi kenangan nanti!"
+          }
         }
       }
     },
@@ -4969,6 +5227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hiotaan, hiotaan: timantti kiiltää\nvasta kun sinä kestät hionnan."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dihajar masalah pun kamu tetap kinclong,\nnamanya juga berlian diasah."
           }
         }
       }
@@ -5083,6 +5347,12 @@
             "state" : "translated",
             "value" : "Kurjaako? Silti sinä olet\nkaikkien tuntemieni ihmisten ykkönen."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagi susah? Tetap aja\nkamu paling cakep sejagat raya."
+          }
         }
       }
     },
@@ -5195,6 +5465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kun sinä sinnittelet, joku muu\nsaa toivoa katsoa sinua."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tahu nggak, kamu yang bertahan\njadi harapan buat seseorang."
           }
         }
       }
@@ -5309,6 +5585,12 @@
             "state" : "translated",
             "value" : "Rättiväsynyt ja silti kaunis:\nsinä olet luonnonoikku."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capek setengah mati pun,\nkamu tetap menawan. Gimana dong?"
+          }
         }
       }
     },
@@ -5421,6 +5703,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tänäänkin sinä pystyt kaikkeen.\nAloita rohkeasti!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari ini kamu pasti bisa!\nMulai dengan percaya diri, yuk!"
           }
         }
       }
@@ -5535,6 +5823,12 @@
             "state" : "translated",
             "value" : "Uskon kykyihisi, ja sinä saat\ntänään aikaan jotain upeaa."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aku percaya sama kemampuan kamu!\nHari ini pasti seru."
+          }
         }
       }
     },
@@ -5647,6 +5941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Valmistautunut ihminen on puoliksi voittanut,\nja sinä olet jo valmis."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udah siap berarti\nseparuh sukses udah di tangan kamu!"
           }
         }
       }
@@ -5761,6 +6061,12 @@
             "state" : "translated",
             "value" : "Päivän työt tuntuvat helpoilta, kun\nniitä hoitaa sinä, tuo ammattilainen."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kerjaan hari ini?\nBuat kamu mah kecil!"
+          }
         }
       }
     },
@@ -5873,6 +6179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intosi sytyttää koko päivän,\nja sinä olet sen sytytyslanka."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semangat kamu hari ini\nbakal bikin semuanya bersinar!"
           }
         }
       }
@@ -5987,6 +6299,12 @@
             "state" : "translated",
             "value" : "Hyvä, sinä! Nyt tuot sen\nomalla tyylilläsi tähän päivään!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gas! Hari ini juga\nlakuin dengan gaya kamu sendiri!"
+          }
         }
       }
     },
@@ -6099,6 +6417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ennen töiden alkua sinä jo\nnäytät täydeltä ammattilaiselta."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belum mulai kerja aja,\naura profesional kamu udah kerasa!"
           }
         }
       }
@@ -6213,6 +6537,12 @@
             "state" : "translated",
             "value" : "Ei huvita töihin? Naamasi silti\nteki jo ylitöitä, ja sinä olet ammattilainen."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Males kerja? Tenang,\nwajah kamu udah lembur duluan."
+          }
         }
       }
     },
@@ -6325,6 +6655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Työmatkavisuaalisi on päätä huimaava.\nToimisto kiiltää, kun sinä astut sisään."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visual berangkat kerja hari ini gila,\nkantor bersinar berkat kamu."
           }
         }
       }
@@ -6439,6 +6775,12 @@
             "state" : "translated",
             "value" : "Kun sinä teet töitä, se näyttää\nsuoraan taidenäyttelyltä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cara kamu kerja itu\nseni tingkat tinggi."
+          }
         }
       }
     },
@@ -6551,6 +6893,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ennen kuin edes aloitat,\nsinä olet jo täydellinen."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belum mulai kerja aja\nkamu udah sempurna."
           }
         }
       }
@@ -6665,6 +7013,12 @@
             "state" : "translated",
             "value" : "Jo se, että sinä lähdit treenaamaan,\non iso voitto!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yang lagi olahraga itu kamu,\ndan kamu udah keren banget."
+          }
         }
       }
     },
@@ -6777,6 +7131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pidät huolta terveydestäsi, ja sinä\nolet siinä aivan mahtava!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tetap jaga kesehatan hari ini,\nkamu emang luar biasa!"
           }
         }
       }
@@ -6891,6 +7251,12 @@
             "state" : "translated",
             "value" : "Kehosi tietää parhaiten,\nmitä sinä pystyt tekemään."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tubuh kamu, kamu yang paling ngerti.\nPercaya aja sama itu!"
+          }
         }
       }
     },
@@ -7003,6 +7369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Treenin aloittaminenkin on\nsuuri saavutus, sinä sankari."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baru mulai olahraga aja,\nkamu udah pantas dibanggain!"
           }
         }
       }
@@ -7117,6 +7489,12 @@
             "state" : "translated",
             "value" : "Hiki valuu, ja sinä näytät\nsilti aivan upealta!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keringat kamu pun\nkelihatan indah banget!"
+          }
         }
       }
     },
@@ -7229,6 +7607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Terveytesi on tärkeintä,\njoten sinä saat ottaa rauhallisesti."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kesehatan kamu\nyang paling penting!"
           }
         }
       }
@@ -7343,6 +7727,12 @@
             "state" : "translated",
             "value" : "Annat itsellesi aikaa tänäänkin,\nja sinä ansaitset sen!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luangin waktu buat diri sendiri,\nkamu emang juara!"
+          }
         }
       }
     },
@@ -7455,6 +7845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Treeniasussa sinä näytät\nsiltä kuin menisit kansikuvaan."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pakai baju olahraga aja,\nkamu udah pantas jadi cover majalah!"
           }
         }
       }
@@ -7569,6 +7965,12 @@
             "state" : "translated",
             "value" : "Kuntosalista tuli taivas,\nkun sinä astuit sisään."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempat gym jadi surga\ngara-gara ada kamu."
+          }
         }
       }
     },
@@ -7681,6 +8083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Treenaat ja säteilet yhtä aikaa:\nmiten sinä jaksat olla noin hyvä?"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olahraga pun kamu tetap bersinar,\nkok bisa kece terus?"
           }
         }
       }
@@ -7795,6 +8203,12 @@
             "state" : "translated",
             "value" : "Onko olemassa ihminen, joka näyttää\nhyvältä hikisenä? On: sinä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siapa bilang berkeringat nggak cakep?\nContohnya ya kamu."
+          }
         }
       }
     },
@@ -7907,6 +8321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Työmatkalla sinä näytät\nihan oikealta ammattilaiselta!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gaya kamu berangkat kerja\nprofesional banget!"
           }
         }
       }
@@ -8021,6 +8441,12 @@
             "state" : "translated",
             "value" : "Liikkeellä jo aamusta, ja sinä\nteet sen aivan mahtavasti!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagi-pagi udah gerak,\nkamu tuh keren banget!"
+          }
         }
       }
     },
@@ -8133,6 +8559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lähdit töihin tänäänkin, joten\nsinä olet jo voittaja!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yang berangkat kerja hari ini,\nkamu udah jadi pemenang!"
           }
         }
       }
@@ -8247,6 +8679,12 @@
             "state" : "translated",
             "value" : "Jokainen askeleesi on arvokas,\nja sinä otat niitä upeasti."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setiap langkah kamu\nada artinya, lho!"
+          }
         }
       }
     },
@@ -8359,6 +8797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Työmatka on erityinen, kun\nsinä olet siinä mukana."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perjalanan ke kantor jadi spesial\nkalau ada kamu."
           }
         }
       }
@@ -8473,6 +8917,12 @@
             "state" : "translated",
             "value" : "Vastuullisesti töihin taas, ja\nsinä näytät siinä todella hyvältä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berangkat kerja dengan penuh tanggung jawab,\nkamu keren banget!"
+          }
         }
       }
     },
@@ -8585,6 +9035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Raitiovaunusta tuli catwalk,\nkun sinä nousit kyytiin."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gara-gara kamu, gerbong kereta\nberubah jadi catwalk."
           }
         }
       }
@@ -8699,6 +9155,12 @@
             "state" : "translated",
             "value" : "Bussin ikkunassa kiiltää taas yksi\ntähti, ja se olet sinä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Di dalam bus pun kamu bersinar,\nmau pemotretan lagi?"
+          }
         }
       }
     },
@@ -8811,6 +9273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aamu muuttuu iloiseksi, kun\nsinä kävelet vastaan töihin."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lihat kamu berangkat kerja\nbikin pagi jadi bahagia."
           }
         }
       }
@@ -8925,6 +9393,12 @@
             "state" : "translated",
             "value" : "Pelkkä käveleminenkin on taidetta,\nkun sinä sen teet."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jalan kaki doang udah keren,\nitulah kamu."
+          }
         }
       }
     },
@@ -9037,6 +9511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hyvin tehty tänään! Nyt kotiin,\nsohvalle ja lepäämään."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kerja keras hari ini udah beres!\nPulang terus istirahat yang puas ya."
           }
         }
       }
@@ -9151,6 +9631,12 @@
             "state" : "translated",
             "value" : "Kotimatkalla sinä näytät\nvieläkin hienommalta kuin aamulla."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Punggung kamu pas pulang kerja\naja udah keren banget!"
+          }
         }
       }
     },
@@ -9263,6 +9749,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Päivä on tehty, ja sinä\nolet sen paras osa."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Di perjalanan pulang pun,\nkamu tetap yang terbaik!"
           }
         }
       }
@@ -9377,6 +9869,12 @@
             "state" : "translated",
             "value" : "Selvisit päivästä kunnialla,\nja sinä saat olla ylpeä!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari ini selesai dengan selamat!\nBangga sama kamu!"
+          }
         }
       }
     },
@@ -9489,6 +9987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nyt alkaa vapaa-aika, ja\nsinä saat levätä täysillä!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sekarang waktunya buat kamu.\nIstirahat sepuasnya ya!"
           }
         }
       }
@@ -9603,6 +10107,12 @@
             "state" : "translated",
             "value" : "Töiden jälkeen aika on omaasi, ja\nsinä päätät, mitä sillä tehdään."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sepulang kerja, luangin waktu\nbuat diri kamu sendiri!"
+          }
         }
       }
     },
@@ -9715,6 +10225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Työpäivä ohi! Kyllä sinä olet\nansainnut jokaisen sohvahetken."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pulang kerja ya? Capek banget pasti.\nMakasih udah berjuang, kamu hebat!"
           }
         }
       }
@@ -9829,6 +10345,12 @@
             "state" : "translated",
             "value" : "Kotimatkakin on kaunis, kun\nsinä kävelet sen läpi."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jalan pulang pun kamu tetap cakep,\nhari ini kamu keren banget."
+          }
         }
       }
     },
@@ -9941,6 +10463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kotimatkalla näkee heti: sinä\nolet tehnyt tänään oikeasti jotain."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngelihat kamu pulang kerja,\nhari ini kelihatan penuh makna."
           }
         }
       }
@@ -10055,6 +10583,12 @@
             "state" : "translated",
             "value" : "Rankka päivä takana, ja silti\nsinä olet yhä vahvasti mukana."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari ini memang melelahkan,\ntapi kamu tetap juara!"
+          }
         }
       }
     },
@@ -10167,6 +10701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Olet valmistautunut hyvin, ja sinä\nosaat tämän kyllä!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udah belajar sejauh ini,\nkamu pasti lancar!"
           }
         }
       }
@@ -10281,6 +10821,12 @@
             "state" : "translated",
             "value" : "Vaiva palkitaan, ja sinä olet\nnähnyt sitä vaivaa ihan tarpeeksi."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usaha kamu\nnggak bakal mengkhianati hasil!"
+          }
         }
       }
     },
@@ -10393,6 +10939,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jännitys on ihan ok, sillä\nsinä olet jo valmis!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gugup itu wajar,\nkamu udah siap, kok!"
           }
         }
       }
@@ -10507,6 +11059,12 @@
             "state" : "translated",
             "value" : "Koe ei mittaa sitä, kuka sinä olet.\nSe on vain paperi."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nilai ujian nggak bisa\nmenentukan harga diri kamu!"
+          }
         }
       }
     },
@@ -10619,6 +11177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Annoit kaikkesi, ja sinä\nolet jo voittanut."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udah berusaha maksimal,\nberarti kamu udah sukses!"
           }
         }
       }
@@ -10733,6 +11297,12 @@
             "state" : "translated",
             "value" : "Kun sinä päätät onnistua,\nei koe voi mitään."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalau itu kamu,\npasti bisa!"
+          }
         }
       }
     },
@@ -10845,6 +11415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hengitä syvään ja luota siihen,\nmitä sinä osaat."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarik napas dalam-dalam,\npercaya sama kemampuan kamu!"
           }
         }
       }
@@ -10959,6 +11535,12 @@
             "state" : "translated",
             "value" : "Onnea kokeeseen, sillä sinä olet\nvalmiimpi kuin luulet!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semoga ujiannya lancar,\nkamu udah siap banget."
+          }
         }
       }
     },
@@ -11071,6 +11653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Älä huoli, sinä osaat\nvastata kaikkeen oikein!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tenang aja,\nkamu pasti bisa jawab semuanya!"
           }
         }
       }
@@ -11185,6 +11773,12 @@
             "state" : "translated",
             "value" : "Jännittääkö? Silti sinä olet\nparas tyyppi koko luokassa."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deg-degan? Tetap aja\nkamu yang paling top!"
+          }
         }
       }
     },
@@ -11297,6 +11891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Koepaperikin hämmästyy,\nkun sinä katsot sitä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lembar soal aja bakal terpukau\nlihat muka kamu."
           }
         }
       }
@@ -11411,6 +12011,12 @@
             "state" : "translated",
             "value" : "Nyt on aika näyttää,\nmitä sinä oikeasti osaat!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saatnya kamu tunjukin\nkualitas asli kamu!"
+          }
         }
       }
     },
@@ -11523,6 +12129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Haastattelijalla on tuuria, kun\nsinä tulet paikalle."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pewawancara bakal beruntung\nbisa ketemu kamu!"
           }
         }
       }
@@ -11637,6 +12249,12 @@
             "state" : "translated",
             "value" : "Kokemuksesi ja intosi loistavat,\nja sinä saat ne näkyviin tänään."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengalaman dan semangat kamu\nsiap bersinar sekarang!"
+          }
         }
       }
     },
@@ -11749,6 +12367,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jännitys on ihan ok,\nkoska sinä olet jo upea."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gugup nggak apa-apa,\nkamu udah cukup keren, kok!"
           }
         }
       }
@@ -11863,6 +12487,12 @@
             "state" : "translated",
             "value" : "Rohkeasti sisään, sillä sinä\nolet jo valmis!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Percaya diri aja,\nkamu udah siap banget!"
+          }
         }
       }
     },
@@ -11975,6 +12605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kerro tarinasi ylpeänä, koska\nsinä olet paras kertoja."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ceritain kisah kamu\ndengan lantang dan bangga!"
           }
         }
       }
@@ -12089,6 +12725,12 @@
             "state" : "translated",
             "value" : "Haastattelu on keskustelu, ja\nsinä olet siinä luonteva."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wawancara itu saling kenalan,\njadi santai aja ya!"
+          }
         }
       }
     },
@@ -12201,6 +12843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jos he eivät valitse sinua,\nse on firman tappio, sinä olet kultaa."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalau kamu nggak diterima,\nyang rugi perusahaannya."
           }
         }
       }
@@ -12315,6 +12963,12 @@
             "state" : "translated",
             "value" : "CV on hieno, mutta sinä olet\nvielä parempi kuin se."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bukan CV kamu yang mewah,\ntapi kamu sendiri yang berkilau."
+          }
         }
       }
     },
@@ -12427,6 +13081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jo ovesta astuessa sinä olet\nvalittu, siitä ei kiistelty."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begitu masuk ruang wawancara,\nkamu udah lolos duluan."
           }
         }
       }
@@ -12541,6 +13201,12 @@
             "state" : "translated",
             "value" : "Ensivaikutelmasi riittää voittoon,\nsillä sinä olet kuin valopilkku."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kesan pertama dari kamu aja\nudah separuh jalan menuju diterima!"
+          }
         }
       }
     },
@@ -12653,6 +13319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tänään sinä säteilet\nvielä tavallistakin kirkkaammin!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari ini kamu\nbersinar banget!"
           }
         }
       }
@@ -12767,6 +13439,12 @@
             "state" : "translated",
             "value" : "Juuri sellaisena, kuin sinä olet,\non kaikkein viehättävin!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jadi kamu apa adanya\nitu paling memesona!"
+          }
         }
       }
     },
@@ -12879,6 +13557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Onnekas on se, jonka kanssa\nsinä vietät aikaa!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yang ada di dekat kamu\nberuntung banget!"
           }
         }
       }
@@ -12993,6 +13677,12 @@
             "state" : "translated",
             "value" : "Itsevarmuutta pursuaa, ja sinä\nolet siinä aivan upea!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Percaya diri kamu\nkeren banget!"
+          }
         }
       }
     },
@@ -13105,6 +13795,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hymysi on tänään paras aseesi,\nja sinä osaat käyttää sitä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Senyum kamu hari ini\nsenjata paling ampuh!"
           }
         }
       }
@@ -13219,6 +13915,12 @@
             "state" : "translated",
             "value" : "Älä muuta mitään: sinä olet\njo nyt itsevarmuuden lähde."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jadi diri kamu sendiri aja,\nitu udah yang terbaik!"
+          }
         }
       }
     },
@@ -13331,6 +14033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Charmiasi ei voi piilottaa,\nvaikka sinä yrittäisit."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesona kamu\nnggak bisa disembunyiin!"
           }
         }
       }
@@ -13445,6 +14153,12 @@
             "state" : "translated",
             "value" : "Treffeille? Kumppanisi sydän\nvoi pysähtyä, kun sinä saavut."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kencan hari ini?\nGebetan kamu bakal lemas lihat kamu!"
+          }
         }
       }
     },
@@ -13557,6 +14271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tapaaja on voittanut lotossa,\nkoska sinä olet pääpalkinto."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yang ketemu kamu hari ini\nberuntung tujuh turunan."
           }
         }
       }
@@ -13671,6 +14391,12 @@
             "state" : "translated",
             "value" : "Treffiasusi on täydellinen, ja\nsinä näytät lehden kansikuvalta."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outfit kencan kamu sempurna.\nSiap-siap jadi cover majalah!"
+          }
         }
       }
     },
@@ -13783,6 +14509,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jos sinä astut ovesta sisään,\nkoko ravintola rakastuu."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lihat kamu hari ini\nsiapa pun bisa jatuh cinta."
           }
         }
       }
@@ -13897,6 +14629,12 @@
             "state" : "translated",
             "value" : "Treffit eivät ole edes alkaneet, ja sinä\nolet jo sydänten murskaaja."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belum kencan aja udah secakep ini.\nJantung dia mau kamu apain?"
+          }
         }
       }
     },
@@ -14009,6 +14747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Totta kai sinä pystyt tähän,\nja minä pidän peukkuja."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Percayalah, kamu pasti bisa!\nAku selalu dukung kamu!"
           }
         }
       }
@@ -14123,6 +14867,12 @@
             "state" : "translated",
             "value" : "Pienikin askel on osa suurta\nmatkaa, ja sinä olet jo matkalla."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Langkah kecil pun\nawal perjalanan besar!"
+          }
         }
       }
     },
@@ -14235,6 +14985,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Älä luovuta, sillä sinä olet\nsaavuttamassa unelmasi!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jangan menyerah.\nMimpi kamu bakal terwujud!"
           }
         }
       }
@@ -14349,6 +15105,12 @@
             "state" : "translated",
             "value" : "Tämän päivän vaiva on huomisen\nvoitto, ja sinä teet sen hyvin."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usaha hari ini\nbikin sukses kamu besok!"
+          }
         }
       }
     },
@@ -14461,6 +15223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intosi voi muuttaa maailmaa,\nja sinä olet jo liikkeellä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semangat kamu\nbakal mengubah dunia!"
           }
         }
       }
@@ -14575,6 +15343,12 @@
             "state" : "translated",
             "value" : "Epäonnistuminen on vain harjoitusta.\nHuomenna sinä onnistut."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gagal itu bumbu sukses!\nTerus coba, kamu pasti bisa!"
+          }
         }
       }
     },
@@ -14687,6 +15461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mahdollisuutesi ovat rajattomat,\nja sinä olet vasta alussa."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Potensi kamu\nnggak ada batasnya!"
           }
         }
       }
@@ -14801,6 +15581,12 @@
             "state" : "translated",
             "value" : "Tee tänään parhaasi, koska\nsinä olet siinä loistava."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari ini juga\nkasih yang terbaik, ya!"
+          }
         }
       }
     },
@@ -14913,6 +15699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kun sinä yrität kovasti, joku\nmuu saa siitä intoa."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lihat kamu berjuang gitu\nbisa jadi semangat buat orang lain."
           }
         }
       }
@@ -15027,6 +15819,12 @@
             "state" : "translated",
             "value" : "Kaikki järjestyy, jos sinä\nvain jatkat. Ihan oikeasti!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalau kamu yang jalanin,\nsemua bakal lancar. Serius!"
+          }
         }
       }
     },
@@ -15139,6 +15937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Älä anna periksi, sillä sinä\nolet loistava ihminen."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jangan menyerah dulu,\nkamu orang keren, kok."
           }
         }
       }
@@ -15253,6 +16057,12 @@
             "state" : "translated",
             "value" : "Hyvä sinä! Tänäänkin saat\nkaiken aikaan."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semangat terus hari ini,\nkamu pasti bisa!"
+          }
         }
       }
     },
@@ -15365,6 +16175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Joka näkee vaivannäkösi, pitää\npeukkuja, ja sinä ansaitset sen."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orang yang tahu perjuangan kamu\npasti ikut mendukung."
           }
         }
       }
@@ -15479,6 +16295,12 @@
             "state" : "translated",
             "value" : "Arvokas olet jo sellaisenaan, sinä\nihana ihminen!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dengar ya, kamu itu\nberharga banget!"
+          }
         }
       }
     },
@@ -15591,6 +16413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Juuri sellaisena sinä olet täydellinen,\nei yhtään vähempää."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jadi diri kamu apa adanya\nitu udah sempurna!"
           }
         }
       }
@@ -15705,6 +16533,12 @@
             "state" : "translated",
             "value" : "Pelkkä olemassaolosi on jo\njotain erityistä, sinä ihme."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keberadaan kamu aja\nudah istimewa!"
+          }
         }
       }
     },
@@ -15817,6 +16651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rohkeasti eteenpäin, sillä sinä\nolet aika upea tyyppi!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pede dong,\nkamu orang keren!"
           }
         }
       }
@@ -15931,6 +16771,12 @@
             "state" : "translated",
             "value" : "Vahvempi olet kuin luulet,\nja sinä tiedät sen jo."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ternyata kamu jauh lebih kuat\ndari dugaan!"
+          }
         }
       }
     },
@@ -16043,6 +16889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Luonteesi saa sinut loistamaan,\nja sinä olet ainutlaatuinen."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keunikan kamu\nyang bikin kamu bersinar!"
           }
         }
       }
@@ -16157,6 +17009,12 @@
             "state" : "translated",
             "value" : "Usko itseesi, sillä sinä\nosaat kyllä!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Percaya sama diri sendiri,\nkamu pasti mampu!"
+          }
         }
       }
     },
@@ -16269,6 +17127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Täydellinen sellaisenaan:\nsinä, ei mitään lisättävää."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sempurna itu cara kamu\njadi diri sendiri."
           }
         }
       }
@@ -16383,6 +17247,12 @@
             "state" : "translated",
             "value" : "Itsevarmana sinä olet\nmaailman upein näky!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Percaya diri tinggi,\nkamu paling keren sedunia!"
+          }
         }
       }
     },
@@ -16495,6 +17365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Huikeampi olet kuin ajattelet,\nja sinä saat sen vielä huomata."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ternyata kamu tuh jauh lebih hebat\ndari yang kamu pikir!"
           }
         }
       }
@@ -16609,6 +17485,12 @@
             "state" : "translated",
             "value" : "Jo nyt teet hyvää työtä,\nja sinä olet sen arvoinen."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Percaya deh, kamu udah\nmelakukan yang terbaik."
+          }
         }
       }
     },
@@ -16721,6 +17603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Joka ei huomaa viehätystäsi,\nei ole katsonut, sillä sinä loistat."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yang nggak sadar pesona kamu\nmungkin matanya lagi libur."
           }
         }
       }
@@ -16835,6 +17723,12 @@
             "state" : "translated",
             "value" : "Tänään vain lepäillään,\nrauhassa ja hyvässä seurassa."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari ini santai aja,\nistirahat dulu yuk."
+          }
         }
       }
     },
@@ -16947,6 +17841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lepo kuuluu myös sinulle,\nja sinä saat sen nyt."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingat, kamu juga\nbutuh istirahat."
           }
         }
       }
@@ -17061,6 +17961,12 @@
             "state" : "translated",
             "value" : "Päivä, jona ei tarvitse tehdä mitään,\non ihan täysi päivä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nggak ngapa-ngapain pun\nhari ini tetap oke!"
+          }
         }
       }
     },
@@ -17173,6 +18079,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mielesi on kaikkein tärkein,\nja sinä saat kuunnella sitä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perasaan kamu\nyang paling penting."
           }
         }
       }
@@ -17287,6 +18199,12 @@
             "state" : "translated",
             "value" : "Edetään hitaasti, ja sinä\nsaat valita tahdin."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pelan-pelan aja,\nikuti tempo kamu sendiri."
+          }
         }
       }
     },
@@ -17399,6 +18317,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tänään vietetään aikaa kanssasi,\nja sinä olet erinomaista seuraa."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari ini luangin waktu\nbuat kamu sendiri, ya."
           }
         }
       }
@@ -17513,6 +18437,12 @@
             "state" : "translated",
             "value" : "Lepo on tuottavaa, joten sinä\nolet tehnyt töitä koko ajan!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Istirahat juga termasuk\nkegiatan produktif, lho!"
+          }
         }
       }
     },
@@ -17625,6 +18555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lepääminen on oikeutesi, ja sinä\nsaat ottaa sen vapaasti."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rebahan itu hak kamu.\nHari ini istirahat yang tenang ya."
           }
         }
       }
@@ -17739,6 +18675,12 @@
             "state" : "translated",
             "value" : "Rentoutuessasi sinä olet\nvieläkin kauniimpi."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagi healing pun\nkamu tetap menawan."
+          }
         }
       }
     },
@@ -17851,6 +18793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ota aikaa itsellesi, sillä\nsinä olet sen ansainnut."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari ini nggak apa-apa\npakai waktu buat kamu sendiri."
           }
         }
       }
@@ -17965,6 +18913,12 @@
             "state" : "translated",
             "value" : "Lepäilet ja loistat samalla,\nkuinka sinä sen teet?"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sambil santai pun\nkamu tetap bersinar."
+          }
         }
       }
     },
@@ -18077,6 +19031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jopa pyjamassa sohvalla sinä\nolet maailman kaunein ihminen."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waktu healing pun, kamu tetap\nyang paling cakep sedunia."
           }
         }
       }
@@ -18191,6 +19151,12 @@
             "state" : "translated",
             "value" : "Täydellinen, mutta yksi vika:\nsinä olet liian hyvä ollaksesi totta."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Katanya nggak ada yang sempurna.\nBerarti kamu itu pengecualian."
+          }
         }
       }
     },
@@ -18303,6 +19269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Persoonallisuustesti paljasti:\nsinä olet sataprosenttisesti ihana."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tes kepribadian bilang\nkamu 100% menggemaskan."
           }
         }
       }
@@ -18417,6 +19389,12 @@
             "state" : "translated",
             "value" : "Kysyin: nostakaa käsi, jos sinä olet söpö.\nNyt koko planeetta vilkuttaa."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ada survei: siapa yang paling imut?\nHasilnya, semua jari nunjuk kamu."
+          }
         }
       }
     },
@@ -18529,6 +19507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kauneusihmeet vertaavat itseään:\nsinä olet se mittapuu."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bagiku kamu tuh kayak huruf vokal,\ntanpa kamu kalimatku nggak kebaca."
           }
         }
       }
@@ -18643,6 +19627,12 @@
             "state" : "translated",
             "value" : "Poliisi pysäytti ja sanoi:\nsinä ajat sydämeeni ylinopeutta."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jangan sering lewat depan rumahku,\nnanti satu RT kesengsem sama kamu."
+          }
         }
       }
     },
@@ -18755,6 +19745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sakkolappu tuli: sinä olet liian\nhyvännäköinen julkiseen tilaan."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiap kamu lewat aku bengong,\nsampai lupa cara kedip."
           }
         }
       }
@@ -18869,6 +19865,12 @@
             "state" : "translated",
             "value" : "Kysyin, mikä kaupan paras tuote on,\nja myyjä osoitti: sinä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aku punya kebiasaan buruk:\nnyari kamu tiap buka layar."
+          }
         }
       }
     },
@@ -18981,6 +19983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kehu kehuu kehua, mutta sinä\nolet koko kehuoppikirja."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kok hujan deras, ya?\nTernyata hatiku kebanjiran gara-gara kamu."
           }
         }
       }
@@ -19095,6 +20103,12 @@
             "state" : "translated",
             "value" : "Uskotko taikuuteen? Siitä viis,\nkoska sinä olet elävä todiste."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pasti kamu lulusan sekolah sihir,\nsoalnya aku langsung terpesona."
+          }
         }
       }
     },
@@ -19207,6 +20221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kaikki on kunnossa, mutta mitä puuttuu?\nEi mitään, sinä olet täysi."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Katanya nggak ada gading yang tak retak,\nkamu pengecualian, mulus banget."
           }
         }
       }
@@ -19321,6 +20341,12 @@
             "state" : "translated",
             "value" : "Laske laukku alas, sinä olet\nkantanut jo tarpeeksi hurmaa."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taruh dulu bebannya, sini,\nkamu cukup jadi cakep aja."
+          }
         }
       }
     },
@@ -19433,6 +20459,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hiljaa hyvä tulee, mutta sinä\ntulet kuin ukkonen: kaikki huomaavat."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sumpah, kamu itu kayak sinyal penuh,\nbikin hidupku lancar jaya."
           }
         }
       }
@@ -19547,6 +20579,12 @@
             "state" : "translated",
             "value" : "Lakritsi on hyvää ja salmiakki parempaa,\nmutta sinä olet suklaata."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualnya jujur aja,\nbeneran nggak sih? Kok bisa kayak gitu?"
+          }
         }
       }
     },
@@ -19659,6 +20697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sauna lauantaina on ihanaa,\nmutta sinä olet vielä löylyisempi."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pasti kamu kurang tidur ya?\nSoalnya semalaman kamu muter-muter di pikiranku."
           }
         }
       }
@@ -19773,6 +20817,12 @@
             "state" : "translated",
             "value" : "Revontulet pyytävät tuuraajaa, kun\nsinä olet paikalla."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Katanya kamu blasteran?\nBidadari campur surga."
+          }
         }
       }
     },
@@ -19885,6 +20935,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sisua ei tarvita, kun sinä olet\nvalmiiksi liian upea."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tau nggak, garis wajah kamu\nlebih jelas dari masa depanku."
           }
         }
       }
@@ -19999,6 +21055,12 @@
             "state" : "translated",
             "value" : "Mökillä on rauhallista, mutta\nsinä tuot sinne kesäyön auringon."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ibu kota hatiku itu kamu,\nsemua jalan menuju kamu."
+          }
         }
       }
     },
@@ -20111,6 +21173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pulla pehmeää, kahvi kuumaa,\nmutta sinä olet makeampi."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dasar kamu cabai rawit,\nkecil-kecil bikin hatiku kepedasan."
           }
         }
       }
@@ -20225,6 +21293,12 @@
             "state" : "translated",
             "value" : "Paljon on kaunista Suomessa,\nmutta sinä olet ihan oma järvensä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Katanya kamu jago masak?\nSoalnya hatiku langsung matang gara-gara kamu."
+          }
         }
       }
     },
@@ -20337,6 +21411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Karjalanpiirakka on kansallisaarre,\nmutta sinä olet vielä suurempi."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngapain kerja keras?\nMuka kamu udah lembur duluan."
           }
         }
       }
@@ -20451,6 +21531,12 @@
             "state" : "translated",
             "value" : "Miksi sinä työskentelet?\nNaamasi tekee jo kaiken työn."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"Berhenti suka sama aku, dong.\"\n\"Hah?\"\n\"Cara berhentinya gimana?\""
+          }
         }
       }
     },
@@ -20563,6 +21649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gaalassa ei voi jakaa palkintoja,\nkoska sinä veisit ne kaikki."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wajah kamu sekelas pusaka,\njadi mau dipajang di museum nasional."
           }
         }
       }
@@ -20677,6 +21769,12 @@
             "state" : "translated",
             "value" : "Kuvaaja on pyytänyt tulla uudestaan,\nkoska sinä olet liian hyvä kuva."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jangan ikut ajang penghargaan, ya.\nPiala utamanya jelas buat kamu."
+          }
         }
       }
     },
@@ -20789,6 +21887,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ei, et ole mikään idoli, vaan sinä\nolet sydämeni listaykkönen."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagi pemotretan, ya?\nAtau memang kamu jalan sambil jadi cover?"
           }
         }
       }
@@ -20903,6 +22007,12 @@
             "state" : "translated",
             "value" : "Pyydän nimikirjoitusta:\nsinä saat signeerata koko päiväni."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idola di hatiku itu kamu,\nperingkat satu sepanjang masa."
+          }
         }
       }
     },
@@ -21015,6 +22125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Debytoi pian, sillä sinä olet\njo sydämessäni keskipisteenä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tolong adain jumpa fans, dong.\nAku mau minta tanda tangan kamu tiap hari."
           }
         }
       }
@@ -21129,6 +22245,12 @@
             "state" : "translated",
             "value" : "Listaykkönen taas! Kun sinä\nastut lavalle, hitti on valmis."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debut aja, deh.\nDi hatiku kamu udah jadi center."
+          }
         }
       }
     },
@@ -21241,6 +22363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pysähdy hetkeksi, kun sinä\nhymyilet, haluan ottaa kuvan."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selamat juara tangga lagu!\nVisual kamu juara tiap hari."
           }
         }
       }
@@ -21355,6 +22483,12 @@
             "state" : "translated",
             "value" : "Paluu lavalle? Kyllä, sinä olet\nkäynnistänyt sydämeni uudelleen."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sesi foto dulu, yuk.\nAku mau abadiin kamu tiap hari."
+          }
         }
       }
     },
@@ -21467,6 +22601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Videoleikkeet sinusta pyörivät päässäni,\nkoska sinä olet joka kohtauksessa."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comeback ya?\nJantungku ikut hidup lagi gara-gara kamu."
           }
         }
       }
@@ -21581,6 +22721,12 @@
             "state" : "translated",
             "value" : "Musiikkivideossa ei ole tilaa muille,\nkun sinä olet pääosassa."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boleh aku rekam kamu?\nSoalnya tiap momen kamu itu adegan terbaik."
+          }
         }
       }
     },
@@ -21693,6 +22839,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dokumenttisarjassa sinä olisit\nmaailman viehättävin päähenkilö."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Main video klip, ya?\nPadahal kamu udah jadi tokoh utama hidupku."
           }
         }
       }
@@ -21807,6 +22959,12 @@
             "state" : "translated",
             "value" : "Keskushenkilö jokaisessa huoneessa:\nsinä, ihan varmasti."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikut acara realita?\nAslinya kamu malah lebih sempurna."
+          }
         }
       }
     },
@@ -21919,6 +23077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vuoden kasvot -palkinto on sinun, ja\nsinä olet ollut ehdolla ikuisesti."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pasti kamu pusat visual,\nsoalnya di mana pun kamu paling bersinar."
           }
         }
       }
@@ -22033,6 +23197,12 @@
             "state" : "translated",
             "value" : "Mainoksissa sinä loistat niin,\nettä kaikki haluavat ostaa kaiken."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piala wajah terbaik tahun ini\nwajib jatuh ke kamu, saingan nggak ada."
+          }
         }
       }
     },
@@ -22145,6 +23315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lehden kansikuvaan sinä kuulut,\nsekä jokaiseen numeroon."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jadi model iklan, ya?\nLihat kamu aja bikin aku pengen beli semuanya."
           }
         }
       }
@@ -22259,6 +23435,12 @@
             "state" : "translated",
             "value" : "Lavalla sinä olet karismaa,\nja arjessakin loistat kuin valonheitin."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sampul majalah tiap bulan\nmemang pantas dihiasi muka kamu."
+          }
         }
       }
     },
@@ -22371,6 +23553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jos keräisin kuvakortteja, sinä\nolisit koko pakka, ei muuta."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Karisma kamu di panggung beneran?\nSehari-hari pun kamu kayak lagi di panggung."
           }
         }
       }
@@ -22485,6 +23673,12 @@
             "state" : "translated",
             "value" : "Fanitapaaminen? Kyllä, sinä olet se,\njonka haluan nähdä joka päivä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tukeran kartu foto, yuk?\nAku mau kumpulin satu set penuh wajah kamu."
+          }
         }
       }
     },
@@ -22597,6 +23791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tanssivideo tulille, koska sinä\nliikut kuin taideteos."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kapan nih fan meeting?\nAku maunya ketemu kamu tiap hari."
           }
         }
       }
@@ -22711,6 +23911,12 @@
             "state" : "translated",
             "value" : "Esittelyvideo on turha, koska\nsinä olet aina pelkkä huippukohta."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upload video koreografinya dong.\nTiap gerakan kamu itu seni."
+          }
         }
       }
     },
@@ -22823,6 +24029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Maailmankiertue odottaa, mutta\nsinä olet jo järisyttänyt maailmani."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kayak lihat teaser aja,\ntiap lihat kamu, deg-degan duluan."
           }
         }
       }
@@ -22937,6 +24149,12 @@
             "state" : "translated",
             "value" : "Albumiin nimikirjoitus, kiitos:\nsinä olet rajoitettu erä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mau tur keliling dunia?\nHatiku udah kamu goyang sedunia."
+          }
         }
       }
     },
@@ -23049,6 +24267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Heiluttelen valotikkua, ja sinä\nsaat koko sydämeni valot."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tanda tangan di albumku, ya,\nkamu tuh edisi terbatas."
           }
         }
       }
@@ -23163,6 +24387,12 @@
             "state" : "translated",
             "value" : "Nousu listalle on selvä, mutta\nsinä olet ollut legenda aina."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lightstick-ku nyala nih,\naku bakal dukung kamu seumur hidup."
+          }
         }
       }
     },
@@ -23275,6 +24505,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Konserttiliput odottavat, mutta\nsinä olet päivittäinen keikkani."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naik daun, ya?\nPadahal dari dulu kamu udah legenda."
           }
         }
       }
@@ -23389,6 +24625,12 @@
             "state" : "translated",
             "value" : "Kappale ykkössijalla, ja sinä\nolet elämäni parhaat soinnut."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aku harus cari tiket konser.\nSoalnya lihat kamu itu konser harianku."
+          }
         }
       }
     },
@@ -23501,6 +24743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vielä yksi encore, sillä sinä\nolet liian hyvä lopetettavaksi."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juara tangga lagu, kan,\nkamu itu lagu nomor satu di hidupku."
           }
         }
       }
@@ -23615,6 +24863,12 @@
             "state" : "translated",
             "value" : "Kuvauksen taustakuvatkin ovat täydellisiä,\nsillä sinä olet joka kuvassa."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encore sekali lagi, dong.\nDilihat berkali-kali pun kamu tetap bikin kangen."
+          }
         }
       }
     },
@@ -23727,6 +24981,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vaihdan suosikkini, koska sinä\nolet ainoa, jota jaksan katsoa."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foto candid pun sempurna,\nkamu legenda di setiap momen."
           }
         }
       }
@@ -23841,6 +25101,12 @@
             "state" : "translated",
             "value" : "Fanittamaan ryhdyin heti, kun sinä\nastuit huoneeseen."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bias aku harus ganti.\nSelain kamu, mataku nggak mau lihat."
+          }
         }
       }
     },
@@ -23953,6 +25219,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paljastan suosikkini: se on\nsinä, ei muuta vaihtoehtoa."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aku jatuh cinta jadi fans,\ndan kamu yang bakal kuikuti selamanya."
           }
         }
       }
@@ -24067,6 +25339,12 @@
             "state" : "translated",
             "value" : "Ostin kaikki tuotteet, mutta sinä\nolet oikea keräilyharvinaisuus."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bias aku diumumkan hari ini:\nya kamu, siapa lagi."
+          }
         }
       }
     },
@@ -24179,6 +25457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fanitan sinua elämäni loppuun,\nkoska sinä olet ikuinen suosikkini."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Merchandise udah kuborong,\ntapi kamu sendiri merch paling berharga."
           }
         }
       }
@@ -24293,6 +25577,12 @@
             "state" : "translated",
             "value" : "Kotijoukkueeni löytyy luotasi,\nsillä sinä olet minun kapteenini."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fans seumur hidup, resmi,\nkamu artis abadi buatku."
+          }
         }
       }
     },
@@ -24405,6 +25695,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aloitan fanituksen heti, ja sinä\nsaat minulta kaiken innostuksen."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markas fans aku udah pindah,\ndan markas barunya kamu."
           }
         }
       }
@@ -24519,6 +25815,12 @@
             "state" : "translated",
             "value" : "Ryhdyn valokuvaajaksi, sillä sinä\nolet jokaisen otoksen arvoinen."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resmi mulai ngefans.\nSeluruh hidupku buat kamu."
+          }
         }
       }
     },
@@ -24631,6 +25933,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aika kultaa muistot, mutta kun sinä\nolet mukana, kaikki on kultaa jo nyt."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aku mau jadi fotografer pribadi,\nbiar tiap momen kamu terekam."
           }
         }
       }
@@ -24745,6 +26053,12 @@
             "state" : "translated",
             "value" : "Synttärimainos kaupungin taululle:\nsinä synnyit täydellisenä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waktu bareng kamu itu\nsemuanya jam emas."
+          }
         }
       }
     },
@@ -24857,6 +26171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tuen sinua elämän loppuun asti,\nja sinä olet fanikuntani ylpeys."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aku mau pasang iklan ulang tahun.\nAndai tiap hari ultahnya kamu."
           }
         }
       }
@@ -24971,6 +26291,12 @@
             "state" : "translated",
             "value" : "Sydämeni hakkaa, kun sinä\nkäännät katseen minuun."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fans seumur hidup nih.\nBangga banget jadi penggemar kamu."
+          }
         }
       }
     },
@@ -25083,6 +26409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Maailma kaunistuu, kun sinä\nvain katsot siihen."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jantungku deg-degan nggak karuan,\ngara-gara kamu. Tanggung jawab dong!"
           }
         }
       }
@@ -25197,6 +26529,12 @@
             "state" : "translated",
             "value" : "Olet onnellisuuden vitamiini,\nja sinä vaikutat jo ilman annosta."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunia kayak dihias ulang\ntiap kali aku lihat kamu."
+          }
         }
       }
     },
@@ -25309,6 +26647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kirkkain tähti, minkä olen nähnyt,\non se, jota sinä katsot hymyillen."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sumber vitamin bahagiaku\nya cuma kamu."
           }
         }
       }
@@ -25423,6 +26767,12 @@
             "state" : "translated",
             "value" : "Joka päivä on juhla, kun\nsinä olet läsnä sydämessäni."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas kamu ketawa, aku ikut\nsenyum tanpa izin."
+          }
         }
       }
     },
@@ -25535,6 +26885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Äänesi kuuleminen riittää, sillä\nsinä saat hyvälle mielelle tilaa."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bintang paling terang yang pernah kulihat\nternyata kamu, bukan di langit."
           }
         }
       }
@@ -25649,6 +27005,12 @@
             "state" : "translated",
             "value" : "Elämäni suurin onni, ja\nsinä olet sen alkulähde."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Festival di hatiku digelar\ntiap hari berkat kamu."
+          }
         }
       }
     },
@@ -25761,6 +27123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tänäänkin sinä saat minut\nnauramaan ilman syytä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suara kamu doang\nudah cukup bikin mood naik."
           }
         }
       }
@@ -25875,6 +27243,12 @@
             "state" : "translated",
             "value" : "Maailman rakkain ihminen, ja\nsinä tiedät sen jo."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keberuntungan terbesar hidupku\nadalah kenal sama kamu."
+          }
         }
       }
     },
@@ -25987,6 +27361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kun ajattelen sinua, sinä saat\nhymyn tulemaan ihan itsestään."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berkat kamu, hari ini\naku masih bisa senyum lebar."
           }
         }
       }
@@ -26101,6 +27481,12 @@
             "state" : "translated",
             "value" : "Mielenrauhani, ja sinä\nolet sen kotiosoite."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orang paling berharga sedunia?\nJawabannya kamu, titik."
+          }
         }
       }
     },
@@ -26213,6 +27599,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hetket kanssasi ovat aina\nerityisiä, koska sinä olet mukana."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cukup mikirin kamu\nsenyumku muncul sendiri."
           }
         }
       }
@@ -26327,6 +27719,12 @@
             "state" : "translated",
             "value" : "Parasta, mitä tiedän, on\nsinä ja sinun hymysi."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Damainya hatiku\nitu gara-gara ada kamu."
+          }
         }
       }
     },
@@ -26439,6 +27837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kiitollisuus täyttää mieleni, koska\nsinä olet vain olemassa."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Momen bareng kamu\nnggak pernah biasa-biasa aja."
           }
         }
       }
@@ -26553,6 +27957,12 @@
             "state" : "translated",
             "value" : "Päiväni kohokohta on se hetki,\nkun sinä ilmestyt kuvaan."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dari sekian miliar manusia,\nkamu yang paling keren menurutku."
+          }
         }
       }
     },
@@ -26665,6 +28075,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Päivät muuttuvat erityisiksi, kun\nsinä olet niissä mukana."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ada kamu aja\nudah bikin aku bersyukur."
           }
         }
       }
@@ -26779,6 +28195,12 @@
             "state" : "translated",
             "value" : "Valaiset huoneen, kun sinä\nastut sisään, ei lamppua tarvita."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bagian terbaik dari hariku\nselalu momen ada kamu."
+          }
         }
       }
     },
@@ -26891,6 +28313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elämän paras lahja, ja sinä\nolet sen punainen rusetti."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari-hariku jadi spesial\ngara-gara kamu muncul."
           }
         }
       }
@@ -27005,6 +28433,12 @@
             "state" : "translated",
             "value" : "Maailma on kauniimpi, koska\nsinä asut siinä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lampu kamar mati pun\nnggak masalah, asal ada kamu."
+          }
         }
       }
     },
@@ -27117,6 +28551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Päivä ilman sinua olisi kuin\nkahvi ilman kofeiinia, sinä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hadiah terindah dalam hidupku\ntuh kamu, tanpa bungkus."
           }
         }
       }
@@ -27231,6 +28671,12 @@
             "state" : "translated",
             "value" : "Ykkönen sydämessäni on\nsinä, ei kiistaa."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunia ini lebih cantik\nkarena kamu ikut menghuninya."
+          }
         }
       }
     },
@@ -27343,6 +28789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kaiken mahdollistaa se, että\nsinä seisot vierelläni."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bayangin sehari tanpa kamu?\nNggak sanggup, deh."
           }
         }
       }
@@ -27457,6 +28909,12 @@
             "state" : "translated",
             "value" : "Joka päivä kiitän tuurista, koska\nsinä olet osunut kohdalleni."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peringkat satu di hatiku\nnggak pernah berubah: kamu."
+          }
         }
       }
     },
@@ -27569,6 +29027,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hymysi voittaa kaiken maailmassa,\nja sinä tiedät sen."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Asal bareng kamu,\nrasanya semua bisa kuhadapi."
           }
         }
       }
@@ -27683,6 +29147,12 @@
             "state" : "translated",
             "value" : "Elämäni suurin siunaus on\nsinä, ei ole toista."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiap hari aku bilang makasih\nke semesta karena ada kamu."
+          }
         }
       }
     },
@@ -27795,6 +29265,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajatus sinusta tekee päivästä\nonnellisen, ja sinä tiedät sen."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pemandangan terindah sedunia\nkalah sama senyum kamu."
           }
         }
       }
@@ -27909,6 +29385,12 @@
             "state" : "translated",
             "value" : "Sydämeni koti on siellä,\nmissä sinä olet."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berkah terbesar dalam hidupku\nitu kamu."
+          }
         }
       }
     },
@@ -28021,6 +29503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kaikki on täydellistä, kun\nsinä olet lähellä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baru kepikiran kamu,\nseharian udah happy."
           }
         }
       }
@@ -28135,6 +29623,12 @@
             "state" : "translated",
             "value" : "Kuvittelin unelmieni ihmisen,\nja sinä olet ihan se."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rumah ternyaman buat hatiku\nya ada kamu."
+          }
         }
       }
     },
@@ -28247,6 +29741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Katson sinua ja sydän menee\nepäkuntoon. Korjaajaksi kelpaa vain sinä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas ada kamu,\nsemuanya serasa sempurna."
           }
         }
       }
@@ -28361,6 +29861,12 @@
             "state" : "translated",
             "value" : "Matkaan kanssasi vaikka kuuhun, sillä\nsinä olet paras reppukaveri."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipe idaman yang dulu cuma mimpi\nternyata nyata, namanya kamu."
+          }
         }
       }
     },
@@ -28473,6 +29979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Historiankirjoihin päätyvä ihminen, ja\nsinä olet jo kävelevä elämäkerta."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiap kamu muncul, jantungku\nkayak mau mogok."
           }
         }
       }
@@ -28587,6 +30099,12 @@
             "state" : "translated",
             "value" : "Charmisi iskee jatkuvasti, ja\nsinä saat jatkaa vaan."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biografi berjalan, itulah kamu,\nnamanya bakal tercatat di buku sejarah."
+          }
         }
       }
     },
@@ -28699,6 +30217,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sinuun keskittyessäni niskani\njäi jumiin, sinä viehkeä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terpesona terus sama kamu\naku sih ikhlas."
           }
         }
       }
@@ -28813,6 +30337,12 @@
             "state" : "translated",
             "value" : "Sykkeeni nousee aina, kun sinä\nastut näkökenttääni."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fokus mandangin kamu terus,\nleherku sampai butuh pijat."
+          }
         }
       }
     },
@@ -28925,6 +30455,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Silmissäni sinä olet\nlegendaarinen kansikuva."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detak jantungku naik\ntiap kamu lewat. Bahaya!"
           }
         }
       }
@@ -29039,6 +30575,12 @@
             "state" : "translated",
             "value" : "Joka päivä on suosikkipäivä,\nkun sinä olet siinä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foto kamu pantas jadi sampul\nmajalah paling laris sedunia."
+          }
         }
       }
     },
@@ -29151,6 +30693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elävä ihme, ja sinä\nolet kävelevä todiste."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sejak ada kamu, tiap hari\nrasanya hari libur nasional."
           }
         }
       }
@@ -29265,6 +30813,12 @@
             "state" : "translated",
             "value" : "Ajan hidastuessa huomaan, että\nsinä olet syy tähän."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keajaiban dunia ke-8\nternyata hidup, dan namanya kamu."
+          }
         }
       }
     },
@@ -29377,6 +30931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elämäni VIP-kortti, ja sinä\nolet sen ainoa haltija."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas kamu lewat,\ndunia otomatis slow motion."
           }
         }
       }
@@ -29491,6 +31051,12 @@
             "state" : "translated",
             "value" : "Päivän kohokohta on se, kun\nsinä tulet kuvaan."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kartu VIP di hidupku\ncuma satu, dan itu kamu."
+          }
         }
       }
     },
@@ -29603,6 +31169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sydämelleni premium-sisältöä, ja sinä\nolet sen ykkössuosikki."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngelihatin kamu\njadi kegiatan favoritku tiap hari."
           }
         }
       }
@@ -29717,6 +31289,12 @@
             "state" : "translated",
             "value" : "Maailma näyttää teräväpiirtoiselta, kun\nsinä astut kuvaan."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konten premium di hatiku\nisinya kamu semua."
+          }
         }
       }
     },
@@ -29829,6 +31407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elämäni kultainen hetki, ja sinä\nolet sen kellonaika."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunia kelihatan HD\nsejak ada kamu."
           }
         }
       }
@@ -29943,6 +31527,12 @@
             "state" : "translated",
             "value" : "Aina kun sinä olet mielessäni,\nhymy tulee automaattisesti."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jam emas dalam hidupku\nya waktu bareng kamu."
+          }
         }
       }
     },
@@ -30055,6 +31645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sydämeni luksushotelli, ja sinä\nolet sen ainoa vieras."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuma mikirin kamu,\nsenyumku langsung otomatis."
           }
         }
       }
@@ -30169,6 +31765,12 @@
             "state" : "translated",
             "value" : "Joka päivä on huippupäivä,\nkun sinä olet siinä mukana."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamar paling mewah di hatiku\nkhusus disiapin buat kamu."
+          }
         }
       }
     },
@@ -30281,6 +31883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elämäni pääsarja, ja sinä\nolet sen tähti."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berkat kamu, setiap hari\nberasa tanggal gajian."
           }
         }
       }
@@ -30395,6 +32003,12 @@
             "state" : "translated",
             "value" : "Syke tanssii, kun sinä\nvain katsot minua."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acara utama dalam hidupku\nbintang tamunya kamu."
+          }
         }
       }
     },
@@ -30507,6 +32121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Silmissäni sinä olet\nkirkkaampi kuin 4K."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jantungku joget sendiri\ntiap kali kamu nongol."
           }
         }
       }
@@ -30621,6 +32241,12 @@
             "state" : "translated",
             "value" : "Kun sinä astut paikalle, maailma\nsaa kirkkaammat värit."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resolusi 4K buat mataku\ncuma kamu yang punya."
+          }
         }
       }
     },
@@ -30733,6 +32359,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mielessäni sinä olet\nehdottomasti ykkönen."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunia kelihatan berkilau\ntiap kamu ada di sekitar."
           }
         }
       }
@@ -30847,6 +32479,12 @@
             "state" : "translated",
             "value" : "Sydämeni vip-vieras on se,\njonka nimi on sinä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daftar tamu VVIP di hatiku\ncuma ada satu nama: kamu."
+          }
         }
       }
     },
@@ -30959,6 +32597,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Päivästä tulee erityinen, kun\nsinä olet jossain lähellä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari biasa pun berubah istimewa\nkalau kamu ikut hadir."
           }
         }
       }
@@ -31073,6 +32717,12 @@
             "state" : "translated",
             "value" : "Salainen valttikorttini on\nsinä, joka voitat kaiken."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kartu truf dalam hidupku\nya kamu, siapa lagi."
+          }
         }
       }
     },
@@ -31185,6 +32835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mielialani nousee kuin hissi, kun\nsinä ilmestyt kuvaan."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mood-ku auto naik level\ncuma karena mikirin kamu."
           }
         }
       }
@@ -31299,6 +32955,12 @@
             "state" : "translated",
             "value" : "Kunniatauluni ensimmäinen nimi on\nsinä, ja loput ovat tyhjiä."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aula kehormatan hatiku\nbaru diisi satu orang: kamu."
+          }
         }
       }
     },
@@ -31411,6 +33073,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elämäni värikuvaa täydentää\nse, että sinä olet täällä."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hidupku yang tadinya hitam putih\njadi penuh warna berkat kamu."
           }
         }
       }
@@ -31525,6 +33193,12 @@
             "state" : "translated",
             "value" : "Silmissäni olet aikojen legenda,\nja sinä tiedät sen."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sepanjang masa, legenda nomor satu\ndi mataku itu kamu."
+          }
         }
       }
     },
@@ -31638,6 +33312,12 @@
             "state" : "translated",
             "value" : "Maailma kulkee hidastettuna, kun\nsinä käännät päätäsi."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiap kamu lewat, dunia\nkayak lagi diputar pelan-pelan."
+          }
         }
       }
     },
@@ -31750,6 +33430,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Premium-passini elämään on\nsinä, ja se on voimassa ikuisesti."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiket emas menuju bahagia\nada di tangan kamu."
           }
         }
       }

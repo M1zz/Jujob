@@ -107,6 +107,12 @@
             "state" : "translated",
             "value" : "%lld pv"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld hari"
+          }
         }
       }
     },
@@ -212,6 +218,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Olet nähnyt kaikki 100 kehua.\nNyt olet oikea mestari!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udah 100 pujian lebay kamu lahap habis,\nsekarang kamu resmi jadi master!"
           }
         }
       }
@@ -319,6 +331,12 @@
             "state" : "translated",
             "value" : "Kehut luettu 100 päivää putkeen!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 hari berturut-turut kamu cek pujiannya!"
+          }
         }
       }
     },
@@ -424,6 +442,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 päivän ihme! Sinnikkyytesi\nmuutti maailmaa!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keajaiban 100 hari! Konsistensi kamu\nudah mengubah dunia!"
           }
         }
       }
@@ -531,6 +555,12 @@
             "state" : "translated",
             "value" : "100 päivän huikea matka yhdessä.\nSinä olet aivan mahtava!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 hari perjalanan seru bareng-bareng,\nkamu tuh orang yang luar biasa!"
+          }
         }
       }
     },
@@ -636,6 +666,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 min"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 menit"
           }
         }
       }
@@ -743,6 +779,12 @@
             "state" : "translated",
             "value" : "30 min"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 menit"
+          }
         }
       }
     },
@@ -848,6 +890,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kehut luettu 30 päivää putkeen!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 hari berturut-turut kamu cek pujiannya!"
           }
         }
       }
@@ -955,6 +1003,12 @@
             "state" : "translated",
             "value" : "30 päivää ahkerasti mukana.\nSinä olet paras!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sebulan penuh kamu setia mampir,\nkamu juara banget!"
+          }
         }
       }
     },
@@ -1060,6 +1114,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jo 50 kehua luettu.\nSinulla on todella intoa!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udah 50 pujian kamu baca semua,\nsemangat banget kamu!"
           }
         }
       }
@@ -1167,6 +1227,12 @@
             "state" : "translated",
             "value" : "5 min"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 menit"
+          }
         }
       }
     },
@@ -1273,6 +1339,12 @@
             "state" : "translated",
             "value" : "Kehut luettu 7 päivää putkeen!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7 hari berturut-turut kamu cek pujiannya!"
+          }
         }
       }
     },
@@ -1378,6 +1450,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seitsemän päivää yhdessä.\nJatketaan samaan malliin!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tujuh hari udah kita lewati bareng,\nlanjut terus ya!"
           }
         }
       }
@@ -1491,6 +1569,12 @@
             "state" : "translated",
             "value" : "Palauta ostokset"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pulihkan Pembelian"
+          }
         }
       }
     },
@@ -1602,6 +1686,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Valitse luokka"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pilih Kategori"
           }
         }
       }
@@ -1715,6 +1805,12 @@
             "state" : "translated",
             "value" : "Valitse fontti"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pilih Font"
+          }
         }
       }
     },
@@ -1826,6 +1922,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ohjeet"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutorial"
           }
         }
       }
@@ -1939,6 +2041,12 @@
             "state" : "translated",
             "value" : "Nimetön"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anonim"
+          }
         }
       }
     },
@@ -2047,6 +2155,12 @@
           }
         },
         "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
+          }
+        },
+        "id" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Premium"
@@ -2160,6 +2274,12 @@
             "state" : "translated",
             "value" : "Ota yhteyttä kehittäjään"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hubungi Developer"
+          }
         }
       }
     },
@@ -2265,6 +2385,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Liukuvärit"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warna Gradasi"
           }
         }
       }
@@ -2372,6 +2498,12 @@
             "state" : "translated",
             "value" : "Tekstin väri"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warna Teks"
+          }
         }
       }
     },
@@ -2477,6 +2609,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Valitse fiilis"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pilih Mood"
           }
         }
       }
@@ -2584,6 +2722,12 @@
             "state" : "translated",
             "value" : "Matalalla"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mood Turun"
+          }
         }
       }
     },
@@ -2689,6 +2833,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Valitsen fiiliksen tai tilanteen\nmukaisen kehun puolestasi!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aku pilihin pujian lebay yang\ncocok sama mood atau situasimu!"
           }
         }
       }
@@ -2796,6 +2946,12 @@
             "state" : "translated",
             "value" : "Omat tilastot"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rekorku"
+          }
         }
       }
     },
@@ -2902,6 +3058,12 @@
             "state" : "translated",
             "value" : "Omat kehut"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kelola Pujianku"
+          }
         }
       }
     },
@@ -3007,6 +3169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seuraava kehu"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pujian Berikutnya"
           }
         }
       }
@@ -3115,6 +3283,12 @@
             "state" : "translated",
             "value" : "sinä"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kamu"
+          }
         }
       }
     },
@@ -3220,6 +3394,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sinä olet täysin\narvokas ihminen!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamu itu udah lebih dari cukup,\nberharga banget, tau!"
           }
         }
       }
@@ -3327,6 +3507,12 @@
             "state" : "translated",
             "value" : "Ennen treffejä"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sebelum Kencan"
+          }
         }
       }
     },
@@ -3432,6 +3618,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Motivaatio"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motivasi"
           }
         }
       }
@@ -3539,6 +3731,12 @@
             "state" : "translated",
             "value" : "Satunnainen"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acak"
+          }
         }
       }
     },
@@ -3644,6 +3842,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tallenna lempikehusi\ntähtipainikkeella!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ketuk tombol bintang buat\nnyimpen pujian favoritmu!"
           }
         }
       }
@@ -3751,6 +3955,12 @@
             "state" : "translated",
             "value" : "Rakasta itseäsi joka päivä"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sayangi diri sendiri tiap hari"
+          }
         }
       }
     },
@@ -3856,6 +4066,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ennen haastattelua"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sebelum Wawancara"
           }
         }
       }
@@ -3963,6 +4179,12 @@
             "state" : "translated",
             "value" : "Esikatselu"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pratinjau"
+          }
         }
       }
     },
@@ -4068,6 +4290,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Taustan asetukset"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atur Latar"
           }
         }
       }
@@ -4175,6 +4403,12 @@
             "state" : "translated",
             "value" : "Taustakuva"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gambar Latar"
+          }
         }
       }
     },
@@ -4280,6 +4514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 päivää täynnä!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 Hari Tercapai!"
           }
         }
       }
@@ -4387,6 +4627,12 @@
             "state" : "translated",
             "value" : "Sata päivää joka päivä mukana.\nSinä olet maailman tärkeimpiä!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seratus hari kamu mampir tiap hari,\nkamu orang paling berharga sedunia!"
+          }
         }
       }
     },
@@ -4492,6 +4738,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Virheilmoitukset ja ideat ovat tervetulleita."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lapor bug atau kasih saran fitur? Boleh banget!"
           }
         }
       }
@@ -4599,6 +4851,12 @@
             "state" : "translated",
             "value" : "Lisäasetukset"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengaturan Lanjutan"
+          }
         }
       }
     },
@@ -4704,6 +4962,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Päivitysväli"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interval Refresh"
           }
         }
       }
@@ -4811,6 +5075,12 @@
             "state" : "translated",
             "value" : "Ennen koetta"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sebelum Ujian"
+          }
         }
       }
     },
@@ -4916,6 +5186,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aamu"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagi"
           }
         }
       }
@@ -5023,6 +5299,12 @@
             "state" : "translated",
             "value" : "Selaa, kunnes sovelluksen nimi löytyy.\n\"Päivän hehkutus\""
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gulir sampai nama aplikasinya muncul.\n\"Pujian Lebay Harian\""
+          }
         }
       }
     },
@@ -5128,6 +5410,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saavutukset"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pencapaian"
           }
         }
       }
@@ -5235,6 +5523,12 @@
             "state" : "translated",
             "value" : "Putki"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rekor Beruntun"
+          }
         }
       }
     },
@@ -5340,6 +5634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mikä fiilis tänään?"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gimana mood kamu hari ini?"
           }
         }
       }
@@ -5447,6 +5747,12 @@
             "state" : "translated",
             "value" : "Ole tänäänkin sinä itse,\nse on parasta!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari ini jadi diri kamu sendiri aja,\nitu udah yang terbaik!"
+          }
         }
       }
     },
@@ -5552,6 +5858,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Päivän hehkutus"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pujian Lebay Harian"
           }
         }
       }
@@ -5659,6 +5971,12 @@
             "state" : "translated",
             "value" : "Oikea"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kanan"
+          }
         }
       }
     },
@@ -5764,6 +6082,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Älä lannista omaa lastasi!\nValitse itsellesi rohkaiseva sana!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eh, jangan bikin anak kita minder dong!\nPilih satu kalimat buat menyemangati dirimu!"
           }
         }
       }
@@ -5871,6 +6195,12 @@
             "state" : "translated",
             "value" : "Vasen"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiri"
+          }
         }
       }
     },
@@ -5976,6 +6306,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ennen treeniä"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sebelum Olahraga"
           }
         }
       }
@@ -6083,6 +6419,12 @@
             "state" : "translated",
             "value" : "Hio widgetin ulkoasu ja fontti tarkasti"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atur tampilan dan font widget sesuka hati"
+          }
         }
       }
     },
@@ -6188,6 +6530,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widgetin asetukset"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengaturan Widget"
           }
         }
       }
@@ -6295,6 +6643,12 @@
             "state" : "translated",
             "value" : "Käytä tätä kehua"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pakai Pujian Ini"
+          }
         }
       }
     },
@@ -6400,6 +6754,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nimi"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nama"
           }
         }
       }
@@ -6507,6 +6867,12 @@
             "state" : "translated",
             "value" : "Nimen asetus"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atur Nama"
+          }
         }
       }
     },
@@ -6612,6 +6978,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kerro nimesi!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kasih tahu namamu, dong!"
           }
         }
       }
@@ -6719,6 +7091,12 @@
             "state" : "translated",
             "value" : "Kirjoita nimesi"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masukkan namamu"
+          }
         }
       }
     },
@@ -6824,6 +7202,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lähetä sähköpostia"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tanya lewat Email"
           }
         }
       }
@@ -6931,6 +7315,12 @@
             "state" : "translated",
             "value" : "Valitse vielä widgetin koko ja napauta \"Lisää widget\"."
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tinggal pilih ukuran widget, lalu ketuk tombol \"Tambah Widget\"."
+          }
         }
       }
     },
@@ -7036,6 +7426,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instagram-viesti (@lee25_ios)"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DM Instagram (@lee25_ios)"
           }
         }
       }
@@ -7143,6 +7539,12 @@
             "state" : "translated",
             "value" : "Ennen töitä"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sebelum Kerja"
+          }
         }
       }
     },
@@ -7248,6 +7650,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Viikko täynnä!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seminggu Tercapai!"
           }
         }
       }
@@ -7355,6 +7763,12 @@
             "state" : "translated",
             "value" : "Viikon verran ahkerasti mukana.\nOlen todella ylpeä sinusta!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seminggu penuh kamu rajin mampir,\nbangga banget sama kamu!"
+          }
         }
       }
     },
@@ -7460,6 +7874,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Itsevarmuus"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Percaya Diri"
           }
         }
       }
@@ -7567,6 +7987,12 @@
             "state" : "translated",
             "value" : "Ilta"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malam"
+          }
         }
       }
     },
@@ -7672,6 +8098,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tallenna"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simpan"
           }
         }
       }
@@ -7779,6 +8211,12 @@
             "state" : "translated",
             "value" : "Ehdottaja"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengusul"
+          }
         }
       }
     },
@@ -7884,6 +8322,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hehkutuksen suurmestari"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grand Master Lebay"
           }
         }
       }
@@ -7991,6 +8435,12 @@
             "state" : "translated",
             "value" : "Hehkutusmestari"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Master Lebay"
+          }
         }
       }
     },
@@ -8096,6 +8546,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hehkutus-widget"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget Lebay"
           }
         }
       }
@@ -8203,6 +8659,12 @@
             "state" : "translated",
             "value" : "Korvaan kehuissa sanan 'sinä'\nnimelläsi!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aku ganti 'kamu' di pujian\ndengan namamu!"
+          }
         }
       }
     },
@@ -8308,6 +8770,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kun luet kehuja,\nne kirjataan automaattisesti!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiap kamu lihat pujiannya,\notomatis tercatat di sini!"
           }
         }
       }
@@ -8415,6 +8883,12 @@
             "state" : "translated",
             "value" : "Keskellä"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tengah"
+          }
         }
       }
     },
@@ -8520,6 +8994,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suosikit"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorit"
           }
         }
       }
@@ -8627,6 +9107,12 @@
             "state" : "translated",
             "value" : "Ei vielä suosikkeja"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorit masih kosong"
+          }
         }
       }
     },
@@ -8732,6 +9218,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yhteensä 100 kehua luettu!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total 100 pujian udah kamu baca!"
           }
         }
       }
@@ -8839,6 +9331,12 @@
             "state" : "translated",
             "value" : "Yhteensä 50 kehua luettu!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total 50 pujian udah kamu baca!"
+          }
         }
       }
     },
@@ -8944,6 +9442,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Päiviä yhteensä"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total Hari Cek"
           }
         }
       }
@@ -9051,6 +9555,12 @@
             "state" : "translated",
             "value" : "Ennätys"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rekor Terbaik"
+          }
         }
       }
     },
@@ -9156,6 +9666,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Töihin matkalla"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berangkat Kerja"
           }
         }
       }
@@ -9263,6 +9779,12 @@
             "state" : "translated",
             "value" : "Töistä kotiin"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pulang Kerja"
+          }
         }
       }
     },
@@ -9368,6 +9890,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fontti"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Font"
           }
         }
       }
@@ -9475,6 +10003,12 @@
             "state" : "translated",
             "value" : "Fontin asetukset"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengaturan Font"
+          }
         }
       }
     },
@@ -9580,6 +10114,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kuukausi täynnä!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sebulan Tercapai!"
           }
         }
       }
@@ -9687,6 +10227,12 @@
             "state" : "translated",
             "value" : "Kokonainen kuukausi yhdessä.\nSinä olet todella erityinen!"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sebulan bareng-bareng, kamu\nbener-bener orang yang spesial!"
+          }
         }
       }
     },
@@ -9792,6 +10338,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Riviväli"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jarak Baris"
           }
         }
       }
@@ -9899,6 +10451,12 @@
             "state" : "translated",
             "value" : "Nykyinen putki"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beruntun Saat Ini"
+          }
         }
       }
     },
@@ -10004,6 +10562,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paina koti-valikkoa pitkään, kunnes kuvakkeet alkavat täristä, ja napauta ➕-merkkiä ylänurkassa."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tahan layar utama sampai ikon bergoyang, lalu ketuk ➕ di pojok kiri atau kanan atas."
           }
         }
       }
@@ -10111,6 +10675,12 @@
             "state" : "translated",
             "value" : "Historia"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riwayat"
+          }
         }
       }
     },
@@ -10216,6 +10786,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Historia on tyhjä"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riwayat masih kosong"
           }
         }
       }
@@ -10323,6 +10899,12 @@
             "state" : "translated",
             "value" : "Rentoutus"
           }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Healing"
+          }
         }
       }
     },
@@ -10428,6 +11010,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rankka hetki"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagi Berat"
           }
         }
       }
