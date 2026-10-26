@@ -497,3 +497,48 @@ Cosa trovi
 
 Nessun dato personale viene raccolto. Nome, preferiti e impostazioni restano solo sul dispositivo.
 Per segnalare un bug o proporre un'idea, scrivi via email o Instagram dalle impostazioni.
+
+## pt-BR
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/pt-BR/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/pt-BR/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/pt-BR/index.html
+
+### 이름
+
+Elogio Exagerado
+
+### 부제
+
+Bora babar juntos
+
+### 키워드
+
+frases,motivacional,widget,autoestima,positividade,incentivo,humor,carinho,ânimo,mensagem,bomdia
+
+### 프로모션 텍스트
+
+Uma frase de elogio exagerado pra ficar do seu lado todo dia! Do bom dia à volta pra casa, o widget na tela inicial cuida do seu ânimo. E ainda chama você pelo nome.
+
+### 설명
+
+Um widget que joga elogio exagerado em você, sem dó. Toda vez que olhar a tela inicial, tem uma frase pronta pra te deixar com o ego nas alturas.
+São 281 frases pra dar aquele empurrão de autoestima: de manhã, na ida pro trabalho, antes da entrevista, nos dias difíceis e na hora de relaxar. Tem exagero, tem trocadilho, tem carinho.
+
+O que tem no app
+- Widget na tela inicial: escolha a fonte, a cor do texto, a imagem de fundo, o alinhamento, a entrelinha e de quanto em quanto tempo ele atualiza.
+- Escolha do humor: manhã, ida pro trabalho, pré-entrevista, pré-prova, pré-treino, pré-date, volta pra casa, noite, dia difícil, relaxar, autoconfiança e motivação.
+- Seu nome nas frases: onde o elogio fala com você, aparece o seu nome.
+- Favoritos e histórico: toque na estrela pra guardar as frases que mais curtiu e veja de novo o que já apareceu.
+- Sequência e conquistas: abra o app por 7, 30 e 100 dias e desbloqueie surpresas.
+
+Privacidade em primeiro lugar: o app não coleta nenhum dado pessoal. Seu nome, seus favoritos e seus ajustes ficam guardados só no seu aparelho.
+Achou um bug ou tem uma ideia? Mande por e-mail ou Instagram direto pelos ajustes do app.

@@ -70,6 +70,12 @@
             "state" : "translated",
             "value" : "Overdose di Complimenti"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elogio Exagerado"
+          }
         }
       }
     },
@@ -141,6 +147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Overdose di Complimenti"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elogio Exagerado"
           }
         }
       }

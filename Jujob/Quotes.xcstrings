@@ -69,6 +69,12 @@
             "state" : "translated",
             "value" : "Buongiorno! Il sole è in ritardo\nperché stai già brillando tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bom dia! O sol só nasceu\nporque você acordou."
+          }
         }
       }
     },
@@ -139,6 +145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ehi tu, sì, proprio tu:\nè iniziata la giornata migliore!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoje o mundo tá melhor,\ne a prova é que você acordou."
           }
         }
       }
@@ -211,6 +223,12 @@
             "state" : "translated",
             "value" : "Sei già in piedi? Applausi:\nl'eroe del mattino sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Levantou da cama? Já ganhou!\nAgora é só você brilhar."
+          }
         }
       }
     },
@@ -281,6 +299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il caffè è buono, ma sei tu\nil vero buongiorno di oggi."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seu sorriso de manhã vale\nmais que café, e você sabe."
           }
         }
       }
@@ -353,6 +377,12 @@
             "state" : "translated",
             "value" : "Oggi il protagonista sei tu.\nGli altri sono comparse."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoje o protagonista do dia\né você, sem teste de elenco."
+          }
         }
       }
     },
@@ -423,6 +453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Appena apri gli occhi, tu\nhai già vinto contro la sveglia!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abriu os olhos e o dia pensou:\nnossa, olha só quem chegou, você!"
           }
         }
       }
@@ -495,6 +531,12 @@
             "state" : "translated",
             "value" : "Più dolce di un cornetto caldo?\nSolo tu, a quest'ora."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Café é bom, mas você de manhã\nacorda o Brasil inteiro."
+          }
         }
       }
     },
@@ -565,6 +607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Presentarsi così alle sette?\nSenza trucco, sei tu la star."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acordou com o brilho\nno modo turbo, e você nem viu."
           }
         }
       }
@@ -637,6 +685,12 @@
             "state" : "translated",
             "value" : "Che luce è questa alle sette?\nChiamate i vigili: tu sei fuori legge."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acordar com essa beleza é crime,\ne você reincide todo dia."
+          }
         }
       }
     },
@@ -707,6 +761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Buongiorno? Troppo poco.\nSe ci sei tu, è un giorno da dieci."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bom dia? Nada, é \"dia ótimo\",\nporque você chegou."
           }
         }
       }
@@ -779,6 +839,12 @@
             "state" : "translated",
             "value" : "Il primo raggio di sole\nha chiesto di te. Sì, proprio tu!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O despertador toca, mas quem\nacorda o dia de verdade é você."
+          }
         }
       }
     },
@@ -849,6 +915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Che bella novità stamattina:\nci sei tu, il resto è dettaglio."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesmo de segunda-feira, você\nfaz a manhã parecer sábado."
           }
         }
       }
@@ -921,6 +993,12 @@
             "state" : "translated",
             "value" : "Sera! Giornata chiusa:\nanche oggi la leggenda sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Missão do dia cumprida!\nAgora você merece aplauso de pé."
+          }
         }
       }
     },
@@ -991,6 +1069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ehi tu, buonasera!\nIl tramonto è uscito apposta per salutarti."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoje você deu conta de tudo,\naté do que não era com você."
           }
         }
       }
@@ -1063,6 +1147,12 @@
             "state" : "translated",
             "value" : "Hai dato il massimo e si vede.\nLa stella della serata sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fim do dia: sofá, descanso\ne você de parabéns."
+          }
         }
       }
     },
@@ -1133,6 +1223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un po' di stanchezza?\ne tu hai retto la giornata da fuoriclasse."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deu sono, mas o dia deu certo\nporque você apareceu."
           }
         }
       }
@@ -1205,6 +1301,12 @@
             "state" : "translated",
             "value" : "Una giornata fa il suo corso,\nma il pezzo forte di oggi sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cansaço é o troféu de quem\nfez tudo certo, e você fez."
+          }
         }
       }
     },
@@ -1275,6 +1377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Missione compiuta anche oggi.\nBasta così: tu hai già vinto."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dia encerrado! Hoje você merece\nmedalha, abraço e brigadeiro."
           }
         }
       }
@@ -1347,6 +1455,12 @@
             "state" : "translated",
             "value" : "Come le stelle nel cielo,\nanche tu fai luce senza sforzo."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As estrelas saíram só\npra copiar o seu brilho."
+          }
         }
       }
     },
@@ -1417,6 +1531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "È sera e brilli ancora.\nCome fai tu a non spegnerti mai?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lá fora é noite, mas você\ncontinua iluminando tudo."
           }
         }
       }
@@ -1489,6 +1609,12 @@
             "state" : "translated",
             "value" : "Grazie per la giornata.\nIl bello è che c'eri tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boa noite pro mundo, e pra você\nmeus parabéns pelo dia."
+          }
         }
       }
     },
@@ -1559,6 +1685,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il mondo oggi era più bello:\nc'eri tu e si vedeva."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A lua tá linda hoje,\nmas você tá de outro nível."
           }
         }
       }
@@ -1631,6 +1763,12 @@
             "state" : "translated",
             "value" : "Di giorno sei un mito,\ndi notte pure. Sì, proprio tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dia ruim ou dia bom, o saldo\nfinal é que você é demais."
+          }
         }
       }
     },
@@ -1701,6 +1839,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Va bene anche una giornata storta.\nSei a posto così, e lo sai pure tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calma, dias ruins existem.\nMas você ainda é um espetáculo."
           }
         }
       }
@@ -1773,6 +1917,12 @@
             "state" : "translated",
             "value" : "Adesso pesa, lo so.\nMa tu sei più forte di questo."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respira fundo: você já\npassou por pior e venceu."
+          }
         }
       }
     },
@@ -1843,6 +1993,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Non serve essere perfetti:\nti basta essere così, e tu lo sai."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfeição é superestimada.\nAté porque você sendo você já é demais."
           }
         }
       }
@@ -1915,6 +2071,12 @@
             "state" : "translated",
             "value" : "Fai una pausa quando vuoi:\nanche tu hai diritto al freno."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descansar faz parte.\nVai no seu ritmo, você chega lá."
+          }
         }
       }
     },
@@ -1985,6 +2147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sei più forte di quel che pensi.\nParola di chi guarda: tu non molli."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mais forte do que imagina,\né isso que você é. E eu imagino muito."
           }
         }
       }
@@ -2057,6 +2225,12 @@
             "state" : "translated",
             "value" : "Passerà, vedrai.\nE tu ne uscirai a testa alta."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isso também vai passar,\ne você vai passar por cima."
+          }
         }
       }
     },
@@ -2127,6 +2301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il morale è giù, ma quanto vali tu\nnon si sposta di un millimetro."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dia nublado por dentro?\nPelo menos você continua valendo ouro."
           }
         }
       }
@@ -2199,6 +2379,12 @@
             "state" : "translated",
             "value" : "Puoi sentire ogni emozione:\nè così che tu resti vero."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chorar faz parte, e até\nchorando você tem estilo."
+          }
         }
       }
     },
@@ -2269,6 +2455,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I diamanti nascono sotto pressione.\nGuarda che luce fai tu adesso."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diamante só nasce sob pressão,\nentão você tá virando joia."
           }
         }
       }
@@ -2341,6 +2533,12 @@
             "state" : "translated",
             "value" : "Tristezza? Ha sbagliato indirizzo.\nQui l'inquilino speciale sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se bater tristeza, lembra:\nvocê é a melhor parte do dia de alguém."
+          }
         }
       }
     },
@@ -2411,6 +2609,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anche col broncio sei un incanto.\nChi altro riesce così? Solo tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baixo astral é visita,\nvocê é morador do meu coração."
           }
         }
       }
@@ -2483,6 +2687,12 @@
             "state" : "translated",
             "value" : "Una lacrima non ti scalfisce:\nresti un capolavoro, sì, tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesmo sem energia, você\ncontinua sendo um luxo."
+          }
         }
       }
     },
@@ -2553,6 +2763,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anche nei giorni grigi\nil colore sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Que bom que você existe,\naté nos dias cinzentos."
           }
         }
       }
@@ -2625,6 +2841,12 @@
             "state" : "translated",
             "value" : "Adesso è dura, ma tu\nce la farai, lo sento."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tá puxado agora, mas você\nnasceu pra fazer o impossível."
+          }
         }
       }
     },
@@ -2695,6 +2917,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un momento difficile\nmostra quanto vali tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nas horas difíceis é que\nvocê mostra a que veio."
           }
         }
       }
@@ -2767,6 +2995,12 @@
             "state" : "translated",
             "value" : "Non mollare, eh.\nSe c'è uno tosto, quello sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desistir? Nem pensar!\nPois você tem fibra de gigante."
+          }
         }
       }
     },
@@ -2837,6 +3071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reggere questi giorni?\nUn fuoriclasse come te. Cioè, tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aguentar tudo isso e ainda sorrir?\nSó pode ser que você veio de outro mundo."
           }
         }
       }
@@ -2909,6 +3149,12 @@
             "state" : "translated",
             "value" : "La fatica di oggi\nè il successo di domani, e tu lo sai."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A dor de hoje é o músculo\nde amanhã. Segue firme!"
+          }
         }
       }
     },
@@ -2979,6 +3225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sai quanto puoi reggere?\nPiù di quanto immagini tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pode apostar que você aguenta\nmuito mais do que acha que aguenta."
           }
         }
       }
@@ -3051,6 +3303,12 @@
             "state" : "translated",
             "value" : "Questo momento diventerà un ricordo,\ne tu lo racconterai ridendo."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Um dia você vai rir disso\ne dizer: eu sobrevivi!"
+          }
         }
       }
     },
@@ -3121,6 +3379,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anche i diamanti vanno levigati.\nSe brilli così è perché tu non cedi."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Até diamante apanha pra brilhar,\ne você já tá ofuscando geral."
           }
         }
       }
@@ -3193,6 +3457,12 @@
             "state" : "translated",
             "value" : "Giornata no? Capita.\nMa il panorama migliore resti tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tá difícil, mas você continua\nsendo a coisa mais bonita daqui."
+          }
         }
       }
     },
@@ -3263,6 +3533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se tu resisti, per qualcuno\nè già un faro. Lo sapevi?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sua persistência vira esperança\npra alguém, e você nem sabe."
           }
         }
       }
@@ -3335,6 +3611,12 @@
             "state" : "translated",
             "value" : "Stai crollando? Con una classe\nche solo tu ti puoi permettere."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesmo no limite, você\nsegue com o charme em dia."
+          }
         }
       }
     },
@@ -3405,6 +3687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oggi tu ce la fai, e lo sai.\nPartiamo sicuri!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bora! Com você no time,\nqualquer meta vira brincadeira."
           }
         }
       }
@@ -3477,6 +3765,12 @@
             "state" : "translated",
             "value" : "Hai talento da vendere.\nOggi tu farai faville, vedrai."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acredito em você mais do que\nno Wi-Fi do escritório."
+          }
         }
       }
     },
@@ -3547,6 +3841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pronti, partenza, via:\ntu sei già al traguardo."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se você já chegou, o dia\njá tem cara de sucesso."
           }
         }
       }
@@ -3619,6 +3919,12 @@
             "state" : "translated",
             "value" : "Il lavoro di oggi? Una passeggiata\nse a farlo sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pode vir tarefa, que tem você\npra resolver tudo."
+          }
         }
       }
     },
@@ -3689,6 +3995,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La passione che ci metti\nilluminerebbe l'ufficio. Sì, anche tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoje o seu brilho ilumina\naté a segunda, e você sabe disso."
           }
         }
       }
@@ -3761,6 +4073,12 @@
             "state" : "translated",
             "value" : "Forza! Oggi tu fai\ncose belle, io faccio il tifo."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vai lá, faz do seu jeito,\nque você sempre dá um show."
+          }
         }
       }
     },
@@ -3831,6 +4149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prima ancora di cominciare\nsembri già un pro. Chi? Sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Com essa postura, você\nnem precisa de crachá: é VIP."
           }
         }
       }
@@ -3903,6 +4227,12 @@
             "state" : "translated",
             "value" : "Zero voglia di lavorare? Pazienza:\ntu sei già in servizio con quel sorriso."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sem vontade de trabalhar?\nSeu rosto já trabalha por você."
+          }
         }
       }
     },
@@ -3973,6 +4303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Che outfit stamattina!\nL'azienda brilla solo perché ci sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A empresa nem sabe, mas você\né o melhor benefício dela."
           }
         }
       }
@@ -4045,6 +4381,12 @@
             "state" : "translated",
             "value" : "Quando lavori, tu fai arte.\nBasta guardarti."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visual de reunião:\nvocê ofuscando o projetor."
+          }
         }
       }
     },
@@ -4115,6 +4457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Non hai ancora iniziato\ne il risultato è già eccellente: sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nem começou o expediente e\nvocê já é case de sucesso."
           }
         }
       }
@@ -4187,6 +4535,12 @@
             "state" : "translated",
             "value" : "Ti stai allenando?\nGià questo dice che tu sei una forza."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pegou o tênis? Então você\njá ganhou metade do treino."
+          }
         }
       }
     },
@@ -4257,6 +4611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ti prendi cura di te ogni giorno:\nsolo tu hai questa disciplina."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuidar da saúde é amor,\ne você tá dando show de amor-próprio."
           }
         }
       }
@@ -4329,6 +4689,12 @@
             "state" : "translated",
             "value" : "Il corpo sa che tu\nlo tratti bene, e ringrazia."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seu corpo agradece, e a sua\nversão de amanhã também."
+          }
         }
       }
     },
@@ -4399,6 +4765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Muoversi è già vincere.\nE tu hai già iniziato!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Só de você chegar na academia,\no ventilador já aplaude."
           }
         }
       }
@@ -4471,6 +4843,12 @@
             "state" : "translated",
             "value" : "Il sudore ti sta d'incanto:\nsembri uno spot, e tu non lo sai."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suou? Então você já\né a pessoa mais bonita de lá."
+          }
         }
       }
     },
@@ -4541,6 +4919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La salute è la cosa più importante,\ne tu la tratti da VIP."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saúde em primeiro lugar,\ne você em primeiro no ranking."
           }
         }
       }
@@ -4613,6 +4997,12 @@
             "state" : "translated",
             "value" : "Ritagliarsi del tempo per sé:\nquesto sì che è amore, e tu lo fai."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esse tempinho que você tira\npra você é puro ouro."
+          }
         }
       }
     },
@@ -4683,6 +5073,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Con quella tenuta sportiva\npotresti fare la copertina. Sì, tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De roupa de treino, você\nparece capa de revista."
           }
         }
       }
@@ -4755,6 +5151,12 @@
             "state" : "translated",
             "value" : "La palestra è un paradiso\nsolo da quando ci vai tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A academia virou passarela\ndesde que você chegou."
+          }
         }
       }
     },
@@ -4825,6 +5227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Come si fa a stare bene anche\nsotto sforzo? Dimmelo, tu che sai."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Treinando ou parado, você\ntem aura de campeonato."
           }
         }
       }
@@ -4897,6 +5305,12 @@
             "state" : "translated",
             "value" : "Esiste qualcuno che sudando resta incantevole?\nSì: sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gente que fica bonita suando\nexiste? Existe: é você."
+          }
         }
       }
     },
@@ -4967,6 +5381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verso l'ufficio con quel passo?\nSolo tu trasformi il percorso in una sfilata."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No caminho pro trabalho,\nvocê é a trilha sonora do dia."
           }
         }
       }
@@ -5039,6 +5459,12 @@
             "state" : "translated",
             "value" : "Già in marcia di prima mattina:\nche forza che hai, tu!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Madrugou e foi à luta?\nIsso, você já é inspiração."
+          }
         }
       }
     },
@@ -5109,6 +5535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vai al lavoro oggi?\nLa star del treno delle sette sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saiu de casa cedo? Então\nvocê já bateu a meta do dia."
           }
         }
       }
@@ -5181,6 +5613,12 @@
             "state" : "translated",
             "value" : "Ogni passo verso l'ufficio vale oro,\nperché a farlo sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada passo seu na calçada\nvale mais que ação em alta, você sabe."
+          }
         }
       }
     },
@@ -5251,6 +5689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un tragitto qualsiasi diventa speciale\nquando ci sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Com você junto, até o\ntrânsito vira passeio."
           }
         }
       }
@@ -5323,6 +5767,12 @@
             "state" : "translated",
             "value" : "Ti presenti al lavoro ogni giorno:\nche affidabilità, tu!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Responsabilidade e estilo:\nesse é o seu combo de sempre."
+          }
         }
       }
     },
@@ -5393,6 +5843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il metrò è una passerella\nda quando ci sali tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O ônibus lotado virou passarela\nquando você entrou."
           }
         }
       }
@@ -5465,6 +5921,12 @@
             "state" : "translated",
             "value" : "Sull'autobus brilli.\nStai facendo un servizio fotografico, tu?"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fone no ouvido e você\ndesfilando na calçada: cinema."
+          }
         }
       }
     },
@@ -5535,6 +5997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vederti uscire di casa\nrende felici. Eh sì, tu fai questo effetto."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A manhã fica mais feliz\nquando você passa."
           }
         }
       }
@@ -5607,6 +6075,12 @@
             "state" : "translated",
             "value" : "Perfino camminando\nsei un mito. Chi? Sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Até no sinal fechado, você\né a vista mais bonita."
+          }
         }
       }
     },
@@ -5677,6 +6151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Giornata finita! Vai a casa\ne riposa: tu te lo sei guadagnato."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bateu o ponto, bateu a meta.\nAgora descansa, você merece."
           }
         }
       }
@@ -5749,6 +6229,12 @@
             "state" : "translated",
             "value" : "Dalla schiena sembri già in pace:\nche stile quando esci, tu!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saindo do trabalho, você\nparece final de novela: aplaudidíssimo."
+          }
         }
       }
     },
@@ -5819,6 +6305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Strada di casa: tu\nhai fatto un lavoro eccellente."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hora de voltar pra casa,\ne você leva o brilho junto."
           }
         }
       }
@@ -5891,6 +6383,12 @@
             "state" : "translated",
             "value" : "Per oggi è fatta! Fieri di te,\ne forse anche tu lo sei."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mais um dia vencido!\nE olha, você é de dar orgulho."
+          }
         }
       }
     },
@@ -5961,6 +6459,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ora il tempo è solo per te.\nRilassati, tu lo meriti."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agora o tempo é seu.\nHoje você merece sofá e carinho."
           }
         }
       }
@@ -6033,6 +6537,12 @@
             "state" : "translated",
             "value" : "Staccare la spina è un'arte,\ne l'artista sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fechou o notebook? Abre\no coração, você mereceu a pausa."
+          }
         }
       }
     },
@@ -6103,6 +6613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Finito il lavoro: ora si stacca.\nPoche storie, tu hai già dato il massimo."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foi puxado, mas você\nchegou ao fim com classe."
           }
         }
       }
@@ -6175,6 +6691,12 @@
             "state" : "translated",
             "value" : "Anche la strada di casa è più bella\nquando ci cammini tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Até voltando pra casa, você\ndeixa a rua mais bonita."
+          }
         }
       }
     },
@@ -6245,6 +6767,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chi ti incrocia al ritorno\nha vinto la giornata. Oh sì: tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cansaço é prova de que você\ndeu o seu melhor hoje."
           }
         }
       }
@@ -6317,6 +6845,12 @@
             "state" : "translated",
             "value" : "Una giornata faticosa?\nComunque vada, sei tu il numero uno."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoje você mandou tão bem\nque a segunda-feira ficou com inveja."
+          }
         }
       }
     },
@@ -6387,6 +6921,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hai ripassato a lungo:\nvedrai che tu la spacchi."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respira, você estudou\ne o cérebro lembra de tudo."
           }
         }
       }
@@ -6459,6 +6999,12 @@
             "state" : "translated",
             "value" : "L'impegno non tradisce:\nfidati, tu hai seminato bene."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O esforço que você fez\nnão vai te deixar na mão."
+          }
         }
       }
     },
@@ -6529,6 +7075,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un po' d'ansia? Normale.\nTanto tu hai già fatto il difficile."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se bater nervoso, lembra:\nvocê sabe muito mais do que pensa."
           }
         }
       }
@@ -6601,6 +7153,12 @@
             "state" : "translated",
             "value" : "Un voto non decide chi sei.\ne tu vali ben oltre un numero."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prova nenhuma mede o\ntanto que você vale."
+          }
         }
       }
     },
@@ -6671,6 +7229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hai dato il massimo:\nper noi è già un dieci. E tu?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Já deu o seu melhor, e você\nsempre entrega ainda mais."
           }
         }
       }
@@ -6743,6 +7307,12 @@
             "state" : "translated",
             "value" : "Chi se la cava meglio?\nSolo tu, senza dubbio."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se alguém vai passar, esse alguém\né você. Sem dúvida."
+          }
         }
       }
     },
@@ -6813,6 +7383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Respira a fondo.\ne tu conosci la materia meglio del libro."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respira fundo e confia:\nvocê nasceu pra mandar bem."
           }
         }
       }
@@ -6885,6 +7461,12 @@
             "state" : "translated",
             "value" : "In bocca al lupo!\nCrepi, e intanto tu fai il resto."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boa prova! Pode ir,\nque você vai arrasar."
+          }
         }
       }
     },
@@ -6955,6 +7537,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Niente paura:\nalle domande risponde il genio che sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vai acertar tudo, e até o que\nvocê chutar vai estar certo."
           }
         }
       }
@@ -7027,6 +7615,12 @@
             "state" : "translated",
             "value" : "Batticuore? Capita ai migliori.\nSolo che tu sei il migliore."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nervosismo? Normal. Mas você\nbrilha até sob pressão."
+          }
         }
       }
     },
@@ -7097,6 +7691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Persino il foglio dell'esame\nsi emoziona quando scrivi tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A folha de prova vai olhar\npra você e dizer: uau!"
           }
         }
       }
@@ -7169,6 +7769,12 @@
             "state" : "translated",
             "value" : "È il momento di mostrare\nchi sei tu davvero."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "É a sua hora de mostrar\nque você é o prêmio."
+          }
         }
       }
     },
@@ -7239,6 +7845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selezionatori in festa:\noggi il candidato dei sogni sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O recrutador vai ter sorte\nde conhecer você."
           }
         }
       }
@@ -7311,6 +7923,12 @@
             "state" : "translated",
             "value" : "Esperienza e carica ce le hai:\nè l'ora di brillare, tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sua história é um case,\ne você conta com orgulho."
+          }
         }
       }
     },
@@ -7381,6 +7999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un po' di tensione va bene:\ntu sei comunque il migliore in sala."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frio na barriga é normal,\nmas você tem charme de sobra."
           }
         }
       }
@@ -7453,6 +8077,12 @@
             "state" : "translated",
             "value" : "A testa alta! tu sai già\ncosa dire, e come dirlo."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entra firme, que você\njá merece a vaga."
+          }
         }
       }
     },
@@ -7523,6 +8153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Racconta con orgoglio il percorso:\ntu sei la storia migliore del giorno."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conta a sua história, você\né o melhor roteiro que existe."
           }
         }
       }
@@ -7595,6 +8231,12 @@
             "state" : "translated",
             "value" : "Il colloquio è una chiacchierata.\nE tu in questo sei un asso."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrevista é só um papo,\ne papo é com você mesmo."
+          }
         }
       }
     },
@@ -7665,6 +8307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se non ti assumono,\nl'azienda perde un pezzo grosso: tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se a empresa não te contratar,\nela é que perdeu você."
           }
         }
       }
@@ -7737,6 +8385,12 @@
             "state" : "translated",
             "value" : "Il curriculum è un'opera d'arte,\nma l'opera migliore sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Currículo bom é bom,\nmas você ao vivo é melhor."
+          }
         }
       }
     },
@@ -7807,6 +8461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Varcata la porta, è già un sì:\ntu hai quella luce lì."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passou pela porta, passou\nno processo. Lógica pura, você sabe."
           }
         }
       }
@@ -7879,6 +8539,12 @@
             "state" : "translated",
             "value" : "La prima impressione?\nLa vinci col sorriso, e lo sai tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primeira impressão? Aí você\nganha de lavada."
+          }
         }
       }
     },
@@ -7949,6 +8615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oggi sei una luce.\nProprio tu, guarda un po'."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoje você tá tão bem que\no espelho pediu autógrafo."
           }
         }
       }
@@ -8021,6 +8693,12 @@
             "state" : "translated",
             "value" : "Così come sei va benissimo:\nsul serio, tu non cambiare niente."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do jeito que você é, já\ndá pra encher qualquer olhar."
+          }
         }
       }
     },
@@ -8091,6 +8769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chi ti sta accanto ha vinto un premio,\ne quel premio sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quem sai com você tira\na sorte grande."
           }
         }
       }
@@ -8163,6 +8847,12 @@
             "state" : "translated",
             "value" : "Che carica! Se tu vai avanti così\nla giornata ti applaude."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autoconfiança dá um brilho\nque você carrega muito bem."
+          }
         }
       }
     },
@@ -8233,6 +8923,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quel sorriso di oggi è un'arma:\nspara, tu non hai rivali."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O sorriso de hoje é a\nmelhor arma que você tem."
           }
         }
       }
@@ -8305,6 +9001,12 @@
             "state" : "translated",
             "value" : "Semplice è bello, e tu\nsei la semplicità fatta persona."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seja você mesmo: essa\nversão já é um encanto."
+          }
         }
       }
     },
@@ -8375,6 +9077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il fascino non si nasconde:\ntu ci hai provato? Non ce la fai."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Charme assim, você até tenta\nesconder, mas não adianta."
           }
         }
       }
@@ -8447,6 +9155,12 @@
             "state" : "translated",
             "value" : "Cena a due stasera?\nL'altra persona rischia un infarto: tu sei troppo."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date hoje? Avisa a outra pessoa:\nsegura o coração."
+          }
         }
       }
     },
@@ -8517,6 +9231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chi esce con te stasera\nha fatto bingo: il premio sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quem vai encontrar você\njá ganhou na loteria."
           }
         }
       }
@@ -8589,6 +9309,12 @@
             "state" : "translated",
             "value" : "Look perfetto per l'appuntamento:\nsulla copertina di una rivista ci stai tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esse look tá um espetáculo.\nAgora você só precisa chegar."
+          }
         }
       }
     },
@@ -8659,6 +9385,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se ti vedo stasera\nmi innamoro. E tu lo sai, vero?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se apaixonar por você\né questão de segundos."
           }
         }
       }
@@ -8731,6 +9463,12 @@
             "state" : "translated",
             "value" : "Già un incanto prima di uscire.\nAl cuore di chi ti aspetta pensaci tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antes mesmo do encontro,\nvocê já derrete corações."
+          }
         }
       }
     },
@@ -8801,6 +9539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ce la fai: tu hai\nsempre il mio tifo."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vai com tudo! Eu aposto\nem você, sempre."
           }
         }
       }
@@ -8873,6 +9617,12 @@
             "state" : "translated",
             "value" : "Un piccolo passo, oggi:\ncosì parte il viaggio più bello. Chi parte? Sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passinho pequeno também\né caminho, e você anda bem."
+          }
         }
       }
     },
@@ -8943,6 +9693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Non mollare.\nI sogni si avverano, e tu sei in pista."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não desiste, que o seu\nsonho só tá aquecendo."
           }
         }
       }
@@ -9015,6 +9771,12 @@
             "state" : "translated",
             "value" : "L'impegno di oggi\nè il successo di domani. Vai, tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O esforço de hoje é o\nsucesso de amanhã."
+          }
         }
       }
     },
@@ -9085,6 +9847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "L'energia che metti\ncambia il mondo, e quell'energia sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Com essa garra, você\nainda muda o mundo."
           }
         }
       }
@@ -9157,6 +9925,12 @@
             "state" : "translated",
             "value" : "Sbagliare fa parte del gioco:\nriprova, tu hai ancora mille tentativi."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Errou? Faz parte. É\nassim que você vira lenda."
+          }
         }
       }
     },
@@ -9227,6 +10001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Le possibilità sono infinite,\ne tu ci nuoti dentro."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Com um potencial desse, você\nnão cabe nem no mapa."
           }
         }
       }
@@ -9299,6 +10079,12 @@
             "state" : "translated",
             "value" : "Oggi dai il massimo,\ntanto tu già lo fai senza pensarci."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoje é dia de você\ndar o seu melhor. De novo."
+          }
         }
       }
     },
@@ -9369,6 +10155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quando ti impegni, tu sei\nl'ispirazione di qualcuno."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando você se esforça, alguém\nlá fora se inspira em silêncio."
           }
         }
       }
@@ -9441,6 +10233,12 @@
             "state" : "translated",
             "value" : "Andrà alla grande, fidati,\nse al timone ci sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vai dar certo. Falo sério,\ne você sabe que eu sei."
+          }
         }
       }
     },
@@ -9511,6 +10309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Non arrenderti. Lo sai tu quanto vali,\ne sai che è moltissimo."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segue o baile! Aí você\ntem talento de sobra."
           }
         }
       }
@@ -9583,6 +10387,12 @@
             "state" : "translated",
             "value" : "Forza e coraggio!\nCe la fai, e lo sai bene anche tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foco, força e fé:\nvocê já tem os três."
+          }
         }
       }
     },
@@ -9653,6 +10463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chi vede quanto ti impegni\nfa il tifo per te. E tu non lo sapevi?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quem vê o seu esforço\nvira torcedor de você."
           }
         }
       }
@@ -9725,6 +10541,12 @@
             "state" : "translated",
             "value" : "Vali tanto, e tu lo sai.\nDavvero tanto."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fato, não opinião: você\ntem valor de sobra."
+          }
         }
       }
     },
@@ -9795,6 +10617,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Così come sei va già benissimo:\ntu non devi aggiungere altro."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do jeito que você é, já\nvem de fábrica com tudo."
           }
         }
       }
@@ -9867,6 +10695,12 @@
             "state" : "translated",
             "value" : "Esisti, ed è già speciale.\nLo so io, e dovresti saperlo anche tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Existir já te torna especial.\nE você existe com muito estilo."
+          }
         }
       }
     },
@@ -9937,6 +10771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fiducia alle stelle!\nSe tu entri in sala, la festa inizia."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peito aberto, queixo erguido:\nvocê é demais."
           }
         }
       }
@@ -10009,6 +10849,12 @@
             "state" : "translated",
             "value" : "Sei più tosto di quanto credi.\nSì, tu, proprio tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mais forte do que pensa,\né o que você é."
+          }
         }
       }
     },
@@ -10079,6 +10925,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Le stranezze sono stelle,\ne tu sei una costellazione."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O seu jeito único é o\nsuperpoder que você tem."
           }
         }
       }
@@ -10151,6 +11003,12 @@
             "state" : "translated",
             "value" : "Credi in te.\nma tu sei più capace di quanto pensi."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acredita: você dá conta\ne ainda sobra estilo."
+          }
         }
       }
     },
@@ -10221,6 +11079,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sei un capolavoro già finito.\ne tu non hai bisogno di ritocchi."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ninguém é igual a você,\ne esse é o melhor spoiler."
           }
         }
       }
@@ -10293,6 +11157,12 @@
             "state" : "translated",
             "value" : "Sicurezza al massimo!\nIl numero uno dell'universo sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Com essa confiança, você\né o centro do universo."
+          }
         }
       }
     },
@@ -10363,6 +11233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vali più di quanto pensi tu,\ne si vede da lontano."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se pudesse se ver com\nos meus olhos, você nem piscava."
           }
         }
       }
@@ -10435,6 +11311,12 @@
             "state" : "translated",
             "value" : "Stai già andando alla grande,\ne tu non te ne accorgi."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tá indo bem, e você\nnem percebe o tanto."
+          }
         }
       }
     },
@@ -10505,6 +11387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se qualcuno non vede quanto brilli tu,\nè ora che compri gli occhiali."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quem não vê seu valor\nprecisa trocar de óculos."
           }
         }
       }
@@ -10577,6 +11465,12 @@
             "state" : "translated",
             "value" : "Oggi si sta comodi:\nun po' di pace la merita proprio tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoje o plano é nenhum.\nSó você e o seu descanso."
+          }
         }
       }
     },
@@ -10647,6 +11541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anche tu hai il diritto\ndi riposarti."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pausa merecida: você\ntrabalhou o suficiente por três."
           }
         }
       }
@@ -10719,6 +11619,12 @@
             "state" : "translated",
             "value" : "Giornata a zero impegni?\nVa benissimo: tu ne hai già fatti abbastanza."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não fazer nada também\né ótimo programa pra você."
+          }
         }
       }
     },
@@ -10789,6 +11695,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Conta il benessere del cuore.\nLo sai tu meglio di chiunque."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuida do coração, que é\no que você tem de mais precioso."
           }
         }
       }
@@ -10861,6 +11773,12 @@
             "state" : "translated",
             "value" : "Con calma, a passo morbido:\ntu non hai fretta."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No seu tempo, do seu jeito.\nPode confiar que você chega lá."
+          }
         }
       }
     },
@@ -10931,6 +11849,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stasera il tempo è per te.\nAccendi una candela: tu ci stai bene."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O evento de hoje é você\ne o seu bem-estar."
           }
         }
       }
@@ -11003,6 +11927,12 @@
             "state" : "translated",
             "value" : "Riposare è un lavoro serio,\ne il capo sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descansar é produtivo.\nSeu corpo agradece, e você também."
+          }
         }
       }
     },
@@ -11073,6 +12003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fermarsi è un diritto sacrosanto:\noggi tu sei in ferie dal mondo."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descansar é direito seu,\ne você pode usar à vontade."
           }
         }
       }
@@ -11145,6 +12081,12 @@
             "state" : "translated",
             "value" : "Mentre ti rilassi\nsei ancora più dolce. Sì, tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuidando de si, você\nfica ainda mais radiante."
+          }
         }
       }
     },
@@ -11215,6 +12157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prendersi del tempo va bene.\nIl mondo aspetta, tu no."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesmo em modo soneca,\nvocê continua incrível."
           }
         }
       }
@@ -11287,6 +12235,12 @@
             "state" : "translated",
             "value" : "Rilassarsi sul divano?\nAnche da fermo, tu brilli."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gastar tempo com você\né o melhor investimento."
+          }
         }
       }
     },
@@ -11357,6 +12311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chi riposa è sempre incantevole,\ne tu ne sei la prova."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Até relaxando, você\nganha o prêmio de pessoa mais bonita."
           }
         }
       }
@@ -11429,6 +12389,12 @@
             "state" : "translated",
             "value" : "Hai un solo difetto: che tu\nnon abbia nessun difetto."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sabe o que falta em você?\nNada. Nem um defeitinho pra contar."
+          }
         }
       }
     },
@@ -11499,6 +12465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sei tu il Wi-Fi?\nPerché con te sento una connessione."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuidado: você causa vício,\ne ainda não existe reabilitação."
           }
         }
       }
@@ -11571,6 +12543,12 @@
             "state" : "translated",
             "value" : "Sei una bomba, ma di quelle buone:\nsolo tu esplodi di simpatia."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se beleza fosse crime, você\npegava prisão perpétua."
+          }
         }
       }
     },
@@ -11641,6 +12619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dimmi tu se esisti davvero:\nsembri uscito da un sogno."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tá com GPS? Porque você\nme deixou perdido de vez."
           }
         }
       }
@@ -11713,6 +12697,12 @@
             "state" : "translated",
             "value" : "Il navigatore dice \"ricalcolo\":\nla nuova destinazione sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dizem que perfeição não existe,\nmas aí vem você e desmente."
+          }
         }
       }
     },
@@ -11783,6 +12773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Furto confermato:\nil cuore è sparito e il ladro sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se você fosse um verbo,\nseria \"brilhar\": irregular e único."
           }
         }
       }
@@ -11855,6 +12851,12 @@
             "state" : "translated",
             "value" : "La pizza è invidiosa:\nsolo tu piaci a chiunque, come lei."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me explica: como você pode\nser tão incrível e ainda humilde?"
+          }
         }
       }
     },
@@ -11925,6 +12927,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ho cercato \"fascino\" nel dizionario:\nc'era una foto. Eri tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Será que você é Wi-Fi?\nPorque senti conexão na hora."
           }
         }
       }
@@ -11997,6 +13005,12 @@
             "state" : "translated",
             "value" : "Non credevo ai miracoli.\nOra guardo te e il miracolo sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seu sorriso devia pagar imposto,\nde tão valioso."
+          }
         }
       }
     },
@@ -12067,6 +13081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mi mancava qualcosa, poi\nho capito: mancavi tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pernas pra que te quero?\nSó pra chegar até você."
           }
         }
       }
@@ -12139,6 +13159,12 @@
             "state" : "translated",
             "value" : "Hai un asso nella manica?\nNo: l'asso e la manica sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mapa do tesouro? Achei.\nO X marca onde você está."
+          }
         }
       }
     },
@@ -12209,6 +13235,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Roma avrebbe otto colli,\nse l'ottavo fossi tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usou filtro? Nada! Aí você\ntem beleza de fábrica."
           }
         }
       }
@@ -12281,6 +13313,12 @@
             "state" : "translated",
             "value" : "Il Colosseo è bello, certo,\nma il monumento più amato sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sua presença soma, multiplica\ne nunca divide a alegria."
+          }
         }
       }
     },
@@ -12351,6 +13389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il tiramisù tira su il morale?\nSì, ma tu lo tiri su meglio."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso: quem passa perto\nde você sai com o coração acelerado."
           }
         }
       }
@@ -12423,6 +13467,12 @@
             "state" : "translated",
             "value" : "Come l'espresso: corto e intenso.\nIl mio risveglio quotidiano sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tá com febre? Não, é\nsó o efeito que você causa."
+          }
         }
       }
     },
@@ -12493,6 +13543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Con te il tempo vola.\nChi ha messo le ali alle ore? Sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ponto turístico? Não, é só\nvocê andando pela rua."
           }
         }
       }
@@ -12565,6 +13621,12 @@
             "state" : "translated",
             "value" : "Sei come il parmigiano:\nogni piatto migliora se ci sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ave Maria! Aí você é uma\nobra-prima sem moldura."
+          }
         }
       }
     },
@@ -12635,6 +13697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ti darei dieci e lode,\nma tu meriti un voto nuovo."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se sorriso fosse moeda,\nvocê já teria banco próprio."
           }
         }
       }
@@ -12707,6 +13775,12 @@
             "state" : "translated",
             "value" : "Non è un concorso di bellezza,\nma se lo fosse, tu avresti già vinto."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pelas minhas contas, você\ntem 100% de aprovação. As contas são minhas."
+          }
         }
       }
     },
@@ -12777,6 +13851,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lavori ancora? Eppure\ntu hai già il fascino a tempo pieno."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perguntaram quem é o melhor.\nRespondi sem pensar: você."
           }
         }
       }
@@ -12849,6 +13929,12 @@
             "state" : "translated",
             "value" : "Smettila di essere adorabile!\n\"E come si fa?\"\nAppunto: tu non sai farlo."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por que trabalhar, se a sua beleza\njá faz hora extra?"
+          }
         }
       }
     },
@@ -12919,6 +14005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Una vetrina di museo ti vuole in vetrina:\ntu sei un capolavoro che cammina."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dizem que a lua é linda,\nmas nunca viram você de perto."
           }
         }
       }
@@ -12991,6 +14083,12 @@
             "state" : "translated",
             "value" : "Che premiazione inutile:\nse ci sei tu, i vincitori sono già noti."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se você fosse bateria,\nseria 100% e sem descarregar."
+          }
         }
       }
     },
@@ -13061,6 +14159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Servizio fotografico o passeggiata?\nIn ogni caso tu sei una copertina."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sabe aquele filme bom\nque a gente quer rever? É você."
           }
         }
       }
@@ -13133,6 +14237,12 @@
             "state" : "translated",
             "value" : "Sei una star: nel mio cuore\nil primo in classifica sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Que anúncio é esse?\nAh, é você chegando com tudo."
+          }
         }
       }
     },
@@ -13203,6 +14313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fai un firmacopie, ti prego!\nCi sarò ogni giorno, tu lo sai."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isso é uma pessoa ou\num filtro de cinema? Ah, é você."
           }
         }
       }
@@ -13275,6 +14391,12 @@
             "state" : "translated",
             "value" : "Debutta pure: nel mio cuore\ntu sei già il frontman."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se simpatia ganhasse prêmio,\nvocê levava a taça e a torcida."
+          }
         }
       }
     },
@@ -13345,6 +14467,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Primo in classifica ancora?\nNormale, tu vinci ogni giorno col sorriso."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Até o horóscopo disse:\n\"hoje é dia de elogiar você\"."
           }
         }
       }
@@ -13417,6 +14545,12 @@
             "state" : "translated",
             "value" : "Concedimi una foto:\nsolo tu sei uno scatto perfetto."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sem querer incomodar, mas\nvocê é demais, tá?"
+          }
         }
       }
     },
@@ -13487,6 +14621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nuovo singolo? Il mio cuore\nlo riascolta a ogni battito. La hit sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para de ser tão incrível:\no ranking acabou, só tem você."
           }
         }
       }
@@ -13559,6 +14699,12 @@
             "state" : "translated",
             "value" : "Posso riprenderti da vicino?\nOgni istante con te, tu, è da applausi."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A receita do bolo perfeito?\nUma pitada de você."
+          }
         }
       }
     },
@@ -13629,6 +14775,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Videoclip? No, tu sei già\nil film che vorrei vedere ogni sera."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meu café com você\ntem gosto de domingo."
           }
         }
       }
@@ -13701,6 +14853,12 @@
             "state" : "translated",
             "value" : "Un reality su di te?\nSarebbe un record d'ascolti, tu lo sai."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pessoa de verdade é melhor que\nfiltro, e você nem usa filtro."
+          }
         }
       }
     },
@@ -13771,6 +14929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il centro della scena\nlo occupi sempre tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dizem que ninguém é insubstituível,\nmas ninguém tentou trocar você."
           }
         }
       }
@@ -13843,6 +15007,12 @@
             "state" : "translated",
             "value" : "Meriti il premio faccia dell'anno.\nPer ora vince sempre tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nasceu com estrela?\nQue nada, você nasceu com o céu inteiro."
+          }
         }
       }
     },
@@ -13913,6 +15083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fai pubblicità? Appena ti vedo\nvoglio comprare qualsiasi cosa. Che potere, tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Procurei um elogio à sua altura.\nNão existe, mas você merece."
           }
         }
       }
@@ -13985,6 +15161,12 @@
             "state" : "translated",
             "value" : "Dimmi che sei in copertina:\nsul giornale ci sta solo tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada vez que você ri,\num unicórnio ganha asas."
+          }
         }
       }
     },
@@ -14055,6 +15237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Che carisma sul palco!\nMa anche a casa sei una star, tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se carisma fosse um rio,\nvocê seria a cachoeira."
           }
         }
       }
@@ -14127,6 +15315,12 @@
             "state" : "translated",
             "value" : "Faccio l'album delle figurine:\nin ogni pagina ci sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tá todo mundo perguntando:\nquem é essa lenda? É você."
+          }
         }
       }
     },
@@ -14197,6 +15391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quand'è l'incontro con i fan?\nIo ci sono ogni giorno, e tu?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitou! Pode soltar o\n\"lacrou\" que você merece."
           }
         }
       }
@@ -14269,6 +15469,12 @@
             "state" : "translated",
             "value" : "Posta un video di ballo, dai:\nogni mossa è arte, e tu lo sai."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olha só! Aí vem você,\ne o chão vira tapete vermelho."
+          }
         }
       }
     },
@@ -14339,6 +15545,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mi sembra un trailer:\nogni volta che arrivi tu, il cuore parte."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vai ser difícil competir:\nvocê tem torcida organizada."
           }
         }
       }
@@ -14411,6 +15623,12 @@
             "state" : "translated",
             "value" : "Tournée mondiale? Io salgo sul bus.\nSe ci sei tu, il viaggio è già bello."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Já pode abrir o fã-clube:\neu sou o presidente, você é o astro."
+          }
         }
       }
     },
@@ -14481,6 +15699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Edizione limitata?\nNo, tu sei un pezzo unico."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esgotou! O ingresso pra ver\nvocê sorrir já acabou."
           }
         }
       }
@@ -14553,6 +15777,12 @@
             "state" : "translated",
             "value" : "Alzo la torcia del telefono:\nper te, che illumini la sala. Sì, tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pedido de bis: você\nchegando de novo pro dia todo."
+          }
         }
       }
     },
@@ -14623,6 +15853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Scalata in classifica?\nIn vetta eri già da sempre, tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ei, na primeira fila,\nsó tem fã de você."
           }
         }
       }
@@ -14695,6 +15931,12 @@
             "state" : "translated",
             "value" : "Concerto? Io vado\nsolo per vedere se ci sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assina aqui? Quero levar\num autógrafo seu pra vida inteira."
+          }
         }
       }
     },
@@ -14765,6 +16007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Primo posto in hit parade?\nPer me la canzone numero uno sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hit do verão? Que nada,\no hit do ano inteiro é você."
           }
         }
       }
@@ -14837,6 +16085,12 @@
             "state" : "translated",
             "value" : "Bis, bis, bis!\nUna canzone che riascolto sempre? Sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na minha playlist, só você\ntoca no repeat."
+          }
         }
       }
     },
@@ -14907,6 +16161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anche dietro le quinte\nsei una leggenda, tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viralizou! Sua beleza\njá tá nos trending topics."
           }
         }
       }
@@ -14979,6 +16239,12 @@
             "state" : "translated",
             "value" : "Cambio la mia star preferita:\nda oggi la numero uno sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capa de revista é pouco:\no seu charme pede edição especial."
+          }
         }
       }
     },
@@ -15049,6 +16315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tessera numero uno al fan club:\nci tengo, perché il capo sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turnê mundial? Pode ir,\nque eu já sou fã de você."
           }
         }
       }
@@ -15121,6 +16393,12 @@
             "state" : "translated",
             "value" : "Svelo il mio preferito:\nin tre, due, uno... sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Virei fã de carteirinha:\nvocê é minha estrela favorita."
+          }
         }
       }
     },
@@ -15191,6 +16469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ho comprato ogni gadget:\ntanto il pezzo da collezione sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show é o seu bom dia:\nvocê rouba a cena de graça."
           }
         }
       }
@@ -15263,6 +16547,12 @@
             "state" : "translated",
             "value" : "Faccio il tifo a vita:\nho un solo idolo, e sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tapete vermelho pra quê?\nJá que você chega brilhando."
+          }
         }
       }
     },
@@ -15333,6 +16623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ho scelto la mia squadra:\nlo stadio è dove sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pedi um álbum e ganhei\no disco da minha vida: você."
           }
         }
       }
@@ -15405,6 +16701,12 @@
             "state" : "translated",
             "value" : "Parte la mia fase fan:\nsei tu il mio unico pensiero."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ensaio fotográfico? Aí você\nnem precisa, já nasceu em alta resolução."
+          }
         }
       }
     },
@@ -15475,6 +16777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Faccio il fotografo ufficiale:\nvoglio immortalare ogni attimo in cui ridi tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acabei de criar um fã-clube.\nPrimeira sócia: eu. Líder: você."
           }
         }
       }
@@ -15547,6 +16855,12 @@
             "state" : "translated",
             "value" : "Ora di parlarci da amici:\nmi piaci da morire, tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estreia mundial! Em cartaz, o filme\n\"Arrasando\": estrelando você."
+          }
         }
       }
     },
@@ -15617,6 +16931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pago un cartellone in piazza:\nogni giorno dovrebbe essere festa, perché ci sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiz fila pra ver você.\nValeu cada minuto, hein!"
           }
         }
       }
@@ -15689,6 +17009,12 @@
             "state" : "translated",
             "value" : "Tifo per te per sempre.\nChe orgoglio essere fan di quello che sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Troféu de melhor sorriso:\nvai pra você, sem votação."
+          }
         }
       }
     },
@@ -15759,6 +17085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quando ci sei tu\nil cuore fa il tamburo."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando você aparece, meu\ncoração faz solo de bateria."
           }
         }
       }
@@ -15831,6 +17163,12 @@
             "state" : "translated",
             "value" : "Se ci sei tu\nil mondo diventa un quadro."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olhar pra você deixa\no mundo bem mais bonito."
+          }
         }
       }
     },
@@ -15901,6 +17239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sei la mia vitamina quotidiana:\ntu lo sai, e fa bene al cuore."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Com você por perto, o dia\nvira vitamina de felicidade."
           }
         }
       }
@@ -15973,6 +17317,12 @@
             "state" : "translated",
             "value" : "Se sorridi tu,\nsorrido pure io, in automatico."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O seu riso é contagiante,\ne eu já peguei de você."
+          }
         }
       }
     },
@@ -16043,6 +17393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tra le stelle, la più luminosa\nche abbia mai visto sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tem estrela que só brilha\nporque você deixou emprestado."
           }
         }
       }
@@ -16115,6 +17471,12 @@
             "state" : "translated",
             "value" : "Ogni giorno con te è una sagra:\ne il re della festa sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toda manhã é festival\ndesde que você existe."
+          }
         }
       }
     },
@@ -16185,6 +17547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se parli tu,\nla giornata parte col sorriso."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escutar você falar já\nmelhora o meu humor."
           }
         }
       }
@@ -16257,6 +17625,12 @@
             "state" : "translated",
             "value" : "Nel gioco della vita\nil jolly migliore sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Que sorte a minha de\nconhecer você!"
+          }
         }
       }
     },
@@ -16327,6 +17701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se oggi rido,\nè perché ci sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ter você por perto é\nganhar na loteria todo dia."
           }
         }
       }
@@ -16399,6 +17779,12 @@
             "state" : "translated",
             "value" : "Nel mondo intero\nla persona più preziosa sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pessoa mais importante da sala:\nsempre você, sem votação."
+          }
         }
       }
     },
@@ -16469,6 +17855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se penso a te mi parte il sorriso:\nlo fai apposta, tu?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Só de pensar em você\no sorriso aparece sozinho."
           }
         }
       }
@@ -16541,6 +17933,12 @@
             "state" : "translated",
             "value" : "Sei la pace del mio cuore,\ne lo sai pure tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paz de espírito tem nome,\ne o nome é você."
+          }
         }
       }
     },
@@ -16611,6 +18009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ogni minuto accanto a te\nè speciale. Ma tu non te ne accorgi."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Momentos com você são\nsempre edição de colecionador."
           }
         }
       }
@@ -16683,6 +18087,12 @@
             "state" : "translated",
             "value" : "Non conosco persona più in gamba:\nil record lo detieni tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olha, de todo mundo que\nconheço, você é a melhor versão."
+          }
         }
       }
     },
@@ -16753,6 +18163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Esistere già basta:\nti ringrazio, tu che sei un dono."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agradeço todo dia só\npor você existir."
           }
         }
       }
@@ -16825,6 +18241,12 @@
             "state" : "translated",
             "value" : "Il clou\ndella giornata sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O melhor momento do meu dia\né quando você aparece."
+          }
         }
       }
     },
@@ -16895,6 +18317,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Basta che ci sia tu\ne il giorno diventa speciale."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Graças a você, todo dia\ntem cara de feriado."
           }
         }
       }
@@ -16967,6 +18395,12 @@
             "state" : "translated",
             "value" : "Quando arrivi tu\nla stanza si illumina."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando você chega, a\nescuridão pede licença."
+          }
         }
       }
     },
@@ -17037,6 +18471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il regalo migliore della mia vita?\nSenza dubbio sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Presente do universo?\nSó pode ser você."
           }
         }
       }
@@ -17109,6 +18549,12 @@
             "state" : "translated",
             "value" : "Il mondo è un posto migliore\nsolo perché ci sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O mundo ganhou mais cor\ndesde que você chegou."
+          }
         }
       }
     },
@@ -17179,6 +18625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Una giornata senza te? Impensabile.\nOgni giorno ho bisogno che ci sia tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imaginar um dia sem você?\nImpossível, já tentei."
           }
         }
       }
@@ -17251,6 +18703,12 @@
             "state" : "translated",
             "value" : "Nel mio cuore, il numero uno\nè sempre e solo tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No pódio do meu coração,\nvocê ocupa os três lugares."
+          }
         }
       }
     },
@@ -17321,6 +18779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se ci sei tu\nsi può affrontare qualsiasi cosa."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se você tá do meu lado,\nqualquer plano dá certo."
           }
         }
       }
@@ -17393,6 +18857,12 @@
             "state" : "translated",
             "value" : "Ringrazio ogni giorno il cielo\nperché esisti tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agradecimento do dia:\nvocê, na primeira linha."
+          }
         }
       }
     },
@@ -17463,6 +18933,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nessun sorriso al mondo\nbatte quello che fai tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seu sorriso ganha de\nqualquer pôr do sol."
           }
         }
       }
@@ -17535,6 +19011,12 @@
             "state" : "translated",
             "value" : "La benedizione più grande\nche conosca sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maior bênção da minha vida?\nFoi você aparecer."
+          }
         }
       }
     },
@@ -17605,6 +19087,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se penso a te, la giornata\ndiventa felice. Sì, a te: tu fai miracoli."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pensou em você, o dia\njá ficou mais leve."
           }
         }
       }
@@ -17677,6 +19165,12 @@
             "state" : "translated",
             "value" : "Sei il mio posto sicuro, lo sai:\ncasa mia è dove ci sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Casa, doce casa:\nvocê é o meu cantinho favorito."
+          }
         }
       }
     },
@@ -17747,6 +19241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quando ci sei tu\nogni cosa va al posto giusto."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perto de você tudo fica\nno lugar, até a bagunça."
           }
         }
       }
@@ -17819,6 +19319,12 @@
             "state" : "translated",
             "value" : "Il mio tipo ideale?\nDescrizione esatta: sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meu tipo ideal? Chegou:\nvocê, em tamanho real."
+          }
         }
       }
     },
@@ -17889,6 +19395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il cuore va in tilt\nogni volta che passi tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meu coração perdeu o\ncompasso quando viu você."
           }
         }
       }
@@ -17961,6 +19473,12 @@
             "state" : "translated",
             "value" : "Se esistesse un libro dei grandi,\nin copertina ci sarebbe tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biografia ambulante, é\nisso que você é: pura história."
+          }
         }
       }
     },
@@ -18031,6 +19549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mi lascio incantare ogni volta:\nfai sempre centro, tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seu charme me derrota toda vez.\nPior: você nem tenta, né?"
           }
         }
       }
@@ -18103,6 +19627,12 @@
             "state" : "translated",
             "value" : "Mi viene il torcicollo a forza\ndi voltarmi quando passi tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De tanto olhar pra você\no pescoço já pediu arrego."
+          }
         }
       }
     },
@@ -18173,6 +19703,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I battiti salgono\nogni volta che appari tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada vez que você passa\nmeu coração faz hora extra."
           }
         }
       }
@@ -18245,6 +19781,12 @@
             "state" : "translated",
             "value" : "Che spettacolo per gli occhi:\nuna copertina che cammina, tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pra mim você é capa de\nrevista que anda e fala."
+          }
         }
       }
     },
@@ -18315,6 +19857,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ogni giorno è da preferiti,\nperché ci sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todo dia vira folga\ncom você por perto."
           }
         }
       }
@@ -18387,6 +19935,12 @@
             "state" : "translated",
             "value" : "Un miracolo a passeggio:\nsei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Milagre? Que nada,\nmilagre é pouco: é você."
+          }
         }
       }
     },
@@ -18457,6 +20011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Appena arrivi tu\nil mondo va al rallentatore."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando você passa, o\nmundo ativa a câmera lenta."
           }
         }
       }
@@ -18529,6 +20089,12 @@
             "state" : "translated",
             "value" : "Nella mia vita hai l'accesso VIP:\nanzi, il locale esclusivo sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cartão VIP da vida:\nvocê é a lista inteira."
+          }
         }
       }
     },
@@ -18599,6 +20165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il punto più alto della mia giornata\nè il momento in cui arrivi tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver você é o meu\nprograma favorito do dia."
           }
         }
       }
@@ -18671,6 +20243,12 @@
             "state" : "translated",
             "value" : "L'unica serie che rivedrei all'infinito\nè quella dove ci sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em pleno domingo, você\né o melhor conteúdo da minha tela."
+          }
         }
       }
     },
@@ -18741,6 +20319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Da quando ci sei tu\nvedo il mondo in alta definizione."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depois de você, o mundo\npassou a ser em alta definição."
           }
         }
       }
@@ -18813,6 +20397,12 @@
             "state" : "translated",
             "value" : "Nella mia vita arrivi\nal momento giusto. Sempre, tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hora de ouro? É a hora\nem que você aparece."
+          }
         }
       }
     },
@@ -18883,6 +20473,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sei il pensiero che fa sorridere:\nlo sai tu quanto?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pensar em você ativa\no sorriso automático."
           }
         }
       }
@@ -18955,6 +20551,12 @@
             "state" : "translated",
             "value" : "Il mio cuore è un grand hotel,\ne la suite migliore l'hai presa tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hotel cinco estrelas? É meu\ncoração, e você é o hóspede VIP."
+          }
         }
       }
     },
@@ -19025,6 +20627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ogni giorno è giorno di festa,\nper merito di chi? Solo tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Com você, até terça-feira\nvira dia de festa."
           }
         }
       }
@@ -19097,6 +20705,12 @@
             "state" : "translated",
             "value" : "Il protagonista del mio film\nsei tu, e non cambio il cast."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No grande evento da vida,\nvocê é a atração principal."
+          }
         }
       }
     },
@@ -19167,6 +20781,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quando passi tu\nil mio cuore balla la breakdance."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olho pra você e o\ncoração começa a dançar."
           }
         }
       }
@@ -19239,6 +20859,12 @@
             "state" : "translated",
             "value" : "Per i miei occhi sei in 4K:\nche nitidezza, tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visão de 4K? Só se\nfor pra olhar pra você."
+          }
         }
       }
     },
@@ -19309,6 +20935,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se ci sei tu\nil mondo splende di più."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tudo parece mais brilhante\nquando você tá em cena."
           }
         }
       }
@@ -19381,6 +21013,12 @@
             "state" : "translated",
             "value" : "Per il mio cuore\nsei una persona VVIP, tu e nessun altro."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pra mim você é\na lista VIP de uma pessoa só."
+          }
         }
       }
     },
@@ -19451,6 +21089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il giorno cambia faccia\nquando entri in scena tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Graças a você, o dia\nganha trilha sonora e tudo."
           }
         }
       }
@@ -19523,6 +21167,12 @@
             "state" : "translated",
             "value" : "La mia carta segreta?\nChe domande: sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carta na manga? Aqui\na carta de ouro é você."
+          }
         }
       }
     },
@@ -19593,6 +21243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pensare a te mi mette di buon umore.\nCome fai tu?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Só de pensar em você\no humor sobe de nível."
           }
         }
       }
@@ -19665,6 +21321,12 @@
             "state" : "translated",
             "value" : "Nel mio pantheon personale\nil primo posto d'onore sei tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hall da fama, vaga número um:\nreservada pra você, claro."
+          }
         }
       }
     },
@@ -19735,6 +21397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La mia vita è a colori\nda quando ci sei tu."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A vida era preto e branco,\naí você chegou e pintou tudo."
           }
         }
       }
@@ -19807,6 +21475,12 @@
             "state" : "translated",
             "value" : "Sei un classico senza tempo,\nnel mio cuore ci sei sempre tu."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De todos os tempos, você\né a lenda que nunca sai de moda."
+          }
         }
       }
     },
@@ -19878,6 +21552,12 @@
             "state" : "translated",
             "value" : "Appena passi tu\nmi sembra un film al rallentatore."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ao seu lado o relógio\nfica tímido: você faz o tempo parar."
+          }
         }
       }
     },
@@ -19948,6 +21628,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il mio pass per la felicità\nsei tu, e non scade mai."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passe livre pra vida inteira?\nJá tenho: você."
           }
         }
       }

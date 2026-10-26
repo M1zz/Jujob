@@ -65,6 +65,12 @@
             "state" : "translated",
             "value" : "%lld giorni"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld dias"
+          }
         }
       }
     },
@@ -128,6 +134,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hai letto 100 complimenti:\nora sei un vero mito!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Já são 100 elogios vistos,\nagora você é mestre de verdade!"
           }
         }
       }
@@ -193,6 +205,12 @@
             "state" : "translated",
             "value" : "100 giorni di fila con i complimenti!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 dias seguidos de elogios!"
+          }
         }
       }
     },
@@ -256,6 +274,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cento giorni, che miracolo!\nLa costanza ha cambiato il mondo!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Milagre de 100 dias! Sua constância\nmudou o mundo!"
           }
         }
       }
@@ -321,6 +345,12 @@
             "state" : "translated",
             "value" : "Cento giorni insieme, che viaggio!\nSei una persona davvero eccezionale!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 dias de jornada juntos,\ne você é simplesmente demais!"
+          }
         }
       }
     },
@@ -381,6 +411,12 @@
           }
         },
         "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 min"
+          }
+        },
+        "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 min"
@@ -449,6 +485,12 @@
             "state" : "translated",
             "value" : "30 min"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 min"
+          }
         }
       }
     },
@@ -512,6 +554,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "30 giorni di fila con i complimenti!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 dias seguidos de elogios!"
           }
         }
       }
@@ -577,6 +625,12 @@
             "state" : "translated",
             "value" : "30 giorni di presenza fissa:\nsei una garanzia!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 dias firme e forte por aqui,\nvocê é o melhor!"
+          }
         }
       }
     },
@@ -641,6 +695,12 @@
             "state" : "translated",
             "value" : "Hai letto 50 complimenti:\nche carica!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "50 elogios vistos! Haja\nentusiasmo, hein?"
+          }
         }
       }
     },
@@ -701,6 +761,12 @@
           }
         },
         "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 min"
+          }
+        },
+        "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "5 min"
@@ -769,6 +835,12 @@
             "state" : "translated",
             "value" : "7 giorni di fila con i complimenti!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7 dias seguidos de elogios!"
+          }
         }
       }
     },
@@ -832,6 +904,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Una settimana insieme:\nandiamo avanti così!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uma semana juntos!\nBora continuar assim?"
           }
         }
       }
@@ -903,6 +981,12 @@
             "state" : "translated",
             "value" : "Ripristina acquisti"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar compras"
+          }
         }
       }
     },
@@ -972,6 +1056,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Scegli una categoria"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escolha uma categoria"
           }
         }
       }
@@ -1043,6 +1133,12 @@
             "state" : "translated",
             "value" : "Scegli un font"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escolha uma fonte"
+          }
         }
       }
     },
@@ -1112,6 +1208,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Guida"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutorial"
           }
         }
       }
@@ -1183,6 +1285,12 @@
             "state" : "translated",
             "value" : "anonimo"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anônimo"
+          }
         }
       }
     },
@@ -1253,6 +1361,12 @@
             "state" : "translated",
             "value" : "premium"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
+          }
         }
       }
     },
@@ -1320,6 +1434,12 @@
             "state" : "translated",
             "value" : "Contatta lo sviluppatore"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falar com o dev"
+          }
         }
       }
     },
@@ -1383,6 +1503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Colore sfumato"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cor do degradê"
           }
         }
       }
@@ -1448,6 +1574,12 @@
             "state" : "translated",
             "value" : "Colore del testo"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cor do texto"
+          }
         }
       }
     },
@@ -1511,6 +1643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Scegli l'umore"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escolha o humor"
           }
         }
       }
@@ -1576,6 +1714,12 @@
             "state" : "translated",
             "value" : "Giù di morale"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baixo astral"
+          }
         }
       }
     },
@@ -1639,6 +1783,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ti scelgo il complimento giusto\nper umore e momento!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eu escolho o elogio certo\npro seu humor ou momento!"
           }
         }
       }
@@ -1704,6 +1854,12 @@
             "state" : "translated",
             "value" : "I miei record"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minha jornada"
+          }
         }
       }
     },
@@ -1768,6 +1924,12 @@
             "state" : "translated",
             "value" : "Gestisci complimenti"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meus elogios"
+          }
         }
       }
     },
@@ -1831,6 +1993,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prossimo"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próximo"
           }
         }
       }
@@ -1897,6 +2065,12 @@
             "state" : "translated",
             "value" : "tu"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "você"
+          }
         }
       }
     },
@@ -1960,6 +2134,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vali davvero tanto,\ne tu lo sai!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você já é mais\nque suficiente!"
           }
         }
       }
@@ -2025,6 +2205,12 @@
             "state" : "translated",
             "value" : "Prima del date"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pré-date"
+          }
         }
       }
     },
@@ -2088,6 +2274,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Motivazione"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motivação"
           }
         }
       }
@@ -2153,6 +2345,12 @@
             "state" : "translated",
             "value" : "Casuale"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aleatório"
+          }
         }
       }
     },
@@ -2216,6 +2414,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tocca la stella per salvare\ni complimenti che ami!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toque na estrela pra salvar\nos elogios que você mais curtir!"
           }
         }
       }
@@ -2281,6 +2485,12 @@
             "state" : "translated",
             "value" : "Ogni giorno, vogliti più bene"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se ame um pouco todo dia"
+          }
         }
       }
     },
@@ -2344,6 +2554,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prima del colloquio"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pré-entrevista"
           }
         }
       }
@@ -2409,6 +2625,12 @@
             "state" : "translated",
             "value" : "Anteprima"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prévia"
+          }
         }
       }
     },
@@ -2472,6 +2694,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sfondo"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fundo"
           }
         }
       }
@@ -2537,6 +2765,12 @@
             "state" : "translated",
             "value" : "Immagine di sfondo"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imagem de fundo"
+          }
         }
       }
     },
@@ -2600,6 +2834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cento giorni!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 dias!"
           }
         }
       }
@@ -2665,6 +2905,12 @@
             "state" : "translated",
             "value" : "Cento giorni, uno dopo l'altro:\nsei una persona preziosissima!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cem dias seguidos por aqui,\nvocê é muito especial!"
+          }
         }
       }
     },
@@ -2728,6 +2974,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Segnalazioni di bug e nuove idee sono benvenute."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugs e sugestões são muito bem-vindos."
           }
         }
       }
@@ -2793,6 +3045,12 @@
             "state" : "translated",
             "value" : "Impostazioni avanzate"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes avançados"
+          }
         }
       }
     },
@@ -2856,6 +3114,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frequenza di aggiornamento"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atualizar a cada"
           }
         }
       }
@@ -2921,6 +3185,12 @@
             "state" : "translated",
             "value" : "Prima dell'esame"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pré-prova"
+          }
         }
       }
     },
@@ -2984,6 +3254,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mattina"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manhã"
           }
         }
       }
@@ -3049,6 +3325,12 @@
             "state" : "translated",
             "value" : "Scorri finché non compare il nome dell'app:\n\"Overdose di Complimenti\""
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Role até achar o nome do app.\n\"Elogio Exagerado\""
+          }
         }
       }
     },
@@ -3112,6 +3394,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Traguardi"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conquistas"
           }
         }
       }
@@ -3177,6 +3465,12 @@
             "state" : "translated",
             "value" : "Giorni di fila"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sequência"
+          }
         }
       }
     },
@@ -3240,6 +3534,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Come ti senti oggi?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Como você tá hoje?"
           }
         }
       }
@@ -3305,6 +3605,12 @@
             "state" : "translated",
             "value" : "Oggi come sempre, sii come sei:\nè la cosa migliore!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoje também, sendo você,\né o melhor que há!"
+          }
         }
       }
     },
@@ -3368,6 +3674,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Overdose di Complimenti"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elogio Exagerado"
           }
         }
       }
@@ -3433,6 +3745,12 @@
             "state" : "translated",
             "value" : "Destra"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Direita"
+          }
         }
       }
     },
@@ -3496,6 +3814,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ehi, non buttarti giù!\nScegli una frase che ti dia coraggio!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ei, sem desanimar! Escolha uma\nfrase pra se dar aquele ânimo!"
           }
         }
       }
@@ -3561,6 +3885,12 @@
             "state" : "translated",
             "value" : "Sinistra"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esquerda"
+          }
         }
       }
     },
@@ -3624,6 +3954,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pre-allenamento"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pré-treino"
           }
         }
       }
@@ -3689,6 +4025,12 @@
             "state" : "translated",
             "value" : "Rifinisci l'aspetto e il font del widget"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajuste o visual e a fonte do widget"
+          }
         }
       }
     },
@@ -3752,6 +4094,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impostazioni widget"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes do widget"
           }
         }
       }
@@ -3817,6 +4165,12 @@
             "state" : "translated",
             "value" : "Usa questo"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usar este elogio"
+          }
         }
       }
     },
@@ -3877,6 +4231,12 @@
           }
         },
         "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nome"
+          }
+        },
+        "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nome"
@@ -3945,6 +4305,12 @@
             "state" : "translated",
             "value" : "Imposta il nome"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Definir nome"
+          }
         }
       }
     },
@@ -4008,6 +4374,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Come ti chiami?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Como posso te chamar?"
           }
         }
       }
@@ -4073,6 +4445,12 @@
             "state" : "translated",
             "value" : "Inserisci il nome"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Digite seu nome"
+          }
         }
       }
     },
@@ -4136,6 +4514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Scrivici via email"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar e-mail"
           }
         }
       }
@@ -4201,6 +4585,12 @@
             "state" : "translated",
             "value" : "Ora scegli la dimensione e tocca \"Aggiungi widget\"."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agora é só escolher o tamanho e tocar em \"Adicionar widget\"."
+          }
         }
       }
     },
@@ -4264,6 +4654,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "DM su Instagram (@lee25_ios)"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DM no Instagram (@lee25_ios)"
           }
         }
       }
@@ -4329,6 +4725,12 @@
             "state" : "translated",
             "value" : "Prima di lavorare"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antes do trampo"
+          }
         }
       }
     },
@@ -4392,6 +4794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Una settimana!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 semana!"
           }
         }
       }
@@ -4457,6 +4865,12 @@
             "state" : "translated",
             "value" : "Una settimana di costanza:\nche orgoglio!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uma semana firme por aqui,\nque orgulho de você!"
+          }
         }
       }
     },
@@ -4520,6 +4934,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Autostima"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autoconfiança"
           }
         }
       }
@@ -4585,6 +5005,12 @@
             "state" : "translated",
             "value" : "Sera"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noite"
+          }
         }
       }
     },
@@ -4648,6 +5074,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Salva"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvar"
           }
         }
       }
@@ -4713,6 +5145,12 @@
             "state" : "translated",
             "value" : "Idea di"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sugerido por"
+          }
         }
       }
     },
@@ -4776,6 +5214,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gran Maestro dei Complimenti"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grão-Mestre do Elogio"
           }
         }
       }
@@ -4841,6 +5285,12 @@
             "state" : "translated",
             "value" : "Maestro dei Complimenti"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mestre do Elogio"
+          }
         }
       }
     },
@@ -4904,6 +5354,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widget complimenti"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget de elogios"
           }
         }
       }
@@ -4969,6 +5425,12 @@
             "state" : "translated",
             "value" : "Nei complimenti, al posto di \"tu\",\nmetto il nome che scegli!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nos elogios, no lugar de 'você',\nvou usar o seu nome!"
+          }
         }
       }
     },
@@ -5033,6 +5495,12 @@
             "state" : "translated",
             "value" : "Quando leggi un complimento\nlo segno io!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ao ver um elogio,\nele entra aqui sozinho!"
+          }
         }
       }
     },
@@ -5093,6 +5561,12 @@
           }
         },
         "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centro"
+          }
+        },
+        "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Centro"
@@ -5161,6 +5635,12 @@
             "state" : "translated",
             "value" : "Preferiti"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favoritos"
+          }
         }
       }
     },
@@ -5224,6 +5704,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nessun preferito"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nenhum favorito ainda"
           }
         }
       }
@@ -5289,6 +5775,12 @@
             "state" : "translated",
             "value" : "Hai letto 100 complimenti in totale!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 elogios vistos no total!"
+          }
         }
       }
     },
@@ -5352,6 +5844,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hai letto 50 complimenti in totale!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "50 elogios vistos no total!"
           }
         }
       }
@@ -5417,6 +5915,12 @@
             "state" : "translated",
             "value" : "Giorni totali"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total de dias"
+          }
         }
       }
     },
@@ -5480,6 +5984,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Record"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Melhor sequência"
           }
         }
       }
@@ -5545,6 +6055,12 @@
             "state" : "translated",
             "value" : "Verso il lavoro"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ida pro trabalho"
+          }
         }
       }
     },
@@ -5608,6 +6124,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verso casa"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volta pra casa"
           }
         }
       }
@@ -5673,6 +6195,12 @@
             "state" : "translated",
             "value" : "Font"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fonte"
+          }
         }
       }
     },
@@ -5736,6 +6264,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impostazioni font"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes da fonte"
           }
         }
       }
@@ -5801,6 +6335,12 @@
             "state" : "translated",
             "value" : "Un mese!"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 mês!"
+          }
         }
       }
     },
@@ -5864,6 +6404,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un mese insieme:\nsei davvero speciale!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Um mês juntos, e você\né muito especial!"
           }
         }
       }
@@ -5929,6 +6475,12 @@
             "state" : "translated",
             "value" : "Interlinea"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrelinha"
+          }
         }
       }
     },
@@ -5992,6 +6544,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Serie in corso"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sequência atual"
           }
         }
       }
@@ -6057,6 +6615,12 @@
             "state" : "translated",
             "value" : "Tieni premuto sulla schermata Home finché le icone ballano, poi tocca ➕ in alto a destra o a sinistra."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segure a tela inicial até os ícones tremerem e toque no ➕ no canto superior."
+          }
         }
       }
     },
@@ -6120,6 +6684,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cronologia"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Histórico"
           }
         }
       }
@@ -6185,6 +6755,12 @@
             "state" : "translated",
             "value" : "Cronologia vuota"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Histórico vazio"
+          }
         }
       }
     },
@@ -6249,6 +6825,12 @@
             "state" : "translated",
             "value" : "Relax"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Relaxar"
+          }
         }
       }
     },
@@ -6312,6 +6894,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Giornata dura"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dia difícil"
           }
         }
       }

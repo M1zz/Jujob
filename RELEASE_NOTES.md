@@ -67,3 +67,9 @@ Bugs ou idées ? Mail ou Instagram !
 Ora i complimenti parlano anche italiano
 Scrivi allo sviluppatore dall'app
 Bug e idee? Scrivi via email o Instagram
+
+### 앱스토어 (포르투갈어(브라질))
+
+Receba elogios em vários idiomas
+Contato com o dev direto nos Ajustes
+Envie bugs e ideias por e-mail ou DM
