@@ -58,6 +58,12 @@
             "state" : "translated",
             "value" : "Hype des Tages"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trop Fan de Toi"
+          }
         }
       }
     },
@@ -117,6 +123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hype des Tages"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trop Fan de Toi"
           }
         }
       }

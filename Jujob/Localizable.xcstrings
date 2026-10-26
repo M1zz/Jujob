@@ -53,6 +53,12 @@
             "state" : "translated",
             "value" : "%lld Tage"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld j"
+          }
         }
       }
     },
@@ -104,6 +110,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 Hype-Sprüche entdeckt,\ndu bist jetzt ein echter Meister!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 compliments dévorés,\ntu es devenu un vrai maître !"
           }
         }
       }
@@ -157,6 +169,12 @@
             "state" : "translated",
             "value" : "100 Tage in Folge vorbeigeschaut!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 jours d'affilée à lire tes compliments !"
+          }
         }
       }
     },
@@ -208,6 +226,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Das 100-Tage-Wunder! Deine Ausdauer\nhat die Welt verändert!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 jours, quel exploit ! Ta constance\na changé le monde !"
           }
         }
       }
@@ -261,6 +285,12 @@
             "state" : "translated",
             "value" : "100 Tage voller Abenteuer – gemeinsam.\nDu bist wirklich großartig!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 jours de route ensemble,\net tu es toujours aussi immense !"
+          }
         }
       }
     },
@@ -312,6 +342,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 Min."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 min"
           }
         }
       }
@@ -365,6 +401,12 @@
             "state" : "translated",
             "value" : "30 Min."
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 min"
+          }
         }
       }
     },
@@ -416,6 +458,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "30 Tage in Folge vorbeigeschaut!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 jours d'affilée à lire tes compliments !"
           }
         }
       }
@@ -469,6 +517,12 @@
             "state" : "translated",
             "value" : "30 Tage lang immer wieder da –\ndu bist spitze!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 jours sans en rater un,\nfranchement tu es au top !"
+          }
         }
       }
     },
@@ -520,6 +574,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle 50 Sprüche entdeckt –\ndu bist richtig begeistert dabei!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "50 compliments lus,\ntu as vraiment la flamme !"
           }
         }
       }
@@ -573,6 +633,12 @@
             "state" : "translated",
             "value" : "5 Min."
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 min"
+          }
         }
       }
     },
@@ -625,6 +691,12 @@
             "state" : "translated",
             "value" : "7 Tage in Folge vorbeigeschaut!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7 jours d'affilée à lire tes compliments !"
+          }
         }
       }
     },
@@ -676,6 +748,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eine Woche gemeinsam unterwegs –\nund es geht weiter!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7 jours ensemble déjà,\non continue sur la lancée !"
           }
         }
       }
@@ -735,6 +813,12 @@
             "state" : "translated",
             "value" : "Käufe wiederherstellen"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurer les achats"
+          }
         }
       }
     },
@@ -792,6 +876,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kategorie wählen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choisir une catégorie"
           }
         }
       }
@@ -851,6 +941,12 @@
             "state" : "translated",
             "value" : "Schrift wählen"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choisir une police"
+          }
         }
       }
     },
@@ -908,6 +1004,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anleitung"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuto"
           }
         }
       }
@@ -967,6 +1069,12 @@
             "state" : "translated",
             "value" : "Anonym"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anonyme"
+          }
         }
       }
     },
@@ -1021,6 +1129,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Premium"
@@ -1080,6 +1194,12 @@
             "state" : "translated",
             "value" : "Entwickler kontaktieren"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contacter le développeur"
+          }
         }
       }
     },
@@ -1131,6 +1251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Farbverlauf"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couleur du dégradé"
           }
         }
       }
@@ -1184,6 +1310,12 @@
             "state" : "translated",
             "value" : "Schriftfarbe"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couleur du texte"
+          }
         }
       }
     },
@@ -1235,6 +1367,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stimmung wählen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choisis ton humeur"
           }
         }
       }
@@ -1288,6 +1426,12 @@
             "state" : "translated",
             "value" : "Stimmungstief"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coup de mou"
+          }
         }
       }
     },
@@ -1339,6 +1483,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wir suchen den passenden Spruch\nzu Stimmung und Situation!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je te choisis le compliment\nqui colle à ton humeur !"
           }
         }
       }
@@ -1392,6 +1542,12 @@
             "state" : "translated",
             "value" : "Meine Bilanz"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mes stats"
+          }
         }
       }
     },
@@ -1444,6 +1600,12 @@
             "state" : "translated",
             "value" : "Meine Sprüche"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gérer mes compliments"
+          }
         }
       }
     },
@@ -1495,6 +1657,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nächster Spruch"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compliment suivant"
           }
         }
       }
@@ -1549,6 +1717,12 @@
             "state" : "translated",
             "value" : "du"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tu"
+          }
         }
       }
     },
@@ -1600,6 +1774,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du bist wertvoll,\nund zwar genau so, wie du bist!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Au fait, tu vaux de l'or,\nne l'oublie jamais !"
           }
         }
       }
@@ -1653,6 +1833,12 @@
             "state" : "translated",
             "value" : "Vor dem Date"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avant le rencard"
+          }
         }
       }
     },
@@ -1701,6 +1887,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motivation"
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Motivation"
@@ -1757,6 +1949,12 @@
             "state" : "translated",
             "value" : "Zufall"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aléatoire"
+          }
         }
       }
     },
@@ -1808,6 +2006,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tipp auf den Stern, um Sprüche,\ndie dir gefallen, zu speichern!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Touche l'étoile pour garder\nles compliments qui te plaisent !"
           }
         }
       }
@@ -1861,6 +2065,12 @@
             "state" : "translated",
             "value" : "Ich liebe mich jeden Tag"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aime-toi un peu plus chaque jour"
+          }
         }
       }
     },
@@ -1912,6 +2122,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vorm Interview"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avant l'entretien"
           }
         }
       }
@@ -1965,6 +2181,12 @@
             "state" : "translated",
             "value" : "Vorschau"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aperçu"
+          }
         }
       }
     },
@@ -2016,6 +2238,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hintergrund"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages du fond"
           }
         }
       }
@@ -2069,6 +2297,12 @@
             "state" : "translated",
             "value" : "Hintergrundbild"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Image de fond"
+          }
         }
       }
     },
@@ -2120,6 +2354,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 Tage geschafft!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 jours !"
           }
         }
       }
@@ -2173,6 +2413,12 @@
             "state" : "translated",
             "value" : "100 Tage lang jeden Tag da –\ndu bist unbezahlbar!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 jours sans en rater un,\net tu comptes énormément pour moi !"
+          }
         }
       }
     },
@@ -2224,6 +2470,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fehlermeldungen und Ideen sind willkommen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un bug ou une idée ? On t'écoute."
           }
         }
       }
@@ -2277,6 +2529,12 @@
             "state" : "translated",
             "value" : "Feineinstellungen"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages avancés"
+          }
         }
       }
     },
@@ -2328,6 +2586,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktualisierung"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fréquence de rafraîchissement"
           }
         }
       }
@@ -2381,6 +2645,12 @@
             "state" : "translated",
             "value" : "Vor der Prüfung"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avant l'examen"
+          }
         }
       }
     },
@@ -2432,6 +2702,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Morgen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matin"
           }
         }
       }
@@ -2485,6 +2761,12 @@
             "state" : "translated",
             "value" : "Scrolle, bis der App-Name erscheint.\n\"Hype des Tages\""
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fais défiler jusqu'au nom de l'app.\n\"Trop Fan de Toi\""
+          }
         }
       }
     },
@@ -2536,6 +2818,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erfolge"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Succès"
           }
         }
       }
@@ -2589,6 +2877,12 @@
             "state" : "translated",
             "value" : "Serie"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Série"
+          }
         }
       }
     },
@@ -2640,6 +2934,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wie fühlst du dich heute?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quelle humeur aujourd'hui ?"
           }
         }
       }
@@ -2693,6 +2993,12 @@
             "state" : "translated",
             "value" : "Bleib auch heute du selbst,\ndas ist das Beste!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aujourd'hui encore, reste fidèle à toi-même,\nc'est ça le mieux !"
+          }
         }
       }
     },
@@ -2744,6 +3050,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hype des Tages"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trop Fan de Toi"
           }
         }
       }
@@ -2797,6 +3109,12 @@
             "state" : "translated",
             "value" : "Rechts"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Droite"
+          }
         }
       }
     },
@@ -2848,6 +3166,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Na, nicht den Kopf hängen lassen!\nWähl dir ein aufmunterndes Wort!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qui ose rabaisser mon chouchou ?!\nChoisis-toi un petit mot d'encouragement !"
           }
         }
       }
@@ -2901,6 +3225,12 @@
             "state" : "translated",
             "value" : "Links"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gauche"
+          }
         }
       }
     },
@@ -2952,6 +3282,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vor dem Training"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avant le sport"
           }
         }
       }
@@ -3005,6 +3341,12 @@
             "state" : "translated",
             "value" : "Form und Schrift des Widgets fein anpassen"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peaufine l'apparence et la police du widget"
+          }
         }
       }
     },
@@ -3056,6 +3398,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widget-Einstellungen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages du widget"
           }
         }
       }
@@ -3109,6 +3457,12 @@
             "state" : "translated",
             "value" : "Diesen Spruch nutzen"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utiliser ce compliment"
+          }
         }
       }
     },
@@ -3160,6 +3514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Name"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prénom"
           }
         }
       }
@@ -3213,6 +3573,12 @@
             "state" : "translated",
             "value" : "Name festlegen"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ton prénom"
+          }
         }
       }
     },
@@ -3264,6 +3630,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wie heißt du?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dis-moi ton prénom !"
           }
         }
       }
@@ -3317,6 +3689,12 @@
             "state" : "translated",
             "value" : "Name eingeben"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saisis ton prénom"
+          }
         }
       }
     },
@@ -3368,6 +3746,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Per E-Mail schreiben"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Écrire par e-mail"
           }
         }
       }
@@ -3421,6 +3805,12 @@
             "state" : "translated",
             "value" : "Jetzt nur noch die Widget-Größe wählen und auf \"Widget hinzufügen\" tippen."
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il ne reste qu'à choisir la taille du widget et à toucher \"Ajouter le widget\"."
+          }
         }
       }
     },
@@ -3472,6 +3862,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instagram-DM (@lee25_ios)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DM Instagram (@lee25_ios)"
           }
         }
       }
@@ -3525,6 +3921,12 @@
             "state" : "translated",
             "value" : "Vor der Arbeit"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avant le boulot"
+          }
         }
       }
     },
@@ -3576,6 +3978,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eine Woche geschafft!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 semaine !"
           }
         }
       }
@@ -3629,6 +4037,12 @@
             "state" : "translated",
             "value" : "Eine ganze Woche lang dabei –\nich bin so stolz auf dich!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une semaine sans faute,\nje suis super fier de toi !"
+          }
         }
       }
     },
@@ -3680,6 +4094,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selbstvertrauen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confiance"
           }
         }
       }
@@ -3733,6 +4153,12 @@
             "state" : "translated",
             "value" : "Abend"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soir"
+          }
         }
       }
     },
@@ -3784,6 +4210,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Speichern"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrer"
           }
         }
       }
@@ -3837,6 +4269,12 @@
             "state" : "translated",
             "value" : "Vorgeschlagen von"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proposé par"
+          }
         }
       }
     },
@@ -3888,6 +4326,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hype-Großmeister"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grand maître du compliment"
           }
         }
       }
@@ -3941,6 +4385,12 @@
             "state" : "translated",
             "value" : "Hype-Meister"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maître du compliment"
+          }
         }
       }
     },
@@ -3992,6 +4442,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hype-Widget"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget Trop Fan"
           }
         }
       }
@@ -4045,6 +4501,12 @@
             "state" : "translated",
             "value" : "Wir setzen deinen Namen\nstatt \"du\" in die Sprüche ein!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je mets ton prénom à la place\nde « tu » dans les compliments !"
+          }
         }
       }
     },
@@ -4096,6 +4558,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alles, was du dir ansiehst,\nwird automatisch erfasst!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chaque compliment lu\nest noté automatiquement !"
           }
         }
       }
@@ -4149,6 +4617,12 @@
             "state" : "translated",
             "value" : "Mitte"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centre"
+          }
         }
       }
     },
@@ -4200,6 +4674,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Favoriten"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favoris"
           }
         }
       }
@@ -4253,6 +4733,12 @@
             "state" : "translated",
             "value" : "Noch keine Favoriten"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucun favori pour l'instant"
+          }
         }
       }
     },
@@ -4304,6 +4790,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Insgesamt 100 Sprüche gesehen!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 compliments lus au total !"
           }
         }
       }
@@ -4357,6 +4849,12 @@
             "state" : "translated",
             "value" : "Insgesamt 50 Sprüche gesehen!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "50 compliments lus au total !"
+          }
         }
       }
     },
@@ -4408,6 +4906,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tage insgesamt"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jours au total"
           }
         }
       }
@@ -4461,6 +4965,12 @@
             "state" : "translated",
             "value" : "Bestwert"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meilleure série"
+          }
         }
       }
     },
@@ -4512,6 +5022,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Arbeitsweg"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trajet du matin"
           }
         }
       }
@@ -4565,6 +5081,12 @@
             "state" : "translated",
             "value" : "Heimweg"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retour du boulot"
+          }
         }
       }
     },
@@ -4616,6 +5138,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schrift"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Police"
           }
         }
       }
@@ -4669,6 +5197,12 @@
             "state" : "translated",
             "value" : "Schrifteinstellungen"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglage de la police"
+          }
         }
       }
     },
@@ -4720,6 +5254,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Einen Monat geschafft!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 mois !"
           }
         }
       }
@@ -4773,6 +5313,12 @@
             "state" : "translated",
             "value" : "Einen Monat zusammen –\ndu bist wirklich besonders!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un mois ensemble déjà,\net tu es vraiment quelqu'un de spécial !"
+          }
         }
       }
     },
@@ -4824,6 +5370,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zeilenabstand"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interligne"
           }
         }
       }
@@ -4877,6 +5429,12 @@
             "state" : "translated",
             "value" : "Aktuelle Serie"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Série en cours"
+          }
         }
       }
     },
@@ -4928,6 +5486,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Halte den Home-Bildschirm gedrückt, bis die Symbole wackeln, und tippe oben links oder rechts auf das ➕."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appuie longuement sur l'écran d'accueil pour passer en mode édition, puis touche le ➕ en haut à gauche ou à droite."
           }
         }
       }
@@ -4981,6 +5545,12 @@
             "state" : "translated",
             "value" : "Verlauf"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historique"
+          }
         }
       }
     },
@@ -5032,6 +5602,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Noch kein Verlauf"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'historique est vide"
           }
         }
       }
@@ -5085,6 +5661,12 @@
             "state" : "translated",
             "value" : "Entspannung"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Détente"
+          }
         }
       }
     },
@@ -5136,6 +5718,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Durchhänger"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coup dur"
           }
         }
       }

@@ -407,3 +407,48 @@ Das kann die App
 
 Datenschutz ist uns wichtig: Die App sammelt keine persönlichen Daten. Name, Favoriten und Einstellungen bleiben ausschließlich auf deinem Gerät.
 Fehler gemeldet, Idee gehabt? Schreib uns in den Einstellungen per E-Mail oder auf Instagram.
+
+## fr
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/fr/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/fr/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/fr/index.html
+
+### 이름
+
+Trop Fan de Toi
+
+### 부제
+
+Tes compliments en mode XXL
+
+### 키워드
+
+widget,citation,motivation,humeur,bienveillance,confiance,positif,boost,éloge,réconfort,bonheur
+
+### 프로모션 텍스트
+
+Un petit mot qui te booste, directement sur ton écran d'accueil ! Du réveil à la sortie du boulot, reçois des compliments à fond. Ton prénom y est même glissé.
+
+### 설명
+
+Un widget qui te couvre de compliments, mais vraiment beaucoup trop. Plusieurs fois par jour, un petit mot complètement excessif t'attend sur ton écran d'accueil.
+Fini les coups de mou : 281 compliments dignes d'un fan absolu t'accompagnent le matin, sur le trajet du boulot, avant un entretien ou quand le moral flanche.
+
+Ce que tu peux faire
+- Widget d'écran d'accueil : choisis la police, la couleur du texte, l'image de fond, l'alignement, l'interligne et la fréquence d'actualisation.
+- Choix de l'humeur : matin, trajet du boulot, avant un entretien, avant un examen, avant le sport, avant un rencard, retour du boulot, soir, coup dur, détente, confiance en soi, motivation et plus encore.
+- Ton prénom : le « tu » des compliments est remplacé par ton prénom, comme si ton plus grand fan s'adressait à toi.
+- Favoris et historique : garde d'une étoile les compliments qui te font sourire et retrouve ceux que tu as déjà lus.
+- Séries et succès : consulte l'appli 7, 30 puis 100 jours de suite pour débloquer des messages spéciaux.
+
+Zéro collecte de données personnelles. Ton prénom et tes favoris restent uniquement sur ton appareil.
+Un bug, une idée ? Écris-nous par e-mail ou sur Instagram depuis les réglages.

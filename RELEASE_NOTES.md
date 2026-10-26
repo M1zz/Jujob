@@ -55,3 +55,9 @@ Errores y ideas, por correo o Instagram
 Die Sprüche gibt es jetzt mehrsprachig
 Entwickler-Kontakt in den Einstellungen
 Fehler und Ideen gern per Mail oder DM
+
+### 앱스토어 (프랑스어)
+
+Compliments dispo en plusieurs langues
+Contact développeur dans les réglages
+Bugs ou idées ? Mail ou Instagram !
