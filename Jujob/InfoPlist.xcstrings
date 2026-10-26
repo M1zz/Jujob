@@ -46,6 +46,12 @@
             "state" : "translated",
             "value" : "Ода дня"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piropo del Día"
+          }
         }
       }
     },
@@ -93,6 +99,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ода дня"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piropo del Día"
           }
         }
       }

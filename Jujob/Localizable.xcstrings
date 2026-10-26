@@ -41,6 +41,12 @@
             "state" : "translated",
             "value" : "%lld дн."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld días"
+          }
         }
       }
     },
@@ -80,6 +86,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 од за плечами,\nтеперь ты настоящий мастер!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ya has vivido 100 piropos locos.\nTú, maestro o maestra total."
           }
         }
       }
@@ -121,6 +133,12 @@
             "state" : "translated",
             "value" : "100 дней подряд с одами!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡100 días seguidos con tu piropo!"
+          }
         }
       }
     },
@@ -160,6 +178,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Чудо 100 дней! Твоя стойкость\nизменила мир!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡El milagro de los 100 días!\nTu constancia ha cambiado el mundo."
           }
         }
       }
@@ -201,6 +225,12 @@
             "state" : "translated",
             "value" : "Мы вместе уже 100 дней,\nа ты — потрясающий человек!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 días de viaje juntos.\nTú eres una persona increíble."
+          }
         }
       }
     },
@@ -240,6 +270,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 мин"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 min"
           }
         }
       }
@@ -281,6 +317,12 @@
             "state" : "translated",
             "value" : "30 мин"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 min"
+          }
         }
       }
     },
@@ -320,6 +362,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "30 дней подряд с одами!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡30 días seguidos con tu piropo!"
           }
         }
       }
@@ -361,6 +409,12 @@
             "state" : "translated",
             "value" : "Целых 30 дней ты с нами —\nты лучший!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un mes entero viniendo a verme.\nTú, lo máximo."
+          }
         }
       }
     },
@@ -400,6 +454,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "50 од прочитано,\nвот это увлечённость!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Has leído 50 piropos locos.\nQué pasión tienes."
           }
         }
       }
@@ -441,6 +501,12 @@
             "state" : "translated",
             "value" : "5 мин"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 min"
+          }
         }
       }
     },
@@ -481,6 +547,12 @@
             "state" : "translated",
             "value" : "7 дней подряд с одами!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡7 días seguidos con tu piropo!"
+          }
         }
       }
     },
@@ -520,6 +592,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мы вместе уже неделю,\nи это только начало!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una semana juntos.\n¡Y que no pare!"
           }
         }
       }
@@ -567,6 +645,12 @@
             "state" : "translated",
             "value" : "Восстановить покупки"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar compras"
+          }
         }
       }
     },
@@ -612,6 +696,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выбери категорию"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige una categoría"
           }
         }
       }
@@ -659,6 +749,12 @@
             "state" : "translated",
             "value" : "Выбери шрифт"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige una fuente"
+          }
         }
       }
     },
@@ -704,6 +800,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Инструкция"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutorial"
           }
         }
       }
@@ -751,6 +853,12 @@
             "state" : "translated",
             "value" : "Аноним"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "anónimo"
+          }
         }
       }
     },
@@ -797,6 +905,12 @@
             "state" : "translated",
             "value" : "Премиум"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "premium"
+          }
         }
       }
     },
@@ -840,6 +954,12 @@
             "state" : "translated",
             "value" : "Написать разработчику"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contactar con el desarrollador"
+          }
         }
       }
     },
@@ -879,6 +999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Цвет градиента"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color del degradado"
           }
         }
       }
@@ -920,6 +1046,12 @@
             "state" : "translated",
             "value" : "Цвет текста"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color del texto"
+          }
         }
       }
     },
@@ -959,6 +1091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выбор настроения"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige tu estado"
           }
         }
       }
@@ -1000,6 +1138,12 @@
             "state" : "translated",
             "value" : "Хандра"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bajón"
+          }
         }
       }
     },
@@ -1039,6 +1183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Подберём оду под твоё\nнастроение и ситуацию!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Te elijo el piropo perfecto\npara tu estado de ánimo."
           }
         }
       }
@@ -1080,6 +1230,12 @@
             "state" : "translated",
             "value" : "Мои рекорды"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi racha"
+          }
         }
       }
     },
@@ -1120,6 +1276,12 @@
             "state" : "translated",
             "value" : "Мои оды"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mis piropos"
+          }
         }
       }
     },
@@ -1159,6 +1321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Следующая ода"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otro piropo"
           }
         }
       }
@@ -1201,6 +1369,12 @@
             "state" : "translated",
             "value" : "ты"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tú"
+          }
         }
       }
     },
@@ -1240,6 +1414,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ты — человек,\nкоторый многого стоит!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tú vales mucho,\nmuchísimo."
           }
         }
       }
@@ -1281,6 +1461,12 @@
             "state" : "translated",
             "value" : "Перед свиданием"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antes de la cita"
+          }
         }
       }
     },
@@ -1320,6 +1506,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мотивация"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motivación"
           }
         }
       }
@@ -1361,6 +1553,12 @@
             "state" : "translated",
             "value" : "Случайно"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Al azar"
+          }
         }
       }
     },
@@ -1400,6 +1598,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Нажми на звёздочку, чтобы\nсохранить понравившуюся оду!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Te encanta un piropo?\nToca la estrella para guardarlo."
           }
         }
       }
@@ -1441,6 +1645,12 @@
             "state" : "translated",
             "value" : "Люблю себя каждый день"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quiérete cada día"
+          }
         }
       }
     },
@@ -1480,6 +1690,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перед собеседованием"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrevista"
           }
         }
       }
@@ -1521,6 +1737,12 @@
             "state" : "translated",
             "value" : "Предпросмотр"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vista previa"
+          }
         }
       }
     },
@@ -1560,6 +1782,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Настройки фона"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fondo"
           }
         }
       }
@@ -1601,6 +1829,12 @@
             "state" : "translated",
             "value" : "Фоновое фото"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imagen de fondo"
+          }
         }
       }
     },
@@ -1640,6 +1874,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 дней!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡100 días!"
           }
         }
       }
@@ -1681,6 +1921,12 @@
             "state" : "translated",
             "value" : "100 дней — каждый день с нами!\nТы — самый дорогой человек!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cien días sin faltar ni uno.\nTú eres lo más valioso del mundo."
+          }
         }
       }
     },
@@ -1720,6 +1966,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сообщения об ошибках и идеи приветствуются."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aceptamos avisos de errores y sugerencias."
           }
         }
       }
@@ -1761,6 +2013,12 @@
             "state" : "translated",
             "value" : "Тонкая настройка"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes avanzados"
+          }
         }
       }
     },
@@ -1800,6 +2058,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Период обновления"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frecuencia de actualización"
           }
         }
       }
@@ -1841,6 +2105,12 @@
             "state" : "translated",
             "value" : "Перед экзаменом"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Examen"
+          }
         }
       }
     },
@@ -1880,6 +2150,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Утро"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mañana"
           }
         }
       }
@@ -1921,6 +2197,12 @@
             "state" : "translated",
             "value" : "Прокрути вниз, пока не появится\nприложение «Ода дня»"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desplázate hasta encontrar la app.\n\"Piropo del Día\""
+          }
         }
       }
     },
@@ -1960,6 +2242,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Достижения"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logros"
           }
         }
       }
@@ -2001,6 +2289,12 @@
             "state" : "translated",
             "value" : "Серия"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Racha"
+          }
         }
       }
     },
@@ -2040,6 +2334,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Как настроение сегодня?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cómo te sientes hoy?"
           }
         }
       }
@@ -2081,6 +2381,12 @@
             "state" : "translated",
             "value" : "Будь собой и сегодня —\nэто лучше всего!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy también a tu manera,\nque es la mejor."
+          }
         }
       }
     },
@@ -2120,6 +2426,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ода дня"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piropo del Día"
           }
         }
       }
@@ -2161,6 +2473,12 @@
             "state" : "translated",
             "value" : "Справа"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Derecha"
+          }
         }
       }
     },
@@ -2200,6 +2518,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не обижай нашего хорошего!\nВыбери слова поддержки для себя!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Que nadie desanime a mi niño ni a mi niña!\nElige unas palabras que te animen."
           }
         }
       }
@@ -2241,6 +2565,12 @@
             "state" : "translated",
             "value" : "Слева"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Izquierda"
+          }
         }
       }
     },
@@ -2280,6 +2610,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перед тренировкой"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entreno"
           }
         }
       }
@@ -2321,6 +2657,12 @@
             "state" : "translated",
             "value" : "Настрой вид и шрифт виджета до мелочей"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajusta al detalle la forma y la fuente del widget"
+          }
         }
       }
     },
@@ -2360,6 +2702,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Настройки виджета"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes del widget"
           }
         }
       }
@@ -2401,6 +2749,12 @@
             "state" : "translated",
             "value" : "Использовать эту оду"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usar este piropo"
+          }
         }
       }
     },
@@ -2440,6 +2794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Имя"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre"
           }
         }
       }
@@ -2481,6 +2841,12 @@
             "state" : "translated",
             "value" : "Настройка имени"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu nombre"
+          }
         }
       }
     },
@@ -2520,6 +2886,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Как тебя зовут?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Dime tu nombre!"
           }
         }
       }
@@ -2561,6 +2933,12 @@
             "state" : "translated",
             "value" : "Введи имя"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribe tu nombre"
+          }
         }
       }
     },
@@ -2600,6 +2978,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Написать на почту"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribir por correo"
           }
         }
       }
@@ -2641,6 +3025,12 @@
             "state" : "translated",
             "value" : "Осталось выбрать размер виджета и нажать «Добавить виджет»."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ahora elige el tamaño y toca \"Añadir widget\". ¡Ya está!"
+          }
         }
       }
     },
@@ -2680,6 +3070,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Директ в Instagram (@lee25_ios)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DM en Instagram (@lee25_ios)"
           }
         }
       }
@@ -2721,6 +3117,12 @@
             "state" : "translated",
             "value" : "Перед работой"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antes de trabajar"
+          }
         }
       }
     },
@@ -2760,6 +3162,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Неделя!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Una semana!"
           }
         }
       }
@@ -2801,6 +3209,12 @@
             "state" : "translated",
             "value" : "Целую неделю ты с нами —\nмы гордимся тобой!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toda la semana sin fallar.\n¡Qué orgullo!"
+          }
         }
       }
     },
@@ -2840,6 +3254,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Уверенность"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confianza"
           }
         }
       }
@@ -2881,6 +3301,12 @@
             "state" : "translated",
             "value" : "Вечер"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noche"
+          }
         }
       }
     },
@@ -2920,6 +3346,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сохранить"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar"
           }
         }
       }
@@ -2961,6 +3393,12 @@
             "state" : "translated",
             "value" : "Автор идеи"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sugerido por"
+          }
         }
       }
     },
@@ -3000,6 +3438,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Гранд-мастер од"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gran maestro del piropo"
           }
         }
       }
@@ -3041,6 +3485,12 @@
             "state" : "translated",
             "value" : "Мастер од"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maestro del piropo"
+          }
         }
       }
     },
@@ -3080,6 +3530,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Виджет од"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget de piropos"
           }
         }
       }
@@ -3121,6 +3577,12 @@
             "state" : "translated",
             "value" : "Вместо «ты» в одах\nподставим твоё имя!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pondré tu nombre\nen lugar de \"tú\" en los piropos."
+          }
         }
       }
     },
@@ -3160,6 +3622,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Просмотренные оды\nзаписываются сами!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se anota solo\ncada vez que veas un piropo."
           }
         }
       }
@@ -3201,6 +3669,12 @@
             "state" : "translated",
             "value" : "По центру"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centro"
+          }
         }
       }
     },
@@ -3240,6 +3714,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Избранное"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favoritos"
           }
         }
       }
@@ -3281,6 +3761,12 @@
             "state" : "translated",
             "value" : "В избранном пусто"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no tienes favoritos"
+          }
         }
       }
     },
@@ -3320,6 +3806,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Всего просмотрено 100 од!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Has visto 100 piropos en total!"
           }
         }
       }
@@ -3361,6 +3853,12 @@
             "state" : "translated",
             "value" : "Всего просмотрено 50 од!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Has visto 50 piropos en total!"
+          }
         }
       }
     },
@@ -3400,6 +3898,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Всего дней"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Días en total"
           }
         }
       }
@@ -3441,6 +3945,12 @@
             "state" : "translated",
             "value" : "Лучшая серия"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mejor racha"
+          }
         }
       }
     },
@@ -3480,6 +3990,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "По дороге на работу"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Camino al trabajo"
           }
         }
       }
@@ -3521,6 +4037,12 @@
             "state" : "translated",
             "value" : "По дороге домой"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuelta a casa"
+          }
         }
       }
     },
@@ -3560,6 +4082,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Шрифт"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fuente"
           }
         }
       }
@@ -3601,6 +4129,12 @@
             "state" : "translated",
             "value" : "Настройки шрифта"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes de fuente"
+          }
         }
       }
     },
@@ -3640,6 +4174,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Месяц!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Un mes!"
           }
         }
       }
@@ -3681,6 +4221,12 @@
             "state" : "translated",
             "value" : "Мы вместе уже месяц,\nа ты — особенный человек!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un mes juntos.\nTú eres una persona muy especial."
+          }
         }
       }
     },
@@ -3720,6 +4266,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Интервал строк"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interlineado"
           }
         }
       }
@@ -3761,6 +4313,12 @@
             "state" : "translated",
             "value" : "Текущая серия"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Racha actual"
+          }
         }
       }
     },
@@ -3800,6 +4358,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Нажми и удерживай главный экран, пока значки не задрожат, затем коснись ➕ в левом или правом верхнем углу."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mantén pulsada la pantalla de inicio hasta que los iconos se muevan y toca ➕ arriba a la izquierda o a la derecha."
           }
         }
       }
@@ -3841,6 +4405,12 @@
             "state" : "translated",
             "value" : "История"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historial"
+          }
         }
       }
     },
@@ -3880,6 +4450,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "История пуста"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El historial está vacío"
           }
         }
       }
@@ -3921,6 +4497,12 @@
             "state" : "translated",
             "value" : "Отдых"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Relax"
+          }
         }
       }
     },
@@ -3960,6 +4542,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Трудный день"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Días duros"
           }
         }
       }

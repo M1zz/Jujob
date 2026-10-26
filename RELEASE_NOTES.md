@@ -43,3 +43,9 @@ Send bugs and ideas by email or DM
 Оды теперь доступны на многих языках
 Разработчику можно написать из настроек
 Ошибки и идеи — на почту или в Instagram
+
+### 앱스토어 (스페인어)
+
+Ahora recibes piropos en más idiomas
+Escribe al desarrollador desde ajustes
+Errores y ideas, por correo o Instagram

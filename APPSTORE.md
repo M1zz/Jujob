@@ -316,3 +316,49 @@ https://m1zz.github.io/Jujob/ru/index.html
 
 Мы не собираем личные данные. Имя, избранное и настройки хранятся только на вашем устройстве.
 Нашли ошибку или есть идея? Напишите разработчику прямо из настроек: на почту или в Instagram.
+
+## es
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/es/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/es/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/es/index.html
+
+### 이름
+
+Piropo del Día
+
+### 부제
+
+Elogios por las nubes
+
+### 키워드
+
+cumplidos,halagos,frases,motivación,ánimo,autoestima,widget,positividad,confianza,entrevista,examen
+
+### 프로모션 텍스트
+
+Un piropo exagerado para empezar el día con una sonrisa. Widgets para tu pantalla de inicio, desde la mañana hasta la vuelta a casa. Ahora también con tu nombre.
+
+### 설명
+
+Un widget que te llena de cumplidos exagerados, de los que sacan sonrisas. Cada vez que mires tu pantalla de inicio, tendrás un piropo nuevo esperándote.
+Con 281 frases para animarte, subirte la autoestima y reírte un rato, hay mensajes para cada momento: la mañana, el camino al trabajo, antes de una entrevista o un examen, o esos días duros en los que hace falta un empujón.
+
+Qué puedes hacer
+- Widget en la pantalla de inicio: elige la fuente, el color del texto, la imagen de fondo, la alineación, el interlineado y cada cuánto se actualiza.
+- 281 piropos exagerados, siempre con humor y cariño.
+- Elige tu estado o situación: mañana, camino al trabajo, antes de una entrevista, antes de un examen, antes de entrenar, antes de una cita, vuelta a casa, noche, días duros, relax, confianza y motivación.
+- Ponle tu nombre: la app cambia el "tú" de los piropos por tu nombre y se convierte en tu fan número uno.
+- Favoritos e historial: guarda con la estrella los piropos que más te gusten y vuelve a verlos cuando quieras.
+- Rachas y logros: si los abres 7, 30 o 100 días seguidos, desbloqueas mensajes especiales.
+
+Tu privacidad importa: la app no recoge ningún dato personal. Tu nombre, tus favoritos y tus ajustes se quedan solo en tu dispositivo.
+¿Has encontrado un error o tienes una idea? Escríbenos desde los ajustes, por correo o por Instagram.

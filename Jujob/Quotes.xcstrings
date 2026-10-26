@@ -45,6 +45,12 @@
             "state" : "translated",
             "value" : "С добрым утром! Сегодня\nты — сплошной блеск."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El sol sale cada mañana\npara ver quién brilla más: tú."
+          }
         }
       }
     },
@@ -91,6 +97,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Солнце встаёт, потому что ты\nуже в деле. Вот это да!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Despierta, que hoy la luz\nmás potente de la casa eres tú."
           }
         }
       }
@@ -139,6 +151,12 @@
             "state" : "translated",
             "value" : "Глаза проснулись — уже подвиг.\nА ты — герой этого утра!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abres los ojos y el día\nya es tuyo. Imparable, tú."
+          }
         }
       }
     },
@@ -185,6 +203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кофе бодрит, но ты бодришь\nлучше любого эспрессо."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se levanta una leyenda\ny esa leyenda eres tú."
           }
         }
       }
@@ -233,6 +257,12 @@
             "state" : "translated",
             "value" : "Сегодня главный герой — ты.\nОстальные просто массовка."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ni el café despierta tanto\ncomo tú. En serio."
+          }
         }
       }
     },
@@ -279,6 +309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Красиво просыпаться умеешь\nтолько ты. Остальные — нет."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suena el despertador y la\nestrella del día eres tú."
           }
         }
       }
@@ -327,6 +363,12 @@
             "state" : "translated",
             "value" : "Будильник звонил зря: ты и так\nсияешь без всякого звонка."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lo más bonito del amanecer\nno es el sol: eres tú."
+          }
         }
       }
     },
@@ -373,6 +415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Утро доброе, потому что в нём\nесть ты. Всё логично!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sé tú, a tu aire:\nes lo mejor que le pasa al día."
           }
         }
       }
@@ -421,6 +469,12 @@
             "state" : "translated",
             "value" : "Красота с утра пораньше —\nэто законно? Всё, ты в розыске!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Madrugar y encima brillar:\nesa combinación solo la tienes tú."
+          }
         }
       }
     },
@@ -467,6 +521,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не «доброе утро», а «лучшее»,\nраз уж на горизонте ты!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Buenos días? Qué va:\nmejores días, si estás tú."
           }
         }
       }
@@ -515,6 +575,12 @@
             "state" : "translated",
             "value" : "Первое, что увидит мир сегодня,\nэто ты. Мир везучий."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mejor plan para esta mañana:\nlo tienes tú, y nadie más."
+          }
         }
       }
     },
@@ -561,6 +627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Утренний прогноз: ясно,\nа местами ты — ослепительно."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alerta de luz: ya amaneció\nporque has llegado tú."
           }
         }
       }
@@ -609,6 +681,12 @@
             "state" : "translated",
             "value" : "День позади, а ты всё равно\nзвезда этого вечера."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Día completado con nota,\ny la mejor de la clase eres tú."
+          }
         }
       }
     },
@@ -655,6 +733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "День пережит красиво, и всё это —\nты. Овации!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cierras el día como lo abriste:\na lo grande, como solo tú."
           }
         }
       }
@@ -703,6 +787,12 @@
             "state" : "translated",
             "value" : "Закат хорош, но ты всё\nравно красивее заката."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy lo diste todo. Quien merece\nun aplauso largo eres tú."
+          }
         }
       }
     },
@@ -749,6 +839,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Усталость — след великих дел,\nа в них ты — просто машина!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con todo el cansancio, aguantaste\nel día como nadie. Un mito, tú."
           }
         }
       }
@@ -797,6 +893,12 @@
             "state" : "translated",
             "value" : "Вечер, мягкий плед, а в роли\nлучшего гостя — ты."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu día valió la pena\nporque lo viviste tú."
+          }
         }
       }
     },
@@ -843,6 +945,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Звёзды завидуют: ты светишь\nбез всякого неба."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otro día más y sigues en pie.\nHéroe de lo cotidiano: tú."
           }
         }
       }
@@ -891,6 +999,12 @@
             "state" : "translated",
             "value" : "День был так себе,\nно ты в нём — топ."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mira el cielo: miles de estrellas\ny ninguna como tú."
+          }
         }
       }
     },
@@ -937,6 +1051,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Даже в пижаме ты — эталон\nстиля. Закон вечера."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anochece, pero la luz sigue\nencendida. La luz eres tú."
           }
         }
       }
@@ -985,6 +1105,12 @@
             "state" : "translated",
             "value" : "Если бы вечер выбирал\nлюбимчика, это был бы ты."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gracias por el día, tú:\nsin ti habría sido uno cualquiera."
+          }
         }
       }
     },
@@ -1031,6 +1157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Спасибо тебе за этот день:\nты — его лучшая часть."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy el mundo fue más bonito\nporque estabas tú."
           }
         }
       }
@@ -1079,6 +1211,12 @@
             "state" : "translated",
             "value" : "Выключаем свет, но ты\nвсё равно подсвечиваешь ночь."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De día, leyenda. De noche,\nleyenda. Siempre tú."
+          }
         }
       }
     },
@@ -1125,6 +1263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тяжёлые дни бывают у всех.\nИ ты в них — большой молодец."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un mal día no cuenta.\nLo que cuenta eres tú."
           }
         }
       }
@@ -1173,6 +1317,12 @@
             "state" : "translated",
             "value" : "Сейчас непросто, но ты —\nиз тех, кто вытянет."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esto pasará, y quien seguirá\nde pie, como siempre, eres tú."
+          }
         }
       }
     },
@@ -1219,6 +1369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Идеалом быть не нужно: ты\nуже подарок как есть."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfección no se pide, pero\nla más cercana eres tú."
           }
         }
       }
@@ -1267,6 +1423,12 @@
             "state" : "translated",
             "value" : "Нужна пауза — бери. Ведь ты\nне робот, а живой герой."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descansa si hace falta.\nIr a tu ritmo es de sabios, tú."
+          }
         }
       }
     },
@@ -1313,6 +1475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Скажу по секрету: ты — сильнее\nсвоих проблем. Намного."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más fuerte de lo que crees:\neso eres tú."
           }
         }
       }
@@ -1361,6 +1529,12 @@
             "state" : "translated",
             "value" : "Это пройдёт, а ты\nостанешься. С короной."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todo pasa, también esto.\nY aquí seguirás tú, de pie."
+          }
         }
       }
     },
@@ -1407,6 +1581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Настроение на дне, а ты\nвсё равно на пьедестале."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con el ánimo por los suelos\nvales oro igual, tú."
           }
         }
       }
@@ -1455,6 +1635,12 @@
             "state" : "translated",
             "value" : "Грусть — гостья, а хозяин\nтут ты. Выпроваживай!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sentir tristeza es normal.\nTodas tus emociones valen, tú."
+          }
         }
       }
     },
@@ -1501,6 +1687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Слёзы — это дождик, а ты —\nрадуга после него."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Sabías que el diamante\nse forma bajo presión? Como tú."
           }
         }
       }
@@ -1549,6 +1741,12 @@
             "state" : "translated",
             "value" : "Алмаз рождается под давлением,\nи ты — тому доказательство."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De bajón o no, la persona\nmás valiosa del mundo eres tú."
+          }
         }
       }
     },
@@ -1595,6 +1793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если грустно, вспомни:\nв мире есть ты. Уже неплохо."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estar de bajón no cambia\nque el tesoro eres tú."
           }
         }
       }
@@ -1643,6 +1847,12 @@
             "state" : "translated",
             "value" : "Плохой день не отменяет того,\nчто ты — отличнейший человек."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hasta llorando brillas\ncomo una joya."
+          }
         }
       }
     },
@@ -1689,6 +1899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Даже в хмурый день ты —\nмаленькое личное солнышко."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Que hoy cueste no cambia\nlo esencial: el milagro eres tú."
           }
         }
       }
@@ -1737,6 +1953,12 @@
             "state" : "translated",
             "value" : "Тучи пройдут, а ты\nостанешься в моём топе."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy cuesta, pero lo lograrás:\nlo digo yo y lo sabes tú."
+          }
         }
       }
     },
@@ -1783,6 +2005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Трудно сейчас. Но ты —\nчеловек, который не сдаётся."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En los malos ratos se nota\nquién tiene casta: tú."
           }
         }
       }
@@ -1831,6 +2059,12 @@
             "state" : "translated",
             "value" : "Сдаваться — не твой жанр,\nведь ты — боевик с хорошим финалом."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No te rindas. Fuerza de sobra\nla tienes tú."
+          }
         }
       }
     },
@@ -1877,6 +2111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выдержать такое — это\nуровень «ты — легенда»."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aguantar como lo haces\nes cosa de héroes, tú."
           }
         }
       }
@@ -1925,6 +2165,12 @@
             "state" : "translated",
             "value" : "Сегодняшняя боль — тренировка,\nа ты — будущий чемпион!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los palos de hoy son abono:\nmañana la flor serás tú."
+          }
         }
       }
     },
@@ -1971,6 +2217,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Знаешь, ты выдерживаешь больше,\nчем показываешь. Это сила."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aguanta más de lo imaginable\nquien, como tú, no se rinde."
           }
         }
       }
@@ -2019,6 +2271,12 @@
             "state" : "translated",
             "value" : "Через год будем смеяться над\nэтим. А пока ты — в обнимашках."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este mal rato será anécdota\ny quien la cuente, leyenda: tú."
+          }
         }
       }
     },
@@ -2065,6 +2323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Блестишь даже в тяжёлые дни:\nты — настоящий бриллиант."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los diamantes brillan tras\nel pulido. Igual que tú."
           }
         }
       }
@@ -2113,6 +2377,12 @@
             "state" : "translated",
             "value" : "Да, тяжело. Но ты по-прежнему\nукрашаешь этот мир."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Mal día? Aun así, lo mejor\nque he visto hoy eres tú."
+          }
         }
       }
     },
@@ -2159,6 +2429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кто-то смотрит на тебя и верит\nв лучшее: ты — чей-то пример."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Que sigas adelante es la\nesperanza de alguien, tú."
           }
         }
       }
@@ -2207,6 +2483,12 @@
             "state" : "translated",
             "value" : "Хуже некуда, а ты всё равно\nнаше чудо. Таков закон."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con la moral por los suelos\nsigue habiendo luz: eres tú."
+          }
         }
       }
     },
@@ -2253,6 +2535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сегодня ты в ударе!\nМир, держись крепче."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy se puede con todo, y\nquien mejor lo sabe eres tú."
           }
         }
       }
@@ -2301,6 +2589,12 @@
             "state" : "translated",
             "value" : "Верь в себя, ведь ты\nв этом деле профессионал."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confío en tu talento:\npara esto, el mejor eres tú."
+          }
         }
       }
     },
@@ -2347,6 +2641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Считай, что победа в кармане:\nты же в деле!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preparación lista: media\nvictoria ya es tuya, tú."
           }
         }
       }
@@ -2395,6 +2695,12 @@
             "state" : "translated",
             "value" : "Любое задание — детская игра,\nпока на месте ты."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lo que toque hoy tiene\nsolución, y la solución eres tú."
+          }
         }
       }
     },
@@ -2441,6 +2747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сегодня всё осветит твой огонь,\nведь ты — настоящий прожектор."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu ilusión iluminará el día\nentero, tú, farola humana."
           }
         }
       }
@@ -2489,6 +2801,12 @@
             "state" : "translated",
             "value" : "Вперёд! Сегодня ты — тот,\nкого ждали все дедлайны."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Vamos! A lo grande,\ncomo siempre, tú."
+          }
         }
       }
     },
@@ -2535,6 +2853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Рабочий день ещё не начался,\nа ты уже выглядишь на миллион."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antes de empezar ya tenías\naire de profesional, tú."
           }
         }
       }
@@ -2583,6 +2907,12 @@
             "state" : "translated",
             "value" : "Работать не хочется? Зато ты\nвыглядишь как босс бизнеса."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Sin ganas de trabajar? Aun así\nrindes más que nadie: tú."
+          }
         }
       }
     },
@@ -2629,6 +2959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Рабочий день ждёт: ты —\nего главная звезда. Ну и кастинг!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La oficina sube de nivel:\nel fichaje del día eres tú."
           }
         }
       }
@@ -2677,6 +3013,12 @@
             "state" : "translated",
             "value" : "Смотреть, как ты работаешь, —\nэто как кино. Только лучше."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verte trabajar es un\nespectáculo. La estrella, tú."
+          }
         }
       }
     },
@@ -2723,6 +3065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Дела ещё не начались, а ты\nуже на высоте. Мастерство!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no has empezado\ny ya vas ganando, tú."
           }
         }
       }
@@ -2771,6 +3119,12 @@
             "state" : "translated",
             "value" : "Раз ты в зале — остальным\nстоит подтянуться."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrenar ya es un triunfo,\ny quien lo logra hoy eres tú."
+          }
         }
       }
     },
@@ -2817,6 +3171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Забота о теле — это любовь,\nа ты в ней чемпион мира."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuidarte cada día\nes de admirar, tú."
           }
         }
       }
@@ -2865,6 +3225,12 @@
             "state" : "translated",
             "value" : "Каждый подход — повод для\nгордости: ты — сила."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nadie conoce tu cuerpo\ncomo lo conoces tú."
+          }
         }
       }
     },
@@ -2911,6 +3277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Просто дойти до зала — уже\nпобеда, а ты — молодчина!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo por ponerte en marcha\nya mereces aplauso."
           }
         }
       }
@@ -2959,6 +3331,12 @@
             "state" : "translated",
             "value" : "Пот блестит — значит, ты\nсияешь по-спортивному."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sudar te sienta de lujo,\ntú, pura energía."
+          }
         }
       }
     },
@@ -3005,6 +3383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Здоровье — лучшее вложение,\nа ты — главный инвестор."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu salud es lo primero\ny nadie lo sabe como tú."
           }
         }
       }
@@ -3053,6 +3437,12 @@
             "state" : "translated",
             "value" : "Время на себя — это круто,\nа ты — пример для всех."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sacar tiempo para ti\nes de campeones, como tú."
+          }
         }
       }
     },
@@ -3099,6 +3489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Спортивный костюм на тебе —\nобложка журнала: ты — модель."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con esa ropa deportiva\nsaldrías en una revista, tú."
           }
         }
       }
@@ -3147,6 +3543,12 @@
             "state" : "translated",
             "value" : "Тренажёры ждут, когда ты\nпридёшь. Они скучали."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El gimnasio se ilumina\ncuando quien entra eres tú."
+          }
         }
       }
     },
@@ -3193,6 +3595,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Штанга вздыхает от восторга:\nты — просто машина!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sudas y brillas a la vez.\n¿Quién lo hace así? Solo tú."
           }
         }
       }
@@ -3241,6 +3649,12 @@
             "state" : "translated",
             "value" : "Красиво потеть умеет не каждый,\nно ты — исключение."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Alguien a quien el sudor\nle quede bien? Sí: tú."
+          }
         }
       }
     },
@@ -3287,6 +3701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выйти в такую рань — подвиг,\nа ты — герой асфальта."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rumbo al trabajo, caminando\ncomo un profesional: tú."
           }
         }
       }
@@ -3335,6 +3755,12 @@
             "state" : "translated",
             "value" : "С утра уже в пути: ты —\nобразец силы воли."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Madrugar y salir a la calle\nmerece un aplauso, tú."
+          }
         }
       }
     },
@@ -3381,6 +3807,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Метро ждало именно тебя:\nты — звезда вагона."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otro día camino al trabajo\ny ya vas ganando, tú."
           }
         }
       }
@@ -3429,6 +3861,12 @@
             "state" : "translated",
             "value" : "Каждый шаг по дороге — шаг\nк успеху, ведь ты в деле."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada paso que das\nvale oro, tú."
+          }
         }
       }
     },
@@ -3475,6 +3913,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "С тобой дорога на работу —\nкак красная дорожка: ты — гвоздь."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hasta el trayecto es especial\nsi quien lo recorre eres tú."
           }
         }
       }
@@ -3523,6 +3967,12 @@
             "state" : "translated",
             "value" : "Идти на работу с достоинством\nумеешь только ты. Респект."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Responsable y puntual:\nnadie cumple como tú."
+          }
         }
       }
     },
@@ -3569,6 +4019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Следующая остановка — успех,\nа машинист — ты. Поехали!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El metro hoy es pasarela\ny la estrella del desfile eres tú."
           }
         }
       }
@@ -3617,6 +4073,12 @@
             "state" : "translated",
             "value" : "Даже в автобусе ты выглядишь\nкак с обложки. Отдыхайте, модели."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hasta en el autobús brillas, tú.\n¿Hoy toca sesión de fotos?"
+          }
         }
       }
     },
@@ -3663,6 +4125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Люди в вагоне заметили: ты —\nсамое яркое пятно утра."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verte camino al trabajo\nanima cualquier mañana, tú."
           }
         }
       }
@@ -3711,6 +4179,12 @@
             "state" : "translated",
             "value" : "Каждый шаг как на подиуме:\nты — главная модель города."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caminar y verse tan bien:\ntalento que solo tienes tú."
+          }
         }
       }
     },
@@ -3757,6 +4231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Рабочий день закончился, а ты\nпобедитель на все сто."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Día cumplido! A casa a descansar,\nque lo mereces."
           }
         }
       }
@@ -3805,6 +4285,12 @@
             "state" : "translated",
             "value" : "Домой! Плед, чай и овации —\nвсё для тебя: ты — гвоздь дня."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salir del trabajo es un\nespectáculo si sales tú."
+          }
         }
       }
     },
@@ -3851,6 +4337,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Пока ты идёшь домой, город\nстановится чуточку уютнее."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En el camino de vuelta\nsigues siendo lo mejor, tú."
           }
         }
       }
@@ -3899,6 +4391,12 @@
             "state" : "translated",
             "value" : "День окончен, лишнее за\nбортом, а ты — молодец!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otro día resuelto sin dramas.\nTalento puro."
+          }
         }
       }
     },
@@ -3945,6 +4443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Теперь время для себя, а ты —\nлучшая компания на вечер."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ahora empieza tu tiempo.\nDisfrútalo a tope, tú."
           }
         }
       }
@@ -3993,6 +4497,12 @@
             "state" : "translated",
             "value" : "Выдох. Работа позади.\nВпереди ты, диван и тишина."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tras el trabajo, tu tiempo es\nsagrado. Mímate, tú."
+          }
         }
       }
     },
@@ -4039,6 +4549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Офис грустит, когда ты уходишь:\nбез тебя там сразу серо."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fin de la jornada: matrícula\nde honor para quien la ganó, tú."
           }
         }
       }
@@ -4087,6 +4603,12 @@
             "state" : "translated",
             "value" : "Дом, милый дом! И ты в нём —\nглавное украшение."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hasta de vuelta a casa\nbrillas, tú. Menudo día."
+          }
         }
       }
     },
@@ -4133,6 +4655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сегодня ты — рекордсмен по\nполезным делам. Отдых прилагается."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Al verte salir parece que\nel día valió la pena, tú."
           }
         }
       }
@@ -4181,6 +4709,12 @@
             "state" : "translated",
             "value" : "Тяжёлый был день? Но ты и тут —\nпобедитель по очкам."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fue un día duro, pero\nsigues siendo de lo mejor, tú."
+          }
         }
       }
     },
@@ -4227,6 +4761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Всё выучено, ты в форме.\nОстался красивый финал."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Has estudiado de sobra,\nasí que lo bordas, tú."
           }
         }
       }
@@ -4275,6 +4815,12 @@
             "state" : "translated",
             "value" : "Знания никуда не денутся,\nпока рядом с ними ты."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu esfuerzo nunca falla,\ny eso lo sabes mejor que tú."
+          }
         }
       }
     },
@@ -4321,6 +4867,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Волнение — это нормально: ты\nпросто готовишься сиять."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Es normal tener nervios.\nLo tienes todo preparado, tú."
           }
         }
       }
@@ -4369,6 +4921,12 @@
             "state" : "translated",
             "value" : "Оценка не определяет тебя:\nты — гораздо больше цифры."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un examen no mide lo que vales:\ntú vales mucho más."
+          }
         }
       }
     },
@@ -4415,6 +4973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Старался ты давно,\nтак что победа уже в пути."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lo diste todo y eso ya\nes un aprobado. Matrícula, tú."
           }
         }
       }
@@ -4463,6 +5027,12 @@
             "state" : "translated",
             "value" : "Экзамен — это шоу, а ты\nв нём — главный артист."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si te lo propones, lo sacas.\nY tú siempre te lo propones."
+          }
         }
       }
     },
@@ -4509,6 +5079,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вдох-выдох, всё получится:\nты и мозг — отличная команда."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respira hondo y confía\nen todo lo que sabes, tú."
           }
         }
       }
@@ -4557,6 +5133,12 @@
             "state" : "translated",
             "value" : "Ни пуха ни пера! Хотя ты\nи без пуха — сплошной успех."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suerte con el examen, que\ntú vas con preparación de sobra."
+          }
         }
       }
     },
@@ -4603,6 +5185,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Нервы — признак того, что ты\nотносишься к делу всерьёз. Круто."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cero preocupación: acertarás\nhasta lo que no estudiaste, tú."
           }
         }
       }
@@ -4651,6 +5239,12 @@
             "state" : "translated",
             "value" : "Экзаменационный лист ахнет,\nкогда поймёт, что ты — гений."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Nervios? Aun así, la mejor cabeza\nde esa aula es la tuya, tú."
+          }
         }
       }
     },
@@ -4697,6 +5291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Пора показать миру, на что\nспособен ты. Спойлер: на всё."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Al verte, hasta el folio del examen\nsusurrará: «ya aprobó», tú."
           }
         }
       }
@@ -4745,6 +5345,12 @@
             "state" : "translated",
             "value" : "Рекрутёр удивится: перед ним\nты — находка года."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ha llegado el momento\nde brillar, y tú lo sabes hacer."
+          }
         }
       }
     },
@@ -4791,6 +5397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Опыт, огонь и обаяние —\nвсё это ты. Берите, пока дают!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu experiencia y tu ilusión\nson tu mejor carta, tú."
           }
         }
       }
@@ -4839,6 +5451,12 @@
             "state" : "translated",
             "value" : "Волноваться можно: так ты\nнастраиваешься на успех."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si hay nervios, no pasa nada:\nlo que hay delante es de lo mejor, tú."
+          }
         }
       }
     },
@@ -4885,6 +5503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Зайти с улыбкой — уже\nполовина оффера, а ты мастер."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cabeza alta, que tú vienes\ncon todo preparado."
           }
         }
       }
@@ -4933,6 +5557,12 @@
             "state" : "translated",
             "value" : "Расскажи о себе так, как умеешь\nтолько ты. Это и есть ответ."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuenta tu historia con orgullo:\nmaterial tienes de sobra, tú."
+          }
         }
       }
     },
@@ -4979,6 +5609,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Собеседование — просто беседа\nдвух сторон, где ты — подарок."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una entrevista es conocerse.\nCalma, que de eso sabes tú."
           }
         }
       }
@@ -5027,6 +5663,12 @@
             "state" : "translated",
             "value" : "Если не возьмут, то это их минус:\nты в любом случае сплошной плюс."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si esa empresa no te ficha,\nla pérdida es suya."
+          }
         }
       }
     },
@@ -5073,6 +5715,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Резюме — просто бумага, а вот ты\nна ней не помещаешься."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dicen que tu currículum brilla,\npero el brillo de verdad eres tú."
           }
         }
       }
@@ -5121,6 +5769,12 @@
             "state" : "translated",
             "value" : "Едва ты войдёшь в кабинет,\nвсе поймут: тут будет оффер."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entras a la sala y el puesto\nya está en tu bolsillo, tú."
+          }
         }
       }
     },
@@ -5167,6 +5821,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Первое впечатление? Тут ты —\nтот случай, когда оно идеально."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu primera impresión vale\nmedio contrato, y tú lo sabes."
           }
         }
       }
@@ -5215,6 +5875,12 @@
             "state" : "translated",
             "value" : "Сегодня ты — тот самый, о\nком пишут песни."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ojo, recursos humanos:\nla leyenda de hoy eres tú."
+          }
         }
       }
     },
@@ -5261,6 +5927,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Быть собой — твой лучший\nлайфхак, ведь ты эталон."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy estás radiante,\ny no es el café: eres tú."
           }
         }
       }
@@ -5309,6 +5981,12 @@
             "state" : "translated",
             "value" : "Тем, кто рядом, повезло, ведь\nрядом ты. Вот это бонус!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tal como eres, ya resultas\nirresistible. Sí, tú."
+          }
         }
       }
     },
@@ -5355,6 +6033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Уверенность тебе к лицу: ты\nв ней как в хорошем пальто."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quien salga contigo ha\nganado la lotería, tú."
           }
         }
       }
@@ -5403,6 +6087,12 @@
             "state" : "translated",
             "value" : "Улыбка — твоё главное оружие,\nа ты — мастер меткой стрельбы."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con esa confianza seduces\nhasta al espejo, tú."
+          }
         }
       }
     },
@@ -5449,6 +6139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Такой, какой есть, ты —\nуже хит сезона."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu sonrisa de hoy es tu mejor\narma de seducción, tú."
           }
         }
       }
@@ -5497,6 +6193,12 @@
             "state" : "translated",
             "value" : "Харизму не спрятать: ты\nсветишься даже в темноте."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tal cual eres: eso ya\nes un diez. Así de simple, tú."
+          }
         }
       }
     },
@@ -5543,6 +6245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Свидание? Кому-то сегодня\nоткровенно повезёт: рядом будет ты!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu encanto es imposible de\nesconder, ni lo intentes, tú."
           }
         }
       }
@@ -5591,6 +6299,12 @@
             "state" : "translated",
             "value" : "Тому, кто встретит тебя, повезёт:\nведь ты — как билет в лотерею."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cita hoy? A la otra persona\nle va a dar un vuelco el corazón."
+          }
         }
       }
     },
@@ -5637,6 +6351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Образ на пять баллов: ты\nможешь сразу на обложку."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quien quede contigo ha tocado\nel premio gordo. ¿Lo sabes, tú?"
           }
         }
       }
@@ -5685,6 +6405,12 @@
             "state" : "translated",
             "value" : "Одного взгляда хватит: ты\nвлюбишь в себя даже официанта."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu look es perfecto.\n¿Sesión de fotos o cita? Solo tú."
+          }
         }
       }
     },
@@ -5731,6 +6457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Пока ты в пути, чьё-то\nсердце стучит всё громче."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con verte hoy, cualquiera\nse enamora un poquito, tú."
           }
         }
       }
@@ -5779,6 +6511,12 @@
             "state" : "translated",
             "value" : "Верить в тебя — мой любимый\nспорт, а ты — главный чемпион."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La cita ni ha empezado y\nya le has robado el corazón."
+          }
         }
       }
     },
@@ -5825,6 +6563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Маленький шаг — тоже шаг, а ты\nв шагах — настоящий марафонец."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puedes con ello, tú.\nEstoy aquí para animarte siempre."
           }
         }
       }
@@ -5873,6 +6617,12 @@
             "state" : "translated",
             "value" : "Мечта близко: ведь ты\nидёшь к ней упорнее всех."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un pequeño paso es el inicio\nde un gran viaje, y lo das tú."
+          }
         }
       }
     },
@@ -5919,6 +6669,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сегодняшний труд — завтрашний\nуспех, а ты уже на трассе."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No te rindas: tus sueños\nse cumplirán, y tú ya lo sabes."
           }
         }
       }
@@ -5967,6 +6723,12 @@
             "state" : "translated",
             "value" : "Мир ещё не знает, что ты —\nтот, кто его изменит."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El esfuerzo de hoy es\nel éxito de mañana. Palabra."
+          }
         }
       }
     },
@@ -6013,6 +6775,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Провалы — это черновик, а ты\nпишешь шедевр. Продолжай."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu pasión puede cambiar\nel mundo. Sigue así, tú."
           }
         }
       }
@@ -6061,6 +6829,12 @@
             "state" : "translated",
             "value" : "Потенциал безграничный: ты —\nпросто бесконечность в кроссовках."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallar es parte del camino.\nInsiste, que tú puedes."
+          }
         }
       }
     },
@@ -6107,6 +6881,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Снова вперёд: ты —\nтот, кто делает невозможное."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu potencial no tiene techo.\nSin límites, como tú."
           }
         }
       }
@@ -6155,6 +6935,12 @@
             "state" : "translated",
             "value" : "Глядя, как ты стараешься,\nдругие тоже хотят действовать."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A darlo todo hoy,\nque tú sabes cómo."
+          }
         }
       }
     },
@@ -6201,6 +6987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Всё получится, и это не\nутешение: ты просто неостановим."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verte esforzarte motiva\na más de uno, tú."
           }
         }
       }
@@ -6249,6 +7041,12 @@
             "state" : "translated",
             "value" : "Не сдавайся: с таким упорством\nты — готовый сценарий фильма."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todo va a salir bien,\nporque lo harás tú."
+          }
         }
       }
     },
@@ -6295,6 +7093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Поехали! Сегодня ты —\nглавный двигатель своей жизни."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No te rindas: ya eres\nuna gran persona, tú."
           }
         }
       }
@@ -6343,6 +7147,12 @@
             "state" : "translated",
             "value" : "Те, кто видят твои усилия, за\nтебя. Знай: ты — не один."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Ánimo! Tienes lo que hay\nque tener, y de sobra, tú."
+          }
         }
       }
     },
@@ -6389,6 +7199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ценность не измеряется\nлайками, а ты — бесценный."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quien conoce tu esfuerzo\nte aplaude. Y yo también, tú."
           }
         }
       }
@@ -6437,6 +7253,12 @@
             "state" : "translated",
             "value" : "Как есть — так и идеально:\nты — готовый шедевр."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vales muchísimo,\ncon todas las letras, tú."
+          }
         }
       }
     },
@@ -6483,6 +7305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Само твоё присутствие — повод\nдля праздника: ты — подарок."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tal cual, la perfección\ntiene nombre: tú."
           }
         }
       }
@@ -6531,6 +7359,12 @@
             "state" : "translated",
             "value" : "Бери смелость, ведь ты —\nкрутой человек на этой планете."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Que existas ya es algo\nespecial. Y existes tú."
+          }
         }
       }
     },
@@ -6577,6 +7411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Скажу по секрету: ты\nсильнее, чем кажется."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cabeza alta: una persona\ngenial eres tú."
           }
         }
       }
@@ -6625,6 +7465,12 @@
             "state" : "translated",
             "value" : "Твоя неповторимость — суперсила:\nты — единственный экземпляр."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eres más fuerte de lo que\ncrees. Mucho más, tú."
+          }
         }
       }
     },
@@ -6671,6 +7517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Доверься себе: ты — лучший\nэксперт по собственной жизни."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu forma de ser es\ntu mayor brillo, tú."
           }
         }
       }
@@ -6719,6 +7571,12 @@
             "state" : "translated",
             "value" : "Идеал? Да ты и есть\nэталон. Поставьте в музей."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cree en ti: lo necesario\nlo tienes tú."
+          }
         }
       }
     },
@@ -6765,6 +7623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Все дороги ведут к тебе,\nведь ты — в центре всего."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eres una persona completa\ntal cual, tú."
           }
         }
       }
@@ -6813,6 +7677,12 @@
             "state" : "translated",
             "value" : "Недооценивать себя — плохая\nпривычка: ты — большой талант."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con tanta seguridad\neres lo más grande, tú."
+          }
         }
       }
     },
@@ -6859,6 +7729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Давно пора признать: ты\nсправляешься на пять с плюсом."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vales mucho más de\nlo que piensas, tú."
           }
         }
       }
@@ -6907,6 +7783,12 @@
             "state" : "translated",
             "value" : "Кто не замечает твой шарм, тот\nзабыл очки: ты — ослепительное явление."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ya lo haces muy bien,\nde verdad, y lo sabes tú."
+          }
         }
       }
     },
@@ -6953,6 +7835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сегодня можно ничего не делать:\nты — не робот-исполнитель."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quien no ve tu encanto\nes que no tiene ojos, tú."
           }
         }
       }
@@ -7001,6 +7889,12 @@
             "state" : "translated",
             "value" : "Отдых — тоже работа, а ты\nв ней — сотрудник месяца."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy toca relajarse,\nsin prisas ni culpas, tú."
+          }
         }
       }
     },
@@ -7047,6 +7941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Лежать — тоже достижение:\nты — чемпион дивана."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un descanso lo necesita\ncualquiera, también tú."
           }
         }
       }
@@ -7095,6 +7995,12 @@
             "state" : "translated",
             "value" : "Твоё спокойствие дороже всех\nдедлайнов. Береги: ты — ценность."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hacer nada es un plan\nperfecto hoy."
+          }
         }
       }
     },
@@ -7141,6 +8047,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не спеши: ты идёшь\nв своём темпе, а он лучший."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu bienestar es lo primero\ny tú lo sabes."
           }
         }
       }
@@ -7189,6 +8101,12 @@
             "state" : "translated",
             "value" : "Вечер — для тебя: чай, плед\nи ты — главный гость программы."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poco a poco, a tu ritmo,\nllegas igual, tú."
+          }
         }
       }
     },
@@ -7235,6 +8153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Умеешь отдыхать? Тогда ты —\nстратег, а не лентяй."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy es tu día: un tiempo\nsolo para ti, tú."
           }
         }
       }
@@ -7283,6 +8207,12 @@
             "state" : "translated",
             "value" : "Право на отдых — закон, и ты\nего самый ярый защитник."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descansar también es avanzar.\nSin culpa."
+          }
         }
       }
     },
@@ -7329,6 +8259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Пока ты отдыхаешь, мир\nтоже слегка притормаживает."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descansar es un derecho.\nHoy, a relajarte, tú."
           }
         }
       }
@@ -7377,6 +8313,12 @@
             "state" : "translated",
             "value" : "Потратить время на себя —\nправильно, а ты тут эксперт."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Relajarte tiene su encanto\ncasi tanto como tú."
+          }
         }
       }
     },
@@ -7423,6 +8365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Даже в режиме «ничего» ты\nсияешь на полную."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dedicarte un rato está más\nque bien, y lo mereces tú."
           }
         }
       }
@@ -7471,6 +8419,12 @@
             "state" : "translated",
             "value" : "Чай греет, плед обнимает,\nа ты тут — главный по уюту."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hasta en pijama y en el sofá\nbrillas, tú."
+          }
         }
       }
     },
@@ -7517,6 +8471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "На диване, в носках, ты —\nвсё равно мировая звезда."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mientras descansas, sigues\nsiendo lo más bonito, tú."
           }
         }
       }
@@ -7565,6 +8525,12 @@
             "state" : "translated",
             "value" : "Минус в тебе всего один:\nты заставляешь забыть про остальных."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Defectos tuyos: he buscado\ndos veces y nada. Error 404, tú."
+          }
         }
       }
     },
@@ -7611,6 +8577,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тест на личность выдал:\nты — «милота», без вариантов."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿El número Pi? Infinito,\nirracional y muy de nota. Igual que tú."
           }
         }
       }
@@ -7659,6 +8631,12 @@
             "state" : "translated",
             "value" : "Кто считает, что ты — милота?\nПланета подняла руки. И Луна."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si ser guapo fuera delito,\nla cadena perpetua llevaría tu nombre."
+          }
         }
       }
     },
@@ -7705,6 +8683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если ты — нота, то «до»:\nдо чего же ты — мечта!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test de personalidad: resultado\n«madre mía, qué maravilla». Eres tú."
           }
         }
       }
@@ -7753,6 +8737,12 @@
             "state" : "translated",
             "value" : "На скачки тебя не пустят: ты —\nфаворит, всё и так ясно."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No necesitas filtro: ya vienes\nen alta definición, tú."
+          }
         }
       }
     },
@@ -7799,6 +8789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Когда ты проходишь мимо, шея\nсама поворачивается. Нечестно!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dicen que el dinero no da la\nfelicidad. Pero tú sí, y sin IVA."
           }
         }
       }
@@ -7847,6 +8843,12 @@
             "state" : "translated",
             "value" : "Какой у меня любимый бензин?\nТот, что называется «ты»."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si fueras un cuento,\nserías el que nunca se acaba."
+          }
         }
       }
     },
@@ -7893,6 +8895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Синоптики предупредили о шторме\nвосторга: ты выходишь на улицу!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perdona, se te ha caído algo:\nmi mandíbula al verte, tú."
           }
         }
       }
@@ -7941,6 +8949,12 @@
             "state" : "translated",
             "value" : "Во что я верю? В чудеса —\nведь рядом ты."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No eres de este mundo.\nVienes de uno mejor."
+          }
         }
       }
     },
@@ -7987,6 +9001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вроде всё есть, а чего-то не\nхватает? Нет, просто ты — комплект."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu sonrisa tiene más «me gusta»\nque toda mi vida junta, tú."
           }
         }
       }
@@ -8035,6 +9055,12 @@
             "state" : "translated",
             "value" : "Тяжело нести такую красоту?\nПоставь, поможем: ты — наше всё."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Llevas mapa? Es que\nme pierdo en tu mirada."
+          }
         }
       }
     },
@@ -8081,6 +9107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "С тобой как за каменной стеной:\nвсё потому, что ты — опора."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si esto es un sueño, que no\nme despierte nadie. Tan real: tú."
           }
         }
       }
@@ -8129,6 +9161,12 @@
             "state" : "translated",
             "value" : "Красота — это миф? Нет,\nты — наглядное опровержение."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi Ctrl+Z de los días malos\nsiempre eres tú."
+          }
         }
       }
     },
@@ -8175,6 +9213,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Языков в мире много, но смысл\nодин: ты — просто класс."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grupo sanguíneo: A positivo.\nPura buena onda, como tú."
           }
         }
       }
@@ -8223,6 +9267,12 @@
             "state" : "translated",
             "value" : "Откуда ты родом? Из рая,\nа в паспорте — просто город."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eres tan guay que\nel hielo se pone celoso, tú."
+          }
         }
       }
     },
@@ -8269,6 +9319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Твой профиль чётче моих планов\nна будущее, а ты — скульптура."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cuánto pesas? Oro, como mínimo.\nQuilates a tope, tú."
           }
         }
       }
@@ -8317,6 +9373,12 @@
             "state" : "translated",
             "value" : "Берлин, Париж, Рим... А ты —\nстолица моего хорошего настроения."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tanto talento junto\ndebería tributar aparte, tú."
+          }
         }
       }
     },
@@ -8363,6 +9425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Класс А? Нет, ты — класс «люкс».\nОформляйте охранный статус."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si fueras un verbo, serías\n«brillar»: siempre en presente."
           }
         }
       }
@@ -8411,6 +9479,12 @@
             "state" : "translated",
             "value" : "Ходят слухи, что ты спишь с\nодеялом и славой на пару."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si fueras un restaurante,\nhabría lista de espera de un año, tú."
+          }
         }
       }
     },
@@ -8457,6 +9531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Зачем ты работаешь? Обаяние\nуже делает всё за тебя."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dicen que el amor es ciego,\npero le devuelves la vista."
           }
         }
       }
@@ -8505,6 +9585,12 @@
             "state" : "translated",
             "value" : "«Хватит мне нравиться!»\n«А как?» — вот и ты не знаешь."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu cara ya es patrimonio\nde la humanidad, tú."
+          }
         }
       }
     },
@@ -8551,6 +9637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Лицо — достояние республики:\nты уже в планах главного музея."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelen la gala: el premio\ngordo de este año ya tiene dueño: tú."
           }
         }
       }
@@ -8599,6 +9691,12 @@
             "state" : "translated",
             "value" : "Награды можно не вручать: ты\nвсё равно займёшь все места."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Sesión de fotos o es que\ncaminas así por la vida, tú?"
+          }
         }
       }
     },
@@ -8645,6 +9743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Это фотосессия или ты\nпросто идёшь по улице?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi artista número uno,\nen bucle en mi cabeza: tú."
           }
         }
       }
@@ -8693,6 +9797,12 @@
             "state" : "translated",
             "value" : "В моём сердечном хит-параде ты\nуже год на первой строчке."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quiero tu autógrafo\ntodos los días, tú."
+          }
         }
       }
     },
@@ -8739,6 +9849,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Подпиши мне открытку, ты ж\nзвезда первой величины."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debuta ya: en mi corazón\nya eres cabeza de cartel, tú."
           }
         }
       }
@@ -8787,6 +9903,12 @@
             "state" : "translated",
             "value" : "Пора дебютировать: ты и без\nсцены в центре внимания."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Número uno en mi lista\nsemana tras semana: tú."
+          }
         }
       }
     },
@@ -8833,6 +9955,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "С первым местом в чартах: ты\nих возглавляешь без песен."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posa un momento: quiero\nuna foto tuya cada día, tú."
           }
         }
       }
@@ -8881,6 +10009,12 @@
             "state" : "translated",
             "value" : "Давай фоточку? Знаешь, ты\nвсегда получаешься красиво."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Vuelves? Mi corazón acaba\nde reiniciarse, tú."
+          }
         }
       }
     },
@@ -8927,6 +10061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Едва ты входишь, моё сердце\nделает громкий камбэк."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Te grabo? Cada momento tuyo\nes de ver en bucle."
           }
         }
       }
@@ -8975,6 +10115,12 @@
             "state" : "translated",
             "value" : "Каждый твой миг — как кино: ты\n— и режиссёр, и главная роль."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿En un videoclip? Ya eres\nprotagonista de mi vida, tú."
+          }
         }
       }
     },
@@ -9021,6 +10167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Для клипа тебя не нужно\nгримировать: ты — готовый хит."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Documental de tu vida?\nAl natural ganas a todos."
           }
         }
       }
@@ -9069,6 +10221,12 @@
             "state" : "translated",
             "value" : "Реалити-шоу? Реальность с тобой\nлучше любого шоу: ты — сюжет."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siempre en el centro: donde\nvayas, brillas más que nadie, tú."
+          }
         }
       }
     },
@@ -9115,6 +10273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Центр группы всегда там, где\nты. Свет тоже там."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premio a la cara del año.\nY de la década. Gana tú."
           }
         }
       }
@@ -9163,6 +10327,12 @@
             "state" : "translated",
             "value" : "Премия «Лицо года» уже твоя:\nты — единственный номинант."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si sales en un anuncio,\nvendes hasta lo que no existe."
+          }
         }
       }
     },
@@ -9209,6 +10379,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Посмотришь на тебя — и сразу\nулыбка: ты — реклама счастья."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Portada de revista cada mes:\nesa cara lo merece, tú."
           }
         }
       }
@@ -9257,6 +10433,12 @@
             "state" : "translated",
             "value" : "На обложке всегда ты, потому\nчто выбор у редактора один."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Tu carisma es real? La calle\ncontigo ya es un escenario."
+          }
         }
       }
     },
@@ -9303,6 +10485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Харизма на сцене зашкаливает,\nа в жизни ты — не хуже."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cromos? Yo quiero la colección\ncompleta, tú."
           }
         }
       }
@@ -9351,6 +10539,12 @@
             "state" : "translated",
             "value" : "Карточки с тобой разлетелись бы\nза секунду: ты — редкость."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cuándo es el encuentro con fans?\nYo, a diario, tú."
+          }
         }
       }
     },
@@ -9397,6 +10591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Когда встреча с фанатами?\nМы ждём: ты — наш кумир."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sube un vídeo bailando:\nmoverte ya es arte, tú."
           }
         }
       }
@@ -9445,6 +10645,12 @@
             "state" : "translated",
             "value" : "Выложи танец: ты двигаешься\nкак мечта, и я не шучу."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verte es como un tráiler,\ny el estreno favorito eres tú."
+          }
         }
       }
     },
@@ -9491,6 +10697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Смотрю на тебя и жду продолжения:\nты — как лучший трейлер."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Gira mundial? Ya me has\nsacudido el corazón entero, tú."
           }
         }
       }
@@ -9539,6 +10751,12 @@
             "state" : "translated",
             "value" : "Мировое турне? Куда там:\nты уже на всех континентах сердец."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Firma mi disco: eres\nedición limitada, tú."
+          }
         }
       }
     },
@@ -9585,6 +10803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Таких, как ты, не выпускают\nсерией: ты — лимитка."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enciendo la linterna del móvil\ny te aplaudo toda la vida, tú."
           }
         }
       }
@@ -9633,6 +10857,12 @@
             "state" : "translated",
             "value" : "Включаю фонарик в твою честь:\nты — вечный повод для света."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vas en ascenso, aunque\nsiempre fuiste de leyenda, tú."
+          }
         }
       }
     },
@@ -9679,6 +10909,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Хайп догнал, но ты и без него\nлегенда с самого рождения."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Busco entradas para verte:\neres mi concierto diario."
           }
         }
       }
@@ -9727,6 +10963,12 @@
             "state" : "translated",
             "value" : "Концерт? Я лучше просто\nпосмотрю на тебя: ты — шоу."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Número uno? Lo eres\nen mi lista de éxitos, tú."
+          }
         }
       }
     },
@@ -9773,6 +11015,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Хит-парад обновился: ты\nопять на первом месте."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bis, bis, bis: otra vez,\nque no me canso de verte, tú."
           }
         }
       }
@@ -9821,6 +11069,12 @@
             "state" : "translated",
             "value" : "Бис! На бис! Вот ты — тот,\nна кого хочется смотреть снова."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hasta en las tomas falsas\nresultas de leyenda, tú."
+          }
         }
       }
     },
@@ -9867,6 +11121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Даже закулисные кадры с тобой\nшедевр: ты вообще без брака."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambio de favorito:\nsin ti no veo a nadie más."
           }
         }
       }
@@ -9915,6 +11175,12 @@
             "state" : "translated",
             "value" : "Любимчика менять не буду:\nты — мой постоянный фаворит."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me he hecho fan tuyo.\nDe por vida, tú."
+          }
         }
       }
     },
@@ -9961,6 +11227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Присоединяюсь к твоим фанатам:\nты — мой номер один."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revelo mi favorito:\nni más ni menos que tú."
           }
         }
       }
@@ -10009,6 +11281,12 @@
             "state" : "translated",
             "value" : "Мой любимчик назван: ты.\nОбсуждению не подлежит."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compré todo el merchandising,\npero el mejor souvenir eres tú."
+          }
         }
       }
     },
@@ -10055,6 +11333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мерч у меня весь с твоим лицом:\nты — лучший сувенир."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fan para siempre: mi\nartista de cabecera eres tú."
           }
         }
       }
@@ -10103,6 +11387,12 @@
             "state" : "translated",
             "value" : "Буду вечным фанатом: ты\nдля меня — главный артист."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ya he elegido bando:\nel tuyo. Mi equipo eres tú."
+          }
         }
       }
     },
@@ -10149,6 +11439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мой штаб теперь там, где\nты. Так и запишите."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abro tu club de fans:\nel carnet número uno es mío, tú."
           }
         }
       }
@@ -10197,6 +11493,12 @@
             "state" : "translated",
             "value" : "Фан-клуб открывается: ты —\nпервый и главный участник."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hago de paparazzi: no quiero\nperderme ni un momento tuyo, tú."
+          }
         }
       }
     },
@@ -10243,6 +11545,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Хочу снимать каждый твой кадр:\nты — моя любимая тема."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cualquier rato a tu lado\nes tiempo de oro, tú."
           }
         }
       }
@@ -10291,6 +11599,12 @@
             "state" : "translated",
             "value" : "Время рядом с тобой — золото,\nа ты — мой золотой запас."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pongo pancartas de cumpleaños:\nojalá cada día fuera el tuyo, tú."
+          }
         }
       }
     },
@@ -10337,6 +11651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Хочу, чтобы каждый день был\nтвоим днём рождения: ты — повод."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Te aplaudiré siempre.\nSer tu fan es mi orgullo, tú."
           }
         }
       }
@@ -10385,6 +11705,12 @@
             "state" : "translated",
             "value" : "Быть твоим фанатом — честь:\nты — гордость всей моей жизни."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si el encanto cotizara en bolsa,\ntú serías el valor más alto."
+          }
         }
       }
     },
@@ -10431,6 +11757,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сердце стучит быстрее,\nкогда ты на горизонте."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me haces latir el corazón\ncomo un bombo, tú."
           }
         }
       }
@@ -10479,6 +11811,12 @@
             "state" : "translated",
             "value" : "Мир красивее, когда в нём\nесть ты. Проверено мной."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mirarte hace el mundo\nmás bonito, tú."
+          }
         }
       }
     },
@@ -10525,6 +11863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мой витамин счастья — это ты.\nПринимать ежедневно."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi vitamina diaria de\nfelicidad: tú."
           }
         }
       }
@@ -10573,6 +11917,12 @@
             "state" : "translated",
             "value" : "Смеёшься — и мне тоже весело,\nведь ты — заразительное счастье."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuando sonríes, yo\nme alegro en cadena, tú."
+          }
         }
       }
     },
@@ -10619,6 +11969,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Звёзд на небе миллионы, но ярче\nвсех светишь именно ты."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La estrella más brillante\nque he visto: tú."
           }
         }
       }
@@ -10667,6 +12023,12 @@
             "state" : "translated",
             "value" : "Любой день — праздник, пока\nв нём есть ты."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada día contigo es fiesta\ny el DJ eres tú."
+          }
         }
       }
     },
@@ -10713,6 +12075,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "От одного твоего голоса\nнастроение взлетает: ты — музыка."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo con oír tu voz\nse me arregla el humor, tú."
           }
         }
       }
@@ -10761,6 +12129,12 @@
             "state" : "translated",
             "value" : "Везение моё зовут просто ты.\nИ другого не нужно."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En mi vida, la mayor\nsuerte eres tú."
+          }
         }
       }
     },
@@ -10807,6 +12181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Благодаря тебе я улыбаюсь,\nведь ты — моя причина."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gracias a ti sonrío hoy.\nSolo tú lo consigues."
           }
         }
       }
@@ -10855,6 +12235,12 @@
             "state" : "translated",
             "value" : "Дороже всех на свете — ты.\nПроверено временем."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nadie es más valioso\npara mí que tú."
+          }
         }
       }
     },
@@ -10901,6 +12287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Подумаю о тебе — и улыбка\nсама, ведь ты — мой уют."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se me escapa una sonrisa\ncada vez que apareces, tú."
           }
         }
       }
@@ -10949,6 +12341,12 @@
             "state" : "translated",
             "value" : "Покой в моей душе — это\nты, и никто другой."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hay ruido en mi cabeza,\npero la calma eres tú."
+          }
         }
       }
     },
@@ -10995,6 +12393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Время рядом с тобой всегда\nособенное, потому что ты — это ты."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El tiempo a tu lado\nsiempre es especial, tú."
           }
         }
       }
@@ -11043,6 +12447,12 @@
             "state" : "translated",
             "value" : "Лучший человек, которого я знаю?\nЭто, конечно, ты."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De toda la gente que conozco,\nlo máximo eres tú."
+          }
         }
       }
     },
@@ -11089,6 +12499,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Спасибо судьбе за то, что\nв моей жизни есть ты."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Que existas, tú,\nya es motivo de gratitud."
           }
         }
       }
@@ -11137,6 +12553,12 @@
             "state" : "translated",
             "value" : "Главная изюминка моего дня —\nэто ты, без вариантов."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lo mejor de mi día\nsiempre eres tú."
+          }
         }
       }
     },
@@ -11183,6 +12605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Каждый денёк становится особенным,\nкогда рядом ты."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada día es especial\nporque existes tú."
           }
         }
       }
@@ -11231,6 +12659,12 @@
             "state" : "translated",
             "value" : "Всё вокруг светлеет, когда\nрядом ты. Включили свет!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si apareces, el mundo\nse enciende. Solo tú."
+          }
         }
       }
     },
@@ -11277,6 +12711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Лучший подарок судьбы — это\nты. Без упаковки и чека."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El mejor regalo de mi vida\neres tú, sin envoltorio."
           }
         }
       }
@@ -11325,6 +12765,12 @@
             "state" : "translated",
             "value" : "Весь мир красивее на десять\nбаллов, если в нём ты."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El mundo es más bonito\ndesde que estás tú."
+          }
         }
       }
     },
@@ -11371,6 +12817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не представляю день без тебя:\nты — моя точка отсчёта."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un día sin ti da pereza.\nUn día contigo es fiesta, tú."
           }
         }
       }
@@ -11419,6 +12871,12 @@
             "state" : "translated",
             "value" : "Первое место в моём сердце\nзанимаешь ты. Пожизненно."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imposible imaginar mi día\nsin la persona que eres tú."
+          }
         }
       }
     },
@@ -11465,6 +12923,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Рядом с тобой всё по плечу: ты\nпрямо источник смелости."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En mi corazón hay un puesto\nde honor y su dueño eres tú."
           }
         }
       }
@@ -11513,6 +12977,12 @@
             "state" : "translated",
             "value" : "Благодарность сегодня адресую\nтебе: ты — повод для неё."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con alguien a mi lado, todo\nes posible. Ese alguien eres tú."
+          }
         }
       }
     },
@@ -11559,6 +13029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Улыбка у тебя лучше всех\nпейзажей мира, а ты — автор."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doy gracias a diario\npor alguien como tú."
           }
         }
       }
@@ -11607,6 +13083,12 @@
             "state" : "translated",
             "value" : "Самое большое счастье моей\nжизни — это ты, сто процентов."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu sonrisa le gana\na cualquier cosa, tú."
+          }
         }
       }
     },
@@ -11653,6 +13135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вспомню о тебе — и день\nсразу в плюс: ты — сплошной бонус."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La mayor bendición\nde mi vida eres tú."
           }
         }
       }
@@ -11701,6 +13189,12 @@
             "state" : "translated",
             "value" : "Дом там, где ты. Остальное —\nпросто адрес."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pensar en ti mejora el día.\nDe verdad, tú."
+          }
         }
       }
     },
@@ -11747,6 +13241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Рядом с тобой всё идеально,\nа ты — режиссёр этого кино."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi hogar no es un lugar:\nes una persona, tú."
           }
         }
       }
@@ -11795,6 +13295,12 @@
             "state" : "translated",
             "value" : "Идеал из моих снов — это\nты, только реальнее."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A tu lado cada momento\nes perfecto, tú."
+          }
         }
       }
     },
@@ -11841,6 +13347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сердце сбоит при виде тебя,\nведь ты — вирус хорошего настроения."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Justo el tipo de persona\ncon el que soñaba: tú."
           }
         }
       }
@@ -11889,6 +13401,12 @@
             "state" : "translated",
             "value" : "Ходячая энциклопедия достоинств —\nэто ты. Читаю всю жизнь."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me miras y mi corazón\nse vuelve loco, tú."
+          }
         }
       }
     },
@@ -11935,6 +13453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Твоё обаяние бьёт без промаха:\nтакой ты — снайпер улыбок."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una persona de libro de\nhistoria eres tú."
           }
         }
       }
@@ -11983,6 +13507,12 @@
             "state" : "translated",
             "value" : "Смотрю на тебя без остановки —\nшея просит отпуск, а ты — повод."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu encanto es un hechizo\ny yo caigo siempre, tú."
+          }
         }
       }
     },
@@ -12029,6 +13559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Пульс как на марафоне: это\nты рядом, и сердцу не до сна."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mirarte tanto me va a\ndar tortícolis, tú."
           }
         }
       }
@@ -12077,6 +13613,12 @@
             "state" : "translated",
             "value" : "Лучший кадр в моей памяти —\nэто ты, без фильтров."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada vez que te veo el\ncorazón sube de revoluciones, tú."
+          }
         }
       }
     },
@@ -12123,6 +13665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "С тобой каждый день особый:\nпоздравляю себя, что есть ты."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi película favorita\nde todas eres tú."
           }
         }
       }
@@ -12171,6 +13719,12 @@
             "state" : "translated",
             "value" : "Чудеса существуют: вот\nты, живое доказательство."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada día es el día del favorito\nsi estás tú."
+          }
         }
       }
     },
@@ -12217,6 +13771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Время замедляется, когда\nты входишь в кадр, как в кино."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un milagro con patas\ny ese milagro eres tú."
           }
         }
       }
@@ -12265,6 +13825,12 @@
             "state" : "translated",
             "value" : "VIP-пропуск в мою жизнь выдан\nодному человеку: это ты."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contigo el mundo va a\ncámara lenta, tú."
+          }
         }
       }
     },
@@ -12311,6 +13877,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Смотреть на тебя — как любимую\nсерию: ты — мой сериал."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tienes carnet VIP\nen mi vida, tú."
           }
         }
       }
@@ -12359,6 +13931,12 @@
             "state" : "translated",
             "value" : "Эксклюзивный контент — это\nты, и мне хочется ещё."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verte es el momento\nmás top de mi rutina, tú."
+          }
         }
       }
     },
@@ -12405,6 +13983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мир стал чётче и ярче, как\nв ультра-HD: это всё ты."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contenido premium\nde mi corazón: tú."
           }
         }
       }
@@ -12453,6 +14037,12 @@
             "state" : "translated",
             "value" : "Лучшие часы моего дня — те,\nгде есть ты. Золотой час!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tengo la vida en HD\ndesde que apareciste, tú."
+          }
         }
       }
     },
@@ -12499,6 +14089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мысль о тебе включает улыбку\nавтоматически: ты — кнопка счастья."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La hora dorada de mi vida\neres tú."
           }
         }
       }
@@ -12547,6 +14143,12 @@
             "state" : "translated",
             "value" : "Люксовый отель отдыхает: уютнее\nвсего там, где ты."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pienso en ti y sonrío\nsin querer. Culpa tuya, tú."
+          }
         }
       }
     },
@@ -12593,6 +14195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Каждый денёк с тобой — как\nвыходной: ты — отпуск без визы."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi hotel de cinco estrellas\nes tu abrazo, tú."
           }
         }
       }
@@ -12641,6 +14249,12 @@
             "state" : "translated",
             "value" : "Главное событие года — это\nты. Остальное — анонсы."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La carta ganadora\nde mi baraja eres tú."
+          }
         }
       }
     },
@@ -12687,6 +14301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сердце танцует, когда ты\nрядом, и музыка не нужна."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi sitio favorito del\nmundo eres tú."
           }
         }
       }
@@ -12735,6 +14355,12 @@
             "state" : "translated",
             "value" : "Для меня ты — ультра-HD:\nвидно каждую деталь счастья."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un cambio de plan\na mejor: tú."
+          }
         }
       }
     },
@@ -12781,6 +14407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мир ярче, когда улыбаешься ты.\nПроверено на практике."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quien lo tiene todo\ny no se da cuenta eres tú."
           }
         }
       }
@@ -12829,6 +14461,12 @@
             "state" : "translated",
             "value" : "Особо важный гость моей жизни —\nэто ты, VIP навсегда."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi lista de reproducción\nfavorita se llama «tú»."
+          }
         }
       }
     },
@@ -12875,6 +14513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "День превращается в праздник —\nэто магия, имя которой ты."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por ti la vida\ntiene otro color, tú."
           }
         }
       }
@@ -12923,6 +14567,12 @@
             "state" : "translated",
             "value" : "Козырь в моём рукаве —\nэто ты. Лучше джокера."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi evento principal\ndel año eres tú."
+          }
         }
       }
     },
@@ -12969,6 +14619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Настроение растёт до максимума,\nстоит увидеть, что ты онлайн."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi nivel de felicidad\nsube cuando apareces, tú."
           }
         }
       }
@@ -13017,6 +14673,12 @@
             "state" : "translated",
             "value" : "В зале славы моего сердца\nпервая табличка — ты."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi salón de la fama\ntiene un solo nombre: tú."
+          }
         }
       }
     },
@@ -13063,6 +14725,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Жизнь расцвела всеми красками:\nэто ты, цветной фильтр судьбы."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desde que estás tú\nla vida va a todo color."
           }
         }
       }
@@ -13111,6 +14779,12 @@
             "state" : "translated",
             "value" : "Легенда всех времён и народов —\nэто ты. Учебники уже пишутся."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi pase VIP a la felicidad\neres tú."
+          }
         }
       }
     },
@@ -13158,6 +14832,12 @@
             "state" : "translated",
             "value" : "Как в замедленной съёмке: на\nэкране только ты, и всё прекрасно."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mis ganas de verte\nvan en aumento, tú."
+          }
         }
       }
     },
@@ -13204,6 +14884,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Главный приз в моей жизни —\nэто ты. Без лотереи."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si el cariño fuera dinero,\ntú serías mi banco."
           }
         }
       }
