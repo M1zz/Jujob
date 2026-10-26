@@ -34,6 +34,12 @@
             "state" : "translated",
             "value" : "今日彩虹屁"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日のほめちぎり"
+          }
         }
       }
     },
@@ -69,6 +75,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今日彩虹屁"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日のほめちぎり"
           }
         }
       }

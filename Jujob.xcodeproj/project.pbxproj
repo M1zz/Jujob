@@ -309,6 +309,7 @@
 				"en-GB",
 				"zh-Hans",
 				"zh-Hant",
+				ja,
 				Base,
 			);
 			mainGroup = 581A09852A53227A004F2DBA;

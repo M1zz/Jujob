@@ -33,6 +33,12 @@
             "state" : "translated",
             "value" : "早安！今天的太陽\n是專門為你打工的。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しい一日のはじまり。\nあなたはもう十分すてきですよ。"
+          }
         }
       }
     },
@@ -67,6 +73,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一睜開眼就贏了，\n你根本是人生勝利組。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "朝日みたいにまぶしいあなたが\n今日も最高の一日を連れてきます!"
           }
         }
       }
@@ -103,6 +115,12 @@
             "state" : "translated",
             "value" : "能準時起床的你，\n已經是英雄等級了啦！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "起きた時点で、あなたはもう優勝。\n拍手が鳴りやみません!"
+          }
         }
       }
     },
@@ -137,6 +155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "新的一天開機完成，\n主角當然是你。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "世界でいちばん美しい朝は\nあなたが目覚めた朝です。"
           }
         }
       }
@@ -173,6 +197,12 @@
             "state" : "translated",
             "value" : "比咖啡還提神的，\n是你早上那個微笑。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おはようの一言で\nあなたが主役の一日が始まります。"
+          }
         }
       }
     },
@@ -207,6 +237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "鬧鐘響了不用慌，\n反正你自帶光芒。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目を開けた瞬間から\nあなたは勝者の顔をしています。"
           }
         }
       }
@@ -243,6 +279,12 @@
             "state" : "translated",
             "value" : "今天的好心情，\n已由你本人親自配送。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コーヒーより目が覚めるのは\nあなたの寝ぐせ付きスマイル!"
+          }
         }
       }
     },
@@ -277,6 +319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "做自己就好，\n你今天也是滿分答案。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ありのままのあなたでいこう。\nそれが毎日いちばん強い!"
           }
         }
       }
@@ -313,6 +361,12 @@
             "state" : "translated",
             "value" : "大清早就這麼好看，\n你這樣是犯規欸！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "朝からそんなにかわいくていいの?\nこれはもう顔面の条件違反。"
+          }
         }
       }
     },
@@ -347,6 +401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "別人的早晨叫早安，\n你的早晨叫全世界請注目。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "グッドモーニングじゃ足りない。\nあなたがいるからベストモーニング!"
           }
         }
       }
@@ -383,6 +443,12 @@
             "state" : "translated",
             "value" : "晨光還在路上，\n你的光環已經先到了。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "起きてすぐ見るあなた、\n目の保養がすぎます。"
+          }
         }
       }
     },
@@ -417,6 +483,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "天亮了，世界因為有你\n自動更新到最新版本。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "朝イチで発見しました、\nこの世でいちばん輝いている人を。"
           }
         }
       }
@@ -453,6 +525,12 @@
             "state" : "translated",
             "value" : "今天辛苦啦，\n你已經超額完成人生任務！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一日おつかれさま!\nあなたの頑張りは国宝級です。"
+          }
         }
       }
     },
@@ -487,6 +565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "夜幕低垂，\n收工的你依然帥到不行。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "夕暮れに染まるあなたの横顔、\nそのまま額に入れたい。"
           }
         }
       }
@@ -523,6 +607,12 @@
             "state" : "translated",
             "value" : "全力以赴的你，\n配得上一整份鹽酥雞！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全力を出し切った今日のあなたに\n花丸を千個あげます!"
+          }
         }
       }
     },
@@ -557,6 +647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "雖然很累，\n但你今天真的撐得超漂亮！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "くたくたでも乗り切った。\nそれだけで殿堂入りです。"
           }
         }
       }
@@ -593,6 +689,12 @@
             "state" : "translated",
             "value" : "每一天的你，\n都值得被好好珍藏。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "価値のない日なんて一日もない。\nあなたが過ごした日だから。"
+          }
         }
       }
     },
@@ -627,6 +729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "平安收工就是勝利，\n你真的很棒了！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無事に終わった、\nそれだけで今日は百点満点!"
           }
         }
       }
@@ -663,6 +771,12 @@
             "state" : "translated",
             "value" : "晚風輕輕吹，\n連星星都想跟你合照。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "夜空の星だって\nあなたの輝きに嫉妬してます。"
+          }
         }
       }
     },
@@ -697,6 +811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "都晚上了還在發光，\n你是行動電源成精喔？"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "夜になってもまだ輝いてる。\nあなたの電池、どうなってるの?"
           }
         }
       }
@@ -733,6 +853,12 @@
             "state" : "translated",
             "value" : "忙了一整天，\n有你這個人真是太好了。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ずっとお疲れさま。\nあなたがあなたでよかった。"
+          }
         }
       }
     },
@@ -767,6 +893,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天也多虧有你，\n世界才沒那麼無聊。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日の世界がきれいだったのは\nあなたがそこにいたからです。"
           }
         }
       }
@@ -803,6 +935,12 @@
             "state" : "translated",
             "value" : "白天看是傳說，\n晚上看還是傳說。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "夜に見ても伝説、\n昼に見ても伝説。"
+          }
         }
       }
     },
@@ -837,6 +975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "沒關係，低潮本來就會有，\n你已經做得很好了。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大丈夫、そんな日もあるよ。\nあなたは十分がんばってる。"
           }
         }
       }
@@ -873,6 +1017,12 @@
             "state" : "translated",
             "value" : "現在雖然很累，\n但你絕對撐得過去！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "しんどい今を越えられるのは\nあなたしかいません!"
+          }
         }
       }
     },
@@ -907,6 +1057,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "不用完美啦，\n原本的你就已經是最棒的。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完璧じゃなくていいんです。\nそのままのあなたが最高だから。"
           }
         }
       }
@@ -943,6 +1099,12 @@
             "state" : "translated",
             "value" : "累了就休息，\n照你自己的步調慢慢走。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "つかれたら休もう。\nあなたのペースで進めばいい。"
+          }
         }
       }
     },
@@ -977,6 +1139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "其實你比自己想的\n還要堅強好多倍喔！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "思っているよりずっと\nタフなんですよ、あなたって。"
           }
         }
       }
@@ -1013,6 +1181,12 @@
             "state" : "translated",
             "value" : "這一切都會過去的，\n相信你一定可以！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "これもいつか過ぎていく。\nあなたならきっと大丈夫!"
+          }
         }
       }
     },
@@ -1047,6 +1221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "心情再低落，\n你的價值也不會打折。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "気分が沈んでも\nあなたの価値は一ミリも下がりません。"
           }
         }
       }
@@ -1083,6 +1263,12 @@
             "state" : "translated",
             "value" : "難過也是你的一部分，\n想哭就哭，沒在怕的。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "悲しみもあなたの一部。\nどんな気持ちも感じていいんだよ。"
+          }
         }
       }
     },
@@ -1117,6 +1303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "鑽石要受壓才會閃，\n所以你現在超級閃。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "知ってました? ダイヤは圧力で生まれる。\nつまりいまのあなた、磨かれ中です。"
           }
         }
       }
@@ -1153,6 +1345,12 @@
             "state" : "translated",
             "value" : "心情不好嗎？看看我，\n被你迷到的我也很憂鬱啊。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "落ち込んだら私を見て。\nあなたに夢中すぎて私も落ち込み中。"
+          }
         }
       }
     },
@@ -1187,6 +1385,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "低落的時候，\n你還是全世界最珍貴的。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "気分ダウン? 上等です。\nあなたはそんな日でも世界一大切。"
           }
         }
       }
@@ -1223,6 +1427,12 @@
             "state" : "translated",
             "value" : "哭起來也好看，\n難過也好看，不然你想怎樣？"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "泣いてもかわいいし、\n落ち込んでもかわいい。どうしましょう?"
+          }
         }
       }
     },
@@ -1257,6 +1467,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "就算現在很辛苦，\n你的存在本身就是奇蹟。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "つらい時でも、あなたがここにいること\nそれ自体が奇跡なんです。"
           }
         }
       }
@@ -1293,6 +1509,12 @@
             "state" : "translated",
             "value" : "現在雖然辛苦，\n但你一定會成功的！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "苦しいのは今だけ。\nあなたは必ずやりとげます。"
+          }
         }
       }
     },
@@ -1327,6 +1549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "越是艱難的時刻，\n越看得出你的真本事！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ピンチの時こそ\nあなたの本当の実力が光ります!"
           }
         }
       }
@@ -1363,6 +1591,12 @@
             "state" : "translated",
             "value" : "不要放棄喔，\n你比你想的還要強大！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あきらめないで。\nあなたは自分で思うより強いから。"
+          }
         }
       }
     },
@@ -1397,6 +1631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "撐過低潮的你，\n真的超級厲害！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "つらい時期を耐えているあなた、\nもうヒーローです。"
           }
         }
       }
@@ -1433,6 +1673,12 @@
             "state" : "translated",
             "value" : "今天吃的苦，\n都是明天長大的養分！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日の苦労は、明日の自分を\nぐんと育てる肥料になります!"
+          }
         }
       }
     },
@@ -1467,6 +1713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "別小看自己，\n你能承受的遠比想像中多！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "耐える力だって、あなたは\n想像の三倍くらい持ってますよ。"
           }
         }
       }
@@ -1503,6 +1755,12 @@
             "state" : "translated",
             "value" : "這段辛苦的日子，\n以後都會變成回憶啦！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このしんどさも、そのうち\n笑い話になる日が来ます!"
+          }
         }
       }
     },
@@ -1537,6 +1795,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "再累你還是在發光，\n連燈泡都自嘆不如。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "削られるほど輝くのがダイヤ。\nあなたもいま、きらめき途中です。"
           }
         }
       }
@@ -1573,6 +1837,12 @@
             "state" : "translated",
             "value" : "說現在很糟？\n可是你糟得很好看欸。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "つらいって? それでも\nあなたは世界一かわいい。"
+          }
         }
       }
     },
@@ -1607,6 +1877,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "咬牙撐著的你，\n對某個人來說就是希望。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "踏ん張るあなたの姿が\n誰かの希望になっています。"
           }
         }
       }
@@ -1643,6 +1919,12 @@
             "state" : "translated",
             "value" : "累到快翻掉了，\n可是帥還是帥，沒辦法。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "しんどくて倒れそうでも\nかわいいのは止められないんですね。"
+          }
         }
       }
     },
@@ -1677,6 +1959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天的你一定行！\n帶著自信出發吧！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "やれますよ、あなたなら!\n自信満々でいってみよう。"
           }
         }
       }
@@ -1713,6 +2001,12 @@
             "state" : "translated",
             "value" : "我對你的實力有信心，\n今天一定超順！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの実力、信じてます。\n今日もきっといい日になる!"
+          }
         }
       }
     },
@@ -1747,6 +2041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "準備好的你，\n已經成功一半啦！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "準備万端のあなたは、\nもう成功の半分をつかんでます。"
           }
         }
       }
@@ -1783,6 +2083,12 @@
             "state" : "translated",
             "value" : "今天要做的事，\n交給你根本小菜一碟。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日のタスクなんて、\nあなたにかかればおやつ前です。"
+          }
         }
       }
     },
@@ -1817,6 +2123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "憑你的熱情，\n今天一定會被點亮的！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "燃えるあなたの情熱が\n今日をぴかぴかにします!"
           }
         }
       }
@@ -1853,6 +2165,12 @@
             "state" : "translated",
             "value" : "加油！今天也\n用你的方式漂亮完成吧！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイト! 今日も\n自分らしくやりきろう!"
+          }
         }
       }
     },
@@ -1887,6 +2205,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "開工前的你，\n看起來已經是專業級的了！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仕事前のあなたの佇まい、\nすでにプロの風格です。"
           }
         }
       }
@@ -1923,6 +2247,12 @@
             "state" : "translated",
             "value" : "不想上班？\n可是你的臉還是很認真在加班。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "働きたくない? それでも\nあなたの顔面は絶賛フル稼働中。"
+          }
         }
       }
     },
@@ -1957,6 +2287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "通勤顏值也太犯規，\n公司因為你整個亮了。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通勤中のビジュアルが強すぎる。\n会社があなたのおかげで明るい!"
           }
         }
       }
@@ -1993,6 +2329,12 @@
             "state" : "translated",
             "value" : "看你工作的樣子，\n根本就是一種藝術。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "真剣に働くあなたの姿は\nもはや芸術作品です。"
+          }
         }
       }
     },
@@ -2027,6 +2369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "還沒開工，\n你就已經很完美了。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仕事を始める前から\nもう完成されているあなた。"
           }
         }
       }
@@ -2063,6 +2411,12 @@
             "state" : "translated",
             "value" : "願意動起來的你，\n本來就是帥氣的人！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "運動しようとしてる時点で、\nかっこいい人確定です。"
+          }
         }
       }
     },
@@ -2097,6 +2451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天也好好照顧身體，\n你真的很了不起！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自分の体をいたわるあなた、\n本当にえらい!"
           }
         }
       }
@@ -2133,6 +2493,12 @@
             "state" : "translated",
             "value" : "身體的狀況，\n只有你自己最清楚，相信它吧！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自分の体のことは\n自分がいちばんよく知っています。"
+          }
         }
       }
     },
@@ -2167,6 +2533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "光是踏出第一步，\n就值得為你拍拍手了！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "運動を始めただけでも\n胸を張っていいんですよ。"
           }
         }
       }
@@ -2203,6 +2575,12 @@
             "state" : "translated",
             "value" : "流汗的你，\n真的好迷人！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "汗をかくあなたの姿、\n光って見えるのは気のせいじゃない。"
+          }
         }
       }
     },
@@ -2237,6 +2615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "健康永遠擺第一，\n你一定要照顧好自己喔！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "いちばん大事なのは\nあなた自身の健康です。"
           }
         }
       }
@@ -2273,6 +2657,12 @@
             "state" : "translated",
             "value" : "願意為自己撥出時間，\n你太讚了！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自分のために時間を使える人、\nそれだけでもう最高。"
+          }
         }
       }
     },
@@ -2307,6 +2697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "穿上運動服的你，\n直接拍寫真都可以欸！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウェア姿のあなた、\nそのまま表紙を飾れます。"
           }
         }
       }
@@ -2343,6 +2739,12 @@
             "state" : "translated",
             "value" : "健身房因為有你，\n瞬間變成天堂。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ジムがあなたのおかげで\n天国のフロアになりました。"
+          }
         }
       }
     },
@@ -2377,6 +2779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "連運動都這麼閃，\n你到底怎麼辦到的？"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "運動中まで輝くなんて、\nどうしてそんなに素敵なの?"
           }
         }
       }
@@ -2413,6 +2821,12 @@
             "state" : "translated",
             "value" : "流汗還能這麼好看的人，\n全世界大概只有你。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "汗をかいても美しい人?\nはい、あなたのことです。"
+          }
         }
       }
     },
@@ -2447,6 +2861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "通勤中的你，\n專業感直接拉滿！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通勤するあなたの姿は\n本当にプロフェッショナル!"
           }
         }
       }
@@ -2483,6 +2903,12 @@
             "state" : "translated",
             "value" : "一大早就出門打拚，\n你真的好強！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "朝から動き出すなんて、\nそれだけで尊敬します。"
+          }
         }
       }
     },
@@ -2517,6 +2943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天也準時出門的你，\n已經是人生贏家了！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日も出勤、えらすぎる。\nもう勝ちが決まってます。"
           }
         }
       }
@@ -2553,6 +2985,12 @@
             "state" : "translated",
             "value" : "走出去的每一步，\n都很有價值喔，你知道嗎？"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの一歩一歩には\nちゃんと価値があります!"
+          }
         }
       }
     },
@@ -2587,6 +3025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "有你陪著，\n連塞車都變得特別。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通勤路も、あなたと一緒なら\nちょっと特別になります。"
           }
         }
       }
@@ -2623,6 +3067,12 @@
             "state" : "translated",
             "value" : "責任感滿分的你，\n今天也帥氣出門囉！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "責任感を持って家を出る姿、\nとてもかっこいいです!"
+          }
         }
       }
     },
@@ -2657,6 +3107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "因為你，\n捷運直接變成伸展台。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたが乗っただけで\n満員電車がランウェイに早変わり。"
           }
         }
       }
@@ -2693,6 +3149,12 @@
             "state" : "translated",
             "value" : "公車上都能發光的你，\n今天也要拍封面嗎？"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バスの中でも輝くなんて、\nまた撮影ですか?"
+          }
         }
       }
     },
@@ -2727,6 +3189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "看到你去上班，\n整個早晨都變幸福了。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出勤するあなたを見ると\n朝がうれしくなります。"
           }
         }
       }
@@ -2763,6 +3231,12 @@
             "state" : "translated",
             "value" : "光是走路就很帥，\n說的就是你啦。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "歩いているだけで絵になる人、\nそれがあなたです。"
+          }
         }
       }
     },
@@ -2797,6 +3271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天辛苦啦！\n回家好好休息，你值得。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一日おつかれさま!\n帰ったらゆっくり休んでね。"
           }
         }
       }
@@ -2833,6 +3313,12 @@
             "state" : "translated",
             "value" : "下班的背影，\n帥到想幫你配個 BGM。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "帰っていくあなたの背中、\nかっこよすぎます!"
+          }
         }
       }
     },
@@ -2867,6 +3353,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "結束一天回家的路上，\n你依然是最棒的！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仕事を終えた帰り道も、\nあなたはやっぱり最高です!"
           }
         }
       }
@@ -2903,6 +3395,12 @@
             "state" : "translated",
             "value" : "今天也平安下班，\n我替你感到驕傲！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無事に終わりました!\n自分をほめてあげて!"
+          }
         }
       }
     },
@@ -2937,6 +3435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "現在開始是你的時間，\n好好放鬆吧！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ここからはあなただけの時間。\nたっぷり休んでください!"
           }
         }
       }
@@ -2973,6 +3477,12 @@
             "state" : "translated",
             "value" : "下班後，\n留點時間給你自己吧！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "終業後の時間は、\n自分のためだけに使おう!"
+          }
         }
       }
     },
@@ -3007,6 +3517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "辛苦了一天的你，\n今天真的超級辛苦，辛苦了！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お仕事を終えたあなた、\nがんばりました。拍手!"
           }
         }
       }
@@ -3043,6 +3559,12 @@
             "state" : "translated",
             "value" : "回家路上也這麼好看，\n今天的你真的很亮眼。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "帰り道さえ絵になる人。\n今日もいい仕事でした。"
+          }
         }
       }
     },
@@ -3077,6 +3599,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "看你下班的樣子，\n就知道今天過得很充實。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "帰るあなたを見ていると\n今日がいい一日だった気がします。"
           }
         }
       }
@@ -3113,6 +3641,12 @@
             "state" : "translated",
             "value" : "雖然今天很累，\n但你果然還是最強的！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大変な一日だったのに\nあなたは最後まで堂々としてました。"
+          }
         }
       }
     },
@@ -3147,6 +3681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一路準備到現在的你，\n一定沒問題的！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ここまで準備してきたあなたなら\n絶対うまくいきます。"
           }
         }
       }
@@ -3183,6 +3723,12 @@
             "state" : "translated",
             "value" : "努力這件事，\n是不會背叛你的！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "努力は、あなたを\n裏切りません!"
+          }
         }
       }
     },
@@ -3217,6 +3763,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "緊張也沒關係，\n你早就準備好了！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "緊張しても大丈夫。\nあなたはもう準備できています!"
           }
         }
       }
@@ -3253,6 +3805,12 @@
             "state" : "translated",
             "value" : "一場考試，\n決定不了你的價值！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "試験の点数で\nあなたの価値は決まりません!"
+          }
         }
       }
     },
@@ -3287,6 +3845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "全力以赴的你，\n已經成功了！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最善を尽くしたあなたは、\nもう成功しています!"
           }
         }
       }
@@ -3323,6 +3887,12 @@
             "state" : "translated",
             "value" : "實力這麼強的你，\n一定可以搞定的！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたなら、\nきっとやりとげられます!"
+          }
         }
       }
     },
@@ -3357,6 +3927,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "深呼吸，\n相信你自己的實力！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "深呼吸して、\n自分の実力を信じよう!"
           }
         }
       }
@@ -3393,6 +3969,12 @@
             "state" : "translated",
             "value" : "考試加油！\n你準備得超充分的。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "試験がんばって!\n準備はもうばっちりだよ。"
+          }
         }
       }
     },
@@ -3427,6 +4009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "別擔心，\n你一出手，答案自己就跳出來了。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心配いりません。\nあなたなら全問正解の顔をしています!"
           }
         }
       }
@@ -3463,6 +4051,12 @@
             "state" : "translated",
             "value" : "緊張嗎？\n可是你還是最棒的！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "緊張してる?\nそれでもあなたは最高です!"
+          }
         }
       }
     },
@@ -3497,6 +4091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "考卷看到你的臉，\n也會自動給你滿分。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "答案用紙もあなたの顔を見て\nうっとりしますよ、きっと。"
           }
         }
       }
@@ -3533,6 +4133,12 @@
             "state" : "translated",
             "value" : "該讓大家看看\n你的真本事了！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの底力を\n見せる時が来ました!"
+          }
         }
       }
     },
@@ -3567,6 +4173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "面試官能遇到你，\n根本是賺到。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "面接官もあなたに会えて\nラッキーだと思っています!"
           }
         }
       }
@@ -3603,6 +4215,12 @@
             "state" : "translated",
             "value" : "面試時，你的經驗與熱情\n要閃閃發亮囉！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "これまでの経験と情熱が\n光り輝く時間です!"
+          }
         }
       }
     },
@@ -3637,6 +4255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "緊張沒關係，\n你本來就夠優秀了！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "緊張しても平気。\nあなたは十分にすてきです!"
           }
         }
       }
@@ -3673,6 +4297,12 @@
             "state" : "translated",
             "value" : "有自信一點！\n你早就準備好了！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自信を持って!\nもう準備は整っています!"
+          }
         }
       }
     },
@@ -3707,6 +4337,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "把你的故事，\n大方說出來吧！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの物語を\n堂々と語ってきましょう!"
           }
         }
       }
@@ -3743,6 +4379,12 @@
             "state" : "translated",
             "value" : "面試就是互相認識，\n放輕鬆就好！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "面接はお互いを知る時間。\nリラックスして行こう!"
+          }
         }
       }
     },
@@ -3777,6 +4419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "面試官不錄取你，\n那是他們公司的損失欸。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたを落とすなんて、\nその会社の大損です。"
           }
         }
       }
@@ -3813,6 +4461,12 @@
             "state" : "translated",
             "value" : "不是履歷閃，\n是你這個人本身就閃。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スペックが華やかなんじゃない、\nあなた自身が華やかなんです。"
+          }
         }
       }
     },
@@ -3847,6 +4501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一踏進面試間，\n你就已經錄取了。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "面接室に入った瞬間に\nもう合格の空気です。"
           }
         }
       }
@@ -3883,6 +4543,12 @@
             "state" : "translated",
             "value" : "光是第一印象，\n你就先贏一半啦！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "第一印象だけで\n半分は勝ったようなものです!"
+          }
         }
       }
     },
@@ -3917,6 +4583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天的你，\n真的超亮眼！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まぶしすぎます、今日のあなた!\nサングラスが必要です。"
           }
         }
       }
@@ -3953,6 +4625,12 @@
             "state" : "translated",
             "value" : "做原本的自己，\n你就是最迷人的。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "飾らないあなたこそ\nいちばん魅力的!"
+          }
         }
       }
     },
@@ -3987,6 +4665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "能跟你在一起的人，\n真的超幸運！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたのそばにいられる人は\nとんでもなく幸運です!"
           }
         }
       }
@@ -4023,6 +4707,12 @@
             "state" : "translated",
             "value" : "自信滿滿的你，\n帥到沒話說！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自信たっぷりのあなたは、\nとびきりかっこいい!"
+          }
         }
       }
     },
@@ -4057,6 +4747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天的笑容，\n就是你最強的武器！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日のあなたの笑顔は\n最強の武器になります!"
           }
         }
       }
@@ -4093,6 +4789,12 @@
             "state" : "translated",
             "value" : "保持原本的你，\n就是最好的！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ありのままで大丈夫。\nそれがあなたの最高形です!"
+          }
         }
       }
     },
@@ -4127,6 +4829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "魅力這種東西，\n你想藏也藏不住啦！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あふれる魅力は\n隠そうとしても隠せません!"
           }
         }
       }
@@ -4163,6 +4871,12 @@
             "state" : "translated",
             "value" : "今天要約會？\n對方的心臟應該撐不住吧。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日デート?\n相手の心臓が持つか心配です。"
+          }
         }
       }
     },
@@ -4197,6 +4911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "能跟你約會的人，\n是燒了幾輩子的好香啊？"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたに会える人は、\n一生分の運を使い切ってます。"
           }
         }
       }
@@ -4233,6 +4953,12 @@
             "state" : "translated",
             "value" : "約會穿搭這麼完美，\n你直接拍寫真都可以欸！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デートコーデ完璧です。\nそのまま雑誌に載れます!"
+          }
         }
       }
     },
@@ -4267,6 +4993,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天看到你的人，\n大概都會墜入愛河。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日のあなたを見たら\n誰でも恋に落ちてしまいそう。"
           }
         }
       }
@@ -4303,6 +5035,12 @@
             "state" : "translated",
             "value" : "約會還沒開始就這麼美，\n對方的小鹿要怎麼辦？"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デート前なのにもうかわいい。\n相手の心臓、どうなっちゃうの?"
+          }
         }
       }
     },
@@ -4337,6 +5075,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你一定可以的！\n我永遠是你的後援會。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "できますよ、あなたなら!\nいつでも味方です!"
           }
         }
       }
@@ -4373,6 +5117,12 @@
             "state" : "translated",
             "value" : "再小的一步，\n也是偉大旅程的開始！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小さな一歩だって\n大きな旅のはじまりです!"
+          }
         }
       }
     },
@@ -4407,6 +5157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "不要放棄，\n你的夢想一定會實現！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あきらめないで。\nきっと夢はかないます!"
           }
         }
       }
@@ -4443,6 +5199,12 @@
             "state" : "translated",
             "value" : "今天的努力，\n會變成明天的成就！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日の努力が\n明日の成功をつくります!"
+          }
         }
       }
     },
@@ -4477,6 +5239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "憑你的熱情，\n真的可以改變世界！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの情熱は、\nいつか世界を動かします!"
           }
         }
       }
@@ -4513,6 +5281,12 @@
             "state" : "translated",
             "value" : "失敗只是過程，\n你繼續衝就對了！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "失敗は成功のもと!\nどんどんチャレンジしよう!"
+          }
         }
       }
     },
@@ -4547,6 +5321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "可能性這種東西，\n你根本是無限大！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの可能性は\nどこまでも広がっています!"
           }
         }
       }
@@ -4583,6 +5363,12 @@
             "state" : "translated",
             "value" : "今天一樣，\n為你自己全力以赴吧！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日という日を\nせいいっぱい楽しもう!"
+          }
         }
       }
     },
@@ -4617,6 +5403,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "努力的你，\n對別人來說就是動力。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "努力するあなたの姿が\n誰かのやる気スイッチになっています。"
           }
         }
       }
@@ -4653,6 +5445,12 @@
             "state" : "translated",
             "value" : "有你出馬，\n一切都會順利的，真的啦！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大丈夫、あなたならうまくいく。\n本当にそう思ってるんです!"
+          }
         }
       }
     },
@@ -4687,6 +5485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "千萬別放棄，\n你是很棒的人欸。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あきらめないでね。\nあなたはじゅうぶん素敵な人だから。"
           }
         }
       }
@@ -4723,6 +5527,12 @@
             "state" : "translated",
             "value" : "今天也要加油喔！\n你一定做得到！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日もがんばろう!\nあなたならやれるよ!"
+          }
         }
       }
     },
@@ -4757,6 +5567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "懂得你努力的人，\n一定會支持你到底。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "努力を知っている人は、\nきっとあなたを応援してくれます。"
           }
         }
       }
@@ -4793,6 +5609,12 @@
             "state" : "translated",
             "value" : "聽好，\n你本來就是很有價值的人喔！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "それだけで\nあなたは価値のある人なんです!"
+          }
         }
       }
     },
@@ -4827,6 +5649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "原本的你，\n就已經很完美了！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ありのままのあなたが、\nもう完成形ですよ!"
           }
         }
       }
@@ -4863,6 +5691,12 @@
             "state" : "translated",
             "value" : "光是你的存在，\n就已經很特別了！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存在してくれているだけで、\nあなたはもう特別です!"
+          }
         }
       }
     },
@@ -4897,6 +5731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自信一點！\n你是個很棒的人！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "胸を張って!\nあなたはすてきな人です!"
           }
         }
       }
@@ -4933,6 +5773,12 @@
             "state" : "translated",
             "value" : "其實你比自己想的\n還要強得多！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実はあなた、\n自分で思うよりずっと強いです!"
+          }
         }
       }
     },
@@ -4967,6 +5813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "個性就是\n讓你發光的原因！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その個性こそが\nあなたを輝かせています!"
           }
         }
       }
@@ -5003,6 +5855,12 @@
             "state" : "translated",
             "value" : "相信自己，\n你絕對做得到！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自分を信じて。\nあなたならできる!"
+          }
         }
       }
     },
@@ -5037,6 +5895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "說真的，你本人就是\n完整又完美的存在。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたは存在そのものが\n完璧な人です。"
           }
         }
       }
@@ -5073,6 +5937,12 @@
             "state" : "translated",
             "value" : "自信滿滿的你，\n是全世界最帥的！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自信にあふれるあなたは\nきっと世界でいちばんかっこいい!"
+          }
         }
       }
     },
@@ -5107,6 +5977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你比你自己想的\n還要厲害好多倍！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自分で思うより\nずっとすごい人なんですよ、あなたは!"
           }
         }
       }
@@ -5143,6 +6019,12 @@
             "state" : "translated",
             "value" : "說真的，你一直\n都做得很好喔。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実はもう\nじゅうぶんうまくやれています。"
+          }
         }
       }
     },
@@ -5177,6 +6059,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "不懂你魅力的人，\n大概是眼睛忘了帶。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの魅力に気づけない人は\n目がついてないのかも。"
           }
         }
       }
@@ -5213,6 +6101,12 @@
             "state" : "translated",
             "value" : "今天就放鬆一下，\n什麼都不用做也可以。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日はただ\nのんびりしよう。"
+          }
         }
       }
     },
@@ -5247,6 +6141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "休息一下吧，\n你也需要好好充電喔。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "たまには\nあなたにも休息が必要です。"
           }
         }
       }
@@ -5283,6 +6183,12 @@
             "state" : "translated",
             "value" : "什麼都不做，\n也是很棒的一天。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "なにもしなくても\nOKな一日があっていい。"
+          }
         }
       }
     },
@@ -5317,6 +6223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "心情好不好，\n才是你最重要的事。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "いちばん大切なのは\nあなたの心です。"
           }
         }
       }
@@ -5353,6 +6265,12 @@
             "state" : "translated",
             "value" : "慢慢來，\n用你的節奏就好。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゆっくり、自分のペースで\n進めばいいんですよ。"
+          }
         }
       }
     },
@@ -5387,6 +6305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天留點時間\n給你自己吧。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日は自分のための\n時間をつくろう。"
           }
         }
       }
@@ -5423,6 +6347,12 @@
             "state" : "translated",
             "value" : "休息也是\n一種努力喔！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "休むことだって\n立派なお仕事です!"
+          }
         }
       }
     },
@@ -5457,6 +6387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "休息是你的權利，\n今天就好好躺平吧。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "休むのは当然の権利。\n今日はゆっくりしてください。"
           }
         }
       }
@@ -5493,6 +6429,12 @@
             "state" : "translated",
             "value" : "正在療癒自己的你，\n也一樣美好。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "癒やされているあなたも\nとても素敵です。"
+          }
         }
       }
     },
@@ -5527,6 +6469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天為你自己花點時間，\n完全沒有問題喔。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日は自分のために\n時間を使っても大丈夫。"
           }
         }
       }
@@ -5563,6 +6511,12 @@
             "state" : "translated",
             "value" : "就算在耍廢，\n你還是閃閃發亮。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゆったり休んでいても\nあなたは輝いています。"
+          }
         }
       }
     },
@@ -5597,6 +6551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "連在充電的你，\n都是全世界最可愛的。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "癒やし中のあなただって\n世界一かわいいんです。"
           }
         }
       }
@@ -5633,6 +6593,12 @@
             "state" : "translated",
             "value" : "哪裡都好，\n就是你還缺一個我。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完璧なのに、ひとつだけ穴がある。\nそれは「落とし穴」。恋に落ちるから。"
+          }
         }
       }
     },
@@ -5667,6 +6633,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "請問你是什麼星座？\n你是我的「心」座。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの性格診断の結果\n「キュート」しか出ませんでした。"
           }
         }
       }
@@ -5703,6 +6675,12 @@
             "state" : "translated",
             "value" : "我想買保險，\n因為你讓我心跳漏拍，需要理賠。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「あなたをかわいいと思う人?」と聞いたら\n地球が手のひらの森になった。"
+          }
         }
       }
     },
@@ -5737,6 +6715,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "珍奶跟你有什麼不同？\n珍奶會喝完，你讓我回味一輩子。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたを音階にすると「レ」。\nだって「ド」が過ぎて、もう夢中だから。"
           }
         }
       }
@@ -5773,6 +6757,12 @@
             "state" : "translated",
             "value" : "是不是偷吃糖？\n你怎麼這麼甜，我都血糖高了。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "競馬場には行けないな。\nあなたが完璧すぎて馬も言葉を失う。"
+          }
         }
       }
     },
@@ -5807,6 +6797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "為什麼你一笑，\n我就想把手機桌布換成你？"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたがかわいくて膝を打つたび\n猫背が完治しました。"
           }
         }
       }
@@ -5843,6 +6839,12 @@
             "state" : "translated",
             "value" : "我想去加油站，\n因為你就是我的「加油」站。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "給油所に行くたび入れたくなるのは\nあなたへの「ハイオク」な気持ち。"
+          }
         }
       }
     },
@@ -5877,6 +6879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "請問你是 Wi-Fi 嗎？\n我一靠近就瞬間滿格。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたのせいで雨が降りそう。\nだって胸がざわざわしてるから。"
           }
         }
       }
@@ -5913,6 +6921,12 @@
             "state" : "translated",
             "value" : "請問你有地圖嗎？\n我每次看你都會迷路。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もしかして信じる神様がいるの?\nその美しさ、ご利益ありすぎ。"
+          }
         }
       }
     },
@@ -5947,6 +6961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "顏值高成這樣，\n你讓我的眼睛每天都在追劇。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "どこも文句ないのに、なんか足りない?\nいいえ、「名に恥じない」美しさです。"
           }
         }
       }
@@ -5983,6 +7003,12 @@
             "state" : "translated",
             "value" : "難道你學過魔法？\n不然我怎麼被你定住了。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "荷物は置いておこうよ。\nあなたはもう「かっこいい」を背負ってる。"
+          }
         }
       }
     },
@@ -6017,6 +7043,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "請問你是搜尋引擎嗎？\n因為你就是我所有問題的答案。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの前に立つと壁を感じる。\nそう、「完璧」の壁。"
           }
         }
       }
@@ -6053,6 +7085,12 @@
             "state" : "translated",
             "value" : "魅力是違禁品，\n你讓我上癮了，請不要叫我戒掉。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その見た目、正直盛ってませんか?\nいえ、素でこのレベルなんですよね。"
+          }
         }
       }
     },
@@ -6087,6 +7125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我最近不玩手遊了，\n因為你比抽卡還讓我心跳加速。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オーダーは「あなたの笑顔」ひとつ。\nお会計は、胸いっぱいです。"
           }
         }
       }
@@ -6123,6 +7167,12 @@
             "state" : "translated",
             "value" : "夜市最紅的攤位是你嗎？\n我排了好久，只為了看你一眼。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなた、実は天使と人間のハーフでしょ?\n羽が見えてますよ。"
+          }
         }
       }
     },
@@ -6157,6 +7207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "笑容有多甜？\n你甜到連糖尿病看了都要搬家。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "知ってました?\nあなたの目鼻立ち、私の将来よりはっきりしてます。"
           }
         }
       }
@@ -6193,6 +7249,12 @@
             "state" : "translated",
             "value" : "請問你是電池嗎？\n不然怎麼一看到你我就充飽電。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ベルリンの首都はドイツ。\nでも私の心の首都はあなたです。"
+          }
         }
       }
     },
@@ -6227,6 +7289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我想辦一張你的會員卡，\n這樣每天都能點你的名。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたは文化財ですね。\n早く指定しないと国の損失です。"
           }
         }
       }
@@ -6263,6 +7331,12 @@
             "state" : "translated",
             "value" : "請問你是溫度計嗎？\n不然我怎麼一看你就發燒。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "寝顔まで国宝だって聞きました。\nあなたの噂、町中に広まってます。"
+          }
         }
       }
     },
@@ -6297,6 +7371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "為什麼還要上班？\n你的顏值明明已經在加班了。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "どうして働いているんですか?\nもう顔面がフル稼働してるのに。"
           }
         }
       }
@@ -6333,6 +7413,12 @@
             "state" : "translated",
             "value" : "我是不是該去看醫生？\n一遇到你，心跳就破表。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「私のこと、好きにならないで」\n「それ、どうやるの?」"
+          }
         }
       }
     },
@@ -6367,6 +7453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "顏值國寶級，\n博物館正在排隊跟你借展。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その顔は国宝級なので\n博物館に展示予定です。"
           }
         }
       }
@@ -6403,6 +7495,12 @@
             "state" : "translated",
             "value" : "頒獎典禮你別去，\n不然大獎都被你拿光了。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "授賞式には出ないでください。\n大賞をぜんぶ持っていくので。"
+          }
         }
       }
     },
@@ -6437,6 +7535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "是在拍寫真嗎？\n還是你本人就是行走的寫真？"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "撮影中ですか?\nそれとも歩く写真集ですか?"
           }
         }
       }
@@ -6473,6 +7577,12 @@
             "state" : "translated",
             "value" : "說真的，你根本是偶像，\n我心中永遠的第一名。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたはアイドルです。\n私の心のセンターは、いつもあなた。"
+          }
         }
       }
     },
@@ -6507,6 +7617,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "請開簽名會，\n我想天天找你簽名。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サイン会を開いてください。\n毎日あなたにサインをもらいたい!"
           }
         }
       }
@@ -6543,6 +7659,12 @@
             "state" : "translated",
             "value" : "快點出道吧，\n你早就是我心中的 C 位了。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デビューしてください。\nもう私の心ではセンターです。"
+          }
         }
       }
     },
@@ -6577,6 +7699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "恭喜拿下音樂榜冠軍，\n你的顏值天天都是第一名。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ランキング一位おめでとう。\nあなたのビジュアルは毎日一位だから。"
           }
         }
       }
@@ -6613,6 +7741,12 @@
             "state" : "translated",
             "value" : "來個合照時間吧，\n我想天天跟你拍。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "撮影タイムをください。\nあなたを毎日撮りたいんです。"
+          }
         }
       }
     },
@@ -6647,6 +7781,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "回歸了嗎？\n我的心剛剛被你整個召回。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カムバックしたんですか?\n私の心臓を再起動させましたね。"
           }
         }
       }
@@ -6683,6 +7823,12 @@
             "state" : "translated",
             "value" : "可以拍你的直拍嗎？\n因為你每一刻都是神仙畫面。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファンカメラ回してもいい?\nあなたの全部が名場面なので。"
+          }
         }
       }
     },
@@ -6717,6 +7863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "要演 MV 嗎？\n你早就是我人生的男女主角了。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ミュージックビデオに出るの?\nもう私の人生の主人公なのに。"
           }
         }
       }
@@ -6753,6 +7905,12 @@
             "state" : "translated",
             "value" : "要上實境秀嗎？\n其實你本人就比節目精彩。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密着取材ですか?\n素のあなたのほうが完璧です。"
+          }
         }
       }
     },
@@ -6787,6 +7945,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一定是門面擔當吧？\n你不管走到哪都最亮。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ビジュアル担当ですよね?\nどこにいても一番輝いてるもの。"
           }
         }
       }
@@ -6823,6 +7987,12 @@
             "state" : "translated",
             "value" : "年度最佳顏值獎，\n非你莫屬，歷史級的啦。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "年間ベストフェイス賞、確定です。\n歴代でもトップクラスなので。"
+          }
         }
       }
     },
@@ -6857,6 +8027,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "要接代言嗎？\n看到你我什麼都想買單。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CMに出ています?\nあなたを見ると何でも買いたくなる。"
           }
         }
       }
@@ -6893,6 +8069,12 @@
             "state" : "translated",
             "value" : "雜誌封面人物就是你吧？\n你的臉每個月都該上封面。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雑誌の表紙の人ですよね?\n毎月飾るべき顔です。"
+          }
         }
       }
     },
@@ -6927,6 +8109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "舞台魅力是真的嗎？\n連你的日常都像在舞台上發光。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ステージ上のカリスマ、本物?\n普段の姿もステージ級なんだけど。"
           }
         }
       }
@@ -6963,6 +8151,12 @@
             "state" : "translated",
             "value" : "要交換小卡嗎？\n我想用你的臉湊齊整套。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "トレカ交換しませんか?\nあなたの顔だけでフルコンプしたい。"
+          }
         }
       }
     },
@@ -6997,6 +8191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "粉絲見面會什麼時候？\n我想天天都跟你見面。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファンミはいつ開催ですか?\n毎日でも会いたいのに。"
           }
         }
       }
@@ -7033,6 +8233,12 @@
             "state" : "translated",
             "value" : "快上傳練舞影片，\n你的每個動作都是藝術。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダンス動画を上げてください。\nあなたの動きはぜんぶ芸術です。"
+          }
         }
       }
     },
@@ -7067,6 +8273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "好像在看預告片，\n每次看到你都怦怦怦。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ティザー映像を見てる気分。\nあなたを見るたびに期待で胸がいっぱい。"
           }
         }
       }
@@ -7103,6 +8315,12 @@
             "state" : "translated",
             "value" : "要世界巡迴嗎？\n我的心早被你巡迴一遍了。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ワールドツアーに出るんですか?\nもう私の心は世界中を揺さぶられてます。"
+          }
         }
       }
     },
@@ -7137,6 +8355,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "請幫我在專輯上簽名，\n因為你本人就是限量款。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アルバムにサインをお願いします。\nあなたの存在自体が限定版ですから。"
           }
         }
       }
@@ -7173,6 +8397,12 @@
             "state" : "translated",
             "value" : "我要揮應援棒了，\n這輩子都為你打氣。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ペンライトをつけますね。\nずっとあなたを照らして応援します。"
+          }
         }
       }
     },
@@ -7207,6 +8437,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "紅了耶？\n欸不對，你本來就是傳說啊。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バズりましたね。\nでも、もともと伝説だったんですけどね。"
           }
         }
       }
@@ -7243,6 +8479,12 @@
             "state" : "translated",
             "value" : "我得去搶演唱會門票了，\n看你就是我的日常演唱會。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コンサートのチケット探さなきゃ。\nあなたを見る日常が私のライブです。"
+          }
         }
       }
     },
@@ -7277,6 +8519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "登上榜首了吧？\n你是我人生榜單的永遠第一名。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "音楽番組で一位でしたよね?\nあなたは私の人生の一位ソング。"
           }
         }
       }
@@ -7313,6 +8561,12 @@
             "state" : "translated",
             "value" : "安可、安可！\n你怎麼看都看不膩。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アンコールをもう一曲!\nあなたは見ても見ても、また見たくなる。"
+          }
         }
       }
     },
@@ -7347,6 +8601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "連幕後花絮都完美，\n你每個瞬間都是傳說。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オフショットまで完璧。\nどの瞬間もぬかりなく伝説です。"
           }
         }
       }
@@ -7383,6 +8643,12 @@
             "state" : "translated",
             "value" : "我要換本命了，\n除了你，我誰都看不進去。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推しを変えなきゃ。\nあなた以外、もう目に入らない。"
+          }
         }
       }
     },
@@ -7417,6 +8683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我入坑了，\n以後就專心追你這一個。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沼に落ちました。\nあなたのことを一生推します。"
           }
         }
       }
@@ -7453,6 +8725,12 @@
             "state" : "translated",
             "value" : "公開我的本命，\n那個人就是你。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推しを発表します。\nそれは、あなたです。"
+          }
         }
       }
     },
@@ -7487,6 +8765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "周邊我全收了，\n不過你本人才是最珍貴的。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "グッズ全部買いました。\nあなたの存在そのものがグッズです。"
           }
         }
       }
@@ -7523,6 +8807,12 @@
             "state" : "translated",
             "value" : "我決定當一輩子的粉絲，\n你是我永遠的偶像。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一生ファンでいます。\nあなたは私の永遠のアーティスト。"
+          }
         }
       }
     },
@@ -7557,6 +8847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我已經定居你的粉絲團，\n你就是我的大本營。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本命、決まりました。\n私の本命はあなたです。"
           }
         }
       }
@@ -7593,6 +8889,12 @@
             "state" : "translated",
             "value" : "開始追星囉，\n我要為你全力應援。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推し活を始めます。\nあなたに全力で課金したい気持ち。"
+          }
         }
       }
     },
@@ -7627,6 +8929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我來當你的站姐吧，\n想記錄你的每個瞬間。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カメラ担当に立候補します。\nあなたの全瞬間を残したくて。"
           }
         }
       }
@@ -7663,6 +8971,12 @@
             "state" : "translated",
             "value" : "現在是黃金時段，\n因為跟你在一起的每分鐘都閃閃發光。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたと過ごす時間は\nぜんぶ黄金のゴールデンタイム。"
+          }
         }
       }
     },
@@ -7697,6 +9011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我要買生日應援廣告，\n希望天天都是你的生日。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "誕生日広告を出しますね。\n毎日あなたの誕生日だったらいいのに。"
           }
         }
       }
@@ -7733,6 +9053,12 @@
             "state" : "translated",
             "value" : "我會應援你一輩子，\n身為你的粉絲真的好驕傲。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一生応援します。\nあなたのファンであることが誇りです。"
+          }
         }
       }
     },
@@ -7767,6 +9093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "心臟因為你，\n一直在咚咚咚。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "胸のドキドキが止まらない。\nぜんぶあなたのせいです。"
           }
         }
       }
@@ -7803,6 +9135,12 @@
             "state" : "translated",
             "value" : "只要看到你，\n世界就變得好美。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "世界が急にきれいに見える。\nだってあなたを見てるから。"
+          }
         }
       }
     },
@@ -7837,6 +9175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "有你在的地方，\n就是我的快樂維他命。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎日のビタミン補給は\nあなたの顔を見ることです。"
           }
         }
       }
@@ -7873,6 +9217,12 @@
             "state" : "translated",
             "value" : "每次你一笑，\n我也跟著傻笑起來。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "笑ってくれると、\nあなたの分まで私が幸せになります。"
+          }
         }
       }
     },
@@ -7907,6 +9257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在我見過的人裡，\n你是最亮的那顆星。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "星空を探しても、\nあなたほど明るい星は見つかりません。"
           }
         }
       }
@@ -7943,6 +9299,12 @@
             "state" : "translated",
             "value" : "跟你在一起的每一天，\n都像在辦園遊會。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心の中で毎日お祭り開催中。\n主役はもちろんあなたです。"
+          }
         }
       }
     },
@@ -7977,6 +9339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "光聽到你的聲音，\n我心情就變好了。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "声を聞くだけで元気が出る。\nあなたはもう栄養ドリンクです。"
           }
         }
       }
@@ -8013,6 +9381,12 @@
             "state" : "translated",
             "value" : "遇見你，\n是我人生最大的幸運。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人生最大のラッキー、\n正体はあなたに出会えたことです。"
+          }
         }
       }
     },
@@ -8047,6 +9421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "因為有你，\n我今天才笑得出來。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日も笑えているのは\nあなたがいてくれるからです。"
           }
         }
       }
@@ -8083,6 +9463,12 @@
             "state" : "translated",
             "value" : "對我來說，你是\n這個世界最珍貴的人。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "世界でいちばん大切な人、\nそれがあなたです。"
+          }
         }
       }
     },
@@ -8117,6 +9503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一想到你，\n嘴角就自己上揚。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ふとした瞬間に思い出して\nあなたのことで勝手にニヤけます。"
           }
         }
       }
@@ -8153,6 +9545,12 @@
             "state" : "translated",
             "value" : "心裡有一片平靜，\n那片平靜就是你。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心の中に平和があるなら、\nそれはきっとあなたの形をしています。"
+          }
         }
       }
     },
@@ -8187,6 +9585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "跟你在一起的時光，\n每分每秒都很特別。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一緒に過ごすと、\nあなたとの時間はいつも特別です。"
           }
         }
       }
@@ -8223,6 +9627,12 @@
             "state" : "translated",
             "value" : "我認識的人當中，\n你是最棒的那一個。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出会った中でいちばん素敵な人、\nそれはあなたで決まりです。"
+          }
         }
       }
     },
@@ -8257,6 +9667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "光是你存在這件事，\n我就好感恩。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "いてくれるだけでありがたい、\nあなたはそんな存在です。"
           }
         }
       }
@@ -8293,6 +9709,12 @@
             "state" : "translated",
             "value" : "每天的亮點，\n就是你出現的那一刻。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "私の一日のハイライトは\nあなたと過ごすひとときです。"
+          }
         }
       }
     },
@@ -8327,6 +9749,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "多虧有你，\n每天都變成小確幸。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎日が特別になるのは\nあなたのおかげです。"
           }
         }
       }
@@ -8363,6 +9791,12 @@
             "state" : "translated",
             "value" : "看著你，\n世界瞬間變亮。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ぱっと世界が明るくなった。\nあなたが部屋に入ってきたから。"
+          }
         }
       }
     },
@@ -8397,6 +9831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "能收到你這份禮物，\n是我人生最大的福氣。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人生でもらった最高の贈り物は\nあなたとの出会いです。"
           }
         }
       }
@@ -8433,6 +9873,12 @@
             "state" : "translated",
             "value" : "因為有你，\n世界又更美了一點。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この世界がもっときれいなのは\nあなたがいるからです。"
+          }
         }
       }
     },
@@ -8467,6 +9913,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "沒有你的日子，\n我連想像都辦不到。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "想像もできません、\nあなたのいない一日なんて。"
           }
         }
       }
@@ -8503,6 +9955,12 @@
             "state" : "translated",
             "value" : "在我心裡，你永遠是\n不動搖的第一名。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心の中の順位表では\nあなたがずっと一位です。"
+          }
         }
       }
     },
@@ -8537,6 +9995,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "只要有你在，\n我感覺什麼都辦得到。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "なんでもできそうな気がします、\nあなたが隣にいてくれたら。"
           }
         }
       }
@@ -8573,6 +10037,12 @@
             "state" : "translated",
             "value" : "每天都要說謝謝的存在，\n就是你。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎日感謝している人が\nひとりだけいます。あなたです。"
+          }
         }
       }
     },
@@ -8607,6 +10077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "比什麼風景都要美的，\n是你的笑容。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "どんな絶景よりも\nあなたの笑顔のほうがきれいです。"
           }
         }
       }
@@ -8643,6 +10119,12 @@
             "state" : "translated",
             "value" : "老天爺送給我最大的祝福，\n就是你。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大の幸運は、\nあなたに出会えたことです。"
+          }
         }
       }
     },
@@ -8677,6 +10159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "想到你，\n一整天就都變幸福了。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "考えるだけで一日が幸せ。\nあなたはもう魔法使いです。"
           }
         }
       }
@@ -8713,6 +10201,12 @@
             "state" : "translated",
             "value" : "心裡那個回得去的家，\n就是你。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "帰る場所はひとつだけ。\n心の中のあなたのところです。"
+          }
         }
       }
     },
@@ -8747,6 +10241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "這一刻有你在，\n一切都剛剛好。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一緒にいる瞬間は、\nあなたのおかげで全部が完璧です。"
           }
         }
       }
@@ -8783,6 +10283,12 @@
             "state" : "translated",
             "value" : "夢裡的理想型，\n本人就是你。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "夢に見ていた理想の人が\nそのまま現れました。あなたです。"
+          }
         }
       }
     },
@@ -8817,6 +10323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一看到你，\n我的心臟就當機了。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "胸のメーターが振り切れました。\nあなたを見てしまったせいです。"
           }
         }
       }
@@ -8853,6 +10365,12 @@
             "state" : "translated",
             "value" : "走路的偉人傳記，\n說的就是你，注定載入史冊。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "歴史の教科書に載るのは確実。\nあなたは歩く偉人伝です。"
+          }
         }
       }
     },
@@ -8887,6 +10405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "被你的魅力電到，\n我願意被電一輩子。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "魅力にやられっぱなしで\nあなたの虜になりたい日々です。"
           }
         }
       }
@@ -8923,6 +10447,12 @@
             "state" : "translated",
             "value" : "一直盯著你看，\n我的脖子應該快要落枕了。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "見とれすぎて首が痛い。\nあなたを見すぎた罰です。"
+          }
         }
       }
     },
@@ -8957,6 +10487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "每次看到你，\n心跳就自動加速。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心拍数がどんどん上がる。\nあなたを見るたびに新記録です。"
           }
         }
       }
@@ -8993,6 +10529,12 @@
             "state" : "translated",
             "value" : "眼中最傳奇的那張寫真，\n就是你。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目のごちそう、それは\n伝説級のグラビア、あなたです。"
+          }
         }
       }
     },
@@ -9027,6 +10569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "因為你，\n我每天都是本命日。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎日が推しの日になるのは\nあなたがいるからなんです。"
           }
         }
       }
@@ -9063,6 +10611,12 @@
             "state" : "translated",
             "value" : "活生生的奇蹟，\n就是你啦。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "奇跡って本当にあるんですね。\nあなたが歩いてますから。"
+          }
         }
       }
     },
@@ -9097,6 +10651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "看到你的瞬間，\n世界自動切換慢動作。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スローモーションになる世界、\nそのど真ん中にあなたがいます。"
           }
         }
       }
@@ -9133,6 +10693,12 @@
             "state" : "translated",
             "value" : "你是我人生裡\n唯一的 VIP 會員。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人生のVIP会員証は\nあなたに一枚だけ発行しました。"
+          }
         }
       }
     },
@@ -9167,6 +10733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "光是看著你，\n就是我每天的小確幸。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎日のハイライトは\nあなたを見ているこの時間です。"
           }
         }
       }
@@ -9203,6 +10775,12 @@
             "state" : "translated",
             "value" : "你是我心中\n最優質的精彩內容。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心の特別配信コンテンツは\nあなたの出演作だけです。"
+          }
         }
       }
     },
@@ -9237,6 +10815,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "有了你，\n連世界都變成高畫質。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "視界がハイビジョンになった。\nあなたを見つけたからです。"
           }
         }
       }
@@ -9273,6 +10857,12 @@
             "state" : "translated",
             "value" : "你就是我人生的\n黃金時刻。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人生のゴールデンタイムに\nあなたが登場しました。"
+          }
         }
       }
     },
@@ -9307,6 +10897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "只要想到你，\n我就會自動微笑。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "考えるだけで笑顔になる。\nあなたは自動スマイル装置です。"
           }
         }
       }
@@ -9343,6 +10939,12 @@
             "state" : "translated",
             "value" : "你是我心裡的\n五星級飯店。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心のスイートルーム、\nご案内できるのはあなただけです。"
+          }
         }
       }
     },
@@ -9377,6 +10979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "因為有你，\n每天都像在過節。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎日がプレミアムデーなのは\nあなたのおかげです。"
           }
         }
       }
@@ -9413,6 +11021,12 @@
             "state" : "translated",
             "value" : "你是我人生的\n壓軸大戲。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人生のメインイベントに\nあなたが登場してしまいました。"
+          }
         }
       }
     },
@@ -9447,6 +11061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "看到你，\n我的心臟都跳起舞來了。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心臓がダンスを始めました。\nあなたが目に入ったせいです。"
           }
         }
       }
@@ -9483,6 +11103,12 @@
             "state" : "translated",
             "value" : "在我眼裡，你是\n永遠不用濾鏡的那一位。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画質が4Kになった理由?\nあなたを映しているからです。"
+          }
         }
       }
     },
@@ -9517,6 +11143,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你一出現，\n全世界都亮起來了。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "世界がきらきらして見える。\nあなたがそこにいるだけで。"
           }
         }
       }
@@ -9553,6 +11185,12 @@
             "state" : "translated",
             "value" : "你是我心中\n唯一的特級貴賓。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心の最上級ゲストは\nあなたのために空けてあります。"
+          }
         }
       }
     },
@@ -9587,6 +11225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "多虧有你，\n今天變得好不一樣。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一日がとっておきになる、\nあなたの魔法のせいです。"
           }
         }
       }
@@ -9623,6 +11267,12 @@
             "state" : "translated",
             "value" : "你是我人生裡\n那張王牌。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人生の切り札を探したら\nあなたがそこにいました。"
+          }
         }
       }
     },
@@ -9657,6 +11307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "想著你，\n心情就自動升級。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "気分が全部アップグレード。\nあなたを思い浮かべただけで。"
           }
         }
       }
@@ -9693,6 +11349,12 @@
             "state" : "translated",
             "value" : "你在我心中，\n是名人堂的第一號。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心の殿堂入り第一号は\nあなたです。異論は認めません。"
+          }
         }
       }
     },
@@ -9727,6 +11389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "多虧有你，\n我的人生是全彩的。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "白黒だった毎日が\nあなたのおかげでフルカラーです。"
           }
         }
       }
@@ -9763,6 +11431,12 @@
             "state" : "translated",
             "value" : "在我眼裡，你是\n永遠的傳奇。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目に映る永遠のレジェンド、\nそれがあなたです。"
+          }
         }
       }
     },
@@ -9798,6 +11472,12 @@
             "state" : "translated",
             "value" : "遇見你之後，\n我的人生才開始有配樂。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゆっくり流れる時間さえ、\nあなたがいると宝物になります。"
+          }
         }
       }
     },
@@ -9832,6 +11512,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你是我人生的\n限定通行證。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人生のプレミアムパスポート、\n持っているのはあなただけです。"
           }
         }
       }
