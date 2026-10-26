@@ -13,3 +13,9 @@
 Get hype lines in many languages now
 Contact the developer from Settings
 Report bugs and ideas by email or DM
+
+### 앱스토어 (영어(영국))
+
+Get gushes in many languages now
+Contact the developer from Settings
+Send bugs and ideas by email or DM

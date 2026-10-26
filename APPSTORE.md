@@ -89,3 +89,48 @@ What you get
 
 Your privacy matters. The app collects no personal information, and things like your name and favorites stay on your device only.
 Bug reports and feature ideas are welcome from the settings screen, by email or Instagram.
+
+## en-GB
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/en-GB/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/en-GB/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/en-GB/index.html
+
+### 이름
+
+Daily Gush
+
+### 부제
+
+Proper over-the-top praise
+
+### 키워드
+
+widget,quotes,motivation,affirmations,compliment,confidence,cheer,banter,uplifting,mood,peptalk
+
+### 프로모션 텍스트
+
+A mate who cheers you on, way over the top. Pop a gush on your Home Screen for every moment, from the morning commute to a rough day. Add your name too!
+
+### 설명
+
+Daily Gush is a widget app that showers you with compliments, then adds a few more for good measure. Every time you glance at your Home Screen, a fresh, wildly over-the-top bit of praise is waiting for you.
+Need a lift when your confidence is flagging? 281 gushes are on standby, sorted by mood and moment: morning, commute, before an interview, before an exam, after a rough day, and plenty more.
+
+What you get
+- Home Screen widget: choose the size, font, text colour, background image, alignment, line spacing and how often it refreshes.
+- Pick a mood: choose a gush to suit how you feel or what you are about to face.
+- Your name in lights: swap the "you" in each gush for your own name and become your own biggest fan.
+- Favourites and history: tap the star to keep the ones you love, and look back over the ones you have seen.
+- Streaks and achievements: check in for 7, 30 and 100 days in a row to unlock special gushes.
+
+No personal data is collected. Your name, favourites and history stay on your device and nowhere else.
+Found a bug or have a bright idea? Send it by email or Instagram from the Settings screen. We would love to hear from you.

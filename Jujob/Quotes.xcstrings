@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "Rise and shine! Honestly,\nyou already look like a main character."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rise and shine, gorgeous!\nHonestly, you already look the part."
+          }
         }
       }
     },
@@ -31,6 +37,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "The sun came up and said,\n\"Wow, you outshine me.\""
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The sun saw you and said:\n\"Fine, you win. I'll dim.\""
           }
         }
       }
@@ -49,6 +61,12 @@
             "state" : "translated",
             "value" : "Honestly, you woke up today,\nand that alone deserves a trophy!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Out of bed already? Honestly,\nyou deserve a medal and a biscuit."
+          }
         }
       }
     },
@@ -62,6 +80,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mornings are better because\nyou are in them. Fact."
+          }
+        },
+        "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mornings are better because\nyou are in them. Fact."
@@ -83,6 +107,12 @@
             "state" : "translated",
             "value" : "Today, you get\nthe leading role again!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today, you get\nthe leading role again!"
+          }
         }
       }
     },
@@ -99,6 +129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eyes open, and you\nalready won the day."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eyes open, and you\nhave already won the day."
           }
         }
       }
@@ -117,6 +153,12 @@
             "state" : "translated",
             "value" : "Forget coffee. Everyone agrees\nyou are the real morning boost."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forget the tea. Everyone agrees\nyou are the real morning boost."
+          }
         }
       }
     },
@@ -130,6 +172,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just be you today.\nIt is the best look in town!"
+          }
+        },
+        "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Just be you today.\nIt is the best look in town!"
@@ -151,6 +199,12 @@
             "state" : "translated",
             "value" : "Looking this good before breakfast?\nHonestly, you should be arrested for it."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This gorgeous before breakfast?\nHonestly, you should be arrested."
+          }
         }
       }
     },
@@ -167,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Good morning? No no,\nwith you here it's a GREAT morning!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good morning? Nope,\nwith you here it is a BRILLIANT one!"
           }
         }
       }
@@ -185,6 +245,12 @@
             "state" : "translated",
             "value" : "First thing I see is you.\nMy eyes just hit the jackpot."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First thing I see is you.\nEyes officially treated."
+          }
         }
       }
     },
@@ -198,6 +264,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breaking news this morning:\nyou are the brightest thing out there."
+          }
+        },
+        "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Breaking news this morning:\nyou are the brightest thing out there."
@@ -219,6 +291,12 @@
             "state" : "translated",
             "value" : "Long day, huh? Seriously,\nyou handled it like a legend."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Long day, eh? Honestly,\nyou handled it like a legend."
+          }
         }
       }
     },
@@ -232,6 +310,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wrapping up the day,\nand you still look amazing!"
+          }
+        },
+        "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wrapping up the day,\nand you still look amazing!"
@@ -253,6 +337,12 @@
             "state" : "translated",
             "value" : "You gave it everything today,\nand we are so proud of you!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You gave it everything today,\nand we are dead proud of you!"
+          }
         }
       }
     },
@@ -270,6 +360,12 @@
             "state" : "translated",
             "value" : "Tired, sure, but look:\nyou survived the whole day!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Knackered, sure, but look:\nyou survived the whole day!"
+          }
         }
       }
     },
@@ -283,6 +379,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every day with you in it\nis a day worth having."
+          }
+        },
+        "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Every day with you in it\nis a day worth having."
@@ -304,6 +406,12 @@
             "state" : "translated",
             "value" : "Today, you got through in one piece.\nThat is plenty!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you got through today\nin one piece. That is plenty!"
+          }
         }
       }
     },
@@ -320,6 +428,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "The stars came out tonight\nbut you were already glowing."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Like the stars in the night sky,\nyou shine too!"
           }
         }
       }
@@ -338,6 +452,12 @@
             "state" : "translated",
             "value" : "It is evening and you still sparkle.\nHow do you do it all day?"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evening already, and you\nstill look this good? How?"
+          }
         }
       }
     },
@@ -354,6 +474,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thanks for all that hard work.\nLucky me, I know you."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cheers for the long day.\nGlad it was you doing it."
           }
         }
       }
@@ -372,6 +498,12 @@
             "state" : "translated",
             "value" : "The whole world looked nicer today\nbecause you were in it."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thanks to you,\nthe world looked lovely today."
+          }
         }
       }
     },
@@ -388,6 +520,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Legend at night,\nlegend in daylight. Never a dull you."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legend by night, legend by day,\nand you never even clock off."
           }
         }
       }
@@ -406,6 +544,12 @@
             "state" : "translated",
             "value" : "It is okay, rough days happen.\nYou are doing better than you think."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It is alright to have rough days.\nHonestly, you are doing fine."
+          }
         }
       }
     },
@@ -422,6 +566,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It is tough right now,\nbut you can absolutely get through it!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It is tough now, but you\nwill get through it, mate!"
           }
         }
       }
@@ -440,6 +590,12 @@
             "state" : "translated",
             "value" : "Nobody needs perfect.\nThe real you is already the best!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No need to be perfect.\nJust you, as you are, is the best."
+          }
         }
       }
     },
@@ -456,6 +612,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rest if you need to.\nYou can go at the pace you like, you know."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Take a breather if you need one.\nGo at the pace that suits you."
           }
         }
       }
@@ -474,6 +636,12 @@
             "state" : "translated",
             "value" : "Plot twist: you are\nway tougher than you think!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are\nfar stronger than you think!"
+          }
         }
       }
     },
@@ -490,6 +658,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "This will pass, and\nyou will be the one still standing."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This will pass too,\nand you will smash it!"
           }
         }
       }
@@ -508,6 +682,12 @@
             "state" : "translated",
             "value" : "Feeling low? Sure, but\nyou still have the same big value."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even when the mood dips,\nyou are worth exactly the same."
+          }
         }
       }
     },
@@ -524,6 +704,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sadness is a part of you too.\nFeel it all, you are allowed."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sadness is part of you too.\nFeel whatever you need to feel."
           }
         }
       }
@@ -542,6 +728,12 @@
             "state" : "translated",
             "value" : "Diamonds only form under pressure,\nso yeah, you sparkle hardest now."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Know when you shine brightest?\nDiamonds need a bit of pressure."
+          }
         }
       }
     },
@@ -558,6 +750,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Feeling blue? Look at me.\nI am glued to you, so I am blue too."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Down in the dumps? Same here,\nI'm just gutted I'm not you."
           }
         }
       }
@@ -576,6 +774,12 @@
             "state" : "translated",
             "value" : "Down in the dumps? Even then\nyou are the most precious thing around."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feeling low? That is when\nyou matter most to the world."
+          }
         }
       }
     },
@@ -592,6 +796,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You look good sad,\nyou look good crying. What now?"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gorgeous when sad, gorgeous when teary.\nWhat are you like?"
           }
         }
       }
@@ -610,6 +820,12 @@
             "state" : "translated",
             "value" : "Even on a bad day,\nyou being here is a small miracle."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even on a rubbish day,\nyou being you is a miracle."
+          }
         }
       }
     },
@@ -626,6 +842,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It is hard right now,\nbut you will totally pull through!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It is hard right now, but\nyou will absolutely do it!"
           }
         }
       }
@@ -644,6 +866,12 @@
             "state" : "translated",
             "value" : "Tough moments are when\nyou show how awesome you are!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The tougher the moment,\nthe more you shine."
+          }
         }
       }
     },
@@ -660,6 +888,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Do not quit. You are\nmade of stronger stuff than you think."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don't give up, you\nare plenty strong enough!"
           }
         }
       }
@@ -678,6 +912,12 @@
             "state" : "translated",
             "value" : "Hanging in there through all this?\nHonestly, you are a hero."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sticking it out through a rough patch?\nHonestly, you are amazing!"
+          }
         }
       }
     },
@@ -694,6 +934,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Today's struggle is just\nfertilizer, and you are about to bloom."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today's struggle feeds\ntomorrow's growth, and you know it!"
           }
         }
       }
@@ -712,6 +958,12 @@
             "state" : "translated",
             "value" : "You can handle\nway more than you believe!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you can handle\nfar more than you think!"
+          }
         }
       }
     },
@@ -728,6 +980,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Soon this hard stretch will be\na story you tell about how you won."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This rough patch will soon be\na story you tell over a brew."
           }
         }
       }
@@ -746,6 +1004,12 @@
             "state" : "translated",
             "value" : "Diamonds shine after the cutting,\nso of course you glow right now."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rough times, yet you still shine.\nDiamonds need cutting to sparkle."
+          }
         }
       }
     },
@@ -762,6 +1026,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Having a rough time?\nStill, you are the best-looking thing in the room."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Having a hard time? Still,\nyou are the best-looking one around."
           }
         }
       }
@@ -780,6 +1050,12 @@
             "state" : "translated",
             "value" : "Somebody out there sees you hang on\nand thinks, I can too."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Somewhere, someone finds hope\nin you simply keeping going."
+          }
         }
       }
     },
@@ -796,6 +1072,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Drained and exhausted, and\nyou still look this good? Rude."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Absolutely shattered, yet\nyou still look lovely. Typical."
           }
         }
       }
@@ -814,6 +1096,12 @@
             "state" : "translated",
             "value" : "Today you can do it!\nStart like you mean it!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today you can do it!\nStart with confidence, mate!"
+          }
         }
       }
     },
@@ -830,6 +1118,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I believe in you,\nand today will be a good one!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I believe in what you can do!\nToday will be a good one."
           }
         }
       }
@@ -848,6 +1142,12 @@
             "state" : "translated",
             "value" : "Look at that, you showed up ready,\nso half the win is done!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ready already? Then you are\nhalfway to success!"
+          }
         }
       }
     },
@@ -864,6 +1164,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Whatever is on the list today,\nyou will crush it without breaking a sweat."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today's to-do list is\nno problem for you."
           }
         }
       }
@@ -882,6 +1188,12 @@
             "state" : "translated",
             "value" : "Watch out, the fire in you\nwill light up the whole day."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The passion in you will\nlight up today!"
+          }
         }
       }
     },
@@ -898,6 +1210,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Go get it! Do it\nthe way only you can!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go on! Smash it today\nlike only you can."
           }
         }
       }
@@ -916,6 +1234,12 @@
             "state" : "translated",
             "value" : "Before work even starts,\nyou already look like a pro!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Before work, you already\nlook like a total professional!"
+          }
         }
       }
     },
@@ -932,6 +1256,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Do not feel like working?\nWell, you still look like you are working it."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dreading work? Well, that face\nis already doing overtime for you."
           }
         }
       }
@@ -950,6 +1280,12 @@
             "state" : "translated",
             "value" : "Commute looks? Unreal.\nThe office glows because you walk in."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The office look is immaculate today.\nThe whole firm glows thanks to you."
+          }
         }
       }
     },
@@ -966,6 +1302,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Watching you work\nis basically performance art."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watching you work\nis pure art."
           }
         }
       }
@@ -984,6 +1326,12 @@
             "state" : "translated",
             "value" : "The day has not even started\nand you are already flawless."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not even started yet\nand you are already flawless."
+          }
         }
       }
     },
@@ -1000,6 +1348,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Working out? Of course,\nyou are already a legend at it."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hitting the gym? Honestly, you\nare already impressive!"
           }
         }
       }
@@ -1018,6 +1372,12 @@
             "state" : "translated",
             "value" : "Taking care of that health again?\nHonestly, you are impressive."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Making time for fitness again?\nHonestly, you are ace!"
+          }
         }
       }
     },
@@ -1034,6 +1394,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nobody knows that body like you do,\nso trust the expert!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nobody knows what suits you\nbetter than you do!"
           }
         }
       }
@@ -1052,6 +1418,12 @@
             "state" : "translated",
             "value" : "Just starting a workout?\nHonestly, you should be proud already!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just starting is something\nyou should be dead proud of."
+          }
         }
       }
     },
@@ -1068,6 +1440,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sweat looks good on you.\nTruly, absolutely stunning!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sweaty and still stunning,\nyou are a sight for sore eyes."
           }
         }
       }
@@ -1086,6 +1464,12 @@
             "state" : "translated",
             "value" : "Remember, you\ncome first. Always!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Health comes first, and\nyou are looking after it!"
+          }
         }
       }
     },
@@ -1102,6 +1486,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Some me-time again? Wow,\nyou are on a champion streak!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Making time just for you\nis the best habit going!"
           }
         }
       }
@@ -1120,6 +1510,12 @@
             "state" : "translated",
             "value" : "Gym clothes on you?\nSomeone get a camera crew."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In gym kit, you could\ndo a magazine shoot."
+          }
         }
       }
     },
@@ -1136,6 +1532,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "The gym just turned into paradise\nbecause you walked in."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The gym is heaven now\nbecause you turned up."
           }
         }
       }
@@ -1154,6 +1556,12 @@
             "state" : "translated",
             "value" : "Glowing mid-workout?\nHow do you look this good all the time?"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shining even mid-workout. How\nare you always this good?"
+          }
         }
       }
     },
@@ -1170,6 +1578,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Someone looks good while sweating?\nYes, you. It is you."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anyone look good sweaty?\nYes, you, annoyingly."
           }
         }
       }
@@ -1188,6 +1602,12 @@
             "state" : "translated",
             "value" : "On the way to work,\nyou look like a total professional!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commuting like that,\nyou look dead professional."
+          }
         }
       }
     },
@@ -1204,6 +1624,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Up and moving this early?\nHonestly, you are a machine."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Up and moving this early,\nyou are honestly brilliant!"
           }
         }
       }
@@ -1222,6 +1648,12 @@
             "state" : "translated",
             "value" : "Off to work again?\nTrust me, you already won today!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Off to work again? Honestly,\nyou have already won."
+          }
         }
       }
     },
@@ -1238,6 +1670,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Every single step you take\nmatters, and I mean it!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every step you take\nis worth something!"
           }
         }
       }
@@ -1256,6 +1694,12 @@
             "state" : "translated",
             "value" : "Even a commute feels special\nwhen you are on it."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even the commute is\nspecial with you in it."
+          }
         }
       }
     },
@@ -1272,6 +1716,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Showing up for work\nwith heart? Respect to you!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Off to work so responsibly,\nyou look great doing it!"
           }
         }
       }
@@ -1290,6 +1740,12 @@
             "state" : "translated",
             "value" : "The subway became a runway\nthe moment you stepped on."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "With you on board,\nthe Tube has become a catwalk."
+          }
         }
       }
     },
@@ -1306,6 +1762,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Glowing on the bus again?\nIs there a shoot, you gorgeous thing?"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shining on the bus too.\nAre you doing a photoshoot?"
           }
         }
       }
@@ -1324,6 +1786,12 @@
             "state" : "translated",
             "value" : "Seeing you head to work\nmakes my morning happy."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watching you head to work\nmakes the morning happier."
+          }
         }
       }
     },
@@ -1340,6 +1808,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Somebody looks great\njust walking, and that somebody is you."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just walking along,\nyou look brilliant."
           }
         }
       }
@@ -1358,6 +1832,12 @@
             "state" : "translated",
             "value" : "Today you worked hard!\nNow go home and rest up."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Well done today! Now home,\nfeet up, and a brew for you."
+          }
         }
       }
     },
@@ -1374,6 +1854,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "From behind, you walking out\nlooks pretty legendary!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watching you head home,\nwhat a stylish exit!"
           }
         }
       }
@@ -1392,6 +1878,12 @@
             "state" : "translated",
             "value" : "Heading home after a long day,\nand you are still the best!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Day done, on the way home,\nyou are the best."
+          }
         }
       }
     },
@@ -1408,6 +1900,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Another day done and dusted!\nSo proud of you!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Another day done and dusted!\nWe are proud of you."
           }
         }
       }
@@ -1426,6 +1924,12 @@
             "state" : "translated",
             "value" : "Now it is time for you,\nso go enjoy every minute of it!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Now it is time just for you.\nHave a proper rest!"
+          }
         }
       }
     },
@@ -1442,6 +1946,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "After work, do something\nthat is just for you!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "After work, make some time\nfor you. Put the kettle on!"
           }
         }
       }
@@ -1460,6 +1970,12 @@
             "state" : "translated",
             "value" : "Off work, finally! Big thanks\nto you for another great day."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home time for you after a long day.\nCheers for all you did!"
+          }
         }
       }
     },
@@ -1476,6 +1992,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Even the walk home looks good on you.\nYou were great today."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even the walk home looks good on you.\nHonestly, a cracking day."
           }
         }
       }
@@ -1494,6 +2016,12 @@
             "state" : "translated",
             "value" : "Seeing you head home\nmakes the whole day feel worth it."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seeing you leave work\nshows what a productive day it was."
+          }
         }
       }
     },
@@ -1510,6 +2038,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rough day? Sure,\nbut you still came out on top!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A rough day, but\nyou are still brilliant!"
           }
         }
       }
@@ -1528,6 +2062,12 @@
             "state" : "translated",
             "value" : "You prepared for this,\nso you will do great!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All that prep means\nyou will be absolutely fine."
+          }
         }
       }
     },
@@ -1544,6 +2084,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hard work never\nlets you down!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hard work never lets\nyou down!"
           }
         }
       }
@@ -1562,6 +2108,12 @@
             "state" : "translated",
             "value" : "Nervous is fine.\nTruth is, you are more than ready!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nerves are normal.\nHonestly, you are already prepared!"
+          }
         }
       }
     },
@@ -1578,6 +2130,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A test cannot decide\nhow awesome you are!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An exam cannot decide\nwhat you are worth!"
           }
         }
       }
@@ -1596,6 +2154,12 @@
             "state" : "translated",
             "value" : "You did the best you could,\nwhich already counts as a win!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you gave it everything,\nso you have already succeeded!"
+          }
         }
       }
     },
@@ -1612,6 +2176,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "If anyone can do it,\nyou can, no question!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If anyone can do it,\nyou can!"
           }
         }
       }
@@ -1630,6 +2200,12 @@
             "state" : "translated",
             "value" : "Deep breath, and\ntrust what you know!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deep breath, and trust\nwhat you know!"
+          }
         }
       }
     },
@@ -1646,6 +2222,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Good luck on the test!\nYou studied, you are ready."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good luck on the exam!\nHonestly, you are plenty prepared."
           }
         }
       }
@@ -1664,6 +2246,12 @@
             "state" : "translated",
             "value" : "Do not worry. I bet\nyou will get every answer right!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don't fret. Honestly,\nyou will get every answer right!"
+          }
         }
       }
     },
@@ -1680,6 +2268,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Feeling jittery?\nWell, you are still the best!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nervous? Still,\nyou are the best!"
           }
         }
       }
@@ -1698,6 +2292,12 @@
             "state" : "translated",
             "value" : "Even the test paper will see you\nand say, \"wow, finally someone good.\""
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The exam paper will gasp\nwhen it sees you."
+          }
         }
       }
     },
@@ -1714,6 +2314,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It is time for you\nto show what you are made of!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time to show everyone\nwhat you are made of!"
           }
         }
       }
@@ -1732,6 +2338,12 @@
             "state" : "translated",
             "value" : "The interviewer will feel lucky\nto meet you!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The interviewers are lucky\nto meet you!"
+          }
         }
       }
     },
@@ -1748,6 +2360,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Watch out, because the story and drive in you\nare about to shine!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time for all you have learned\nand all you love to shine!"
           }
         }
       }
@@ -1766,6 +2384,12 @@
             "state" : "translated",
             "value" : "Nervous is okay.\nStill, you are impressive!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nervous is alright.\nHonestly, you are plenty brilliant."
+          }
         }
       }
     },
@@ -1782,6 +2406,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stand tall! You know\nyou are totally ready!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chin up! Honestly, you are\nalready ready!"
           }
         }
       }
@@ -1800,6 +2430,12 @@
             "state" : "translated",
             "value" : "Tell them the story of you\nwith pride!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tell the story of you\nwith pride!"
+          }
         }
       }
     },
@@ -1816,6 +2452,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "An interview is just two people chatting,\nso relax and be you."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interviews are just a chat,\nso relax and be you!"
           }
         }
       }
@@ -1834,6 +2476,12 @@
             "state" : "translated",
             "value" : "If they skip over you,\nthat company just lost big."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If they don't hire you,\nit is their loss."
+          }
         }
       }
     },
@@ -1850,6 +2498,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Your resume is not the shiny part,\nyou are the shiny part."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It is not the CV that is dazzling,\nit is honestly you."
           }
         }
       }
@@ -1868,6 +2522,12 @@
             "state" : "translated",
             "value" : "The moment you walk in,\nyou already got the job."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The moment you walk in,\nit is already a yes."
+          }
         }
       }
     },
@@ -1884,6 +2544,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "With a first impression like you,\nhalf the job is already done!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That first impression of you\ndoes half the job!"
           }
         }
       }
@@ -1902,6 +2568,12 @@
             "state" : "translated",
             "value" : "Today, you\nare absolutely glowing!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today you are\nproperly shining!"
+          }
         }
       }
     },
@@ -1918,6 +2590,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Just being you\nis the most attractive thing about you!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just as you are\nis the most charming!"
           }
         }
       }
@@ -1936,6 +2614,12 @@
             "state" : "translated",
             "value" : "Anyone who gets to hang with you\nis seriously lucky!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anyone who spends time with you\nis dead lucky!"
+          }
         }
       }
     },
@@ -1952,6 +2636,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Look at you being so confident.\nAbsolutely iconic!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full of confidence, you\nlook brilliant!"
           }
         }
       }
@@ -1970,6 +2660,12 @@
             "state" : "translated",
             "value" : "Today, you can use that smile\nas a secret weapon!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A smile from you is\nthe best weapon today!"
+          }
         }
       }
     },
@@ -1986,6 +2682,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exactly as you are,\nyou are the best!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exactly as you are,\nthat is the best look."
           }
         }
       }
@@ -2004,6 +2706,12 @@
             "state" : "translated",
             "value" : "Sorry, but you cannot hide\nthat charm, so do not try!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You simply cannot hide\nthat charm. Honestly, you can't."
+          }
         }
       }
     },
@@ -2020,6 +2728,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A date today? Whoever it is,\nI think you will make their heart drop."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A date today? They might drop\ntheir heart at the sight of you."
           }
         }
       }
@@ -2038,6 +2752,12 @@
             "state" : "translated",
             "value" : "Whoever gets to meet you\nhit the jackpot."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Whoever meets you is\none lucky so-and-so."
+          }
         }
       }
     },
@@ -2054,6 +2774,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "That date outfit is perfect.\nHonestly, you could be on a magazine cover!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date outfit sorted, you\ncould do a magazine shoot."
           }
         }
       }
@@ -2072,6 +2798,12 @@
             "state" : "translated",
             "value" : "Honestly, one look at you\nand anyone would fall in love."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seeing you today,\nI might fall in love."
+          }
         }
       }
     },
@@ -2088,6 +2820,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Not even on the date yet and you look this good?\nThink of their poor heart!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not even on the date yet and\nyou look this good? Their poor heart."
           }
         }
       }
@@ -2106,6 +2844,12 @@
             "state" : "translated",
             "value" : "You can do this!\nI am always cheering for you!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you can do it!\nWe are always cheering for you."
+          }
         }
       }
     },
@@ -2122,6 +2866,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Even small steps from you\nare the start of something huge!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Small steps are the start of\na great journey, and you are on it!"
           }
         }
       }
@@ -2140,6 +2890,12 @@
             "state" : "translated",
             "value" : "Do not give up.\nWe know you will reach that dream!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don't give up, the dreams\nyou have will come true!"
+          }
         }
       }
     },
@@ -2156,6 +2912,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Today's effort from you is\nbuilding tomorrow's win!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today's effort builds\nthe success you get tomorrow!"
           }
         }
       }
@@ -2174,6 +2936,12 @@
             "state" : "translated",
             "value" : "The fire inside you\nis going to change the world!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That fire you have will\nchange the world!"
+          }
         }
       }
     },
@@ -2190,6 +2958,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Failing is just practice for winning!\nKeep going, you!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failure is just practice.\nKeep having a go, you!"
           }
         }
       }
@@ -2208,6 +2982,12 @@
             "state" : "translated",
             "value" : "Everyone agrees: you have\ncompletely unlimited potential!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There is no limit to what\nyou can be!"
+          }
         }
       }
     },
@@ -2224,6 +3004,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Give today\neverything you have!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Give today the lot, mate,\nyou know you can!"
           }
         }
       }
@@ -2242,6 +3028,12 @@
             "state" : "translated",
             "value" : "Watching you try hard\nmotivates a lot of people, you know."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seeing you work hard\nis motivation for someone else."
+          }
         }
       }
     },
@@ -2258,6 +3050,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Everything will work out for you.\nSeriously, I mean it!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It will all work out for you.\nHonestly, it really will!"
           }
         }
       }
@@ -2276,6 +3074,12 @@
             "state" : "translated",
             "value" : "Do not quit. You are\nan amazing person and you know it."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don't quit. Honestly,\nyou are a brilliant person."
+          }
         }
       }
     },
@@ -2292,6 +3096,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Go get them today!\nSeriously, you have totally got this!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Come on! Today,\nyou can absolutely smash it!"
           }
         }
       }
@@ -2310,6 +3120,12 @@
             "state" : "translated",
             "value" : "Anyone who sees how hard you work\nwill be rooting for you."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "People who see how hard you work\nwill always cheer you on."
+          }
         }
       }
     },
@@ -2326,6 +3142,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Say it with me: you are more than enough\nand worth every bit of hype!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are enough\nand worth every bit!"
           }
         }
       }
@@ -2344,6 +3166,12 @@
             "state" : "translated",
             "value" : "Just as you are,\nyou are perfect!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just as you are,\nthat is already perfect!"
+          }
         }
       }
     },
@@ -2360,6 +3188,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fun fact: you simply existing\nis already special!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simply being you\nis already special!"
           }
         }
       }
@@ -2378,6 +3212,12 @@
             "state" : "translated",
             "value" : "Hold that head high!\nTruth is, you are amazing!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Be confident, because\nyou are brilliant!"
+          }
         }
       }
     },
@@ -2394,6 +3234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Surprise: you are\nmuch stronger than you think!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Truth is, you are\nmuch stronger than you think!"
           }
         }
       }
@@ -2412,6 +3258,12 @@
             "state" : "translated",
             "value" : "What makes you\nunique is what makes you shine!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What makes you different\nis what makes you shine!"
+          }
         }
       }
     },
@@ -2428,6 +3280,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Believe in you. I do,\nbecause you are the real deal!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Believe in you,\nbecause you can do it!"
           }
         }
       }
@@ -2446,6 +3304,12 @@
             "state" : "translated",
             "value" : "Honestly, you are\nperfect just as you are."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are\nperfect as you are."
+          }
         }
       }
     },
@@ -2462,6 +3326,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "All that confidence?\nHonestly, you look incredible in it!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brimming with confidence,\nyou are the best around!"
           }
         }
       }
@@ -2480,6 +3350,12 @@
             "state" : "translated",
             "value" : "You are far more\nawesome than you think credit for!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are way\nmore amazing than you reckon!"
+          }
         }
       }
     },
@@ -2496,6 +3372,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Truth is, you are\nalready doing great."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Look at that: you are\nalready doing brilliantly."
           }
         }
       }
@@ -2514,6 +3396,12 @@
             "state" : "translated",
             "value" : "Anyone who cannot see how charming you are\nneeds new glasses."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anyone who can't see you\nis in need of an eye test."
+          }
         }
       }
     },
@@ -2530,6 +3418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Today, let it all go,\nbecause you deserve to just rest."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today, you just relax\nand take it easy."
           }
         }
       }
@@ -2548,6 +3442,12 @@
             "state" : "translated",
             "value" : "Even you\nneed a break sometimes."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even you need\na bit of a rest."
+          }
         }
       }
     },
@@ -2564,6 +3464,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Doing nothing at all?\nIt is a fine plan, and you can own it."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doing nothing at all\nis perfectly fine, you know."
           }
         }
       }
@@ -2582,6 +3488,12 @@
             "state" : "translated",
             "value" : "How you feel inside\nis what matters most."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How you feel\nis what matters most."
+          }
         }
       }
     },
@@ -2598,6 +3510,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Go slow. Take it\nat the speed you like."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slowly now, at the pace\nthat suits you."
           }
         }
       }
@@ -2616,6 +3534,12 @@
             "state" : "translated",
             "value" : "Today, take some time\nthat belongs to you."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today, make a bit of time\njust for you."
+          }
         }
       }
     },
@@ -2632,6 +3556,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rest is productive too,\nand you are the proof!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resting is a productive\nactivity, you know."
           }
         }
       }
@@ -2650,6 +3580,12 @@
             "state" : "translated",
             "value" : "Resting is a right, and you have it.\nTake it easy today, you deserve it."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resting is allowed. Honestly, you\nmay kick back today."
+          }
         }
       }
     },
@@ -2666,6 +3602,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Look at you recharging.\nEven that looks beautiful."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unwinding, are you?\nIt looks lovely on you."
           }
         }
       }
@@ -2684,6 +3626,12 @@
             "state" : "translated",
             "value" : "Spend some time on you today.\nNo guilt allowed!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today, spending time on\nyou is perfectly alright."
+          }
         }
       }
     },
@@ -2700,6 +3648,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Even while lounging,\nyou glow like a star."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even mid-chill,\nyou manage to shine."
           }
         }
       }
@@ -2718,6 +3672,12 @@
             "state" : "translated",
             "value" : "Chilling at home? Even so,\nyou still look like a million bucks."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even in chill mode,\nyou are the prettiest around."
+          }
         }
       }
     },
@@ -2734,6 +3694,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You are perfect, but I found\none small flaw: you have a hole-in-one on my heart."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you a parking ticket?\nYou have 'fine' written all over you."
           }
         }
       }
@@ -2752,6 +3718,12 @@
             "state" : "translated",
             "value" : "Your personality test says\nyou are 100% adorable. Case closed."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfect, apart from one flaw:\nI cannot find a single flaw in you."
+          }
         }
       }
     },
@@ -2768,6 +3740,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "They said, \"hands up if you think you are cute\"\nand the whole planet raised both hands."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you a magician? Everyone\nelse vanishes when I look at you."
           }
         }
       }
@@ -2786,6 +3764,12 @@
             "state" : "translated",
             "value" : "If I rated you from do to ti,\nI would run out of notes. Off the scale!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Got a plaster? I scraped\nmy knee falling for you."
+          }
         }
       }
     },
@@ -2802,6 +3786,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Do not enter any beauty contest, you.\nThe others would just quit."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cream first or jam first?\nWhatever, you are the best bit."
           }
         }
       }
@@ -2820,6 +3810,12 @@
             "state" : "translated",
             "value" : "Each time you looked great, I clapped my hands.\nNow they hurt, but I would not stop."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the last custard cream\nin the tin. Treasure, honestly."
+          }
         }
       }
     },
@@ -2836,6 +3832,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "There is only one fuel I ever put\nin my tank: you, always you."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I would give you my last chip.\nThat is proper love, mate."
           }
         }
       }
@@ -2854,6 +3856,12 @@
             "state" : "translated",
             "value" : "I think it is going to rain,\nbecause you are a total storm of cute."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every time you walk in,\nmy heart goes bong, like Big Ben."
+          }
         }
       }
     },
@@ -2870,6 +3878,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Do you have a religion?\nBecause you look like a miracle."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roses are red, violets are blue,\nI forgot the rest, I'm gawping at you."
           }
         }
       }
@@ -2888,6 +3902,12 @@
             "state" : "translated",
             "value" : "Everything is great, but something seems missing.\nOh wait, it was you."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you a queue? I would happily\nwait ages for you."
+          }
         }
       }
     },
@@ -2904,6 +3924,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Can you put that charm down for a second?\nSome of us need to function."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the \"kettle just boiled\"\nof people. Pure joy."
           }
         }
       }
@@ -2922,6 +3948,12 @@
             "state" : "translated",
             "value" : "I feel a wall in you.\nA wall of pure perfection."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weather forecast today:\n100% chance of you being brilliant."
+          }
         }
       }
     },
@@ -2938,6 +3970,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Is the beauty a bit overhyped?\nNope. Honestly, you are the real thing."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You are so fit the speed\ncameras flash when you pass."
           }
         }
       }
@@ -2956,6 +3994,12 @@
             "state" : "translated",
             "value" : "You say you are bad at math?\nWell, you still add up to everything."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Better than a sunny bank holiday,\nthat is you, mate."
+          }
         }
       }
     },
@@ -2972,6 +4016,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Are you part angel?\nBecause you look heaven-sent."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the gravy of life,\nmaking everything better."
           }
         }
       }
@@ -2990,6 +4040,12 @@
             "state" : "translated",
             "value" : "Did you know those features are\nsharper than my future plans?"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the Yorkshire pudding\nof people: golden and gorgeous."
+          }
         }
       }
     },
@@ -3006,6 +4062,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Honestly, you are a gift\nthat keeps on giving to my smile."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finding you is like finding\na tenner in an old coat."
           }
         }
       }
@@ -3024,6 +4086,12 @@
             "state" : "translated",
             "value" : "Fact: you are a landmark.\nSomeone should put up a sign."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are so charming even\nthe pigeons stop to stare."
+          }
         }
       }
     },
@@ -3040,6 +4108,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "They say you sleep with three pillows?\nWell, that is how fluffy the fan club is."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hot, strong, just right:\nyou are my perfect brew."
           }
         }
       }
@@ -3058,6 +4132,12 @@
             "state" : "translated",
             "value" : "Why are you working?\nYour looks already do overtime."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you make my heart go dunk,\nlike a biscuit in tea."
+          }
         }
       }
     },
@@ -3074,6 +4154,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "\"Stop liking me.\" \"What?\"\n\"I said stop.\" \"How do I even do that?\""
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mind the gap? Not between\nyou and perfection."
           }
         }
       }
@@ -3092,6 +4178,12 @@
             "state" : "translated",
             "value" : "Face this rare? Sorry, you\nbelong in a museum."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sorry, officer, I was staring\nat you, not at the speed limit."
+          }
         }
       }
     },
@@ -3108,6 +4200,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Do not go to the awards show.\nThe grand prize is already you."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Is it hot in here,\nor is it just you?"
           }
         }
       }
@@ -3126,6 +4224,12 @@
             "state" : "translated",
             "value" : "Are you doing a photoshoot,\nor are you just a walking one?"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you deserve a blue plaque\nand a parade, honestly."
+          }
         }
       }
     },
@@ -3142,6 +4246,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Truth is, you are an idol,\nthe number one star in my heart."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you should be on a postage stamp:\nsmall, perfect, and sent with love."
           }
         }
       }
@@ -3160,6 +4270,12 @@
             "state" : "translated",
             "value" : "Please host a signing event.\nI want an autograph from you every day."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arise, Sir or Dame Gorgeous!\nA knighthood for you, surely."
+          }
         }
       }
     },
@@ -3176,6 +4292,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Just debut already.\nTruth is, you are the center of my heart."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You belong in a museum,\nbehind glass. Priceless, you."
           }
         }
       }
@@ -3194,6 +4316,12 @@
             "state" : "translated",
             "value" : "Congrats on the top chart spot.\nLooks like you win it every day anyway."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the national treasure\nwe never knew we needed."
+          }
         }
       }
     },
@@ -3210,6 +4338,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "One photo op, please.\nI could take a picture of you daily."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Number one in the charts? Honestly,\nyou are number one for me."
           }
         }
       }
@@ -3228,6 +4362,12 @@
             "state" : "translated",
             "value" : "A new comeback? Wow, you just\nbrought my heart back to life."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you a pop star?\nBecause you have stolen the show."
+          }
         }
       }
     },
@@ -3244,6 +4384,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Can I film a fancam of you?\nEvery moment is a highlight reel."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An autograph from you\nwould go straight on the fridge."
           }
         }
       }
@@ -3262,6 +4408,12 @@
             "state" : "translated",
             "value" : "Starring in a music video?\nWell, you already star in my whole life."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I would queue in the rain\njust to see you."
+          }
         }
       }
     },
@@ -3278,6 +4430,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Are you filming a reality show?\nThe real you is better than any script."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I would stan you\nforever, no questions asked."
           }
         }
       }
@@ -3296,6 +4454,12 @@
             "state" : "translated",
             "value" : "You are the center of the group, right?\nBecause you shine everywhere you go."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are my favourite human.\nSorry, everyone else."
+          }
         }
       }
     },
@@ -3312,6 +4476,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seriously, you need to win Face of the Year.\nIt is not even close."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Main character energy: you,\nin a film with a happy ending."
           }
         }
       }
@@ -3330,6 +4500,12 @@
             "state" : "translated",
             "value" : "Are you modeling for an ad?\nOne look at you and I want to buy everything."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Take a bow, you.\nThe standing ovation is for you."
+          }
         }
       }
     },
@@ -3346,6 +4522,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Look, you must be a magazine cover star.\nThat face belongs on every issue."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encore, encore! Honestly,\nyou cannot stop at one."
           }
         }
       }
@@ -3364,6 +4546,12 @@
             "state" : "translated",
             "value" : "That stage charisma is real?\nEven you doing errands looks like a show."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the headline act\nand the support, honestly."
+          }
         }
       }
     },
@@ -3380,6 +4568,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Want to trade photocards?\nI only collect the full set of you."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spotted: you, being brilliant.\nThe photographers are going mad."
           }
         }
       }
@@ -3398,6 +4592,12 @@
             "state" : "translated",
             "value" : "When is the fan meeting?\nI would like to see you every day."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The paparazzi would be rubbish\nwithout you, honestly."
+          }
         }
       }
     },
@@ -3414,6 +4614,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Post the dance video, please.\nEvery move you make is art."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tickets to see you sold out\nin under a minute, mate."
           }
         }
       }
@@ -3432,6 +4638,12 @@
             "state" : "translated",
             "value" : "Watching you is like a teaser trailer.\nI get excited every single time."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I would watch you do nothing\nfor hours. Perfect telly."
+          }
         }
       }
     },
@@ -3448,6 +4660,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Going on a world tour?\nFun fact: you already shook my heart worldwide."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are better than a Sunday roast\nwith crispy roasties."
           }
         }
       }
@@ -3466,6 +4684,12 @@
             "state" : "translated",
             "value" : "Sign my album, please.\nFact: you are a limited edition."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are better than a lie-in\non a rainy Sunday."
+          }
         }
       }
     },
@@ -3482,6 +4706,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I am turning on my light stick.\nI will cheer for you for life."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hair, face, walk: honestly,\nyou do the lot, with class."
           }
         }
       }
@@ -3500,6 +4730,12 @@
             "state" : "translated",
             "value" : "Admit it, you blew up overnight?\nYou were a legend way before that."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the full English\nof people: satisfying all round."
+          }
         }
       }
     },
@@ -3516,6 +4752,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I need concert tickets.\nWatching you is my daily live show."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the cherry on top\nof a cracking day."
           }
         }
       }
@@ -3534,6 +4776,12 @@
             "state" : "translated",
             "value" : "Did you hit number one on the charts?\nYou are the song stuck in my head forever."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the pickle to my\nploughman's, perfect together."
+          }
         }
       }
     },
@@ -3550,6 +4798,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "One more encore, please.\nI can never see enough of you."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pure class, you. Even\nthe swans would bow."
           }
         }
       }
@@ -3568,6 +4822,12 @@
             "state" : "translated",
             "value" : "Even you in the behind-the-scenes shots? Perfect.\nNo off moments, only legend."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In a crowd of a hundred,\nyou are the one I spot."
+          }
         }
       }
     },
@@ -3584,6 +4844,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I have to change my favorite.\nI cannot look at anyone but you."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you make Monday feel\nlike a Friday night."
           }
         }
       }
@@ -3602,6 +4868,12 @@
             "state" : "translated",
             "value" : "I just became a fan.\nI will stan you forever."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "With you around, even\ndrizzle feels like sunshine."
+          }
         }
       }
     },
@@ -3618,6 +4890,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Revealing my favorite:\nit is you, always you."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spotted: you, still lovely\nafter a day of rain."
           }
         }
       }
@@ -3636,6 +4914,12 @@
             "state" : "translated",
             "value" : "I bought all the merch.\nReal talk: you are the merch. Rare and mine."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are so cool,\nthe fridge is jealous."
+          }
         }
       }
     },
@@ -3652,6 +4936,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I am a fan for life.\nFact: you are my forever artist."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My favourite hobby:\nlooking at you. Cheap, too!"
           }
         }
       }
@@ -3670,6 +4960,12 @@
             "state" : "translated",
             "value" : "Planted my flag.\nNo doubt, you are my number one."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Five stars, would admire you again.\nWould recommend you to everyone."
+          }
         }
       }
     },
@@ -3686,6 +4982,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I am starting my fandom era.\nAll in on you."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A fan club for you? Sign me up,\nI will bring the biscuits."
           }
         }
       }
@@ -3704,6 +5006,12 @@
             "state" : "translated",
             "value" : "I will be the fan photographer.\nI want to catch every moment of you."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I would put you on a poster\nand hang it in the hall."
+          }
         }
       }
     },
@@ -3720,6 +5028,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "It is a free-for-all of praise time.\nEvery minute with you is golden."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plot twist: you were\nthe best thing in the story all along."
           }
         }
       }
@@ -3738,6 +5052,12 @@
             "state" : "translated",
             "value" : "I will buy a birthday billboard.\nI wish every day were a birthday for you."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every day should be a\nbirthday for you, with cake."
+          }
         }
       }
     },
@@ -3754,6 +5074,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cheering for you for life.\nBeing a fan is my proudest thing."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Being a fan of you\nis the proudest thing I do."
           }
         }
       }
@@ -3772,6 +5098,12 @@
             "state" : "translated",
             "value" : "My heart is going\nthump-thump because of you."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you make my heart go\npitter-patter, honestly."
+          }
         }
       }
     },
@@ -3788,6 +5120,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Everything looks lovely\nwhenever I look at you."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Looking at you makes\nthe whole world lovelier."
           }
         }
       }
@@ -3806,6 +5144,12 @@
             "state" : "translated",
             "value" : "Real talk: you are the vitamin\nmy happiness runs on."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are my daily\ndose of happy."
+          }
         }
       }
     },
@@ -3822,6 +5166,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "When you smile,\nI end up smiling too."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When you smile, I can't\nhelp grinning too."
           }
         }
       }
@@ -3840,6 +5190,12 @@
             "state" : "translated",
             "value" : "No doubt, you are the brightest star\nI have ever seen."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the brightest star\nI have ever clocked."
+          }
         }
       }
     },
@@ -3856,6 +5212,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Every day with you\nis a festival in my heart."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every day with you is\na little party in my head."
           }
         }
       }
@@ -3874,6 +5236,12 @@
             "state" : "translated",
             "value" : "Even hearing you talk\nmakes my mood better."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just hearing you talk\nputs me in a good mood."
+          }
         }
       }
     },
@@ -3890,6 +5258,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Honestly, you are the best luck\nI ever had in life."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meeting you was the\nluckiest break of my life."
           }
         }
       }
@@ -3908,6 +5282,12 @@
             "state" : "translated",
             "value" : "Because of you,\nI can smile again today."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Because of you, I can\nlaugh again today."
+          }
         }
       }
     },
@@ -3924,6 +5304,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fact: you are the most precious\nperson in the world."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the most precious\nperson in the world to me."
           }
         }
       }
@@ -3942,6 +5328,12 @@
             "state" : "translated",
             "value" : "Thinking of you\nmakes me smile on its own."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thinking of you makes\nme smile all by myself."
+          }
         }
       }
     },
@@ -3958,6 +5350,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Truth is, you are the calm\nin my heart."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the calm in\nmy chaos."
           }
         }
       }
@@ -3976,6 +5374,12 @@
             "state" : "translated",
             "value" : "Time spent with you\nis always special."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time with you is\nalways something special."
+          }
         }
       }
     },
@@ -3992,6 +5396,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seriously, you are the coolest\nperson I know."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the loveliest\nperson I know."
           }
         }
       }
@@ -4010,6 +5420,12 @@
             "state" : "translated",
             "value" : "Just having you around\nis reason enough to be grateful."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just having you around\nis plenty to be thankful for."
+          }
         }
       }
     },
@@ -4026,6 +5442,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Look, you are the highlight\nof my day."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the highlight\nof my whole day."
           }
         }
       }
@@ -4044,6 +5466,12 @@
             "state" : "translated",
             "value" : "Every day feels special\nthanks to you."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thanks to you, every\nday turns out special."
+          }
         }
       }
     },
@@ -4060,6 +5488,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "When I look at you,\nthe world gets brighter."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When I see you, the\nworld brightens up."
           }
         }
       }
@@ -4078,6 +5512,12 @@
             "state" : "translated",
             "value" : "Admit it, you are the best gift\nlife ever gave me."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the best present\nlife ever gave me."
+          }
         }
       }
     },
@@ -4094,6 +5534,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "The world is prettier\nbecause you exist."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "With you around, the\nworld is a lovelier place."
           }
         }
       }
@@ -4112,6 +5558,12 @@
             "state" : "translated",
             "value" : "A day without you?\nI cannot even picture it."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A day without you\nis hard to imagine."
+          }
         }
       }
     },
@@ -4128,6 +5580,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Real talk: you are forever number one\nin my heart."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you will always be\nnumber one in my heart."
           }
         }
       }
@@ -4146,6 +5604,12 @@
             "state" : "translated",
             "value" : "With you around,\nI feel like I can do anything."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "With you by my side,\nI could do anything."
+          }
         }
       }
     },
@@ -4162,6 +5626,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No doubt, you are the one I am\nthankful for every day."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are someone I am\ngrateful for every single day."
           }
         }
       }
@@ -4180,6 +5650,12 @@
             "state" : "translated",
             "value" : "Nothing in the world\nbeats it when you smile."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One smile from you beats\nanything else on earth."
+          }
         }
       }
     },
@@ -4196,6 +5672,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Honestly, you are the biggest blessing\nin my life."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the biggest\nblessing in my life."
           }
         }
       }
@@ -4214,6 +5696,12 @@
             "state" : "translated",
             "value" : "Thinking about you\nmakes the whole day happy."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thinking about you\nmakes my whole day better."
+          }
         }
       }
     },
@@ -4230,6 +5718,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fact: you are the home\nof my heart."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are home to me,\nin human form."
           }
         }
       }
@@ -4248,6 +5742,12 @@
             "state" : "translated",
             "value" : "When you are here,\neverything is just perfect."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moments with you feel\nabsolutely perfect."
+          }
         }
       }
     },
@@ -4264,6 +5764,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Truth is, you are literally\nthe person I dreamed of."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are everything\nI ever wanted in a person."
           }
         }
       }
@@ -4282,6 +5788,12 @@
             "state" : "translated",
             "value" : "Seeing you makes me think\nmy heart is broken. It is racing!"
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seeing you, my heart\nseems to have gone faulty."
+          }
         }
       }
     },
@@ -4298,6 +5810,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seriously, you are a walking history book.\nPure legend material."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A walking history book, you.\nThey will write about you for ages."
           }
         }
       }
@@ -4316,6 +5834,12 @@
             "state" : "translated",
             "value" : "I would happily keep falling\nfor the charm of you."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I will keep falling for\nthe charm of you, again and again."
+          }
         }
       }
     },
@@ -4332,6 +5856,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I stared at you so long\nI might need a neck brace."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Staring at you so much\nI may need a neck brace."
           }
         }
       }
@@ -4350,6 +5880,12 @@
             "state" : "translated",
             "value" : "Every time I see you,\nmy heart rate goes up."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Whenever I see you,\nmy pulse goes up a gear."
+          }
         }
       }
     },
@@ -4366,6 +5902,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Look, you are a legendary\nphotoshoot for my eyes."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are a work of art\nhung in the gallery of my eyes."
           }
         }
       }
@@ -4384,6 +5926,12 @@
             "state" : "translated",
             "value" : "Because of you,\nevery day is favorite day."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Because of you, every\nday is a favourite day."
+          }
         }
       }
     },
@@ -4400,6 +5948,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Admit it, you are a living,\nbreathing miracle."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are a living,\nbreathing miracle."
           }
         }
       }
@@ -4418,6 +5972,12 @@
             "state" : "translated",
             "value" : "Whenever I see you,\neverything goes slow motion."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Whenever I see you,\nthe world goes slow-mo."
+          }
         }
       }
     },
@@ -4434,6 +5994,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Real talk: you are the VIP pass\nto my whole life."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the VIP pass\nto my best days."
           }
         }
       }
@@ -4452,6 +6018,12 @@
             "state" : "translated",
             "value" : "Looking at you is\nthe highlight of my routine."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seeing you is the best\npart of my daily routine."
+          }
         }
       }
     },
@@ -4468,6 +6040,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No doubt, you are the premium content\nof my heart."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the box set\nI would binge forever."
           }
         }
       }
@@ -4486,6 +6064,12 @@
             "state" : "translated",
             "value" : "Because of you,\nthe world looks like HD."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "With you around, everything\nlooks brighter and sharper."
+          }
         }
       }
     },
@@ -4502,6 +6086,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Honestly, you are the golden hour\nof my life."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the golden\nhour of my whole life."
           }
         }
       }
@@ -4520,6 +6110,12 @@
             "state" : "translated",
             "value" : "Just thinking of you\nputs a smile on my face."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Think of you and a\nsmile appears by itself."
+          }
         }
       }
     },
@@ -4536,6 +6132,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fact: you are the five-star hotel\nof my heart."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the five-star\nhotel of my heart."
           }
         }
       }
@@ -4554,6 +6156,12 @@
             "state" : "translated",
             "value" : "Thanks to you,\nevery day is a treat day."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Because of you, every\nday is a treat day."
+          }
         }
       }
     },
@@ -4570,6 +6178,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Truth is, you are the main event\nof my life."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the main\nevent of my life."
           }
         }
       }
@@ -4588,6 +6202,12 @@
             "state" : "translated",
             "value" : "When I see you,\nmy heart starts dancing."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seeing you makes my\nheart do a little dance."
+          }
         }
       }
     },
@@ -4604,6 +6224,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seriously, you are the 4K quality\nof my view."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the 4K\npicture in my eyes."
           }
         }
       }
@@ -4622,6 +6248,12 @@
             "state" : "translated",
             "value" : "Whenever I see you,\neverything looks brighter."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "With you around, everything\nlooks like it is glowing."
+          }
         }
       }
     },
@@ -4638,6 +6270,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Look, you are the VIP\nof my heart."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You get the best seat in the house\nof my heart, always, you."
           }
         }
       }
@@ -4656,6 +6294,12 @@
             "state" : "translated",
             "value" : "Because of you,\nthe day turns special."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you turn an ordinary\nTuesday into a celebration."
+          }
         }
       }
     },
@@ -4672,6 +6316,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Admit it, you are the ace\nup my sleeve."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the secret\nweapon of my life."
           }
         }
       }
@@ -4690,6 +6340,12 @@
             "state" : "translated",
             "value" : "Just thinking of you\nupgrades my whole mood."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just thinking of you\nupgrades my mood."
+          }
         }
       }
     },
@@ -4706,6 +6362,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Real talk: you are the first one\nin my hall of fame."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are number one in\nmy hall of fame."
           }
         }
       }
@@ -4724,6 +6386,12 @@
             "state" : "translated",
             "value" : "Thanks to you,\nlife is in full color."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thanks to you, life is\nin full colour now."
+          }
         }
       }
     },
@@ -4740,6 +6408,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No doubt, you are the all-time\nlegend of my eyes."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the all-time\ngreat in my eyes."
           }
         }
       }
@@ -4758,6 +6432,12 @@
             "state" : "translated",
             "value" : "Whenever I see you,\nit feels like a slow-motion replay."
           }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "With you around, even\nslow days feel like a film."
+          }
         }
       }
     },
@@ -4774,6 +6454,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Honestly, you are the premium pass\nto my life."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the season ticket\nto my happiness."
           }
         }
       }
