@@ -79,3 +79,9 @@ Envie bugs e ideias por e-mail ou DM
 ตอนนี้รับคำชมได้หลายภาษาแล้ว
 ติดต่อผู้พัฒนาได้ตรงจากหน้าตั้งค่า
 แจ้งบั๊กทางอีเมลหรืออินสตาแกรมได้เลย
+
+### 앱스토어 (베트남어)
+
+Đã có lời khen lố nhiều ngôn ngữ
+Liên hệ nhà phát triển ngay ở Cài đặt
+Báo lỗi, góp ý qua email hay Instagram

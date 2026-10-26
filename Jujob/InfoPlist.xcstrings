@@ -82,6 +82,12 @@
             "state" : "translated",
             "value" : "ชมเว่อร์ทุกวัน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khen Lố Mỗi Ngày"
+          }
         }
       }
     },
@@ -165,6 +171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ชมเว่อร์ทุกวัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khen Lố Mỗi Ngày"
           }
         }
       }

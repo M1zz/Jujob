@@ -587,3 +587,48 @@ https://m1zz.github.io/Jujob/th/index.html
 
 เราไม่เก็บข้อมูลส่วนตัวของคุณ ชื่อ รายการโปรด และข้อมูลอื่นๆ จะอยู่ในเครื่องของคุณเท่านั้น
 แจ้งบั๊กหรือเสนอฟีเจอร์ได้ทางอีเมลหรืออินสตาแกรมจากหน้าตั้งค่า
+
+## vi
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/vi/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/vi/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/vi/index.html
+
+### 이름
+
+Khen Lố Mỗi Ngày
+
+### 부제
+
+Cùng nhau bốc thơm nhé
+
+### 키워드
+
+câu nói hay,động viên,cổ vũ,widget,tự tin,tích cực,tâm trạng,đi làm,phỏng vấn,thi cử,an ủi,chữa lành
+
+### 프로모션 텍스트
+
+Mỗi ngày một lời khen hơi lố để làm bạn cười! Widget màn hình chính sẽ cổ vũ bạn từ sáng đến tối, và giờ còn gọi đúng tên bạn nữa.
+
+### 설명
+
+Ứng dụng widget khen bạn thật lố, lố tới mức không đỡ nổi. Mỗi lần mở màn hình chính, một lời khen bốc thơm lại chờ sẵn để làm bạn bật cười.
+Có 281 câu khen lố cho đủ tâm trạng và tình huống, từ buổi sáng, đi làm, trước phỏng vấn, trước kỳ thi cho đến lúc mệt mỏi cần được động viên.
+
+Tính năng chính
+- Widget màn hình chính: tùy chỉnh phông chữ, màu chữ, ảnh nền, căn lề, giãn dòng và chu kỳ làm mới.
+- Chọn tâm trạng: buổi sáng, đi làm, trước phỏng vấn, trước kỳ thi, trước khi tập, trước buổi hẹn, tan làm, buổi tối, lúc mệt mỏi, thư giãn, tự tin, động lực và nhiều hơn nữa.
+- Gọi tên bạn: chữ "bạn" trong lời khen sẽ đổi thành tên của bạn, như thể có một fan cuồng đang ở ngay cạnh.
+- Yêu thích và lịch sử: câu nào hợp gu thì bấm ngôi sao để lưu, và xem lại những câu đã đọc bất cứ lúc nào.
+- Chuỗi liên tiếp và thành tích: xem đủ 7, 30 hoặc 100 ngày liên tiếp để mở khóa những lời khen đặc biệt.
+
+Ứng dụng không thu thập dữ liệu cá nhân. Tên, mục yêu thích và mọi thông tin khác chỉ nằm trong thiết bị của bạn.
+Báo lỗi và góp ý qua email hoặc Instagram ngay trong phần Cài đặt nhé.

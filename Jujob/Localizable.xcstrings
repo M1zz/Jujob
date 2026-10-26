@@ -77,6 +77,12 @@
             "state" : "translated",
             "value" : "%lld วัน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld ngày"
+          }
         }
       }
     },
@@ -152,6 +158,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ครบ 100 คำชมแล้ว คุณคือ\nเซียนตัวจริงเลยนะ!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bạn đã xem đủ 100 lời khen lố,\nđúng là bậc thầy rồi đó!"
           }
         }
       }
@@ -229,6 +241,12 @@
             "state" : "translated",
             "value" : "เข้ามาดูคำชมต่อเนื่อง 100 วันแล้ว!"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã xem khen lố 100 ngày liên tiếp!"
+          }
         }
       }
     },
@@ -304,6 +322,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ปาฏิหาริย์ 100 วัน! ความสม่ำเสมอ\nของคุณเปลี่ยนโลกแล้ว!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kỳ tích 100 ngày! Sự kiên trì của bạn\nđã làm thế giới thay đổi!"
           }
         }
       }
@@ -381,6 +405,12 @@
             "state" : "translated",
             "value" : "เราผ่าน 100 วันมาด้วยกัน\nคุณนี่สุดยอดจริงๆ!"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cùng nhau đi qua hành trình 100 ngày,\nbạn thật sự quá đỉnh!"
+          }
         }
       }
     },
@@ -456,6 +486,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 นาที"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 phút"
           }
         }
       }
@@ -533,6 +569,12 @@
             "state" : "translated",
             "value" : "30 นาที"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 phút"
+          }
         }
       }
     },
@@ -608,6 +650,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เข้ามาดูคำชมต่อเนื่อง 30 วันแล้ว!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã xem khen lố 30 ngày liên tiếp!"
           }
         }
       }
@@ -685,6 +733,12 @@
             "state" : "translated",
             "value" : "มาหากันทุกวันตลอด 30 วัน\nคุณนี่ที่หนึ่งเลย!"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suốt 30 ngày dài vẫn đều đặn ghé qua,\nbạn xuất sắc lắm!"
+          }
         }
       }
     },
@@ -760,6 +814,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดูคำชมครบ 50 ข้อแล้ว\nคุณนี่ไฟแรงจริงๆ!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bạn đã xem đủ 50 lời khen lố,\nnhiệt huyết ghê luôn!"
           }
         }
       }
@@ -837,6 +897,12 @@
             "state" : "translated",
             "value" : "5 นาที"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 phút"
+          }
         }
       }
     },
@@ -913,6 +979,12 @@
             "state" : "translated",
             "value" : "เข้ามาดูคำชมต่อเนื่อง 7 วันแล้ว!"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã xem khen lố 7 ngày liên tiếp!"
+          }
         }
       }
     },
@@ -988,6 +1060,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เราอยู่ด้วยกันมา 7 วันแล้ว\nไปต่อด้วยกันนะ!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cùng nhau đi hết 7 ngày rồi,\nmình đi tiếp nhé!"
           }
         }
       }
@@ -1071,6 +1149,12 @@
             "state" : "translated",
             "value" : "กู้คืนการซื้อ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khôi phục giao dịch mua"
+          }
         }
       }
     },
@@ -1152,6 +1236,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เลือกหมวดหมู่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn danh mục"
           }
         }
       }
@@ -1235,6 +1325,12 @@
             "state" : "translated",
             "value" : "เลือกฟอนต์"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn phông chữ"
+          }
         }
       }
     },
@@ -1316,6 +1412,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วิธีใช้งาน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hướng dẫn"
           }
         }
       }
@@ -1399,6 +1501,12 @@
             "state" : "translated",
             "value" : "ไม่ระบุชื่อ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ẩn danh"
+          }
         }
       }
     },
@@ -1481,6 +1589,12 @@
             "state" : "translated",
             "value" : "พรีเมียม"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
+          }
         }
       }
     },
@@ -1560,6 +1674,12 @@
             "state" : "translated",
             "value" : "ติดต่อผู้พัฒนา"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liên hệ nhà phát triển"
+          }
         }
       }
     },
@@ -1635,6 +1755,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สีไล่เฉด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Màu chuyển sắc"
           }
         }
       }
@@ -1712,6 +1838,12 @@
             "state" : "translated",
             "value" : "สีตัวอักษร"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Màu chữ"
+          }
         }
       }
     },
@@ -1787,6 +1919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เลือกอารมณ์"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn tâm trạng"
           }
         }
       }
@@ -1864,6 +2002,12 @@
             "state" : "translated",
             "value" : "ใจห่อเหี่ยว"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hơi buồn"
+          }
         }
       }
     },
@@ -1939,6 +2083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เลือกคำชมที่เข้ากับ\nอารมณ์และสถานการณ์ให้เอง!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Để em chọn lời khen lố\nhợp với tâm trạng của bạn nhé!"
           }
         }
       }
@@ -2016,6 +2166,12 @@
             "state" : "translated",
             "value" : "บันทึกของฉัน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hành trình của mình"
+          }
         }
       }
     },
@@ -2092,6 +2248,12 @@
             "state" : "translated",
             "value" : "จัดการคำชมของฉัน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quản lý lời khen"
+          }
         }
       }
     },
@@ -2167,6 +2329,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คำชมถัดไป"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Câu tiếp theo"
           }
         }
       }
@@ -2245,6 +2413,12 @@
             "state" : "translated",
             "value" : "คุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "bạn"
+          }
         }
       }
     },
@@ -2320,6 +2494,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แค่เป็นคุณก็มีค่า\nมากพอแล้วนะ!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bạn xứng đáng với mọi điều\ntốt đẹp trên đời!"
           }
         }
       }
@@ -2397,6 +2577,12 @@
             "state" : "translated",
             "value" : "ก่อนเดต"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trước buổi hẹn"
+          }
         }
       }
     },
@@ -2472,6 +2658,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ฮึบสู้"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Động lực"
           }
         }
       }
@@ -2549,6 +2741,12 @@
             "state" : "translated",
             "value" : "สุ่ม"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngẫu nhiên"
+          }
         }
       }
     },
@@ -2624,6 +2822,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถูกใจคำชมไหน\nกดปุ่มดาวเก็บไว้ได้เลย!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thích câu nào thì\nbấm nút ngôi sao để lưu nhé!"
           }
         }
       }
@@ -2701,6 +2905,12 @@
             "state" : "translated",
             "value" : "รักตัวเองให้มากขึ้นทุกวัน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mỗi ngày đều yêu bản thân"
+          }
         }
       }
     },
@@ -2776,6 +2986,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ก่อนสัมภาษณ์"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trước phỏng vấn"
           }
         }
       }
@@ -2853,6 +3069,12 @@
             "state" : "translated",
             "value" : "ตัวอย่าง"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem trước"
+          }
         }
       }
     },
@@ -2928,6 +3150,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตั้งค่าพื้นหลัง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt nền"
           }
         }
       }
@@ -3005,6 +3233,12 @@
             "state" : "translated",
             "value" : "รูปพื้นหลัง"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ảnh nền"
+          }
         }
       }
     },
@@ -3080,6 +3314,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ครบ 100 วัน!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mốc 100 ngày!"
           }
         }
       }
@@ -3157,6 +3397,12 @@
             "state" : "translated",
             "value" : "มาหากันทุกวันตลอด 100 วัน\nคุณคือคนสำคัญที่สุดในโลกเลย!"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suốt trăm ngày ngày nào cũng ghé qua,\nbạn là người quý nhất đời này!"
+          }
         }
       }
     },
@@ -3232,6 +3478,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยินดีรับแจ้งบั๊กและข้อเสนอแนะฟีเจอร์"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chào đón góp ý và báo lỗi của bạn."
           }
         }
       }
@@ -3309,6 +3561,12 @@
             "state" : "translated",
             "value" : "ตั้งค่าละเอียด"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt chi tiết"
+          }
         }
       }
     },
@@ -3384,6 +3642,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "รอบการรีเฟรช"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chu kỳ làm mới"
           }
         }
       }
@@ -3461,6 +3725,12 @@
             "state" : "translated",
             "value" : "ก่อนสอบ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trước kỳ thi"
+          }
         }
       }
     },
@@ -3536,6 +3806,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตอนเช้า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buổi sáng"
           }
         }
       }
@@ -3613,6 +3889,12 @@
             "state" : "translated",
             "value" : "เลื่อนลงจนเจอชื่อแอป\n\"ชมเว่อร์ทุกวัน\""
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuộn xuống đến khi thấy tên ứng dụng\n\"Khen Lố Mỗi Ngày\""
+          }
         }
       }
     },
@@ -3688,6 +3970,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ความสำเร็จ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thành tích"
           }
         }
       }
@@ -3765,6 +4053,12 @@
             "state" : "translated",
             "value" : "สถิติต่อเนื่อง"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chuỗi liên tiếp"
+          }
         }
       }
     },
@@ -3840,6 +4134,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วันนี้รู้สึกยังไงบ้าง?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay bạn thấy thế nào?"
           }
         }
       }
@@ -3917,6 +4217,12 @@
             "state" : "translated",
             "value" : "วันนี้ก็เป็นตัวของตัวเองนะ\nแบบนั้นแหละดีที่สุด!"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay cứ là chính bạn,\nthế là tuyệt nhất!"
+          }
         }
       }
     },
@@ -3992,6 +4298,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ชมเว่อร์ทุกวัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khen Lố Mỗi Ngày"
           }
         }
       }
@@ -4069,6 +4381,12 @@
             "state" : "translated",
             "value" : "ขวา"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Căn phải"
+          }
         }
       }
     },
@@ -4144,6 +4462,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ใครมาทำน้องเราเสียกำลังใจ!\nเลือกคำปลอบใจให้ตัวเองสักคำนะ!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn một câu để tự động viên\nbản thân nhé, đừng để mình buồn!"
           }
         }
       }
@@ -4221,6 +4545,12 @@
             "state" : "translated",
             "value" : "ซ้าย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Căn trái"
+          }
         }
       }
     },
@@ -4296,6 +4626,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ก่อนออกกำลังกาย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trước khi tập"
           }
         }
       }
@@ -4373,6 +4709,12 @@
             "state" : "translated",
             "value" : "ปรับหน้าตาและฟอนต์ของวิดเจ็ตได้ละเอียด"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tinh chỉnh kiểu dáng và phông chữ của widget"
+          }
         }
       }
     },
@@ -4448,6 +4790,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตั้งค่าวิดเจ็ต"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt widget"
           }
         }
       }
@@ -4525,6 +4873,12 @@
             "state" : "translated",
             "value" : "ใช้คำชมนี้"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dùng câu này"
+          }
         }
       }
     },
@@ -4600,6 +4954,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ชื่อ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tên"
           }
         }
       }
@@ -4677,6 +5037,12 @@
             "state" : "translated",
             "value" : "ตั้งชื่อ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt tên"
+          }
         }
       }
     },
@@ -4752,6 +5118,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บอกชื่อหน่อยนะ!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cho em biết tên bạn nhé!"
           }
         }
       }
@@ -4829,6 +5201,12 @@
             "state" : "translated",
             "value" : "ใส่ชื่อของคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhập tên của bạn"
+          }
         }
       }
     },
@@ -4904,6 +5282,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ติดต่อทางอีเมล"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gửi email liên hệ"
           }
         }
       }
@@ -4981,6 +5365,12 @@
             "state" : "translated",
             "value" : "แค่เลือกขนาดวิดเจ็ต แล้วแตะปุ่ม \"เพิ่มวิดเจ็ต\" เท่านี้ก็เสร็จ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giờ chỉ cần chọn cỡ widget rồi bấm nút \"Thêm widget\" là xong."
+          }
         }
       }
     },
@@ -5056,6 +5446,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "DM อินสตาแกรม (@lee25_ios)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhắn Instagram (@lee25_ios)"
           }
         }
       }
@@ -5133,6 +5529,12 @@
             "state" : "translated",
             "value" : "ก่อนเริ่มงาน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trước giờ làm"
+          }
         }
       }
     },
@@ -5208,6 +5610,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ครบหนึ่งสัปดาห์!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mốc một tuần!"
           }
         }
       }
@@ -5285,6 +5693,12 @@
             "state" : "translated",
             "value" : "มาหากันไม่ขาดทั้งสัปดาห์\nภูมิใจในตัวคุณสุดๆ!"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cả tuần đều đặn ghé qua,\nem tự hào về bạn lắm!"
+          }
         }
       }
     },
@@ -5360,6 +5774,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "มั่นใจ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tự tin"
           }
         }
       }
@@ -5437,6 +5857,12 @@
             "state" : "translated",
             "value" : "ตอนเย็น"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buổi tối"
+          }
         }
       }
     },
@@ -5512,6 +5938,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บันทึก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lưu"
           }
         }
       }
@@ -5589,6 +6021,12 @@
             "state" : "translated",
             "value" : "ผู้เสนอ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Người đề xuất"
+          }
         }
       }
     },
@@ -5664,6 +6102,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แกรนด์มาสเตอร์สายชม"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đại sư khen lố"
           }
         }
       }
@@ -5741,6 +6185,12 @@
             "state" : "translated",
             "value" : "เซียนสายชม"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bậc thầy khen lố"
+          }
         }
       }
     },
@@ -5816,6 +6266,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วิดเจ็ตชมเว่อร์"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget khen lố"
           }
         }
       }
@@ -5893,6 +6349,12 @@
             "state" : "translated",
             "value" : "เราจะใส่ชื่อของคุณแทนคำว่า\n'คุณ' ในคำชมให้เอง!"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em sẽ gọi tên bạn thay cho\n'bạn' trong lời khen nhé!"
+          }
         }
       }
     },
@@ -5968,6 +6430,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เปิดดูคำชมเมื่อไหร่\nก็บันทึกให้อัตโนมัติ!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem câu nào là\ntự động được ghi lại!"
           }
         }
       }
@@ -6045,6 +6513,12 @@
             "state" : "translated",
             "value" : "กลาง"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Căn giữa"
+          }
         }
       }
     },
@@ -6120,6 +6594,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "รายการโปรด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yêu thích"
           }
         }
       }
@@ -6197,6 +6677,12 @@
             "state" : "translated",
             "value" : "ยังไม่มีรายการโปรด"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa có mục yêu thích"
+          }
         }
       }
     },
@@ -6272,6 +6758,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดูคำชมครบ 100 ข้อแล้ว!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã xem tổng cộng 100 lời khen lố!"
           }
         }
       }
@@ -6349,6 +6841,12 @@
             "state" : "translated",
             "value" : "ดูคำชมครบ 50 ข้อแล้ว!"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã xem tổng cộng 50 lời khen lố!"
+          }
         }
       }
     },
@@ -6424,6 +6922,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "จำนวนวันที่เข้าดู"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tổng số ngày đã xem"
           }
         }
       }
@@ -6501,6 +7005,12 @@
             "state" : "translated",
             "value" : "สถิติสูงสุด"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kỷ lục"
+          }
         }
       }
     },
@@ -6576,6 +7086,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทางไปทำงาน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đi làm"
           }
         }
       }
@@ -6653,6 +7169,12 @@
             "state" : "translated",
             "value" : "ทางกลับบ้าน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tan làm"
+          }
         }
       }
     },
@@ -6728,6 +7250,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ฟอนต์"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phông chữ"
           }
         }
       }
@@ -6805,6 +7333,12 @@
             "state" : "translated",
             "value" : "ตั้งค่าฟอนต์"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt phông chữ"
+          }
         }
       }
     },
@@ -6880,6 +7414,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ครบหนึ่งเดือน!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mốc một tháng!"
           }
         }
       }
@@ -6957,6 +7497,12 @@
             "state" : "translated",
             "value" : "เราอยู่ด้วยกันมาหนึ่งเดือนแล้ว\nคุณคือคนพิเศษจริงๆ!"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Một tháng đồng hành cùng nhau,\nbạn thật sự rất đặc biệt!"
+          }
         }
       }
     },
@@ -7032,6 +7578,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ระยะบรรทัด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giãn dòng"
           }
         }
       }
@@ -7109,6 +7661,12 @@
             "state" : "translated",
             "value" : "ต่อเนื่องตอนนี้"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chuỗi hiện tại"
+          }
         }
       }
     },
@@ -7184,6 +7742,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กดค้างที่หน้าจอโฮมจนไอคอนสั่น แล้วแตะ ➕ มุมซ้ายบนหรือขวาบน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhấn giữ màn hình chính để vào chế độ lắc, rồi chạm dấu ➕ ở góc trên bên phải hoặc trái."
           }
         }
       }
@@ -7261,6 +7825,12 @@
             "state" : "translated",
             "value" : "ประวัติ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lịch sử"
+          }
         }
       }
     },
@@ -7336,6 +7906,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยังไม่มีประวัติ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lịch sử đang trống"
           }
         }
       }
@@ -7413,6 +7989,12 @@
             "state" : "translated",
             "value" : "ผ่อนคลาย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thư giãn"
+          }
         }
       }
     },
@@ -7488,6 +8070,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตอนเหนื่อย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lúc mệt mỏi"
           }
         }
       }

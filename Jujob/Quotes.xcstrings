@@ -81,6 +81,12 @@
             "state" : "translated",
             "value" : "ตื่นมาก็เฉิดฉายแล้ว\nคุณนี่มันตัวแม่แห่งเช้านี้"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chào buổi sáng! Hôm nay bạn đã\nđủ lấp lánh rồi nhé."
+          }
         }
       }
     },
@@ -163,6 +169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตะวันยังต้องเกรงใจ\nเพราะคุณเปล่งประกายกว่า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mặt trời còn phải nể\nkhi thấy bạn thức dậy."
           }
         }
       }
@@ -247,6 +259,12 @@
             "state" : "translated",
             "value" : "แค่ลืมตาตื่นขึ้นมา\nคุณก็ชนะไปครึ่งวันแล้ว!"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dậy được là bạn đã thắng\nmột nửa cuộc đời rồi!"
+          }
         }
       }
     },
@@ -329,6 +347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เช้านี้โลกสดใสขึ้น\nเพราะมีคุณอยู่บนโลกใบนี้"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sáng nay bạn tỏa sáng hơn\ncả bình minh luôn đó."
           }
         }
       }
@@ -413,6 +437,12 @@
             "state" : "translated",
             "value" : "ตัวเอกของวันนี้\nก็คือคุณ ไม่ต้องไปสมัครบทไหนเลย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay bạn là nhân vật chính,\ncứ thế mà tỏa sáng thôi!"
+          }
         }
       }
     },
@@ -495,6 +525,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไม่ต้องรอกาแฟหรอก\nแค่เห็นคุณก็ตาสว่างแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vừa mở mắt ra là bạn\nđã chiến thắng rồi đó."
           }
         }
       }
@@ -579,6 +615,12 @@
             "state" : "translated",
             "value" : "ผมยุ่งๆ ตาปรือๆ\nคุณก็ยังน่ามองที่สุดอยู่ดี"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nụ cười của bạn buổi sáng\nngọt hơn cả ly cà phê sữa."
+          }
         }
       }
     },
@@ -661,6 +703,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สวัสดีตอนเช้ายังไม่พอ\nต้องบอกว่าคุณปังตั้งแต่ตื่น"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay vẫn là bạn,\nvà thế là quá đỉnh rồi!"
           }
         }
       }
@@ -745,6 +793,12 @@
             "state" : "translated",
             "value" : "ตื่นมาหน้าเป๊ะขนาดนี้\nคุณขโมยฟิลเตอร์ใครมาเนี่ย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sáng ra đã xinh thế này,\nbạn định phạm luật hả?"
+          }
         }
       }
     },
@@ -827,6 +881,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วันนี้ก็มีคนหนึ่ง\nที่ทำให้เช้านี้น่าตื่น คือคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Người ta chúc buổi sáng tốt lành,\nem chúc bạn buổi sáng cực phẩm!"
           }
         }
       }
@@ -911,6 +971,12 @@
             "state" : "translated",
             "value" : "นาฬิกาปลุกดังแค่ครั้งเดียว\nคุณก็ลุกมาเป็นตำนานแล้ว"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mới sáng ra đã gặp bạn,\nmắt em được đi spa luôn."
+          }
         }
       }
     },
@@ -993,6 +1059,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยิ้มแรกของวันจากคุณ\nมีค่ากว่าหวยงวดไหนๆ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sáng nay em tìm ra người rạng rỡ\nnhất quả đất, chính là bạn!"
           }
         }
       }
@@ -1077,6 +1149,12 @@
             "state" : "translated",
             "value" : "เหนื่อยมาทั้งวัน\nแต่คุณก็ยังเก่งที่สุดเลยนะ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vất vả cả ngày rồi,\nbạn giỏi lắm đó nha!"
+          }
         }
       }
     },
@@ -1159,6 +1237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ปิดวันได้สวยมาก\nคุณนี่ทำได้ทุกอย่างจริงๆ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khép lại một ngày, bạn vẫn\nlung linh như lúc mới sáng."
           }
         }
       }
@@ -1243,6 +1327,12 @@
             "state" : "translated",
             "value" : "วันนี้ทุ่มเทเต็มที่\nฉันภูมิใจในตัวคุณจัง"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay đã cố hết sức,\nem tự hào về bạn ghê!"
+          }
         }
       }
     },
@@ -1325,6 +1415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ล้าก็ล้า แต่คุณก็รอดมา\nได้อีกวัน สุดยอด!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mệt thì mệt, nhưng bạn vẫn\ntrụ vững cả ngày. Đỉnh!"
           }
         }
       }
@@ -1409,6 +1505,12 @@
             "state" : "translated",
             "value" : "ทุกวันของคุณ\nมีค่าเสมอ รู้ไหม"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngày nào của bạn\ncũng đáng giá hết."
+          }
         }
       }
     },
@@ -1491,6 +1593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "รอดมาได้อีกวันโดยไม่เป็นอะไร\nแค่นี้คุณก็เก่งเกินพอแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Một ngày bình yên trôi qua,\nthế là đủ rồi bạn nhé."
           }
         }
       }
@@ -1575,6 +1683,12 @@
             "state" : "translated",
             "value" : "ดาวบนฟ้ายังต้องมองตาม\nเพราะคุณเปล่งประกายไม่แพ้กัน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Như sao trên bầu trời đêm,\nbạn cũng đang tỏa sáng đó."
+          }
         }
       }
     },
@@ -1657,6 +1771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ค่ำแล้วยังเปล่งประกาย\nคุณชาร์จแสงมาจากไหนเนี่ย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tối rồi mà bạn vẫn rạng rỡ,\nbật pin dự phòng hả?"
           }
         }
       }
@@ -1741,6 +1861,12 @@
             "state" : "translated",
             "value" : "สู้มาทั้งวัน เก่งมากนะ\nมีคุณอยู่ ฉันสบายใจ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chạy deadline cả ngày mà bạn\nvẫn dễ thương, sao được vậy?"
+          }
         }
       }
     },
@@ -1823,6 +1949,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "โลกวันนี้สวยขึ้นเยอะ\nก็เพราะมีคุณนั่นแหละ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhờ có bạn mà hôm nay\nthế giới đẹp hơn hẳn."
           }
         }
       }
@@ -1907,6 +2039,12 @@
             "state" : "translated",
             "value" : "กลางคืนก็ปัง กลางวันก็ปัง\nคุณคือตำนาน 24 ชั่วโมง"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đêm nhìn cũng huyền thoại,\nngày nhìn cũng huyền thoại."
+          }
         }
       }
     },
@@ -1989,6 +2127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไม่เป็นไรนะ วันแย่ๆ ก็มี\nคุณทำได้ดีมากแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không sao đâu, ai cũng có ngày tệ,\nbạn đang làm tốt lắm rồi."
           }
         }
       }
@@ -2073,6 +2217,12 @@
             "state" : "translated",
             "value" : "ตอนนี้อาจเหนื่อย\nแต่คุณผ่านไปได้แน่"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giờ tuy khó đấy, nhưng\nbạn nhất định vượt qua được!"
+          }
         }
       }
     },
@@ -2155,6 +2305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไม่ต้องสมบูรณ์แบบก็ได้\nแบบที่คุณเป็นอยู่ก็ดีที่สุดแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không cần hoàn hảo đâu,\nbạn như bây giờ là tuyệt nhất!"
           }
         }
       }
@@ -2239,6 +2395,12 @@
             "state" : "translated",
             "value" : "เหนื่อยก็พักได้\nเดินตามจังหวะของคุณเอง"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mệt thì nghỉ chút cũng được,\nbạn cứ đi theo nhịp của mình."
+          }
         }
       }
     },
@@ -2321,6 +2483,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ที่จริงคุณแข็งแกร่ง\nกว่าที่คิดเยอะเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nói nhỏ nhé, thật ra bạn mạnh\nmẽ hơn bạn tưởng nhiều lắm!"
           }
         }
       }
@@ -2405,6 +2573,12 @@
             "state" : "translated",
             "value" : "เดี๋ยวมันก็ผ่านไป\nและคุณทำได้แน่นอน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rồi cũng sẽ qua thôi,\nbạn làm được mà!"
+          }
         }
       }
     },
@@ -2487,6 +2661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ใจจะห่อเหี่ยวแค่ไหน\nค่าของคุณก็ไม่ลดลงเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tâm trạng có đi xuống thì\ngiá trị của bạn vẫn y nguyên."
           }
         }
       }
@@ -2571,6 +2751,12 @@
             "state" : "translated",
             "value" : "ความเศร้าก็เป็นส่วนหนึ่งของคุณ\nจะรู้สึกยังไงก็ไม่เป็นไรนะ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buồn cũng là một phần của bạn,\ncảm xúc nào cũng được phép có."
+          }
         }
       }
     },
@@ -2653,6 +2839,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "รู้ไหมว่าคุณเปล่งประกายตอนยากๆ\nเพชรยังต้องโดนเจียก่อนถึงจะแวว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biết không, kim cương cũng cần\náp lực mới thành. Như bạn đó!"
           }
         }
       }
@@ -2737,6 +2929,12 @@
             "state" : "translated",
             "value" : "เศร้าอยู่ใช่ไหม มองมาทางนี้\nฉันตกหลุมคุณจนไม่เหลือที่ให้เศร้า"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buồn hả? Nhìn em nè, em còn mê\nbạn tới mức quên buồn luôn."
+          }
         }
       }
     },
@@ -2819,6 +3017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ใจฟูจะลดลงก็ช่างมัน\nคุณยังเป็นที่รักที่สุดของฉัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tâm trạng xuống dốc cũng được,\nbạn vẫn quý nhất quả đất."
           }
         }
       }
@@ -2903,6 +3107,12 @@
             "state" : "translated",
             "value" : "ร้องไห้ก็ยังน่ารัก\nคุณนี่จะให้ทำไงดีเนี่ย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buồn vẫn xinh, khóc vẫn xinh,\nbạn tính sao đây hả?"
+          }
         }
       }
     },
@@ -2985,6 +3195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตอนนี้จะยากแค่ไหน\nการที่มีคุณก็คือปาฏิหาริย์แล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dù đang mệt, sự có mặt của bạn\nvẫn là một phép màu."
           }
         }
       }
@@ -3069,6 +3285,12 @@
             "state" : "translated",
             "value" : "แม้วันนี้จะหนัก\nแต่คุณต้องทำได้แน่ๆ!"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giờ thì khó đấy, nhưng\nbạn chắc chắn sẽ làm được!"
+          }
         }
       }
     },
@@ -3151,6 +3373,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยิ่งยากเท่าไหร่\nยิ่งเห็นว่าคุณเจ๋งแค่ไหน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Càng lúc khó khăn thì\nbạn càng lộ rõ bản lĩnh!"
           }
         }
       }
@@ -3235,6 +3463,12 @@
             "state" : "translated",
             "value" : "อย่าเพิ่งยอมแพ้นะ\nคุณแกร่งพอแน่นอน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đừng bỏ cuộc nhé,\nbạn đủ mạnh mẽ mà."
+          }
         }
       }
     },
@@ -3317,6 +3551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ฝ่าช่วงยากๆ มาได้ขนาดนี้\nคุณนี่สุดยอดจริงๆ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vẫn đang cố vượt qua,\nbạn giỏi thật sự đó!"
           }
         }
       }
@@ -3401,6 +3641,12 @@
             "state" : "translated",
             "value" : "ความลำบากวันนี้\nคือปุ๋ยของคุณในวันพรุ่งนี้"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khó khăn hôm nay là phân bón\ncho bạn lớn lên ngày mai!"
+          }
         }
       }
     },
@@ -3483,6 +3729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ความจริงคุณรับมือได้\nมากกว่าที่คิดไว้เยอะเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nghe này, bạn chịu đựng được\nnhiều hơn bạn nghĩ đó!"
           }
         }
       }
@@ -3567,6 +3819,12 @@
             "state" : "translated",
             "value" : "ช่วงหนักๆ นี้\nเดี๋ยวก็กลายเป็นเรื่องเล่าของคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phút khó khăn này rồi sẽ\nthành kỷ niệm, bạn cứ tin đi!"
+          }
         }
       }
     },
@@ -3649,6 +3907,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ต่อให้เหนื่อย คุณก็ยังเปล่งประกาย\nเพชรต้องโดนเจียถึงจะแวว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khó thì khó, bạn vẫn lấp lánh,\nkim cương cũng phải mài mới sáng."
           }
         }
       }
@@ -3733,6 +3997,12 @@
             "state" : "translated",
             "value" : "บอกว่าเหนื่อยเหรอ?\nแต่คุณก็ยังน่ารักที่สุดอยู่ดี"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đang chật vật à? Vậy mà bạn\nvẫn xinh nhất hệ mặt trời."
+          }
         }
       }
     },
@@ -3815,6 +4085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "การที่ยังสู้อยู่ของคุณ\nเป็นกำลังใจให้ใครอีกหลายคน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Việc bạn vẫn đứng vững\nlà hy vọng của ai đó đó."
           }
         }
       }
@@ -3899,6 +4175,12 @@
             "state" : "translated",
             "value" : "เหนื่อยจนจะขาดใจ\nแต่คุณก็ยังเก๋ห้ามไม่อยู่"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mệt muốn xỉu mà bạn\nvẫn đẹp, hết cách luôn!"
+          }
         }
       }
     },
@@ -3981,6 +4263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วันนี้ก็ลุยได้เลย\nมั่นใจเข้าไว้ ยังไงคุณก็เก๋"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay bạn làm được mà,\ntự tin bắt đầu thôi nào!"
           }
         }
       }
@@ -4065,6 +4353,12 @@
             "state" : "translated",
             "value" : "เชื่อมือคุณเลย\nวันนี้ต้องปังแน่นอน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em tin vào năng lực của bạn,\nhôm nay sẽ rất tuyệt đấy."
+          }
         }
       }
     },
@@ -4147,6 +4441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คนที่เตรียมพร้อมอย่างคุณ\nสำเร็จไปครึ่งทางแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chuẩn bị xong rồi thì bạn\nđã thành công một nửa!"
           }
         }
       }
@@ -4231,6 +4531,12 @@
             "state" : "translated",
             "value" : "งานวันนี้น่ะเหรอ\nถ้าเป็นคุณ สบายมาก"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Việc hôm nay mà có bạn\nthì chuyện nhỏ như con thỏ."
+          }
         }
       }
     },
@@ -4313,6 +4619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไฟในตัวคุณ\nจะทำให้วันนี้ลุกโชน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhiệt huyết của bạn sẽ\nlàm sáng cả ngày hôm nay!"
           }
         }
       }
@@ -4397,6 +4709,12 @@
             "state" : "translated",
             "value" : "สู้ๆ นะ\nวันนี้ก็เป็นคุณแบบที่เก่งสุดเลย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cố lên nào! Hôm nay cứ để\nbạn tỏa sáng theo cách riêng."
+          }
         }
       }
     },
@@ -4479,6 +4797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ก่อนเริ่มงานก็ดูโปรเกินร้อย\nคุณนี่มืออาชีพตัวจริง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trước giờ làm, bạn đã\nchuyên nghiệp lắm rồi đó!"
           }
         }
       }
@@ -4563,6 +4887,12 @@
             "state" : "translated",
             "value" : "ไม่อยากทำงานเหรอ?\nแต่หน้าคุณทำงานล่วงเวลาอยู่นะ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lười đi làm hả? Nhưng gương mặt\nbạn đang làm thay rồi."
+          }
         }
       }
     },
@@ -4645,6 +4975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หน้าตาตอนไปทำงานของคุณ\nทำให้ออฟฟิศสว่างขึ้นเป็นกอง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visual đi làm hôm nay xỉu luôn,\ncông ty sáng hẳn nhờ bạn."
           }
         }
       }
@@ -4729,6 +5065,12 @@
             "state" : "translated",
             "value" : "ภาพตอนคุณทำงาน\nมันคือศิลปะชัดๆ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhìn bạn làm việc thôi\nđã thấy là nghệ thuật rồi."
+          }
         }
       }
     },
@@ -4811,6 +5153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยังไม่ทันเริ่มงานเลย\nคุณก็เพอร์เฟกต์ซะแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa bắt đầu làm mà bạn\nđã hoàn hảo, là sao vậy?"
           }
         }
       }
@@ -4895,6 +5243,12 @@
             "state" : "translated",
             "value" : "คนที่ออกกำลังกายอย่างคุณ\nเท่อยู่แล้วตั้งแต่ก้าวแรก"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đang tập luyện là bạn\nđã ngầu lắm rồi!"
+          }
         }
       }
     },
@@ -4977,6 +5331,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดูแลสุขภาพทุกวัน\nคุณนี่ใจเด็ดจริงๆ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chăm lo sức khỏe mỗi ngày,\nbạn giỏi quá trời!"
           }
         }
       }
@@ -5061,6 +5421,12 @@
             "state" : "translated",
             "value" : "ร่างกายของคุณ\nคุณรู้ใจมันดีที่สุดเสมอ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cơ thể mình thì chỉ bạn\nhiểu rõ nhất, cứ tin nó!"
+          }
         }
       }
     },
@@ -5143,6 +5509,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แค่ลุกขึ้นมาออกกำลัง\nก็น่าภูมิใจในตัวคุณแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ cần bắt đầu tập thôi\nlà bạn đã đáng tự hào rồi."
           }
         }
       }
@@ -5227,6 +5599,12 @@
             "state" : "translated",
             "value" : "เหงื่อที่หยดจากคุณ\nดูสวยกว่าเพชรเม็ดไหนๆ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mồ hôi rơi mà bạn vẫn\nđẹp như phim, hết nói!"
+          }
         }
       }
     },
@@ -5309,6 +5687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "สุขภาพของคุณ\nสำคัญที่สุดเลยนะ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sức khỏe của bạn\nmới là quan trọng nhất."
           }
         }
       }
@@ -5393,6 +5777,12 @@
             "state" : "translated",
             "value" : "วันนี้ก็ยังแบ่งเวลาให้ตัวเอง\nคุณนี่ที่หนึ่งจริงๆ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay lại dành thời gian\ncho bản thân, bạn quá đỉnh!"
+          }
         }
       }
     },
@@ -5475,6 +5865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ใส่ชุดออกกำลังกายแล้ว\nคุณถ่ายแมกกาซีนได้เลยนะ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mặc đồ tập vào là bạn\nlên bìa tạp chí được luôn."
           }
         }
       }
@@ -5559,6 +5955,12 @@
             "state" : "translated",
             "value" : "ฟิตเนสกลายเป็นสวรรค์\nเพราะมีคุณมาเยือน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phòng gym thành thiên đường\nvì có bạn ghé qua."
+          }
         }
       }
     },
@@ -5641,6 +6043,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ออกกำลังกายก็ยังเปล่งประกาย\nคุณเท่ได้ตลอดยังไงเนี่ย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tập cũng tỏa sáng, sao bạn\nlúc nào cũng ngầu vậy?"
           }
         }
       }
@@ -5725,6 +6133,12 @@
             "state" : "translated",
             "value" : "เหงื่อออกแล้วยังสวยหล่อ\nใช่ คุณนี่แหละ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có người đổ mồ hôi vẫn đẹp á?\nChính là bạn đó."
+          }
         }
       }
     },
@@ -5807,6 +6221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เดินไปทำงานแบบนี้\nคุณดูโปรมากเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dáng bạn đi làm sáng nay\nchuyên nghiệp hết sức!"
           }
         }
       }
@@ -5891,6 +6311,12 @@
             "state" : "translated",
             "value" : "เช้าตรู่ก็ขยับตัวแล้ว\nคุณนี่สุดยอด"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sáng sớm đã lên đường rồi,\nbạn giỏi thật đó!"
+          }
         }
       }
     },
@@ -5973,6 +6399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วันนี้ก็ออกไปทำงานอีกแล้ว\nคุณคือผู้ชนะตัวจริง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay vẫn đi làm,\nbạn đã là người chiến thắng!"
           }
         }
       }
@@ -6057,6 +6489,12 @@
             "state" : "translated",
             "value" : "ทุกก้าวที่คุณเดิน\nมีค่าทั้งนั้น"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mỗi bước chân của bạn\nđều có giá trị đó nha."
+          }
         }
       }
     },
@@ -6139,6 +6577,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้ามีคุณร่วมทาง\nทางไปทำงานก็พิเศษขึ้นมา"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đường đi làm mà có bạn\nthì đường nào cũng đặc biệt."
           }
         }
       }
@@ -6223,6 +6667,12 @@
             "state" : "translated",
             "value" : "รับผิดชอบเต็มร้อย\nคุณเท่มากที่ไปทำงานทุกวัน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đi làm đầy trách nhiệm như bạn\nthì ngầu lắm luôn!"
+          }
         }
       }
     },
@@ -6305,6 +6755,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพราะคุณขึ้นรถไฟฟ้า\nตู้นี้เลยกลายเป็นรันเวย์"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có bạn mà tuyến xe buýt\nthành sàn catwalk luôn."
           }
         }
       }
@@ -6389,6 +6845,12 @@
             "state" : "translated",
             "value" : "นั่งรถเมล์ก็ยังเปล่งประกาย\nวันนี้คุณถ่ายแฟชั่นเหรอ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngồi trên xe mà bạn vẫn sáng,\nhôm nay chụp ảnh bìa hả?"
+          }
         }
       }
     },
@@ -6471,6 +6933,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เห็นคุณไปทำงาน\nเช้านี้ก็มีความสุขขึ้นมาทันที"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thấy bạn đi làm là\nbuổi sáng em vui hẳn lên."
           }
         }
       }
@@ -6555,6 +7023,12 @@
             "state" : "translated",
             "value" : "แค่เดินเฉยๆ ก็เท่แล้ว\nก็คุณไงล่ะ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ đi bộ thôi mà bạn đã ngầu,\nhết nước chấm luôn!"
+          }
         }
       }
     },
@@ -6637,6 +7111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วันนี้เหนื่อยมาเยอะ\nกลับไปพักให้เต็มที่นะ คุณเก่งมาก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay vất vả rồi, bạn nhé!\nVề nhà nghỉ ngơi cho đã."
           }
         }
       }
@@ -6721,6 +7201,12 @@
             "state" : "translated",
             "value" : "เห็นคุณเดินกลับบ้าน\nก็ยังสง่างามเหมือนเดิม"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dáng bạn tan làm đi về\nmới ngầu làm sao!"
+          }
         }
       }
     },
@@ -6803,6 +7289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตอนเลิกงานเดินกลับ\nคุณคือที่หนึ่งเสมอ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trên đường về nhà,\nbạn vẫn là số một!"
           }
         }
       }
@@ -6887,6 +7379,12 @@
             "state" : "translated",
             "value" : "วันนี้ก็จบอย่างสวยงาม\nภูมิใจในตัวคุณจัง"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Một ngày suôn sẻ xong rồi,\nbạn đáng tự hào lắm!"
+          }
         }
       }
     },
@@ -6969,6 +7467,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตอนนี้เป็นเวลาของคุณแล้ว\nพักให้สบายเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giờ là thời gian của riêng bạn,\nnghỉ ngơi thoải mái nha!"
           }
         }
       }
@@ -7053,6 +7557,12 @@
             "state" : "translated",
             "value" : "หลังเลิกงานแล้ว\nขอเวลาดีๆ ให้คุณบ้างนะ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tan làm rồi, hãy dành\nthời gian cho chính bạn nhé!"
+          }
         }
       }
     },
@@ -7135,6 +7645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เลิกงานแล้วนะ\nวันนี้คุณทำดีมาก พักได้เลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tan làm rồi nè, hôm nay bạn\nvất vả nhiều rồi, cảm ơn nha!"
           }
         }
       }
@@ -7219,6 +7735,12 @@
             "state" : "translated",
             "value" : "ทางกลับบ้านก็ยังดูดี\nวันนี้คุณทำได้เจ๋งมาก"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đường về nhà cũng xinh,\nhôm nay bạn đỉnh lắm luôn."
+          }
         }
       }
     },
@@ -7301,6 +7823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "พอเห็นคุณตอนเลิกงาน\nก็รู้เลยว่าวันนี้คุ้มค่า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhìn bạn tan làm thôi\nmà thấy cả ngày thật ý nghĩa."
           }
         }
       }
@@ -7385,6 +7913,12 @@
             "state" : "translated",
             "value" : "วันนี้อาจจะหนักหนา\nแต่คุณก็ยังเยี่ยมเหมือนเดิม"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Một ngày mệt đấy, nhưng\nbạn vẫn là nhất, không bàn cãi."
+          }
         }
       }
     },
@@ -7467,6 +8001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เตรียมตัวมาขนาดนี้\nคุณทำได้ดีแน่นอน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ôn bấy lâu rồi, bạn chắc\nchắn sẽ làm tốt thôi!"
           }
         }
       }
@@ -7551,6 +8091,12 @@
             "state" : "translated",
             "value" : "ความพยายามของคุณ\nไม่เคยทรยศคุณหรอก"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Công sức bạn bỏ ra\nkhông bao giờ uổng phí!"
+          }
         }
       }
     },
@@ -7633,6 +8179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตื่นเต้นก็ไม่เป็นไร\nคุณพร้อมแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hồi hộp cũng không sao,\nbạn đã sẵn sàng rồi!"
           }
         }
       }
@@ -7717,6 +8269,12 @@
             "state" : "translated",
             "value" : "ข้อสอบวัดค่าของคุณ\nไม่ได้หรอกนะ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bài thi đâu có quyết định\nđược giá trị của bạn!"
+          }
         }
       }
     },
@@ -7799,6 +8357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทุ่มเทเต็มที่แล้ว\nถือว่าคุณสำเร็จแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã cố gắng hết mình, bạn\nđã thành công rồi đó!"
           }
         }
       }
@@ -7883,6 +8447,12 @@
             "state" : "translated",
             "value" : "ถ้าเป็นคุณ\nต้องทำได้แน่ๆ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Với bạn thì chuyện này\nhoàn toàn làm được!"
+          }
         }
       }
     },
@@ -7965,6 +8535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หายใจลึกๆ\nแล้วเชื่อมือตัวเอง คุณเก่งนะ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hít thở sâu nào,\ntin vào thực lực của bạn!"
           }
         }
       }
@@ -8049,6 +8625,12 @@
             "state" : "translated",
             "value" : "ขอให้สอบผ่านนะ\nเพราะคุณเตรียมมาดีแล้ว"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thi tốt nhé! Em biết bạn đã\nchuẩn bị kỹ lắm rồi mà."
+          }
         }
       }
     },
@@ -8131,6 +8713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไม่ต้องกังวลเลย\nคุณน่าจะตอบถูกหมดทุกข้อ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đừng lo, có bạn là\ntrúng tủ hết, đúng hết luôn!"
           }
         }
       }
@@ -8215,6 +8803,12 @@
             "state" : "translated",
             "value" : "ประหม่าเหรอ?\nแต่คุณก็ยังเจ๋งที่สุดอยู่ดี"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Run hả? Nhưng bạn vẫn là\nđỉnh nhất, cứ vào phòng thi đi!"
+          }
         }
       }
     },
@@ -8297,6 +8891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กระดาษข้อสอบยังต้อง\nตะลึงเมื่อเห็นหน้าคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tờ đề thi thấy mặt bạn\nchắc cũng tự giải luôn."
           }
         }
       }
@@ -8381,6 +8981,12 @@
             "state" : "translated",
             "value" : "ถึงเวลาที่คุณ\nจะโชว์ของดีแล้ว"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đến lúc bạn thể hiện\nbản lĩnh rồi đó!"
+          }
         }
       }
     },
@@ -8463,6 +9069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "กรรมการสัมภาษณ์\nโชคดีมากที่ได้เจอคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhà tuyển dụng gặp được bạn\nlà họ may mắn lắm đó."
           }
         }
       }
@@ -8547,6 +9159,12 @@
             "state" : "translated",
             "value" : "ประสบการณ์กับไฟของคุณ\nถึงเวลาเปล่งประกายแล้ว"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kinh nghiệm và nhiệt huyết\ncủa bạn sắp tỏa sáng rồi!"
+          }
         }
       }
     },
@@ -8629,6 +9247,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ประหม่าไม่เป็นไร\nคุณเจ๋งพออยู่แล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hồi hộp cũng được,\nbạn đủ giỏi rồi mà!"
           }
         }
       }
@@ -8713,6 +9337,12 @@
             "state" : "translated",
             "value" : "มั่นใจเข้าไว้!\nคุณพร้อมแล้ว"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tự tin lên nào! Em thấy bạn\nđã sẵn sàng rồi!"
+          }
         }
       }
     },
@@ -8795,6 +9425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เล่าเรื่องของคุณ\nออกมาอย่างภูมิใจเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cứ tự tin kể câu chuyện\ncủa bạn, họ sẽ nghe say mê."
           }
         }
       }
@@ -8879,6 +9515,12 @@
             "state" : "translated",
             "value" : "สัมภาษณ์คือการทำความรู้จัก\nผ่อนคลายแล้วเป็นคุณเลย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phỏng vấn chỉ là buổi trò chuyện,\nbạn thoải mái nha."
+          }
         }
       }
     },
@@ -8961,6 +9603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้าเขาไม่รับคุณเข้าทำงาน\nบริษัทนั้นขาดทุนแน่นอน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhà tuyển dụng mà không nhận bạn\nthì công ty đó lỗ nặng."
           }
         }
       }
@@ -9045,6 +9693,12 @@
             "state" : "translated",
             "value" : "ไม่ใช่เรซูเม่ที่เริ่ด\nแต่คุณทั้งคนนี่แหละที่เริ่ด"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không phải CV đẹp đâu,\nmà tự bạn đã quá đẹp rồi."
+          }
         }
       }
     },
@@ -9127,6 +9781,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ก้าวเข้าห้องสัมภาษณ์ปุ๊บ\nคุณก็ผ่านไปแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vừa bước vào phòng phỏng vấn\nlà bạn đã đậu hơn nửa rồi."
           }
         }
       }
@@ -9211,6 +9871,12 @@
             "state" : "translated",
             "value" : "แค่ความประทับใจแรกของคุณ\nก็ได้แต้มไปครึ่งหนึ่ง"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ cần ấn tượng đầu của bạn\nlà họ đã ưng rồi!"
+          }
         }
       }
     },
@@ -9293,6 +9959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คุณในวันนี้\nปังสุดๆ ไปเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay bạn trông\nthật rạng rỡ!"
           }
         }
       }
@@ -9377,6 +10049,12 @@
             "state" : "translated",
             "value" : "แบบที่คุณเป็น\nน่าหลงใหลที่สุด"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cứ là chính mình thôi bạn,\nnhư vậy là duyên nhất rồi!"
+          }
         }
       }
     },
@@ -9459,6 +10137,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คนที่ได้อยู่ข้างคุณ\nโชคดีมากๆ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ai ở cạnh bạn\nthật sự may mắn lắm!"
           }
         }
       }
@@ -9543,6 +10227,12 @@
             "state" : "translated",
             "value" : "มั่นใจแบบนี้\nคุณเท่สุดๆ ไปเลย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tự tin thế này,\nbạn nhất quả đất luôn!"
+          }
         }
       }
     },
@@ -9625,6 +10315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "รอยยิ้มของคุณวันนี้\nคืออาวุธที่เด็ดที่สุด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nụ cười của bạn hôm nay\nlà vũ khí lợi hại nhất."
           }
         }
       }
@@ -9709,6 +10405,12 @@
             "state" : "translated",
             "value" : "เป็นตัวของตัวเอง\nคุณก็ดีที่สุดแล้ว"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cứ là chính bạn thôi,\nthế là hoàn hảo rồi!"
+          }
         }
       }
     },
@@ -9791,6 +10493,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เสน่ห์ของคุณ\nปิดไม่มิดหรอกนะ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sức hút của bạn\nkhông giấu đi đâu được."
           }
         }
       }
@@ -9875,6 +10583,12 @@
             "state" : "translated",
             "value" : "วันนี้ไปเดต?\nอีกฝ่ายใจละลายแน่เลย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay hẹn hò hả? Chắc người ta\nrớt tim vì bạn mất."
+          }
         }
       }
     },
@@ -9957,6 +10671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คนที่ได้เจอคุณ\nดวงดีเป็นบ้า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ai được gặp bạn hôm nay\nchắc trúng số rồi."
           }
         }
       }
@@ -10041,6 +10761,12 @@
             "state" : "translated",
             "value" : "ลุคเดตวันนี้เป๊ะมาก\nคุณถ่ายนิตยสารได้เลยนะ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outfit hẹn hò hoàn hảo, bạn\nlên bìa tạp chí được luôn!"
+          }
         }
       }
     },
@@ -10123,6 +10849,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เห็นคุณวันนี้\nใครก็ตกหลุมรักได้ง่ายๆ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhìn bạn hôm nay\nai cũng muốn đổ gục thôi."
           }
         }
       }
@@ -10207,6 +10939,12 @@
             "state" : "translated",
             "value" : "ยังไม่ทันเดตเลยคุณก็น่ารักแล้ว\nอีกฝ่ายจะรอดเหรอเนี่ย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa tới giờ hẹn mà bạn đã xinh vậy,\nđịnh làm người ta rớt tim hả?"
+          }
         }
       }
     },
@@ -10289,6 +11027,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คุณทำได้แน่\nเป็นกำลังใจให้เสมอ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cố lên, em tin bạn làm được!\nLúc nào em cũng cổ vũ hết mình."
           }
         }
       }
@@ -10373,6 +11117,12 @@
             "state" : "translated",
             "value" : "ก้าวเล็กๆ ของคุณ\nคือจุดเริ่มต้นของเส้นทางที่ยิ่งใหญ่"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bước nhỏ thôi nhưng\nlà khởi đầu của hành trình lớn!"
+          }
         }
       }
     },
@@ -10455,6 +11205,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อย่าเพิ่งยอมแพ้\nความฝันของคุณจะเป็นจริง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đừng bỏ cuộc nhé, ước mơ\ncủa bạn sẽ thành sự thật!"
           }
         }
       }
@@ -10539,6 +11295,12 @@
             "state" : "translated",
             "value" : "ความพยายามวันนี้\nคือความสำเร็จของคุณในวันพรุ่งนี้"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cố gắng hôm nay là\nthành công của bạn ngày mai."
+          }
         }
       }
     },
@@ -10621,6 +11383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไฟในใจของคุณ\nเปลี่ยนโลกได้เลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhiệt huyết của bạn rồi sẽ\nlàm thay đổi cả thế giới!"
           }
         }
       }
@@ -10705,6 +11473,12 @@
             "state" : "translated",
             "value" : "ล้มเหลวคือครูที่ดี\nลองอีกครั้งสิ คุณไหว"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thất bại là mẹ thành công,\nbạn cứ thử tiếp đi nhé!"
+          }
         }
       }
     },
@@ -10787,6 +11561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ศักยภาพของคุณ\nไม่มีขีดจำกัดเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiềm năng của bạn\nlà vô hạn đó!"
           }
         }
       }
@@ -10871,6 +11651,12 @@
             "state" : "translated",
             "value" : "วันนี้ลองให้สุดตัวดู\nแล้วคุณจะภูมิใจ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay cũng vậy,\nbạn cứ cố hết sức nhé!"
+          }
         }
       }
     },
@@ -10953,6 +11739,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เห็นคุณพยายามแล้ว\nมันคือแรงบันดาลใจของใครบางคน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thấy bạn nỗ lực mà\nbao người có thêm động lực đó."
           }
         }
       }
@@ -11037,6 +11829,12 @@
             "state" : "translated",
             "value" : "ถ้าเป็นคุณ\nทุกอย่างต้องลงตัวแน่ ฉันพูดจริง!"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có bạn thì gì cũng ổn,\nthật đó, em không đùa!"
+          }
         }
       }
     },
@@ -11119,6 +11917,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อย่าถอดใจนะ\nคุณเก่งเกินพออยู่แล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đừng bỏ cuộc nha, bạn\nlà người tuyệt vời mà."
           }
         }
       }
@@ -11203,6 +12007,12 @@
             "state" : "translated",
             "value" : "วันนี้ก็สู้ต่อ\nเพราะคุณทำได้"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cố lên nào! Hôm nay bạn\nnhất định làm được!"
+          }
         }
       }
     },
@@ -11285,6 +12095,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คนที่รู้ว่าคุณพยายามแค่ไหน\nจะเชียร์คุณเสมอ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ai biết bạn đã nỗ lực\nđều sẽ luôn ủng hộ bạn."
           }
         }
       }
@@ -11369,6 +12185,12 @@
             "state" : "translated",
             "value" : "คุณมีค่ามากพอแล้ว\nแค่เป็นคุณก็พอ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trên đời này mọi điều tốt đẹp\nđều xứng đáng với bạn."
+          }
         }
       }
     },
@@ -11451,6 +12273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แบบที่คุณเป็นอยู่\nก็สมบูรณ์แบบแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cứ là chính bạn,\nnhư vậy là hoàn hảo!"
           }
         }
       }
@@ -11535,6 +12363,12 @@
             "state" : "translated",
             "value" : "แค่คุณมีตัวตนอยู่\nก็พิเศษแล้ว"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ cần bạn có mặt\nlà đã đặc biệt rồi!"
+          }
         }
       }
     },
@@ -11617,6 +12451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "มั่นใจเลย!\nคุณเป็นคนเจ๋งมาก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tự tin lên! Em dám cá bạn là một\nngười tuyệt vời mà!"
           }
         }
       }
@@ -11701,6 +12541,12 @@
             "state" : "translated",
             "value" : "เก่งกว่าที่คิดเยอะเลย\nใช่ คุณนี่แหละ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thật ra bạn mạnh mẽ hơn\nnhiều so với bạn tưởng!"
+          }
         }
       }
     },
@@ -11783,6 +12629,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เอกลักษณ์ของคุณ\nทำให้คุณเปล่งประกาย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nét riêng của bạn\nchính là điều làm bạn tỏa sáng."
           }
         }
       }
@@ -11867,6 +12719,12 @@
             "state" : "translated",
             "value" : "เชื่อมั่นในตัวเองสิ\nคุณทำได้"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hãy tin vào mình, bạn\nlàm được mà!"
+          }
         }
       }
     },
@@ -11949,6 +12807,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพอร์เฟกต์ในแบบของคุณเอง\nไม่ต้องเทียบกับใคร"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vốn dĩ bạn đã là\nmột người trọn vẹn rồi."
           }
         }
       }
@@ -12033,6 +12897,12 @@
             "state" : "translated",
             "value" : "มั่นใจแบบนี้\nใครจะไปสู้คุณได้"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tự tin như bạn thì\nngầu nhất hành tinh luôn!"
+          }
         }
       }
     },
@@ -12115,6 +12985,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ที่จริงคุณเจ๋งกว่าที่คิด\nอีกเท่าตัวเลยนะ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nghe em nói nè, bạn tuyệt vời\nhơn nhiều so với bạn nghĩ!"
           }
         }
       }
@@ -12199,6 +13075,12 @@
             "state" : "translated",
             "value" : "คุณทำได้ดีอยู่แล้ว\nไม่ต้องกดดันตัวเองเลย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thật ra bạn đã làm\nrất tốt rồi đó."
+          }
         }
       }
     },
@@ -12281,6 +13163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ใครไม่เห็นเสน่ห์ของคุณ\nตาบอดสีแล้วล่ะ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ai không thấy sức hút của bạn\nchắc cần đi khám mắt."
           }
         }
       }
@@ -12365,6 +13253,12 @@
             "state" : "translated",
             "value" : "วันนี้ไม่ต้องทำอะไร\nพักให้เต็มที่นะ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay cứ thong thả\nnghỉ ngơi thôi nhé."
+          }
         }
       }
     },
@@ -12447,6 +13341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ใจของคุณเองก็\nต้องการพักบ้าง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngay cả bạn\ncũng cần được nghỉ ngơi đó."
           }
         }
       }
@@ -12531,6 +13431,12 @@
             "state" : "translated",
             "value" : "ไม่ต้องทำอะไรเลย\nวันนี้ก็เป็นวันที่ดีแล้ว"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không làm gì cả cũng ổn,\nđó là một ngày tử tế."
+          }
         }
       }
     },
@@ -12613,6 +13519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ไม่ต้องรีบนะ\nใจของคุณสำคัญที่สุด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tâm trạng của bạn\nmới là quan trọng nhất."
           }
         }
       }
@@ -12697,6 +13609,12 @@
             "state" : "translated",
             "value" : "ค่อยๆ ไปนะ\nตามจังหวะของคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Từ từ thôi, cứ đi theo\nnhịp của bạn là được."
+          }
         }
       }
     },
@@ -12779,6 +13697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วันนี้ให้เวลา\nกับคุณเองบ้าง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay hãy dành thời gian\ncho chính bạn nhé."
           }
         }
       }
@@ -12863,6 +13787,12 @@
             "state" : "translated",
             "value" : "การพักผ่อน\nก็เป็นความสำเร็จเหมือนกันนะ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nghỉ ngơi cũng là\nmột việc rất năng suất!"
+          }
         }
       }
     },
@@ -12945,6 +13875,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "พักได้เลยนะ\nวันนี้คุณนอนยาวๆ ไปเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nghỉ ngơi là quyền của bạn,\nhôm nay cứ nằm thoải mái nha."
           }
         }
       }
@@ -13029,6 +13965,12 @@
             "state" : "translated",
             "value" : "ตอนคุณเยียวยาใจ\nก็ยังน่ารักอยู่ดี"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đang chữa lành mà bạn\nvẫn đẹp lắm."
+          }
         }
       }
     },
@@ -13111,6 +14053,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คุณจะใช้เวลากับตัวเองก็ได้\nไม่มีใครว่า"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dành thời gian cho bạn\ncũng chẳng sao đâu."
           }
         }
       }
@@ -13195,6 +14143,12 @@
             "state" : "translated",
             "value" : "นอนเล่นสบายๆ\nคุณก็ยังเปล่งประกาย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nằm thư giãn mà bạn\nvẫn tỏa sáng, kỳ ghê!"
+          }
         }
       }
     },
@@ -13277,6 +14231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตอนพักผ่อนอยู่\nคุณก็ยังน่ารักที่สุดในโลก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đang chill mà bạn\nvẫn xinh nhất quả đất."
           }
         }
       }
@@ -13361,6 +14321,12 @@
             "state" : "translated",
             "value" : "คุณไม่ใช่ขนมหวาน\nแต่ทำใจฉันเป็นเบาหวานได้"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoàn hảo thế này mà chỉ thiếu\nđúng một thứ: lỗi để chê."
+          }
         }
       }
     },
@@ -13443,6 +14409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เป็นลูกกวาดหรือเปล่าเนี่ย\nถึงหวานใจฉันทุกครั้งที่เห็นคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em bị cận nặng, vậy mà nhìn bạn\nvẫn thấy đẹp rõ mồn một."
           }
         }
       }
@@ -13527,6 +14499,12 @@
             "state" : "translated",
             "value" : "ถ้าความน่ารักต้องเสียภาษี\nคุณคงเสียมากสุดในประเทศ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điện thoại em sắp hết pin,\nnhìn bạn một cái là sạc đầy."
+          }
         }
       }
     },
@@ -13609,6 +14587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เห็นคุณทีไรใจสั่น\nคุณนี่สัญญาณเตือนภัยชัดๆ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cho em hỏi đường đến tim bạn\nđược không? Em lạc mất rồi."
           }
         }
       }
@@ -13693,6 +14677,12 @@
             "state" : "translated",
             "value" : "แบตฉันเหลือ 1%\nพอเจอคุณก็ชาร์จเต็มเลย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trời nóng thế này chắc do\nbạn quá hot đó mà."
+          }
         }
       }
     },
@@ -13775,6 +14765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "อย่าเดินผ่านหน้าฉันบ่อย\nเดี๋ยวใจต้องส่งซ่อม เพราะคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sao bạn không đi thi hoa hậu?\nVì ban giám khảo sợ mất giải."
           }
         }
       }
@@ -13859,6 +14855,12 @@
             "state" : "translated",
             "value" : "คุณเป็นเครื่องซักผ้าหรือเปล่า\nล้างความเหนื่อยแล้วใจหมุนติ้ว"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cho hỏi bạn học trường nào?\nSao tốt nghiệp xuất sắc môn đẹp vậy?"
+          }
         }
       }
     },
@@ -13941,6 +14943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ฉันสอบตกวิชาลืมคุณ\nได้เกรดเอฟทุกเทอมเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có phải bạn là Wi-Fi không?\nVì em thấy kết nối liền tay."
           }
         }
       }
@@ -14025,6 +15033,12 @@
             "state" : "translated",
             "value" : "คุณชื่อเสิร์ชเอนจินหรือเปล่า\nเพราะมีทุกสิ่งที่ฉันตามหา"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có phải bạn là đường không?\nSao nhìn là thấy ngọt rồi."
+          }
         }
       }
     },
@@ -14107,6 +15121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขอไวไฟหน่อยนะ\nใจฉันเชื่อมต่อกับคุณแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có phải bạn là cà phê không?\nVì thấy bạn là em tỉnh cả người."
           }
         }
       }
@@ -14191,6 +15211,12 @@
             "state" : "translated",
             "value" : "คุณเป็นตำรวจหรือเปล่า\nถึงได้จับใจฉันไว้อยู่หมัด"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em leo đỉnh núi cao nhất còn chưa\nđỉnh bằng bạn đâu."
+          }
         }
       }
     },
@@ -14273,6 +15299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คุณทำอะไรหกหรือเปล่า\nใจฉันถึงเลอะไปหมด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giá xăng tăng rồi, nhưng độ xinh\ncủa bạn còn tăng nhanh hơn."
           }
         }
       }
@@ -14357,6 +15389,12 @@
             "state" : "translated",
             "value" : "ฟิวส์ใจฉันขาดแล้ว\nแรงดันความน่ารักของคุณสูงเกิน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bài toán khó nhất đời em là\ntìm chỗ để chê bạn."
+          }
         }
       }
     },
@@ -14439,6 +15477,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ชื่อ \"ใช่เลย\" ใช่ไหม\nเพราะเจอคุณทีไรก็ใช่ทุกที"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chắc bạn học cao thủ từ nhỏ,\nchứ sao xinh đẹp có bằng cấp vậy?"
           }
         }
       }
@@ -14523,6 +15567,12 @@
             "state" : "translated",
             "value" : "คุณ + ฉัน = เรา\nสมการนี้ฉันตอบถูกแน่นอน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mỗi lần thấy bạn là em\ntưởng mình trúng độc đắc."
+          }
         }
       }
     },
@@ -14605,6 +15655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ฟ้าไม่ได้มีแค่สีฟ้า\nแต่มีสีของคุณด้วย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em xin phép khai báo,\nvì bạn quá đẹp nên em bị loạn nhịp."
           }
         }
       }
@@ -14689,6 +15745,12 @@
             "state" : "translated",
             "value" : "ฉันไม่ได้เป็นหวัด\nแต่เป็นไข้ใจเพราะคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nghe đồn bạn là thần đèn,\nvì cứ xuất hiện là ước gì cũng thành."
+          }
         }
       }
     },
@@ -14771,6 +15833,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เดือนเพ็ญที่ไม่มีวันแรม\nก็คือคุณในใจฉัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu cái đẹp là tội thì bạn\nđã bị tù chung thân rồi đó."
           }
         }
       }
@@ -14855,6 +15923,12 @@
             "state" : "translated",
             "value" : "มีแผนที่ไหมคะ\nฉันหลงอยู่ในรอยยิ้มของคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Người ta có bản đồ, em có bạn,\nnhìn là biết đúng hướng hạnh phúc."
+          }
         }
       }
     },
@@ -14937,6 +16011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้าคุณเป็นข้อสอบ\nฉันยอมสอบซ้ำเป็นร้อยรอบ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hỏi nhỏ, bạn có mệt không?\nVì chạy trong đầu em cả ngày."
           }
         }
       }
@@ -15021,6 +16101,12 @@
             "state" : "translated",
             "value" : "ขอเลิกชอบคุณสักที\nแต่ไม่รู้จะเริ่มยังไงเลย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cảm ơn bạn vì đã đẹp,\nđể thế giới này bớt buồn."
+          }
         }
       }
     },
@@ -15103,6 +16189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "หน้าตาระดับสมบัติชาติ\nคุณต้องไปจัดแสดงในพิพิธภัณฑ์"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gương mà biết nói chắc cũng\nxin chụp chung với bạn."
           }
         }
       }
@@ -15187,6 +16279,12 @@
             "state" : "translated",
             "value" : "งานประกาศรางวัลอย่ามานะ\nเพราะรางวัลใหญ่คือหน้าคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trên đời có 7 kỳ quan,\ncòn bạn là kỳ quan thứ 8."
+          }
         }
       }
     },
@@ -15269,6 +16367,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ่ายแฟชั่นอยู่เหรอ\nหรือคุณแค่เดินมาก็เป็นแฟชั่น"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ cần bạn cười lên là toàn khu\nđược mùa luôn đó."
           }
         }
       }
@@ -15353,6 +16457,12 @@
             "state" : "translated",
             "value" : "คุณคือไอดอล\nศิลปินอันดับ 1 ในใจฉัน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nghe nói bạn cao thủ lắm,\nvì cả thành phố đều bị bạn hạ gục."
+          }
         }
       }
     },
@@ -15435,6 +16545,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เปิดแฟนไซน์หน่อยสิ\nอยากได้ลายเซ็นคุณทุกวัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu bạn là bài hát,\nem sẽ bấm nghe lặp lại cả đời."
           }
         }
       }
@@ -15519,6 +16635,12 @@
             "state" : "translated",
             "value" : "ไปเดบิวต์เถอะ\nคุณเป็นเซ็นเตอร์ในใจฉันแล้ว"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cho em xin số của bạn nhé?\nSố may mắn của đời em!"
+          }
         }
       }
     },
@@ -15601,6 +16723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ยินดีด้วยที่ได้ที่หนึ่งบนชาร์ต\nความปังของคุณขึ้นอันดับหนึ่งทุกวันอยู่แล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thật ra em không thích đếm cừu,\nchỉ đếm điểm đáng yêu của bạn."
           }
         }
       }
@@ -15685,6 +16813,12 @@
             "state" : "translated",
             "value" : "ขอถ่ายรูปหน่อย\nอยากเก็บหน้าคุณทุกวัน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soi gương chưa bạn?\nChắc cái gương cũng đang xin tên."
+          }
         }
       }
     },
@@ -15767,6 +16901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คัมแบ็กแล้วเหรอ\nคุณทำใจฉันคัมแบ็กมาเต้นแรงอีกแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xin lỗi vì làm phiền, nhưng\nbạn đẹp quá nên em báo công an."
           }
         }
       }
@@ -15851,6 +16991,12 @@
             "state" : "translated",
             "value" : "ขอถ่ายโฟกัสหน่อยได้ไหม\nทุกมุมของคุณคือฉากเด็ด"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sáng ăn gì mà bạn\nđẹp hết phần thiên hạ vậy?"
+          }
         }
       }
     },
@@ -15933,6 +17079,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เล่นมิวสิกวิดีโอด้วยเหรอ\nคุณเป็นตัวเอกในชีวิตฉันอยู่แล้วนะ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em đã thử đủ cách rồi,\nchẳng tìm ra khuyết điểm nào của bạn."
           }
         }
       }
@@ -16017,6 +17169,12 @@
             "state" : "translated",
             "value" : "ไปออกเรียลลิตี้เหรอ\nตัวจริงของคุณก็เพอร์เฟกต์กว่าอยู่ดี"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay thời tiết đẹp,\nchắc là do bạn đi ngang qua."
+          }
         }
       }
     },
@@ -16099,6 +17257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วิชวลเซ็นเตอร์ใช่ไหม\nคุณไปไหนก็สว่างที่สุด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phim nào có bạn là\nchắc chắn đạt phòng vé nghìn tỷ."
           }
         }
       }
@@ -16183,6 +17347,12 @@
             "state" : "translated",
             "value" : "รางวัลหน้าตาแห่งปี\nต้องยกให้คุณ ไม่มีข้อโต้แย้ง"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em ăn no rồi, nhưng nhìn bạn\nvẫn thấy thèm, ngon mắt quá."
+          }
         }
       }
     },
@@ -16265,6 +17435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เป็นพรีเซนเตอร์เหรอ\nเห็นคุณทีไรอยากซื้อทุกอย่าง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đẹp đến mức camera thường nhìn bạn\ncũng phải xin lỗi vì chưa đủ nét."
           }
         }
       }
@@ -16349,6 +17525,12 @@
             "state" : "translated",
             "value" : "ขึ้นปกนิตยสารใช่ไหม\nปกทุกเดือนคงต้องเป็นหน้าคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quả này bạn lên top xu hướng,\nmà thật ra bạn vốn là top từ lâu."
+          }
         }
       }
     },
@@ -16431,6 +17613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ออร่าบนเวทีของคุณนี่จริงเหรอ\nชีวิตประจำวันก็เหมือนเวทีเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bác sĩ dặn không nên nhìn bạn lâu,\nvì em dễ bị say nắng."
           }
         }
       }
@@ -16515,6 +17703,12 @@
             "state" : "translated",
             "value" : "มาแลกการ์ดกันไหม\nอยากสะสมครบเซ็ตแต่หน้าคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thấy bạn thì em lập tức\nmở chế độ fan cuồng."
+          }
         }
       }
     },
@@ -16597,6 +17791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แฟนมีตจะจัดเมื่อไหร่\nอยากเจอคุณทุกวันเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhìn bạn là em hiểu vì sao\nngười ta hay nói \"đẹp vỡ màn hình\"."
           }
         }
       }
@@ -16681,6 +17881,12 @@
             "state" : "translated",
             "value" : "ขอคลิปเต้นหน่อย\nทุกการเคลื่อนไหวของคุณคือศิลปะ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fan cứng của bạn xin phép\nđiểm danh nhé: có em đây!"
+          }
         }
       }
     },
@@ -16763,6 +17969,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เห็นคุณแล้วเหมือนดูทีเซอร์\nใจเต้นรัวทุกครั้ง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em đã đặt báo thức chỉ để\nngắm bạn sớm hơn mười phút."
           }
         }
       }
@@ -16847,6 +18059,12 @@
             "state" : "translated",
             "value" : "จะไปทัวร์โลกไหม\nใจฉันสั่นไปทั่วโลกเพราะคุณแล้ว"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nào bạn ra mắt album\nlà em mua ngay bản giới hạn."
+          }
         }
       }
     },
@@ -16929,6 +18147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขอลายเซ็นบนอัลบั้มหน่อย\nคุณนี่ลิมิเต็ดอิดิชันชัดๆ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở fan meeting đi bạn ơi,\nem xếp hàng từ tối hôm qua."
           }
         }
       }
@@ -17013,6 +18237,12 @@
             "state" : "translated",
             "value" : "ขอเปิดแท่งไฟนะ\nจะเชียร์คุณไปตลอดชีวิต"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debut đi, em tin bạn\nsẽ có fan số một là em."
+          }
         }
       }
     },
@@ -17095,6 +18325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "พุ่งแรงเลยนะ\nก็คุณเป็นตำนานตั้งแต่แรกแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhìn bạn thôi là em thấy\nbao nhiêu gánh nặng bay hết."
           }
         }
       }
@@ -17179,6 +18415,12 @@
             "state" : "translated",
             "value" : "ต้องหาบัตรคอนเสิร์ตแล้ว\nเพราะการได้เห็นคุณคือคอนเสิร์ตของฉัน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em đang tính lập fanpage\nchỉ để khen bạn cả ngày."
+          }
         }
       }
     },
@@ -17261,6 +18503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ได้ที่หนึ่งรายการเพลงใช่ไหม\nคุณคือเพลงอันดับหนึ่งในชีวิตฉัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Được bạn ghé qua là cả ngày\nem ở chế độ lễ hội."
           }
         }
       }
@@ -17345,6 +18593,12 @@
             "state" : "translated",
             "value" : "ขออีกหนึ่งเพลงนะ\nดูคุณกี่รอบก็ยังอยากดูอีก"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em chọn bạn làm bias\nvà đổi luôn cả danh sách yêu thích."
+          }
         }
       }
     },
@@ -17427,6 +18681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ภาพเบื้องหลังก็ปัง\nทุกวินาทีของคุณคือตำนาน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cho em xin chữ ký bạn nhé,\nđể mai kia còn khoe con cháu."
           }
         }
       }
@@ -17511,6 +18771,12 @@
             "state" : "translated",
             "value" : "ต้องเปลี่ยนตัวท็อปในใจแล้ว\nไม่มีใครเทียบคุณได้เลย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sân khấu đâu mà sáng vậy?\nÀ, bạn vừa bước ra."
+          }
         }
       }
     },
@@ -17593,6 +18859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ตกหลุมรักเข้าด้อมแล้ว\nขอเป็นติ่งคุณตลอดไป"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ánh đèn sân khấu thua xa\nánh sáng từ nụ cười của bạn."
           }
         }
       }
@@ -17677,6 +18949,12 @@
             "state" : "translated",
             "value" : "เปิดเผยตัวท็อปของฉัน\nก็คือคุณนั่นแหละ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ghé fan meeting của bạn xong,\nem tính đổi nghề thành fan chuyên nghiệp."
+          }
         }
       }
     },
@@ -17759,6 +19037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ซื้อของที่ระลึกครบแล้ว\nแต่คุณคือของสะสมที่ดีที่สุด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay bạn lên sóng là\ncả mạng xã hội bùng nổ."
           }
         }
       }
@@ -17843,6 +19127,12 @@
             "state" : "translated",
             "value" : "ขอเป็นแฟนคลับตลอดชีวิต\nคุณคือศิลปินตลอดกาลของฉัน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chụp hình xin phép trước nhé,\nvì bạn đẹp quá đà."
+          }
         }
       }
     },
@@ -17925,6 +19215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ปักหลักเป็นสายคุณแล้ว\nตอนนี้คุณคือด้อมหลักของฉัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nghe nói bạn là hit của năm,\nem nghe hoài chưa chán."
           }
         }
       }
@@ -18009,6 +19305,12 @@
             "state" : "translated",
             "value" : "เริ่มเป็นติ่งแล้วนะ\nจะทุ่มสุดตัวให้คุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tình hình là em\nđã hết thuốc chữa vì bạn."
+          }
         }
       }
     },
@@ -18091,6 +19393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขอเป็นช่างภาพประจำตัว\nอยากเก็บทุกวินาทีของคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thật đó, bạn cười một cái\nlà tim em tăng ca liền."
           }
         }
       }
@@ -18175,6 +19483,12 @@
             "state" : "translated",
             "value" : "ได้เวลาเชียร์แล้ว\nทุกนาทีกับคุณคือช่วงเวลาทอง"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mỗi khi bạn xuất hiện,\ntrái tim em tự động bật nhạc."
+          }
         }
       }
     },
@@ -18257,6 +19571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ขอทำป้ายโฆษณาวันเกิด\nอยากให้ทุกวันเป็นวันเกิดคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ cần bạn gửi tin nhắn,\nem đã vui cả tuần rồi."
           }
         }
       }
@@ -18341,6 +19661,12 @@
             "state" : "translated",
             "value" : "ขอเชียร์คุณไปตลอด\nภูมิใจที่ได้เป็นแฟนคลับ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có bạn bên cạnh là em thấy\nđời mình lên level liền."
+          }
         }
       }
     },
@@ -18423,6 +19749,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ใจฉันเต้นรัว\nก็เพราะคุณนี่แหละ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuộc sống của em có bạn\nnhư phim có nhạc nền hay."
           }
         }
       }
@@ -18507,6 +19839,12 @@
             "state" : "translated",
             "value" : "เห็นคุณทีไร\nโลกก็สวยขึ้นทุกที"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nghe giọng bạn thôi\nlà em thấy khỏe hẳn."
+          }
         }
       }
     },
@@ -18589,6 +19927,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คุณคือวิตามินแห่ง\nความสุขของฉัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Với em, bạn là\nniềm vui bất tận."
           }
         }
       }
@@ -18673,6 +20017,12 @@
             "state" : "translated",
             "value" : "ยิ้มของคุณทีไร\nใจฉันก็ยิ้มตาม"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhờ có bạn mà em\nbiết thế nào là hạnh phúc nhỏ."
+          }
         }
       }
     },
@@ -18755,6 +20105,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ดาวที่สว่างที่สุด\nที่ฉันเคยเห็นคือคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mỗi ngày với bạn\nnhư một lễ hội riêng của em."
           }
         }
       }
@@ -18839,6 +20195,12 @@
             "state" : "translated",
             "value" : "ทุกวันของคุณ\nคือเทศกาลในใจฉัน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em nhớ bạn nên\nnhìn gì cũng ra bạn."
+          }
         }
       }
     },
@@ -18921,6 +20283,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แค่ได้ยินเสียงคุณ\nอารมณ์ก็ดีขึ้นทันที"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mọi thứ đều xịn hơn\nkhi có bạn xuất hiện."
           }
         }
       }
@@ -19005,6 +20373,12 @@
             "state" : "translated",
             "value" : "โชคดีที่สุดในชีวิต\nคือได้เจอคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sao bạn cứ đáng yêu hoài vậy?\nEm chịu hết nổi rồi!"
+          }
         }
       }
     },
@@ -19087,6 +20461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพราะมีคุณอยู่\nวันนี้ก็ยิ้มได้อีกวัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đối với em, bạn\nlà phiên bản giới hạn."
           }
         }
       }
@@ -19171,6 +20551,12 @@
             "state" : "translated",
             "value" : "สำหรับฉัน คุณคือ\nคนที่สำคัญที่สุดในโลก"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em nghĩ về bạn là\nmiệng tự cười liền."
+          }
         }
       }
     },
@@ -19253,6 +20639,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "คิดถึงคุณทีไร\nยิ้มออกมาเองทุกที"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em nghĩ bạn đến với cuộc đời em\nnhư mưa rơi giữa trưa nóng."
           }
         }
       }
@@ -19337,6 +20729,12 @@
             "state" : "translated",
             "value" : "ความสงบในใจฉัน\nก็คือคุณนี่แหละ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thời gian bên bạn lúc nào\ncũng như được bật chế độ chậm."
+          }
         }
       }
     },
@@ -19419,6 +20817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เวลาอยู่กับคุณ\nพิเศษเสมอเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trong lòng em, bạn luôn\nđứng ở vị trí đầu bảng."
           }
         }
       }
@@ -19503,6 +20907,12 @@
             "state" : "translated",
             "value" : "คนที่เจ๋งที่สุดเท่าที่ฉันเคยรู้จัก\nก็คือคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có bạn ở đây là em\nthấy mình giàu có nhất rồi."
+          }
         }
       }
     },
@@ -19585,6 +20995,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แค่มีคุณอยู่\nฉันก็ซาบซึ้งมากแล้ว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em cảm ơn bạn mỗi ngày,\nvì bạn đã xuất hiện."
           }
         }
       }
@@ -19669,6 +21085,12 @@
             "state" : "translated",
             "value" : "ไฮไลต์ของวันฉัน\nก็คือคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em tin vào điều tốt đẹp\ncũng nhờ bạn đó."
+          }
         }
       }
     },
@@ -19751,6 +21173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพราะคุณ\nทุกวันถึงกลายเป็นวันพิเศษ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhắn tin với bạn xong là\nem hết sạch buồn phiền."
           }
         }
       }
@@ -19835,6 +21263,12 @@
             "state" : "translated",
             "value" : "พอเห็นคุณ\nโลกก็สว่างขึ้นเลย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ cần thấy bạn cười,\ncả ngày em đã trọn vẹn."
+          }
         }
       }
     },
@@ -19917,6 +21351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ของขวัญที่ดีที่สุด\nในชีวิตฉันคือคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dù bạn không phải người nổi tiếng,\nem vẫn muốn xin chữ ký."
           }
         }
       }
@@ -20001,6 +21441,12 @@
             "state" : "translated",
             "value" : "โลกสวยขึ้นอีกเท่าตัว\nเพราะมีคุณอยู่"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có bạn là em thấy\nnhà nào cũng thành tổ ấm."
+          }
         }
       }
     },
@@ -20083,6 +21529,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วันไหนไม่มีคุณ\nฉันนึกภาพไม่ออกเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mỗi lần gặp bạn, em lại\ncó thêm lý do để yêu đời."
           }
         }
       }
@@ -20167,6 +21619,12 @@
             "state" : "translated",
             "value" : "ที่หนึ่งในใจฉัน\nคือคุณตลอดกาล"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu em có điều ước,\nchắc em chỉ muốn thấy bạn vui."
+          }
         }
       }
     },
@@ -20249,6 +21707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ถ้ามีคุณอยู่ข้างๆ\nฉันทำได้ทุกอย่าง"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Với em thì bạn\nlà món quà quý nhất."
           }
         }
       }
@@ -20333,6 +21797,12 @@
             "state" : "translated",
             "value" : "ทุกวันฉันซึ้งใจ\nที่มีคุณอยู่ตรงนี้"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nghe bạn nói như bài hát ru,\nem thấy bình yên liền."
+          }
         }
       }
     },
@@ -20415,6 +21885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "รอยยิ้มของคุณ\nสวยกว่าอะไรในโลก"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhìn bạn một cái\nlà em quên hết mệt mỏi."
           }
         }
       }
@@ -20499,6 +21975,12 @@
             "state" : "translated",
             "value" : "พรที่ยิ่งใหญ่ที่สุด\nในชีวิตของฉัน คือคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gặp được bạn là em\nbiết mình đã trúng quẻ may."
+          }
         }
       }
     },
@@ -20581,6 +22063,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "พอนึกถึงคุณ\nทั้งวันก็มีความสุข"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mỗi sáng có bạn nhắn tin\nlà pin em đầy cả ngày."
           }
         }
       }
@@ -20665,6 +22153,12 @@
             "state" : "translated",
             "value" : "บ้านของใจฉัน\nก็คือคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu bạn làm đầu bếp thì\nmón nào cũng ngon cả thế giới."
+          }
         }
       }
     },
@@ -20747,6 +22241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทุกวินาทีที่มีคุณ\nมันเพอร์เฟกต์ไปหมด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em đỏ mặt mà vẫn thích,\nchỉ có bạn làm được thôi."
           }
         }
       }
@@ -20831,6 +22331,12 @@
             "state" : "translated",
             "value" : "สเปกในฝันของฉัน\nก็คือคุณทั้งตัวเลย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỗ nào có bạn đứng\nlà chỗ đó thành nơi đáng sống."
+          }
         }
       }
     },
@@ -20913,6 +22419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ใจฉันรวนหมดแล้ว\nทุกครั้งที่เห็นคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ cần bạn gật đầu,\nem sẵn sàng xếp hàng cả đời."
           }
         }
       }
@@ -20997,6 +22509,12 @@
             "state" : "translated",
             "value" : "ประวัติศาสตร์เดินได้\nก็คือคุณ ต้องจารึกไว้ในตำรา"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em đã thử đếm sao trên trời,\nnhưng bạn vẫn sáng nhất."
+          }
         }
       }
     },
@@ -21079,6 +22597,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เสน่ห์ของคุณ\nฉันยอมโดนทุกวันเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thế giới có bạn thật là\nmay mắn vô cùng."
           }
         }
       }
@@ -21163,6 +22687,12 @@
             "state" : "translated",
             "value" : "มองแต่คุณจนเพลิน\nกลัวคอเคล็ดแล้วนะ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thật ra bạn là phiên bản\nnâng cấp của sự dễ thương."
+          }
         }
       }
     },
@@ -21245,6 +22775,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทุกครั้งที่เห็นคุณ\nหัวใจก็วิ่งมาราธอน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôm nay bạn cũng là\nngười em muốn khoe nhất."
           }
         }
       }
@@ -21329,6 +22865,12 @@
             "state" : "translated",
             "value" : "ในสายตาฉัน\nคุณคือภาพถ่ายระดับตำนาน"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cảm giác khi nhìn bạn\ngiống như được ăn kem giữa hè."
+          }
         }
       }
     },
@@ -21411,6 +22953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ได้อยู่ใกล้คุณทีไร\nทุกวันก็กลายเป็นวันของคนที่ใช่"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em chấm bạn 10 điểm,\nkhông có nhưng gì hết."
           }
         }
       }
@@ -21495,6 +23043,12 @@
             "state" : "translated",
             "value" : "ปาฏิหาริย์ที่ยังมีลมหายใจ\nก็คือคุณนั่นแหละ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tổng kết năm nay, bạn\nvẫn là nhân vật xuất sắc nhất."
+          }
         }
       }
     },
@@ -21577,6 +23131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "พอได้มองคุณ\nโลกก็เป็นสโลว์โมชั่นเลย"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cả xóm em ai cũng tự hào\nvì có bạn đó."
           }
         }
       }
@@ -21661,6 +23221,12 @@
             "state" : "translated",
             "value" : "สมาชิกวีไอพีของชีวิตฉัน\nก็คือคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xin trao tặng bạn\ndanh hiệu người đáng yêu nhất."
+          }
         }
       }
     },
@@ -21743,6 +23309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ได้เห็นคุณ\nคือไฮไลต์ประจำวันของฉัน"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhờ bạn mà em hiểu\nthế nào là cảm xúc dâng trào."
           }
         }
       }
@@ -21827,6 +23399,12 @@
             "state" : "translated",
             "value" : "คอนเทนต์พรีเมียมที่ฉันดูไม่เบื่อ\nก็คือคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giải thưởng gương mặt của năm\nchắc chắn thuộc về bạn rồi."
+          }
         }
       }
     },
@@ -21909,6 +23487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพราะมีคุณ\nโลกถึงคมชัดระดับเอชดี"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu hạnh phúc có địa chỉ thì\nđó là chỗ bạn đang đứng."
           }
         }
       }
@@ -21993,6 +23577,12 @@
             "state" : "translated",
             "value" : "ช่วงเวลาทองของฉัน\nก็คือตอนมีคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Với bạn thì mọi ánh nhìn\nđều là ánh nhìn ngưỡng mộ."
+          }
         }
       }
     },
@@ -22075,6 +23665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "แค่คิดถึงคุณ\nก็ยิ้มโดยอัตโนมัติ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chuyện lạ có thật: bạn xuất hiện,\nlà tâm trạng em lên liền."
           }
         }
       }
@@ -22159,6 +23755,12 @@
             "state" : "translated",
             "value" : "โรงแรมห้าดาวสุดหรูในใจฉัน\nก็คือคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tình yêu em dành cho bạn\ncòn lớn hơn cả bầu trời."
+          }
         }
       }
     },
@@ -22241,6 +23843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ทุกวันของฉัน\nเป็นวันพรีเมียมเพราะคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sau tất cả thì bạn vẫn là\nđiều tuyệt nhất em từng gặp."
           }
         }
       }
@@ -22325,6 +23933,12 @@
             "state" : "translated",
             "value" : "อีเวนต์หลักของชีวิตฉัน\nก็คือคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngày mai bạn cũng sẽ đỉnh,\nem bảo chứng luôn đó!"
+          }
         }
       }
     },
@@ -22407,6 +24021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เห็นคุณทีไร\nหัวใจก็เต้นระบำ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tin vui đầu ngày: bạn vẫn\nđẹp trai xinh gái như hôm qua."
           }
         }
       }
@@ -22491,6 +24111,12 @@
             "state" : "translated",
             "value" : "ภาพคมชัดระดับ 4K\nของสายตาฉัน คือคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu có cuộc thi tỏa sáng thì\nbạn đã nhận cúp từ lâu."
+          }
         }
       }
     },
@@ -22573,6 +24199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "มองแต่คุณ\nโลกก็ดูเปล่งประกายไปหมด"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giữa phố đông người, em vẫn\nnhận ra bạn đầu tiên."
           }
         }
       }
@@ -22657,6 +24289,12 @@
             "state" : "translated",
             "value" : "วีวีไอพีในใจฉันเสมอ\nก็คือคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khen bạn thì em có thừa,\nnhưng chê thì xin chịu."
+          }
         }
       }
     },
@@ -22739,6 +24377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "วันนี้พิเศษขึ้นมา\nเพราะคุณคนเดียว"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nắng đẹp, gió mát, và\nbạn nữa. Đủ bộ rồi nhé!"
           }
         }
       }
@@ -22823,6 +24467,12 @@
             "state" : "translated",
             "value" : "ไพ่ใบลับที่เด็ดที่สุด\nในชีวิตฉัน คือคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mai mốt bạn nổi tiếng nhớ\nnhận em là fan đầu tiên nha."
+          }
         }
       }
     },
@@ -22905,6 +24555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "พอคิดถึงคุณ\nอารมณ์ก็อัปเกรดทันที"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gặp ai cũng muốn kể cho mẹ nghe\nvề bạn, kiểu người hiếm có."
           }
         }
       }
@@ -22989,6 +24645,12 @@
             "state" : "translated",
             "value" : "ในหอเกียรติยศของใจฉัน\nคุณคือคนแรกเลย"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gió có thổi bay cả mây,\ncũng không bay nổi sức hút của bạn."
+          }
         }
       }
     },
@@ -23071,6 +24733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ชีวิตกลายเป็นสีสัน\nก็เพราะมีคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hít một hơi thật sâu, rồi\nnhớ rằng bạn đang làm rất tốt."
           }
         }
       }
@@ -23155,6 +24823,12 @@
             "state" : "translated",
             "value" : "ตำนานตลอดกาลของสายตาฉัน\nก็คือคุณ"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em không mê tín đâu, nhưng\ngặp bạn đúng là vận may."
+          }
         }
       }
     },
@@ -23238,6 +24912,12 @@
             "state" : "translated",
             "value" : "เวลาเห็นคุณ\nโลกเหมือนวิดีโอสโลว์"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đời em có hai điều chắc chắn:\ntrời sẽ sáng, và bạn sẽ đỉnh."
+          }
         }
       }
     },
@@ -23320,6 +25000,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "บัตรผ่านพรีเมียมของชีวิตฉัน\nก็คือคุณ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa bao giờ em thấy ai\nvừa giỏi vừa dễ thương như bạn."
           }
         }
       }

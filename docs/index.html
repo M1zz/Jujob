@@ -9,7 +9,7 @@
 h1{font-size:1.7em;margin:.6em 0 .2em}h2{font-size:1.15em;margin:1.6em 0 .4em}nav.top{display:flex;gap:16px;flex-wrap:wrap;font-size:.95em;margin-bottom:12px}
 .sub{opacity:.7;margin-top:0}ul{padding-left:1.2em}.langs{margin-top:40px;padding-top:16px;border-top:1px solid #8884;font-size:.9em}.langs a{display:inline-block;margin:2px 8px 2px 0}footer{margin-top:24px;opacity:.6;font-size:.85em}</style>
 <script>
-(function(){var h=["ko", "en", "en-GB", "zh-Hans", "zh-Hant", "ja", "ru", "es", "de", "fr", "it", "pt-BR", "th"],l=(navigator.languages||[navigator.language||"en"]);
+(function(){var h=["ko", "en", "en-GB", "zh-Hans", "zh-Hant", "ja", "ru", "es", "de", "fr", "it", "pt-BR", "th", "vi"],l=(navigator.languages||[navigator.language||"en"]);
 for(var i=0;i<l.length;i++){var t=l[i].toLowerCase(),f=null;
 for(var j=0;j<h.length;j++){if(h[j].toLowerCase()===t){f=h[j];break;}}
 if(!f){var b=t.split("-")[0];if(b==="zh"){f=/hant|tw|hk|mo/.test(t)?"zh-Hant":"zh-Hans";}else if(b==="no"||b==="nn"){f="nb";}else{for(var j=0;j<h.length;j++){if(h[j].toLowerCase()===b){f=h[j];break;}}}}
@@ -32,6 +32,7 @@ if(f&&h.indexOf(f)>=0){location.replace(f+"/index.html");return;}}})();
 <li><a href="it/index.html" hreflang="it" lang="it">Italiano</a></li>
 <li><a href="pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a></li>
 <li><a href="th/index.html" hreflang="th" lang="th">ไทย</a></li>
+<li><a href="vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a></li>
 </ul>
 </body>
 </html>
