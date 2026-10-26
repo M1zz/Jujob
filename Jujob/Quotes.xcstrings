@@ -63,6 +63,12 @@
             "state" : "translated",
             "value" : "Réveil réussi, et tu rayonnes déjà.\nLe soleil peut retourner dormir."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buongiorno! Il sole è in ritardo\nperché stai già brillando tu."
+          }
         }
       }
     },
@@ -127,6 +133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Franchement, quand tu ouvres les yeux,\nle matin se met au garde-à-vous !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ehi tu, sì, proprio tu:\nè iniziata la giornata migliore!"
           }
         }
       }
@@ -193,6 +205,12 @@
             "state" : "translated",
             "value" : "Être debout, c'est déjà un exploit,\net tu l'as fait avec classe."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei già in piedi? Applausi:\nl'eroe del mattino sei tu."
+          }
         }
       }
     },
@@ -257,6 +275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ton réveil sonne, mais c'est toi\nqui assures le spectacle, tu le sais ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il caffè è buono, ma sei tu\nil vero buongiorno di oggi."
           }
         }
       }
@@ -323,6 +347,12 @@
             "state" : "translated",
             "value" : "Encore une journée où tu joues\nle premier rôle. Saison 1 000 !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oggi il protagonista sei tu.\nGli altri sono comparse."
+          }
         }
       }
     },
@@ -387,6 +417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yeux ouverts, victoire validée :\nla journée est déjà dans ta poche, tu vois."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appena apri gli occhi, tu\nhai già vinto contro la sveglia!"
           }
         }
       }
@@ -453,6 +489,12 @@
             "state" : "translated",
             "value" : "Ton sourire du matin vaut trois cafés,\net tu n'as même pas besoin de sucre."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Più dolce di un cornetto caldo?\nSolo tu, a quest'ora."
+          }
         }
       }
     },
@@ -517,6 +559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fais comme tu sais faire aujourd'hui :\nbriller sans même essayer !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Presentarsi così alle sette?\nSenza trucco, sei tu la star."
           }
         }
       }
@@ -583,6 +631,12 @@
             "state" : "translated",
             "value" : "Aussi canon dès le réveil ?\nSi tu continues, j'appelle la police du style."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Che luce è questa alle sette?\nChiamate i vigili: tu sei fuori legge."
+          }
         }
       }
     },
@@ -647,6 +701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un simple bonjour, c'est trop court :\nquand tu entres, c'est un lever de rideau !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buongiorno? Troppo poco.\nSe ci sei tu, è un giorno da dieci."
           }
         }
       }
@@ -713,6 +773,12 @@
             "state" : "translated",
             "value" : "Premier regard du matin sur toi,\net je me dis que tu mérites une médaille."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il primo raggio di sole\nha chiesto di te. Sì, proprio tu!"
+          }
         }
       }
     },
@@ -777,6 +843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alerte info : quelqu'un brille\nplus fort que le soleil. Spoiler : tu."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Che bella novità stamattina:\nci sei tu, il resto è dettaglio."
           }
         }
       }
@@ -843,6 +915,12 @@
             "state" : "translated",
             "value" : "Journée finie, bravo : tu as tout géré\navec un style de dingue."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sera! Giornata chiusa:\nanche oggi la leggenda sei tu."
+          }
         }
       }
     },
@@ -907,6 +985,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ce soir, tu refermes ta journée\ncomme on referme un chef-d'œuvre."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ehi tu, buonasera!\nIl tramonto è uscito apposta per salutarti."
           }
         }
       }
@@ -973,6 +1057,12 @@
             "state" : "translated",
             "value" : "Aujourd'hui, tu as donné le maximum\net moi, j'applaudis debout."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hai dato il massimo e si vede.\nLa stella della serata sei tu."
+          }
         }
       }
     },
@@ -1037,6 +1127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un peu crevé, mais tu as tenu bon.\nJ'ai les larmes aux yeux, c'est beau."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un po' di stanchezza?\ne tu hai retto la giornata da fuoriclasse."
           }
         }
       }
@@ -1103,6 +1199,12 @@
             "state" : "translated",
             "value" : "Ta journée vaut de l'or,\net ce soir, tu peux t'en vanter."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una giornata fa il suo corso,\nma il pezzo forte di oggi sei tu."
+          }
         }
       }
     },
@@ -1167,6 +1269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Journée bouclée sans dégât :\nrien que ça, ça mérite un trophée."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Missione compiuta anche oggi.\nBasta così: tu hai già vinto."
           }
         }
       }
@@ -1233,6 +1341,12 @@
             "state" : "translated",
             "value" : "Dans le ciel du soir, il y a des étoiles\net, tout au milieu, tu brilles."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Come le stelle nel cielo,\nanche tu fai luce senza sforzo."
+          }
         }
       }
     },
@@ -1297,6 +1411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il fait nuit et tu brilles encore :\nbatterie solaire cachée ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "È sera e brilli ancora.\nCome fai tu a non spegnerti mai?"
           }
         }
       }
@@ -1363,6 +1483,12 @@
             "state" : "translated",
             "value" : "Merci pour tout ce que tu as fait.\nHeureusement que c'est toi !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grazie per la giornata.\nIl bello è che c'eri tu."
+          }
         }
       }
     },
@@ -1427,6 +1553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Merci : grâce à toi, le monde a été\nplus beau aujourd'hui, tu sais ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il mondo oggi era più bello:\nc'eri tu e si vedeva."
           }
         }
       }
@@ -1493,6 +1625,12 @@
             "state" : "translated",
             "value" : "Le soir, légende. Le matin, légende.\nOn ne change pas une équipe qui gagne !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Di giorno sei un mito,\ndi notte pure. Sì, proprio tu."
+          }
         }
       }
     },
@@ -1557,6 +1695,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ça va aller : même les super-héros ont\ndes jours sans. Là, tu fais déjà de ton mieux."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Va bene anche una giornata storta.\nSei a posto così, e lo sai pure tu."
           }
         }
       }
@@ -1623,6 +1767,12 @@
             "state" : "translated",
             "value" : "Là, c'est rude, mais tu as déjà survécu\nà 100 % de tes pires journées."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adesso pesa, lo so.\nMa tu sei più forte di questo."
+          }
         }
       }
     },
@@ -1687,6 +1837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pas besoin d'être parfait.\nAvoue, tu es déjà bien plus que ça !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non serve essere perfetti:\nti basta essere così, e tu lo sai."
           }
         }
       }
@@ -1753,6 +1909,12 @@
             "state" : "translated",
             "value" : "Quand ça tire trop, pose-toi un peu :\ntu avances à ton rythme, et c'est le bon."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fai una pausa quando vuoi:\nanche tu hai diritto al freno."
+          }
         }
       }
     },
@@ -1817,6 +1979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plus costaud que tu ne le penses,\ntu l'es, et de loin !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei più forte di quel che pensi.\nParola di chi guarda: tu non molli."
           }
         }
       }
@@ -1883,6 +2051,12 @@
             "state" : "translated",
             "value" : "Ça aussi, ça passera. Et pendant ce temps,\ntu gardes la classe."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passerà, vedrai.\nE tu ne uscirai a testa alta."
+          }
         }
       }
     },
@@ -1947,6 +2121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Même quand le moral baisse, tu gardes\nta valeur, qui ne bouge pas d'un poil."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il morale è giù, ma quanto vali tu\nnon si sposta di un millimetro."
           }
         }
       }
@@ -2013,6 +2193,12 @@
             "state" : "translated",
             "value" : "La tristesse fait partie du paquet.\nSache que tu as le droit de tout ressentir."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puoi sentire ogni emozione:\nè così che tu resti vero."
+          }
         }
       }
     },
@@ -2077,6 +2263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un diamant se forme sous la pression :\nregarde comme tu scintilles déjà."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I diamanti nascono sotto pressione.\nGuarda che luce fai tu adesso."
           }
         }
       }
@@ -2143,6 +2335,12 @@
             "state" : "translated",
             "value" : "Si le moral flanche, pense à ceci :\nun fan de toi existe, et c'est moi, tu vois."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tristezza? Ha sbagliato indirizzo.\nQui l'inquilino speciale sei tu."
+          }
         }
       }
     },
@@ -2207,6 +2405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Moral dans les chaussettes ? Aucun souci,\ntu restes ce qu'il y a de plus précieux."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anche col broncio sei un incanto.\nChi altro riesce così? Solo tu."
           }
         }
       }
@@ -2273,6 +2477,12 @@
             "state" : "translated",
             "value" : "Même quand tu pleures, tu restes\nsplendide. Qu'est-ce que tu veux que j'y fasse ?"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una lacrima non ti scalfisce:\nresti un capolavoro, sì, tu."
+          }
         }
       }
     },
@@ -2337,6 +2547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Même si c'est dur, tu restes\nun petit miracle à toi tout seul."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anche nei giorni grigi\nil colore sei tu."
           }
         }
       }
@@ -2403,6 +2619,12 @@
             "state" : "translated",
             "value" : "C'est dur maintenant, mais tu vas\ntout déchirer, c'est écrit dans les étoiles."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adesso è dura, ma tu\nce la farai, lo sento."
+          }
         }
       }
     },
@@ -2467,6 +2689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dans les moments difficiles, c'est là\nque tu montres ce que tu vaux."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un momento difficile\nmostra quanto vali tu."
           }
         }
       }
@@ -2533,6 +2761,12 @@
             "state" : "translated",
             "value" : "Ne lâche rien : tu es bien assez\nfort pour y arriver."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non mollare, eh.\nSe c'è uno tosto, quello sei tu."
+          }
         }
       }
     },
@@ -2597,6 +2831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Traverser une période compliquée comme\ntu le fais, c'est franchement impressionnant."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reggere questi giorni?\nUn fuoriclasse come te. Cioè, tu."
           }
         }
       }
@@ -2663,6 +2903,12 @@
             "state" : "translated",
             "value" : "Les galères d'aujourd'hui, c'est l'engrais\nde la réussite de demain."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La fatica di oggi\nè il successo di domani, e tu lo sai."
+          }
         }
       }
     },
@@ -2727,6 +2973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu peux encaisser bien plus\nque tu ne l'imagines."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sai quanto puoi reggere?\nPiù di quanto immagini tu."
           }
         }
       }
@@ -2793,6 +3045,12 @@
             "state" : "translated",
             "value" : "Ce moment pénible deviendra bientôt\nun souvenir dont tu riras."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questo momento diventerà un ricordo,\ne tu lo racconterai ridendo."
+          }
         }
       }
     },
@@ -2857,6 +3115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Même cabossé, tu brilles : une pierre\nprécieuse, ça se taille d'abord."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anche i diamanti vanno levigati.\nSe brilli così è perché tu non cedi."
           }
         }
       }
@@ -2923,6 +3187,12 @@
             "state" : "translated",
             "value" : "Tu galères ? Peut-être, mais tu restes\nla personne la plus attachante du coin."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giornata no? Capita.\nMa il panorama migliore resti tu."
+          }
         }
       }
     },
@@ -2987,6 +3257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rien que parce que tu tiens bon,\nquelqu'un, quelque part, garde espoir."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se tu resisti, per qualcuno\nè già un faro. Lo sapevi?"
           }
         }
       }
@@ -3053,6 +3329,12 @@
             "state" : "translated",
             "value" : "À bout de forces, tu restes quand même\nmagnifique. Désolé, c'est comme ça."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stai crollando? Con una classe\nche solo tu ti puoi permettere."
+          }
         }
       }
     },
@@ -3117,6 +3399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aujourd'hui, tu peux tout faire.\nLance-toi avec confiance !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oggi tu ce la fai, e lo sai.\nPartiamo sicuri!"
           }
         }
       }
@@ -3183,6 +3471,12 @@
             "state" : "translated",
             "value" : "Je crois en toi à 200 %,\net je sais que tu vas passer une journée géniale."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hai talento da vendere.\nOggi tu farai faville, vedrai."
+          }
         }
       }
     },
@@ -3247,6 +3541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tout est en place : tu as déjà fait\nla moitié du chemin vers la réussite !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pronti, partenza, via:\ntu sei già al traguardo."
           }
         }
       }
@@ -3313,6 +3613,12 @@
             "state" : "translated",
             "value" : "Les tâches du jour ? Pour toi,\nça ressemble à une promenade de santé, tu verras."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il lavoro di oggi? Una passeggiata\nse a farlo sei tu."
+          }
         }
       }
     },
@@ -3377,6 +3683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ta passion va éclairer la journée\net tu vas tout illuminer !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La passione che ci metti\nilluminerebbe l'ufficio. Sì, anche tu."
           }
         }
       }
@@ -3443,6 +3755,12 @@
             "state" : "translated",
             "value" : "Allez, on y va ! Fais ça\ncomme tu sais si bien le faire."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forza! Oggi tu fai\ncose belle, io faccio il tifo."
+          }
         }
       }
     },
@@ -3507,6 +3825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avant même de commencer, tu as déjà\nl'allure d'un pro. Ça se voit !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prima ancora di cominciare\nsembri già un pro. Chi? Sei tu."
           }
         }
       }
@@ -3573,6 +3897,12 @@
             "state" : "translated",
             "value" : "Pas envie de bosser ? Normal, mais tu as\nun visage qui travaille déjà à plein temps."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zero voglia di lavorare? Pazienza:\ntu sei già in servizio con quel sorriso."
+          }
         }
       }
     },
@@ -3637,6 +3967,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Une allure pareille pour aller bosser ?\nTa boîte brille parce que tu es là, c'est sûr."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Che outfit stamattina!\nL'azienda brilla solo perché ci sei tu."
           }
         }
       }
@@ -3703,6 +4039,12 @@
             "state" : "translated",
             "value" : "Quand tu bosses, c'est tout simplement\nde l'art. Mets-le au musée !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando lavori, tu fai arte.\nBasta guardarti."
+          }
         }
       }
     },
@@ -3767,6 +4109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Même avant de commencer,\ntu es déjà irréprochable."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non hai ancora iniziato\ne il risultato è già eccellente: sei tu."
           }
         }
       }
@@ -3833,6 +4181,12 @@
             "state" : "translated",
             "value" : "Rien que parce que tu bouges,\nje te trouve déjà formidable !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ti stai allenando?\nGià questo dice che tu sei una forza."
+          }
         }
       }
     },
@@ -3897,6 +4251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prendre soin de ta santé tous les jours :\nchapeau, tu donnes une vraie leçon."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ti prendi cura di te ogni giorno:\nsolo tu hai questa disciplina."
           }
         }
       }
@@ -3963,6 +4323,12 @@
             "state" : "translated",
             "value" : "Ton corps, tu le connais mieux que personne.\nFais-lui confiance, tu sais !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il corpo sa che tu\nlo tratti bene, e ringrazia."
+          }
         }
       }
     },
@@ -4027,6 +4393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avoir enfilé tes baskets, c'est déjà\nune victoire que tu peux fêter dignement."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muoversi è già vincere.\nE tu hai già iniziato!"
           }
         }
       }
@@ -4093,6 +4465,12 @@
             "state" : "translated",
             "value" : "Quand tu transpires, c'est magnifique.\nLa sueur te va à ravir."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il sudore ti sta d'incanto:\nsembri uno spot, e tu non lo sai."
+          }
         }
       }
     },
@@ -4157,6 +4535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ta santé passe avant tout,\net tu le sais mieux que personne."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La salute è la cosa più importante,\ne tu la tratti da VIP."
           }
         }
       }
@@ -4223,6 +4607,12 @@
             "state" : "translated",
             "value" : "Prendre du temps pour toi, aujourd'hui\nencore : franchement, tu es au top !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ritagliarsi del tempo per sé:\nquesto sì che è amore, e tu lo fai."
+          }
         }
       }
     },
@@ -4287,6 +4677,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tenue de sport sur le dos, tu pourrais\nfaire la une d'un magazine !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con quella tenuta sportiva\npotresti fare la copertina. Sì, tu."
           }
         }
       }
@@ -4353,6 +4749,12 @@
             "state" : "translated",
             "value" : "La salle de sport est devenue\nun paradis depuis que tu y viens."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La palestra è un paradiso\nsolo da quando ci vai tu."
+          }
         }
       }
     },
@@ -4417,6 +4819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Même en plein effort tu rayonnes.\nComment fais-tu pour être aussi canon ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Come si fa a stare bene anche\nsotto sforzo? Dimmelo, tu che sai."
           }
         }
       }
@@ -4483,6 +4891,12 @@
             "state" : "translated",
             "value" : "Transpirer et rester sublime, ça existe ?\nOui : quand tu t'entraînes, c'est officiel."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esiste qualcuno che sudando resta incantevole?\nSì: sei tu."
+          }
         }
       }
     },
@@ -4547,6 +4961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En route vers le boulot, tu as l'air\nd'un vrai pro. Chapeau bas !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verso l'ufficio con quel passo?\nSolo tu trasformi il percorso in una sfilata."
           }
         }
       }
@@ -4613,6 +5033,12 @@
             "state" : "translated",
             "value" : "Déjà en mouvement dès le matin :\nmais d'où te vient cette énergie, tu me dis ?"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Già in marcia di prima mattina:\nche forza che hai, tu!"
+          }
         }
       }
     },
@@ -4677,6 +5103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aujourd'hui encore, tu vas travailler,\net la victoire est déjà acquise."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vai al lavoro oggi?\nLa star del treno delle sette sei tu."
           }
         }
       }
@@ -4743,6 +5175,12 @@
             "state" : "translated",
             "value" : "Chacun de tes pas dans la rue\na de la valeur, tu sais."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ogni passo verso l'ufficio vale oro,\nperché a farlo sei tu."
+          }
         }
       }
     },
@@ -4807,6 +5245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Même le trajet du matin devient\nspécial quand tu es de la partie."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un tragitto qualsiasi diventa speciale\nquando ci sei tu."
           }
         }
       }
@@ -4873,6 +5317,12 @@
             "state" : "translated",
             "value" : "Encore une fois, tu y vas avec sérieux :\nquelle classe, quelle fiabilité !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ti presenti al lavoro ogni giorno:\nche affidabilità, tu!"
+          }
         }
       }
     },
@@ -4937,6 +5387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quand tu montes dans le métro,\nle quai se transforme en podium de défilé."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il metrò è una passerella\nda quando ci sali tu."
           }
         }
       }
@@ -5003,6 +5459,12 @@
             "state" : "translated",
             "value" : "Même dans le bus, tu resplendis.\nUne séance photo avant le terminus ?"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sull'autobus brilli.\nStai facendo un servizio fotografico, tu?"
+          }
         }
       }
     },
@@ -5067,6 +5529,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Te voir partir au boulot, c'est ce qui\nrend mon matin joyeux, tu le sais ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vederti uscire di casa\nrende felici. Eh sì, tu fai questo effetto."
           }
         }
       }
@@ -5133,6 +5601,12 @@
             "state" : "translated",
             "value" : "Le simple fait de marcher te rend sublime.\nSi tu savais, c'est ton superpouvoir !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfino camminando\nsei un mito. Chi? Sei tu."
+          }
         }
       }
     },
@@ -5197,6 +5671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Belle journée de travail, bravo !\nRentre vite, tu peux te reposer."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giornata finita! Vai a casa\ne riposa: tu te lo sei guadagnato."
           }
         }
       }
@@ -5263,6 +5743,12 @@
             "state" : "translated",
             "value" : "Vu de dos, quand tu rentres,\nc'est quand même la grande classe."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dalla schiena sembri già in pace:\nche stile quando esci, tu!"
+          }
         }
       }
     },
@@ -5327,6 +5813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En rentrant, souviens-toi que tu as\ndonné le meilleur. Tu es au top !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strada di casa: tu\nhai fatto un lavoro eccellente."
           }
         }
       }
@@ -5393,6 +5885,12 @@
             "state" : "translated",
             "value" : "Journée bouclée sans souci :\nje suis super fier que tu aies tout géré."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Per oggi è fatta! Fieri di te,\ne forse anche tu lo sei."
+          }
         }
       }
     },
@@ -5457,6 +5955,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "C'est maintenant ton moment à toi :\nrepose-toi tant que tu veux !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ora il tempo è solo per te.\nRilassati, tu lo meriti."
           }
         }
       }
@@ -5523,6 +6027,12 @@
             "state" : "translated",
             "value" : "Après le boulot, offre-toi\nun moment rien que pour toi, tu l'as bien mérité !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Staccare la spina è un'arte,\ne l'artista sei tu."
+          }
         }
       }
     },
@@ -5587,6 +6097,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fin de journée, et tu as tout donné.\nUn grand bravo, tu l'as mérité !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finito il lavoro: ora si stacca.\nPoche storie, tu hai già dato il massimo."
           }
         }
       }
@@ -5653,6 +6169,12 @@
             "state" : "translated",
             "value" : "Même sur le chemin du retour, tu es\nsplendide. Quelle journée magnifique !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anche la strada di casa è più bella\nquando ci cammini tu."
+          }
         }
       }
     },
@@ -5717,6 +6239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En te voyant rentrer, je me dis que\ntu as bien rempli ta journée."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chi ti incrocia al ritorno\nha vinto la giornata. Oh sì: tu."
           }
         }
       }
@@ -5783,6 +6311,12 @@
             "state" : "translated",
             "value" : "La journée a été rude, mais toi,\ntu restes au sommet, comme toujours !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una giornata faticosa?\nComunque vada, sei tu il numero uno."
+          }
         }
       }
     },
@@ -5847,6 +6381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Après tout ce travail, ça va rouler :\ntu as tout ce qu'il faut dans la tête !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hai ripassato a lungo:\nvedrai che tu la spacchi."
           }
         }
       }
@@ -5913,6 +6453,12 @@
             "state" : "translated",
             "value" : "Ton travail ne trahit jamais :\ntu vas récolter ce que tu as semé."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'impegno non tradisce:\nfidati, tu hai seminato bene."
+          }
         }
       }
     },
@@ -5977,6 +6523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Le trac, c'est normal. N'oublie pas\nque tu as déjà tout révisé !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un po' d'ansia? Normale.\nTanto tu hai già fatto il difficile."
           }
         }
       }
@@ -6043,6 +6595,12 @@
             "state" : "translated",
             "value" : "Une note ne dit rien de ta valeur.\nRespire, et tu verras que tout ira bien."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un voto non decide chi sei.\ne tu vali ben oltre un numero."
+          }
         }
       }
     },
@@ -6107,6 +6665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quoi qu'il arrive, tu as donné\ntout ce que tu avais : c'est gagné."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hai dato il massimo:\nper noi è già un dieci. E tu?"
           }
         }
       }
@@ -6173,6 +6737,12 @@
             "state" : "translated",
             "value" : "Pour quelqu'un comme toi, tu peux le croire :\nça va passer comme une lettre à la poste."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chi se la cava meglio?\nSolo tu, senza dubbio."
+          }
         }
       }
     },
@@ -6237,6 +6807,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Respire à fond et fais confiance\nà ce que tu sais déjà."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respira a fondo.\ne tu conosci la materia meglio del libro."
           }
         }
       }
@@ -6303,6 +6879,12 @@
             "state" : "translated",
             "value" : "Bonne chance pour l'examen ! Avec tout ce que tu sais,\ntu as largement de quoi y aller."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In bocca al lupo!\nCrepi, e intanto tu fai il resto."
+          }
         }
       }
     },
@@ -6367,6 +6949,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pas de panique : tu vas tout bien\nrépondre, y compris aux questions pièges."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niente paura:\nalle domande risponde il genio che sei tu."
           }
         }
       }
@@ -6433,6 +7021,12 @@
             "state" : "translated",
             "value" : "Le stress monte ? Normal. Reste zen,\ntu es quand même au top."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batticuore? Capita ai migliori.\nSolo che tu sei il migliore."
+          }
         }
       }
     },
@@ -6497,6 +7091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La copie d'examen va rester bouche bée\nquand tu poseras dessus ton petit nom."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Persino il foglio dell'esame\nsi emoziona quando scrivi tu."
           }
         }
       }
@@ -6563,6 +7163,12 @@
             "state" : "translated",
             "value" : "C'est l'heure de montrer ce que tu vaux,\net tu vas faire des étincelles !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "È il momento di mostrare\nchi sei tu davvero."
+          }
         }
       }
     },
@@ -6627,6 +7233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Le recruteur a de la chance :\nil va rencontrer quelqu'un comme toi, c'est certain."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selezionatori in festa:\noggi il candidato dei sogni sei tu."
           }
         }
       }
@@ -6693,6 +7305,12 @@
             "state" : "translated",
             "value" : "Ton expérience et ta passion vont briller :\nc'est ton moment, et tu le sais."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esperienza e carica ce le hai:\nè l'ora di brillare, tu."
+          }
         }
       }
     },
@@ -6757,6 +7375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un peu de trac ? Normal.\nMais tu as déjà tout ce qu'il faut !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un po' di tensione va bene:\ntu sei comunque il migliore in sala."
           }
         }
       }
@@ -6823,6 +7447,12 @@
             "state" : "translated",
             "value" : "Tête haute ! Tout est en place\npour que tu les épates."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A testa alta! tu sai già\ncosa dire, e come dirlo."
+          }
         }
       }
     },
@@ -6887,6 +7517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Raconte ton histoire avec fierté :\ntu as de quoi captiver la salle."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Racconta con orgoglio il percorso:\ntu sei la storia migliore del giorno."
           }
         }
       }
@@ -6953,6 +7589,12 @@
             "state" : "translated",
             "value" : "Un entretien, c'est une rencontre.\nDétends-toi, tu n'as rien à prouver."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il colloquio è una chiacchierata.\nE tu in questo sei un asso."
+          }
         }
       }
     },
@@ -7017,6 +7659,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si le recruteur ne t'engage pas,\nc'est son entreprise qui y perd, tu peux me croire."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se non ti assumono,\nl'azienda perde un pezzo grosso: tu."
           }
         }
       }
@@ -7083,6 +7731,12 @@
             "state" : "translated",
             "value" : "Ce n'est pas ton CV qui brille,\nc'est toi, et tu le montres dès l'entrée."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il curriculum è un'opera d'arte,\nma l'opera migliore sei tu."
+          }
         }
       }
     },
@@ -7147,6 +7801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dès que tu franchis la porte,\nl'affaire est déjà dans le sac !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varcata la porta, è già un sì:\ntu hai quella luce lì."
           }
         }
       }
@@ -7213,6 +7873,12 @@
             "state" : "translated",
             "value" : "Dès ta première impression,\ntu as déjà fait la moitié du boulot !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La prima impressione?\nLa vinci col sorriso, e lo sai tu."
+          }
         }
       }
     },
@@ -7277,6 +7943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aujourd'hui, tu rayonnes\nplus que jamais. Merci pour le spectacle !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oggi sei una luce.\nProprio tu, guarda un po'."
           }
         }
       }
@@ -7343,6 +8015,12 @@
             "state" : "translated",
             "value" : "Rien à changer : ton charme\nse voit déjà d'ici, tu sais !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Così come sei va benissimo:\nsul serio, tu non cambiare niente."
+          }
         }
       }
     },
@@ -7407,6 +8085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ceux qui passent du temps avec toi\nont de la chance, tu sais."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chi ti sta accanto ha vinto un premio,\ne quel premio sei tu."
           }
         }
       }
@@ -7473,6 +8157,12 @@
             "state" : "translated",
             "value" : "Avec une telle assurance,\ntu fais vraiment forte impression !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Che carica! Se tu vai avanti così\nla giornata ti applaude."
+          }
         }
       }
     },
@@ -7537,6 +8227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ton sourire du jour, c'est ta meilleure\narme secrète, et tu t'en sers à merveille."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quel sorriso di oggi è un'arma:\nspara, tu non hai rivali."
           }
         }
       }
@@ -7603,6 +8299,12 @@
             "state" : "translated",
             "value" : "Tel que tu es, c'est parfait.\nNe change rien !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semplice è bello, e tu\nsei la semplicità fatta persona."
+          }
         }
       }
     },
@@ -7667,6 +8369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ton charme, tu ne peux pas le cacher,\nmême si tu essaies très fort."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il fascino non si nasconde:\ntu ci hai provato? Non ce la fai."
           }
         }
       }
@@ -7733,6 +8441,12 @@
             "state" : "translated",
             "value" : "Rendez-vous ce soir ? Quand tu arrives,\nl'autre risque le cœur qui s'arrête net."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cena a due stasera?\nL'altra persona rischia un infarto: tu sei troppo."
+          }
         }
       }
     },
@@ -7797,6 +8511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ceux qui sortent avec toi\nont gagné au loto, tu peux me croire."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chi esce con te stasera\nha fatto bingo: il premio sei tu."
           }
         }
       }
@@ -7863,6 +8583,12 @@
             "state" : "translated",
             "value" : "Ta tenue est parfaite. Si tu veux,\ntu peux faire la une d'un magazine !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Look perfetto per l'appuntamento:\nsulla copertina di una rivista ci stai tu."
+          }
         }
       }
     },
@@ -7927,6 +8653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En te voyant ce soir, quelqu'un\nva tomber amoureux, tu verras."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se ti vedo stasera\nmi innamoro. E tu lo sai, vero?"
           }
         }
       }
@@ -7993,6 +8725,12 @@
             "state" : "translated",
             "value" : "Le rencard n'a pas commencé et tu éblouis déjà.\nPauvre petit cœur d'en face !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Già un incanto prima di uscire.\nAl cuore di chi ti aspetta pensaci tu."
+          }
         }
       }
     },
@@ -8057,6 +8795,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je te le dis : tu en es capable,\net je suis dans ton équipe !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ce la fai: tu hai\nsempre il mio tifo."
           }
         }
       }
@@ -8123,6 +8867,12 @@
             "state" : "translated",
             "value" : "Un tout petit pas et, sans que tu le saches,\nc'est le début d'un grand voyage !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un piccolo passo, oggi:\ncosì parte il viaggio più bello. Chi parte? Sei tu."
+          }
         }
       }
     },
@@ -8187,6 +8937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ne lâche rien : tes rêves vont\nse réaliser, tu verras !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non mollare.\nI sogni si avverano, e tu sei in pista."
           }
         }
       }
@@ -8253,6 +9009,12 @@
             "state" : "translated",
             "value" : "L'effort que tu fais aujourd'hui\nfait ton succès de demain !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'impegno di oggi\nè il successo di domani. Vai, tu."
+          }
         }
       }
     },
@@ -8317,6 +9079,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avec ta passion, tu peux\nchanger le monde !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'energia che metti\ncambia il mondo, e quell'energia sei tu."
           }
         }
       }
@@ -8383,6 +9151,12 @@
             "state" : "translated",
             "value" : "L'échec est la mère de la réussite !\nContinue d'essayer, tu vas y arriver."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sbagliare fa parte del gioco:\nriprova, tu hai ancora mille tentativi."
+          }
         }
       }
     },
@@ -8447,6 +9221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tes possibilités sont infinies,\nregarde ce que tu peux faire !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le possibilità sono infinite,\ne tu ci nuoti dentro."
           }
         }
       }
@@ -8513,6 +9293,12 @@
             "state" : "translated",
             "value" : "Aujourd'hui encore, donne le meilleur,\ntu en as largement les moyens !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oggi dai il massimo,\ntanto tu già lo fai senza pensarci."
+          }
         }
       }
     },
@@ -8577,6 +9363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quand tu fais des efforts, tu inspires\nquelqu'un, même sans le savoir."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando ti impegni, tu sei\nl'ispirazione di qualcuno."
           }
         }
       }
@@ -8643,6 +9435,12 @@
             "state" : "translated",
             "value" : "Avec toi, tout finit par bien se passer.\nJe te le jure, tu verras !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Andrà alla grande, fidati,\nse al timone ci sei tu."
+          }
         }
       }
     },
@@ -8707,6 +9505,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Surtout, ne lâche pas : tu es\nbien trop top pour abandonner."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non arrenderti. Lo sai tu quanto vali,\ne sai che è moltissimo."
           }
         }
       }
@@ -8773,6 +9577,12 @@
             "state" : "translated",
             "value" : "Allez, courage ! Aujourd'hui, tu peux\ntout casser !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forza e coraggio!\nCe la fai, e lo sai bene anche tu."
+          }
         }
       }
     },
@@ -8837,6 +9647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ceux qui voient les efforts que tu fais\nte soutiendront jusqu'au bout."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chi vede quanto ti impegni\nfa il tifo per te. E tu non lo sapevi?"
           }
         }
       }
@@ -8903,6 +9719,12 @@
             "state" : "translated",
             "value" : "Tu vaux largement ce que tu mérites,\net même beaucoup plus."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vali tanto, e tu lo sai.\nDavvero tanto."
+          }
         }
       }
     },
@@ -8967,6 +9789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tel que tu es, c'est\nla perfection, ni plus ni moins."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Così come sei va già benissimo:\ntu non devi aggiungere altro."
           }
         }
       }
@@ -9033,6 +9861,12 @@
             "state" : "translated",
             "value" : "Ton existence est déjà quelque chose\nde spécial, et tu l'ignores peut-être."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esisti, ed è già speciale.\nLo so io, e dovresti saperlo anche tu."
+          }
         }
       }
     },
@@ -9097,6 +9931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avance avec assurance : tu es\nvraiment quelqu'un de bien !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiducia alle stelle!\nSe tu entri in sala, la festa inizia."
           }
         }
       }
@@ -9163,6 +10003,12 @@
             "state" : "translated",
             "value" : "Plus fort que tu ne le crois,\nvoilà ce que tu es !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei più tosto di quanto credi.\nSì, tu, proprio tu."
+          }
         }
       }
     },
@@ -9227,6 +10073,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ta personnalité, c'est ce qui te fait briller,\net tu brilles fort !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le stranezze sono stelle,\ne tu sei una costellazione."
           }
         }
       }
@@ -9293,6 +10145,12 @@
             "state" : "translated",
             "value" : "Crois en toi : tu peux le faire,\net moi, je le sais !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Credi in te.\nma tu sei più capace di quanto pensi."
+          }
         }
       }
     },
@@ -9357,6 +10215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rien à ajouter : tu es déjà\nun tableau complet, signé et encadré."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei un capolavoro già finito.\ne tu non hai bisogno di ritocchi."
           }
         }
       }
@@ -9423,6 +10287,12 @@
             "state" : "translated",
             "value" : "Avec une telle assurance, tu fais\ntrembler toute la planète !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sicurezza al massimo!\nIl numero uno dell'universo sei tu."
+          }
         }
       }
     },
@@ -9487,6 +10357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Crois-moi, tu vaux bien plus\nque tout ce que tu imagines !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vali più di quanto pensi tu,\ne si vede da lontano."
           }
         }
       }
@@ -9553,6 +10429,12 @@
             "state" : "translated",
             "value" : "Sans te mentir, tu t'en sors déjà\nsuper bien. Continue !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stai già andando alla grande,\ne tu non te ne accorgi."
+          }
         }
       }
     },
@@ -9617,6 +10499,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ceux qui ne voient pas ton charme\nont besoin de lunettes, et tu n'y es pour rien."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se qualcuno non vede quanto brilli tu,\nè ora che compri gli occhiali."
           }
         }
       }
@@ -9683,6 +10571,12 @@
             "state" : "translated",
             "value" : "Aujourd'hui, on se pose, on respire,\net tu n'as rien d'autre à faire."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oggi si sta comodi:\nun po' di pace la merita proprio tu."
+          }
         }
       }
     },
@@ -9747,6 +10641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toi aussi, tu as le droit\nde faire une pause."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anche tu hai il diritto\ndi riposarti."
           }
         }
       }
@@ -9813,6 +10713,12 @@
             "state" : "translated",
             "value" : "Ne rien faire du tout : si tu veux,\nc'est une excellente journée !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giornata a zero impegni?\nVa benissimo: tu ne hai già fatti abbastanza."
+          }
         }
       }
     },
@@ -9877,6 +10783,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ton bien-être, tu le mets\ntoujours en premier, et c'est bien."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conta il benessere del cuore.\nLo sai tu meglio di chiunque."
           }
         }
       }
@@ -9943,6 +10855,12 @@
             "state" : "translated",
             "value" : "Doucement : tu avances à ton rythme,\net c'est parfait."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con calma, a passo morbido:\ntu non hai fretta."
+          }
         }
       }
     },
@@ -10007,6 +10925,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prends un moment rien que pour toi :\ntu le mérites amplement."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stasera il tempo è per te.\nAccendi una candela: tu ci stai bene."
           }
         }
       }
@@ -10073,6 +10997,12 @@
             "state" : "translated",
             "value" : "Se reposer, c'est aussi une activité,\net tu la maîtrises à merveille !"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riposare è un lavoro serio,\ne il capo sei tu."
+          }
         }
       }
     },
@@ -10137,6 +11067,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Te reposer, c'est ton droit. Aujourd'hui,\ninstalle-toi bien au chaud, tu l'as mérité."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fermarsi è un diritto sacrosanto:\noggi tu sei in ferie dal mondo."
           }
         }
       }
@@ -10203,6 +11139,12 @@
             "state" : "translated",
             "value" : "Quand tu prends soin de toi,\nc'est tout aussi beau."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mentre ti rilassi\nsei ancora più dolce. Sì, tu."
+          }
         }
       }
     },
@@ -10267,6 +11209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ce temps que tu t'offres aujourd'hui,\nil est mérité, ne t'excuse pas."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prendersi del tempo va bene.\nIl mondo aspetta, tu no."
           }
         }
       }
@@ -10333,6 +11281,12 @@
             "state" : "translated",
             "value" : "Même en train de buller,\ntu rayonnes comme personne."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rilassarsi sul divano?\nAnche da fermo, tu brilli."
+          }
         }
       }
     },
@@ -10397,6 +11351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Même en mode détente, tu gardes le titre\nde plus belle personne du quartier."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chi riposa è sempre incantevole,\ne tu ne sei la prova."
           }
         }
       }
@@ -10463,6 +11423,12 @@
             "state" : "translated",
             "value" : "Tout est parfait chez toi, sauf un détail :\ntu m'empêches de regarder ailleurs."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hai un solo difetto: che tu\nnon abbia nessun difetto."
+          }
         }
       }
     },
@@ -10527,6 +11493,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Résultat de ton test de personnalité :\ntu es à 100 % adorable. Aucune marge d'erreur."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei tu il Wi-Fi?\nPerché con te sento una connessione."
           }
         }
       }
@@ -10593,6 +11565,12 @@
             "state" : "translated",
             "value" : "Que ceux qui te trouvent adorable lèvent la main.\nTout le monde debout, tu vois ça ?"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei una bomba, ma di quelle buone:\nsolo tu esplodi di simpatia."
+          }
         }
       }
     },
@@ -10657,6 +11635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "J'ai cherché « canon » dans le dico :\ntu étais dans l'illustration, forcément."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dimmi tu se esisti davvero:\nsembri uscito da un sogno."
           }
         }
       }
@@ -10723,6 +11707,12 @@
             "state" : "translated",
             "value" : "Avec toi, mon cœur capte cinq barres :\nton signal bat celui du Wi-Fi, tu sais."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il navigatore dice \"ricalcolo\":\nla nuova destinazione sei tu."
+          }
         }
       }
     },
@@ -10787,6 +11777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quand je te regarde, mon cerveau affiche :\nerreur 404, tu n'as aucun défaut."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Furto confermato:\nil cuore è sparito e il ladro sei tu."
           }
         }
       }
@@ -10853,6 +11849,12 @@
             "state" : "translated",
             "value" : "Il y a un fruit que j'adore : la pêche.\nEn te voyant, j'ai la pêche, tu vois ?"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La pizza è invidiosa:\nsolo tu piaci a chiunque, come lei."
+          }
         }
       }
     },
@@ -10917,6 +11919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "On t'appelle comment ? Soleil ?\nParce que dès que tu arrives, ça brille."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ho cercato \"fascino\" nel dizionario:\nc'era una foto. Eri tu."
           }
         }
       }
@@ -10983,6 +11991,12 @@
             "state" : "translated",
             "value" : "Dis, tu crois au coup de foudre ?\nParce que là, je viens de prendre une décharge."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non credevo ai miracoli.\nOra guardo te e il miracolo sei tu."
+          }
         }
       }
     },
@@ -11047,6 +12061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je cherchais un défaut chez toi... j'ai trouvé :\ntu es trop adorable, c'est tout."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi mancava qualcosa, poi\nho capito: mancavi tu."
           }
         }
       }
@@ -11113,6 +12133,12 @@
             "state" : "translated",
             "value" : "Y a-t-il un ange dans la pièce ?\nAh non, c'est juste que tu viens d'entrer."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hai un asso nella manica?\nNo: l'asso e la manica sei tu."
+          }
         }
       }
     },
@@ -11177,6 +12203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quand tu es là, c'est comme un bon café :\nfort, chaud, et ça réveille tout le monde."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roma avrebbe otto colli,\nse l'ottavo fossi tu."
           }
         }
       }
@@ -11243,6 +12275,12 @@
             "state" : "translated",
             "value" : "Honnêtement, quand tu passes, ta beauté,\nc'est du lourd : même la balance dit waouh."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il Colosseo è bello, certo,\nma il monumento più amato sei tu."
+          }
         }
       }
     },
@@ -11307,6 +12345,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pas de super-pouvoirs, toi ? Alors comment\ntu fais pour illuminer toute la pièce ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il tiramisù tira su il morale?\nSì, ma tu lo tiri su meglio."
           }
         }
       }
@@ -11373,6 +12417,12 @@
             "state" : "translated",
             "value" : "Mélange de charme et de classe : tu es\nun cocktail à consommer sans modération."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Come l'espresso: corto e intenso.\nIl mio risveglio quotidiano sei tu."
+          }
         }
       }
     },
@@ -11437,6 +12487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Petite info : quand tu souris, tes traits sont\nplus nets que mon avenir. Sans jalousie."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con te il tempo vola.\nChi ha messo le ali alle ore? Sei tu."
           }
         }
       }
@@ -11503,6 +12559,12 @@
             "state" : "translated",
             "value" : "Pour moi, tu es la capitale du cœur :\npas besoin de GPS, j'y vais les yeux fermés."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei come il parmigiano:\nogni piatto migliora se ci sei tu."
+          }
         }
       }
     },
@@ -11567,6 +12629,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pour moi, tu mérites le classement\nmonument historique. Urgence absolue !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ti darei dieci e lode,\nma tu meriti un voto nuovo."
           }
         }
       }
@@ -11633,6 +12701,12 @@
             "state" : "translated",
             "value" : "On dit que, sur ton passage, même les fleurs\nfont la queue pour te saluer, tu savais ?"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non è un concorso di bellezza,\nma se lo fosse, tu avresti già vinto."
+          }
         }
       }
     },
@@ -11697,6 +12771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pourquoi tu travailles ? Ta beauté\nfait déjà des heures sup' pour toi."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lavori ancora? Eppure\ntu hai già il fascino a tempo pieno."
           }
         }
       }
@@ -11763,6 +12843,12 @@
             "state" : "translated",
             "value" : "« Arrête de me plaire. »\n« Et comment tu veux qu'on fasse, au juste ? »"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smettila di essere adorabile!\n\"E come si fa?\"\nAppunto: tu non sai farlo."
+          }
         }
       }
     },
@@ -11827,6 +12913,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ton visage est un trésor national :\nsi tu veux, on l'expose au musée demain."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una vetrina di museo ti vuole in vetrina:\ntu sei un capolavoro che cammina."
           }
         }
       }
@@ -11893,6 +12985,12 @@
             "state" : "translated",
             "value" : "Pas de cérémonie pour toi, c'est inutile :\nle prix de la plus belle frimousse, tu l'as."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Che premiazione inutile:\nse ci sei tu, i vincitori sono già noti."
+          }
         }
       }
     },
@@ -11957,6 +13055,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Séance photo en cours ? Ou alors tu fais juste\nune promenade version magazine ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Servizio fotografico o passeggiata?\nIn ogni caso tu sei una copertina."
           }
         }
       }
@@ -12023,6 +13127,12 @@
             "state" : "translated",
             "value" : "Dans le classement de mon cœur, tu es\nune idole, numéro un depuis toujours."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei una star: nel mio cuore\nil primo in classifica sei tu."
+          }
         }
       }
     },
@@ -12087,6 +13197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Une séance de dédicaces, s'il te plaît :\nje veux ton paraphe chaque matin, si tu veux."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fai un firmacopie, ti prego!\nCi sarò ogni giorno, tu lo sai."
           }
         }
       }
@@ -12153,6 +13269,12 @@
             "state" : "translated",
             "value" : "Lance ta carrière, tu es déjà\nla tête d'affiche dans mon cœur."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debutta pure: nel mio cuore\ntu sei già il frontman."
+          }
         }
       }
     },
@@ -12217,6 +13339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Premier au hit-parade, encore ! Normal :\ntu as la plus belle bobine de l'industrie."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primo in classifica ancora?\nNormale, tu vinci ogni giorno col sorriso."
           }
         }
       }
@@ -12283,6 +13411,12 @@
             "state" : "translated",
             "value" : "Une séance photo, ça te dit ? Parce que tu mérites\nqu'on te photographie tous les jours."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Concedimi una foto:\nsolo tu sei uno scatto perfetto."
+          }
         }
       }
     },
@@ -12347,6 +13481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Retour de toi dans ma vie ? Pour moi, tu as\nfait de mon cœur un remix, un vrai hit."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuovo singolo? Il mio cuore\nlo riascolta a ogni battito. La hit sei tu."
           }
         }
       }
@@ -12413,6 +13553,12 @@
             "state" : "translated",
             "value" : "Je peux te filmer en gros plan ? Chaque fois\nque tu bouges, c'est une belle scène."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posso riprenderti da vicino?\nOgni istante con te, tu, è da applausi."
+          }
         }
       }
     },
@@ -12477,6 +13623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un clip avec toi ? Dans ma vie,\ntu tiens déjà le premier rôle."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Videoclip? No, tu sei già\nil film che vorrei vedere ogni sera."
           }
         }
       }
@@ -12543,6 +13695,12 @@
             "state" : "translated",
             "value" : "Une émission sur ta vie ? Inutile :\ntu es déjà tellement mieux en vrai."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un reality su di te?\nSarebbe un record d'ascolti, tu lo sai."
+          }
         }
       }
     },
@@ -12607,6 +13765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Au centre de la photo, c'est toi,\nparce que tu brilles partout où tu vas."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il centro della scena\nlo occupi sempre tu."
           }
         }
       }
@@ -12673,6 +13837,12 @@
             "state" : "translated",
             "value" : "Le prix du visage de l'année, c'est toi,\net tu l'as eu à l'unanimité."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meriti il premio faccia dell'anno.\nPer ora vince sempre tu."
+          }
         }
       }
     },
@@ -12737,6 +13907,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si tu fais de la pub, je vais tout acheter,\nmême ce dont je n'ai pas besoin."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fai pubblicità? Appena ti vedo\nvoglio comprare qualsiasi cosa. Che potere, tu."
           }
         }
       }
@@ -12803,6 +13979,12 @@
             "state" : "translated",
             "value" : "Une couv de magazine, c'est toi, tous les mois.\nPour toi, il faudrait un numéro quotidien."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dimmi che sei in copertina:\nsul giornale ci sta solo tu."
+          }
         }
       }
     },
@@ -12867,6 +14049,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Le charisme sur scène, c'est vrai ?\nQuand tu es là, le quotidien ressemble à un spectacle."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Che carisma sul palco!\nMa anche a casa sei una star, tu."
           }
         }
       }
@@ -12933,6 +14121,12 @@
             "state" : "translated",
             "value" : "Échange de cartes à collectionner ? Si tu en as,\nje voudrais tout l'album, sans doublon."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faccio l'album delle figurine:\nin ogni pagina ci sei tu."
+          }
         }
       }
     },
@@ -12997,6 +14191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ça se passe quand, ta rencontre avec les fans ?\nJ'aimerais que tu viennes chaque jour."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quand'è l'incontro con i fan?\nIo ci sono ogni giorno, e tu?"
           }
         }
       }
@@ -13063,6 +14263,12 @@
             "state" : "translated",
             "value" : "Poste ta chorégraphie, je t'en prie :\ncomme tu bouges, c'est de l'art en mouvement."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posta un video di ballo, dai:\nogni mossa è arte, e tu lo sai."
+          }
         }
       }
     },
@@ -13127,6 +14333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "On dirait la bande-annonce d'un film :\nrien que quand tu apparais, mon cœur s'emballe."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi sembra un trailer:\nogni volta che arrivi tu, il cuore parte."
           }
         }
       }
@@ -13193,6 +14405,12 @@
             "state" : "translated",
             "value" : "Tournée mondiale en vue ? Déjà, tu as fait\nvibrer mon cœur sur tous les continents."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tournée mondiale? Io salgo sul bus.\nSe ci sei tu, il viaggio è già bello."
+          }
         }
       }
     },
@@ -13257,6 +14475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dédicace-moi cet album : quand tu es là,\nta présence est une édition limitée."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edizione limitata?\nNo, tu sei un pezzo unico."
           }
         }
       }
@@ -13323,6 +14547,12 @@
             "state" : "translated",
             "value" : "J'allume mon bâton lumineux pour toi :\nje t'encouragerai tant que tu me souris."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alzo la torcia del telefono:\nper te, che illumini la sala. Sì, tu."
+          }
         }
       }
     },
@@ -13387,6 +14617,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ça a explosé, hein ? Normal,\ntu étais déjà légendaire depuis le début."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scalata in classifica?\nIn vetta eri già da sempre, tu."
           }
         }
       }
@@ -13453,6 +14689,12 @@
             "state" : "translated",
             "value" : "Je dois réserver des places de concert :\nquand tu apparais, c'est mon spectacle quotidien."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Concerto? Io vado\nsolo per vedere se ci sei tu."
+          }
         }
       }
     },
@@ -13517,6 +14759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Premier du top 50, encore ?\nPour moi, tu es le hit de toute ma vie."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primo posto in hit parade?\nPer me la canzone numero uno sei tu."
           }
         }
       }
@@ -13583,6 +14831,12 @@
             "state" : "translated",
             "value" : "Un rappel, encore un !\nOn ne se lasse pas de te revoir quand tu passes."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bis, bis, bis!\nUna canzone che riascolto sempre? Sei tu."
+          }
         }
       }
     },
@@ -13647,6 +14901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Même dans les coulisses, tu es au top :\naucune seconde ratée, que du légendaire."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anche dietro le quinte\nsei una leggenda, tu."
           }
         }
       }
@@ -13713,6 +14973,12 @@
             "state" : "translated",
             "value" : "Je dois changer de chouchou :\ntu m'empêches d'en regarder un autre."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambio la mia star preferita:\nda oggi la numero uno sei tu."
+          }
         }
       }
     },
@@ -13777,6 +15043,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ça y est, je suis fan. Si tu t'y attends,\nje te soutiendrai à vie, sans condition."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tessera numero uno al fan club:\nci tengo, perché il capo sei tu."
           }
         }
       }
@@ -13843,6 +15115,12 @@
             "state" : "translated",
             "value" : "Mon favori, je le dévoile :\nc'est toi, et tu l'as bien compris, non ?"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svelo il mio preferito:\nin tre, due, uno... sei tu."
+          }
         }
       }
     },
@@ -13907,6 +15185,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "J'ai acheté tous les produits dérivés :\ntu es le meilleur article de la boutique."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ho comprato ogni gadget:\ntanto il pezzo da collezione sei tu."
           }
         }
       }
@@ -13973,6 +15257,12 @@
             "state" : "translated",
             "value" : "Fan à vie, c'est décidé :\nje te suivrai partout, tu es mon artiste."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faccio il tifo a vita:\nho un solo idolo, e sei tu."
+          }
         }
       }
     },
@@ -14037,6 +15327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mon QG de fan est installé :\ntu en es la boss, et l'unique adresse."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ho scelto la mia squadra:\nlo stadio è dove sei tu."
           }
         }
       }
@@ -14103,6 +15399,12 @@
             "state" : "translated",
             "value" : "Fan-club ouvert : adhérent numéro un,\nc'est moi. Et toi, tu es la star du comité."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parte la mia fase fan:\nsei tu il mio unico pensiero."
+          }
         }
       }
     },
@@ -14167,6 +15469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je serai ton photographe officiel :\nje veux garder tous les moments où tu brilles."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faccio il fotografo ufficiale:\nvoglio immortalare ogni attimo in cui ridi tu."
           }
         }
       }
@@ -14233,6 +15541,12 @@
             "state" : "translated",
             "value" : "C'est l'heure de la fête : chaque seconde\nque tu passes ici vaut de l'or en barre."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ora di parlarci da amici:\nmi piaci da morire, tu."
+          }
         }
       }
     },
@@ -14297,6 +15611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Je loue un panneau pub pour toi :\nque chaque jour soit celui où tu fêtes ton anniversaire."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pago un cartellone in piazza:\nogni giorno dovrebbe essere festa, perché ci sei tu."
           }
         }
       }
@@ -14363,6 +15683,12 @@
             "state" : "translated",
             "value" : "Je te soutiens pour la vie :\nje suis fier que tu aies un fan-club."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tifo per te per sempre.\nChe orgoglio essere fan di quello che sei tu."
+          }
         }
       }
     },
@@ -14427,6 +15753,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mon cœur s'emballe dès que tu entres,\net il n'a pas l'air de vouloir se calmer."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando ci sei tu\nil cuore fa il tamburo."
           }
         }
       }
@@ -14493,6 +15825,12 @@
             "state" : "translated",
             "value" : "Le monde est plus beau\ndès que tu apparais."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se ci sei tu\nil mondo diventa un quadro."
+          }
         }
       }
     },
@@ -14557,6 +15895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pour mon bonheur, tu es\nla vitamine du jour."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei la mia vitamina quotidiana:\ntu lo sai, e fa bene al cuore."
           }
         }
       }
@@ -14623,6 +15967,12 @@
             "state" : "translated",
             "value" : "Quand tu ris, je ris aussi\nsans même savoir pourquoi."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se sorridi tu,\nsorrido pure io, in automatico."
+          }
         }
       }
     },
@@ -14687,6 +16037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "De toutes les étoiles que j'ai vues,\ntu es de loin la plus brillante."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tra le stelle, la più luminosa\nche abbia mai visto sei tu."
           }
         }
       }
@@ -14753,6 +16109,12 @@
             "state" : "translated",
             "value" : "Chacune de tes journées est une fête\ndans mon cœur, tu le savais ?"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ogni giorno con te è una sagra:\ne il re della festa sei tu."
+          }
         }
       }
     },
@@ -14817,6 +16179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rien qu'en entendant ta voix,\nmon humeur remonte, et tu le fais sans effort."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se parli tu,\nla giornata parte col sorriso."
           }
         }
       }
@@ -14883,6 +16251,12 @@
             "state" : "translated",
             "value" : "Dans ma vie, tu es\nle plus gros coup de chance."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nel gioco della vita\nil jolly migliore sei tu."
+          }
         }
       }
     },
@@ -14947,6 +16321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Grâce à toi, je peux encore sourire :\ntu es le meilleur remède."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se oggi rido,\nè perché ci sei tu."
           }
         }
       }
@@ -15013,6 +16393,12 @@
             "state" : "translated",
             "value" : "Personne n'est plus précieux que toi,\net tu le sais bien, avoue."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nel mondo intero\nla persona più preziosa sei tu."
+          }
         }
       }
     },
@@ -15077,6 +16463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Penser à toi suffit, et quand tu apparais,\nle sourire arrive tout seul."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se penso a te mi parte il sorriso:\nlo fai apposta, tu?"
           }
         }
       }
@@ -15143,6 +16535,12 @@
             "state" : "translated",
             "value" : "Pour mon cœur, tu es\nle calme après la tempête."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei la pace del mio cuore,\ne lo sai pure tu."
+          }
         }
       }
     },
@@ -15207,6 +16605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chaque minute que tu passes avec moi\nest un moment à part."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ogni minuto accanto a te\nè speciale. Ma tu non te ne accorgi."
           }
         }
       }
@@ -15273,6 +16677,12 @@
             "state" : "translated",
             "value" : "De toutes les personnes que je connais,\ntu es la plus géniale."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non conosco persona più in gamba:\nil record lo detieni tu."
+          }
         }
       }
     },
@@ -15337,6 +16747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ta présence seule me comble :\nmerci d'exister, tu sais ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esistere già basta:\nti ringrazio, tu che sei un dono."
           }
         }
       }
@@ -15403,6 +16819,12 @@
             "state" : "translated",
             "value" : "Parmi toutes mes journées, tu es\nle moment que je préfère."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il clou\ndella giornata sei tu."
+          }
         }
       }
     },
@@ -15467,6 +16889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avec toi dans les parages, chaque jour devient\nspécial, et tu le fais sans effort."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Basta che ci sia tu\ne il giorno diventa speciale."
           }
         }
       }
@@ -15533,6 +16961,12 @@
             "state" : "translated",
             "value" : "Dès que tu entres dans mon regard,\nle monde s'éclaire."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando arrivi tu\nla stanza si illumina."
+          }
         }
       }
     },
@@ -15597,6 +17031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pour moi, tu es\nle plus beau des cadeaux."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il regalo migliore della mia vita?\nSenza dubbio sei tu."
           }
         }
       }
@@ -15663,6 +17103,12 @@
             "state" : "translated",
             "value" : "Sans toi, le monde serait moins beau,\nc'est mathématique, tu peux vérifier."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il mondo è un posto migliore\nsolo perché ci sei tu."
+          }
         }
       }
     },
@@ -15727,6 +17173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Une journée sans toi ? Impossible,\nje ne sais pas ce que tu me fais."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una giornata senza te? Impensabile.\nOgni giorno ho bisogno che ci sia tu."
           }
         }
       }
@@ -15793,6 +17245,12 @@
             "state" : "translated",
             "value" : "Au fond de mon cœur, tu es\nla numéro un pour toujours."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nel mio cuore, il numero uno\nè sempre e solo tu."
+          }
         }
       }
     },
@@ -15857,6 +17315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avec toi à mes côtés, j'ai l'impression\nque tu rends tout possible."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se ci sei tu\nsi può affrontare qualsiasi cosa."
           }
         }
       }
@@ -15923,6 +17387,12 @@
             "state" : "translated",
             "value" : "Chaque jour, je remercie le ciel\nque tu existes."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ringrazio ogni giorno il cielo\nperché esisti tu."
+          }
         }
       }
     },
@@ -15987,6 +17457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ton sourire est plus beau que tout,\net si tu savais à quel point !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessun sorriso al mondo\nbatte quello che fai tu."
           }
         }
       }
@@ -16053,6 +17529,12 @@
             "state" : "translated",
             "value" : "Ma plus grande bénédiction,\nc'est que tu sois là."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La benedizione più grande\nche conosca sei tu."
+          }
         }
       }
     },
@@ -16117,6 +17599,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Penser à toi, c'est lancer une journée heureuse,\net tu en es la cause."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se penso a te, la giornata\ndiventa felice. Sì, a te: tu fai miracoli."
           }
         }
       }
@@ -16183,6 +17671,12 @@
             "state" : "translated",
             "value" : "À tes côtés, chaque instant devient parfait,\nsans que tu fasses quoi que ce soit."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei il mio posto sicuro, lo sai:\ncasa mia è dove ci sei tu."
+          }
         }
       }
     },
@@ -16247,6 +17741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quand je pense à mon idéal, tu apparais\ncomme par magie, c'est dingue."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando ci sei tu\nogni cosa va al posto giusto."
           }
         }
       }
@@ -16313,6 +17813,12 @@
             "state" : "translated",
             "value" : "Mon cœur tombe en panne\ndès que tu passes devant moi."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il mio tipo ideale?\nDescrizione esatta: sei tu."
+          }
         }
       }
     },
@@ -16377,6 +17883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "On devrait te mettre au programme\nscolaire : tu es une légende vivante."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il cuore va in tilt\nogni volta che passi tu."
           }
         }
       }
@@ -16443,6 +17955,12 @@
             "state" : "translated",
             "value" : "Ton charme est une attaque surprise\net tu peux recommencer, je me laisse faire."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se esistesse un libro dei grandi,\nin copertina ci sarebbe tu."
+          }
         }
       }
     },
@@ -16507,6 +18025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "À force de ne regarder que toi,\nj'aurai un torticolis, mais tu en vaux la peine."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi lascio incantare ogni volta:\nfai sempre centro, tu."
           }
         }
       }
@@ -16573,6 +18097,12 @@
             "state" : "translated",
             "value" : "Chaque fois que tu apparais,\nmon cœur passe la seconde."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi viene il torcicollo a forza\ndi voltarmi quando passi tu."
+          }
         }
       }
     },
@@ -16637,6 +18167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dans ma galerie d'art perso, tu es\nle chef-d'œuvre numéro un."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I battiti salgono\nogni volta che appari tu."
           }
         }
       }
@@ -16703,6 +18239,12 @@
             "state" : "translated",
             "value" : "À cause de toi, tous mes jours\nsont des jours de fête, tu es responsable."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Che spettacolo per gli occhi:\nuna copertina che cammina, tu."
+          }
         }
       }
     },
@@ -16767,6 +18309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un vrai miracle sur pattes, et c'est toi,\nsi tu veux tout savoir."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ogni giorno è da preferiti,\nperché ci sei tu."
           }
         }
       }
@@ -16833,6 +18381,12 @@
             "state" : "translated",
             "value" : "Dès que tu entres dans la pièce,\nle monde passe au ralenti."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un miracolo a passeggio:\nsei tu."
+          }
         }
       }
     },
@@ -16897,6 +18451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ma vie t'offre l'accès VIP :\nsans file d'attente, quand tu veux."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appena arrivi tu\nil mondo va al rallentatore."
           }
         }
       }
@@ -16963,6 +18523,12 @@
             "state" : "translated",
             "value" : "Pour mon cœur, tu es\nle contenu en exclusivité."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nella mia vita hai l'accesso VIP:\nanzi, il locale esclusivo sei tu."
+          }
         }
       }
     },
@@ -17027,6 +18593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "À cause de toi, le monde tourne\nen haute définition, tu n'y es pas pour rien."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il punto più alto della mia giornata\nè il momento in cui arrivi tu."
           }
         }
       }
@@ -17093,6 +18665,12 @@
             "state" : "translated",
             "value" : "Mon heure préférée de la journée,\nc'est celle où tu es là."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'unica serie che rivedrei all'infinito\nè quella dove ci sei tu."
+          }
         }
       }
     },
@@ -17157,6 +18735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rien qu'en pensant à toi,\nj'affiche un sourire, tu peux en être fier."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Da quando ci sei tu\nvedo il mondo in alta definizione."
           }
         }
       }
@@ -17223,6 +18807,12 @@
             "state" : "translated",
             "value" : "Un hôtel cinq étoiles, ça existe :\nc'est mon cœur, et tu en es le client roi."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nella mia vita arrivi\nal momento giusto. Sempre, tu."
+          }
         }
       }
     },
@@ -17287,6 +18877,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Grâce à toi, chaque jour est une fête,\navec confettis. Et tu les offres sans compter."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei il pensiero che fa sorridere:\nlo sai tu quanto?"
           }
         }
       }
@@ -17353,6 +18949,12 @@
             "state" : "translated",
             "value" : "Dans mon histoire, tu es\nl'événement principal."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il mio cuore è un grand hotel,\ne la suite migliore l'hai presa tu."
+          }
         }
       }
     },
@@ -17417,6 +19019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quand tu apparais,\nmon cœur se met à danser."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ogni giorno è giorno di festa,\nper merito di chi? Solo tu."
           }
         }
       }
@@ -17483,6 +19091,12 @@
             "state" : "translated",
             "value" : "À mes yeux, tu es\nen ultra haute définition."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il protagonista del mio film\nsei tu, e non cambio il cast."
+          }
         }
       }
     },
@@ -17547,6 +19161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dès que tu passes dans mes pensées,\nmon humeur passe au niveau supérieur."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando passi tu\nil mio cuore balla la breakdance."
           }
         }
       }
@@ -17613,6 +19233,12 @@
             "state" : "translated",
             "value" : "Au panthéon de mon cœur, tu as\nla place numéro un, gravée dans le marbre."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Per i miei occhi sei in 4K:\nche nitidezza, tu."
+          }
         }
       }
     },
@@ -17677,6 +19303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mon atout caché, celui qui change tout :\nc'est toi, et tu ne le savais pas."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se ci sei tu\nil mondo splende di più."
           }
         }
       }
@@ -17743,6 +19375,12 @@
             "state" : "translated",
             "value" : "Merci à toi : depuis que tu es là,\nma vie est passée en couleurs."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Per il mio cuore\nsei una persona VVIP, tu e nessun altro."
+          }
         }
       }
     },
@@ -17807,6 +19445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dans la légende de mon cœur,\nc'est toi la star, et tu le sais bien."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il giorno cambia faccia\nquando entri in scena tu."
           }
         }
       }
@@ -17873,6 +19517,12 @@
             "state" : "translated",
             "value" : "Quand tu es là, ma journée\ngagne vingt points de bonheur."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La mia carta segreta?\nChe domande: sei tu."
+          }
         }
       }
     },
@@ -17937,6 +19587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pour mon cœur, tu es\nle VIP des VIP."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pensare a te mi mette di buon umore.\nCome fai tu?"
           }
         }
       }
@@ -18003,6 +19659,12 @@
             "state" : "translated",
             "value" : "Depuis que tu as débarqué, ma vie\na pris un joli virage."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nel mio pantheon personale\nil primo posto d'onore sei tu."
+          }
         }
       }
     },
@@ -18067,6 +19729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "À chaque fois que tu passes,\nle temps s'arrête une seconde."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La mia vita è a colori\nda quando ci sei tu."
           }
         }
       }
@@ -18133,6 +19801,12 @@
             "state" : "translated",
             "value" : "Pour moi, tu es\nun bonheur sans date de péremption."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei un classico senza tempo,\nnel mio cuore ci sei sempre tu."
+          }
         }
       }
     },
@@ -18198,6 +19872,12 @@
             "state" : "translated",
             "value" : "Avec toi dans le décor, mon quotidien\ntourne comme un film, et tu en es le héros."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appena passi tu\nmi sembra un film al rallentatore."
+          }
         }
       }
     },
@@ -18262,6 +19942,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dans ma vie, tu es\nle laissez-passer pour le bonheur."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il mio pass per la felicità\nsei tu, e non scade mai."
           }
         }
       }

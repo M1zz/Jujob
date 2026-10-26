@@ -64,6 +64,12 @@
             "state" : "translated",
             "value" : "Trop Fan de Toi"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overdose di Complimenti"
+          }
         }
       }
     },
@@ -129,6 +135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trop Fan de Toi"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overdose di Complimenti"
           }
         }
       }

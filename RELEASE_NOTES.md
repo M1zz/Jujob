@@ -61,3 +61,9 @@ Fehler und Ideen gern per Mail oder DM
 Compliments dispo en plusieurs langues
 Contact développeur dans les réglages
 Bugs ou idées ? Mail ou Instagram !
+
+### 앱스토어 (이탈리아어)
+
+Ora i complimenti parlano anche italiano
+Scrivi allo sviluppatore dall'app
+Bug e idee? Scrivi via email o Instagram

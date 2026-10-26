@@ -452,3 +452,48 @@ Ce que tu peux faire
 
 Zéro collecte de données personnelles. Ton prénom et tes favoris restent uniquement sur ton appareil.
 Un bug, une idée ? Écris-nous par e-mail ou sur Instagram depuis les réglages.
+
+## it
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/it/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/it/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/it/index.html
+
+### 이름
+
+Overdose di Complimenti
+
+### 부제
+
+Applausi e tifo ogni giorno
+
+### 키워드
+
+frasi,motivazione,autostima,widget,incoraggiamento,buongiorno,umore,relax,sorriso,colloquio,esame
+
+### 프로모션 텍스트
+
+Una dose extra di tifo per te! Con il widget sulla Home ricevi applausi esagerati dal mattino alla sera. Ora puoi anche metterci il nome che vuoi.
+
+### 설명
+
+Un'app con widget che ti riempie di complimenti, anche troppi. Ogni volta che guardi la Home, una frase esagerata ti strappa un sorriso.
+Per le giornate in cui l'autostima fa le bizze: 281 frasi di tifo per ogni umore e momento, dal buongiorno al colloquio, dall'esame ai giorni no.
+
+Cosa trovi
+- Widget per la Home: scegli font, colore del testo, immagine di sfondo, allineamento, interlinea e frequenza di aggiornamento.
+- Umore e momenti: mattina, verso il lavoro, prima del colloquio, prima dell'esame, pre-allenamento, prima del date, verso casa, sera, giornata dura, relax, autostima e motivazione.
+- Il nome nelle frasi: al posto del "tu" compare il nome che scegli, e il tifo diventa personale.
+- Preferiti e cronologia: salva con la stella le frasi che ami e ritrova quelle già lette.
+- Giorni di fila e traguardi: a 7, 30 e 100 giorni consecutivi si sbloccano frasi speciali.
+
+Nessun dato personale viene raccolto. Nome, preferiti e impostazioni restano solo sul dispositivo.
+Per segnalare un bug o proporre un'idea, scrivi via email o Instagram dalle impostazioni.
