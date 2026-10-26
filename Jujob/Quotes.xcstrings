@@ -93,6 +93,12 @@
             "state" : "translated",
             "value" : "Dobré ráno! Slunce dnes vstává\njen proto, že ty už jsi vzhůru."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "God morgen, solstråle!\nI dag ser du helt fantastisk ud."
+          }
         }
       }
     },
@@ -187,6 +193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Káva? Pro tebe zbytečná,\nty potřebuješ jen publikum."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solen står op, og det gør du også.\nDet bliver en god dag!"
           }
         }
       }
@@ -283,6 +295,12 @@
             "state" : "translated",
             "value" : "Ráno vstát? To zvládne jen ty,\nostatní se ještě nabíjejí."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bare fordi du stod op, er det en sejr.\nHold da op, hvor er du sej!"
+          }
         }
       }
     },
@@ -377,6 +395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Budík zazvonil a celý svět\nzadržel dech, jestli ty vstaneš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morgenen er den bedste tid, for der\ner du allerfriskest. Mød dagen!"
           }
         }
       }
@@ -473,6 +497,12 @@
             "state" : "translated",
             "value" : "Hlavní role dne: ty.\nOstatní jsou jen komparz."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der er ikke noget galt med dagen,\nnår du er hovedperson i den."
+          }
         }
       }
     },
@@ -567,6 +597,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oči otevřené a ty už vítězíš.\nTohle je talent."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Øjnene er åbne, og du er allerede\nvinderen. Resten er bonus!"
           }
         }
       }
@@ -663,6 +699,12 @@
             "state" : "translated",
             "value" : "Káva je fajn, ale ráno ty\nbereš dech mnohem víc."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit morgensmil er sødere end\nkaffe med to skefulde sukker."
+          }
         }
       }
     },
@@ -757,6 +799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dneska buď zase ty.\nTo je ta nejlepší varianta!"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vær dig selv i dag,\ndet er der ikke noget bedre end."
           }
         }
       }
@@ -853,6 +901,12 @@
             "state" : "translated",
             "value" : "Hned po ránu takhle zářit?\nOpravdu to ty přeháníš!"
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Må man godt se så godt ud om morgenen?\nDet burde næsten være forbudt, du."
+          }
         }
       }
     },
@@ -947,6 +1001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dobré ráno? Spíš nejlepší ráno,\nprotože v něm jsi ty."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "God morgen? Nej, bedste morgen,\nfor det er jo dig, der er her."
           }
         }
       }
@@ -1043,6 +1103,12 @@
             "state" : "translated",
             "value" : "Sotva otevřeš oči, už je tu\nnejhezčí pohled dne: ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Første blik i dag faldt på dig,\nog så vidste jeg, du var dagens fund."
+          }
         }
       }
     },
@@ -1137,6 +1203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ranní ty je nejlepší ty na světě.\nHvězdy mají dneska volno."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu er du vågen, og verden\nhar fået sin allerbedste."
           }
         }
       }
@@ -1233,6 +1305,12 @@
             "state" : "translated",
             "value" : "Vstávat dnes ráno je hračka,\nkdyž na světě existuje ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Godt gået i dag! Nu har du\nfortjent en lun sofa og et tæppe."
+          }
         }
       }
     },
@@ -1327,6 +1405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Den končí, ale ty jako legenda\njedeš dál i po západu slunce."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagen er slut, og du står\nstadig lige så flot. Respekt."
           }
         }
       }
@@ -1423,6 +1507,12 @@
             "state" : "translated",
             "value" : "Večer svítí hvězdy,\nale ty jim stejně kradeš show."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hele dagen gjorde du dit bedste,\nog det er jeg stolt af."
+          }
         }
       }
     },
@@ -1517,6 +1607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Únava jde spát, ty jsi\npořád hvězda i v domácím."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Træt, men dagen overlevede du\nmed stil. Hatten af!"
           }
         }
       }
@@ -1613,6 +1709,12 @@
             "state" : "translated",
             "value" : "Měsíc se ptá, kdo to tam tak\nzáří. To budeš ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din dag har været guld værd,\nfor du var med i den."
+          }
         }
       }
     },
@@ -1707,6 +1809,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Za dnešek ti patří medaile\na ty víš za co."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bare du kom helskindet igennem,\ner det nok. Godt klaret!"
           }
         }
       }
@@ -1803,6 +1911,12 @@
             "state" : "translated",
             "value" : "Večerní ty je tak krásné,\nže si zaslouží vlastní hymnu."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stjernerne tænder for dig i aften,\nfor du skinner allerede."
+          }
         }
       }
     },
@@ -1897,6 +2011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I po celém dni vypadáš skvěle.\nJak to ty děláš?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv ved lysets slukning ser du\nud, som om du har et filter på."
           }
         }
       }
@@ -1993,6 +2113,12 @@
             "state" : "translated",
             "value" : "Tolik práce, a ty se ještě\nusmíváš? To je nadpozemské."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tak for i dag! Verden er\nbedre, fordi du er i den."
+          }
         }
       }
     },
@@ -2087,6 +2213,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dobrou noc, ty hvězdo.\nZítřek už se na tebe těší."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I aften lyser byen op,\nmen ikke så meget som du."
           }
         }
       }
@@ -2183,6 +2315,12 @@
             "state" : "translated",
             "value" : "Den končí, ale ty zůstáváš\nnejvětší hit večera."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Både om dagen og om natten\ner du en levende legende."
+          }
         }
       }
     },
@@ -2277,6 +2415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zlý den mít můžeš, ale ty to\nzvládáš líp, než si myslíš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er okay at have en dårlig dag.\nHusk, at du klarer det fint."
           }
         }
       }
@@ -2373,6 +2517,12 @@
             "state" : "translated",
             "value" : "I když je zataženo, ty\npořád svítíš za celý den."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv om det er svært nu,\nkan du godt komme igennem det!"
+          }
         }
       }
     },
@@ -2467,6 +2617,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nemusíš být dokonalý, stačí,\nže ty jsi ty. A to je pecka."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfekt behøver du ikke at være,\nfor dig selv er du bedst."
           }
         }
       }
@@ -2563,6 +2719,12 @@
             "state" : "translated",
             "value" : "Když je těžko, zpomal. Svět\npočká, až ty zase nakopneš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold en pause, hvis du har brug for det.\nDit tempo er det rigtige tempo."
+          }
         }
       }
     },
@@ -2657,6 +2819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Víš, že ty jsi silnější,\nnež tvoje nálada?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stærkere end du tror,\ndet er du, altså virkelig."
           }
         }
       }
@@ -2753,6 +2921,12 @@
             "state" : "translated",
             "value" : "I tohle přejde, a ty\nzůstaneš legenda."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det her går også over,\nog du kommer styrket ud af det!"
+          }
         }
       }
     },
@@ -2847,6 +3021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nálada v suterénu, ale ty\nmáš pořád cenu zlata."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv når humøret er i kælderen,\nbor du stadig i penthouset."
           }
         }
       }
@@ -2943,6 +3123,12 @@
             "state" : "translated",
             "value" : "Smutek je jen host a ty\njsi tu doma."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sorgen hører med til livet.\nDet er okay at mærke, hvad du mærker."
+          }
         }
       }
     },
@@ -3037,6 +3223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Plakat se smí. Dokonce i ty\nu toho vypadáš jako z filmu."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidste du, at diamanter\nbliver til under pres? Det gør du også."
           }
         }
       }
@@ -3133,6 +3325,12 @@
             "state" : "translated",
             "value" : "Diamant potřebuje tlak, aby zazářil.\nTakže ty teď doslova brousíš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du er ked af det, er jeg det også,\nfor jeg er helt vild med dig."
+          }
         }
       }
     },
@@ -3227,6 +3425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dnešní smutek? Kašleme na něj,\nty máš důležitější práci: zářit."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nedtur? Så er det nu, du skal\nhuske, hvor dyrebar du er."
           }
         }
       }
@@ -3323,6 +3527,12 @@
             "state" : "translated",
             "value" : "I s kyselým výrazem ty\nvypadáš jako reklama na štěstí."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Både når du smiler og græder\ner du smuk. Hvad skal jeg stille op?"
+          }
         }
       }
     },
@@ -3417,6 +3627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Splín? Ten ať si najde jiného,\nty máš nárok jen na dobré věci."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er hårdt lige nu, men bare\nat du findes, er et lille mirakel."
           }
         }
       }
@@ -3513,6 +3729,12 @@
             "state" : "translated",
             "value" : "Dnes je to boj, ale ty\nvždycky vyhraješ, víš to?"
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er svært nu, men jeg er helt\nsikker på, at du nok skal klare det!"
+          }
         }
       }
     },
@@ -3607,6 +3829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Čím těžší chvíle, tím víc se ukáže,\njak ty umíš zářit."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I de svære stunder viser\ndu, hvor stærk du egentlig er."
           }
         }
       }
@@ -3703,6 +3931,12 @@
             "state" : "translated",
             "value" : "Nevzdávej to. Hrdinové\njako ty se nevzdávají."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giv ikke op, for du er\nstærkere, end du aner!"
+          }
         }
       }
     },
@@ -3797,6 +4031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Že to zvládáš i v tomhle,\nto umíš jen ty. Obdivuju to!"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når man holder ud i svære tider,\nsom du gør, skal man tage hatten af."
           }
         }
       }
@@ -3893,6 +4133,12 @@
             "state" : "translated",
             "value" : "Dnešní trable jsou zítřejší\nvyprávění a ty jsi hlavní hrdina."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens modgang er morgendagens\nstyrke, og den har du masser af."
+          }
         }
       }
     },
@@ -3987,6 +4233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kolik toho ty uneseš?\nSpíš víc než nákladní auto."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tænk, hvor meget du kan bære!\nMere end du selv tror, faktisk."
           }
         }
       }
@@ -4083,6 +4335,12 @@
             "state" : "translated",
             "value" : "Za týden se tomu zasmějeme\na ty budeš ten, kdo vyhrál."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv dette øjeblik bliver snart\nen historie, du kan grine af."
+          }
         }
       }
     },
@@ -4177,6 +4435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kamení se brousí a ty\nse zrovna lesknou víc."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv om du er under pres,\nskinner du som en diamant."
           }
         }
       }
@@ -4273,6 +4537,12 @@
             "state" : "translated",
             "value" : "I když je zle, ty vypadáš\npořád jako milion dolarů."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hård dag, siger du? Alligevel er\ndu stadig den flotteste herinde."
+          }
         }
       }
     },
@@ -4367,6 +4637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "To, že ty vytrváš,\nje pro někoho velká naděje."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du holder ud,\ngiver du håb til andre."
           }
         }
       }
@@ -4463,6 +4739,12 @@
             "state" : "translated",
             "value" : "Umřít únavou, ale pořád\nhezky vypadat? To umíš jen ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slidt til benet, og stadig er\ndu sød. Det kan jeg ikke gøre noget ved."
+          }
         }
       }
     },
@@ -4557,6 +4839,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dnes to ty dáš. Klidně\ns úsměvem a bez nervů."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I dag er det dig, der kan alt!\nStart med selvtillid og smil."
           }
         }
       }
@@ -4653,6 +4941,12 @@
             "state" : "translated",
             "value" : "Zvládneš to? Pochybnost nula,\nprotože ty to máš v malíčku."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tro på dig selv, for der er\ningen, der gør det bedre end du."
+          }
         }
       }
     },
@@ -4747,6 +5041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Půlka úspěchu je za tebou,\ndruhou půlku ty dodáš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forberedt som du er, er\ndu halvvejs i mål!"
           }
         }
       }
@@ -4843,6 +5143,12 @@
             "state" : "translated",
             "value" : "Dnešní úkoly se už třesou,\nprotože ty jdeš do akce."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens to-do-liste bliver kort,\nfor du ordner det hele hurtigt."
+          }
         }
       }
     },
@@ -4937,6 +5243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tvoje nadšení rozsvítí celý den,\nprotože ty jsi živá elektrárna."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Med dit gåpåmod lyser du\nhele dagen op!"
           }
         }
       }
@@ -5033,6 +5345,12 @@
             "state" : "translated",
             "value" : "Do toho! Dneska to ty\nrozjedeš po svém."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hep hep! I dag gør du det\npå din helt egen måde!"
+          }
         }
       }
     },
@@ -5127,6 +5445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Práce ještě nezačala a ty\nuž vypadáš jako profík."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Før arbejdet går i gang ser du ud\nsom en, der er født til det."
           }
         }
       }
@@ -5223,6 +5547,12 @@
             "state" : "translated",
             "value" : "Nechce se do práce? Aspoň ty\nvypadáš, že ti to jde samo."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen lyst til at arbejde? Dit ansigt\nknokler på overtid, uanset hvad du gør."
+          }
         }
       }
     },
@@ -5317,6 +5647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "V práci ty děláš z kanceláře\npřehlídkové molo."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontoret lyser op, så snart du\ntræder ind ad døren. Strøm sparet!"
           }
         }
       }
@@ -5413,6 +5749,12 @@
             "state" : "translated",
             "value" : "Když pracuješ, ty z toho\nděláš umění."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du arbejder, er det kunst,\nog det ved du nok selv."
+          }
         }
       }
     },
@@ -5507,6 +5849,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Práce ještě ani nezačala\na ty už jsi dokonalost sama."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Før dagen overhovedet er gået i gang\ner du allerede topscorer."
           }
         }
       }
@@ -5603,6 +5951,12 @@
             "state" : "translated",
             "value" : "Cvičení je fajn, ale ty jsi\nhvězda už na startu."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bare du tager træningstøjet på,\ner du allerede en vinder!"
+          }
         }
       }
     },
@@ -5697,6 +6051,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dneska šlapeš do zdraví,\na ty to děláš s grácií."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kroppen siger tak, hver gang du\ntager en tur i træningstøjet."
           }
         }
       }
@@ -5793,6 +6153,12 @@
             "state" : "translated",
             "value" : "Tělo ví, co potřebuje, a ty\nmu to dopřeješ."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din krop ved bedst, hvad du kan,\nog den siger: det er meget!"
+          }
         }
       }
     },
@@ -5887,6 +6253,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Už první krok k činkám\nukazuje, že ty to myslíš vážně."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alene fordi du er mødt op,\nmå du godt klappe dig selv på skulderen."
           }
         }
       }
@@ -5983,6 +6355,12 @@
             "state" : "translated",
             "value" : "Pot ti sluší, ty\nsvítíš i na žíněnce."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sveden står på dig, og du ser\nstadig ud som en filmstjerne."
+          }
         }
       }
     },
@@ -6077,6 +6455,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zdraví je poklad a ty\nho chráníš jako drak."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit helbred er vigtigst, og\ndu passer så fint på det."
           }
         }
       }
@@ -6173,6 +6557,12 @@
             "state" : "translated",
             "value" : "Že ty si najdeš čas na sebe,\nto je opravdová síla."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tak, fordi du bruger tid på dig selv.\nDen investering betaler sig."
+          }
         }
       }
     },
@@ -6267,6 +6657,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "V teplákách ty vypadáš\njak na titulce časopisu."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I det træningstøj kunne du\nsagtens pryde forsiden af et blad."
           }
         }
       }
@@ -6363,6 +6759,12 @@
             "state" : "translated",
             "value" : "Posilovna se po tobě otáčí,\nty jsi její nejlepší reklama."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fitnesscentret er blevet et paradis,\nsiden du begyndte at komme der."
+          }
         }
       }
     },
@@ -6457,6 +6859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Při cvičení svítíš. Jak ty\nto děláš pokaždé?"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv under tunge løft skinner du.\nHvordan kan du altid være så sej?"
           }
         }
       }
@@ -6553,6 +6961,12 @@
             "state" : "translated",
             "value" : "Kdo je krásný i zpocený?\nNo přece ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smuk, mens man sveder? Det kan\nkun du, og det er uretfærdigt."
+          }
         }
       }
     },
@@ -6647,6 +7061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cestou do práce ty vypadáš\njako hvězda byznysu."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvor ser du professionel ud\npå vej til arbejde!"
           }
         }
       }
@@ -6743,6 +7163,12 @@
             "state" : "translated",
             "value" : "Hned ráno v pohybu? Teď ty\njsi stroj na úspěch."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allerede i gang så tidligt,\nog du gør det med stil!"
+          }
         }
       }
     },
@@ -6837,6 +7263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Do práce jdeš a ty už\nvítězíš. Pozdrav šéfa."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Igen i dag møder du op,\nså du er vinderen allerede."
           }
         }
       }
@@ -6933,6 +7365,12 @@
             "state" : "translated",
             "value" : "Každý krok po chodníku je\nstopa slávy, když jdeš ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvert skridt, du tager, er\nværd at lægge mærke til!"
+          }
         }
       }
     },
@@ -7027,6 +7465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cesta s tebou má jinou atmosféru,\nprotože ty jsi bonus."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pendlerturen bliver speciel,\nnår du er med på ruten."
           }
         }
       }
@@ -7123,6 +7567,12 @@
             "state" : "translated",
             "value" : "Zodpovědně míříš do práce,\nty jsi vzor pro celou ulici."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ansvarsfuld som du er, kan\nman kun tage hatten af."
+          }
         }
       }
     },
@@ -7217,6 +7667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Metro je dneska molo,\nprotože v něm jdeš ty."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siden du steg ind, er\ntoget blevet en catwalk."
           }
         }
       }
@@ -7313,6 +7769,12 @@
             "state" : "translated",
             "value" : "V autobuse svítíš. Natáčí se tu\nněco, nebo jsi to ty?"
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv i bussen skinner du,\nså er der fotoshoot i dag?"
+          }
         }
       }
     },
@@ -7407,6 +7869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Když ty jdeš do práce,\nje to hned veselejší ráno."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du går forbi, bliver\nhele morgenen lidt bedre."
           }
         }
       }
@@ -7503,6 +7971,12 @@
             "state" : "translated",
             "value" : "Chodit tak krásně dokáže\njen ty. Svět tleská."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bare ved at gå gør du\nallerede et stort indtryk."
+          }
         }
       }
     },
@@ -7597,6 +8071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dobrá práce! Cestou domů\nuž jen ty a odpočinek."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Godt gået i dag! Nu kan du\ntage hjem og slappe helt af."
           }
         }
       }
@@ -7693,6 +8173,12 @@
             "state" : "translated",
             "value" : "Po práci vypadáš pořád jako film.\nJak to ty vlastně děláš?"
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bagfra ser du også\nfantastisk ud på vej hjem!"
+          }
         }
       }
     },
@@ -7787,6 +8273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cesta domů je tvoje vítězné kolo,\nty králi i královno."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hjemvejen er din, og det er\ndig, der er bedst. Sikkert."
           }
         }
       }
@@ -7883,6 +8375,12 @@
             "state" : "translated",
             "value" : "Den splněn! Kdo je tu hrdina?\nJasně, že ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endnu en dag overstået,\nog du var fantastisk!"
+          }
         }
       }
     },
@@ -7977,6 +8475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Večer patří jen tobě, a ty\nsi ho zasloužíš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu har du fri, og tiden er din.\nPust ud!"
           }
         }
       }
@@ -8073,6 +8577,12 @@
             "state" : "translated",
             "value" : "Doma čeká pohodlí. Dej si ho,\nty si ho zasloužíš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag lidt tid til dig selv,\nnu hvor du har fri."
+          }
         }
       }
     },
@@ -8167,6 +8677,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Po práci ti patří potlesk ve stoje,\na ty víš proč."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fyraften! Nu har du fortjent\nen rigtig god aften."
           }
         }
       }
@@ -8263,6 +8779,12 @@
             "state" : "translated",
             "value" : "I cesta domů je s tebou přehlídka,\nprotože ty prostě umíš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På vej hjem er du lige så fin\nsom på vej ind. Hvilken dag!"
+          }
         }
       }
     },
@@ -8357,6 +8879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kancelář ti zamává, ty\nzamáváš zpátky jako hvězda."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du går hjem fra arbejde,\nhar dagen givet mening."
           }
         }
       }
@@ -8453,6 +8981,12 @@
             "state" : "translated",
             "value" : "Těžký den to byl, ale ty\njsi stejně číslo jedna."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En hård dag, men du var\nstadig bedst. Som altid."
+          }
         }
       }
     },
@@ -8547,6 +9081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Učení je za tebou, takže ty\njdeš do toho s přehledem."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Efter al den forberedelse\nklarer du det nok flot!"
           }
         }
       }
@@ -8643,6 +9183,12 @@
             "state" : "translated",
             "value" : "Snaha nikdy nezradí a ty\nji máš vždycky nadoraz."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din indsats svigter dig ikke,\ndet ved du godt."
+          }
         }
       }
     },
@@ -8737,6 +9283,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trému můžeš mít, ale ty\nmáš v hlavě víc, než tušíš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er helt okay at være nervøs,\nfor du er klar!"
           }
         }
       }
@@ -8833,6 +9385,12 @@
             "state" : "translated",
             "value" : "Známka nemění, kdo ty jsi.\nA ty jsi hvězda."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En eksamen kan ikke måle,\nhvad du er værd."
+          }
         }
       }
     },
@@ -8927,6 +9485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Víc už dát nešlo, takže ty\njsi vítěz už teď."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Har du gjort dit bedste,\ner du allerede i mål!"
           }
         }
       }
@@ -9023,6 +9587,12 @@
             "state" : "translated",
             "value" : "Test dopadne dobře, protože ty\nna něj máš. Pecka."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis nogen kan klare det,\nså er det dig, du gamle ræv."
+          }
         }
       }
     },
@@ -9117,6 +9687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nadechni se a věř, že ty\nto zvládneš i poslepu."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Træk vejret dybt og\nstol på det, du kan!"
           }
         }
       }
@@ -9213,6 +9789,12 @@
             "state" : "translated",
             "value" : "Hodně štěstí, i když ty\nho vlastně nepotřebuješ."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Held og lykke! Husk, at du\nhar lært mere, end du tror."
+          }
         }
       }
     },
@@ -9307,6 +9889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nebuď nervózní: ty umíš víc,\nnež by tě napadlo."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rolig nu, du lander på 12.\nSkalaen går ikke højere!"
           }
         }
       }
@@ -9403,6 +9991,12 @@
             "state" : "translated",
             "value" : "Třesou se ti ruce? Třeba z toho,\njak ty umíš všechno."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nervøs? Det er du måske, men\njeg ved, du er den bedste."
+          }
         }
       }
     },
@@ -9497,6 +10091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zkušební list se do tebe zamiluje,\njakmile ty napíšeš první řádek."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opgavepapiret falder i svime,\nnår du sætter dig ned."
           }
         }
       }
@@ -9593,6 +10193,12 @@
             "state" : "translated",
             "value" : "Na pohovor? Čas se zastaví,\naž tam ty vejdeš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu er det din tur til at vise,\nhvad du kan. Gå ind og skin!"
+          }
         }
       }
     },
@@ -9687,6 +10293,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ten, kdo vede pohovor,\nmá štěstí, že ty přijdeš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den, der skal ansætte dig,\ner heldig, at du kommer."
           }
         }
       }
@@ -9783,6 +10395,12 @@
             "state" : "translated",
             "value" : "Zkušenosti i nadšení máš,\na ty je dneska ukážeš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din erfaring og dit gåpåmod er\npræcis det, du skal vise nu."
+          }
         }
       }
     },
@@ -9877,6 +10495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tréma je v pořádku, ty\nmáš v rukávu ještě ten úsměv."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lidt nervøs? Det er fint,\nfor du er alligevel helt rigtig."
           }
         }
       }
@@ -9973,6 +10597,12 @@
             "state" : "translated",
             "value" : "Jdi do toho s úsměvem,\nprotože ty už vyhráváš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Med selvtillid ind ad døren,\nfor du er klar!"
+          }
         }
       }
     },
@@ -10067,6 +10697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Svůj příběh vyprávěj hrdě.\nNikdo ho neumí tak jako ty."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortæl din historie stolt, for\ndu har så meget at byde på."
           }
         }
       }
@@ -10163,6 +10799,12 @@
             "state" : "translated",
             "value" : "Pohovor je jen rozhovor.\nKdyž ty mluvíš, svět poslouchá."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En samtale er bare en snak,\nså tag den roligt og vær dig selv."
+          }
         }
       }
     },
@@ -10257,6 +10899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kdo tě nevezme, přijde o hvězdu\na ty to ani nemusíš řešit."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis de ikke ansætter dig,\ner det firmaet, der taber."
           }
         }
       }
@@ -10353,6 +11001,12 @@
             "state" : "translated",
             "value" : "Životopis je hezký, ale ty\njsi lepší než jakékoli CV."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit CV er flot, men du er\nendnu bedre end det."
+          }
         }
       }
     },
@@ -10447,6 +11101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Už u dveří je to jasné:\nty máš práci v kapse."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Så snart du træder ind i lokalet,\ner jobbet så godt som dit."
           }
         }
       }
@@ -10543,6 +11203,12 @@
             "state" : "translated",
             "value" : "První dojem? Ten ty zvládneš\nještě před pozdravem."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Med dit første indtryk har du\nallerede halvdelen af jobbet."
+          }
         }
       }
     },
@@ -10637,6 +11303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zářivé, bez filtrů a bez omluv,\npřesně takové je dnešní ty."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I dag skinner du\nlidt ekstra!"
           }
         }
       }
@@ -10733,6 +11405,12 @@
             "state" : "translated",
             "value" : "Takhle, bez ničeho, ty jsi\nnejpřitažlivější verze sebe."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Præcis som du er,\ner du allermest charmerende!"
+          }
         }
       }
     },
@@ -10827,6 +11505,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kdo je s tebou, má obrovské štěstí\na ty o tom ani nevíš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folk omkring dig er heldige,\nog det ved du godt."
           }
         }
       }
@@ -10923,6 +11607,12 @@
             "state" : "translated",
             "value" : "Sebevědomí ti sluší a ty ho\nnosíš líp než kdokoli."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fuld af selvtillid, som du er,\ntager du bare hele rummet."
+          }
         }
       }
     },
@@ -11017,6 +11707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tvůj úsměv je nejsilnější zbraň\na ty s ním dobýváš svět."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit smil i dag er\ndit bedste våben!"
           }
         }
       }
@@ -11113,6 +11809,12 @@
             "state" : "translated",
             "value" : "Být sám sebou? Dnes ty to umíš\ntak, že se nedá odolat."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Præcis den, du er,\ner der ikke noget at rette på."
+          }
         }
       }
     },
@@ -11207,6 +11909,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kouzlo, co ty máš,\nse nedá schovat."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din charme kan ikke skjules,\nog du prøver heller ikke."
           }
         }
       }
@@ -11303,6 +12011,12 @@
             "state" : "translated",
             "value" : "Dnes rande? Ten druhý se\nzamiluje, jakmile ty zazáříš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date i dag? Din date får svært\nved at holde sig, når du kommer."
+          }
         }
       }
     },
@@ -11397,6 +12111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kdo se s tebou potká, má\nv kalendáři tučně: ty."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvem end du skal møde,\nhar ramt jackpot."
           }
         }
       }
@@ -11493,6 +12213,12 @@
             "state" : "translated",
             "value" : "Outfit na rande sedí tak,\nže ty klidně otevřeš módní týden."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit date-outfit er perfekt, og du\nkunne sagtens komme på forsiden."
+          }
         }
       }
     },
@@ -11587,6 +12313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jen ty a rande, a světla\nse rozsvítí samy."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når jeg ser dig i dag,\nkunne jeg godt falde pladask."
           }
         }
       }
@@ -11683,6 +12415,12 @@
             "state" : "translated",
             "value" : "Rande ještě nezačalo a ty\nuž teď lámeš srdce."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Før I overhovedet er mødt, er du\nallerede for fin. Stakkels hjerte."
+          }
         }
       }
     },
@@ -11777,6 +12515,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zvládneš to, protože ty\nna to prostě máš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det kan du sagtens,\nog jeg hepper altid på dig!"
           }
         }
       }
@@ -11873,6 +12617,12 @@
             "state" : "translated",
             "value" : "I malý krok je start velké dráhy\na ty už jdeš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Små skridt er også\nbegyndelsen på en stor rejse!"
+          }
         }
       }
     },
@@ -11967,6 +12717,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nevzdávej se. Sny se plní\ntěm, co jsou jako ty."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giv ikke op, for dine drømme\nkommer til at gå i opfyldelse, du."
           }
         }
       }
@@ -12063,6 +12819,12 @@
             "state" : "translated",
             "value" : "Dnešní dřina je zítřejší výhra,\na ty ji sbíráš plnými hrstmi."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens indsats er morgendagens\nsucces, og du er i gang!"
+          }
         }
       }
     },
@@ -12157,6 +12919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "S takovou vášní, jakou ty máš,\nse dá změnit svět."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Med dit gåpåmod kan du\nændre hele verden!"
           }
         }
       }
@@ -12253,6 +13021,12 @@
             "state" : "translated",
             "value" : "Neúspěch je jen zkouška a ty\nna ni máš výborný talent."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fejl er en del af vejen,\nså prøv igen, du klarer det."
+          }
         }
       }
     },
@@ -12347,6 +13121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tvoje možnosti nemají strop,\nty ho prostě přerosteš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dine muligheder er\nuendelige!"
           }
         }
       }
@@ -12443,6 +13223,12 @@
             "state" : "translated",
             "value" : "Dnes zkus naplno, vždyť ty umíš\nvíc, než ukazuješ."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gør dit bedste i dag,\ndet plejer du jo."
+          }
         }
       }
     },
@@ -12537,6 +13323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Když ty makáš, někdo\nkolem se inspiruje."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du knokler, bliver andre\nmotiveret af at se på dig."
           }
         }
       }
@@ -12633,6 +13425,12 @@
             "state" : "translated",
             "value" : "Všechno dobře dopadne, protože\nty jsi v tom. Fakt."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det går nok alt sammen,\nnår det er dig, der står for det."
+          }
         }
       }
     },
@@ -12727,6 +13525,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Svět potřebuje víc lidí,\njako jsi ty."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giv ikke op, for du er\net fantastisk menneske, du."
           }
         }
       }
@@ -12823,6 +13627,12 @@
             "state" : "translated",
             "value" : "Dnes ty ukážeš,\nco v tobě je."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hep hep i dag!\nDet her klarer du på et øjeblik."
+          }
         }
       }
     },
@@ -12917,6 +13727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kdo vidí, jak se ty snažíš,\nten ti fandí."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De, der kender din indsats,\nhepper på dig hver dag."
           }
         }
       }
@@ -13013,6 +13829,12 @@
             "state" : "translated",
             "value" : "Jsi víc než dost a ty to\ndobře víš, nebo ne?"
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Husk, at du er værd\nat elske, præcis som du er!"
+          }
         }
       }
     },
@@ -13107,6 +13929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Přesně tak, jak ty to děláš,\nje to dokonalé."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Præcis som du er,\ner du fuldendt!"
           }
         }
       }
@@ -13203,6 +14031,12 @@
             "state" : "translated",
             "value" : "Už to, že ty existuješ,\nje událost roku."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bare det, at du findes,\ngør dagen speciel!"
+          }
         }
       }
     },
@@ -13297,6 +14131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hlavu nahoru, protože ty\njsi zkrátka fenomén."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold hovedet højt, for\ndu er et fantastisk menneske!"
           }
         }
       }
@@ -13393,6 +14233,12 @@
             "state" : "translated",
             "value" : "Silnější, než si myslíš, a ty\nto dnes ukážeš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stærkere end du tror,\ner du, og det ved jeg!"
+          }
         }
       }
     },
@@ -13487,6 +14333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tvoje osobnost je superschopnost\na ty ji nosíš naplno."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din egenart er det, der\nfår dig til at stråle."
           }
         }
       }
@@ -13583,6 +14435,12 @@
             "state" : "translated",
             "value" : "Věř si, ty nejsi náhoda,\nty jsi mistrovské dílo."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tro på dig selv,\ndu kan nemlig alt!"
+          }
         }
       }
     },
@@ -13677,6 +14535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bez úprav a bez filtrů ty\njsi prostě originál."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fuldkommen, det er hvad du er,\nog slet ikke andet."
           }
         }
       }
@@ -13773,6 +14637,12 @@
             "state" : "translated",
             "value" : "Sebejistota ti sluší, ty\nmě učíš, jak se září."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Så selvsikker, som du er,\ner du verdens bedste."
+          }
         }
       }
     },
@@ -13867,6 +14737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Obyčejnost a ty? To nejde\ndohromady ani s lepidlem."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mere imponerende end du tænker\ner du faktisk, og det er sandt."
           }
         }
       }
@@ -13963,6 +14839,12 @@
             "state" : "translated",
             "value" : "Tolik už zvládáš, že ty\nmůžeš otevřít kurz."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis du bare vidste, hvor godt\ndu allerede klarer dig!"
+          }
         }
       }
     },
@@ -14057,6 +14939,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kdo nevidí, jak ty kouzlíš,\nasi nosí zamlžené brýle."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folk, der ikke ser din charme,\nmå have glemt deres briller."
           }
         }
       }
@@ -14153,6 +15041,12 @@
             "state" : "translated",
             "value" : "Dnes jen odpočívej, ty\nsi to zasloužíš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I dag er det helt fint\nbare at slappe af."
+          }
         }
       }
     },
@@ -14247,6 +15141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Taky ty potřebuješ\ndobít baterky."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv du har brug for\nhvile i ny og næ."
           }
         }
       }
@@ -14343,6 +15243,12 @@
             "state" : "translated",
             "value" : "Klidně nedělat nic. Ani to\nty neděláš špatně."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gør ingenting i dag,\ndet er også en god dag."
+          }
         }
       }
     },
@@ -14437,6 +15343,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Duše je tvoje priorita, a ty\njí dnes dáš pozornost."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit hjerte er det\nvigtigste, du har."
           }
         }
       }
@@ -14533,6 +15445,12 @@
             "state" : "translated",
             "value" : "Pomalu, svým tempem, ty\njsi ten, kdo určuje rytmus."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag det stille og roligt,\ni dit eget tempo."
+          }
         }
       }
     },
@@ -14627,6 +15545,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dnes máš čas jen pro sebe a ty\nsi ho pořádně vychutnáš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I dag bruger vi tid på dig,\nog du må gerne nyde det."
           }
         }
       }
@@ -14723,6 +15647,12 @@
             "state" : "translated",
             "value" : "Odpočinek je taky výkon, a ty v něm\nmáš zlatou medaili."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvile er også nyttigt,\nog du er jo mester i det."
+          }
         }
       }
     },
@@ -14817,6 +15747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Máš právo si oddechnout,\nty pohodový šampione."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At holde fri er din ret.\nI dag må du godt slappe af."
           }
         }
       }
@@ -14913,6 +15849,12 @@
             "state" : "translated",
             "value" : "Takhle krásně odpočívat umíš\njen ty. Respekt."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hyg dig, for du er smuk,\nselv når du hygger!"
+          }
         }
       }
     },
@@ -15007,6 +15949,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Čas pro sebe? Klidně, ty\nsi ho můžeš dát hned."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er helt okay, at du\nbruger tid på dig selv i dag."
           }
         }
       }
@@ -15103,6 +16051,12 @@
             "state" : "translated",
             "value" : "I na gauči ty záříš jako\nhotel s pěti hvězdičkami."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mens du slapper af,\nskinner du stadig."
+          }
         }
       }
     },
@@ -15197,6 +16151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dokonce i při pohodě ty\nvypadáš jako výhra."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv i hvilemode er du\nden smukkeste i verden."
           }
         }
       }
@@ -15293,6 +16253,12 @@
             "state" : "translated",
             "value" : "Dokonalost s jedním háčkem.\nTen háček? Že ty o tom nevíš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfekt som du er, mangler der\nkun én ting: mig ved siden af."
+          }
         }
       }
     },
@@ -15387,6 +16353,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Test osobnosti dopadl jasně:\nty jsi na 100 % roztomilost."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personlighedstesten siger, du er\nhelt sød. Den har aldrig taget fejl."
           }
         }
       }
@@ -15483,6 +16455,12 @@
             "state" : "translated",
             "value" : "Kdo si myslí, že ty jsi\nk sežrání, ať zvedne ruku."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle, der synes, du er sød,\nbedes række hånden op. Det er en skov."
+          }
         }
       }
     },
@@ -15577,6 +16555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Policie hlásí: tvoje krása\npřekročila povolenou rychlost."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis du var en tone, var du den\nhøje, som alle gerne vil ramme."
           }
         }
       }
@@ -15673,6 +16657,12 @@
             "state" : "translated",
             "value" : "Ze všeho v cukrárně\nty jsi ten nejsladší zákusek."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv modvinden bliver til medvind,\nnår du cykler forbi."
+          }
         }
       }
     },
@@ -15767,6 +16757,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mám slabý zrak? Ne,\njen ty zářiš na 100 wattů."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du går forbi, vender jeg mig,\nog nu har min nakke aldrig været bedre."
           }
         }
       }
@@ -15863,6 +16859,12 @@
             "state" : "translated",
             "value" : "Pošli mi číslo. Ne to telefonní,\nto ty jsi moje jednička."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der er én ting, jeg aldrig bliver træt af,\nog det er dig. Fuld tank."
+          }
         }
       }
     },
@@ -15957,6 +16959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Určitě nejsi z nebe? Když ty\nvypadáš jak anděl bez práce."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er det tordenvejr? Nej, det er\nbare mit hjerte, der brager for dig."
           }
         }
       }
@@ -16053,6 +17061,12 @@
             "state" : "translated",
             "value" : "Svátek máš dneska ty,\na zítra taky."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvad er din hemmelighed? Hvad tror du på,\nsiden du ser så godt ud?"
+          }
         }
       }
     },
@@ -16147,6 +17161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wi-Fi ukazuje plný signál,\nale ty jsi lepší připojení."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er der noget, der mangler? Nej, du\nlever op til alle forventninger."
           }
         }
       }
@@ -16243,6 +17263,12 @@
             "state" : "translated",
             "value" : "Cena za roli sebe sama jde\njasně k tobě, ty talente."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Som rugbrød er du sund og solid,\nog alle danskere elsker dig."
+          }
         }
       }
     },
@@ -16337,6 +17363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Čas se zastavil, protože ty\njsi nejhezčí pohled dne."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg leder efter en fejl ved dig,\nmen du er bygget uden revner."
           }
         }
       }
@@ -16433,6 +17465,12 @@
             "state" : "translated",
             "value" : "Došla mi slova, protože ty\nbereš dech i slovník."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er det photoshop? Nej, det er bare\ndig, og du er næsten for god til at være sand."
+          }
         }
       }
     },
@@ -16527,6 +17565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jako mapa: ty ukazuješ směr,\nkterým se chci dívat."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skalaen går kun til 12, så når du\nfår 13, ødelægger du hele systemet."
           }
         }
       }
@@ -16623,6 +17667,12 @@
             "state" : "translated",
             "value" : "Cukr ti uhne z dráhy,\nprotože ty jsi sladší."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er du halvt dansk, halvt engel?\nFor du er altså himmelsk."
+          }
         }
       }
     },
@@ -16717,6 +17767,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Krása by měla mít cenu,\nale ty jsi k nezaplacení."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gør du bare grin? Dine kindben er\nskarpere end min fremtidsplan."
           }
         }
       }
@@ -16813,6 +17869,12 @@
             "state" : "translated",
             "value" : "Praha je hezká, ale ty\nji přezáříš i v dešti."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle veje fører til dig, så du\nmå være Rom, altså!"
+          }
         }
       }
     },
@@ -16907,6 +17969,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hodnotím tě na 10 z 10.\nVlastně ty jsi mimo stupnici."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der skal fredningsskilt op, for du\ner et levende kulturminde."
           }
         }
       }
@@ -17003,6 +18071,12 @@
             "state" : "translated",
             "value" : "Tvoje kouzlo je tak silné,\nže ty ho nemusíš ani zapínat."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er du en pantflaske? For jeg vil\ngerne have dig tilbage hver gang."
+          }
         }
       }
     },
@@ -17097,6 +18171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Proč ty pracuješ? Tvoje\nkrása dělá přesčasy za tebe."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvorfor arbejder du?\nDit udseende har travlt nok."
           }
         }
       }
@@ -17193,6 +18273,12 @@
             "state" : "translated",
             "value" : "Přestaň mi dělat radost!\nNejde to? Tak ty už zůstaň."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold op med at kunne lide mig, sagde jeg.\n\"Hvordan gør man det?\" sagde du."
+          }
         }
       }
     },
@@ -17287,6 +18373,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Do muzea s tím, protože ty\njsi nejkrásnější exponát."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit ansigt er så sjældent, at du\nsnart udstilles på Nationalmuseet."
           }
         }
       }
@@ -17383,6 +18475,12 @@
             "state" : "translated",
             "value" : "Ceny za krásu rozdají v neděli,\nale ty ji už máš doma."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bliv hjemme fra prisuddelingen,\nfor du tager alle priserne."
+          }
         }
       }
     },
@@ -17477,6 +18575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Focení? Pro tebe nic nového,\nty pózuješ i při chůzi."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er du til fotoshoot, eller går du\nbare rundt som en forside?"
           }
         }
       }
@@ -17573,6 +18677,12 @@
             "state" : "translated",
             "value" : "Idol? Dnes to ty jsi,\nv mém srdci číslo jedna."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis du er en popstjerne, så er du\nnummer ét på min hitliste."
+          }
         }
       }
     },
@@ -17667,6 +18777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Autogramiáda by měla být,\nty rozdáváš úsměvy zadarmo."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Må jeg få en autograf, du?\nJeg tager gerne én hver dag."
           }
         }
       }
@@ -17763,6 +18879,12 @@
             "state" : "translated",
             "value" : "Debutovat už nemusíš, ty\njsi ve středu mého světa."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slå dig løs på scenen, for du er\nallerede i centrum af mit liv."
+          }
         }
       }
     },
@@ -17857,6 +18979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hitparáda? Tam, kde ty jsi,\nje každý týden první místo."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hitlisten er klar: du ligger nummer\nét, som du gør hver eneste dag."
           }
         }
       }
@@ -17953,6 +19081,12 @@
             "state" : "translated",
             "value" : "Chci foto s tebou, ty\njsi galerie sama o sobě."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Står du stille et øjeblik? Jeg vil\ngerne tage et billede hver dag."
+          }
         }
       }
     },
@@ -18047,6 +19181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Comeback roku? To ty se\nvracíš do mého srdce."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er du tilbage? Så fik du mit\nhjerte til at genopstå."
           }
         }
       }
@@ -18143,6 +19283,12 @@
             "state" : "translated",
             "value" : "Natočit tě? Každý záběr je\nvýběr roku, když v něm jsi ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Må jeg filme dig, mens du går?\nHvert sekund er en scene fra en film."
+          }
         }
       }
     },
@@ -18237,6 +19383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Videoklip nepotřebuješ,\nty jsi hlavní postava mého dne."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skal du være med i en musikvideo? Det er\njo dig, der har hovedrollen i mit liv."
           }
         }
       }
@@ -18333,6 +19485,12 @@
             "state" : "translated",
             "value" : "Televizní show? Scénář nepotřebuješ,\nty jsi příběh sám o sobě."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skal du i realityshow? Virkeligheden\ner jo bedst, når det er dig."
+          }
         }
       }
     },
@@ -18427,6 +19585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Střed pozornosti sedí\nv každé místnosti: ty."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er du gruppens ansigt udadtil? Man ser\ndig først, uanset hvor du står."
           }
         }
       }
@@ -18523,6 +19687,12 @@
             "state" : "translated",
             "value" : "Cena za nejlepší obličej roku?\nJistě ty. Porota už nehlasuje."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prisen som årets ansigt skal gå til dig,\nfor du er helt historisk."
+          }
         }
       }
     },
@@ -18617,6 +19787,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se tvou tváří by se vyprodalo\nvšechno, ty jsi nejlepší značka."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er du reklamemodel? Jeg får lyst\ntil at købe alt, når du er med."
           }
         }
       }
@@ -18713,6 +19889,12 @@
             "state" : "translated",
             "value" : "Titulka časopisu? Na tu ty\nmáš nárok každý měsíc."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er du forsidemodel? Dit ansigt burde\npryde alle blade hver måned, du."
+          }
         }
       }
     },
@@ -18807,6 +19989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Na pódiu zazáříš, ale ty\nsvítíš i v obýváku."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er scenekarismaen ægte? Selv i hverdagen\nlyser du som på en scene."
           }
         }
       }
@@ -18903,6 +20091,12 @@
             "state" : "translated",
             "value" : "Kartičky s tvou tváří by byly hit,\na ty jsi na nich hlavní hvězda."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vil du bytte samlekort? Jeg vil kun\nhave dem med dit ansigt."
+          }
         }
       }
     },
@@ -18997,6 +20191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Setkání s fanoušky? Stačí\njedno: pozvi mě, ty hvězdo."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvornår holder du fanmøde?\nJeg vil gerne se dig hver dag."
           }
         }
       }
@@ -19093,6 +20293,12 @@
             "state" : "translated",
             "value" : "Choreografii nepotřebuješ,\nty tančíš i na chodníku."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Læg en dansevideo op, for hver\nbevægelse du laver er kunst."
+          }
         }
       }
     },
@@ -19187,6 +20393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "To není trailer, to jsi ty:\nfilm, který chci vidět pořád."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At se dig er som en teaser:\njeg glæder mig til resten, hver gang."
           }
         }
       }
@@ -19283,6 +20495,12 @@
             "state" : "translated",
             "value" : "Turné po světě? Mně stačí,\nkdyž ty mávneš z okna."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skal du på verdensturné? Det er du jo\nallerede i mit hjerte."
+          }
         }
       }
     },
@@ -19377,6 +20595,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Limitovaná edice jsi ty,\njediný kus na světě."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skriv i min bog, for du er\nen limited edition."
           }
         }
       }
@@ -19473,6 +20697,12 @@
             "state" : "translated",
             "value" : "Světýlka nahoru! Všechna svítí\njen proto, že ty jsi na pódiu."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg tænder lysstaven og hepper på dig\nhele livet, så længe du skinner."
+          }
         }
       }
     },
@@ -19567,6 +20797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Víc fanoušků, než ty tušíš,\nti dnes tleská."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gik du viralt? Legende var du fra\nførste dag, så jeg undrer mig ikke."
           }
         }
       }
@@ -19663,6 +20899,12 @@
             "state" : "translated",
             "value" : "Lístek na koncert? Mám\nvstupenku zadarmo: ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg skal have koncertbilletter, for hver\ndag, jeg ser dig, er det en koncert."
+          }
         }
       }
     },
@@ -19757,6 +20999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hit sezóny? No přece ty,\nv tom není diskuse."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gik du til tops på hitlisten? For mig er du\ni hvert fald yndlingssangen."
           }
         }
       }
@@ -19853,6 +21101,12 @@
             "state" : "translated",
             "value" : "Bis! Bis! Ať ty se objevíš\nna jevišti ještě jednou."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Et ekstranummer, tak! Man bliver\naldrig træt af at se dig."
+          }
         }
       }
     },
@@ -19947,6 +21201,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I mimo záběr ty vypadáš\njako vrchol celého dne."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv bag kulisserne er du perfekt,\nhvert eneste øjeblik."
           }
         }
       }
@@ -20043,6 +21303,12 @@
             "state" : "translated",
             "value" : "Oblíbence měním, protože\nty jsi ta nová jednička."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg bytter favorit, for jeg kan ikke\nse andre end dig."
+          }
         }
       }
     },
@@ -20137,6 +21403,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jsem tvůj fanoušek, protože\nty jsi hlavní hvězda."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu er jeg fan, og det bliver jeg,\nså længe du er til."
           }
         }
       }
@@ -20233,6 +21505,12 @@
             "state" : "translated",
             "value" : "Můj favorit číslo jedna?\nBez diskuse ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit livs favorit, vil du vide hvem?\nDet er dig, selvfølgelig."
+          }
         }
       }
     },
@@ -20327,6 +21605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Merch nepotřebuju, ty\njsi sběratelský kousek."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg har købt alt merch, men du\ner den eneste ægte vare."
           }
         }
       }
@@ -20423,6 +21707,12 @@
             "state" : "translated",
             "value" : "Fandím ti navždy, protože ty\njsi můj nejlepší důvod."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg bliver fan resten af livet,\nfor du er min evige stjerne."
+          }
         }
       }
     },
@@ -20517,6 +21807,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Základna fanklubu je tam,\nkde jsi ty."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg har slået lejr ved siden af dig,\nfor du er min faste base."
           }
         }
       }
@@ -20613,6 +21909,12 @@
             "state" : "translated",
             "value" : "Fanouškovská mise začíná.\nCíl: ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu går jeg all in som fan, og\ndu får hele min opmærksomhed."
+          }
         }
       }
     },
@@ -20707,6 +22009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dokumentuju každý tvůj krok,\nprotože ty jsi vzácný úkaz."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg bliver din fotograf, for jeg vil\nhave hvert eneste øjeblik med dig."
           }
         }
       }
@@ -20803,6 +22111,12 @@
             "state" : "translated",
             "value" : "Čas fanynek: s tebou\nje každá chvíle zlatá, ty zlato."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle timer er guldtimer,\nnår du er med."
+          }
         }
       }
     },
@@ -20897,6 +22211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oslava narozenin? Klidně každý den,\nty si ji zasloužíš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gid hver dag var din fødselsdag,\nså kunne jeg synge for dig hver gang."
           }
         }
       }
@@ -20993,6 +22313,12 @@
             "state" : "translated",
             "value" : "Fandím ti celý život,\nty jsi totiž náš společný hit."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg hepper på dig for evigt,\nog det er jeg stolt af at være."
+          }
         }
       }
     },
@@ -21087,6 +22413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Srdce mi buší jako buben,\nkdyž ty vejdeš do dveří."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit hjerte hamrer løs,\nbare fordi du går forbi."
           }
         }
       }
@@ -21183,6 +22515,12 @@
             "state" : "translated",
             "value" : "Svět je hezčí místo,\njakmile ty jsi poblíž."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Så snart jeg ser dig, bliver\nverden bare smukkere."
+          }
         }
       }
     },
@@ -21277,6 +22615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro mě ty jsi\nvitamín štěstí."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For mig er du dagens vitaminpille,\nog den er sund og sød."
           }
         }
       }
@@ -21373,6 +22717,12 @@
             "state" : "translated",
             "value" : "Když se ty směješ,\nsměje se celý svět."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du smiler, gør jeg også,\nhelt automatisk og uden grund."
+          }
         }
       }
     },
@@ -21467,6 +22817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ze všech hvězd ty jsi\nta nejjasnější."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den smukkeste stjerne, jeg kender,\ner dig, og den er lige her."
           }
         }
       }
@@ -21563,6 +22919,12 @@
             "state" : "translated",
             "value" : "S tebou je každý den\nfestival, protože ty ho děláš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hver dag med dig er\nen fest i mit hjerte."
+          }
         }
       }
     },
@@ -21657,6 +23019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stačí slyšet, jak ty mluvíš,\na mám hned dobrou náladu."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hører jeg din stemme, bliver jeg\nglad, uanset hvad du siger."
           }
         }
       }
@@ -21753,6 +23121,12 @@
             "state" : "translated",
             "value" : "Největší štěstí v mém životě?\nJasně že ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min største lykke er,\nat jeg har lært dig at kende."
+          }
         }
       }
     },
@@ -21847,6 +23221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Díky tobě se směju,\nprotože ty jsi ten důvod."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Takket være dig kan jeg\nsmile hver eneste dag."
           }
         }
       }
@@ -21943,6 +23323,12 @@
             "state" : "translated",
             "value" : "Ze všech lidí na světě\nje pro mě nejdůležitější ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På hele jorden er der ingen,\nder er så dyrebar som du."
+          }
         }
       }
     },
@@ -22037,6 +23423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Při pomyšlení na tebe se\nusmívám a ty o tom nevíš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tænker jeg på dig, kommer\nsmilet helt af sig selv."
           }
         }
       }
@@ -22133,6 +23525,12 @@
             "state" : "translated",
             "value" : "Kolem tebe je klid,\nty jsi můj mír."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hos dig finder jeg ro,\nog det er du helt alene om."
+          }
         }
       }
     },
@@ -22227,6 +23625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Čas s tebou je vždycky\nzvláštní, protože ty jsi ty."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle stunder med dig\nbliver til noget særligt."
           }
         }
       }
@@ -22323,6 +23727,12 @@
             "state" : "translated",
             "value" : "Z lidí, které znám, je tou\nnejlepší právě ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Af alle, jeg kender, er du\nden allerfedeste. Ingen tvivl."
+          }
         }
       }
     },
@@ -22417,6 +23827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jen to, že ty existuješ,\nmi dělá radost."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bare fordi du findes,\ner jeg taknemmelig hver dag."
           }
         }
       }
@@ -22513,6 +23929,12 @@
             "state" : "translated",
             "value" : "Highlight mého dne?\nTo jsi prostě ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens højdepunkt er, når du\nkommer forbi, og det er hver dag."
+          }
         }
       }
     },
@@ -22607,6 +24029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Každý den je jiný, protože\nty ho děláš výjimečným."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hver dag bliver bedre, når du\ner i nærheden."
           }
         }
       }
@@ -22703,6 +24131,12 @@
             "state" : "translated",
             "value" : "Když ty vejdeš do místnosti,\nsvítí i vypnuté lampy."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når jeg ser dig, bliver\nverden lysere, helt ærligt."
+          }
         }
       }
     },
@@ -22797,6 +24231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nejhezčí dárek od života?\nŽe ty vůbec existuješ."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Livets bedste gave er, at du\nfindes, og at jeg kender dig."
           }
         }
       }
@@ -22893,6 +24333,12 @@
             "state" : "translated",
             "value" : "Díky tobě je svět barevnější\na ty to víš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verden er smukkere, fordi du\ner en del af den."
+          }
         }
       }
     },
@@ -22987,6 +24433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Den bez tebe nedává smysl,\nty jsi přece jeho střed."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En dag uden dig? Det kan\njeg slet ikke forestille mig."
           }
         }
       }
@@ -23083,6 +24535,12 @@
             "state" : "translated",
             "value" : "V žebříčku srdce ty vedeš\na nikdo tě nepředběhne."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I mit hjerte står du\npå førstepladsen for evigt."
+          }
         }
       }
     },
@@ -23177,6 +24635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "S tebou zvládnu cokoli,\nty jsi můj tým."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Med dig ved min side tror jeg,\nat jeg kan alt."
           }
         }
       }
@@ -23273,6 +24737,12 @@
             "state" : "translated",
             "value" : "Každý den děkuju, že ty\njsi na světě."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hver dag er jeg taknemmelig,\nfordi du er i mit liv."
+          }
         }
       }
     },
@@ -23367,6 +24837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Úsměv, který ty máš, je krásnější\nnež cokoli, co znám."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit smil slår enhver solnedgang,\nog det ved du godt."
           }
         }
       }
@@ -23463,6 +24939,12 @@
             "state" : "translated",
             "value" : "Největší požehnání? Že ty\njsi v mém životě."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min største velsignelse er,\nat du er med på rejsen."
+          }
         }
       }
     },
@@ -23557,6 +25039,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stačí na tebe pomyslet a ty\nmi zlepšíš celý den."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tænker jeg på dig,\nbliver hele dagen god."
           }
         }
       }
@@ -23653,6 +25141,12 @@
             "state" : "translated",
             "value" : "Domov není tam, kde bydlím,\nale tam, kde jsi ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hos dig føler jeg mig hjemme,\nog det er du alene om."
+          }
         }
       }
     },
@@ -23747,6 +25241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "S tebou je vše dokonalé, ty\nse ani nemusíš snažit."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du er der, er alt\nperfekt. Punktum."
           }
         }
       }
@@ -23843,6 +25343,12 @@
             "state" : "translated",
             "value" : "Ideál, o kterém se mi zdálo,\njsi ty, bez diskuse."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min drømmepartner, det er dig,\nog nu står du her. Jackpot!"
+          }
         }
       }
     },
@@ -23937,6 +25443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Srdce přeskočí rytmus, jakmile\nty mrkneš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hver gang du går forbi, gør\nmit hjerte noget underligt."
           }
         }
       }
@@ -24033,6 +25545,12 @@
             "state" : "translated",
             "value" : "Chodící učebnice krásy,\na ty jsi její hlavní kapitola."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En gående biografi, det er hvad\ndu er. Dit navn bliver husket."
+          }
         }
       }
     },
@@ -24127,6 +25645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tvůj šarm je nebezpečný,\nale ty ho nosíš s úsměvem."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vil du have, at jeg falder for dig?\nJeg er allerede på vej ned."
           }
         }
       }
@@ -24223,6 +25747,12 @@
             "state" : "translated",
             "value" : "Z koukání na tebe mě bolí\nkrk, a ty za to můžeš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg stirrer så meget på dig,\nat jeg får nakkesmerter."
+          }
         }
       }
     },
@@ -24317,6 +25847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Můj tep ví, kdy ty jdeš:\nhned vyskočí nahoru."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hver gang du kommer forbi,\nstiger min puls med ti."
           }
         }
       }
@@ -24413,6 +25949,12 @@
             "state" : "translated",
             "value" : "Pro moje oči jsi\nty hlavní událost."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For mine øjne er du\net gammelt mesterværk, aldrig forgået."
+          }
         }
       }
     },
@@ -24507,6 +26049,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Každý den je svátek,\nprotože ty jsi tu."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På grund af dig er hver dag\nmin yndlingsdag."
           }
         }
       }
@@ -24603,6 +26151,12 @@
             "state" : "translated",
             "value" : "Zázraky existují, ty jsi\nten nejlepší z nich."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Et levende mirakel, det er\nhvad du er. Ikke mindre."
+          }
         }
       }
     },
@@ -24697,6 +26251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jakmile ty přijdeš, svět\njede ve zpomaleném záběru."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du kommer ind,\ngår verden i slowmotion."
           }
         }
       }
@@ -24793,6 +26353,12 @@
             "state" : "translated",
             "value" : "Můj život je VIP zóna,\nvstup má jen ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I mit liv får du altid\nVIP-adgang, uden kø."
+          }
         }
       }
     },
@@ -24887,6 +26453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvězdná chvíle dne?\nKdyž se ty usmíváš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At se dig er mit dagligdags\nhøjdepunkt, uden at du ved det."
           }
         }
       }
@@ -24983,6 +26555,12 @@
             "state" : "translated",
             "value" : "Premium obsah? To jsi přece ty,\nnejlepší seriál mého dne."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dig kigger jeg på som på\npremium-indhold, uden at slukke."
+          }
         }
       }
     },
@@ -25077,6 +26655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Svět vidím ostřeji od chvíle,\nkdy ty jsi v něm."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Takket være dig ser verden\nud i HD i dag."
           }
         }
       }
@@ -25173,6 +26757,12 @@
             "state" : "translated",
             "value" : "Zlatá hodinka? Tu mi nadělíš\nprávě ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min guldtime er altid, når\ndu er i nærheden."
+          }
         }
       }
     },
@@ -25267,6 +26857,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stačí na tebe myslet a ty\nmě už rozesmíváš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bare tanken om dig sætter gang i\nsmilet, og du ved det ikke engang."
           }
         }
       }
@@ -25363,6 +26959,12 @@
             "state" : "translated",
             "value" : "Hotel s pěti hvězdami je proti tobě\nrohožka, ty jsi ráj."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit hjerte er et luksushotel,\nog du har altid værelse der."
+          }
         }
       }
     },
@@ -25457,6 +27059,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Díky tobě je každý den prémie,\nty jsi nejlepší bonus."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hver dag med dig er en fest,\nog du er æresgæst."
           }
         }
       }
@@ -25553,6 +27161,12 @@
             "state" : "translated",
             "value" : "Hlavní událost roku se koná\ntam, kde se objeví ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit livs hovedbegivenhed? Det er dig,\nog du leverer hver gang."
+          }
         }
       }
     },
@@ -25647,6 +27261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Moje srdce tančí, kdykoli\nty se na mě podíváš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du går forbi, danser\nmit hjerte med sig selv."
           }
         }
       }
@@ -25743,6 +27363,12 @@
             "state" : "translated",
             "value" : "Rozlišení 4K je málo,\naby uneslo, jak ty vypadáš."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I mine øjne er du ikke HD,\nmen 4K. Ingen pixel er forkert."
+          }
         }
       }
     },
@@ -25837,6 +27463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Barvy jsou syté jen proto,\nže ty jsi ve scéně."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Går jeg rundt med dig i tankerne,\nser verden altid lysere ud."
           }
         }
       }
@@ -25933,6 +27565,12 @@
             "state" : "translated",
             "value" : "Pro mě ty jsi VIP,\na to bez pozvánky."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hjertets VVIP-lounge er reserveret\ntil dig og kun dig."
+          }
         }
       }
     },
@@ -26027,6 +27665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Díky tobě je den speciální,\nty se ani nesnažíš."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du er med, bliver\ndagen lidt mere speciel."
           }
         }
       }
@@ -26123,6 +27767,12 @@
             "state" : "translated",
             "value" : "Eso v rukávu? To ty\njsi moje tajná zbraň."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit hemmelige trumfkort er dig,\nog du vinder hver gang."
+          }
         }
       }
     },
@@ -26217,6 +27867,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Když na tebe myslím, ty\nmi pošleš upgrade nálady."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tænker jeg på dig, opgraderes\nmit humør automatisk."
           }
         }
       }
@@ -26313,6 +27969,12 @@
             "state" : "translated",
             "value" : "Síň slávy v mém srdci má\njediného člena: ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hos mig sidder du på æresplads\ni hjertets hall of fame."
+          }
         }
       }
     },
@@ -26407,6 +28069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Život je v barvě díky tomu,\nže ty jsi jeho režisér."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Med dig i livet er alt\ni fuld farve."
           }
         }
       }
@@ -26503,6 +28171,12 @@
             "state" : "translated",
             "value" : "Ze všech legend na světě je\nnejvíc legendární ty."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I mine øjne er du alle tiders\nlegende, og det bliver du ved med."
+          }
         }
       }
     },
@@ -26598,6 +28272,12 @@
             "state" : "translated",
             "value" : "Když ty se podíváš,\nčas jede ve slow motion."
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit livs filmklip har dig i hovedrollen,\nog du vandt alle priserne."
+          }
         }
       }
     },
@@ -26692,6 +28372,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Permanentka do mého srdce\nje tvoje, ty zlatíčko."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit gratis adgangskort til lykken,\ndet er dig, og du er guld værd."
           }
         }
       }

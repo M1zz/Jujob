@@ -677,3 +677,48 @@ Co v aplikaci najdeš
 
 Osobní údaje nesbíráme. Jméno, oblíbené a další data zůstávají jen v tvém zařízení.
 Chyby a nápady na vylepšení nám pošli e-mailem nebo přes Instagram přímo z nastavení.
+
+## da
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/da/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/da/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/da/index.html
+
+### 이름
+
+Dagens Ros
+
+### 부제
+
+Fuld skrue på komplimenterne
+
+### 키워드
+
+citater,opmuntring,motivation,selvtillid,widget,humør,hygge,positiv,morgen,eksamen,jobsamtale,trøst
+
+### 프로모션 텍스트
+
+Få en overdreven opmuntring med ét blik på hjemmeskærmen. Dagens Ros hepper på dig fra morgen til aften og kalder dig endda ved dit eget navn.
+
+### 설명
+
+Dagens Ros er widget-appen, der overdriver komplimenterne helt vildt. Flere gange om dagen hilser en ekstra stor ros på dig fra hjemmeskærmen.
+Få opmuntring, der løfter selvtilliden, når den er i bund. 281 roser venter på dig, fra morgenstunden og pendlerturen til jobsamtalen og de svære dage, alt efter humør og situation.
+
+Det kan appen
+- Widget til hjemmeskærmen: Vælg skrifttype, tekstfarve, baggrundsbillede, justering, linjeafstand og hvor ofte den skal opdatere.
+- Vælg humør: Morgen, på vej til arbejde, før jobsamtale, før eksamen, før træning, før date, på vej hjem, aften, når det er hårdt, hygge, selvtillid og motivation.
+- Brug dit navn: Står der "du" i en ros, kan appen skrive dit eget navn i stedet, så det bliver din personlige fanklub.
+- Favoritter og historik: Tryk på stjernen for at gemme de roser, du holder af, og se tilbage på dem, du allerede har læst.
+- Stribe og præstationer: Kig forbi 7, 30 og 100 dage i træk og lås op for særlige belønninger.
+
+Dit privatliv er helt i fred. Appen indsamler ingen personlige oplysninger, og dit navn og dine favoritter bliver kun på din egen enhed.
+Har du en fejl at melde eller et forslag? Skriv en e-mail eller en besked på Instagram fra indstillinger.

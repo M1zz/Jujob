@@ -91,3 +91,9 @@ Báo lỗi, góp ý qua email hay Instagram
 Hlášky teď přicházejí ve více jazycích
 Z nastavení můžeš rovnou napsat vývojáři
 Chyby i nápady pošli e-mailem či DM
+
+### 앱스토어 (덴마크어)
+
+Nu kan du få roser på flere sprog
+Skriv til udvikleren fra indstillinger
+Fejl og forslag: mail eller Instagram

@@ -94,6 +94,12 @@
             "state" : "translated",
             "value" : "Pochvala dne"
           }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens Ros"
+          }
         }
       }
     },
@@ -189,6 +195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pochvala dne"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens Ros"
           }
         }
       }
