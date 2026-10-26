@@ -39,6 +39,12 @@
             "state" : "translated",
             "value" : "新しい一日のはじまり。\nあなたはもう十分すてきですよ。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "С добрым утром! Сегодня\nты — сплошной блеск."
+          }
         }
       }
     },
@@ -79,6 +85,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "朝日みたいにまぶしいあなたが\n今日も最高の一日を連れてきます!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Солнце встаёт, потому что ты\nуже в деле. Вот это да!"
           }
         }
       }
@@ -121,6 +133,12 @@
             "state" : "translated",
             "value" : "起きた時点で、あなたはもう優勝。\n拍手が鳴りやみません!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Глаза проснулись — уже подвиг.\nА ты — герой этого утра!"
+          }
         }
       }
     },
@@ -161,6 +179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "世界でいちばん美しい朝は\nあなたが目覚めた朝です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кофе бодрит, но ты бодришь\nлучше любого эспрессо."
           }
         }
       }
@@ -203,6 +227,12 @@
             "state" : "translated",
             "value" : "おはようの一言で\nあなたが主役の一日が始まります。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сегодня главный герой — ты.\nОстальные просто массовка."
+          }
         }
       }
     },
@@ -243,6 +273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "目を開けた瞬間から\nあなたは勝者の顔をしています。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Красиво просыпаться умеешь\nтолько ты. Остальные — нет."
           }
         }
       }
@@ -285,6 +321,12 @@
             "state" : "translated",
             "value" : "コーヒーより目が覚めるのは\nあなたの寝ぐせ付きスマイル!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Будильник звонил зря: ты и так\nсияешь без всякого звонка."
+          }
         }
       }
     },
@@ -325,6 +367,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ありのままのあなたでいこう。\nそれが毎日いちばん強い!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Утро доброе, потому что в нём\nесть ты. Всё логично!"
           }
         }
       }
@@ -367,6 +415,12 @@
             "state" : "translated",
             "value" : "朝からそんなにかわいくていいの?\nこれはもう顔面の条件違反。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Красота с утра пораньше —\nэто законно? Всё, ты в розыске!"
+          }
         }
       }
     },
@@ -407,6 +461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "グッドモーニングじゃ足りない。\nあなたがいるからベストモーニング!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не «доброе утро», а «лучшее»,\nраз уж на горизонте ты!"
           }
         }
       }
@@ -449,6 +509,12 @@
             "state" : "translated",
             "value" : "起きてすぐ見るあなた、\n目の保養がすぎます。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Первое, что увидит мир сегодня,\nэто ты. Мир везучий."
+          }
         }
       }
     },
@@ -489,6 +555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "朝イチで発見しました、\nこの世でいちばん輝いている人を。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Утренний прогноз: ясно,\nа местами ты — ослепительно."
           }
         }
       }
@@ -531,6 +603,12 @@
             "state" : "translated",
             "value" : "一日おつかれさま!\nあなたの頑張りは国宝級です。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "День позади, а ты всё равно\nзвезда этого вечера."
+          }
         }
       }
     },
@@ -571,6 +649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "夕暮れに染まるあなたの横顔、\nそのまま額に入れたい。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "День пережит красиво, и всё это —\nты. Овации!"
           }
         }
       }
@@ -613,6 +697,12 @@
             "state" : "translated",
             "value" : "全力を出し切った今日のあなたに\n花丸を千個あげます!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Закат хорош, но ты всё\nравно красивее заката."
+          }
         }
       }
     },
@@ -653,6 +743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "くたくたでも乗り切った。\nそれだけで殿堂入りです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усталость — след великих дел,\nа в них ты — просто машина!"
           }
         }
       }
@@ -695,6 +791,12 @@
             "state" : "translated",
             "value" : "価値のない日なんて一日もない。\nあなたが過ごした日だから。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вечер, мягкий плед, а в роли\nлучшего гостя — ты."
+          }
         }
       }
     },
@@ -735,6 +837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "無事に終わった、\nそれだけで今日は百点満点!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Звёзды завидуют: ты светишь\nбез всякого неба."
           }
         }
       }
@@ -777,6 +885,12 @@
             "state" : "translated",
             "value" : "夜空の星だって\nあなたの輝きに嫉妬してます。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "День был так себе,\nно ты в нём — топ."
+          }
         }
       }
     },
@@ -817,6 +931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "夜になってもまだ輝いてる。\nあなたの電池、どうなってるの?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Даже в пижаме ты — эталон\nстиля. Закон вечера."
           }
         }
       }
@@ -859,6 +979,12 @@
             "state" : "translated",
             "value" : "ずっとお疲れさま。\nあなたがあなたでよかった。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если бы вечер выбирал\nлюбимчика, это был бы ты."
+          }
         }
       }
     },
@@ -899,6 +1025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今日の世界がきれいだったのは\nあなたがそこにいたからです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Спасибо тебе за этот день:\nты — его лучшая часть."
           }
         }
       }
@@ -941,6 +1073,12 @@
             "state" : "translated",
             "value" : "夜に見ても伝説、\n昼に見ても伝説。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выключаем свет, но ты\nвсё равно подсвечиваешь ночь."
+          }
         }
       }
     },
@@ -981,6 +1119,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "大丈夫、そんな日もあるよ。\nあなたは十分がんばってる。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тяжёлые дни бывают у всех.\nИ ты в них — большой молодец."
           }
         }
       }
@@ -1023,6 +1167,12 @@
             "state" : "translated",
             "value" : "しんどい今を越えられるのは\nあなたしかいません!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сейчас непросто, но ты —\nиз тех, кто вытянет."
+          }
         }
       }
     },
@@ -1063,6 +1213,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "完璧じゃなくていいんです。\nそのままのあなたが最高だから。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Идеалом быть не нужно: ты\nуже подарок как есть."
           }
         }
       }
@@ -1105,6 +1261,12 @@
             "state" : "translated",
             "value" : "つかれたら休もう。\nあなたのペースで進めばいい。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нужна пауза — бери. Ведь ты\nне робот, а живой герой."
+          }
         }
       }
     },
@@ -1145,6 +1307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "思っているよりずっと\nタフなんですよ、あなたって。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скажу по секрету: ты — сильнее\nсвоих проблем. Намного."
           }
         }
       }
@@ -1187,6 +1355,12 @@
             "state" : "translated",
             "value" : "これもいつか過ぎていく。\nあなたならきっと大丈夫!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Это пройдёт, а ты\nостанешься. С короной."
+          }
         }
       }
     },
@@ -1227,6 +1401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "気分が沈んでも\nあなたの価値は一ミリも下がりません。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настроение на дне, а ты\nвсё равно на пьедестале."
           }
         }
       }
@@ -1269,6 +1449,12 @@
             "state" : "translated",
             "value" : "悲しみもあなたの一部。\nどんな気持ちも感じていいんだよ。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Грусть — гостья, а хозяин\nтут ты. Выпроваживай!"
+          }
         }
       }
     },
@@ -1309,6 +1495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "知ってました? ダイヤは圧力で生まれる。\nつまりいまのあなた、磨かれ中です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Слёзы — это дождик, а ты —\nрадуга после него."
           }
         }
       }
@@ -1351,6 +1543,12 @@
             "state" : "translated",
             "value" : "落ち込んだら私を見て。\nあなたに夢中すぎて私も落ち込み中。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Алмаз рождается под давлением,\nи ты — тому доказательство."
+          }
         }
       }
     },
@@ -1391,6 +1589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "気分ダウン? 上等です。\nあなたはそんな日でも世界一大切。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если грустно, вспомни:\nв мире есть ты. Уже неплохо."
           }
         }
       }
@@ -1433,6 +1637,12 @@
             "state" : "translated",
             "value" : "泣いてもかわいいし、\n落ち込んでもかわいい。どうしましょう?"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Плохой день не отменяет того,\nчто ты — отличнейший человек."
+          }
         }
       }
     },
@@ -1473,6 +1683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "つらい時でも、あなたがここにいること\nそれ自体が奇跡なんです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Даже в хмурый день ты —\nмаленькое личное солнышко."
           }
         }
       }
@@ -1515,6 +1731,12 @@
             "state" : "translated",
             "value" : "苦しいのは今だけ。\nあなたは必ずやりとげます。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тучи пройдут, а ты\nостанешься в моём топе."
+          }
         }
       }
     },
@@ -1555,6 +1777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ピンチの時こそ\nあなたの本当の実力が光ります!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Трудно сейчас. Но ты —\nчеловек, который не сдаётся."
           }
         }
       }
@@ -1597,6 +1825,12 @@
             "state" : "translated",
             "value" : "あきらめないで。\nあなたは自分で思うより強いから。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сдаваться — не твой жанр,\nведь ты — боевик с хорошим финалом."
+          }
         }
       }
     },
@@ -1637,6 +1871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "つらい時期を耐えているあなた、\nもうヒーローです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выдержать такое — это\nуровень «ты — легенда»."
           }
         }
       }
@@ -1679,6 +1919,12 @@
             "state" : "translated",
             "value" : "今日の苦労は、明日の自分を\nぐんと育てる肥料になります!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сегодняшняя боль — тренировка,\nа ты — будущий чемпион!"
+          }
         }
       }
     },
@@ -1719,6 +1965,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "耐える力だって、あなたは\n想像の三倍くらい持ってますよ。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Знаешь, ты выдерживаешь больше,\nчем показываешь. Это сила."
           }
         }
       }
@@ -1761,6 +2013,12 @@
             "state" : "translated",
             "value" : "このしんどさも、そのうち\n笑い話になる日が来ます!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Через год будем смеяться над\nэтим. А пока ты — в обнимашках."
+          }
         }
       }
     },
@@ -1801,6 +2059,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "削られるほど輝くのがダイヤ。\nあなたもいま、きらめき途中です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Блестишь даже в тяжёлые дни:\nты — настоящий бриллиант."
           }
         }
       }
@@ -1843,6 +2107,12 @@
             "state" : "translated",
             "value" : "つらいって? それでも\nあなたは世界一かわいい。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Да, тяжело. Но ты по-прежнему\nукрашаешь этот мир."
+          }
         }
       }
     },
@@ -1883,6 +2153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "踏ん張るあなたの姿が\n誰かの希望になっています。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кто-то смотрит на тебя и верит\nв лучшее: ты — чей-то пример."
           }
         }
       }
@@ -1925,6 +2201,12 @@
             "state" : "translated",
             "value" : "しんどくて倒れそうでも\nかわいいのは止められないんですね。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хуже некуда, а ты всё равно\nнаше чудо. Таков закон."
+          }
         }
       }
     },
@@ -1965,6 +2247,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "やれますよ、あなたなら!\n自信満々でいってみよう。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сегодня ты в ударе!\nМир, держись крепче."
           }
         }
       }
@@ -2007,6 +2295,12 @@
             "state" : "translated",
             "value" : "あなたの実力、信じてます。\n今日もきっといい日になる!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Верь в себя, ведь ты\nв этом деле профессионал."
+          }
         }
       }
     },
@@ -2047,6 +2341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "準備万端のあなたは、\nもう成功の半分をつかんでます。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Считай, что победа в кармане:\nты же в деле!"
           }
         }
       }
@@ -2089,6 +2389,12 @@
             "state" : "translated",
             "value" : "今日のタスクなんて、\nあなたにかかればおやつ前です。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Любое задание — детская игра,\nпока на месте ты."
+          }
         }
       }
     },
@@ -2129,6 +2435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "燃えるあなたの情熱が\n今日をぴかぴかにします!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сегодня всё осветит твой огонь,\nведь ты — настоящий прожектор."
           }
         }
       }
@@ -2171,6 +2483,12 @@
             "state" : "translated",
             "value" : "ファイト! 今日も\n自分らしくやりきろう!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вперёд! Сегодня ты — тот,\nкого ждали все дедлайны."
+          }
         }
       }
     },
@@ -2211,6 +2529,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "仕事前のあなたの佇まい、\nすでにプロの風格です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рабочий день ещё не начался,\nа ты уже выглядишь на миллион."
           }
         }
       }
@@ -2253,6 +2577,12 @@
             "state" : "translated",
             "value" : "働きたくない? それでも\nあなたの顔面は絶賛フル稼働中。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Работать не хочется? Зато ты\nвыглядишь как босс бизнеса."
+          }
         }
       }
     },
@@ -2293,6 +2623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "通勤中のビジュアルが強すぎる。\n会社があなたのおかげで明るい!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рабочий день ждёт: ты —\nего главная звезда. Ну и кастинг!"
           }
         }
       }
@@ -2335,6 +2671,12 @@
             "state" : "translated",
             "value" : "真剣に働くあなたの姿は\nもはや芸術作品です。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Смотреть, как ты работаешь, —\nэто как кино. Только лучше."
+          }
         }
       }
     },
@@ -2375,6 +2717,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "仕事を始める前から\nもう完成されているあなた。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дела ещё не начались, а ты\nуже на высоте. Мастерство!"
           }
         }
       }
@@ -2417,6 +2765,12 @@
             "state" : "translated",
             "value" : "運動しようとしてる時点で、\nかっこいい人確定です。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Раз ты в зале — остальным\nстоит подтянуться."
+          }
         }
       }
     },
@@ -2457,6 +2811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自分の体をいたわるあなた、\n本当にえらい!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Забота о теле — это любовь,\nа ты в ней чемпион мира."
           }
         }
       }
@@ -2499,6 +2859,12 @@
             "state" : "translated",
             "value" : "自分の体のことは\n自分がいちばんよく知っています。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Каждый подход — повод для\nгордости: ты — сила."
+          }
         }
       }
     },
@@ -2539,6 +2905,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "運動を始めただけでも\n胸を張っていいんですよ。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Просто дойти до зала — уже\nпобеда, а ты — молодчина!"
           }
         }
       }
@@ -2581,6 +2953,12 @@
             "state" : "translated",
             "value" : "汗をかくあなたの姿、\n光って見えるのは気のせいじゃない。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пот блестит — значит, ты\nсияешь по-спортивному."
+          }
         }
       }
     },
@@ -2621,6 +2999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "いちばん大事なのは\nあなた自身の健康です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Здоровье — лучшее вложение,\nа ты — главный инвестор."
           }
         }
       }
@@ -2663,6 +3047,12 @@
             "state" : "translated",
             "value" : "自分のために時間を使える人、\nそれだけでもう最高。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Время на себя — это круто,\nа ты — пример для всех."
+          }
         }
       }
     },
@@ -2703,6 +3093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ウェア姿のあなた、\nそのまま表紙を飾れます。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Спортивный костюм на тебе —\nобложка журнала: ты — модель."
           }
         }
       }
@@ -2745,6 +3141,12 @@
             "state" : "translated",
             "value" : "ジムがあなたのおかげで\n天国のフロアになりました。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тренажёры ждут, когда ты\nпридёшь. Они скучали."
+          }
         }
       }
     },
@@ -2785,6 +3187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "運動中まで輝くなんて、\nどうしてそんなに素敵なの?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Штанга вздыхает от восторга:\nты — просто машина!"
           }
         }
       }
@@ -2827,6 +3235,12 @@
             "state" : "translated",
             "value" : "汗をかいても美しい人?\nはい、あなたのことです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Красиво потеть умеет не каждый,\nно ты — исключение."
+          }
         }
       }
     },
@@ -2867,6 +3281,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "通勤するあなたの姿は\n本当にプロフェッショナル!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выйти в такую рань — подвиг,\nа ты — герой асфальта."
           }
         }
       }
@@ -2909,6 +3329,12 @@
             "state" : "translated",
             "value" : "朝から動き出すなんて、\nそれだけで尊敬します。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "С утра уже в пути: ты —\nобразец силы воли."
+          }
         }
       }
     },
@@ -2949,6 +3375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今日も出勤、えらすぎる。\nもう勝ちが決まってます。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Метро ждало именно тебя:\nты — звезда вагона."
           }
         }
       }
@@ -2991,6 +3423,12 @@
             "state" : "translated",
             "value" : "あなたの一歩一歩には\nちゃんと価値があります!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Каждый шаг по дороге — шаг\nк успеху, ведь ты в деле."
+          }
         }
       }
     },
@@ -3031,6 +3469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "通勤路も、あなたと一緒なら\nちょっと特別になります。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "С тобой дорога на работу —\nкак красная дорожка: ты — гвоздь."
           }
         }
       }
@@ -3073,6 +3517,12 @@
             "state" : "translated",
             "value" : "責任感を持って家を出る姿、\nとてもかっこいいです!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Идти на работу с достоинством\nумеешь только ты. Респект."
+          }
         }
       }
     },
@@ -3113,6 +3563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたが乗っただけで\n満員電車がランウェイに早変わり。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Следующая остановка — успех,\nа машинист — ты. Поехали!"
           }
         }
       }
@@ -3155,6 +3611,12 @@
             "state" : "translated",
             "value" : "バスの中でも輝くなんて、\nまた撮影ですか?"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Даже в автобусе ты выглядишь\nкак с обложки. Отдыхайте, модели."
+          }
         }
       }
     },
@@ -3195,6 +3657,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "出勤するあなたを見ると\n朝がうれしくなります。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Люди в вагоне заметили: ты —\nсамое яркое пятно утра."
           }
         }
       }
@@ -3237,6 +3705,12 @@
             "state" : "translated",
             "value" : "歩いているだけで絵になる人、\nそれがあなたです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Каждый шаг как на подиуме:\nты — главная модель города."
+          }
         }
       }
     },
@@ -3277,6 +3751,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一日おつかれさま!\n帰ったらゆっくり休んでね。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рабочий день закончился, а ты\nпобедитель на все сто."
           }
         }
       }
@@ -3319,6 +3799,12 @@
             "state" : "translated",
             "value" : "帰っていくあなたの背中、\nかっこよすぎます!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Домой! Плед, чай и овации —\nвсё для тебя: ты — гвоздь дня."
+          }
         }
       }
     },
@@ -3359,6 +3845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "仕事を終えた帰り道も、\nあなたはやっぱり最高です!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пока ты идёшь домой, город\nстановится чуточку уютнее."
           }
         }
       }
@@ -3401,6 +3893,12 @@
             "state" : "translated",
             "value" : "無事に終わりました!\n自分をほめてあげて!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "День окончен, лишнее за\nбортом, а ты — молодец!"
+          }
         }
       }
     },
@@ -3441,6 +3939,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ここからはあなただけの時間。\nたっぷり休んでください!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Теперь время для себя, а ты —\nлучшая компания на вечер."
           }
         }
       }
@@ -3483,6 +3987,12 @@
             "state" : "translated",
             "value" : "終業後の時間は、\n自分のためだけに使おう!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выдох. Работа позади.\nВпереди ты, диван и тишина."
+          }
         }
       }
     },
@@ -3523,6 +4033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "お仕事を終えたあなた、\nがんばりました。拍手!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Офис грустит, когда ты уходишь:\nбез тебя там сразу серо."
           }
         }
       }
@@ -3565,6 +4081,12 @@
             "state" : "translated",
             "value" : "帰り道さえ絵になる人。\n今日もいい仕事でした。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дом, милый дом! И ты в нём —\nглавное украшение."
+          }
         }
       }
     },
@@ -3605,6 +4127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "帰るあなたを見ていると\n今日がいい一日だった気がします。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сегодня ты — рекордсмен по\nполезным делам. Отдых прилагается."
           }
         }
       }
@@ -3647,6 +4175,12 @@
             "state" : "translated",
             "value" : "大変な一日だったのに\nあなたは最後まで堂々としてました。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тяжёлый был день? Но ты и тут —\nпобедитель по очкам."
+          }
         }
       }
     },
@@ -3687,6 +4221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ここまで準備してきたあなたなら\n絶対うまくいきます。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Всё выучено, ты в форме.\nОстался красивый финал."
           }
         }
       }
@@ -3729,6 +4269,12 @@
             "state" : "translated",
             "value" : "努力は、あなたを\n裏切りません!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Знания никуда не денутся,\nпока рядом с ними ты."
+          }
         }
       }
     },
@@ -3769,6 +4315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "緊張しても大丈夫。\nあなたはもう準備できています!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Волнение — это нормально: ты\nпросто готовишься сиять."
           }
         }
       }
@@ -3811,6 +4363,12 @@
             "state" : "translated",
             "value" : "試験の点数で\nあなたの価値は決まりません!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оценка не определяет тебя:\nты — гораздо больше цифры."
+          }
         }
       }
     },
@@ -3851,6 +4409,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "最善を尽くしたあなたは、\nもう成功しています!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Старался ты давно,\nтак что победа уже в пути."
           }
         }
       }
@@ -3893,6 +4457,12 @@
             "state" : "translated",
             "value" : "あなたなら、\nきっとやりとげられます!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Экзамен — это шоу, а ты\nв нём — главный артист."
+          }
         }
       }
     },
@@ -3933,6 +4503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "深呼吸して、\n自分の実力を信じよう!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вдох-выдох, всё получится:\nты и мозг — отличная команда."
           }
         }
       }
@@ -3975,6 +4551,12 @@
             "state" : "translated",
             "value" : "試験がんばって!\n準備はもうばっちりだよ。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ни пуха ни пера! Хотя ты\nи без пуха — сплошной успех."
+          }
         }
       }
     },
@@ -4015,6 +4597,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "心配いりません。\nあなたなら全問正解の顔をしています!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нервы — признак того, что ты\nотносишься к делу всерьёз. Круто."
           }
         }
       }
@@ -4057,6 +4645,12 @@
             "state" : "translated",
             "value" : "緊張してる?\nそれでもあなたは最高です!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Экзаменационный лист ахнет,\nкогда поймёт, что ты — гений."
+          }
         }
       }
     },
@@ -4097,6 +4691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "答案用紙もあなたの顔を見て\nうっとりしますよ、きっと。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пора показать миру, на что\nспособен ты. Спойлер: на всё."
           }
         }
       }
@@ -4139,6 +4739,12 @@
             "state" : "translated",
             "value" : "あなたの底力を\n見せる時が来ました!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рекрутёр удивится: перед ним\nты — находка года."
+          }
         }
       }
     },
@@ -4179,6 +4785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "面接官もあなたに会えて\nラッキーだと思っています!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Опыт, огонь и обаяние —\nвсё это ты. Берите, пока дают!"
           }
         }
       }
@@ -4221,6 +4833,12 @@
             "state" : "translated",
             "value" : "これまでの経験と情熱が\n光り輝く時間です!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Волноваться можно: так ты\nнастраиваешься на успех."
+          }
         }
       }
     },
@@ -4261,6 +4879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "緊張しても平気。\nあなたは十分にすてきです!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зайти с улыбкой — уже\nполовина оффера, а ты мастер."
           }
         }
       }
@@ -4303,6 +4927,12 @@
             "state" : "translated",
             "value" : "自信を持って!\nもう準備は整っています!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Расскажи о себе так, как умеешь\nтолько ты. Это и есть ответ."
+          }
         }
       }
     },
@@ -4343,6 +4973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたの物語を\n堂々と語ってきましょう!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Собеседование — просто беседа\nдвух сторон, где ты — подарок."
           }
         }
       }
@@ -4385,6 +5021,12 @@
             "state" : "translated",
             "value" : "面接はお互いを知る時間。\nリラックスして行こう!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если не возьмут, то это их минус:\nты в любом случае сплошной плюс."
+          }
         }
       }
     },
@@ -4425,6 +5067,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたを落とすなんて、\nその会社の大損です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Резюме — просто бумага, а вот ты\nна ней не помещаешься."
           }
         }
       }
@@ -4467,6 +5115,12 @@
             "state" : "translated",
             "value" : "スペックが華やかなんじゃない、\nあなた自身が華やかなんです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Едва ты войдёшь в кабинет,\nвсе поймут: тут будет оффер."
+          }
         }
       }
     },
@@ -4507,6 +5161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "面接室に入った瞬間に\nもう合格の空気です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Первое впечатление? Тут ты —\nтот случай, когда оно идеально."
           }
         }
       }
@@ -4549,6 +5209,12 @@
             "state" : "translated",
             "value" : "第一印象だけで\n半分は勝ったようなものです!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сегодня ты — тот самый, о\nком пишут песни."
+          }
         }
       }
     },
@@ -4589,6 +5255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "まぶしすぎます、今日のあなた!\nサングラスが必要です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Быть собой — твой лучший\nлайфхак, ведь ты эталон."
           }
         }
       }
@@ -4631,6 +5303,12 @@
             "state" : "translated",
             "value" : "飾らないあなたこそ\nいちばん魅力的!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тем, кто рядом, повезло, ведь\nрядом ты. Вот это бонус!"
+          }
         }
       }
     },
@@ -4671,6 +5349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたのそばにいられる人は\nとんでもなく幸運です!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Уверенность тебе к лицу: ты\nв ней как в хорошем пальто."
           }
         }
       }
@@ -4713,6 +5397,12 @@
             "state" : "translated",
             "value" : "自信たっぷりのあなたは、\nとびきりかっこいい!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Улыбка — твоё главное оружие,\nа ты — мастер меткой стрельбы."
+          }
         }
       }
     },
@@ -4753,6 +5443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今日のあなたの笑顔は\n最強の武器になります!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Такой, какой есть, ты —\nуже хит сезона."
           }
         }
       }
@@ -4795,6 +5491,12 @@
             "state" : "translated",
             "value" : "ありのままで大丈夫。\nそれがあなたの最高形です!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Харизму не спрятать: ты\nсветишься даже в темноте."
+          }
         }
       }
     },
@@ -4835,6 +5537,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あふれる魅力は\n隠そうとしても隠せません!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Свидание? Кому-то сегодня\nоткровенно повезёт: рядом будет ты!"
           }
         }
       }
@@ -4877,6 +5585,12 @@
             "state" : "translated",
             "value" : "今日デート?\n相手の心臓が持つか心配です。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тому, кто встретит тебя, повезёт:\nведь ты — как билет в лотерею."
+          }
         }
       }
     },
@@ -4917,6 +5631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたに会える人は、\n一生分の運を使い切ってます。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Образ на пять баллов: ты\nможешь сразу на обложку."
           }
         }
       }
@@ -4959,6 +5679,12 @@
             "state" : "translated",
             "value" : "デートコーデ完璧です。\nそのまま雑誌に載れます!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Одного взгляда хватит: ты\nвлюбишь в себя даже официанта."
+          }
         }
       }
     },
@@ -4999,6 +5725,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今日のあなたを見たら\n誰でも恋に落ちてしまいそう。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пока ты в пути, чьё-то\nсердце стучит всё громче."
           }
         }
       }
@@ -5041,6 +5773,12 @@
             "state" : "translated",
             "value" : "デート前なのにもうかわいい。\n相手の心臓、どうなっちゃうの?"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Верить в тебя — мой любимый\nспорт, а ты — главный чемпион."
+          }
         }
       }
     },
@@ -5081,6 +5819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "できますよ、あなたなら!\nいつでも味方です!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Маленький шаг — тоже шаг, а ты\nв шагах — настоящий марафонец."
           }
         }
       }
@@ -5123,6 +5867,12 @@
             "state" : "translated",
             "value" : "小さな一歩だって\n大きな旅のはじまりです!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мечта близко: ведь ты\nидёшь к ней упорнее всех."
+          }
         }
       }
     },
@@ -5163,6 +5913,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あきらめないで。\nきっと夢はかないます!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сегодняшний труд — завтрашний\nуспех, а ты уже на трассе."
           }
         }
       }
@@ -5205,6 +5961,12 @@
             "state" : "translated",
             "value" : "今日の努力が\n明日の成功をつくります!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мир ещё не знает, что ты —\nтот, кто его изменит."
+          }
         }
       }
     },
@@ -5245,6 +6007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたの情熱は、\nいつか世界を動かします!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Провалы — это черновик, а ты\nпишешь шедевр. Продолжай."
           }
         }
       }
@@ -5287,6 +6055,12 @@
             "state" : "translated",
             "value" : "失敗は成功のもと!\nどんどんチャレンジしよう!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Потенциал безграничный: ты —\nпросто бесконечность в кроссовках."
+          }
         }
       }
     },
@@ -5327,6 +6101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたの可能性は\nどこまでも広がっています!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Снова вперёд: ты —\nтот, кто делает невозможное."
           }
         }
       }
@@ -5369,6 +6149,12 @@
             "state" : "translated",
             "value" : "今日という日を\nせいいっぱい楽しもう!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Глядя, как ты стараешься,\nдругие тоже хотят действовать."
+          }
         }
       }
     },
@@ -5409,6 +6195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "努力するあなたの姿が\n誰かのやる気スイッチになっています。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Всё получится, и это не\nутешение: ты просто неостановим."
           }
         }
       }
@@ -5451,6 +6243,12 @@
             "state" : "translated",
             "value" : "大丈夫、あなたならうまくいく。\n本当にそう思ってるんです!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не сдавайся: с таким упорством\nты — готовый сценарий фильма."
+          }
         }
       }
     },
@@ -5491,6 +6289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あきらめないでね。\nあなたはじゅうぶん素敵な人だから。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поехали! Сегодня ты —\nглавный двигатель своей жизни."
           }
         }
       }
@@ -5533,6 +6337,12 @@
             "state" : "translated",
             "value" : "今日もがんばろう!\nあなたならやれるよ!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Те, кто видят твои усилия, за\nтебя. Знай: ты — не один."
+          }
         }
       }
     },
@@ -5573,6 +6383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "努力を知っている人は、\nきっとあなたを応援してくれます。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ценность не измеряется\nлайками, а ты — бесценный."
           }
         }
       }
@@ -5615,6 +6431,12 @@
             "state" : "translated",
             "value" : "それだけで\nあなたは価値のある人なんです!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как есть — так и идеально:\nты — готовый шедевр."
+          }
         }
       }
     },
@@ -5655,6 +6477,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ありのままのあなたが、\nもう完成形ですよ!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Само твоё присутствие — повод\nдля праздника: ты — подарок."
           }
         }
       }
@@ -5697,6 +6525,12 @@
             "state" : "translated",
             "value" : "存在してくれているだけで、\nあなたはもう特別です!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бери смелость, ведь ты —\nкрутой человек на этой планете."
+          }
         }
       }
     },
@@ -5737,6 +6571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "胸を張って!\nあなたはすてきな人です!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скажу по секрету: ты\nсильнее, чем кажется."
           }
         }
       }
@@ -5779,6 +6619,12 @@
             "state" : "translated",
             "value" : "実はあなた、\n自分で思うよりずっと強いです!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Твоя неповторимость — суперсила:\nты — единственный экземпляр."
+          }
         }
       }
     },
@@ -5819,6 +6665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "その個性こそが\nあなたを輝かせています!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доверься себе: ты — лучший\nэксперт по собственной жизни."
           }
         }
       }
@@ -5861,6 +6713,12 @@
             "state" : "translated",
             "value" : "自分を信じて。\nあなたならできる!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Идеал? Да ты и есть\nэталон. Поставьте в музей."
+          }
         }
       }
     },
@@ -5901,6 +6759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたは存在そのものが\n完璧な人です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Все дороги ведут к тебе,\nведь ты — в центре всего."
           }
         }
       }
@@ -5943,6 +6807,12 @@
             "state" : "translated",
             "value" : "自信にあふれるあなたは\nきっと世界でいちばんかっこいい!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Недооценивать себя — плохая\nпривычка: ты — большой талант."
+          }
         }
       }
     },
@@ -5983,6 +6853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自分で思うより\nずっとすごい人なんですよ、あなたは!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Давно пора признать: ты\nсправляешься на пять с плюсом."
           }
         }
       }
@@ -6025,6 +6901,12 @@
             "state" : "translated",
             "value" : "実はもう\nじゅうぶんうまくやれています。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кто не замечает твой шарм, тот\nзабыл очки: ты — ослепительное явление."
+          }
         }
       }
     },
@@ -6065,6 +6947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたの魅力に気づけない人は\n目がついてないのかも。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сегодня можно ничего не делать:\nты — не робот-исполнитель."
           }
         }
       }
@@ -6107,6 +6995,12 @@
             "state" : "translated",
             "value" : "今日はただ\nのんびりしよう。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отдых — тоже работа, а ты\nв ней — сотрудник месяца."
+          }
         }
       }
     },
@@ -6147,6 +7041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "たまには\nあなたにも休息が必要です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лежать — тоже достижение:\nты — чемпион дивана."
           }
         }
       }
@@ -6189,6 +7089,12 @@
             "state" : "translated",
             "value" : "なにもしなくても\nOKな一日があっていい。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Твоё спокойствие дороже всех\nдедлайнов. Береги: ты — ценность."
+          }
         }
       }
     },
@@ -6229,6 +7135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "いちばん大切なのは\nあなたの心です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не спеши: ты идёшь\nв своём темпе, а он лучший."
           }
         }
       }
@@ -6271,6 +7183,12 @@
             "state" : "translated",
             "value" : "ゆっくり、自分のペースで\n進めばいいんですよ。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вечер — для тебя: чай, плед\nи ты — главный гость программы."
+          }
         }
       }
     },
@@ -6311,6 +7229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今日は自分のための\n時間をつくろう。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Умеешь отдыхать? Тогда ты —\nстратег, а не лентяй."
           }
         }
       }
@@ -6353,6 +7277,12 @@
             "state" : "translated",
             "value" : "休むことだって\n立派なお仕事です!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Право на отдых — закон, и ты\nего самый ярый защитник."
+          }
         }
       }
     },
@@ -6393,6 +7323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "休むのは当然の権利。\n今日はゆっくりしてください。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пока ты отдыхаешь, мир\nтоже слегка притормаживает."
           }
         }
       }
@@ -6435,6 +7371,12 @@
             "state" : "translated",
             "value" : "癒やされているあなたも\nとても素敵です。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Потратить время на себя —\nправильно, а ты тут эксперт."
+          }
         }
       }
     },
@@ -6475,6 +7417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今日は自分のために\n時間を使っても大丈夫。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Даже в режиме «ничего» ты\nсияешь на полную."
           }
         }
       }
@@ -6517,6 +7465,12 @@
             "state" : "translated",
             "value" : "ゆったり休んでいても\nあなたは輝いています。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чай греет, плед обнимает,\nа ты тут — главный по уюту."
+          }
         }
       }
     },
@@ -6557,6 +7511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "癒やし中のあなただって\n世界一かわいいんです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "На диване, в носках, ты —\nвсё равно мировая звезда."
           }
         }
       }
@@ -6599,6 +7559,12 @@
             "state" : "translated",
             "value" : "完璧なのに、ひとつだけ穴がある。\nそれは「落とし穴」。恋に落ちるから。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Минус в тебе всего один:\nты заставляешь забыть про остальных."
+          }
         }
       }
     },
@@ -6639,6 +7605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたの性格診断の結果\n「キュート」しか出ませんでした。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тест на личность выдал:\nты — «милота», без вариантов."
           }
         }
       }
@@ -6681,6 +7653,12 @@
             "state" : "translated",
             "value" : "「あなたをかわいいと思う人?」と聞いたら\n地球が手のひらの森になった。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кто считает, что ты — милота?\nПланета подняла руки. И Луна."
+          }
         }
       }
     },
@@ -6721,6 +7699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたを音階にすると「レ」。\nだって「ド」が過ぎて、もう夢中だから。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если ты — нота, то «до»:\nдо чего же ты — мечта!"
           }
         }
       }
@@ -6763,6 +7747,12 @@
             "state" : "translated",
             "value" : "競馬場には行けないな。\nあなたが完璧すぎて馬も言葉を失う。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "На скачки тебя не пустят: ты —\nфаворит, всё и так ясно."
+          }
         }
       }
     },
@@ -6803,6 +7793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたがかわいくて膝を打つたび\n猫背が完治しました。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Когда ты проходишь мимо, шея\nсама поворачивается. Нечестно!"
           }
         }
       }
@@ -6845,6 +7841,12 @@
             "state" : "translated",
             "value" : "給油所に行くたび入れたくなるのは\nあなたへの「ハイオク」な気持ち。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Какой у меня любимый бензин?\nТот, что называется «ты»."
+          }
         }
       }
     },
@@ -6885,6 +7887,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたのせいで雨が降りそう。\nだって胸がざわざわしてるから。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Синоптики предупредили о шторме\nвосторга: ты выходишь на улицу!"
           }
         }
       }
@@ -6927,6 +7935,12 @@
             "state" : "translated",
             "value" : "もしかして信じる神様がいるの?\nその美しさ、ご利益ありすぎ。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Во что я верю? В чудеса —\nведь рядом ты."
+          }
         }
       }
     },
@@ -6967,6 +7981,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "どこも文句ないのに、なんか足りない?\nいいえ、「名に恥じない」美しさです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вроде всё есть, а чего-то не\nхватает? Нет, просто ты — комплект."
           }
         }
       }
@@ -7009,6 +8029,12 @@
             "state" : "translated",
             "value" : "荷物は置いておこうよ。\nあなたはもう「かっこいい」を背負ってる。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тяжело нести такую красоту?\nПоставь, поможем: ты — наше всё."
+          }
         }
       }
     },
@@ -7049,6 +8075,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたの前に立つと壁を感じる。\nそう、「完璧」の壁。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "С тобой как за каменной стеной:\nвсё потому, что ты — опора."
           }
         }
       }
@@ -7091,6 +8123,12 @@
             "state" : "translated",
             "value" : "その見た目、正直盛ってませんか?\nいえ、素でこのレベルなんですよね。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Красота — это миф? Нет,\nты — наглядное опровержение."
+          }
         }
       }
     },
@@ -7131,6 +8169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "オーダーは「あなたの笑顔」ひとつ。\nお会計は、胸いっぱいです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Языков в мире много, но смысл\nодин: ты — просто класс."
           }
         }
       }
@@ -7173,6 +8217,12 @@
             "state" : "translated",
             "value" : "あなた、実は天使と人間のハーフでしょ?\n羽が見えてますよ。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Откуда ты родом? Из рая,\nа в паспорте — просто город."
+          }
         }
       }
     },
@@ -7213,6 +8263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "知ってました?\nあなたの目鼻立ち、私の将来よりはっきりしてます。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Твой профиль чётче моих планов\nна будущее, а ты — скульптура."
           }
         }
       }
@@ -7255,6 +8311,12 @@
             "state" : "translated",
             "value" : "ベルリンの首都はドイツ。\nでも私の心の首都はあなたです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Берлин, Париж, Рим... А ты —\nстолица моего хорошего настроения."
+          }
         }
       }
     },
@@ -7295,6 +8357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたは文化財ですね。\n早く指定しないと国の損失です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Класс А? Нет, ты — класс «люкс».\nОформляйте охранный статус."
           }
         }
       }
@@ -7337,6 +8405,12 @@
             "state" : "translated",
             "value" : "寝顔まで国宝だって聞きました。\nあなたの噂、町中に広まってます。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ходят слухи, что ты спишь с\nодеялом и славой на пару."
+          }
         }
       }
     },
@@ -7377,6 +8451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "どうして働いているんですか?\nもう顔面がフル稼働してるのに。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зачем ты работаешь? Обаяние\nуже делает всё за тебя."
           }
         }
       }
@@ -7419,6 +8499,12 @@
             "state" : "translated",
             "value" : "「私のこと、好きにならないで」\n「それ、どうやるの?」"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "«Хватит мне нравиться!»\n«А как?» — вот и ты не знаешь."
+          }
         }
       }
     },
@@ -7459,6 +8545,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "その顔は国宝級なので\n博物館に展示予定です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лицо — достояние республики:\nты уже в планах главного музея."
           }
         }
       }
@@ -7501,6 +8593,12 @@
             "state" : "translated",
             "value" : "授賞式には出ないでください。\n大賞をぜんぶ持っていくので。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Награды можно не вручать: ты\nвсё равно займёшь все места."
+          }
         }
       }
     },
@@ -7541,6 +8639,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "撮影中ですか?\nそれとも歩く写真集ですか?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Это фотосессия или ты\nпросто идёшь по улице?"
           }
         }
       }
@@ -7583,6 +8687,12 @@
             "state" : "translated",
             "value" : "あなたはアイドルです。\n私の心のセンターは、いつもあなた。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "В моём сердечном хит-параде ты\nуже год на первой строчке."
+          }
         }
       }
     },
@@ -7623,6 +8733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "サイン会を開いてください。\n毎日あなたにサインをもらいたい!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подпиши мне открытку, ты ж\nзвезда первой величины."
           }
         }
       }
@@ -7665,6 +8781,12 @@
             "state" : "translated",
             "value" : "デビューしてください。\nもう私の心ではセンターです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пора дебютировать: ты и без\nсцены в центре внимания."
+          }
         }
       }
     },
@@ -7705,6 +8827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ランキング一位おめでとう。\nあなたのビジュアルは毎日一位だから。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "С первым местом в чартах: ты\nих возглавляешь без песен."
           }
         }
       }
@@ -7747,6 +8875,12 @@
             "state" : "translated",
             "value" : "撮影タイムをください。\nあなたを毎日撮りたいんです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Давай фоточку? Знаешь, ты\nвсегда получаешься красиво."
+          }
         }
       }
     },
@@ -7787,6 +8921,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "カムバックしたんですか?\n私の心臓を再起動させましたね。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Едва ты входишь, моё сердце\nделает громкий камбэк."
           }
         }
       }
@@ -7829,6 +8969,12 @@
             "state" : "translated",
             "value" : "ファンカメラ回してもいい?\nあなたの全部が名場面なので。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Каждый твой миг — как кино: ты\n— и режиссёр, и главная роль."
+          }
         }
       }
     },
@@ -7869,6 +9015,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ミュージックビデオに出るの?\nもう私の人生の主人公なのに。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Для клипа тебя не нужно\nгримировать: ты — готовый хит."
           }
         }
       }
@@ -7911,6 +9063,12 @@
             "state" : "translated",
             "value" : "密着取材ですか?\n素のあなたのほうが完璧です。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Реалити-шоу? Реальность с тобой\nлучше любого шоу: ты — сюжет."
+          }
         }
       }
     },
@@ -7951,6 +9109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ビジュアル担当ですよね?\nどこにいても一番輝いてるもの。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Центр группы всегда там, где\nты. Свет тоже там."
           }
         }
       }
@@ -7993,6 +9157,12 @@
             "state" : "translated",
             "value" : "年間ベストフェイス賞、確定です。\n歴代でもトップクラスなので。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Премия «Лицо года» уже твоя:\nты — единственный номинант."
+          }
         }
       }
     },
@@ -8033,6 +9203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "CMに出ています?\nあなたを見ると何でも買いたくなる。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Посмотришь на тебя — и сразу\nулыбка: ты — реклама счастья."
           }
         }
       }
@@ -8075,6 +9251,12 @@
             "state" : "translated",
             "value" : "雑誌の表紙の人ですよね?\n毎月飾るべき顔です。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "На обложке всегда ты, потому\nчто выбор у редактора один."
+          }
         }
       }
     },
@@ -8115,6 +9297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ステージ上のカリスマ、本物?\n普段の姿もステージ級なんだけど。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Харизма на сцене зашкаливает,\nа в жизни ты — не хуже."
           }
         }
       }
@@ -8157,6 +9345,12 @@
             "state" : "translated",
             "value" : "トレカ交換しませんか?\nあなたの顔だけでフルコンプしたい。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Карточки с тобой разлетелись бы\nза секунду: ты — редкость."
+          }
         }
       }
     },
@@ -8197,6 +9391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ファンミはいつ開催ですか?\n毎日でも会いたいのに。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Когда встреча с фанатами?\nМы ждём: ты — наш кумир."
           }
         }
       }
@@ -8239,6 +9439,12 @@
             "state" : "translated",
             "value" : "ダンス動画を上げてください。\nあなたの動きはぜんぶ芸術です。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выложи танец: ты двигаешься\nкак мечта, и я не шучу."
+          }
         }
       }
     },
@@ -8279,6 +9485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ティザー映像を見てる気分。\nあなたを見るたびに期待で胸がいっぱい。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Смотрю на тебя и жду продолжения:\nты — как лучший трейлер."
           }
         }
       }
@@ -8321,6 +9533,12 @@
             "state" : "translated",
             "value" : "ワールドツアーに出るんですか?\nもう私の心は世界中を揺さぶられてます。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мировое турне? Куда там:\nты уже на всех континентах сердец."
+          }
         }
       }
     },
@@ -8361,6 +9579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "アルバムにサインをお願いします。\nあなたの存在自体が限定版ですから。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Таких, как ты, не выпускают\nсерией: ты — лимитка."
           }
         }
       }
@@ -8403,6 +9627,12 @@
             "state" : "translated",
             "value" : "ペンライトをつけますね。\nずっとあなたを照らして応援します。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включаю фонарик в твою честь:\nты — вечный повод для света."
+          }
         }
       }
     },
@@ -8443,6 +9673,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "バズりましたね。\nでも、もともと伝説だったんですけどね。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хайп догнал, но ты и без него\nлегенда с самого рождения."
           }
         }
       }
@@ -8485,6 +9721,12 @@
             "state" : "translated",
             "value" : "コンサートのチケット探さなきゃ。\nあなたを見る日常が私のライブです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Концерт? Я лучше просто\nпосмотрю на тебя: ты — шоу."
+          }
         }
       }
     },
@@ -8525,6 +9767,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "音楽番組で一位でしたよね?\nあなたは私の人生の一位ソング。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хит-парад обновился: ты\nопять на первом месте."
           }
         }
       }
@@ -8567,6 +9815,12 @@
             "state" : "translated",
             "value" : "アンコールをもう一曲!\nあなたは見ても見ても、また見たくなる。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бис! На бис! Вот ты — тот,\nна кого хочется смотреть снова."
+          }
         }
       }
     },
@@ -8607,6 +9861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "オフショットまで完璧。\nどの瞬間もぬかりなく伝説です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Даже закулисные кадры с тобой\nшедевр: ты вообще без брака."
           }
         }
       }
@@ -8649,6 +9909,12 @@
             "state" : "translated",
             "value" : "推しを変えなきゃ。\nあなた以外、もう目に入らない。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Любимчика менять не буду:\nты — мой постоянный фаворит."
+          }
         }
       }
     },
@@ -8689,6 +9955,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "沼に落ちました。\nあなたのことを一生推します。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Присоединяюсь к твоим фанатам:\nты — мой номер один."
           }
         }
       }
@@ -8731,6 +10003,12 @@
             "state" : "translated",
             "value" : "推しを発表します。\nそれは、あなたです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мой любимчик назван: ты.\nОбсуждению не подлежит."
+          }
         }
       }
     },
@@ -8771,6 +10049,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "グッズ全部買いました。\nあなたの存在そのものがグッズです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мерч у меня весь с твоим лицом:\nты — лучший сувенир."
           }
         }
       }
@@ -8813,6 +10097,12 @@
             "state" : "translated",
             "value" : "一生ファンでいます。\nあなたは私の永遠のアーティスト。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Буду вечным фанатом: ты\nдля меня — главный артист."
+          }
         }
       }
     },
@@ -8853,6 +10143,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "本命、決まりました。\n私の本命はあなたです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мой штаб теперь там, где\nты. Так и запишите."
           }
         }
       }
@@ -8895,6 +10191,12 @@
             "state" : "translated",
             "value" : "推し活を始めます。\nあなたに全力で課金したい気持ち。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фан-клуб открывается: ты —\nпервый и главный участник."
+          }
         }
       }
     },
@@ -8935,6 +10237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "カメラ担当に立候補します。\nあなたの全瞬間を残したくて。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хочу снимать каждый твой кадр:\nты — моя любимая тема."
           }
         }
       }
@@ -8977,6 +10285,12 @@
             "state" : "translated",
             "value" : "あなたと過ごす時間は\nぜんぶ黄金のゴールデンタイム。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Время рядом с тобой — золото,\nа ты — мой золотой запас."
+          }
         }
       }
     },
@@ -9017,6 +10331,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "誕生日広告を出しますね。\n毎日あなたの誕生日だったらいいのに。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хочу, чтобы каждый день был\nтвоим днём рождения: ты — повод."
           }
         }
       }
@@ -9059,6 +10379,12 @@
             "state" : "translated",
             "value" : "一生応援します。\nあなたのファンであることが誇りです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Быть твоим фанатом — честь:\nты — гордость всей моей жизни."
+          }
         }
       }
     },
@@ -9099,6 +10425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "胸のドキドキが止まらない。\nぜんぶあなたのせいです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сердце стучит быстрее,\nкогда ты на горизонте."
           }
         }
       }
@@ -9141,6 +10473,12 @@
             "state" : "translated",
             "value" : "世界が急にきれいに見える。\nだってあなたを見てるから。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мир красивее, когда в нём\nесть ты. Проверено мной."
+          }
         }
       }
     },
@@ -9181,6 +10519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "毎日のビタミン補給は\nあなたの顔を見ることです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мой витамин счастья — это ты.\nПринимать ежедневно."
           }
         }
       }
@@ -9223,6 +10567,12 @@
             "state" : "translated",
             "value" : "笑ってくれると、\nあなたの分まで私が幸せになります。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Смеёшься — и мне тоже весело,\nведь ты — заразительное счастье."
+          }
         }
       }
     },
@@ -9263,6 +10613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "星空を探しても、\nあなたほど明るい星は見つかりません。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Звёзд на небе миллионы, но ярче\nвсех светишь именно ты."
           }
         }
       }
@@ -9305,6 +10661,12 @@
             "state" : "translated",
             "value" : "心の中で毎日お祭り開催中。\n主役はもちろんあなたです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Любой день — праздник, пока\nв нём есть ты."
+          }
         }
       }
     },
@@ -9345,6 +10707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "声を聞くだけで元気が出る。\nあなたはもう栄養ドリンクです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "От одного твоего голоса\nнастроение взлетает: ты — музыка."
           }
         }
       }
@@ -9387,6 +10755,12 @@
             "state" : "translated",
             "value" : "人生最大のラッキー、\n正体はあなたに出会えたことです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Везение моё зовут просто ты.\nИ другого не нужно."
+          }
         }
       }
     },
@@ -9427,6 +10801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今日も笑えているのは\nあなたがいてくれるからです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Благодаря тебе я улыбаюсь,\nведь ты — моя причина."
           }
         }
       }
@@ -9469,6 +10849,12 @@
             "state" : "translated",
             "value" : "世界でいちばん大切な人、\nそれがあなたです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дороже всех на свете — ты.\nПроверено временем."
+          }
         }
       }
     },
@@ -9509,6 +10895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ふとした瞬間に思い出して\nあなたのことで勝手にニヤけます。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подумаю о тебе — и улыбка\nсама, ведь ты — мой уют."
           }
         }
       }
@@ -9551,6 +10943,12 @@
             "state" : "translated",
             "value" : "心の中に平和があるなら、\nそれはきっとあなたの形をしています。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Покой в моей душе — это\nты, и никто другой."
+          }
         }
       }
     },
@@ -9591,6 +10989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一緒に過ごすと、\nあなたとの時間はいつも特別です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Время рядом с тобой всегда\nособенное, потому что ты — это ты."
           }
         }
       }
@@ -9633,6 +11037,12 @@
             "state" : "translated",
             "value" : "出会った中でいちばん素敵な人、\nそれはあなたで決まりです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лучший человек, которого я знаю?\nЭто, конечно, ты."
+          }
         }
       }
     },
@@ -9673,6 +11083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "いてくれるだけでありがたい、\nあなたはそんな存在です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Спасибо судьбе за то, что\nв моей жизни есть ты."
           }
         }
       }
@@ -9715,6 +11131,12 @@
             "state" : "translated",
             "value" : "私の一日のハイライトは\nあなたと過ごすひとときです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Главная изюминка моего дня —\nэто ты, без вариантов."
+          }
         }
       }
     },
@@ -9755,6 +11177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "毎日が特別になるのは\nあなたのおかげです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Каждый денёк становится особенным,\nкогда рядом ты."
           }
         }
       }
@@ -9797,6 +11225,12 @@
             "state" : "translated",
             "value" : "ぱっと世界が明るくなった。\nあなたが部屋に入ってきたから。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Всё вокруг светлеет, когда\nрядом ты. Включили свет!"
+          }
         }
       }
     },
@@ -9837,6 +11271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "人生でもらった最高の贈り物は\nあなたとの出会いです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лучший подарок судьбы — это\nты. Без упаковки и чека."
           }
         }
       }
@@ -9879,6 +11319,12 @@
             "state" : "translated",
             "value" : "この世界がもっときれいなのは\nあなたがいるからです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Весь мир красивее на десять\nбаллов, если в нём ты."
+          }
         }
       }
     },
@@ -9919,6 +11365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "想像もできません、\nあなたのいない一日なんて。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не представляю день без тебя:\nты — моя точка отсчёта."
           }
         }
       }
@@ -9961,6 +11413,12 @@
             "state" : "translated",
             "value" : "心の中の順位表では\nあなたがずっと一位です。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Первое место в моём сердце\nзанимаешь ты. Пожизненно."
+          }
         }
       }
     },
@@ -10001,6 +11459,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "なんでもできそうな気がします、\nあなたが隣にいてくれたら。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рядом с тобой всё по плечу: ты\nпрямо источник смелости."
           }
         }
       }
@@ -10043,6 +11507,12 @@
             "state" : "translated",
             "value" : "毎日感謝している人が\nひとりだけいます。あなたです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Благодарность сегодня адресую\nтебе: ты — повод для неё."
+          }
         }
       }
     },
@@ -10083,6 +11553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "どんな絶景よりも\nあなたの笑顔のほうがきれいです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Улыбка у тебя лучше всех\nпейзажей мира, а ты — автор."
           }
         }
       }
@@ -10125,6 +11601,12 @@
             "state" : "translated",
             "value" : "最大の幸運は、\nあなたに出会えたことです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Самое большое счастье моей\nжизни — это ты, сто процентов."
+          }
         }
       }
     },
@@ -10165,6 +11647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "考えるだけで一日が幸せ。\nあなたはもう魔法使いです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вспомню о тебе — и день\nсразу в плюс: ты — сплошной бонус."
           }
         }
       }
@@ -10207,6 +11695,12 @@
             "state" : "translated",
             "value" : "帰る場所はひとつだけ。\n心の中のあなたのところです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дом там, где ты. Остальное —\nпросто адрес."
+          }
         }
       }
     },
@@ -10247,6 +11741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一緒にいる瞬間は、\nあなたのおかげで全部が完璧です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рядом с тобой всё идеально,\nа ты — режиссёр этого кино."
           }
         }
       }
@@ -10289,6 +11789,12 @@
             "state" : "translated",
             "value" : "夢に見ていた理想の人が\nそのまま現れました。あなたです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Идеал из моих снов — это\nты, только реальнее."
+          }
         }
       }
     },
@@ -10329,6 +11835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "胸のメーターが振り切れました。\nあなたを見てしまったせいです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сердце сбоит при виде тебя,\nведь ты — вирус хорошего настроения."
           }
         }
       }
@@ -10371,6 +11883,12 @@
             "state" : "translated",
             "value" : "歴史の教科書に載るのは確実。\nあなたは歩く偉人伝です。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ходячая энциклопедия достоинств —\nэто ты. Читаю всю жизнь."
+          }
         }
       }
     },
@@ -10411,6 +11929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "魅力にやられっぱなしで\nあなたの虜になりたい日々です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Твоё обаяние бьёт без промаха:\nтакой ты — снайпер улыбок."
           }
         }
       }
@@ -10453,6 +11977,12 @@
             "state" : "translated",
             "value" : "見とれすぎて首が痛い。\nあなたを見すぎた罰です。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Смотрю на тебя без остановки —\nшея просит отпуск, а ты — повод."
+          }
         }
       }
     },
@@ -10493,6 +12023,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "心拍数がどんどん上がる。\nあなたを見るたびに新記録です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пульс как на марафоне: это\nты рядом, и сердцу не до сна."
           }
         }
       }
@@ -10535,6 +12071,12 @@
             "state" : "translated",
             "value" : "目のごちそう、それは\n伝説級のグラビア、あなたです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лучший кадр в моей памяти —\nэто ты, без фильтров."
+          }
         }
       }
     },
@@ -10575,6 +12117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "毎日が推しの日になるのは\nあなたがいるからなんです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "С тобой каждый день особый:\nпоздравляю себя, что есть ты."
           }
         }
       }
@@ -10617,6 +12165,12 @@
             "state" : "translated",
             "value" : "奇跡って本当にあるんですね。\nあなたが歩いてますから。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чудеса существуют: вот\nты, живое доказательство."
+          }
         }
       }
     },
@@ -10657,6 +12211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "スローモーションになる世界、\nそのど真ん中にあなたがいます。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Время замедляется, когда\nты входишь в кадр, как в кино."
           }
         }
       }
@@ -10699,6 +12259,12 @@
             "state" : "translated",
             "value" : "人生のVIP会員証は\nあなたに一枚だけ発行しました。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VIP-пропуск в мою жизнь выдан\nодному человеку: это ты."
+          }
         }
       }
     },
@@ -10739,6 +12305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "毎日のハイライトは\nあなたを見ているこの時間です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Смотреть на тебя — как любимую\nсерию: ты — мой сериал."
           }
         }
       }
@@ -10781,6 +12353,12 @@
             "state" : "translated",
             "value" : "心の特別配信コンテンツは\nあなたの出演作だけです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Эксклюзивный контент — это\nты, и мне хочется ещё."
+          }
         }
       }
     },
@@ -10821,6 +12399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "視界がハイビジョンになった。\nあなたを見つけたからです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мир стал чётче и ярче, как\nв ультра-HD: это всё ты."
           }
         }
       }
@@ -10863,6 +12447,12 @@
             "state" : "translated",
             "value" : "人生のゴールデンタイムに\nあなたが登場しました。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лучшие часы моего дня — те,\nгде есть ты. Золотой час!"
+          }
         }
       }
     },
@@ -10903,6 +12493,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "考えるだけで笑顔になる。\nあなたは自動スマイル装置です。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мысль о тебе включает улыбку\nавтоматически: ты — кнопка счастья."
           }
         }
       }
@@ -10945,6 +12541,12 @@
             "state" : "translated",
             "value" : "心のスイートルーム、\nご案内できるのはあなただけです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Люксовый отель отдыхает: уютнее\nвсего там, где ты."
+          }
         }
       }
     },
@@ -10985,6 +12587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "毎日がプレミアムデーなのは\nあなたのおかげです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Каждый денёк с тобой — как\nвыходной: ты — отпуск без визы."
           }
         }
       }
@@ -11027,6 +12635,12 @@
             "state" : "translated",
             "value" : "人生のメインイベントに\nあなたが登場してしまいました。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Главное событие года — это\nты. Остальное — анонсы."
+          }
         }
       }
     },
@@ -11067,6 +12681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "心臓がダンスを始めました。\nあなたが目に入ったせいです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сердце танцует, когда ты\nрядом, и музыка не нужна."
           }
         }
       }
@@ -11109,6 +12729,12 @@
             "state" : "translated",
             "value" : "画質が4Kになった理由?\nあなたを映しているからです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Для меня ты — ультра-HD:\nвидно каждую деталь счастья."
+          }
         }
       }
     },
@@ -11149,6 +12775,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "世界がきらきらして見える。\nあなたがそこにいるだけで。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мир ярче, когда улыбаешься ты.\nПроверено на практике."
           }
         }
       }
@@ -11191,6 +12823,12 @@
             "state" : "translated",
             "value" : "心の最上級ゲストは\nあなたのために空けてあります。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Особо важный гость моей жизни —\nэто ты, VIP навсегда."
+          }
         }
       }
     },
@@ -11231,6 +12869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一日がとっておきになる、\nあなたの魔法のせいです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "День превращается в праздник —\nэто магия, имя которой ты."
           }
         }
       }
@@ -11273,6 +12917,12 @@
             "state" : "translated",
             "value" : "人生の切り札を探したら\nあなたがそこにいました。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Козырь в моём рукаве —\nэто ты. Лучше джокера."
+          }
         }
       }
     },
@@ -11313,6 +12963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "気分が全部アップグレード。\nあなたを思い浮かべただけで。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настроение растёт до максимума,\nстоит увидеть, что ты онлайн."
           }
         }
       }
@@ -11355,6 +13011,12 @@
             "state" : "translated",
             "value" : "心の殿堂入り第一号は\nあなたです。異論は認めません。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "В зале славы моего сердца\nпервая табличка — ты."
+          }
         }
       }
     },
@@ -11395,6 +13057,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "白黒だった毎日が\nあなたのおかげでフルカラーです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Жизнь расцвела всеми красками:\nэто ты, цветной фильтр судьбы."
           }
         }
       }
@@ -11437,6 +13105,12 @@
             "state" : "translated",
             "value" : "目に映る永遠のレジェンド、\nそれがあなたです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Легенда всех времён и народов —\nэто ты. Учебники уже пишутся."
+          }
         }
       }
     },
@@ -11478,6 +13152,12 @@
             "state" : "translated",
             "value" : "ゆっくり流れる時間さえ、\nあなたがいると宝物になります。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как в замедленной съёмке: на\nэкране только ты, и всё прекрасно."
+          }
         }
       }
     },
@@ -11518,6 +13198,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "人生のプレミアムパスポート、\n持っているのはあなただけです。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Главный приз в моей жизни —\nэто ты. Без лотереи."
           }
         }
       }

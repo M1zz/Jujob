@@ -40,6 +40,12 @@
             "state" : "translated",
             "value" : "今日のほめちぎり"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ода дня"
+          }
         }
       }
     },
@@ -81,6 +87,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今日のほめちぎり"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ода дня"
           }
         }
       }

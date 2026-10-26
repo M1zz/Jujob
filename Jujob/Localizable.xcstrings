@@ -35,6 +35,12 @@
             "state" : "translated",
             "value" : "%lld日"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld дн."
+          }
         }
       }
     },
@@ -68,6 +74,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100個のほめちぎりを味わったあなた、\nもう本物のマスターです!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 од за плечами,\nтеперь ты настоящий мастер!"
           }
         }
       }
@@ -103,6 +115,12 @@
             "state" : "translated",
             "value" : "100日連続でほめちぎりを見ました!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 дней подряд с одами!"
+          }
         }
       }
     },
@@ -136,6 +154,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100日の奇跡! あなたの継続が\n世界を変えました!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чудо 100 дней! Твоя стойкость\nизменила мир!"
           }
         }
       }
@@ -171,6 +195,12 @@
             "state" : "translated",
             "value" : "100日の旅を一緒に歩んだ私たち、\nあなたは本当にすごい人です!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мы вместе уже 100 дней,\nа ты — потрясающий человек!"
+          }
         }
       }
     },
@@ -204,6 +234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15分"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 мин"
           }
         }
       }
@@ -239,6 +275,12 @@
             "state" : "translated",
             "value" : "30分"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 мин"
+          }
         }
       }
     },
@@ -272,6 +314,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "30日連続でほめちぎりを見ました!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 дней подряд с одами!"
           }
         }
       }
@@ -307,6 +355,12 @@
             "state" : "translated",
             "value" : "30日もの間ずっと\n来てくれたあなた、最高です!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Целых 30 дней ты с нами —\nты лучший!"
+          }
         }
       }
     },
@@ -340,6 +394,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "50個のほめちぎりを見届けたあなた、\n情熱がすごいです!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "50 од прочитано,\nвот это увлечённость!"
           }
         }
       }
@@ -375,6 +435,12 @@
             "state" : "translated",
             "value" : "5分"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 мин"
+          }
         }
       }
     },
@@ -409,6 +475,12 @@
             "state" : "translated",
             "value" : "7日連続でほめちぎりを見ました!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7 дней подряд с одами!"
+          }
         }
       }
     },
@@ -442,6 +514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "7日間を一緒に歩んだ私たち、\nこれからもよろしくね!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мы вместе уже неделю,\nи это только начало!"
           }
         }
       }
@@ -483,6 +561,12 @@
             "state" : "translated",
             "value" : "購入を復元"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Восстановить покупки"
+          }
         }
       }
     },
@@ -522,6 +606,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "カテゴリを選択"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбери категорию"
           }
         }
       }
@@ -563,6 +653,12 @@
             "state" : "translated",
             "value" : "フォントを選択"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбери шрифт"
+          }
         }
       }
     },
@@ -602,6 +698,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使い方"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Инструкция"
           }
         }
       }
@@ -643,6 +745,12 @@
             "state" : "translated",
             "value" : "匿名"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аноним"
+          }
         }
       }
     },
@@ -683,6 +791,12 @@
             "state" : "translated",
             "value" : "プレミアム"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Премиум"
+          }
         }
       }
     },
@@ -720,6 +834,12 @@
             "state" : "translated",
             "value" : "開発者に問い合わせ"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Написать разработчику"
+          }
         }
       }
     },
@@ -753,6 +873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "グラデーション色"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цвет градиента"
           }
         }
       }
@@ -788,6 +914,12 @@
             "state" : "translated",
             "value" : "文字色"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цвет текста"
+          }
         }
       }
     },
@@ -821,6 +953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "気分を選ぶ"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбор настроения"
           }
         }
       }
@@ -856,6 +994,12 @@
             "state" : "translated",
             "value" : "気分ダウン"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хандра"
+          }
         }
       }
     },
@@ -889,6 +1033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "気分やシーンに合った\nほめちぎりを選びます!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подберём оду под твоё\nнастроение и ситуацию!"
           }
         }
       }
@@ -924,6 +1074,12 @@
             "state" : "translated",
             "value" : "私の記録"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мои рекорды"
+          }
         }
       }
     },
@@ -958,6 +1114,12 @@
             "state" : "translated",
             "value" : "ほめちぎり管理"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мои оды"
+          }
         }
       }
     },
@@ -991,6 +1153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "次へ"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Следующая ода"
           }
         }
       }
@@ -1027,6 +1195,12 @@
             "state" : "translated",
             "value" : "あなた"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ты"
+          }
         }
       }
     },
@@ -1060,6 +1234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "あなたは十分に\n価値のある人です!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ты — человек,\nкоторый многого стоит!"
           }
         }
       }
@@ -1095,6 +1275,12 @@
             "state" : "translated",
             "value" : "デート前"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перед свиданием"
+          }
         }
       }
     },
@@ -1128,6 +1314,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "やる気アップ"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мотивация"
           }
         }
       }
@@ -1163,6 +1355,12 @@
             "state" : "translated",
             "value" : "ランダム"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Случайно"
+          }
         }
       }
     },
@@ -1196,6 +1394,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "お気に入りのほめちぎりは\n星ボタンで保存しましょう!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажми на звёздочку, чтобы\nсохранить понравившуюся оду!"
           }
         }
       }
@@ -1231,6 +1435,12 @@
             "state" : "translated",
             "value" : "毎日、自分を大好きに"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Люблю себя каждый день"
+          }
         }
       }
     },
@@ -1264,6 +1474,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "面接前"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перед собеседованием"
           }
         }
       }
@@ -1299,6 +1515,12 @@
             "state" : "translated",
             "value" : "プレビュー"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Предпросмотр"
+          }
         }
       }
     },
@@ -1332,6 +1554,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "背景の設定"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки фона"
           }
         }
       }
@@ -1367,6 +1595,12 @@
             "state" : "translated",
             "value" : "背景画像"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фоновое фото"
+          }
         }
       }
     },
@@ -1400,6 +1634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100日達成!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 дней!"
           }
         }
       }
@@ -1435,6 +1675,12 @@
             "state" : "translated",
             "value" : "100日間毎日来てくれたあなた、\n世界でいちばん大切な人です!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 дней — каждый день с нами!\nТы — самый дорогой человек!"
+          }
         }
       }
     },
@@ -1468,6 +1714,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "不具合報告や機能のご提案をお待ちしています。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сообщения об ошибках и идеи приветствуются."
           }
         }
       }
@@ -1503,6 +1755,12 @@
             "state" : "translated",
             "value" : "詳細設定"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тонкая настройка"
+          }
         }
       }
     },
@@ -1536,6 +1794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "更新間隔"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Период обновления"
           }
         }
       }
@@ -1571,6 +1835,12 @@
             "state" : "translated",
             "value" : "試験前"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перед экзаменом"
+          }
         }
       }
     },
@@ -1604,6 +1874,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "朝"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Утро"
           }
         }
       }
@@ -1639,6 +1915,12 @@
             "state" : "translated",
             "value" : "アプリ名が出るまでスクロールしてください。\n「今日のほめちぎり」"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прокрути вниз, пока не появится\nприложение «Ода дня»"
+          }
         }
       }
     },
@@ -1672,6 +1954,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "実績"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Достижения"
           }
         }
       }
@@ -1707,6 +1995,12 @@
             "state" : "translated",
             "value" : "連続記録"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Серия"
+          }
         }
       }
     },
@@ -1740,6 +2034,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今日の気分はどう?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как настроение сегодня?"
           }
         }
       }
@@ -1775,6 +2075,12 @@
             "state" : "translated",
             "value" : "今日もあなたらしく、\nそれがいちばんです!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Будь собой и сегодня —\nэто лучше всего!"
+          }
         }
       }
     },
@@ -1808,6 +2114,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今日のほめちぎり"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ода дня"
           }
         }
       }
@@ -1843,6 +2155,12 @@
             "state" : "translated",
             "value" : "右"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Справа"
+          }
         }
       }
     },
@@ -1876,6 +2194,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "うちの子を落ち込ませないで!\n自分を励ます一言を選んでね!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не обижай нашего хорошего!\nВыбери слова поддержки для себя!"
           }
         }
       }
@@ -1911,6 +2235,12 @@
             "state" : "translated",
             "value" : "左"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Слева"
+          }
         }
       }
     },
@@ -1944,6 +2274,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "運動前"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перед тренировкой"
           }
         }
       }
@@ -1979,6 +2315,12 @@
             "state" : "translated",
             "value" : "ウィジェットの見た目とフォントを細かく調整できます"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настрой вид и шрифт виджета до мелочей"
+          }
         }
       }
     },
@@ -2012,6 +2354,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ウィジェット設定"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки виджета"
           }
         }
       }
@@ -2047,6 +2395,12 @@
             "state" : "translated",
             "value" : "これを使う"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Использовать эту оду"
+          }
         }
       }
     },
@@ -2080,6 +2434,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "名前"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Имя"
           }
         }
       }
@@ -2115,6 +2475,12 @@
             "state" : "translated",
             "value" : "名前の設定"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройка имени"
+          }
         }
       }
     },
@@ -2148,6 +2514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "お名前を教えてください!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как тебя зовут?"
           }
         }
       }
@@ -2183,6 +2555,12 @@
             "state" : "translated",
             "value" : "名前を入力"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Введи имя"
+          }
         }
       }
     },
@@ -2216,6 +2594,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "メールで問い合わせ"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Написать на почту"
           }
         }
       }
@@ -2251,6 +2635,12 @@
             "state" : "translated",
             "value" : "あとはウィジェットのサイズを選んで「ウィジェットを追加」をタップするだけです。"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Осталось выбрать размер виджета и нажать «Добавить виджет»."
+          }
         }
       }
     },
@@ -2284,6 +2674,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instagram DM (@lee25_ios)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Директ в Instagram (@lee25_ios)"
           }
         }
       }
@@ -2319,6 +2715,12 @@
             "state" : "translated",
             "value" : "仕事前"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перед работой"
+          }
         }
       }
     },
@@ -2352,6 +2754,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1週間達成!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Неделя!"
           }
         }
       }
@@ -2387,6 +2795,12 @@
             "state" : "translated",
             "value" : "1週間ずっと来てくれたあなた、\n本当に誇らしいです!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Целую неделю ты с нами —\nмы гордимся тобой!"
+          }
         }
       }
     },
@@ -2420,6 +2834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自信"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Уверенность"
           }
         }
       }
@@ -2455,6 +2875,12 @@
             "state" : "translated",
             "value" : "夜"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вечер"
+          }
         }
       }
     },
@@ -2488,6 +2914,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "保存"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сохранить"
           }
         }
       }
@@ -2523,6 +2955,12 @@
             "state" : "translated",
             "value" : "提案者"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Автор идеи"
+          }
         }
       }
     },
@@ -2556,6 +2994,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ほめちぎりグランドマスター"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гранд-мастер од"
           }
         }
       }
@@ -2591,6 +3035,12 @@
             "state" : "translated",
             "value" : "ほめちぎりマスター"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мастер од"
+          }
         }
       }
     },
@@ -2624,6 +3074,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ほめちぎりウィジェット"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виджет од"
           }
         }
       }
@@ -2659,6 +3115,12 @@
             "state" : "translated",
             "value" : "ほめちぎりの「あなた」を\nお名前に置き換えます!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вместо «ты» в одах\nподставим твоё имя!"
+          }
         }
       }
     },
@@ -2692,6 +3154,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ほめちぎりを見ると\n自動で記録されます!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Просмотренные оды\nзаписываются сами!"
           }
         }
       }
@@ -2727,6 +3195,12 @@
             "state" : "translated",
             "value" : "中央"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "По центру"
+          }
         }
       }
     },
@@ -2760,6 +3234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "お気に入り"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Избранное"
           }
         }
       }
@@ -2795,6 +3275,12 @@
             "state" : "translated",
             "value" : "お気に入りはまだありません"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "В избранном пусто"
+          }
         }
       }
     },
@@ -2828,6 +3314,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "合計100個のほめちぎりを見ました!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Всего просмотрено 100 од!"
           }
         }
       }
@@ -2863,6 +3355,12 @@
             "state" : "translated",
             "value" : "合計50個のほめちぎりを見ました!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Всего просмотрено 50 од!"
+          }
         }
       }
     },
@@ -2896,6 +3394,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "確認した日数"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Всего дней"
           }
         }
       }
@@ -2931,6 +3435,12 @@
             "state" : "translated",
             "value" : "最高記録"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лучшая серия"
+          }
         }
       }
     },
@@ -2964,6 +3474,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "通勤中"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "По дороге на работу"
           }
         }
       }
@@ -2999,6 +3515,12 @@
             "state" : "translated",
             "value" : "帰り道"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "По дороге домой"
+          }
         }
       }
     },
@@ -3032,6 +3554,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "フォント"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Шрифт"
           }
         }
       }
@@ -3067,6 +3595,12 @@
             "state" : "translated",
             "value" : "フォント設定"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки шрифта"
+          }
         }
       }
     },
@@ -3100,6 +3634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1か月達成!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Месяц!"
           }
         }
       }
@@ -3135,6 +3675,12 @@
             "state" : "translated",
             "value" : "1か月を一緒に過ごした私たち、\nあなたは本当に特別な人です!"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мы вместе уже месяц,\nа ты — особенный человек!"
+          }
         }
       }
     },
@@ -3168,6 +3714,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "行間"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Интервал строк"
           }
         }
       }
@@ -3203,6 +3755,12 @@
             "state" : "translated",
             "value" : "現在の連続"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Текущая серия"
+          }
         }
       }
     },
@@ -3236,6 +3794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ホーム画面を長押ししてジグルモードにし、左上または右上の➕をタップします。"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажми и удерживай главный экран, пока значки не задрожат, затем коснись ➕ в левом или правом верхнем углу."
           }
         }
       }
@@ -3271,6 +3835,12 @@
             "state" : "translated",
             "value" : "履歴"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "История"
+          }
         }
       }
     },
@@ -3304,6 +3874,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "履歴はまだありません"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "История пуста"
           }
         }
       }
@@ -3339,6 +3915,12 @@
             "state" : "translated",
             "value" : "癒やし"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отдых"
+          }
         }
       }
     },
@@ -3372,6 +3954,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "つらい時"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Трудный день"
           }
         }
       }
