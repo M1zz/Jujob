@@ -23,6 +23,12 @@
             "state" : "translated",
             "value" : "%lld天"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 天"
+          }
         }
       }
     },
@@ -44,6 +50,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100句彩虹屁全看完的你，\n已是货真价实的大师啦！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 則彩虹屁全都看過的你，\n已經是貨真價實的大師了！"
           }
         }
       }
@@ -67,6 +79,12 @@
             "state" : "translated",
             "value" : "已连续100天查看彩虹屁！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已經連續 100 天看彩虹屁了！"
+          }
         }
       }
     },
@@ -88,6 +106,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "百日奇迹！你的坚持，\n已经改变了世界！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "百日奇蹟！你的堅持\n連世界都被你感動了！"
           }
         }
       }
@@ -111,6 +135,12 @@
             "state" : "translated",
             "value" : "一起走过了神奇的100天，\n你真是太了不起了！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一起走過 100 天的奇妙旅程，\n你真的超級了不起！"
+          }
         }
       }
     },
@@ -132,6 +162,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15分钟"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 分鐘"
           }
         }
       }
@@ -155,6 +191,12 @@
             "state" : "translated",
             "value" : "30分钟"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 分鐘"
+          }
         }
       }
     },
@@ -176,6 +218,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已连续30天查看彩虹屁！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已經連續 30 天看彩虹屁了！"
           }
         }
       }
@@ -199,6 +247,12 @@
             "state" : "translated",
             "value" : "整整30天都准时来报到，\n你真的超棒！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "整整 30 天都準時報到，\n你真的太強了！"
+          }
         }
       }
     },
@@ -220,6 +274,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "50句彩虹屁全部看完，\n你的热情太让人感动啦！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "50 則彩虹屁全都看完的你，\n熱情根本爆表！"
           }
         }
       }
@@ -243,6 +303,12 @@
             "state" : "translated",
             "value" : "5分钟"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 分鐘"
+          }
         }
       }
     },
@@ -265,6 +331,12 @@
             "state" : "translated",
             "value" : "已连续7天查看彩虹屁！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已經連續 7 天看彩虹屁了！"
+          }
         }
       }
     },
@@ -286,6 +358,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一起走过了7天，\n接下来也要继续同行哦！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一起走過 7 天的我們，\n接下來也要繼續作伴喔！"
           }
         }
       }
@@ -315,6 +393,12 @@
             "state" : "translated",
             "value" : "恢复购买"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢復購買項目"
+          }
         }
       }
     },
@@ -342,6 +426,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择分类"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇分類"
           }
         }
       }
@@ -371,6 +461,12 @@
             "state" : "translated",
             "value" : "选择字体"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇字型"
+          }
         }
       }
     },
@@ -399,6 +495,12 @@
             "state" : "translated",
             "value" : "使用教程"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用教學"
+          }
         }
       }
     },
@@ -423,6 +525,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匿名"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "匿名"
@@ -455,6 +563,12 @@
             "state" : "translated",
             "value" : "高级版"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "進階版"
+          }
         }
       }
     },
@@ -480,6 +594,12 @@
             "state" : "translated",
             "value" : "联系开发者"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "聯絡開發者"
+          }
         }
       }
     },
@@ -501,6 +621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "渐变颜色"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "漸層顏色"
           }
         }
       }
@@ -524,6 +650,12 @@
             "state" : "translated",
             "value" : "文字颜色"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文字顏色"
+          }
         }
       }
     },
@@ -546,6 +678,12 @@
             "state" : "translated",
             "value" : "选择心情"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇心情"
+          }
         }
       }
     },
@@ -564,6 +702,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心情低落"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "心情低落"
@@ -590,6 +734,12 @@
             "state" : "translated",
             "value" : "按你的心情和场景，\n挑一句最合适的彩虹屁！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "依照心情或情境，\n幫你挑一句剛剛好的彩虹屁！"
+          }
         }
       }
     },
@@ -611,6 +761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我的记录"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的紀錄"
           }
         }
       }
@@ -634,6 +790,12 @@
             "state" : "translated",
             "value" : "管理我的彩虹屁"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理我的彩虹屁"
+          }
         }
       }
     },
@@ -652,6 +814,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下一句"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "下一句"
@@ -679,6 +847,12 @@
             "state" : "translated",
             "value" : "你"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你"
+          }
         }
       }
     },
@@ -700,6 +874,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你已经足够好，\n是个很有价值的人！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你本來就是\n很有價值的人喔！"
           }
         }
       }
@@ -723,6 +903,12 @@
             "state" : "translated",
             "value" : "约会前"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "約會前"
+          }
         }
       }
     },
@@ -744,6 +930,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "打鸡血"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打氣"
           }
         }
       }
@@ -767,6 +959,12 @@
             "state" : "translated",
             "value" : "随机"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隨機"
+          }
         }
       }
     },
@@ -788,6 +986,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "遇到喜欢的彩虹屁，\n点星标收藏起来吧！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "喜歡的彩虹屁，\n按一下星星就能收藏起來！"
           }
         }
       }
@@ -811,6 +1015,12 @@
             "state" : "translated",
             "value" : "每天都要爱自己"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每天都要好好愛自己"
+          }
         }
       }
     },
@@ -832,6 +1042,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "面试前"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "面試前"
           }
         }
       }
@@ -855,6 +1071,12 @@
             "state" : "translated",
             "value" : "预览"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "預覽"
+          }
         }
       }
     },
@@ -876,6 +1098,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "背景设置"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "背景設定"
           }
         }
       }
@@ -899,6 +1127,12 @@
             "state" : "translated",
             "value" : "背景图片"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "背景圖片"
+          }
         }
       }
     },
@@ -920,6 +1154,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "百日达成！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "百日達成！"
           }
         }
       }
@@ -943,6 +1183,12 @@
             "state" : "translated",
             "value" : "连续一百天天天都来，\n你就是这世上最珍贵的人！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一百天天天來報到的你，\n是這個世界上最珍貴的人！"
+          }
         }
       }
     },
@@ -964,6 +1210,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "欢迎反馈问题、提出建议。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "歡迎回報問題與提供功能建議。"
           }
         }
       }
@@ -987,6 +1239,12 @@
             "state" : "translated",
             "value" : "详细设置"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "進階設定"
+          }
         }
       }
     },
@@ -1008,6 +1266,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "刷新间隔"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新頻率"
           }
         }
       }
@@ -1031,6 +1295,12 @@
             "state" : "translated",
             "value" : "考试前"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "考試前"
+          }
         }
       }
     },
@@ -1052,6 +1322,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "早晨"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "早上"
           }
         }
       }
@@ -1075,6 +1351,12 @@
             "state" : "translated",
             "value" : "向下滑动，直到看到应用名称\n“今日彩虹屁”"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請往下捲動，直到看見 App 名稱。\n「今日彩虹屁」"
+          }
         }
       }
     },
@@ -1093,6 +1375,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "成就"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "成就"
@@ -1119,6 +1407,12 @@
             "state" : "translated",
             "value" : "连续记录"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "連續紀錄"
+          }
         }
       }
     },
@@ -1140,6 +1434,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "今天心情怎么样？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天心情怎麼樣？"
           }
         }
       }
@@ -1163,6 +1463,12 @@
             "state" : "translated",
             "value" : "今天也做你自己，\n这就是最棒的！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天也做你自己，\n這樣就是最棒的！"
+          }
         }
       }
     },
@@ -1181,6 +1487,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日彩虹屁"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "今日彩虹屁"
@@ -1207,6 +1519,12 @@
             "state" : "translated",
             "value" : "靠右"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "靠右"
+          }
         }
       }
     },
@@ -1229,6 +1547,12 @@
             "state" : "translated",
             "value" : "谁欺负我家孩子了！\n挑一句话，好好鼓励自己吧！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不准欺負我們家孩子啦！\n挑一句話來幫自己打打氣吧！"
+          }
         }
       }
     },
@@ -1247,6 +1571,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "靠左"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "靠左"
@@ -1273,6 +1603,12 @@
             "state" : "translated",
             "value" : "运动前"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "運動前"
+          }
         }
       }
     },
@@ -1294,6 +1630,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "精细调整小组件的外观和字体"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "把小工具的外觀和字型調成你喜歡的樣子"
           }
         }
       }
@@ -1317,6 +1659,12 @@
             "state" : "translated",
             "value" : "小组件设置"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小工具設定"
+          }
         }
       }
     },
@@ -1339,6 +1687,12 @@
             "state" : "translated",
             "value" : "就用这句"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "就用這句"
+          }
         }
       }
     },
@@ -1357,6 +1711,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名字"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "名字"
@@ -1383,6 +1743,12 @@
             "state" : "translated",
             "value" : "名字设置"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名字設定"
+          }
         }
       }
     },
@@ -1404,6 +1770,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "告诉我你的名字吧！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "告訴我你的名字吧！"
           }
         }
       }
@@ -1427,6 +1799,12 @@
             "state" : "translated",
             "value" : "请输入名字"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入名字"
+          }
         }
       }
     },
@@ -1448,6 +1826,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "发邮件咨询"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用電子郵件聯絡"
           }
         }
       }
@@ -1471,6 +1855,12 @@
             "state" : "translated",
             "value" : "最后选好小组件尺寸，点“添加小组件”就大功告成啦。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接著選好小工具尺寸，按下「加入小工具」就大功告成囉。"
+          }
         }
       }
     },
@@ -1492,6 +1882,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instagram 私信 (@lee25_ios)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instagram 私訊 (@lee25_ios)"
           }
         }
       }
@@ -1515,6 +1911,12 @@
             "state" : "translated",
             "value" : "开工前"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開工前"
+          }
         }
       }
     },
@@ -1536,6 +1938,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一周达成！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "滿一週達成！"
           }
         }
       }
@@ -1559,6 +1967,12 @@
             "state" : "translated",
             "value" : "一整周都坚持来看，\n真为你骄傲！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "連續一週都來報到的你，\n真的讓人好驕傲！"
+          }
         }
       }
     },
@@ -1577,6 +1991,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自信"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "自信"
@@ -1603,6 +2023,12 @@
             "state" : "translated",
             "value" : "傍晚"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "晚上"
+          }
         }
       }
     },
@@ -1624,6 +2050,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "保存"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲存"
           }
         }
       }
@@ -1647,6 +2079,12 @@
             "state" : "translated",
             "value" : "提议者"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "建議者"
+          }
         }
       }
     },
@@ -1668,6 +2106,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "彩虹屁宗师"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "彩虹屁大宗師"
           }
         }
       }
@@ -1691,6 +2135,12 @@
             "state" : "translated",
             "value" : "彩虹屁大师"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "彩虹屁大師"
+          }
         }
       }
     },
@@ -1712,6 +2162,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "彩虹屁小组件"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "彩虹屁小工具"
           }
         }
       }
@@ -1735,6 +2191,12 @@
             "state" : "translated",
             "value" : "把彩虹屁里的“你”，\n换成你的名字！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "彩虹屁裡的「你」\n會換成你的名字喔！"
+          }
         }
       }
     },
@@ -1756,6 +2218,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "看过的彩虹屁，\n会自动记下来！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "看過的彩虹屁\n會自動幫你記錄！"
           }
         }
       }
@@ -1779,6 +2247,12 @@
             "state" : "translated",
             "value" : "居中"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "置中"
+          }
         }
       }
     },
@@ -1800,6 +2274,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "收藏"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的最愛"
           }
         }
       }
@@ -1823,6 +2303,12 @@
             "state" : "translated",
             "value" : "还没有收藏"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的最愛還是空的喔"
+          }
         }
       }
     },
@@ -1844,6 +2330,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "累计查看了100句彩虹屁！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "總共看過 100 則彩虹屁了！"
           }
         }
       }
@@ -1867,6 +2359,12 @@
             "state" : "translated",
             "value" : "累计查看了50句彩虹屁！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "總共看過 50 則彩虹屁了！"
+          }
         }
       }
     },
@@ -1888,6 +2386,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "累计天数"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "累計天數"
           }
         }
       }
@@ -1911,6 +2415,12 @@
             "state" : "translated",
             "value" : "最长记录"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最佳紀錄"
+          }
         }
       }
     },
@@ -1929,6 +2439,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上班路上"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "上班路上"
@@ -1955,6 +2471,12 @@
             "state" : "translated",
             "value" : "下班路上"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下班路上"
+          }
         }
       }
     },
@@ -1976,6 +2498,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "字体"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字型"
           }
         }
       }
@@ -1999,6 +2527,12 @@
             "state" : "translated",
             "value" : "字体设置"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字型設定"
+          }
         }
       }
     },
@@ -2020,6 +2554,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "满月达成！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "滿一個月達成！"
           }
         }
       }
@@ -2043,6 +2583,12 @@
             "state" : "translated",
             "value" : "一起度过了一个月，\n你真是个特别的人！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一起走過一個月的我們，\n你真的是很特別的人！"
+          }
         }
       }
     },
@@ -2061,6 +2607,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "行距"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "行距"
@@ -2087,6 +2639,12 @@
             "state" : "translated",
             "value" : "当前连续"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目前連續"
+          }
         }
       }
     },
@@ -2108,6 +2666,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "长按主屏幕进入编辑模式，再点左上角或右上角的 ➕。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "長按主畫面進入編輯模式，再點一下右上角或左上角的 ➕。"
           }
         }
       }
@@ -2131,6 +2695,12 @@
             "state" : "translated",
             "value" : "历史记录"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "歷史紀錄"
+          }
         }
       }
     },
@@ -2152,6 +2722,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "还没有历史记录"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "還沒有歷史紀錄喔"
           }
         }
       }
@@ -2175,6 +2751,12 @@
             "state" : "translated",
             "value" : "治愈"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "療癒"
+          }
         }
       }
     },
@@ -2196,6 +2778,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "难过的时候"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心累時"
           }
         }
       }

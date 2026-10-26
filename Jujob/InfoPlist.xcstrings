@@ -28,6 +28,12 @@
             "state" : "translated",
             "value" : "今日彩虹屁"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日彩虹屁"
+          }
         }
       }
     },
@@ -54,6 +60,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日彩虹屁"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "今日彩虹屁"
