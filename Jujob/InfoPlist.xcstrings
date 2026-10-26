@@ -118,6 +118,12 @@
             "state" : "translated",
             "value" : "Pujian Lebay Harian"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens skryt"
+          }
         }
       }
     },
@@ -237,6 +243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pujian Lebay Harian"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens skryt"
           }
         }
       }

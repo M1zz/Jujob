@@ -113,6 +113,12 @@
             "state" : "translated",
             "value" : "%lld hari"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld dager"
+          }
         }
       }
     },
@@ -224,6 +230,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Udah 100 pujian lebay kamu lahap habis,\nsekarang kamu resmi jadi master!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle 100 skryt er sett,\nså nå er du en ekte mester!"
           }
         }
       }
@@ -337,6 +349,12 @@
             "state" : "translated",
             "value" : "100 hari berturut-turut kamu cek pujiannya!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 dager på rad med dagens skryt!"
+          }
         }
       }
     },
@@ -448,6 +466,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Keajaiban 100 hari! Konsistensi kamu\nudah mengubah dunia!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 dagers under! Utholdenheten din\nhar forandret verden!"
           }
         }
       }
@@ -561,6 +585,12 @@
             "state" : "translated",
             "value" : "100 hari perjalanan seru bareng-bareng,\nkamu tuh orang yang luar biasa!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 dager sammen,\nog du er rett og slett eksepsjonell!"
+          }
         }
       }
     },
@@ -672,6 +702,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 menit"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 min"
           }
         }
       }
@@ -785,6 +821,12 @@
             "state" : "translated",
             "value" : "30 menit"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 min"
+          }
         }
       }
     },
@@ -896,6 +938,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "30 hari berturut-turut kamu cek pujiannya!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 dager på rad med dagens skryt!"
           }
         }
       }
@@ -1009,6 +1057,12 @@
             "state" : "translated",
             "value" : "Sebulan penuh kamu setia mampir,\nkamu juara banget!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 dager, og du bare fortsetter\nå komme tilbake. Helt topp!"
+          }
         }
       }
     },
@@ -1120,6 +1174,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Udah 50 pujian kamu baca semua,\nsemangat banget kamu!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle 50 skryt er sett,\nså engasjert du er!"
           }
         }
       }
@@ -1233,6 +1293,12 @@
             "state" : "translated",
             "value" : "5 menit"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 min"
+          }
         }
       }
     },
@@ -1345,6 +1411,12 @@
             "state" : "translated",
             "value" : "7 hari berturut-turut kamu cek pujiannya!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7 dager på rad med dagens skryt!"
+          }
         }
       }
     },
@@ -1456,6 +1528,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tujuh hari udah kita lewati bareng,\nlanjut terus ya!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En hel uke sammen,\nher skal vi fortsette!"
           }
         }
       }
@@ -1575,6 +1653,12 @@
             "state" : "translated",
             "value" : "Pulihkan Pembelian"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gjenopprett kjøp"
+          }
         }
       }
     },
@@ -1692,6 +1776,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pilih Kategori"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velg kategori"
           }
         }
       }
@@ -1811,6 +1901,12 @@
             "state" : "translated",
             "value" : "Pilih Font"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velg skrifttype"
+          }
         }
       }
     },
@@ -1928,6 +2024,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tutorial"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veiledning"
           }
         }
       }
@@ -2047,6 +2149,12 @@
             "state" : "translated",
             "value" : "Anonim"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "anonym"
+          }
         }
       }
     },
@@ -2165,6 +2273,12 @@
             "state" : "translated",
             "value" : "Premium"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "premium"
+          }
         }
       }
     },
@@ -2280,6 +2394,12 @@
             "state" : "translated",
             "value" : "Hubungi Developer"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontakt utvikleren"
+          }
         }
       }
     },
@@ -2391,6 +2511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Warna Gradasi"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fargegradient"
           }
         }
       }
@@ -2504,6 +2630,12 @@
             "state" : "translated",
             "value" : "Warna Teks"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tekstfarge"
+          }
         }
       }
     },
@@ -2615,6 +2747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pilih Mood"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velg humør"
           }
         }
       }
@@ -2728,6 +2866,12 @@
             "state" : "translated",
             "value" : "Mood Turun"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nedtur"
+          }
         }
       }
     },
@@ -2839,6 +2983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aku pilihin pujian lebay yang\ncocok sama mood atau situasimu!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg finner skryt som passer\nhumøret og situasjonen din!"
           }
         }
       }
@@ -2952,6 +3102,12 @@
             "state" : "translated",
             "value" : "Rekorku"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min statistikk"
+          }
         }
       }
     },
@@ -3064,6 +3220,12 @@
             "state" : "translated",
             "value" : "Kelola Pujianku"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mine skryt"
+          }
         }
       }
     },
@@ -3175,6 +3337,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pujian Berikutnya"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neste skryt"
           }
         }
       }
@@ -3289,6 +3457,12 @@
             "state" : "translated",
             "value" : "kamu"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "du"
+          }
         }
       }
     },
@@ -3400,6 +3574,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kamu itu udah lebih dari cukup,\nberharga banget, tau!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du er god nok\nog verdt hele greia!"
           }
         }
       }
@@ -3513,6 +3693,12 @@
             "state" : "translated",
             "value" : "Sebelum Kencan"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Før daten"
+          }
         }
       }
     },
@@ -3624,6 +3810,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Motivasi"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motivasjon"
           }
         }
       }
@@ -3737,6 +3929,12 @@
             "state" : "translated",
             "value" : "Acak"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilfeldig"
+          }
         }
       }
     },
@@ -3848,6 +4046,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ketuk tombol bintang buat\nnyimpen pujian favoritmu!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trykk på stjernen for å\nlagre skryt du liker!"
           }
         }
       }
@@ -3961,6 +4165,12 @@
             "state" : "translated",
             "value" : "Sayangi diri sendiri tiap hari"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elsk deg selv hver dag"
+          }
         }
       }
     },
@@ -4072,6 +4282,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sebelum Wawancara"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Før intervjuet"
           }
         }
       }
@@ -4185,6 +4401,12 @@
             "state" : "translated",
             "value" : "Pratinjau"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forhåndsvisning"
+          }
         }
       }
     },
@@ -4296,6 +4518,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Atur Latar"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bakgrunn"
           }
         }
       }
@@ -4409,6 +4637,12 @@
             "state" : "translated",
             "value" : "Gambar Latar"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bakgrunnsbilde"
+          }
         }
       }
     },
@@ -4520,6 +4754,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 Hari Tercapai!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 dager!"
           }
         }
       }
@@ -4633,6 +4873,12 @@
             "state" : "translated",
             "value" : "Seratus hari kamu mampir tiap hari,\nkamu orang paling berharga sedunia!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hver eneste dag i 100 dager,\nog du er helt uvurderlig!"
+          }
         }
       }
     },
@@ -4744,6 +4990,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lapor bug atau kasih saran fitur? Boleh banget!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meld fra om feil og foreslå gjerne nye funksjoner."
           }
         }
       }
@@ -4857,6 +5109,12 @@
             "state" : "translated",
             "value" : "Pengaturan Lanjutan"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avanserte innstillinger"
+          }
         }
       }
     },
@@ -4968,6 +5226,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Interval Refresh"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oppdateringsintervall"
           }
         }
       }
@@ -5081,6 +5345,12 @@
             "state" : "translated",
             "value" : "Sebelum Ujian"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Før eksamen"
+          }
         }
       }
     },
@@ -5192,6 +5462,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pagi"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morgen"
           }
         }
       }
@@ -5305,6 +5581,12 @@
             "state" : "translated",
             "value" : "Gulir sampai nama aplikasinya muncul.\n\"Pujian Lebay Harian\""
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bla til du finner appnavnet.\n\"Dagens skryt\""
+          }
         }
       }
     },
@@ -5416,6 +5698,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pencapaian"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prestasjoner"
           }
         }
       }
@@ -5529,6 +5817,12 @@
             "state" : "translated",
             "value" : "Rekor Beruntun"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagsrekke"
+          }
         }
       }
     },
@@ -5640,6 +5934,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gimana mood kamu hari ini?"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvordan har du det i dag?"
           }
         }
       }
@@ -5753,6 +6053,12 @@
             "state" : "translated",
             "value" : "Hari ini jadi diri kamu sendiri aja,\nitu udah yang terbaik!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vær deg selv i dag også,\nfor det er best!"
+          }
         }
       }
     },
@@ -5864,6 +6170,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pujian Lebay Harian"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens skryt"
           }
         }
       }
@@ -5977,6 +6289,12 @@
             "state" : "translated",
             "value" : "Kanan"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Høyre"
+          }
         }
       }
     },
@@ -6088,6 +6406,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eh, jangan bikin anak kita minder dong!\nPilih satu kalimat buat menyemangati dirimu!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hei, ikke slå ned på barnet mitt!\nVelg noe pent å si til deg selv!"
           }
         }
       }
@@ -6201,6 +6525,12 @@
             "state" : "translated",
             "value" : "Kiri"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Venstre"
+          }
         }
       }
     },
@@ -6312,6 +6642,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sebelum Olahraga"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Før treningen"
           }
         }
       }
@@ -6425,6 +6761,12 @@
             "state" : "translated",
             "value" : "Atur tampilan dan font widget sesuka hati"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finjuster utseendet og skrifttypen på widgeten"
+          }
         }
       }
     },
@@ -6536,6 +6878,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pengaturan Widget"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget-innstillinger"
           }
         }
       }
@@ -6649,6 +6997,12 @@
             "state" : "translated",
             "value" : "Pakai Pujian Ini"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bruk dette skrytet"
+          }
         }
       }
     },
@@ -6760,6 +7114,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nama"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Navn"
           }
         }
       }
@@ -6873,6 +7233,12 @@
             "state" : "translated",
             "value" : "Atur Nama"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Angi navn"
+          }
         }
       }
     },
@@ -6984,6 +7350,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kasih tahu namamu, dong!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hva heter du?"
           }
         }
       }
@@ -7097,6 +7469,12 @@
             "state" : "translated",
             "value" : "Masukkan namamu"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skriv inn navnet ditt"
+          }
         }
       }
     },
@@ -7208,6 +7586,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tanya lewat Email"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send e-post"
           }
         }
       }
@@ -7321,6 +7705,12 @@
             "state" : "translated",
             "value" : "Tinggal pilih ukuran widget, lalu ketuk tombol \"Tambah Widget\"."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velg widget-størrelse og trykk på «Legg til widget»."
+          }
         }
       }
     },
@@ -7432,6 +7822,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "DM Instagram (@lee25_ios)"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instagram-DM (@lee25_ios)"
           }
         }
       }
@@ -7545,6 +7941,12 @@
             "state" : "translated",
             "value" : "Sebelum Kerja"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Før jobb"
+          }
         }
       }
     },
@@ -7656,6 +8058,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seminggu Tercapai!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En uke!"
           }
         }
       }
@@ -7769,6 +8177,12 @@
             "state" : "translated",
             "value" : "Seminggu penuh kamu rajin mampir,\nbangga banget sama kamu!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hele uken har du kommet innom,\nså stolt jeg er av deg!"
+          }
         }
       }
     },
@@ -7880,6 +8294,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Percaya Diri"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selvtillit"
           }
         }
       }
@@ -7993,6 +8413,12 @@
             "state" : "translated",
             "value" : "Malam"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kveld"
+          }
         }
       }
     },
@@ -8104,6 +8530,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Simpan"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagre"
           }
         }
       }
@@ -8217,6 +8649,12 @@
             "state" : "translated",
             "value" : "Pengusul"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foreslått av"
+          }
         }
       }
     },
@@ -8328,6 +8766,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Grand Master Lebay"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stormester i skryt"
           }
         }
       }
@@ -8441,6 +8885,12 @@
             "state" : "translated",
             "value" : "Master Lebay"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skrytemester"
+          }
         }
       }
     },
@@ -8552,6 +9002,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widget Lebay"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skryt-widget"
           }
         }
       }
@@ -8665,6 +9121,12 @@
             "state" : "translated",
             "value" : "Aku ganti 'kamu' di pujian\ndengan namamu!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg bytter ut «du» i skrytene\nmed navnet ditt!"
+          }
         }
       }
     },
@@ -8776,6 +9238,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tiap kamu lihat pujiannya,\notomatis tercatat di sini!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du ser et skryt,\nlagres det automatisk!"
           }
         }
       }
@@ -8889,6 +9357,12 @@
             "state" : "translated",
             "value" : "Tengah"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Midten"
+          }
         }
       }
     },
@@ -9000,6 +9474,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Favorit"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favoritter"
           }
         }
       }
@@ -9113,6 +9593,12 @@
             "state" : "translated",
             "value" : "Favorit masih kosong"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen favoritter ennå"
+          }
         }
       }
     },
@@ -9224,6 +9710,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Total 100 pujian udah kamu baca!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har sett 100 skryt totalt!"
           }
         }
       }
@@ -9337,6 +9829,12 @@
             "state" : "translated",
             "value" : "Total 50 pujian udah kamu baca!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har sett 50 skryt totalt!"
+          }
         }
       }
     },
@@ -9448,6 +9946,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Total Hari Cek"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dager totalt"
           }
         }
       }
@@ -9561,6 +10065,12 @@
             "state" : "translated",
             "value" : "Rekor Terbaik"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beste rekke"
+          }
         }
       }
     },
@@ -9672,6 +10182,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Berangkat Kerja"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På vei til jobb"
           }
         }
       }
@@ -9785,6 +10301,12 @@
             "state" : "translated",
             "value" : "Pulang Kerja"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På vei hjem"
+          }
         }
       }
     },
@@ -9896,6 +10418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Font"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skrift"
           }
         }
       }
@@ -10009,6 +10537,12 @@
             "state" : "translated",
             "value" : "Pengaturan Font"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skriftinnstillinger"
+          }
         }
       }
     },
@@ -10120,6 +10654,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sebulan Tercapai!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En måned!"
           }
         }
       }
@@ -10233,6 +10773,12 @@
             "state" : "translated",
             "value" : "Sebulan bareng-bareng, kamu\nbener-bener orang yang spesial!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En hel måned sammen,\nog du er helt spesiell!"
+          }
         }
       }
     },
@@ -10344,6 +10890,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jarak Baris"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Linjeavstand"
           }
         }
       }
@@ -10457,6 +11009,12 @@
             "state" : "translated",
             "value" : "Beruntun Saat Ini"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nåværende rekke"
+          }
         }
       }
     },
@@ -10568,6 +11126,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tahan layar utama sampai ikon bergoyang, lalu ketuk ➕ di pojok kiri atau kanan atas."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trykk og hold på hjemskjermen til ikonene vingler, og trykk på ➕ øverst til høyre eller venstre."
           }
         }
       }
@@ -10681,6 +11245,12 @@
             "state" : "translated",
             "value" : "Riwayat"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historikk"
+          }
         }
       }
     },
@@ -10792,6 +11362,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Riwayat masih kosong"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historikken er tom"
           }
         }
       }
@@ -10905,6 +11481,12 @@
             "state" : "translated",
             "value" : "Healing"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kos"
+          }
         }
       }
     },
@@ -11016,6 +11598,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lagi Berat"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når det er tungt"
           }
         }
       }

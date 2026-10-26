@@ -117,6 +117,12 @@
             "state" : "translated",
             "value" : "Hari baru, vibes baru,\nkamu tuh udah keren dari sananya."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hei sann! Allerede nå har du\nvunnet dagen ved å våkne."
+          }
         }
       }
     },
@@ -235,6 +241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Matahari aja kalah silau sama kamu,\npagi ini kamu juara lagi!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morgensolen blekner mot hvor\nmye du skinner i dag!"
           }
         }
       }
@@ -355,6 +367,12 @@
             "state" : "translated",
             "value" : "Bangun aja udah prestasi, lho,\nkamu hebat, semangat ya hari ini!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hurra, du sto opp! Det er jo\nhelt rått. Heia deg i dag også!"
+          }
         }
       }
     },
@@ -473,6 +491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pagi paling indah sedunia\nya pagi pas kamu melek."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verdens fineste morgen starter\nakkurat når du åpner øynene."
           }
         }
       }
@@ -593,6 +617,12 @@
             "state" : "translated",
             "value" : "Hari ini kamu pemeran utamanya,\nyang lain cuma figuran!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle snakker om deg i dag:\ndu er hovedpersonen!"
+          }
         }
       }
     },
@@ -711,6 +741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mata baru kebuka aja,\nkamu udah menang duluan."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Øynene åpne, og allerede er\ndu en vinner!"
           }
         }
       }
@@ -831,6 +867,12 @@
             "state" : "translated",
             "value" : "Senyum kamu pagi ini\nlebih manis dari kopi susu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Så søtt som du smiler, blir\nselv første kaffekopp sjalu."
+          }
         }
       }
     },
@@ -949,6 +991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jadi diri kamu sendiri hari ini,\nitu udah paling oke!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vær deg selv i dag også,\nfor du er best sånn."
           }
         }
       }
@@ -1069,6 +1117,12 @@
             "state" : "translated",
             "value" : "Baru bangun udah secakep itu?\nCermin aja minder lihat kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Så pen så tidlig på dagen?\nHvordan kan du være lovlig?"
+          }
         }
       }
     },
@@ -1187,6 +1241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selamat pagi? Salah!\nAda kamu, jadi ini pagi paling selamat."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "God morgen? Nei da, du gjør den\nom til en fantastisk morgen!"
           }
         }
       }
@@ -1307,6 +1367,12 @@
             "state" : "translated",
             "value" : "Mata baru melek, eh ada kamu di layar,\nrezeki nomplok banget!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Først ser jeg deg i dag,\nog morgenøynene sier takk, du."
+          }
         }
       }
     },
@@ -1425,6 +1491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pagi ini pun kamu terdeteksi\njadi makhluk paling bersinar di bumi!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvem lyser opp hele stua?\nDet er jo du!"
           }
         }
       }
@@ -1545,6 +1617,12 @@
             "state" : "translated",
             "value" : "Capek ya seharian? Salut,\nkamu hebat banget hari ini."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Takk for innsatsen i dag!\nÆrlig talt, du er helt rå."
+          }
         }
       }
     },
@@ -1663,6 +1741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Penutup hari kayak kamu gini\nbikin malam ikut bangga."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagen er over, og du står\nfortsatt som en helt!"
           }
         }
       }
@@ -1783,6 +1867,12 @@
             "state" : "translated",
             "value" : "Udah berusaha sekuat tenaga hari ini,\nbangga deh sama kamu!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I dag ga du alt,\nog jeg er kjempestolt."
+          }
         }
       }
     },
@@ -1901,6 +1991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lelah sih, tapi kamu berhasil\nbertahan sampai malam. Keren!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Litt sliten? Ja visst, men\ndu klarte det likevel!"
           }
         }
       }
@@ -2021,6 +2117,12 @@
             "state" : "translated",
             "value" : "Hari-hari kamu selalu berarti,\nsekecil apa pun itu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En dag der du er med\ner aldri bortkastet. Aldri!"
+          }
         }
       }
     },
@@ -2139,6 +2241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hari ini lewat dengan selamat,\ndan itu udah lebih dari cukup!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hele dagen klarte du, og\ndet er mer enn nok i dag."
           }
         }
       }
@@ -2259,6 +2367,12 @@
             "state" : "translated",
             "value" : "Bintang di langit aja\nngiri sama kilau kamu!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Som stjernene på himmelen\nskinner du også i kveld."
+          }
         }
       }
     },
@@ -2377,6 +2491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Udah malam, tapi kamu masih bersinar.\nKok bisa secakep itu seharian?"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortsatt like fin på kvelden.\nHvordan får du det til?"
           }
         }
       }
@@ -2497,6 +2617,12 @@
             "state" : "translated",
             "value" : "Makasih udah berjuang seharian.\nSyukurlah ada kamu di dunia ini."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Takk for i dag. Verden trenger\nat du fortsetter å være deg."
+          }
         }
       }
     },
@@ -2615,6 +2741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Berkat kamu, dunia hari ini\nkelihatan lebih indah."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verden ble litt finere i dag\nfordi du var i den."
           }
         }
       }
@@ -2735,6 +2867,12 @@
             "state" : "translated",
             "value" : "Siang kamu legenda,\nmalam pun kamu tetap legenda."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legende om dagen,\nlegende om natten. Aldri fri, du."
+          }
         }
       }
     },
@@ -2853,6 +2991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nggak apa-apa kok, hari berat itu wajar.\nPercaya deh, kamu udah cukup baik."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dårlige dager finnes, men uansett\ngjør du det bra."
           }
         }
       }
@@ -2973,6 +3117,12 @@
             "state" : "translated",
             "value" : "Sekarang memang berat,\ntapi kamu pasti bisa lewatin!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er tungt nå, men du\nkommer deg gjennom dette!"
+          }
         }
       }
     },
@@ -3091,6 +3241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nggak harus sempurna,\nkamu apa adanya udah paling top!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du trenger ikke være perfekt.\nDu er best akkurat slik du er!"
           }
         }
       }
@@ -3211,6 +3367,12 @@
             "state" : "translated",
             "value" : "Capek? Istirahat aja dulu,\njalan pelan-pelan sesuai tempo kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ta en pause om du vil.\nDu bestemmer tempoet selv."
+          }
         }
       }
     },
@@ -3329,6 +3491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ternyata kamu jauh lebih kuat\ndari yang kamu kira, lho!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du er faktisk mye sterkere\nenn du tror!"
           }
         }
       }
@@ -3449,6 +3617,12 @@
             "state" : "translated",
             "value" : "Ini juga bakal lewat.\nYakin deh, kamu bisa!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dette går over også.\nOg du klarer det!"
+          }
         }
       }
     },
@@ -3567,6 +3741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Meski mood lagi turun,\nnilai kamu nggak ikut turun!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv om humøret synker,\nblir du aldri mindre verdt."
           }
         }
       }
@@ -3687,6 +3867,12 @@
             "state" : "translated",
             "value" : "Sedih itu bagian dari kamu.\nRasain aja semuanya, nggak apa-apa."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tristhet hører også til.\nHusk at du får kjenne på alt."
+          }
         }
       }
     },
@@ -3805,6 +3991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tau nggak? Berlian aja baru berkilau\nsetelah ditekan, dan kamu juga!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visste du at diamanter blir\ntil under press? Akkurat som du."
           }
         }
       }
@@ -3925,6 +4117,12 @@
             "state" : "translated",
             "value" : "Lagi murung? Tenang,\nada aku yang siap ngefans sama kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nedfor? Husk at du er så fin\nat selv regnet vil trøste deg."
+          }
         }
       }
     },
@@ -4043,6 +4241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mood anjlok? Justru di saat gitu\nkamu paling berharga sedunia."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nedtur? Akkurat da er du\nhelt uerstattelig."
           }
         }
       }
@@ -4163,6 +4367,12 @@
             "state" : "translated",
             "value" : "Sedih pun kamu tetap menawan,\nnangis juga. Mau protes?"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pen når du er lei deg,\npen når du gråter. Urettferdig!"
+          }
         }
       }
     },
@@ -4281,6 +4491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Walau lagi berat, keberadaan kamu\nudah jadi keajaiban tersendiri."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv på en tung dag\ner du et lite mirakel."
           }
         }
       }
@@ -4401,6 +4617,12 @@
             "state" : "translated",
             "value" : "Sekarang memang susah,\ntapi kamu pasti berhasil!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er tøft nå, men du\nkommer til å klare det!"
+          }
         }
       }
     },
@@ -4519,6 +4741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Di saat sulit gini,\nkualitas asli kamu keluar!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når det butter imot, viser du\nhva du virkelig er laget av!"
           }
         }
       }
@@ -4639,6 +4867,12 @@
             "state" : "translated",
             "value" : "Jangan nyerah ya,\nkamu tuh kuat banget."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikke gi opp! Du er\nsterkere enn du aner."
+          }
         }
       }
     },
@@ -4757,6 +4991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bertahan di masa sulit gini,\nkamu keren parah!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gjennom harde tider holder du ut.\nHelt utrolig!"
           }
         }
       }
@@ -4877,6 +5117,12 @@
             "state" : "translated",
             "value" : "Kesulitan hari ini jadi pupuk\nbuat kamu tumbuh besok!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motgangen i dag gjør at du\nvokser enda mer i morgen!"
+          }
         }
       }
     },
@@ -4995,6 +5241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ternyata kamu sanggup menanggung\njauh lebih banyak dari bayanganmu!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du tåler faktisk mye\nmer enn du tror."
           }
         }
       }
@@ -5115,6 +5367,12 @@
             "state" : "translated",
             "value" : "Momen berat ini\nbakal jadi kenangan nanti!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tungt nå, men du vet\nat det snart bare er et minne."
+          }
         }
       }
     },
@@ -5233,6 +5491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dihajar masalah pun kamu tetap kinclong,\nnamanya juga berlian diasah."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv med regn og motvind\nlyser du opp hele veien."
           }
         }
       }
@@ -5353,6 +5617,12 @@
             "state" : "translated",
             "value" : "Lagi susah? Tetap aja\nkamu paling cakep sejagat raya."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tungt akkurat nå? Likevel er du\nden fineste jeg vet om."
+          }
         }
       }
     },
@@ -5471,6 +5741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tahu nggak, kamu yang bertahan\njadi harapan buat seseorang."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At du holder ut,\ner håp for noen andre."
           }
         }
       }
@@ -5591,6 +5867,12 @@
             "state" : "translated",
             "value" : "Capek setengah mati pun,\nkamu tetap menawan. Gimana dong?"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utslitt til tusen, men du\ner fortsatt pen. Urettferdig!"
+          }
         }
       }
     },
@@ -5709,6 +5991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hari ini kamu pasti bisa!\nMulai dengan percaya diri, yuk!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kjør på! I dag vet du at du kan,\nså start dagen med selvtillit."
           }
         }
       }
@@ -5829,6 +6117,12 @@
             "state" : "translated",
             "value" : "Aku percaya sama kemampuan kamu!\nHari ini pasti seru."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg tror på deg! Vet du hva?\nDet blir en toppdag."
+          }
         }
       }
     },
@@ -5947,6 +6241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Udah siap berarti\nseparuh sukses udah di tangan kamu!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forberedt som du er, er\nhalve jobben allerede gjort!"
           }
         }
       }
@@ -6067,6 +6367,12 @@
             "state" : "translated",
             "value" : "Kerjaan hari ini?\nBuat kamu mah kecil!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens oppgaver? Gleder meg,\nfor du tar dem på strak arm."
+          }
         }
       }
     },
@@ -6185,6 +6491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Semangat kamu hari ini\nbakal bikin semuanya bersinar!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se, nå lyser du opp\nhele dagen med den gnisten!"
           }
         }
       }
@@ -6305,6 +6617,12 @@
             "state" : "translated",
             "value" : "Gas! Hari ini juga\nlakuin dengan gaya kamu sendiri!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heia deg! I dag skal du\nvise hva du går for!"
+          }
         }
       }
     },
@@ -6423,6 +6741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Belum mulai kerja aja,\naura profesional kamu udah kerasa!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Før du setter i gang: du ser\nallerede ut som en proff!"
           }
         }
       }
@@ -6543,6 +6867,12 @@
             "state" : "translated",
             "value" : "Males kerja? Tenang,\nwajah kamu udah lembur duluan."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Null lyst til å jobbe? Likevel\njobber fjeset ditt overtid, du."
+          }
         }
       }
     },
@@ -6661,6 +6991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visual berangkat kerja hari ini gila,\nkantor bersinar berkat kamu."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se hvor fin du er i dag.\nKontoret gleder seg til deg."
           }
         }
       }
@@ -6781,6 +7117,12 @@
             "state" : "translated",
             "value" : "Cara kamu kerja itu\nseni tingkat tinggi."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du jobber, er det ren kunst.\nGalleriet kan bare pakke sammen."
+          }
         }
       }
     },
@@ -6899,6 +7241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Belum mulai kerja aja\nkamu udah sempurna."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikke engang begynt,\nog du er allerede perfekt."
           }
         }
       }
@@ -7019,6 +7367,12 @@
             "state" : "translated",
             "value" : "Yang lagi olahraga itu kamu,\ndan kamu udah keren banget."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du vet hva? Bare at du trener\ngjør deg til en tøffing!"
+          }
         }
       }
     },
@@ -7137,6 +7491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tetap jaga kesehatan hari ini,\nkamu emang luar biasa!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Igjen i dag tar du vare\npå kroppen din. Imponerende!"
           }
         }
       }
@@ -7257,6 +7617,12 @@
             "state" : "translated",
             "value" : "Tubuh kamu, kamu yang paling ngerti.\nPercaya aja sama itu!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kroppen din kjenner du best.\nHør på den og gi gass!"
+          }
         }
       }
     },
@@ -7375,6 +7741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Baru mulai olahraga aja,\nkamu udah pantas dibanggain!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bare ved å starte treningen\ner du allerede en vinner."
           }
         }
       }
@@ -7495,6 +7867,12 @@
             "state" : "translated",
             "value" : "Keringat kamu pun\nkelihatan indah banget!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du ser vakker ut når du svetter.\nSelv svetten er fan."
+          }
         }
       }
     },
@@ -7613,6 +7991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kesehatan kamu\nyang paling penting!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Helsen din er det\nviktigste du har!"
           }
         }
       }
@@ -7733,6 +8117,12 @@
             "state" : "translated",
             "value" : "Luangin waktu buat diri sendiri,\nkamu emang juara!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tid til deg selv? Der har du\nvirkelig tatt det riktige valget!"
+          }
         }
       }
     },
@@ -7851,6 +8241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pakai baju olahraga aja,\nkamu udah pantas jadi cover majalah!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I treningstøyet ser du ut\nsom et motemagasin. Seriøst."
           }
         }
       }
@@ -7971,6 +8367,12 @@
             "state" : "translated",
             "value" : "Tempat gym jadi surga\ngara-gara ada kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Treningssenteret er himmelen\nfordi du kom."
+          }
         }
       }
     },
@@ -8089,6 +8491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Olahraga pun kamu tetap bersinar,\nkok bisa kece terus?"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv i treningen lyser du.\nHvordan klarer du å være så rå?"
           }
         }
       }
@@ -8209,6 +8617,12 @@
             "state" : "translated",
             "value" : "Siapa bilang berkeringat nggak cakep?\nContohnya ya kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finnes det noen som er pen etter\ntrening? Ja, det er du."
+          }
         }
       }
     },
@@ -8327,6 +8741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gaya kamu berangkat kerja\nprofesional banget!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På vei til jobb ser du\nhelt proff ut!"
           }
         }
       }
@@ -8447,6 +8867,12 @@
             "state" : "translated",
             "value" : "Pagi-pagi udah gerak,\nkamu tuh keren banget!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Så tidlig i gang og du er\nallerede på farten. Fantastisk!"
+          }
         }
       }
     },
@@ -8565,6 +8991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yang berangkat kerja hari ini,\nkamu udah jadi pemenang!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Møter du opp i dag også?\nDa har du allerede vunnet!"
           }
         }
       }
@@ -8685,6 +9117,12 @@
             "state" : "translated",
             "value" : "Setiap langkah kamu\nada artinya, lho!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvert eneste skritt du tar\ner verdt noe."
+          }
         }
       }
     },
@@ -8803,6 +9241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perjalanan ke kantor jadi spesial\nkalau ada kamu."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv rushtiden blir fin\nnår du er med."
           }
         }
       }
@@ -8923,6 +9367,12 @@
             "state" : "translated",
             "value" : "Berangkat kerja dengan penuh tanggung jawab,\nkamu keren banget!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Respekt, du tar ansvar og\nmøter opp. Det er sterkt!"
+          }
         }
       }
     },
@@ -9041,6 +9491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gara-gara kamu, gerbong kereta\nberubah jadi catwalk."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bussen ble en catwalk\nda du gikk om bord."
           }
         }
       }
@@ -9161,6 +9617,12 @@
             "state" : "translated",
             "value" : "Di dalam bus pun kamu bersinar,\nmau pemotretan lagi?"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv i trikken lyser du.\nEr det fotoshoot i dag?"
+          }
         }
       }
     },
@@ -9279,6 +9741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lihat kamu berangkat kerja\nbikin pagi jadi bahagia."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morgenen blir gladere når jeg\nser at du er på vei til jobb."
           }
         }
       }
@@ -9399,6 +9867,12 @@
             "state" : "translated",
             "value" : "Jalan kaki doang udah keren,\nitulah kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bare ved å gå ser du\nkul ut. Helt rått."
+          }
         }
       }
     },
@@ -9517,6 +9991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kerja keras hari ini udah beres!\nPulang terus istirahat yang puas ya."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "God jobba i dag!\nNå kan du gå hjem og slappe av."
           }
         }
       }
@@ -9637,6 +10117,12 @@
             "state" : "translated",
             "value" : "Punggung kamu pas pulang kerja\naja udah keren banget!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se hvor stilig du går\nhjem etter jobb."
+          }
         }
       }
     },
@@ -9755,6 +10241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Di perjalanan pulang pun,\nkamu tetap yang terbaik!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hjemveien skinner,\nog du er helt på topp!"
           }
         }
       }
@@ -9875,6 +10367,12 @@
             "state" : "translated",
             "value" : "Hari ini selesai dengan selamat!\nBangga sama kamu!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagen er unnagjort, og du\nkan være skikkelig stolt!"
+          }
         }
       }
     },
@@ -9993,6 +10491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sekarang waktunya buat kamu.\nIstirahat sepuasnya ya!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nå er det din tid, og du\nfortjener å hvile!"
           }
         }
       }
@@ -10113,6 +10617,12 @@
             "state" : "translated",
             "value" : "Sepulang kerja, luangin waktu\nbuat diri kamu sendiri!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ta en pause etter jobb,\nfor du har fortjent kveldskos."
+          }
         }
       }
     },
@@ -10231,6 +10741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pulang kerja ya? Capek banget pasti.\nMakasih udah berjuang, kamu hebat!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solid dag bak deg.\nHeia, du er ferdig!"
           }
         }
       }
@@ -10351,6 +10867,12 @@
             "state" : "translated",
             "value" : "Jalan pulang pun kamu tetap cakep,\nhari ini kamu keren banget."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv på vei hjem er du flott.\nDet var en prima dag."
+          }
         }
       }
     },
@@ -10469,6 +10991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ngelihat kamu pulang kerja,\nhari ini kelihatan penuh makna."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se hvordan du går hjem:\nhele dagen virker verdt det."
           }
         }
       }
@@ -10589,6 +11117,12 @@
             "state" : "translated",
             "value" : "Hari ini memang melelahkan,\ntapi kamu tetap juara!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tung dag, men du er\nfortsatt gull verdt!"
+          }
         }
       }
     },
@@ -10707,6 +11241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Udah belajar sejauh ini,\nkamu pasti lancar!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har øvd så lenge\nat du kommer til å klare det."
           }
         }
       }
@@ -10827,6 +11367,12 @@
             "state" : "translated",
             "value" : "Usaha kamu\nnggak bakal mengkhianati hasil!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Innsatsen din svikter deg aldri,\nog det vet du!"
+          }
         }
       }
     },
@@ -10945,6 +11491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gugup itu wajar,\nkamu udah siap, kok!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nervøs? Det er greit. I dag\ner du allerede godt forberedt!"
           }
         }
       }
@@ -11065,6 +11617,12 @@
             "state" : "translated",
             "value" : "Nilai ujian nggak bisa\nmenentukan harga diri kamu!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eksamen kan aldri bestemme\nhva du er verdt!"
+          }
         }
       }
     },
@@ -11183,6 +11741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Udah berusaha maksimal,\nberarti kamu udah sukses!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har gjort ditt beste,\nså du har allerede lykkes!"
           }
         }
       }
@@ -11303,6 +11867,12 @@
             "state" : "translated",
             "value" : "Kalau itu kamu,\npasti bisa!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dette fikser du\ni søvne. Nesten."
+          }
         }
       }
     },
@@ -11421,6 +11991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tarik napas dalam-dalam,\npercaya sama kemampuan kamu!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pust dypt inn og\nstol på det du kan!"
           }
         }
       }
@@ -11541,6 +12117,12 @@
             "state" : "translated",
             "value" : "Semoga ujiannya lancar,\nkamu udah siap banget."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lykke til på eksamen! Du vet\nat du er mer enn klar."
+          }
         }
       }
     },
@@ -11659,6 +12241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tenang aja,\nkamu pasti bisa jawab semuanya!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikke bekymre deg. I dag kommer du\ntil å treffe alle svarene!"
           }
         }
       }
@@ -11779,6 +12367,12 @@
             "state" : "translated",
             "value" : "Deg-degan? Tetap aja\nkamu yang paling top!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nervøs? Likevel er du\nden beste jeg vet om."
+          }
         }
       }
     },
@@ -11897,6 +12491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lembar soal aja bakal terpukau\nlihat muka kamu."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv prøvearket blir imponert\nnår du kommer inn døra."
           }
         }
       }
@@ -12017,6 +12617,12 @@
             "state" : "translated",
             "value" : "Saatnya kamu tunjukin\nkualitas asli kamu!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nå er det tid for å\nvise hva du er laget av!"
+          }
         }
       }
     },
@@ -12135,6 +12741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pewawancara bakal beruntung\nbisa ketemu kamu!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intervjueren er heldig som\nfår møte deg, og det vet du."
           }
         }
       }
@@ -12255,6 +12867,12 @@
             "state" : "translated",
             "value" : "Pengalaman dan semangat kamu\nsiap bersinar sekarang!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erfaringen og gnisten din gjør\nat du skinner i dag!"
+          }
         }
       }
     },
@@ -12373,6 +12991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gugup nggak apa-apa,\nkamu udah cukup keren, kok!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er greit å være nervøs,\nfor uansett er du bra nok!"
           }
         }
       }
@@ -12493,6 +13117,12 @@
             "state" : "translated",
             "value" : "Percaya diri aja,\nkamu udah siap banget!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold hodet høyt! I dag vet du\nat du er klar for dette!"
+          }
         }
       }
     },
@@ -12611,6 +13241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ceritain kisah kamu\ndengan lantang dan bangga!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortell historien din med\nstolthet, for du har mye å by på!"
           }
         }
       }
@@ -12731,6 +13367,12 @@
             "state" : "translated",
             "value" : "Wawancara itu saling kenalan,\njadi santai aja ya!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Et intervju er en samtale.\nSlapp av, så er du deg selv."
+          }
         }
       }
     },
@@ -12849,6 +13491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kalau kamu nggak diterima,\nyang rugi perusahaannya."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis de ikke ansetter deg,\ntaper selskapet. Det vet du."
           }
         }
       }
@@ -12969,6 +13617,12 @@
             "state" : "translated",
             "value" : "Bukan CV kamu yang mewah,\ntapi kamu sendiri yang berkilau."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er ikke CV-en din som er\nglansfull, det er du."
+          }
         }
       }
     },
@@ -13087,6 +13741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Begitu masuk ruang wawancara,\nkamu udah lolos duluan."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allerede i døren\ner du i praksis ansatt."
           }
         }
       }
@@ -13207,6 +13867,12 @@
             "state" : "translated",
             "value" : "Kesan pertama dari kamu aja\nudah separuh jalan menuju diterima!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Førsteinntrykket ditt gjør\nat du vinner halve kampen!"
+          }
         }
       }
     },
@@ -13325,6 +13991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hari ini kamu\nbersinar banget!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I dag er du helt\nsprakende!"
           }
         }
       }
@@ -13445,6 +14117,12 @@
             "state" : "translated",
             "value" : "Jadi kamu apa adanya\nitu paling memesona!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akkurat som du er,\ner du mest sjarmerende!"
+          }
         }
       }
     },
@@ -13563,6 +14241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yang ada di dekat kamu\nberuntung banget!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den som får være med deg\ner utrolig heldig, vet du."
           }
         }
       }
@@ -13683,6 +14367,12 @@
             "state" : "translated",
             "value" : "Percaya diri kamu\nkeren banget!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Så full av selvtillit du er.\nSå kul!"
+          }
         }
       }
     },
@@ -13801,6 +14491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Senyum kamu hari ini\nsenjata paling ampuh!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smilet ditt er dagens\nbeste våpen, og det vet du."
           }
         }
       }
@@ -13921,6 +14617,12 @@
             "state" : "translated",
             "value" : "Jadi diri kamu sendiri aja,\nitu udah yang terbaik!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bare vær deg selv, for du\ner flott nok!"
+          }
         }
       }
     },
@@ -14039,6 +14741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pesona kamu\nnggak bisa disembunyiin!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sjarmen din?\nDen kan du ikke skjule!"
           }
         }
       }
@@ -14159,6 +14867,12 @@
             "state" : "translated",
             "value" : "Kencan hari ini?\nGebetan kamu bakal lemas lihat kamu!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date i dag? Når du kommer,\nfaller hjertet til de andre ut."
+          }
         }
       }
     },
@@ -14277,6 +14991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yang ketemu kamu hari ini\nberuntung tujuh turunan."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den som skal møte deg har\ntrukket i lotto, og det vet du."
           }
         }
       }
@@ -14397,6 +15117,12 @@
             "state" : "translated",
             "value" : "Outfit kencan kamu sempurna.\nSiap-siap jadi cover majalah!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datelooken sitter perfekt,\nså du kunne vært på forsiden!"
+          }
         }
       }
     },
@@ -14515,6 +15241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lihat kamu hari ini\nsiapa pun bisa jatuh cinta."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når de ser at du kommer i dag,\nblir de forelsket på flekken."
           }
         }
       }
@@ -14635,6 +15367,12 @@
             "state" : "translated",
             "value" : "Belum kencan aja udah secakep ini.\nJantung dia mau kamu apain?"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fin før daten allerede. Hva skal\ndu gjøre med alle hjertene?"
+          }
         }
       }
     },
@@ -14753,6 +15491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Percayalah, kamu pasti bisa!\nAku selalu dukung kamu!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heia! Jeg heier på at du\nklarer det uansett."
           }
         }
       }
@@ -14873,6 +15617,12 @@
             "state" : "translated",
             "value" : "Langkah kecil pun\nawal perjalanan besar!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv det minste skrittet du tar\nstarter den lengste reisen!"
+          }
         }
       }
     },
@@ -14991,6 +15741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jangan menyerah.\nMimpi kamu bakal terwujud!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikke gi opp, for du skal\nnå drømmene dine!"
           }
         }
       }
@@ -15111,6 +15867,12 @@
             "state" : "translated",
             "value" : "Usaha hari ini\nbikin sukses kamu besok!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Innsatsen du gjør i dag lager\nmorgendagens suksess!"
+          }
         }
       }
     },
@@ -15229,6 +15991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Semangat kamu\nbakal mengubah dunia!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gnisten din kan endre verden,\nog det vet du."
           }
         }
       }
@@ -15349,6 +16117,12 @@
             "state" : "translated",
             "value" : "Gagal itu bumbu sukses!\nTerus coba, kamu pasti bisa!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feil er veien til suksess!\nPrøv igjen, for du kan."
+          }
         }
       }
     },
@@ -15467,6 +16241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Potensi kamu\nnggak ada batasnya!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mulighetene dine er uendelige,\nog du vet det!"
           }
         }
       }
@@ -15587,6 +16367,12 @@
             "state" : "translated",
             "value" : "Hari ini juga\nkasih yang terbaik, ya!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gjør ditt beste, for du\ner nok også i dag!"
+          }
         }
       }
     },
@@ -15705,6 +16491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lihat kamu berjuang gitu\nbisa jadi semangat buat orang lain."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du gir alt, blir du\nmotivasjon for andre."
           }
         }
       }
@@ -15825,6 +16617,12 @@
             "state" : "translated",
             "value" : "Kalau kamu yang jalanin,\nsemua bakal lancar. Serius!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ting ordner seg for deg, du.\nVirkelig!"
+          }
         }
       }
     },
@@ -15943,6 +16741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jangan menyerah dulu,\nkamu orang keren, kok."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikke gi deg. Du er en\nflott person, vet du."
           }
         }
       }
@@ -16063,6 +16867,12 @@
             "state" : "translated",
             "value" : "Semangat terus hari ini,\nkamu pasti bisa!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heia! I dag er det du\nsom skal få det til!"
+          }
         }
       }
     },
@@ -16181,6 +16991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Orang yang tahu perjuangan kamu\npasti ikut mendukung."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle som ser at du gir alt\nkommer til å heie på deg."
           }
         }
       }
@@ -16301,6 +17117,12 @@
             "state" : "translated",
             "value" : "Dengar ya, kamu itu\nberharga banget!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du er god nok, og det betyr\nat du er verdt hele greia!"
+          }
         }
       }
     },
@@ -16419,6 +17241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jadi diri kamu apa adanya\nitu udah sempurna!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akkurat som du er,\ner du perfekt!"
           }
         }
       }
@@ -16539,6 +17367,12 @@
             "state" : "translated",
             "value" : "Keberadaan kamu aja\nudah istimewa!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At du finnes\ner allerede noe helt spesielt!"
+          }
         }
       }
     },
@@ -16657,6 +17491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pede dong,\nkamu orang keren!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold hodet høyt! I dag er du\net fantastisk menneske."
           }
         }
       }
@@ -16777,6 +17617,12 @@
             "state" : "translated",
             "value" : "Ternyata kamu jauh lebih kuat\ndari dugaan!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mye sterkere enn du tror,\ndet er hva du er!"
+          }
         }
       }
     },
@@ -16895,6 +17741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Keunikan kamu\nyang bikin kamu bersinar!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er særpreget ditt som\ngjør at du skinner."
           }
         }
       }
@@ -17015,6 +17867,12 @@
             "state" : "translated",
             "value" : "Percaya sama diri sendiri,\nkamu pasti mampu!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tro på deg selv, for du\nklarer det!"
+          }
         }
       }
     },
@@ -17133,6 +17991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sempurna itu cara kamu\njadi diri sendiri."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfekt som du er,\nakkurat som du er."
           }
         }
       }
@@ -17253,6 +18117,12 @@
             "state" : "translated",
             "value" : "Percaya diri tinggi,\nkamu paling keren sedunia!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full av selvtillit?\nDa er du verdens fineste."
+          }
         }
       }
     },
@@ -17371,6 +18241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ternyata kamu tuh jauh lebih hebat\ndari yang kamu pikir!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du er mye bedre enn\ndu selv tror!"
           }
         }
       }
@@ -17491,6 +18367,12 @@
             "state" : "translated",
             "value" : "Percaya deh, kamu udah\nmelakukan yang terbaik."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slutt å tvile, for du\ngjør det faktisk bra."
+          }
         }
       }
     },
@@ -17609,6 +18491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yang nggak sadar pesona kamu\nmungkin matanya lagi libur."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ser noen ikke at du er sjarmerende,\nmå de ha mistet synet."
           }
         }
       }
@@ -17729,6 +18617,12 @@
             "state" : "translated",
             "value" : "Hari ini santai aja,\nistirahat dulu yuk."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I dag skal du ta det rolig\nog hvile."
+          }
         }
       }
     },
@@ -17847,6 +18741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ingat, kamu juga\nbutuh istirahat."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv du trenger\nlitt hvile."
           }
         }
       }
@@ -17967,6 +18867,12 @@
             "state" : "translated",
             "value" : "Nggak ngapa-ngapain pun\nhari ini tetap oke!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det er helt greit om du\nikke gjør noe i dag."
+          }
         }
       }
     },
@@ -18085,6 +18991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perasaan kamu\nyang paling penting."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvordan du har det\ner det aller viktigste."
           }
         }
       }
@@ -18205,6 +19117,12 @@
             "state" : "translated",
             "value" : "Pelan-pelan aja,\nikuti tempo kamu sendiri."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ta det rolig, for du\ngår i ditt eget tempo."
+          }
         }
       }
     },
@@ -18323,6 +19241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hari ini luangin waktu\nbuat kamu sendiri, ya."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I dag får du bruke\ntiden på deg selv."
           }
         }
       }
@@ -18443,6 +19367,12 @@
             "state" : "translated",
             "value" : "Istirahat juga termasuk\nkegiatan produktif, lho!"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Å hvile er også noe du gjør\nmed nytte. Faktisk!"
+          }
         }
       }
     },
@@ -18561,6 +19491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rebahan itu hak kamu.\nHari ini istirahat yang tenang ya."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvile er din rett. Slapp\nhelt av i dag, du fortjener det."
           }
         }
       }
@@ -18681,6 +19617,12 @@
             "state" : "translated",
             "value" : "Lagi healing pun\nkamu tetap menawan."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du koser deg,\ner du også nydelig."
+          }
         }
       }
     },
@@ -18799,6 +19741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hari ini nggak apa-apa\npakai waktu buat kamu sendiri."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I dag kan du godt bruke\ndagen på deg selv."
           }
         }
       }
@@ -18919,6 +19867,12 @@
             "state" : "translated",
             "value" : "Sambil santai pun\nkamu tetap bersinar."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv mens du slapper av,\nskinner du."
+          }
         }
       }
     },
@@ -19037,6 +19991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Waktu healing pun, kamu tetap\nyang paling cakep sedunia."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du er finest i verden,\nselv når du bare ligger i sofaen."
           }
         }
       }
@@ -19157,6 +20117,12 @@
             "state" : "translated",
             "value" : "Katanya nggak ada yang sempurna.\nBerarti kamu itu pengecualian."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Så fin du er at jeg trenger\nsolbriller innendørs."
+          }
         }
       }
     },
@@ -19275,6 +20241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tes kepribadian bilang\nkamu 100% menggemaskan."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Har du kart? Jeg gikk meg vill\ni øynene dine."
           }
         }
       }
@@ -19395,6 +20367,12 @@
             "state" : "translated",
             "value" : "Ada survei: siapa yang paling imut?\nHasilnya, semua jari nunjuk kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er du wifi?\nFor jeg kjenner en sterk forbindelse."
+          }
         }
       }
     },
@@ -19513,6 +20491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bagiku kamu tuh kayak huruf vokal,\ntanpa kamu kalimatku nggak kebaca."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er det varmt her inne,\neller er det bare at du er her?"
           }
         }
       }
@@ -19633,6 +20617,12 @@
             "state" : "translated",
             "value" : "Jangan sering lewat depan rumahku,\nnanti satu RT kesengsem sama kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis du var en grønnsak,\nvar du en søtpotet."
+          }
         }
       }
     },
@@ -19751,6 +20741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tiap kamu lewat aku bengong,\nsampai lupa cara kedip."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikke bare pen, nei, du er\npen på alle språk."
           }
         }
       }
@@ -19871,6 +20867,12 @@
             "state" : "translated",
             "value" : "Aku punya kebiasaan buruk:\nnyari kamu tiap buka layar."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glem janteloven i dag.\nI dag får du lov til å være best."
+          }
         }
       }
     },
@@ -19989,6 +20991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kok hujan deras, ya?\nTernyata hatiku kebanjiran gara-gara kamu."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fredagstaco i menneskeform,\nsånn er du. Alle gleder seg."
           }
         }
       }
@@ -20109,6 +21117,12 @@
             "state" : "translated",
             "value" : "Pasti kamu lulusan sekolah sihir,\nsoalnya aku langsung terpesona."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvem trenger brunost når\ndu er det søteste på brødskiva?"
+          }
         }
       }
     },
@@ -20227,6 +21241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Katanya nggak ada gading yang tak retak,\nkamu pengecualian, mulus banget."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speilet ber om autograf\nfordi du er så fin."
           }
         }
       }
@@ -20347,6 +21367,12 @@
             "state" : "translated",
             "value" : "Taruh dulu bebannya, sini,\nkamu cukup jadi cakep aja."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er du fra Bergen? For det regner\nkomplimenter hver gang du kommer."
+          }
         }
       }
     },
@@ -20465,6 +21491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sumpah, kamu itu kayak sinyal penuh,\nbikin hidupku lancar jaya."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis skjønnhet var en forbrytelse,\nvar du dømt til livstid."
           }
         }
       }
@@ -20585,6 +21617,12 @@
             "state" : "translated",
             "value" : "Visualnya jujur aja,\nbeneran nggak sih? Kok bisa kayak gitu?"
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvis du var en fjord,\nvar du den dypeste og fineste."
+          }
         }
       }
     },
@@ -20703,6 +21741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pasti kamu kurang tidur ya?\nSoalnya semalaman kamu muter-muter di pikiranku."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snøen smelter\nnår du går forbi. Klimakrise?"
           }
         }
       }
@@ -20823,6 +21867,12 @@
             "state" : "translated",
             "value" : "Katanya kamu blasteran?\nBidadari campur surga."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heldige er de som kjenner deg.\nHeldigst er de du snakker med."
+          }
         }
       }
     },
@@ -20941,6 +21991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tau nggak, garis wajah kamu\nlebih jelas dari masa depanku."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selv elgen stopper opp og\nklapper når du går forbi."
           }
         }
       }
@@ -21061,6 +22117,12 @@
             "state" : "translated",
             "value" : "Ibu kota hatiku itu kamu,\nsemua jalan menuju kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trenger du en vits?\nNei, du er morsom nok."
+          }
         }
       }
     },
@@ -21179,6 +22241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dasar kamu cabai rawit,\nkecil-kecil bikin hatiku kepedasan."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg har sjekket det nøye:\ndu er 100 prosent topp."
           }
         }
       }
@@ -21299,6 +22367,12 @@
             "state" : "translated",
             "value" : "Katanya kamu jago masak?\nSoalnya hatiku langsung matang gara-gara kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvorfor sliter du? Utseendet ditt\njobber jo overtid for deg."
+          }
         }
       }
     },
@@ -21417,6 +22491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ngapain kerja keras?\nMuka kamu udah lembur duluan."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slutt å være så fin. «Hvordan?»\nNettopp. Det kan du ikke."
           }
         }
       }
@@ -21537,6 +22617,12 @@
             "state" : "translated",
             "value" : "\"Berhenti suka sama aku, dong.\"\n\"Hah?\"\n\"Cara berhentinya gimana?\""
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fjeset ditt burde fredes, for du\ner en nasjonalskatt."
+          }
         }
       }
     },
@@ -21655,6 +22741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wajah kamu sekelas pusaka,\njadi mau dipajang di museum nasional."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikke gå på prisutdelingen,\nfor du tar hovedprisen uansett."
           }
         }
       }
@@ -21775,6 +22867,12 @@
             "state" : "translated",
             "value" : "Jangan ikut ajang penghargaan, ya.\nPiala utamanya jelas buat kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er det fotoshoot?\nEller går du bare sånn til vanlig?"
+          }
         }
       }
     },
@@ -21893,6 +22991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lagi pemotretan, ya?\nAtau memang kamu jalan sambil jadi cover?"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Popstjerne? Det er du.\nNummer én på hjertets hitliste."
           }
         }
       }
@@ -22013,6 +23117,12 @@
             "state" : "translated",
             "value" : "Idola di hatiku itu kamu,\nperingkat satu sepanjang masa."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold signeringsstund, for jeg\nvil ha at du signerer daglig."
+          }
         }
       }
     },
@@ -22131,6 +23241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tolong adain jumpa fans, dong.\nAku mau minta tanda tangan kamu tiap hari."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debuter, da! I hjertet mitt står\ndu allerede på scenen."
           }
         }
       }
@@ -22251,6 +23367,12 @@
             "state" : "translated",
             "value" : "Debut aja, deh.\nDi hatiku kamu udah jadi center."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gratulerer med førsteplassen.\nSå pen som du er, topper du alt."
+          }
         }
       }
     },
@@ -22369,6 +23491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selamat juara tangga lagu!\nVisual kamu juara tiap hari."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Et bilde av at du smiler hver dag?\nDet tar jeg gjerne."
           }
         }
       }
@@ -22489,6 +23617,12 @@
             "state" : "translated",
             "value" : "Sesi foto dulu, yuk.\nAku mau abadiin kamu tiap hari."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comeback? Så du fikk hjertet mitt\ntil å gjøre comeback."
+          }
         }
       }
     },
@@ -22607,6 +23741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Comeback ya?\nJantungku ikut hidup lagi gara-gara kamu."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kan jeg filme deg? Alle øyeblikk\nder du er med er høydepunkter."
           }
         }
       }
@@ -22727,6 +23867,12 @@
             "state" : "translated",
             "value" : "Boleh aku rekam kamu?\nSoalnya tiap momen kamu itu adegan terbaik."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musikkvideo? I livet mitt har du\nallerede hovedrollen."
+          }
         }
       }
     },
@@ -22845,6 +23991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Main video klip, ya?\nPadahal kamu udah jadi tokoh utama hidupku."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reality-TV? Egentlig er du\nenda bedre i virkeligheten."
           }
         }
       }
@@ -22965,6 +24117,12 @@
             "state" : "translated",
             "value" : "Ikut acara realita?\nAslinya kamu malah lebih sempurna."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sikkert at du står i midten,\nfor du lyser mest overalt."
+          }
         }
       }
     },
@@ -23083,6 +24241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pasti kamu pusat visual,\nsoalnya di mana pun kamu paling bersinar."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prisen for årets fjes går til\ndeg. Så sjelden som du er!"
           }
         }
       }
@@ -23203,6 +24367,12 @@
             "state" : "translated",
             "value" : "Piala wajah terbaik tahun ini\nwajib jatuh ke kamu, saingan nggak ada."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skal du reklamere? Ser jeg deg,\nvil jeg kjøpe alt."
+          }
         }
       }
     },
@@ -23321,6 +24491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jadi model iklan, ya?\nLihat kamu aja bikin aku pengen beli semuanya."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forsidemodell? Fjeset ditt burde\npryde hvert eneste blad, du."
           }
         }
       }
@@ -23441,6 +24617,12 @@
             "state" : "translated",
             "value" : "Sampul majalah tiap bulan\nmemang pantas dihiasi muka kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ekte scenekarisma? Selv når du\ngår på butikken er det show."
+          }
         }
       }
     },
@@ -23559,6 +24741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Karisma kamu di panggung beneran?\nSehari-hari pun kamu kayak lagi di panggung."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skal vi bytte samlekort? Jeg vil\nha hele settet der du er med."
           }
         }
       }
@@ -23679,6 +24867,12 @@
             "state" : "translated",
             "value" : "Tukeran kartu foto, yuk?\nAku mau kumpulin satu set penuh wajah kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når er fansamlingen? Jeg vil\nmøte deg hver dag, vet du."
+          }
         }
       }
     },
@@ -23797,6 +24991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kapan nih fan meeting?\nAku maunya ketemu kamu tiap hari."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legg ut danseklipp! Hver\nbevegelse du gjør er kunst."
           }
         }
       }
@@ -23917,6 +25117,12 @@
             "state" : "translated",
             "value" : "Upload video koreografinya dong.\nTiap gerakan kamu itu seni."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Som en teaser når du kommer.\nJeg gleder meg hver gang."
+          }
         }
       }
     },
@@ -24035,6 +25241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kayak lihat teaser aja,\ntiap lihat kamu, deg-degan duluan."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verdensturné? Det er du som\nallerede har svingt hjertet mitt."
           }
         }
       }
@@ -24155,6 +25367,12 @@
             "state" : "translated",
             "value" : "Mau tur keliling dunia?\nHatiku udah kamu goyang sedunia."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signer albumet mitt, for du\ner en limited edition."
+          }
         }
       }
     },
@@ -24273,6 +25491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tanda tangan di albumku, ya,\nkamu tuh edisi terbatas."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg tenner lysstaven, og du\nfår hele hjertet mitt for alltid."
           }
         }
       }
@@ -24393,6 +25617,12 @@
             "state" : "translated",
             "value" : "Lightstick-ku nyala nih,\naku bakal dukung kamu seumur hidup."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plutselig stjerne? Det var du\njo alltid, en legende."
+          }
         }
       }
     },
@@ -24511,6 +25741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Naik daun, ya?\nPadahal dari dulu kamu udah legenda."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konsertbilletter? Å se på at du\ngår forbi er min daglige konsert."
           }
         }
       }
@@ -24631,6 +25867,12 @@
             "state" : "translated",
             "value" : "Aku harus cari tiket konser.\nSoalnya lihat kamu itu konser harianku."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Førsteplass på alle lister,\nog i livet mitt er du også først."
+          }
         }
       }
     },
@@ -24749,6 +25991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Juara tangga lagu, kan,\nkamu itu lagu nomor satu di hidupku."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ekstranummer, takk! Jeg vet\nat du aldri blir for mye."
           }
         }
       }
@@ -24869,6 +26117,12 @@
             "state" : "translated",
             "value" : "Encore sekali lagi, dong.\nDilihat berkali-kali pun kamu tetap bikin kangen."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bak kameraet er du også perfekt.\nIngen svake øyeblikk å finne."
+          }
         }
       }
     },
@@ -24987,6 +26241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Foto candid pun sempurna,\nkamu legenda di setiap momen."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg må bytte favoritt, for jeg\nkan ikke se på noen andre enn du."
           }
         }
       }
@@ -25107,6 +26367,12 @@
             "state" : "translated",
             "value" : "Bias aku harus ganti.\nSelain kamu, mataku nggak mau lihat."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg ble fan på stedet, og nå\ner du favoritten for evig."
+          }
         }
       }
     },
@@ -25225,6 +26491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aku jatuh cinta jadi fans,\ndan kamu yang bakal kuikuti selamanya."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favoritten avsløres: det er\ningen andre enn du."
           }
         }
       }
@@ -25345,6 +26617,12 @@
             "state" : "translated",
             "value" : "Bias aku diumumkan hari ini:\nya kamu, siapa lagi."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All merch er kjøpt, og du\ner allerede et samleobjekt."
+          }
         }
       }
     },
@@ -25463,6 +26741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Merchandise udah kuborong,\ntapi kamu sendiri merch paling berharga."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fan for livet, det er jeg.\nAller mest fordi du er artisten."
           }
         }
       }
@@ -25583,6 +26867,12 @@
             "state" : "translated",
             "value" : "Fans seumur hidup, resmi,\nkamu artis abadi buatku."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hovedkvarteret mitt er der du er.\nJeg flytter inn."
+          }
         }
       }
     },
@@ -25701,6 +26991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Markas fans aku udah pindah,\ndan markas barunya kamu."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nå starter fandommen. Jeg satser\nalt på at du er den eneste."
           }
         }
       }
@@ -25821,6 +27117,12 @@
             "state" : "translated",
             "value" : "Resmi mulai ngefans.\nSeluruh hidupku buat kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg blir fotografen din.\nAlt du gjør skal dokumenteres."
+          }
         }
       }
     },
@@ -25939,6 +27241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aku mau jadi fotografer pribadi,\nbiar tiap momen kamu terekam."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle stunder som du er med på\ner gulltid."
           }
         }
       }
@@ -26059,6 +27367,12 @@
             "state" : "translated",
             "value" : "Waktu bareng kamu itu\nsemuanya jam emas."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg setter opp en reklametavle:\nhver dag bør være dagen du fyller år."
+          }
         }
       }
     },
@@ -26177,6 +27491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aku mau pasang iklan ulang tahun.\nAndai tiap hari ultahnya kamu."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeg heier på deg for alltid.\nStolt over at du har meg som fan."
           }
         }
       }
@@ -26297,6 +27617,12 @@
             "state" : "translated",
             "value" : "Fans seumur hidup nih.\nBangga banget jadi penggemar kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hjertet mitt hamrer\nnår jeg tenker på at du finnes."
+          }
         }
       }
     },
@@ -26415,6 +27741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jantungku deg-degan nggak karuan,\ngara-gara kamu. Tanggung jawab dong!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Så snart du kommer inn\nblir verden vakrere."
           }
         }
       }
@@ -26535,6 +27867,12 @@
             "state" : "translated",
             "value" : "Dunia kayak dihias ulang\ntiap kali aku lihat kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hos meg er du vitaminet\ni hverdagen."
+          }
         }
       }
     },
@@ -26653,6 +27991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sumber vitamin bahagiaku\nya cuma kamu."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du ler, ler jeg med.\nOg blir så glad!"
           }
         }
       }
@@ -26773,6 +28117,12 @@
             "state" : "translated",
             "value" : "Pas kamu ketawa, aku ikut\nsenyum tanpa izin."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aldri har jeg sett en stjerne\nsom skinner mer enn du."
+          }
         }
       }
     },
@@ -26891,6 +28241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bintang paling terang yang pernah kulihat\nternyata kamu, bukan di langit."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hver dag når du er med blir\net lite festspill i hjertet."
           }
         }
       }
@@ -27011,6 +28367,12 @@
             "state" : "translated",
             "value" : "Festival di hatiku digelar\ntiap hari berkat kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hører jeg stemmen din, blir jeg\nglad. Det holder at du sier hei."
+          }
         }
       }
     },
@@ -27129,6 +28491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suara kamu doang\nudah cukup bikin mood naik."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heldigvis fikk jeg deg, for du\ner livets største lykketreff."
           }
         }
       }
@@ -27249,6 +28617,12 @@
             "state" : "translated",
             "value" : "Keberuntungan terbesar hidupku\nadalah kenal sama kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fordi du finnes, kan jeg\nsmile også i dag."
+          }
         }
       }
     },
@@ -27367,6 +28741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Berkat kamu, hari ini\naku masih bisa senyum lebar."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen i verden er\nså kjær for meg som du."
           }
         }
       }
@@ -27487,6 +28867,12 @@
             "state" : "translated",
             "value" : "Orang paling berharga sedunia?\nJawabannya kamu, titik."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tenker jeg på deg,\nkommer smilet av seg selv, du."
+          }
         }
       }
     },
@@ -27605,6 +28991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cukup mikirin kamu\nsenyumku muncul sendiri."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sammen med deg er det fred,\nog du er min egen ro."
           }
         }
       }
@@ -27725,6 +29117,12 @@
             "state" : "translated",
             "value" : "Damainya hatiku\nitu gara-gara ada kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hver time med deg er spesiell,\nfor du gjør alt bedre."
+          }
         }
       }
     },
@@ -27843,6 +29241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Momen bareng kamu\nnggak pernah biasa-biasa aja."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Av alle jeg kjenner er du\nden fineste."
           }
         }
       }
@@ -27963,6 +29367,12 @@
             "state" : "translated",
             "value" : "Dari sekian miliar manusia,\nkamu yang paling keren menurutku."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Takk for at du finnes.\nDet er nok for meg."
+          }
         }
       }
     },
@@ -28081,6 +29491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ada kamu aja\nudah bikin aku bersyukur."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Høydepunktet på dagen min\ner alltid når du er der."
           }
         }
       }
@@ -28201,6 +29617,12 @@
             "state" : "translated",
             "value" : "Bagian terbaik dari hariku\nselalu momen ada kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hver dag blir spesiell\nfordi du er i den."
+          }
         }
       }
     },
@@ -28319,6 +29741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hari-hariku jadi spesial\ngara-gara kamu muncul."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verden lysner så snart jeg\nser at du kommer."
           }
         }
       }
@@ -28439,6 +29867,12 @@
             "state" : "translated",
             "value" : "Lampu kamar mati pun\nnggak masalah, asal ada kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beste gaven livet har gitt meg\ner at du kom."
+          }
         }
       }
     },
@@ -28557,6 +29991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hadiah terindah dalam hidupku\ntuh kamu, tanpa bungkus."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verden er enda vakrere\nfordi du er i den."
           }
         }
       }
@@ -28677,6 +30117,12 @@
             "state" : "translated",
             "value" : "Dunia ini lebih cantik\nkarena kamu ikut menghuninya."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En dag uten deg?\nIkke tenkelig, så du blir her."
+          }
         }
       }
     },
@@ -28795,6 +30241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bayangin sehari tanpa kamu?\nNggak sanggup, deh."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I hjertet mitt står du\npå førsteplass for alltid."
           }
         }
       }
@@ -28915,6 +30367,12 @@
             "state" : "translated",
             "value" : "Peringkat satu di hatiku\nnggak pernah berubah: kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Med deg ved min side tror jeg\nat du og jeg kan alt."
+          }
         }
       }
     },
@@ -29033,6 +30491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Asal bareng kamu,\nrasanya semua bisa kuhadapi."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hver dag er jeg takknemlig\nfor at du finnes."
           }
         }
       }
@@ -29153,6 +30617,12 @@
             "state" : "translated",
             "value" : "Tiap hari aku bilang makasih\nke semesta karena ada kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når du smiler, mister alt annet\nsin glans."
+          }
         }
       }
     },
@@ -29271,6 +30741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pemandangan terindah sedunia\nkalah sama senyum kamu."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Livet mitt fikk sin største\nvelsignelse da du kom."
           }
         }
       }
@@ -29391,6 +30867,12 @@
             "state" : "translated",
             "value" : "Berkah terbesar dalam hidupku\nitu kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tenker jeg på deg, blir dagen\nbedre, så du er min medisin."
+          }
         }
       }
     },
@@ -29509,6 +30991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Baru kepikiran kamu,\nseharian udah happy."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hjemmet mitt, det er deg. Hjertet\nmitt bor der du bor."
           }
         }
       }
@@ -29629,6 +31117,12 @@
             "state" : "translated",
             "value" : "Rumah ternyaman buat hatiku\nya ada kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sammen med deg er alt akkurat\nsom det skal, så du blir."
+          }
         }
       }
     },
@@ -29747,6 +31241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pas ada kamu,\nsemuanya serasa sempurna."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drømmetypen min? Det er du,\nmen jeg torde aldri ønske det."
           }
         }
       }
@@ -29867,6 +31367,12 @@
             "state" : "translated",
             "value" : "Tipe idaman yang dulu cuma mimpi\nternyata nyata, namanya kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siden jeg så deg er hjertet mitt\nødelagt. Kan du lappe det?"
+          }
         }
       }
     },
@@ -29985,6 +31491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tiap kamu muncul, jantungku\nkayak mau mogok."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gå rolig, du er en vandrende\nbiografi. Historien husker deg."
           }
         }
       }
@@ -30105,6 +31617,12 @@
             "state" : "translated",
             "value" : "Biografi berjalan, itulah kamu,\nnamanya bakal tercatat di buku sejarah."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sjarmen din vil jeg gjerne\nfalle for, så du får skylden."
+          }
         }
       }
     },
@@ -30223,6 +31741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Terpesona terus sama kamu\naku sih ikhlas."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når jeg stirrer på deg\nfår jeg nakkesleng. Verdt det, du."
           }
         }
       }
@@ -30343,6 +31867,12 @@
             "state" : "translated",
             "value" : "Fokus mandangin kamu terus,\nleherku sampai butuh pijat."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hver gang jeg ser at du kommer,\nstiger pulsen. Takk for det."
+          }
         }
       }
     },
@@ -30461,6 +31991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Detak jantungku naik\ntiap kamu lewat. Bahaya!"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I mine øyne er du et\nmesterlig forsidebilde."
           }
         }
       }
@@ -30581,6 +32117,12 @@
             "state" : "translated",
             "value" : "Foto kamu pantas jadi sampul\nmajalah paling laris sedunia."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fordi du finnes\ner hver dag favorittdagen min."
+          }
         }
       }
     },
@@ -30699,6 +32241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sejak ada kamu, tiap hari\nrasanya hari libur nasional."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Et levende under, det er du,\nog det kan jeg bevise."
           }
         }
       }
@@ -30819,6 +32367,12 @@
             "state" : "translated",
             "value" : "Keajaiban dunia ke-8\nternyata hidup, dan namanya kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alt går i sakte film\nså fort du kommer inn."
+          }
         }
       }
     },
@@ -30937,6 +32491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pas kamu lewat,\ndunia otomatis slow motion."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gullkort i livet mitt, det har du.\nVIP uten kø."
           }
         }
       }
@@ -31057,6 +32617,12 @@
             "state" : "translated",
             "value" : "Kartu VIP di hidupku\ncuma satu, dan itu kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Å se at du kommer\ner dagens høydepunkt."
+          }
         }
       }
     },
@@ -31175,6 +32741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ngelihatin kamu\njadi kegiatan favoritku tiap hari."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hjertets serie har en beste\nepisode, og du er den."
           }
         }
       }
@@ -31295,6 +32867,12 @@
             "state" : "translated",
             "value" : "Konten premium di hatiku\nisinya kamu semua."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verden ser ut som i 4K\nbare fordi du er der."
+          }
         }
       }
     },
@@ -31413,6 +32991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dunia kelihatan HD\nsejak ada kamu."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I livet mitt er du gullstunden,\nog alt faller på plass."
           }
         }
       }
@@ -31533,6 +33117,12 @@
             "state" : "translated",
             "value" : "Jam emas dalam hidupku\nya waktu bareng kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bare å tenke på deg\ngir et smil, og du vet det."
+          }
         }
       }
     },
@@ -31651,6 +33241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuma mikirin kamu,\nsenyumku langsung otomatis."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Femstjerners hotell for hjertet\nmitt, det er du."
           }
         }
       }
@@ -31771,6 +33367,12 @@
             "state" : "translated",
             "value" : "Kamar paling mewah di hatiku\nkhusus disiapin buat kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fordi du er her, blir hver dag\nen liten feiring."
+          }
         }
       }
     },
@@ -31889,6 +33491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Berkat kamu, setiap hari\nberasa tanggal gajian."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hovedarrangementet i livet mitt?\nDet er du."
           }
         }
       }
@@ -32009,6 +33617,12 @@
             "state" : "translated",
             "value" : "Acara utama dalam hidupku\nbintang tamunya kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ser jeg at du kommer, danser\nhjertet av seg selv."
+          }
         }
       }
     },
@@ -32127,6 +33741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jantungku joget sendiri\ntiap kali kamu nongol."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I øynene mine har du\nbildekvalitet i 8K."
           }
         }
       }
@@ -32247,6 +33867,12 @@
             "state" : "translated",
             "value" : "Resolusi 4K buat mataku\ncuma kamu yang punya."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Så snart du kommer,\nlyser alt litt klarere."
+          }
         }
       }
     },
@@ -32365,6 +33991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dunia kelihatan berkilau\ntiap kamu ada di sekitar."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Æresgjest i hjertet mitt er du,\nalltid med plass ved bordet."
           }
         }
       }
@@ -32485,6 +34117,12 @@
             "state" : "translated",
             "value" : "Daftar tamu VVIP di hatiku\ncuma ada satu nama: kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Takket være deg blir dagen bedre,\nfor du er solen."
+          }
         }
       }
     },
@@ -32603,6 +34241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hari biasa pun berubah istimewa\nkalau kamu ikut hadir."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trumfkortet i livet mitt,\ndet er du."
           }
         }
       }
@@ -32723,6 +34367,12 @@
             "state" : "translated",
             "value" : "Kartu truf dalam hidupku\nya kamu, siapa lagi."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tenker jeg på at du finnes, blir\nhumøret automatisk oppgradert."
+          }
         }
       }
     },
@@ -32841,6 +34491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mood-ku auto naik level\ncuma karena mikirin kamu."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plass nummer én i hjertets\næreshall går til deg, du."
           }
         }
       }
@@ -32961,6 +34617,12 @@
             "state" : "translated",
             "value" : "Aula kehormatan hatiku\nbaru diisi satu orang: kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siden du kom\ner livet i full farge."
+          }
         }
       }
     },
@@ -33079,6 +34741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hidupku yang tadinya hitam putih\njadi penuh warna berkat kamu."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For øynene mine er du\net evig mesterverk."
           }
         }
       }
@@ -33199,6 +34867,12 @@
             "state" : "translated",
             "value" : "Sepanjang masa, legenda nomor satu\ndi mataku itu kamu."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Når jeg ser at du smiler,\ngår verden litt langsommere."
+          }
         }
       }
     },
@@ -33318,6 +34992,12 @@
             "state" : "translated",
             "value" : "Tiap kamu lewat, dunia\nkayak lagi diputar pelan-pelan."
           }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nøkkelen jeg trengte, det er du.\nLivet mitt er opplåst."
+          }
         }
       }
     },
@@ -33436,6 +35116,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tiket emas menuju bahagia\nada di tangan kamu."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Livet mitt har fått ny lyd\nsiden du begynte å smile til meg."
           }
         }
       }

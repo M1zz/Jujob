@@ -858,3 +858,48 @@ Fitur utama
 
 Privasi aman. Aplikasi ini tidak mengumpulkan data pribadi apa pun. Nama, favorit, dan pengaturan cuma tersimpan di perangkatmu.
 Ada bug atau ide fitur? Kirim lewat email atau Instagram dari layar pengaturan.
+
+## nb
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/nb/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/nb/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/nb/index.html
+
+### 이름
+
+Dagens skryt
+
+### 부제
+
+Overdrevne komplimenter
+
+### 키워드
+
+ros,pepp,motivasjon,selvtillit,heiagjeng,widget,hjemskjerm,humør,jobb,intervju,eksamen,kos,trening
+
+### 프로모션 텍스트
+
+Dagens heiagjeng rett på hjemskjermen! Få overdrevent mye pepp fra morgen til kveld, med widget, humørvalg og ditt eget navn i hver setning.
+
+### 설명
+
+Dagens skryt er widgeten som øser over deg med komplimenter, helt uten måtehold. Flere ganger om dagen møter du en liten overdrevet hyllest på hjemskjermen.
+Får du en dårlig dag, tar appen deg med et smil. 281 skryt venter, fordelt på morgen, jobbvei, intervju, eksamen og dager som er litt tunge.
+
+Dette får du
+- Widget på hjemskjermen: velg skrifttype, tekstfarge, bakgrunnsbilde, plassering, linjeavstand og hvor ofte den skal oppdateres.
+- Velg humør: finn skryt som passer akkurat nå, som morgen, på vei til jobb, før intervjuet, før eksamen, før treningen, før daten, på vei hjem, kveld, når det er tungt, kos, selvtillit og motivasjon.
+- Ditt navn: skriv inn navnet ditt, så bytter appen ut «du» i skrytene med det.
+- Favoritter og historikk: lagre skrytene du liker best med stjernen, og se tilbake på alle du har sett.
+- Dagsrekke og prestasjoner: kom innom 7, 30 og 100 dager på rad og lås opp spesielle skryt.
+
+Personvern er enkelt. Appen samler ikke inn noe om deg, og alt du lagrer ligger bare på din egen enhet.
+Feil og ideer kan du sende på e-post eller Instagram fra innstillinger i appen.

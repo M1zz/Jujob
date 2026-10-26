@@ -115,3 +115,9 @@ Virheistä ja ideoista voi kertoa suoraan
 Sekarang tersedia dalam banyak bahasa
 Hubungi developer dari layar Pengaturan
 Lapor bug dan saran via email atau IG
+
+### 앱스토어 (노르웨이어(보크몰))
+
+Nå kan du få skryt på mange språk
+Kontakt utvikleren fra innstillingene
+Send feil og ideer på e-post
