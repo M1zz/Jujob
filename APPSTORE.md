@@ -993,3 +993,48 @@ Co potrafi aplikacja
 
 Nie zbieramy żadnych danych osobowych. Imię, ulubione i ustawienia zostają wyłącznie na twoim urządzeniu.
 Błędy i pomysły możesz wysłać z ustawień, mailem albo przez Instagram.
+
+## sv
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/sv/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/sv/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/sv/index.html
+
+### 이름
+
+Dagens Pepp
+
+### 부제
+
+Hajpa dig själv varje dag
+
+### 키워드
+
+komplimanger,uppmuntran,motivation,widget,självkänsla,hemskärm,humör,glädje,tröst,kärlek,citat,stöd
+
+### 프로모션 텍스트
+
+Få en överdriven komplimang direkt på hemskärmen, från morgon till kväll! Nu kan peppen även kalla dig vid namn. Ingen insamling av data, allt stannar i telefonen.
+
+### 설명
+
+Dagens Pepp är widgetappen som överöser dig med komplimanger, helt utan måttlighet. Flera gånger om dagen välkomnar en hejarramsa dig direkt på hemskärmen.
+Här får du 281 peppande rader som passar både humör och situation: morgon, på väg till jobbet, före intervjun, före provet, före träningen, före dejten, på väg hem, kväll, tuffa stunder, lugn och ro, självförtroende och motivation.
+
+Det här kan appen:
+- Widget på hemskärmen: välj typsnitt, textfärg, bakgrundsbild, justering, radavstånd och hur ofta den ska uppdateras.
+- Humör och situation: välj det som passar just nu, så plockar appen fram rätt pepp.
+- Eget namn: ange ditt namn så byts "du" i peppen ut mot det, och du får en hejaklack som verkligen känner dig.
+- Favoriter och historik: spara det du gillar med stjärnan och bläddra bland tidigare pepp.
+- Streak och utmärkelser: titta in 7, 30 och 100 dagar i rad och lås upp nya titlar.
+
+Din integritet är viktig. Appen samlar inte in några personuppgifter, och namn, favoriter och inställningar ligger bara kvar på din enhet.
+Har du hittat en bugg eller har ett förslag? Skriv till oss via e-post eller Instagram i inställningarna.

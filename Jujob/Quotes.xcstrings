@@ -135,6 +135,12 @@
             "state" : "translated",
             "value" : "Nowy dzień, nowe blaski.\nA największy blask? To ty."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "God morgon! Idag lyser du\nhärligare än både sol och kaffe."
+          }
         }
       }
     },
@@ -271,6 +277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Słońce już wstało, ale to ty\nrozświetlasz mi poranek."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solen gick upp, och det gjorde du med.\nDagen är räddad!"
           }
         }
       }
@@ -409,6 +421,12 @@
             "state" : "translated",
             "value" : "Udało się wstać? Brawa!\nBo ty to siła natury."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upp ur sängen redan?\nSnacka om hjälte före åtta, du!"
+          }
         }
       }
     },
@@ -545,6 +563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Najlepszy poranny widok? Wiadomo:\nty, ty i jeszcze raz ty."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morgonen blir bäst när du är med.\nTänk så fint det blir!"
           }
         }
       }
@@ -683,6 +707,12 @@
             "state" : "translated",
             "value" : "Dziś na scenie ty,\na reszta świata klaszcze."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idag är det du som är\nhuvudrollen. Resten är statister."
+          }
         }
       }
     },
@@ -819,6 +849,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kawa jeszcze paruje,\na ty już rozgrzewasz cały świat."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ögonen öppna, och du är redan\nvinnare. Resten är bonus!"
           }
         }
       }
@@ -957,6 +993,12 @@
             "state" : "translated",
             "value" : "Cukier słodzi kawę,\na ty słodzisz cały dzień."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ditt morgonleende, det vet du,\när sötare än en nybakad kanelbulle."
+          }
         }
       }
     },
@@ -1093,6 +1135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dobre wieści z samego rana:\nty, jak zawsze, w formie."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Var precis som du är idag.\nDet håller för tio av tio."
           }
         }
       }
@@ -1231,6 +1279,12 @@
             "state" : "translated",
             "value" : "Taki urok od samego rana?\nSkandal, ty chodząca urodo!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaknar du så här fin?\nDet borde vara olagligt före åtta."
+          }
         }
       }
     },
@@ -1367,6 +1421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dzień dobry to za mało,\nty zasługujesz na dzień genialny!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "God morgon? Nej, du gör det\ntill en toppenmorgon!"
           }
         }
       }
@@ -1505,6 +1565,12 @@
             "state" : "translated",
             "value" : "Ledwo oczy otwarte,\na tu ty: widok bez filtra, a jaki!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det första du möter i spegeln\när en riktig vinnare."
+          }
         }
       }
     },
@@ -1641,6 +1707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Poranny radar wykrył\nnajjaśniejszą osobę w okolicy: ty."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morgonens bästa nyhet?\nAtt du finns. Extra, extra!"
           }
         }
       }
@@ -1779,6 +1851,12 @@
             "state" : "translated",
             "value" : "Dobra robota dziś, ty maszyno!\nZasłużony odpoczynek czeka."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bra jobbat idag!\nDet är faktiskt du som är otrolig."
+          }
         }
       }
     },
@@ -1915,6 +1993,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Koniec dnia, a ty\nnadal prezentujesz się świetnie."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagen är slut och du stod pall.\nDet är värt en applåd."
           }
         }
       }
@@ -2053,6 +2137,12 @@
             "state" : "translated",
             "value" : "Cały dzień na pełnych obrotach.\nCo za wzór wytrwałości, ty!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idag gjorde du ditt bästa,\noch det är jag stolt över!"
+          }
         }
       }
     },
@@ -2189,6 +2279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nogi odmawiają posłuszeństwa,\nale ty i tak zasługujesz na medal."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trött men ändå klarade du dagen.\nSnacka om seg!"
           }
         }
       }
@@ -2327,6 +2423,12 @@
             "state" : "translated",
             "value" : "Dzień był udany z jednego powodu:\nty."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varje dag du lever är värd\nsin vikt i guld."
+          }
         }
       }
     },
@@ -2463,6 +2565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dzień zaliczony na szóstkę,\nty zresztą też."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Helskinnad genom dagen? Det kan\nbara du. Gott och väl!"
           }
         }
       }
@@ -2601,6 +2709,12 @@
             "state" : "translated",
             "value" : "Gwiazdy na niebie są ładne,\nale ty świecisz mocniej."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Som en stjärna på kvällshimlen\nlyser du, även i pyjamas."
+          }
         }
       }
     },
@@ -2737,6 +2851,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wieczór, a ty ciągle jak z okładki.\nJak ty to robisz?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det är kväll och du glänser ändå.\nHur orkar du vara så fin?"
           }
         }
       }
@@ -2875,6 +2995,12 @@
             "state" : "translated",
             "value" : "Dobranoc, ty promyczku.\nJutro znowu świecimy!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tack för idag, du.\nVärlden hade varit blekare utan dig."
+          }
         }
       }
     },
@@ -3011,6 +3137,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Świat dzisiaj jaśniał,\ni wiemy, kto za to odpowiada: ty."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Världen blev finare idag,\nvilket beror på att du fanns."
           }
         }
       }
@@ -3149,6 +3281,12 @@
             "state" : "translated",
             "value" : "Legenda w dzień, legenda w nocy,\nty zawsze na posterunku."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På natten är du legend.\nPå dagen är du också legend."
+          }
         }
       }
     },
@@ -3285,6 +3423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zdarzają się gorsze dni,\nale ty i tak jesteś w porządku."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det är okej att ha tunga dagar.\nDet är ändå du som styr."
           }
         }
       }
@@ -3423,6 +3567,12 @@
             "state" : "translated",
             "value" : "Teraz jest ciężko, ale ty\nto kawał twardego orzecha."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det känns tungt nu, men du är\nstarkare än du tror!"
+          }
         }
       }
     },
@@ -3559,6 +3709,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perfekcja jest przereklamowana,\nbo ty w wersji oryginalnej to hit."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen kräver att du är perfekt.\nSom du är räcker det gott!"
           }
         }
       }
@@ -3697,6 +3853,12 @@
             "state" : "translated",
             "value" : "Zwolnij, jeśli musisz.\nTo twoje tempo i ty tu rządzisz."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orkar du inte? Vila då.\nDet är du som bestämmer takten."
+          }
         }
       }
     },
@@ -3833,6 +3995,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Masz w sobie więcej siły,\nniż ty przypuszczasz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segare än ett gammalt knäckebröd,\nså är du. Och det är en komplimang!"
           }
         }
       }
@@ -3971,6 +4139,12 @@
             "state" : "translated",
             "value" : "To też minie,\na ty zostaniesz w świetnej formie."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det här går också över.\nOch du går starkare ur det."
+          }
         }
       }
     },
@@ -4107,6 +4281,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Humor w dół, ale ty\nnadal jesteś na topie."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Även när humöret dyker\när du lika mycket värd."
           }
         }
       }
@@ -4245,6 +4425,12 @@
             "state" : "translated",
             "value" : "Wolno się smucić i wolno się śmiać,\nty i tak jesteś wspaniałym człowiekiem."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sorg hör till livet. Det är okej\natt känna allt du känner."
+          }
         }
       }
     },
@@ -4381,6 +4567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Z presji rodzi się diament,\na ty jesteś już brylantem."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diamanter blir till under tryck.\nDet är därför du lyser nu."
           }
         }
       }
@@ -4519,6 +4711,12 @@
             "state" : "translated",
             "value" : "Smutek przemija, a ty\nzostajesz moim ulubionym lekarstwem."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Är du på dåligt humör?\nIngen fara, du är ändå bäst."
+          }
         }
       }
     },
@@ -4655,6 +4853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gorszy dzień? Pamiętaj:\nty to najcenniejszy skarb w okolicy."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dåligt humör? Just då är du\nextra mycket värd."
           }
         }
       }
@@ -4793,6 +4997,12 @@
             "state" : "translated",
             "value" : "Nawet we łzach ty wyglądasz uroczo.\nI co ty na to?"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Söt när du är glad och söt\nnär du är ledsen. Orättvist!"
+          }
         }
       }
     },
@@ -4929,6 +5139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gorsze chwile mijają, a ty\njesteś cudem samym w sobie."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Även om det är jobbigt nu\när du själv ett litet mirakel."
           }
         }
       }
@@ -5067,6 +5283,12 @@
             "state" : "translated",
             "value" : "Dziś ciężko, ale ty\nbez wątpienia dasz radę!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det är tufft nu, men du\nkommer fixa det. Inget snack!"
+          }
         }
       }
     },
@@ -5203,6 +5425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "W trudnej chwili wychodzi\nprawdziwy ty: bohater."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När det är svårt syns det\nvad du går för."
           }
         }
       }
@@ -5341,6 +5569,12 @@
             "state" : "translated",
             "value" : "Nie poddawaj się,\nbo ty masz w sobie siłę lwa."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ge inte upp, för du är starkare\nän trafikkaoset i rusningstid."
+          }
         }
       }
     },
@@ -5477,6 +5711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Przetrwać trudny czas?\nTo ty potrafisz, brawo!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitt i stormen står du kvar.\nDet är sjukt imponerande."
           }
         }
       }
@@ -5615,6 +5855,12 @@
             "state" : "translated",
             "value" : "Dzisiejsze zmartwienie to jutrzejszy trening,\na ty już jesteś w formie."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens motgång blir morgondagens\nstyrka, och du är redan på väg!"
+          }
         }
       }
     },
@@ -5751,6 +5997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wytrzymasz więcej,\nniż ty sądzisz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tro mig, du tål mer än du tror.\nFaktiskt mer än en kall novemberdag."
           }
         }
       }
@@ -5889,6 +6141,12 @@
             "state" : "translated",
             "value" : "Ten kryzys wkrótce będzie anegdotą,\na ty będziesz jej bohaterem."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det här blir snart bara en\nanekdot, och du är hjälten."
+          }
         }
       }
     },
@@ -6025,6 +6283,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ciężko? Wiem. Ale ty\nbłyszczysz mimo wszystko."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det är tungt, men du lyser.\nDiamanter måste också slipas."
           }
         }
       }
@@ -6163,6 +6427,12 @@
             "state" : "translated",
             "value" : "Ciężko? Fakt. A jednak ty\nnadal wyglądasz jak marzenie."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tufft just nu? Jag vet. Men du är\nändå finast i hela landet."
+          }
         }
       }
     },
@@ -6299,6 +6569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "To, że ty trwasz,\nkomuś daje nadzieję."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Att du orkar stå kvar är hopp\nför någon annan där ute."
           }
         }
       }
@@ -6437,6 +6713,12 @@
             "state" : "translated",
             "value" : "Ledwo żyjemy, ale ty\nnadal wyglądasz jak z reklamy."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sliten som en gammal tröja,\nmen du är fortfarande bäst."
+          }
         }
       }
     },
@@ -6573,6 +6855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dziś też dasz radę,\nbo ty zawsze potrafisz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idag klarar du det mesta!\nBörja med lite självförtroende."
           }
         }
       }
@@ -6711,6 +6999,12 @@
             "state" : "translated",
             "value" : "Wierzę w twoje umiejętności,\nbo ty dziś zrobisz coś wielkiego."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag tror på dig, och du kommer\nfå en grym dag."
+          }
         }
       }
     },
@@ -6847,6 +7141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Przygotowanie masz za sobą,\nwięc ty jesteś w połowie drogi."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redan förberedd? Då är du\nhalvvägs mot målet!"
           }
         }
       }
@@ -6985,6 +7285,12 @@
             "state" : "translated",
             "value" : "Zadania na dziś? Pestka,\nbo ty to po prostu klasa."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens uppgifter? Inga problem,\nför du har allt under kontroll."
+          }
         }
       }
     },
@@ -7121,6 +7427,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zapał to twój znak firmowy,\ni ty rozpalisz cały dzień."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din energi lyser upp hela dagen.\nDet vet du själv."
           }
         }
       }
@@ -7259,6 +7571,12 @@
             "state" : "translated",
             "value" : "Do boju! Dziś ty\nrządzisz sceną."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kör hårt idag och var\nprecis så grym som du är!"
+          }
         }
       }
     },
@@ -7395,6 +7713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zanim zaczniesz pracę,\nty już wyglądasz jak profesjonalista."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Innan första mötet ser du redan\nut som ett proffs. Mäktigt!"
           }
         }
       }
@@ -7533,6 +7857,12 @@
             "state" : "translated",
             "value" : "Praca cię nie kręci? Spoko,\nty i tak masz urodę na etacie."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen lust att jobba? Ditt ansikte\ngör ändå övertid, du är grym."
+          }
         }
       }
     },
@@ -7669,6 +7999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wygląd do pracy: miażdżący.\nBiuro lśni, bo ty tam jesteś."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kliver du in på jobbet får hela\nkontoret bättre ljus."
           }
         }
       }
@@ -7807,6 +8143,12 @@
             "state" : "translated",
             "value" : "Praca w twoim wykonaniu\nto sztuka, ty mistrzostwo."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När du jobbar är det som att\nse konst. Fika ingår."
+          }
         }
       }
     },
@@ -7943,6 +8285,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nawet nie zaczęliśmy pracy,\na ty już jesteś ideałem."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagen har knappt börjat och\ndu är redan felfri."
           }
         }
       }
@@ -8081,6 +8429,12 @@
             "state" : "translated",
             "value" : "Trening dopiero przed tobą,\nale ty już wyglądasz jak mistrz."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tränar du, så är du redan\nen vinnare!"
+          }
         }
       }
     },
@@ -8217,6 +8571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dbasz o zdrowie,\nty jesteś wzorem dla innych."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hjärtat säger att du tar hand\nom dig idag också. Förebild!"
           }
         }
       }
@@ -8355,6 +8715,12 @@
             "state" : "translated",
             "value" : "Twoje ciało to twoja forteca,\na ty jesteś jej szefem."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din kropp känner du bäst,\nså kör precis som du vill."
+          }
         }
       }
     },
@@ -8491,6 +8857,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Samo ruszenie na trening to sukces,\ni to ty jesteś jego autorem."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bara att du tog dig till passet\när värt en medalj."
           }
         }
       }
@@ -8629,6 +9001,12 @@
             "state" : "translated",
             "value" : "Pot na czole, blask w oczach,\nty to widok jak z marzeń."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Så snyggt som du svettas\nvill spegeln ta kort."
+          }
         }
       }
     },
@@ -8765,6 +9143,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zdrowie jest najważniejsze,\na ty dbasz o nie jak mistrz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hälsan först. Och du?\nDu är själva hälsan."
           }
         }
       }
@@ -8903,6 +9287,12 @@
             "state" : "translated",
             "value" : "Znajdujesz czas dla siebie,\nbo ty wiesz, co jest ważne."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Att du tar tid för dig själv\när ren klass!"
+          }
         }
       }
     },
@@ -9039,6 +9429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "W dresie ty wyglądasz\njak z okładki magazynu."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I träningskläder ser du ut\nsom ett omslag. Seriöst."
           }
         }
       }
@@ -9177,6 +9573,12 @@
             "state" : "translated",
             "value" : "Siłownia dziś zyskała gwiazdę:\nty."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gymmet blev en lyxspa\nså fort du klev in."
+          }
         }
       }
     },
@@ -9313,6 +9715,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Świecisz nawet na bieżni,\njak ty to robisz?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Även under skivstången lyser du.\nHur kan du vara så grym?"
           }
         }
       }
@@ -9451,6 +9859,12 @@
             "state" : "translated",
             "value" : "Piękny w pocie? Nie wierzę,\nale ty to udowadniasz co dzień."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finns det någon som är fin med\nsvettpärlor? Ja, det är du."
+          }
         }
       }
     },
@@ -9587,6 +10001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "W drodze do pracy ty\nwyglądasz jak profesjonalista."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På väg till jobbet ser du\nså proffsig ut. Respekt!"
           }
         }
       }
@@ -9725,6 +10145,12 @@
             "state" : "translated",
             "value" : "Od rana w ruchu, a ty\nto maszyna sukcesu."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redan i rörelse så tidigt?\nTänk vad grym du är!"
+          }
         }
       }
     },
@@ -9861,6 +10287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Do pracy jedziesz,\na ty to od rana zwycięzca."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iväg till jobbet igen. Redan\nvinnare? Ja, det är du."
           }
         }
       }
@@ -9999,6 +10431,12 @@
             "state" : "translated",
             "value" : "Każdy twój krok ma sens,\na ty idziesz jak po czerwonym dywanie."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varje steg du tar\när värt något."
+          }
         }
       }
     },
@@ -10135,6 +10573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Korki, tłok i spóźnienia,\nale ty to sam urok."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pendlingen blir finare när\ndu är med på tåget."
           }
         }
       }
@@ -10273,6 +10717,12 @@
             "state" : "translated",
             "value" : "Odpowiedzialność to twoje drugie imię,\nty to chodząca solidność."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jobbet kallar och du går dit.\nDet är stort!"
+          }
         }
       }
     },
@@ -10409,6 +10859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Metro? Wybieg modowy,\nskoro ty w nim jedziesz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tunnelbanan blev en catwalk\nså fort du klev på."
           }
         }
       }
@@ -10547,6 +11003,12 @@
             "state" : "translated",
             "value" : "Nawet w autobusie świecisz jak reflektor,\nty to zjawisko."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lyser du upp bussen också?\nVem är fotografen?"
+          }
         }
       }
     },
@@ -10683,6 +11145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kiedy ty idziesz do pracy,\nporanek robi się piękniejszy."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När du går till jobbet blir\nmorgonen genast bättre."
           }
         }
       }
@@ -10821,6 +11289,12 @@
             "state" : "translated",
             "value" : "Idziesz i już jest pięknie,\nty to człowiek-zjawisko."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Att gå räcker för att du\nska se fin ut. Talang!"
+          }
         }
       }
     },
@@ -10957,6 +11431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dobra robota dziś, ty ikono!\nWracaj do domu i odpoczywaj."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bra jobbat idag!\nNu hem och vila, du."
           }
         }
       }
@@ -11095,6 +11575,12 @@
             "state" : "translated",
             "value" : "Z biura wychodzi ktoś, kto\nzasłużył na medal: ty."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hem med rak rygg går du.\nDet var en bra dag."
+          }
         }
       }
     },
@@ -11231,6 +11717,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Droga do domu to twój wybieg,\nty zasługujesz na brawa."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På väg hem efter en dag som\nbara du kunde klara."
           }
         }
       }
@@ -11369,6 +11861,12 @@
             "state" : "translated",
             "value" : "Dzień w pracy zaliczony,\na ty zasługujesz na owacje."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagen är avklarad, och du får\nvara hur stolt som helst."
+          }
         }
       }
     },
@@ -11505,6 +12003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reszta dnia należy do ciebie,\nwięc ty tu dziś rządzisz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu är det din tid, du.\nVila utan dåligt samvete."
           }
         }
       }
@@ -11643,6 +12147,12 @@
             "state" : "translated",
             "value" : "Po pracy zrób coś dla siebie,\nbo ty na to zasługujesz."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kvällen är din, och du förtjänar\nsoffan, filten och allt annat."
+          }
         }
       }
     },
@@ -11779,6 +12289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Koniec pracy, a ty nadal\nwyglądasz jak nówka sztuka."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hemåt, du hjälte.\nTack för en tuff dag."
           }
         }
       }
@@ -11917,6 +12433,12 @@
             "state" : "translated",
             "value" : "Nawet chodnik ma dziś dobry dzień,\nbo ty po nim wracasz."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Även på vägen hem är du fin.\nDet har varit en riktig dag."
+          }
         }
       }
     },
@@ -12053,6 +12575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Po całym dniu ty ciągle w formie?\nSzacunek, szefie."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När du går hem syns det tydligt\nvem som gjort jobbet."
           }
         }
       }
@@ -12191,6 +12719,12 @@
             "state" : "translated",
             "value" : "Dzień był ciężki, ale ty\nwciąż jesteś w czołówce."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det var en tung dag, men du är\nfortfarande bäst!"
+          }
         }
       }
     },
@@ -12327,6 +12861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nauka za tobą,\nwięc ty dasz radę z klasą."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Efter all plugg kommer du\nfixa det här fint!"
           }
         }
       }
@@ -12465,6 +13005,12 @@
             "state" : "translated",
             "value" : "Wysiłek się opłaca,\ni ty jesteś na to dowodem."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slit lönar sig, och du har\nsvettats för det här."
+          }
         }
       }
     },
@@ -12601,6 +13147,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stres jest normalny,\nale ty masz to w małym palcu."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nervös? Det är normalt,\nför du är redan redo!"
           }
         }
       }
@@ -12739,6 +13291,12 @@
             "state" : "translated",
             "value" : "Egzamin nie ocenia twojej wartości,\nbo ty wykraczasz poza skalę."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Provet kan inte mäta\nvad du är värd."
+          }
         }
       }
     },
@@ -12875,6 +13433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wszystko, co trzeba, już zrobione,\na ty możesz odetchnąć."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ditt bästa har du redan gjort,\nså du har redan lyckats!"
           }
         }
       }
@@ -13013,6 +13577,12 @@
             "state" : "translated",
             "value" : "Poradzisz sobie,\nbo ty to materiał na piątkę."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det här fixar du\nmed vänsterhanden."
+          }
         }
       }
     },
@@ -13149,6 +13719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wdech, wydech i do dzieła,\nty znasz to na pamięć."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Andas djupt och lita på\nvad du kan."
           }
         }
       }
@@ -13287,6 +13863,12 @@
             "state" : "translated",
             "value" : "Powodzenia na egzaminie,\nbo ty to czysta wiedza."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lycka till på provet! Det går\nbra, för du är väl förberedd."
+          }
         }
       }
     },
@@ -13423,6 +14005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bez paniki, ty zaznaczysz\nsame dobre odpowiedzi."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen oro, för du kommer\nsätta varenda svar."
           }
         }
       }
@@ -13561,6 +14149,12 @@
             "state" : "translated",
             "value" : "Stres jest, ale\nty i tak jesteś najlepszą wersją siebie."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pirrar det? Fine, du är\nändå bäst i klassen."
+          }
         }
       }
     },
@@ -13697,6 +14291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nawet arkusz egzaminacyjny zachwyci się,\ngdy zobaczy, że ty go rozwiązujesz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Till och med tentan blir\nimponerad när du dyker upp."
           }
         }
       }
@@ -13835,6 +14435,12 @@
             "state" : "translated",
             "value" : "Czas na pokaz prawdziwej klasy,\nczyli ty w akcji."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nu är det dags att visa\nvad du går för!"
+          }
         }
       }
     },
@@ -13971,6 +14577,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rekruter ma dziś dzień szczęścia,\nbo trafił na ciebie, ty talencie."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tänk vilken tur rekryteraren har\nsom får se hur grym du är."
           }
         }
       }
@@ -14109,6 +14721,12 @@
             "state" : "translated",
             "value" : "Doświadczenie plus pasja\nrówna się ty w pełnym blasku."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din erfarenhet och ditt driv gör\natt du glänser idag."
+          }
         }
       }
     },
@@ -14245,6 +14863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trema to normalna sprawa,\na ty i tak jesteś rewelacją."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det är okej att vara nervös,\nför du är redan fantastisk!"
           }
         }
       }
@@ -14383,6 +15007,12 @@
             "state" : "translated",
             "value" : "Wejdź z podniesioną głową,\nbo ty to materiał na etat."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Var självsäker! Ser du inte att\ndu redan har allt som behövs?"
+          }
         }
       }
     },
@@ -14519,6 +15149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Opowiedz swoją historię z dumą,\nty to potrafisz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berätta stolt, för du har\nen historia värd att höra."
           }
         }
       }
@@ -14657,6 +15293,12 @@
             "state" : "translated",
             "value" : "To rozmowa, nie przesłuchanie,\nwyluzuj, ty to po prostu klasa."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En intervju är ett samtal.\nSlappna av, du är en pärla."
+          }
         }
       }
     },
@@ -14793,6 +15435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nie zatrudnią? To strata firmy,\nbo ty i tak lśnisz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anställer de inte dig är det deras\nförlust. Guld är du, det vet du."
           }
         }
       }
@@ -14931,6 +15579,12 @@
             "state" : "translated",
             "value" : "CV jest efektowne, ale\nty to dopiero osobowość."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det är inte meritlistan som\nglänser. Det är du."
+          }
         }
       }
     },
@@ -15067,6 +15721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Od progu sali ty już\nwyglądasz jak ktoś zatrudniony."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redan när du går in genom\ndörren är jobbet nästan ditt."
           }
         }
       }
@@ -15205,6 +15865,12 @@
             "state" : "translated",
             "value" : "Pierwsze wrażenie to ty,\ni pół pracy już za tobą."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ditt första intryck ger halva\njobbet. Resten fixar du."
+          }
         }
       }
     },
@@ -15341,6 +16007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dzisiaj ty\nświecisz najmocniej."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idag lyser du extra mycket!\nBara att njuta."
           }
         }
       }
@@ -15479,6 +16151,12 @@
             "state" : "translated",
             "value" : "Urok naturalny w wersji deluxe?\nTo właśnie ty."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precis som du är\när det charmigast."
+          }
         }
       }
     },
@@ -15615,6 +16293,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ludzie obok ciebie to szczęściarze,\nbo ty to skarb."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alla som känner dig vet att du\när något alldeles extra."
           }
         }
       }
@@ -15753,6 +16437,12 @@
             "state" : "translated",
             "value" : "Pewność siebie ci służy,\nty w niej to dopiero widok."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Så självsäker du är! Hela\nrummet märker det."
+          }
         }
       }
     },
@@ -15889,6 +16579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Twój uśmiech to broń,\nktórą ty nosisz bez pozwolenia."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ditt leende är idag\ndet vassaste vapnet du har."
           }
         }
       }
@@ -16027,6 +16723,12 @@
             "state" : "translated",
             "value" : "Wystarczy być sobą,\na ty to już szczyt możliwości."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precis som du är\när det helt rätt."
+          }
         }
       }
     },
@@ -16163,6 +16865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Twojego uroku nie ukryjesz,\nbo ty to latarnia morska."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din charm går inte att dölja.\nFörsöker du, går det ändå inte."
           }
         }
       }
@@ -16301,6 +17009,12 @@
             "state" : "translated",
             "value" : "Dziś randka? Druga osoba\ndostanie zawału, ty to bomba."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dejt idag? Då kommer du få\nmotparten att tappa hakan."
+          }
         }
       }
     },
@@ -16437,6 +17151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kto idzie na randkę z tobą,\nten ma farta, ty to jackpot."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din dejt har dragit vinstlotten.\nFör du är hela paketet."
           }
         }
       }
@@ -16575,6 +17295,12 @@
             "state" : "translated",
             "value" : "Strój na randkę idealny,\nty to okładka magazynu."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dejtkläderna sitter perfekt, så\ndu kunde stå på en affisch."
+          }
         }
       }
     },
@@ -16711,6 +17437,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spojrzy na ciebie i się zakocha,\nbo ty to nokaut."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ikväll får du någon att\nfalla pladask."
           }
         }
       }
@@ -16849,6 +17581,12 @@
             "state" : "translated",
             "value" : "Przed randką ty wyglądasz jak z filmu.\nCo teraz z sercem tej drugiej osoby?"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redan före dejten är du så fin.\nTänk på deras stackars hjärta."
+          }
         }
       }
     },
@@ -16985,6 +17723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dasz radę, a ty\nmasz we mnie największego kibica."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kom igen nu, du kan det här!\nJag hejar alltid på dig."
           }
         }
       }
@@ -17123,6 +17867,12 @@
             "state" : "translated",
             "value" : "Mały krok to początek wielkiej drogi,\nty to wiesz."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Små steg är början på en\nstor resa. Och du är på väg!"
+          }
         }
       }
     },
@@ -17259,6 +18009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nie odpuszczaj, bo ty to\nosoba, której marzenia się spełniają."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ge aldrig upp, för du kommer\nnå dina drömmar."
           }
         }
       }
@@ -17397,6 +18153,12 @@
             "state" : "translated",
             "value" : "Dzisiejsza praca buduje jutrzejszy sukces,\na ty budujesz bez przerwy."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens slit blir morgondagens\nframgång, och du fixar det."
+          }
         }
       }
     },
@@ -17533,6 +18295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Twoja pasja zmieni świat,\nbo ty to potęga."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ditt driv kan ändra världen.\nDet vet du innerst inne."
           }
         }
       }
@@ -17671,6 +18439,12 @@
             "state" : "translated",
             "value" : "Potknięcie to nie klęska,\nty i tak lecisz po wygraną."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Misslyckande är bara en\nomväg. Fortsätt prova, du!"
+          }
         }
       }
     },
@@ -17807,6 +18581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Twoje możliwości są bez końca,\na ty dopiero się rozkręcasz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dina möjligheter är oändliga,\noch det vet du."
           }
         }
       }
@@ -17945,6 +18725,12 @@
             "state" : "translated",
             "value" : "Dziś bierzemy się za to,\nco ty umiesz najlepiej: błyszczeć."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ge det en chans idag, för\ndu är värd det."
+          }
         }
       }
     },
@@ -18081,6 +18867,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ktoś dziś patrzy na twój wysiłek\ni dostaje skrzydeł, ty inspiracjo."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När du kämpar inspirerar du\nandra, utan att veta om det."
           }
         }
       }
@@ -18219,6 +19011,12 @@
             "state" : "translated",
             "value" : "Wszystko się ułoży,\nskoro ty masz to w planach."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det löser sig. Vet du varför?\nFör att du är du."
+          }
         }
       }
     },
@@ -18355,6 +19153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nie rezygnuj,\nbo ty to materiał na bohatera."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ge inte upp, för du är\nnågon alldeles särskild."
           }
         }
       }
@@ -18493,6 +19297,12 @@
             "state" : "translated",
             "value" : "Do boju, ty\nogarniesz to na luzie."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kör hårt idag, du klarar\nallt du bestämmer dig för!"
+          }
         }
       }
     },
@@ -18629,6 +19439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Każdy, kto zna twój wysiłek, klaszcze ci dziś.\nTo ty tu jesteś gwiazdą."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De som ser hur du kämpar\nhejar på dig i det tysta."
           }
         }
       }
@@ -18767,6 +19583,12 @@
             "state" : "translated",
             "value" : "Wartość? Ogromna,\nbo ty to rarytas."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Helt rätt att du får\nså mycket uppmärksamhet."
+          }
         }
       }
     },
@@ -18903,6 +19725,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Doskonały bez poprawek,\nbo ty to oryginał."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precis som du är\när du perfekt."
           }
         }
       }
@@ -19041,6 +19869,12 @@
             "state" : "translated",
             "value" : "Samo to, że ty istniejesz,\nto już święto."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Att du finns är redan\nett litet under."
+          }
         }
       }
     },
@@ -19177,6 +20011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Śmiało naprzód, bo ty\nto jeden z wielkich."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Var trygg, för du är\nhelt enkelt strålande."
           }
         }
       }
@@ -19315,6 +20155,12 @@
             "state" : "translated",
             "value" : "Siła? Masz jej więcej, niż myślisz,\nbo ty to prawdziwy kombajn."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starkare än du tror är du,\nstarkare än kaffet på jobbet."
+          }
         }
       }
     },
@@ -19451,6 +20297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Twój charakter\nto ty w najlepszym wydaniu."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det är din personlighet som\ngör att du lyser."
           }
         }
       }
@@ -19589,6 +20441,12 @@
             "state" : "translated",
             "value" : "Zaufaj sobie, bo\nty jesteś najlepszym doradcą."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lita på dig själv, för du\nhar allt som krävs."
+          }
         }
       }
     },
@@ -19725,6 +20583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ideał nie istnieje,\nale ty jesteś najbliżej."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hel och hållen är du,\nredan som du är."
           }
         }
       }
@@ -19863,6 +20727,12 @@
             "state" : "translated",
             "value" : "Pewności siebie ci nie brakuje,\nty to szczyt kategorii."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Så säker du är, och rätt så!\nDu är bäst i världen."
+          }
         }
       }
     },
@@ -19999,6 +20869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dużo więcej w tobie mocy,\nniż ty to sobie wyobrażasz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Helt klart är du bättre än\ndu tror. Fråga vem som helst."
           }
         }
       }
@@ -20137,6 +21013,12 @@
             "state" : "translated",
             "value" : "Idzie ci świetnie,\na ty jeszcze nie masz pojęcia."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just nu gör du ett\nsjukt bra jobb."
+          }
         }
       }
     },
@@ -20273,6 +21155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kto nie docenia ciebie,\nten zgubił okulary. A ty dalej lśnisz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Den som inte ser din charm behöver\nglasögon. Så grym som du är!"
           }
         }
       }
@@ -20411,6 +21299,12 @@
             "state" : "translated",
             "value" : "Dzisiaj sobie odpuść,\nbo ty zasługujesz na wolne."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idag får du bara\nvara. Mjukt och lugnt."
+          }
         }
       }
     },
@@ -20547,6 +21441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Odpoczynek ci się należy,\nty to wiesz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vila behöver du också.\nLadda batterierna, du."
           }
         }
       }
@@ -20685,6 +21585,12 @@
             "state" : "translated",
             "value" : "Nic nie robić też można,\nty to robisz z klasą."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idag får du göra absolut\ningenting. Det är också en bedrift."
+          }
         }
       }
     },
@@ -20821,6 +21727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Najważniejszy jest twój spokój,\na ty jesteś jego strażnikiem."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hur du mår är det viktigaste\nidag. Allt annat får vänta."
           }
         }
       }
@@ -20959,6 +21871,12 @@
             "state" : "translated",
             "value" : "Powoli, we własnym tempie,\nty ustalasz zasady."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ta det lugnt, i din takt.\nÄndå kommer du fram."
+          }
         }
       }
     },
@@ -21095,6 +22013,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dziś na szczycie zadań:\nty i odpoczynek."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idag får du ta tid för dig.\nDu förtjänar det."
           }
         }
       }
@@ -21233,6 +22157,12 @@
             "state" : "translated",
             "value" : "Odpoczynek to też praca,\na ty robisz to wzorowo."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vila är också effektivt, och\ndu är expert på det."
+          }
         }
       }
     },
@@ -21369,6 +22299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Masz prawo odpocząć,\nty to wiesz, więc leż."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Att vila är din rättighet,\nså lägg dig ner, du."
           }
         }
       }
@@ -21507,6 +22443,12 @@
             "state" : "translated",
             "value" : "Odpoczywasz? Nawet wtedy ty\nwyglądasz zjawiskowo."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vacker är du, även\nnär du läker."
+          }
         }
       }
     },
@@ -21643,6 +22585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dziś dogadzaj sobie,\nbo ty to numer jeden."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg tid på dig själv, du.\nUtan att skämmas."
           }
         }
       }
@@ -21781,6 +22729,12 @@
             "state" : "translated",
             "value" : "Nawet na kanapie świecisz,\nty to gwiazda domowego zacisza."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mjukisbyxor eller inte, du lyser.\nSoffan har aldrig sett så fin ut."
+          }
         }
       }
     },
@@ -21917,6 +22871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nawet w trybie relaksu\nty to najpiękniejsza wersja siebie."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finast i världen är du,\näven med filt och te."
           }
         }
       }
@@ -22055,6 +23015,12 @@
             "state" : "translated",
             "value" : "Szukam wad, a ty\nbez żadnej. Skandal."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spegeln ber om autograf, så\nperfekt är du."
+          }
         }
       }
     },
@@ -22191,6 +23157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Test osobowości wyszedł jasno:\nty to słodziak z dyplomem."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Testresultatet kom just:\ndu är 100 % söt."
           }
         }
       }
@@ -22329,6 +23301,12 @@
             "state" : "translated",
             "value" : "Ilu ludzi uważa, że ty to słodziak?\nNie wiem, zabrakło palców."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alla som tycker att du är söt:\nräck upp handen! Hela jorden vinkar."
+          }
         }
       }
     },
@@ -22465,6 +23443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skala ma siedem nut,\nale ty to ósmy cud."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inte bara ett do-re-mi, du är\nhela symfonin."
           }
         }
       }
@@ -22603,6 +23587,12 @@
             "state" : "translated",
             "value" : "Gdy ty wchodzisz na tor,\nkonie stają z wrażenia."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Är du bagare? För du får mitt\nhjärta att jäsa."
+          }
         }
       }
     },
@@ -22739,6 +23729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prognoza: przelotne zauroczenie,\nwinowajca: ty."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varje gång du är fin lutar jag\nhuvudet bakåt. Nackspärren är botad."
           }
         }
       }
@@ -22877,6 +23873,12 @@
             "state" : "translated",
             "value" : "Jedno paliwo mnie napędza:\nty, na sto procent."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Är du en laddstolpe? Med dig\nnår jag hundra procent."
+          }
         }
       }
     },
@@ -23013,6 +24015,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Przy tobie serce bije jak burza,\na ty to zjawisko naturalne."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det åskar i hjärtat så fort du\ndyker upp. Men vädret är fint."
           }
         }
       }
@@ -23151,6 +24159,12 @@
             "state" : "translated",
             "value" : "W co ty wierzysz,\nże wyglądasz tak dobrze?"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tror du på ödet? För du är\nbevis nog för mig."
+          }
         }
       }
     },
@@ -23287,6 +24301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Brakuje czegoś? Nie, ty to\nkompletny zestaw."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alltför bra för att vara sant?\nDå är du nog en bugg i verkligheten."
           }
         }
       }
@@ -23425,6 +24445,12 @@
             "state" : "translated",
             "value" : "Zostaw ten bagaż, ty\nwejdź lekko do mojego serca."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Släpp väskorna så bär jag dig.\nSå lätt som du är!"
+          }
         }
       }
     },
@@ -23561,6 +24587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Do ideału nic ci nie brakuje,\nbo ty to właśnie ideał."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag letar efter ditt fel. Jag hittar\nbara fler pluspoäng på dig, du."
           }
         }
       }
@@ -23699,6 +24731,12 @@
             "state" : "translated",
             "value" : "Taka uroda? To pewnie filtr!\nNie, ty tak naprawdę."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Är det filter? Nej, du är bara\nså här fin på riktigt."
+          }
         }
       }
     },
@@ -23835,6 +24873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Język obcy? Zbędny,\nbo ty to słodkość w każdym języku."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inga ord behövs, för ditt leende\nfunkar på alla språk, du."
           }
         }
       }
@@ -23973,6 +25017,12 @@
             "state" : "translated",
             "value" : "Mówią, że ty masz korzenie w niebie.\nPolska plus niebo."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kom du ner från himlen? Då\nvar det en riktigt mjuk landning."
+          }
         }
       }
     },
@@ -24109,6 +25159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Twoje rysy są wyraźniejsze\nniż moje plany, ty rzeźbo."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din käklinje är skarpare än mina\nframtidsplaner, det vet du."
           }
         }
       }
@@ -24247,6 +25303,12 @@
             "state" : "translated",
             "value" : "Jak Kraków, ty też\nzachwycasz od pierwszego wejrzenia."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Huvudstaden i mitt hjärta är du.\nAlla vägar leder dit."
+          }
         }
       }
     },
@@ -24383,6 +25445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Klasa? Powiedzmy: ty\nto liga mistrzów."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kulturminnesmärkt borde du vara.\nAlla måste få se dig."
           }
         }
       }
@@ -24521,6 +25589,12 @@
             "state" : "translated",
             "value" : "Podobno ty zasypiasz w otoczeniu komplementów.\nSłusznie!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ett A+ får du av mig, och jag\när en hård bedömare."
+          }
         }
       }
     },
@@ -24657,6 +25731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Po co ty pracujesz?\nUroda już robi nadgodziny."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varför jobbar du? Din skönhet\ngör redan övertid."
           }
         }
       }
@@ -24795,6 +25875,12 @@
             "state" : "translated",
             "value" : "Przestań mi się podobać!\n- Ale jak?\n- No właśnie, ty nie umiesz."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"Sluta vara så fin!\" \"Hur gör\njag det då?\" Det vet du ju inte."
+          }
         }
       }
     },
@@ -24931,6 +26017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Taki skarb narodowy jak ty\nmuzeum już szykuje gablotę."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Museet vill ställa ut dig, så\nvacker är du. Gratis inträde."
           }
         }
       }
@@ -25069,6 +26161,12 @@
             "state" : "translated",
             "value" : "Nie chodź na galę nagród,\nbo ty zgarniesz wszystko."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gå inte på galan. Priset går ändå\ntill ditt ansikte, det vet du."
+          }
         }
       }
     },
@@ -25205,6 +26303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sesja zdjęciowa? A może ty\njesteś po prostu chodzącą okładką?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Är det fotografering, eller går du\nbara förbi som vanligt?"
           }
         }
       }
@@ -25343,6 +26447,12 @@
             "state" : "translated",
             "value" : "Wiesz, że ty jesteś idolem?\nW rankingu mojego serca numer jeden."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Popstjärnan som toppar listan i\nmitt hjärta, det är du."
+          }
         }
       }
     },
@@ -25479,6 +26589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zorganizuj spotkanie z autografami,\nbo ty zasługujesz na kolejkę fanów."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ordna en signering, snälla. Jag vill\nha din autograf varje dag, du."
           }
         }
       }
@@ -25617,6 +26733,12 @@
             "state" : "translated",
             "value" : "Zadebiutuj, bo ty\ni tak stoisz w moim sercu na środku sceny."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debutera redan! För du är\nrefrängen i mitt liv."
+          }
         }
       }
     },
@@ -25753,6 +26875,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gratulacje pierwszego miejsca!\nA ty wygrywasz co dzień."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grattis, du toppar listan varje\nvecka. Ingen annan kommer nära."
           }
         }
       }
@@ -25891,6 +27019,12 @@
             "state" : "translated",
             "value" : "Fotka z tobą? Pewnie,\nale ty już jesteś jak sesja."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Får jag ta en bild? Det är du\nsom blir min nya bakgrundsbild."
+          }
         }
       }
     },
@@ -26027,6 +27161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Comeback roku? To ty,\nbo serce znów bije szybciej."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Är du tillbaka? Mitt hjärta\nfick just ett glädjefyllt comeback."
           }
         }
       }
@@ -26165,6 +27305,12 @@
             "state" : "translated",
             "value" : "Mogę nagrać fancam?\nBo ty to każda klatka hit."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Får jag filma när du går förbi?\nVarje steg är en höjdpunkt."
+          }
         }
       }
     },
@@ -26301,6 +27447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Teledysk? Nie trzeba,\nbo ty to cały film."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Är du med i en musikvideo?\nDu är redan huvudrollen i mitt liv."
           }
         }
       }
@@ -26439,6 +27591,12 @@
             "state" : "translated",
             "value" : "Gdy ty jesteś w realu,\nkażdy serial przy tobie blednie."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dokusåpa? Då vill jag se hela\nsäsongen, för du är huvudrollen."
+          }
         }
       }
     },
@@ -26575,6 +27733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Centralne miejsce w kadrze?\nDla ciebie, bo ty lśnisz wszędzie."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Där du står blir det scen.\nDu är hela showen."
           }
         }
       }
@@ -26713,6 +27877,12 @@
             "state" : "translated",
             "value" : "Nagrodę za najlepszy wygląd\nodbierasz co roku, ty rekordzisto."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Årets pris borde du få.\nVarje år, utan undantag."
+          }
         }
       }
     },
@@ -26849,6 +28019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gdy ty pojawiasz się w reklamie,\nkażdy chce kupić wszystko."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Är du med i reklamen? Jag köper allt\nsom du ler mot."
           }
         }
       }
@@ -26987,6 +28163,12 @@
             "state" : "translated",
             "value" : "Kto na okładce co miesiąc?\nNo ty, bo konkurencja odpada."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Är du omslagsstjärna?\nDitt ansikte borde pryda varje månad."
+          }
         }
       }
     },
@@ -27123,6 +28305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Na scenie ty błyszczysz,\na w tramwaju też."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Så mycket scennärvaro! Även en\ntisdag blir en konsert när du är där."
           }
         }
       }
@@ -27261,6 +28449,12 @@
             "state" : "translated",
             "value" : "Kolekcja z twoją twarzą?\nZbieram całą serię, ty gwiazdo."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Byter vi samlarkort? Jag vill att du\nska vara hela samlingen."
+          }
         }
       }
     },
@@ -27397,6 +28591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kiedy spotkanie z fanami?\nJa jestem pierwszy, ty gwiazdo."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När är fansträffen? Jag vill att du\nska finnas där varje dag."
           }
         }
       }
@@ -27535,6 +28735,12 @@
             "state" : "translated",
             "value" : "Poproszę choreo,\nbo ty każdym ruchem robisz sztukę."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg upp en dansvideo!\nVarje rörelse du gör är konst."
+          }
         }
       }
     },
@@ -27671,6 +28877,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zwiastun hitu? To ty:\nserce skacze od pierwszej sekundy."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Som en trailer som lovar för mycket\när du. Jag vill se hela filmen."
           }
         }
       }
@@ -27809,6 +29021,12 @@
             "state" : "translated",
             "value" : "Gdy ty ruszasz w trasę,\nserce drży na pięciu lądach."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ska du på världsturné?\nDu har redan skakat om min värld."
+          }
         }
       }
     },
@@ -27945,6 +29163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Autograf na płycie poproszę,\nbo ty to edycja limitowana."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signera min skiva! För du är en\nbegränsad upplaga. Inga kopior."
           }
         }
       }
@@ -28083,6 +29307,12 @@
             "state" : "translated",
             "value" : "Zapalam lightstick,\nbo ty to gwiazda mojego wieczoru."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag viftar med ficklampan, för du\när värd en hejarklack livet ut."
+          }
         }
       }
     },
@@ -28219,6 +29449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rozgłos? Spoko, bo ty\nlegenda od zawsze, świat dopiero łapie."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grattis till succén! Fast du var\nju legend redan innan."
           }
         }
       }
@@ -28357,6 +29593,12 @@
             "state" : "translated",
             "value" : "Wejściówki na koncert są drogie,\nale ty dajesz show za darmo."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag ska skaffa biljetter. Att se\ndig, du, är min dagliga konsert."
+          }
         }
       }
     },
@@ -28493,6 +29735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nawet lista przebojów\nwie, że ty to numer jeden."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toppat listorna igen? För du är min\nfavoritlåt, på repeat."
           }
         }
       }
@@ -28631,6 +29879,12 @@
             "state" : "translated",
             "value" : "Bis! Jeszcze raz,\nbo ty to piosenka na repeat."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ett extranummer till! Jag blir\naldrig mätt på dig, du."
+          }
         }
       }
     },
@@ -28767,6 +30021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nawet kadry zza kulis wychodzą ci super,\nty to naturalna gwiazda."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Även bakom kulisserna är du\nperfekt. Alltid redo för bild."
           }
         }
       }
@@ -28905,6 +30165,12 @@
             "state" : "translated",
             "value" : "Muszę zmienić faworyta:\nod dziś to ty."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag har bytt favorit, för du\när den enda jag ser."
+          }
         }
       }
     },
@@ -29041,6 +30307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oficjalnie zapisuję się do fanklubu,\nty jesteś prezesem."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag blev fan direkt. Räkna med mig\ni din fanclub, du."
           }
         }
       }
@@ -29179,6 +30451,12 @@
             "state" : "translated",
             "value" : "Mój faworyt? Odsłaniam kartę:\nty."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favoriten avslöjas:\nnämligen du, såklart."
+          }
         }
       }
     },
@@ -29315,6 +30593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Najlepszy gadżet w historii\nto ty, wersja limitowana."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag har köpt all merch, men du\när fortfarande den bästa souvenir."
           }
         }
       }
@@ -29453,6 +30737,12 @@
             "state" : "translated",
             "value" : "Będę twoim fanem do końca,\nbo ty to ikona stulecia."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag är ditt fan för all framtid, för\ndu är min artist nummer ett."
+          }
         }
       }
     },
@@ -29589,6 +30879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wybieram na zawsze jedną gwiazdę:\nty."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag tog första raden. Där du\när, där är jag."
           }
         }
       }
@@ -29727,6 +31023,12 @@
             "state" : "translated",
             "value" : "Zaczynam fanowanie,\nbo ty to cel na lata."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag startar fanklubben idag.\nMedlem ett: jag. Ordförande: du."
+          }
         }
       }
     },
@@ -29863,6 +31165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oficjalnie zostaję twoim fotografem,\nbo ty zasługujesz na każdą klatkę."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag blir din privata fotograf. Varje\nstund med dig ska sparas, du."
           }
         }
       }
@@ -30001,6 +31309,12 @@
             "state" : "translated",
             "value" : "Złota godzina? To każda,\ngdy ty jesteś obok."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varje minut med dig är guldkant. Det\när min bästa tid, det vet du."
+          }
         }
       }
     },
@@ -30137,6 +31451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Billboard urodzinowy dla ciebie?\nBiorę, bo ty świętujesz codziennie."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag hyr en stor skylt på stan: varje\ndag borde vara din födelsedag, du."
           }
         }
       }
@@ -30275,6 +31595,12 @@
             "state" : "translated",
             "value" : "Kibicuję ci do końca świata,\nbo ty to największa duma."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag hejar på dig för all framtid. Det\när en ära att du har mig som fan."
+          }
         }
       }
     },
@@ -30411,6 +31737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Serce bije szybciej,\nodkąd ty pojawiasz się na horyzoncie."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitt hjärta hoppar över ett slag\nvarje gång du dyker upp."
           }
         }
       }
@@ -30549,6 +31881,12 @@
             "state" : "translated",
             "value" : "Gdy ty jesteś w pobliżu,\nświat robi się piękniejszy."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Världen blir vackrare så fort\ndu kommer in i bilden."
+          }
         }
       }
     },
@@ -30685,6 +32023,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dla mnie ty to witamina\nszczęścia na cały dzień."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vitaminet jag aldrig glömmer\när du. Dagens dos av glädje."
           }
         }
       }
@@ -30823,6 +32167,12 @@
             "state" : "translated",
             "value" : "Kiedy ty się śmiejesz,\nja uśmiecham się razem z tobą."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "När du skrattar skrattar jag\nmed, utan att fatta varför."
+          }
         }
       }
     },
@@ -30959,6 +32309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wśród milionów gwiazd\nnajjaśniejsza to ty."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Av alla stjärnor jag sett\när du den som lyser mest."
           }
         }
       }
@@ -31097,6 +32453,12 @@
             "state" : "translated",
             "value" : "Każdy dzień z tobą to festiwal,\na ty jesteś gwiazdą wieczoru."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varje dag du är med är det\nmidsommar i mitt hjärta."
+          }
         }
       }
     },
@@ -31233,6 +32595,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wystarczy, że usłyszę twój głos,\na ty już poprawiasz mi humor."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bara du säger hej så blir\nhela dagen bättre."
           }
         }
       }
@@ -31371,6 +32739,12 @@
             "state" : "translated",
             "value" : "W moim życiu największy fart\nto ty."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bäst som hänt mig är du,\nnäst efter kanelbullar."
+          }
         }
       }
     },
@@ -31507,6 +32881,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uśmiecham się dzisiaj,\nbo ty jesteś na świecie."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tack vare att du finns kan jag\nle även på måndagar."
           }
         }
       }
@@ -31645,6 +33025,12 @@
             "state" : "translated",
             "value" : "Najważniejszy człowiek na świecie\nto ty."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Av allt som finns på jorden\när du det finaste jag vet."
+          }
         }
       }
     },
@@ -31781,6 +33167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Na samą myśl o tobie robi się miło,\nty to czysta magia."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hjärtat ler så fort jag\ntänker på att du finns."
           }
         }
       }
@@ -31919,6 +33311,12 @@
             "state" : "translated",
             "value" : "Dla mojej duszy ty\nto kojący spokój."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lugnet i min stressiga vardag?\nDet är du."
+          }
         }
       }
     },
@@ -32055,6 +33453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Czas z tobą zawsze jest wyjątkowy,\nbo ty to specjalna osoba."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiden går fortare när du är\nnära, och det är gratis."
           }
         }
       }
@@ -32193,6 +33597,12 @@
             "state" : "translated",
             "value" : "Wśród wszystkich, których znam,\nty to numer jeden na liście."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finaste människan jag träffat\när du, utan tvekan."
+          }
         }
       }
     },
@@ -32329,6 +33739,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Samo to, że jesteś,\nto już prezent, ty skarbie."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Att du finns är redan nog\nför att jag ska vara tacksam."
           }
         }
       }
@@ -32467,6 +33883,12 @@
             "state" : "translated",
             "value" : "Najlepszy moment mojego dnia?\nTo ty."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens höjdpunkt är du,\nsom en riktigt bra fika."
+          }
         }
       }
     },
@@ -32603,6 +34025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dzień wygląda lepiej,\nodkąd ty w nim jesteś."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varje dag blir lite finare\nbara för att du är där."
           }
         }
       }
@@ -32741,6 +34169,12 @@
             "state" : "translated",
             "value" : "Rozjaśniasz wszystko,\nbo ty to żywe słońce."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ett leende från dig lyser upp\nrummet, och det vet du."
+          }
         }
       }
     },
@@ -32877,6 +34311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Najlepszy prezent od losu?\nOczywiście ty."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bästa present som livet gett mig\när du, med rosett."
           }
         }
       }
@@ -33015,6 +34455,12 @@
             "state" : "translated",
             "value" : "Świat jest piękniejszy,\nbo ty na nim mieszkasz."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Världen är ett bättre ställe\nsedan du kom till den."
+          }
         }
       }
     },
@@ -33151,6 +34597,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dzień bez ciebie? Nie dla mnie,\nty to mój tlen."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tänk dig en dag utan att du\nfinns. Nej tack, jag passar."
           }
         }
       }
@@ -33289,6 +34741,12 @@
             "state" : "translated",
             "value" : "W moim sercu numer jeden:\nty. Bez konkurencji."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etta på mitt hjärtas topplista?\nDet är du, självklart."
+          }
         }
       }
     },
@@ -33425,6 +34883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Z tobą mogę wszystko,\nbo ty to moja supermoc."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Med dig vid min sida känns allt\nmöjligt, för du är superkraften."
           }
         }
       }
@@ -33563,6 +35027,12 @@
             "state" : "translated",
             "value" : "Codziennie dziękuję losowi,\nże ty istniejesz."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Något jag är tacksam för\nvarje dag? Det är du."
+          }
         }
       }
     },
@@ -33699,6 +35169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ten uśmiech to arcydzieło,\na ty jesteś jego autorem."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ditt leende slår allt annat som\nfinns, och det vet du. Fråga solen."
           }
         }
       }
@@ -33837,6 +35313,12 @@
             "state" : "translated",
             "value" : "Największe błogosławieństwo\nw moim życiu to ty."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Att du finns är min största\nlyckträff, och det vet du."
+          }
         }
       }
     },
@@ -33973,6 +35455,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gdy ty pojawiasz się w myślach,\ncały dzień robi się lepszy."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagen blir bättre bara av att\njag tänker på att du finns."
           }
         }
       }
@@ -34111,6 +35599,12 @@
             "state" : "translated",
             "value" : "Moje serce czuje się jak w domu,\ngdy ty jesteś blisko."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitt hjärtas hem är du.\nDörren står alltid öppen."
+          }
         }
       }
     },
@@ -34247,6 +35741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gdy ty jesteś obok,\nwszystko po prostu gra."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I stunden när du är med\när allt precis rätt."
           }
         }
       }
@@ -34385,6 +35885,12 @@
             "state" : "translated",
             "value" : "Ideał z moich marzeń?\nTo ty, w wersji deluxe."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precis den person jag drömde om\när du, fast bättre."
+          }
         }
       }
     },
@@ -34521,6 +36027,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gdy ty wchodzisz do pokoju,\nserce wywala błąd."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitt hjärta gick i baklås när\ndu klev in. Ring en tekniker."
           }
         }
       }
@@ -34659,6 +36171,12 @@
             "state" : "translated",
             "value" : "Jak ty chodzisz,\nhistoria zapisuje nowy rozdział."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En vandrande historiebok är du.\nDe kommer skriva om dig."
+          }
         }
       }
     },
@@ -34795,6 +36313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Magnes? To ty:\ntrzymasz mnie przy sobie bez wysiłku."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag faller för din charm igen\noch igen, för du ger mig inget val."
           }
         }
       }
@@ -34933,6 +36457,12 @@
             "state" : "translated",
             "value" : "Gapię się na ciebie bez przerwy,\ni to ty odpowiadasz za mój kark."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jag tittar så mycket på dig\natt jag får nackspärr, du."
+          }
         }
       }
     },
@@ -35069,6 +36599,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gdy ty przechodzisz obok,\npuls skacze jak szalony."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pulsen stiger varje gång du\ndyker upp. Dags för pulsklocka?"
           }
         }
       }
@@ -35207,6 +36743,12 @@
             "state" : "translated",
             "value" : "Dla moich oczu ty\nto sesja okładkowa."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Årets bild i mitt fotoalbum\när du. Slår allt."
+          }
         }
       }
     },
@@ -35343,6 +36885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Odkąd ty jesteś obok,\nkażdy dzień to moje święto."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Att varje dag är en festdag\nberor på att du finns."
           }
         }
       }
@@ -35481,6 +37029,12 @@
             "state" : "translated",
             "value" : "Żywy cud?\nTo ty, w pełnej okazałości."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ett levande under är du.\nVetenskapen fattar ingenting."
+          }
         }
       }
     },
@@ -35617,6 +37171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gdy ty wchodzisz do pokoju,\nczas zwalnia jak w filmie."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allt går i slowmotion när du\nkommer in. Filmmusik ingår."
           }
         }
       }
@@ -35755,6 +37315,12 @@
             "state" : "translated",
             "value" : "W moim życiu ty to\nkarta VIP bez limitu."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitt livs VIP-kort är du.\nInget annat räcker."
+          }
         }
       }
     },
@@ -35891,6 +37457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gdy ty jesteś w kadrze,\nreszta dnia to dodatek."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bästa stunden på dagen är\nnär du dyker upp."
           }
         }
       }
@@ -36029,6 +37601,12 @@
             "state" : "translated",
             "value" : "Dla mojej duszy ty\nto treść premium bez reklam."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extra avsnittet som alla vill se\när du. Mer, mer, mer!"
+          }
         }
       }
     },
@@ -36165,6 +37743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Odkąd ty jesteś w pobliżu,\nświat ma wyższą rozdzielczość."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Världen ser ut som i högupplöst\nsedan du kom in i bilden."
           }
         }
       }
@@ -36303,6 +37887,12 @@
             "state" : "translated",
             "value" : "Najlepsze chwile dnia\nto te, w których ty się pojawiasz."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitt livs guldläge är du.\nHär ska jag stanna."
+          }
         }
       }
     },
@@ -36439,6 +38029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wystarczy myśl o tobie,\ni uśmiech włącza się sam, bo ty tak działasz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatiskt får du mig att le.\nSuperkraft, det där."
           }
         }
       }
@@ -36577,6 +38173,12 @@
             "state" : "translated",
             "value" : "Dla mojego serca ty\nto pięciogwiazdkowy hotel."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Femstjärnigt i mitt hjärta är du.\nFullbokat, inga rum kvar."
+          }
         }
       }
     },
@@ -36713,6 +38315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Każdy dzień to dzień premium,\ngdy ty jesteś w pobliżu."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varje dag blir en lyxdag så fort\ndu är med."
           }
         }
       }
@@ -36851,6 +38459,12 @@
             "state" : "translated",
             "value" : "W filmie mojego życia ty\nto główna rola."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Huvudnumret i mitt liv är du.\nResten är förband."
+          }
         }
       }
     },
@@ -36987,6 +38601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Na twój widok serce tańczy,\ni ty nawet nie musisz grać muzyki."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitt hjärta dansar så fort\ndu kommer på tal."
           }
         }
       }
@@ -37125,6 +38745,12 @@
             "state" : "translated",
             "value" : "4K? Dla moich oczu\nty to jakość ponad skalę."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Min bild i 4K är du.\nSkarp, fin och full av färg."
+          }
         }
       }
     },
@@ -37261,6 +38887,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Świat lśni kolorami,\nkiedy ty patrzysz w moją stronę."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allt glimmar lite extra så fort\ndu är i närheten."
           }
         }
       }
@@ -37399,6 +39031,12 @@
             "state" : "translated",
             "value" : "Lista VIP w moim sercu\nma jedną osobę: ty."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Förstaraden i mitt hjärta har du,\nbästa platsen i huset."
+          }
         }
       }
     },
@@ -37535,6 +39173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Przez ciebie dzień robi się wyjątkowy,\ni ty nawet palcem nie ruszasz."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tack för att du gör dagen\nspeciell. Varje enda dag."
           }
         }
       }
@@ -37673,6 +39317,12 @@
             "state" : "translated",
             "value" : "Dla mnie ty to\nas w rękawie."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitt trumfkort är du, och med dig\nvinner jag varje gång."
+          }
         }
       }
     },
@@ -37809,6 +39459,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kiedy ty się pojawiasz,\nmój nastrój robi aktualizację."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitt humör blir uppgraderat varje\ngång du dyker upp."
           }
         }
       }
@@ -37947,6 +39603,12 @@
             "state" : "translated",
             "value" : "W moim sercu jest Aleja Sław,\ngdzie pierwsza gwiazda to ty."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plats ett i mitt hjärtas hall\nof fame har du fått."
+          }
         }
       }
     },
@@ -38083,6 +39745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Życie bez ciebie jest czarno-białe,\nale ty dajesz mu pełnię barw."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Livet blev färgglatt sedan\ndu kom in i det."
           }
         }
       }
@@ -38221,6 +39889,12 @@
             "state" : "translated",
             "value" : "Klasyk wszech czasów?\nOczywiście ty."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "För mig är du all-time legend.\nSå är det bara."
+          }
         }
       }
     },
@@ -38358,6 +40032,12 @@
             "state" : "translated",
             "value" : "Nawet czas robi przerwę,\nżeby popatrzeć, jak ty idziesz."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiden går i sakta mak när du\när i närheten."
+          }
         }
       }
     },
@@ -38494,6 +40174,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dożywotni karnet na ciebie?\nBiorę, bo ty to najlepsza oferta."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Förstapriset i mitt liv är du,\nutan någon dragning."
           }
         }
       }

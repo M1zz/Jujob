@@ -131,6 +131,12 @@
             "state" : "translated",
             "value" : "%lld dni"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld dagar"
+          }
         }
       }
     },
@@ -260,6 +266,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wszystkie 100 peanów za tobą,\nty to już prawdziwy mistrz!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har sett 100 pepp,\nnu är du en riktig mästare!"
           }
         }
       }
@@ -391,6 +403,12 @@
             "state" : "translated",
             "value" : "Zaglądasz do peanów 100 dni z rzędu!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har kollat din pepp 100 dagar i rad!"
+          }
         }
       }
     },
@@ -520,6 +538,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cud setki! Twoja wytrwałość\nzmieniła świat!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 dagars under! Din uthållighet\nhar förändrat världen!"
           }
         }
       }
@@ -651,6 +675,12 @@
             "state" : "translated",
             "value" : "Sto dni wspólnej drogi za nami,\nty to naprawdę ktoś wielki!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 dagar tillsammans,\nvilken resa. Du är helt fantastisk!"
+          }
         }
       }
     },
@@ -777,6 +807,12 @@
           }
         },
         "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 min"
+          }
+        },
+        "sv" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 min"
@@ -911,6 +947,12 @@
             "state" : "translated",
             "value" : "30 min"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 min"
+          }
         }
       }
     },
@@ -1040,6 +1082,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zaglądasz do peanów 30 dni z rzędu!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har kollat din pepp 30 dagar i rad!"
           }
         }
       }
@@ -1171,6 +1219,12 @@
             "state" : "translated",
             "value" : "Przez 30 dni wracasz codziennie,\nty to numer jeden!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Under 30 dagar har du kommit\nförbi varje dag. Du är bäst!"
+          }
         }
       }
     },
@@ -1301,6 +1355,12 @@
             "state" : "translated",
             "value" : "50 peanów odhaczone,\nty to prawdziwy zapaleniec!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har läst 50 pepp,\nvilket driv du har!"
+          }
         }
       }
     },
@@ -1427,6 +1487,12 @@
           }
         },
         "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 min"
+          }
+        },
+        "sv" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "5 min"
@@ -1561,6 +1627,12 @@
             "state" : "translated",
             "value" : "Zaglądasz do peanów 7 dni z rzędu!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har kollat din pepp 7 dagar i rad!"
+          }
         }
       }
     },
@@ -1690,6 +1762,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Siedem dni za nami,\nidziemy razem dalej!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En vecka tillsammans,\nnu fortsätter vi väl?"
           }
         }
       }
@@ -1827,6 +1905,12 @@
             "state" : "translated",
             "value" : "Przywróć zakupy"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Återställ köp"
+          }
         }
       }
     },
@@ -1962,6 +2046,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wybierz kategorię"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj kategori"
           }
         }
       }
@@ -2099,6 +2189,12 @@
             "state" : "translated",
             "value" : "Wybierz czcionkę"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj typsnitt"
+          }
         }
       }
     },
@@ -2234,6 +2330,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Samouczek"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guide"
           }
         }
       }
@@ -2371,6 +2473,12 @@
             "state" : "translated",
             "value" : "anonim"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anonym"
+          }
         }
       }
     },
@@ -2507,6 +2615,12 @@
             "state" : "translated",
             "value" : "premium"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
+          }
         }
       }
     },
@@ -2640,6 +2754,12 @@
             "state" : "translated",
             "value" : "Napisz do twórcy"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontakta utvecklaren"
+          }
         }
       }
     },
@@ -2769,6 +2889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kolor gradientu"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gradientfärg"
           }
         }
       }
@@ -2900,6 +3026,12 @@
             "state" : "translated",
             "value" : "Kolor tekstu"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Textfärg"
+          }
         }
       }
     },
@@ -3029,6 +3161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wybierz nastrój"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj humör"
           }
         }
       }
@@ -3160,6 +3298,12 @@
             "state" : "translated",
             "value" : "Gorszy dzień"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nedstämd"
+          }
         }
       }
     },
@@ -3289,6 +3433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dobierzemy peany\ndo nastroju i sytuacji!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vi väljer pepp som passar\nditt humör och din situation!"
           }
         }
       }
@@ -3420,6 +3570,12 @@
             "state" : "translated",
             "value" : "Moje wyniki"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mina rekord"
+          }
         }
       }
     },
@@ -3550,6 +3706,12 @@
             "state" : "translated",
             "value" : "Moje peany"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mina pepp"
+          }
         }
       }
     },
@@ -3679,6 +3841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Następny pean"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nästa pepp"
           }
         }
       }
@@ -3811,6 +3979,12 @@
             "state" : "translated",
             "value" : "ty"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "du"
+          }
         }
       }
     },
@@ -3940,6 +4114,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wiedz, że ty to\nczłowiek o wielkiej wartości!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du är värd\nprecis allt gott!"
           }
         }
       }
@@ -4071,6 +4251,12 @@
             "state" : "translated",
             "value" : "Przed randką"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Före dejten"
+          }
         }
       }
     },
@@ -4200,6 +4386,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zapał"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motivation"
           }
         }
       }
@@ -4331,6 +4523,12 @@
             "state" : "translated",
             "value" : "Losowo"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slump"
+          }
         }
       }
     },
@@ -4460,6 +4658,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zapisz ulubione peany\nprzyciskiem z gwiazdką!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spara pepp du gillar\ngenom att trycka på stjärnan!"
           }
         }
       }
@@ -4591,6 +4795,12 @@
             "state" : "translated",
             "value" : "Kocham siebie każdego dnia"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Älska dig själv, varje dag"
+          }
         }
       }
     },
@@ -4720,6 +4930,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Przed rozmową"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Före intervjun"
           }
         }
       }
@@ -4851,6 +5067,12 @@
             "state" : "translated",
             "value" : "Podgląd"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Förhandsvisning"
+          }
         }
       }
     },
@@ -4980,6 +5202,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ustawienia tła"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bakgrund"
           }
         }
       }
@@ -5111,6 +5339,12 @@
             "state" : "translated",
             "value" : "Obraz tła"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bakgrundsbild"
+          }
         }
       }
     },
@@ -5240,6 +5474,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Setny dzień!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 dagar!"
           }
         }
       }
@@ -5371,6 +5611,12 @@
             "state" : "translated",
             "value" : "Sto dni codziennie z nami,\nty to skarb tego świata!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har kommit förbi i 100 dagar,\ndu är den finaste människan som finns!"
+          }
         }
       }
     },
@@ -5500,6 +5746,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zgłoszenia błędów i pomysły są mile widziane."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buggrapporter och förslag är varmt välkomna."
           }
         }
       }
@@ -5631,6 +5883,12 @@
             "state" : "translated",
             "value" : "Szczegóły"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detaljer"
+          }
         }
       }
     },
@@ -5760,6 +6018,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Odświeżanie co"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uppdateringsintervall"
           }
         }
       }
@@ -5891,6 +6155,12 @@
             "state" : "translated",
             "value" : "Przed egzaminem"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Före provet"
+          }
         }
       }
     },
@@ -6020,6 +6290,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rano"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morgon"
           }
         }
       }
@@ -6151,6 +6427,12 @@
             "state" : "translated",
             "value" : "Przewiń, aż zobaczysz nazwę aplikacji.\n\"Dzienna Dawka Peanów\""
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scrolla tills appens namn dyker upp.\n\"Dagens Pepp\""
+          }
         }
       }
     },
@@ -6280,6 +6562,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Osiągnięcia"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utmärkelser"
           }
         }
       }
@@ -6411,6 +6699,12 @@
             "state" : "translated",
             "value" : "Seria dni"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Streak"
+          }
         }
       }
     },
@@ -6540,6 +6834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jak się dziś czujesz?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hur känns det idag?"
           }
         }
       }
@@ -6671,6 +6971,12 @@
             "state" : "translated",
             "value" : "Dziś też po swojemu,\nbo ty to mistrz bycia sobą!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Var precis som du är idag,\ndet är det bästa!"
+          }
         }
       }
     },
@@ -6800,6 +7106,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dzienna Dawka Peanów"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagens Pepp"
           }
         }
       }
@@ -6931,6 +7243,12 @@
             "state" : "translated",
             "value" : "Do prawej"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Höger"
+          }
         }
       }
     },
@@ -7060,6 +7378,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hej, nie dołuj mi tu ziomka!\nWybierz słowa, które cię podniosą!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lugn, ingen ska tappa modet här!\nVälj något som peppar dig själv!"
           }
         }
       }
@@ -7191,6 +7515,12 @@
             "state" : "translated",
             "value" : "Do lewej"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vänster"
+          }
         }
       }
     },
@@ -7320,6 +7650,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Przed treningiem"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Före träningen"
           }
         }
       }
@@ -7451,6 +7787,12 @@
             "state" : "translated",
             "value" : "Dopracuj wygląd widżetu i czcionkę"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finjustera widgetens utseende och typsnitt"
+          }
         }
       }
     },
@@ -7580,6 +7922,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ustawienia widżetu"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgetinställningar"
           }
         }
       }
@@ -7711,6 +8059,12 @@
             "state" : "translated",
             "value" : "Użyj tego peanu"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Använd den här"
+          }
         }
       }
     },
@@ -7840,6 +8194,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Imię"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namn"
           }
         }
       }
@@ -7971,6 +8331,12 @@
             "state" : "translated",
             "value" : "Ustaw imię"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ange namn"
+          }
         }
       }
     },
@@ -8100,6 +8466,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Podaj swoje imię!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad heter du?"
           }
         }
       }
@@ -8231,6 +8603,12 @@
             "state" : "translated",
             "value" : "Wpisz imię"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skriv ditt namn"
+          }
         }
       }
     },
@@ -8360,6 +8738,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Napisz e-mail"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mejla oss"
           }
         }
       }
@@ -8491,6 +8875,12 @@
             "state" : "translated",
             "value" : "Teraz wybierz rozmiar widżetu i dotknij \"Dodaj widżet\"."
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj nu storlek och tryck på \"Lägg till widget\"."
+          }
         }
       }
     },
@@ -8617,6 +9007,12 @@
           }
         },
         "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instagram DM (@lee25_ios)"
+          }
+        },
+        "sv" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instagram DM (@lee25_ios)"
@@ -8751,6 +9147,12 @@
             "state" : "translated",
             "value" : "Przed pracą"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Före jobbet"
+          }
         }
       }
     },
@@ -8880,6 +9282,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Siedem dni!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En vecka!"
           }
         }
       }
@@ -9011,6 +9419,12 @@
             "state" : "translated",
             "value" : "Siedem dni z rzędu, a ty\nnadal w formie. Duma!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En hel vecka i rad,\nvad stolt jag är över dig!"
+          }
         }
       }
     },
@@ -9140,6 +9554,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pewność siebie"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Självförtroende"
           }
         }
       }
@@ -9271,6 +9691,12 @@
             "state" : "translated",
             "value" : "Wieczór"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kväll"
+          }
         }
       }
     },
@@ -9400,6 +9826,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zapisz"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spara"
           }
         }
       }
@@ -9531,6 +9963,12 @@
             "state" : "translated",
             "value" : "Autor pomysłu"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Förslag från"
+          }
         }
       }
     },
@@ -9660,6 +10098,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wielki Mistrz Peanów"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stormästare i pepp"
           }
         }
       }
@@ -9791,6 +10235,12 @@
             "state" : "translated",
             "value" : "Mistrz Peanów"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peppmästare"
+          }
         }
       }
     },
@@ -9920,6 +10370,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widżet z peanami"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peppwidget"
           }
         }
       }
@@ -10051,6 +10507,12 @@
             "state" : "translated",
             "value" : "W peanach wstawimy twoje imię\nzamiast słowa 'ty'!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vi byter ut 'du' i peppen\nmot ditt eget namn!"
+          }
         }
       }
     },
@@ -10180,6 +10642,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zaglądanie do peanów\nzapisuje się samo!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Din pepp sparas\nautomatiskt när du läser!"
           }
         }
       }
@@ -10311,6 +10779,12 @@
             "state" : "translated",
             "value" : "Środek"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitten"
+          }
         }
       }
     },
@@ -10440,6 +10914,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ulubione"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favoriter"
           }
         }
       }
@@ -10571,6 +11051,12 @@
             "state" : "translated",
             "value" : "Brak ulubionych"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inga favoriter än"
+          }
         }
       }
     },
@@ -10700,6 +11186,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Łącznie 100 peanów zaliczone!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har läst 100 pepp totalt!"
           }
         }
       }
@@ -10831,6 +11323,12 @@
             "state" : "translated",
             "value" : "Łącznie 50 peanów zaliczone!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har läst 50 pepp totalt!"
+          }
         }
       }
     },
@@ -10960,6 +11458,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dni łącznie"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dagar totalt"
           }
         }
       }
@@ -11091,6 +11595,12 @@
             "state" : "translated",
             "value" : "Najlepsza seria"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bästa streak"
+          }
         }
       }
     },
@@ -11220,6 +11730,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Droga do pracy"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På väg till jobbet"
           }
         }
       }
@@ -11351,6 +11867,12 @@
             "state" : "translated",
             "value" : "Droga z pracy"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På väg hem"
+          }
         }
       }
     },
@@ -11480,6 +12002,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Czcionka"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typsnitt"
           }
         }
       }
@@ -11611,6 +12139,12 @@
             "state" : "translated",
             "value" : "Ustawienia czcionki"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typsnitt"
+          }
         }
       }
     },
@@ -11740,6 +12274,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Miesiąc razem!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En månad!"
           }
         }
       }
@@ -11871,6 +12411,12 @@
             "state" : "translated",
             "value" : "Miesiąc razem za nami,\nty to wyjątkowy człowiek!"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En hel månad tillsammans,\ndu är verkligen speciell!"
+          }
         }
       }
     },
@@ -12000,6 +12546,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Interlinia"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Radavstånd"
           }
         }
       }
@@ -12131,6 +12683,12 @@
             "state" : "translated",
             "value" : "Obecna seria"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuvarande streak"
+          }
         }
       }
     },
@@ -12260,6 +12818,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Przytrzymaj ekran główny, aż ikony zaczną drżeć, i dotknij ➕ w górnym rogu."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Håll in en tom yta på hemskärmen tills ikonerna börjar vippa och tryck på ➕ uppe till vänster eller höger."
           }
         }
       }
@@ -12391,6 +12955,12 @@
             "state" : "translated",
             "value" : "Historia"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historik"
+          }
         }
       }
     },
@@ -12520,6 +13090,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Historia jest pusta"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historiken är tom"
           }
         }
       }
@@ -12651,6 +13227,12 @@
             "state" : "translated",
             "value" : "Relaks"
           }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lugn och ro"
+          }
         }
       }
     },
@@ -12780,6 +13362,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trudny moment"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuffa stunder"
           }
         }
       }

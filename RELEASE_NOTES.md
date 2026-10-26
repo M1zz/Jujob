@@ -133,3 +133,9 @@ Bugs en ideeën? Mail of Instagram
 Peany są teraz w wielu językach świata
 Z ustawień napiszesz prosto do twórcy
 Błędy i pomysły wyślij mailem lub na IG
+
+### 앱스토어 (스웨덴어)
+
+Pepp på flera språk i appen nu
+Kontakta utvecklaren i inställningarna
+Skicka buggar och förslag till oss
