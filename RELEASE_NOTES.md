@@ -7,3 +7,9 @@
 이제 여러 나라 언어로 주접을 받아볼 수 있어요
 설정 화면에서 개발자에게 바로 문의할 수 있어요
 버그 제보와 기능 제안은 이메일이나 인스타그램으로 보내 주세요
+
+### 앱스토어 (영어)
+
+Get hype lines in many languages now
+Contact the developer from Settings
+Report bugs and ideas by email or DM

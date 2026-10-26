@@ -9,6 +9,12 @@
             "state" : "new",
             "value" : "오늘도 빛나는 하루의 시작!\n당신은 이미 충분히 멋져요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rise and shine! Honestly,\nyou already look like a main character."
+          }
         }
       }
     },
@@ -19,6 +25,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "아침 해처럼 빛나는 당신,\n오늘도 최고의 하루 될 거예요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The sun came up and said,\n\"Wow, you outshine me.\""
           }
         }
       }
@@ -31,6 +43,12 @@
             "state" : "new",
             "value" : "일어난 것만으로도 대단해요!\n오늘 하루도 화이팅!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you woke up today,\nand that alone deserves a trophy!"
+          }
         }
       }
     },
@@ -41,6 +59,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신의 아침은 세상에서\n가장 아름다운 시작이에요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mornings are better because\nyou are in them. Fact."
           }
         }
       }
@@ -53,6 +77,12 @@
             "state" : "new",
             "value" : "오늘 하루도 당신이\n주인공이에요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today, you get\nthe leading role again!"
+          }
         }
       }
     },
@@ -63,6 +93,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "눈을 뜬 순간부터\n당신은 이미 승리자!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eyes open, and you\nalready won the day."
           }
         }
       }
@@ -75,6 +111,12 @@
             "state" : "new",
             "value" : "커피보다 달콤한 당신의\n아침 미소!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forget coffee. Everyone agrees\nyou are the real morning boost."
+          }
         }
       }
     },
@@ -85,6 +127,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "오늘도 당신답게,\n그게 최고예요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just be you today.\nIt is the best look in town!"
           }
         }
       }
@@ -97,6 +145,12 @@
             "state" : "new",
             "value" : "아침부터 그렇게 예뻐도 돼요?\n범죄예요, 얼굴 범죄."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Looking this good before breakfast?\nHonestly, you should be arrested for it."
+          }
         }
       }
     },
@@ -107,6 +161,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "굿모닝? 노노!\n당신이 있어서 베스트모닝!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good morning? No no,\nwith you here it's a GREAT morning!"
           }
         }
       }
@@ -119,6 +179,12 @@
             "state" : "new",
             "value" : "일어나자마자 보는 당신,\n눈호강 제대로 하네요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First thing I see is you.\nMy eyes just hit the jackpot."
+          }
         }
       }
     },
@@ -129,6 +195,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "오늘 아침에도 세상에서\n제일 빛나는 사람 발견!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breaking news this morning:\nyou are the brightest thing out there."
           }
         }
       }
@@ -141,6 +213,12 @@
             "state" : "new",
             "value" : "오늘 하루도 고생했어요!\n당신은 정말 대단해요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Long day, huh? Seriously,\nyou handled it like a legend."
+          }
         }
       }
     },
@@ -151,6 +229,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "하루를 마무리하는 당신의 모습,\n정말 멋져요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wrapping up the day,\nand you still look amazing!"
           }
         }
       }
@@ -163,6 +247,12 @@
             "state" : "new",
             "value" : "오늘도 최선을 다한 당신,\n자랑스러워요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You gave it everything today,\nand we are so proud of you!"
+          }
         }
       }
     },
@@ -173,6 +263,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "피곤하지만 그래도\n오늘 하루 잘 버텼어요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tired, sure, but look:\nyou survived the whole day!"
           }
         }
       }
@@ -185,6 +281,12 @@
             "state" : "new",
             "value" : "당신의 하루는 언제나\n가치 있어요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every day with you in it\nis a day worth having."
+          }
         }
       }
     },
@@ -195,6 +297,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "오늘도 무사히 마쳤다는 것,\n그것만으로 충분해요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today, you got through in one piece.\nThat is plenty!"
           }
         }
       }
@@ -207,6 +315,12 @@
             "state" : "new",
             "value" : "밤하늘의 별처럼\n당신도 빛나요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The stars came out tonight\nbut you were already glowing."
+          }
         }
       }
     },
@@ -217,6 +331,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "저녁인데도 여전히 빛나네요.\n어떻게 하루종일 예뻐요?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It is evening and you still sparkle.\nHow do you do it all day?"
           }
         }
       }
@@ -229,6 +349,12 @@
             "state" : "new",
             "value" : "하루 종일 수고했어요.\n당신이라서 다행이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thanks for all that hard work.\nLucky me, I know you."
+          }
         }
       }
     },
@@ -239,6 +365,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "오늘도 당신 덕분에\n세상이 아름다웠어요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The whole world looked nicer today\nbecause you were in it."
           }
         }
       }
@@ -251,6 +383,12 @@
             "state" : "new",
             "value" : "밤에 봐도 레전드,\n낮에 봐도 레전드."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legend at night,\nlegend in daylight. Never a dull you."
+          }
         }
       }
     },
@@ -261,6 +399,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "괜찮아요, 힘든 날도 있는 거예요.\n당신은 충분히 잘하고 있어요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It is okay, rough days happen.\nYou are doing better than you think."
           }
         }
       }
@@ -273,6 +417,12 @@
             "state" : "new",
             "value" : "지금은 힘들어도\n당신은 이겨낼 수 있어요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It is tough right now,\nbut you can absolutely get through it!"
+          }
         }
       }
     },
@@ -283,6 +433,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "완벽하지 않아도 돼요.\n있는 그대로의 당신이 최고예요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nobody needs perfect.\nThe real you is already the best!"
           }
         }
       }
@@ -295,6 +451,12 @@
             "state" : "new",
             "value" : "힘들 때는 쉬어가도 돼요.\n당신의 속도로 가면 돼요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rest if you need to.\nYou can go at the pace you like, you know."
+          }
         }
       }
     },
@@ -305,6 +467,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신은 생각보다\n훨씬 강한 사람이에요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plot twist: you are\nway tougher than you think!"
           }
         }
       }
@@ -317,6 +485,12 @@
             "state" : "new",
             "value" : "이 또한 지나갈 거예요.\n당신은 할 수 있어요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This will pass, and\nyou will be the one still standing."
+          }
         }
       }
     },
@@ -327,6 +501,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "기분이 다운되어도\n당신의 가치는 변하지 않아요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feeling low? Sure, but\nyou still have the same big value."
           }
         }
       }
@@ -339,6 +519,12 @@
             "state" : "new",
             "value" : "슬픔도 당신의 일부예요.\n모든 감정을 느껴도 괜찮아요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sadness is a part of you too.\nFeel it all, you are allowed."
+          }
         }
       }
     },
@@ -349,6 +535,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "힘들 때 더 빛나는 거 알아요?\n다이아몬드도 압력을 받아야 생기잖아요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diamonds only form under pressure,\nso yeah, you sparkle hardest now."
           }
         }
       }
@@ -361,6 +553,12 @@
             "state" : "new",
             "value" : "우울하면 저 보세요.\n당신한테 미쳐서 저도 우울해요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feeling blue? Look at me.\nI am glued to you, so I am blue too."
+          }
         }
       }
     },
@@ -371,6 +569,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "기분 다운? 그럴 때일수록\n당신은 세상에서 제일 소중해요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Down in the dumps? Even then\nyou are the most precious thing around."
           }
         }
       }
@@ -383,6 +587,12 @@
             "state" : "new",
             "value" : "슬퍼도 예쁘고,\n울어도 예뻐요. 어쩔 거예요?"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You look good sad,\nyou look good crying. What now?"
+          }
         }
       }
     },
@@ -393,6 +603,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "지금 힘들어도\n당신이라는 존재 자체가 기적이에요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even on a bad day,\nyou being here is a small miracle."
           }
         }
       }
@@ -405,6 +621,12 @@
             "state" : "new",
             "value" : "지금은 힘들지만,\n당신은 반드시 해낼 거예요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It is hard right now,\nbut you will totally pull through!"
+          }
         }
       }
     },
@@ -415,6 +637,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "어려운 순간일수록\n당신의 진가가 드러나요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tough moments are when\nyou show how awesome you are!"
           }
         }
       }
@@ -427,6 +655,12 @@
             "state" : "new",
             "value" : "포기하지 마세요.\n당신은 충분히 강해요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do not quit. You are\nmade of stronger stuff than you think."
+          }
         }
       }
     },
@@ -437,6 +671,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "힘든 시기를 견디는 당신,\n정말 대단해요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hanging in there through all this?\nHonestly, you are a hero."
           }
         }
       }
@@ -449,6 +689,12 @@
             "state" : "new",
             "value" : "오늘의 고난은 내일의\n성장 밑거름이에요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today's struggle is just\nfertilizer, and you are about to bloom."
+          }
         }
       }
     },
@@ -459,6 +705,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신은 생각보다\n훨씬 더 많이 견딜 수 있어요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can handle\nway more than you believe!"
           }
         }
       }
@@ -471,6 +723,12 @@
             "state" : "new",
             "value" : "이 힘든 순간도\n곧 추억이 될 거예요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soon this hard stretch will be\na story you tell about how you won."
+          }
         }
       }
     },
@@ -481,6 +739,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "힘들어도 당신은 빛나요.\n다이아도 깎여야 빛나잖아요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diamonds shine after the cutting,\nso of course you glow right now."
           }
         }
       }
@@ -493,6 +757,12 @@
             "state" : "new",
             "value" : "지금 힘들다고요?\n그래도 당신은 세상에서 제일 예뻐요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Having a rough time?\nStill, you are the best-looking thing in the room."
+          }
         }
       }
     },
@@ -503,6 +773,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신이 버티는 게\n누군가에겐 희망이에요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Somebody out there sees you hang on\nand thinks, I can too."
           }
         }
       }
@@ -515,6 +791,12 @@
             "state" : "new",
             "value" : "힘들어 죽겠어도\n예쁜 건 어쩔 수 없네요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drained and exhausted, and\nyou still look this good? Rude."
+          }
         }
       }
     },
@@ -525,6 +807,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "오늘도 당신은 할 수 있어요!\n자신감 있게 시작해봐요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today you can do it!\nStart like you mean it!"
           }
         }
       }
@@ -537,6 +825,12 @@
             "state" : "new",
             "value" : "당신의 능력을 믿어요!\n오늘도 멋진 하루 될 거예요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I believe in you,\nand today will be a good one!"
+          }
         }
       }
     },
@@ -547,6 +841,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "준비된 당신,\n이미 성공의 반이에요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Look at that, you showed up ready,\nso half the win is done!"
           }
         }
       }
@@ -559,6 +859,12 @@
             "state" : "new",
             "value" : "오늘 할 일도\n당신이라면 문제없어요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Whatever is on the list today,\nyou will crush it without breaking a sweat."
+          }
         }
       }
     },
@@ -569,6 +875,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신의 열정이\n오늘을 빛낼 거예요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch out, the fire in you\nwill light up the whole day."
           }
         }
       }
@@ -581,6 +893,12 @@
             "state" : "new",
             "value" : "파이팅! 오늘도\n당신답게 해내봐요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go get it! Do it\nthe way only you can!"
+          }
         }
       }
     },
@@ -591,6 +909,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "일 시작 전 당신의 모습,\n이미 프로페셔널이에요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Before work even starts,\nyou already look like a pro!"
           }
         }
       }
@@ -603,6 +927,12 @@
             "state" : "new",
             "value" : "일하기 싫다고요?\n그래도 당신 얼굴은 열일 중이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do not feel like working?\nWell, you still look like you are working it."
+          }
         }
       }
     },
@@ -613,6 +943,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "오늘도 출근길 비주얼 미쳤어요.\n회사가 당신 덕분에 빛나네요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commute looks? Unreal.\nThe office glows because you walk in."
           }
         }
       }
@@ -625,6 +961,12 @@
             "state" : "new",
             "value" : "당신이 일하는 모습,\n그게 바로 아트예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watching you work\nis basically performance art."
+          }
         }
       }
     },
@@ -635,6 +977,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "일 시작도 전에\n벌써 완벽한 당신."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The day has not even started\nand you are already flawless."
           }
         }
       }
@@ -647,6 +995,12 @@
             "state" : "new",
             "value" : "운동하는 당신,\n이미 멋진 사람이에요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Working out? Of course,\nyou are already a legend at it."
+          }
         }
       }
     },
@@ -657,6 +1011,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "오늘도 건강을 챙기는 당신,\n정말 대단해요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taking care of that health again?\nHonestly, you are impressive."
           }
         }
       }
@@ -669,6 +1029,12 @@
             "state" : "new",
             "value" : "당신의 몸은\n당신이 가장 잘 알아요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nobody knows that body like you do,\nso trust the expert!"
+          }
         }
       }
     },
@@ -679,6 +1045,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "운동 시작한 것만으로도\n충분히 자랑스러워요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just starting a workout?\nHonestly, you should be proud already!"
           }
         }
       }
@@ -691,6 +1063,12 @@
             "state" : "new",
             "value" : "땀 흘리는 당신의 모습,\n정말 아름다워요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sweat looks good on you.\nTruly, absolutely stunning!"
+          }
         }
       }
     },
@@ -701,6 +1079,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신의 건강이\n가장 중요해요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remember, you\ncome first. Always!"
           }
         }
       }
@@ -713,6 +1097,12 @@
             "state" : "new",
             "value" : "오늘도 자신을 위해\n시간을 내는 당신, 최고!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Some me-time again? Wow,\nyou are on a champion streak!"
+          }
         }
       }
     },
@@ -723,6 +1113,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "운동복 입은 당신,\n화보 찍어도 되겠는데요?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gym clothes on you?\nSomeone get a camera crew."
           }
         }
       }
@@ -735,6 +1131,12 @@
             "state" : "new",
             "value" : "헬스장이 당신 덕분에\n천국이 됐어요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The gym just turned into paradise\nbecause you walked in."
+          }
         }
       }
     },
@@ -745,6 +1147,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "운동할 때도 빛나는 당신,\n어떻게 항상 그렇게 멋져요?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glowing mid-workout?\nHow do you look this good all the time?"
           }
         }
       }
@@ -757,6 +1165,12 @@
             "state" : "new",
             "value" : "땀 흘려도 예쁜 사람 있다?\n바로 당신이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Someone looks good while sweating?\nYes, you. It is you."
+          }
         }
       }
     },
@@ -767,6 +1181,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "출근길 당신의 모습,\n정말 프로페셔널해요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On the way to work,\nyou look like a total professional!"
           }
         }
       }
@@ -779,6 +1199,12 @@
             "state" : "new",
             "value" : "아침부터 움직이는 당신,\n정말 대단해요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Up and moving this early?\nHonestly, you are a machine."
+          }
         }
       }
     },
@@ -789,6 +1215,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "오늘도 출근하는 당신,\n이미 승리자예요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Off to work again?\nTrust me, you already won today!"
           }
         }
       }
@@ -801,6 +1233,12 @@
             "state" : "new",
             "value" : "당신의 발걸음 하나하나가\n가치 있어요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every single step you take\nmatters, and I mean it!"
+          }
         }
       }
     },
@@ -811,6 +1249,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "출근길도 당신이 함께라면\n특별해요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even a commute feels special\nwhen you are on it."
           }
         }
       }
@@ -823,6 +1267,12 @@
             "state" : "new",
             "value" : "오늘도 책임감 있게\n출근하는 당신, 멋져요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Showing up for work\nwith heart? Respect to you!"
+          }
         }
       }
     },
@@ -833,6 +1283,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "출근길 당신 때문에\n지하철이 런웨이가 됐어요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The subway became a runway\nthe moment you stepped on."
           }
         }
       }
@@ -845,6 +1301,12 @@
             "state" : "new",
             "value" : "버스 안에서도 빛나는 당신,\n오늘도 화보 찍나요?"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glowing on the bus again?\nIs there a shoot, you gorgeous thing?"
+          }
         }
       }
     },
@@ -855,6 +1317,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "출근하는 당신 보면\n아침이 행복해져요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seeing you head to work\nmakes my morning happy."
           }
         }
       }
@@ -867,6 +1335,12 @@
             "state" : "new",
             "value" : "걷는 것만으로도 멋진 사람,\n당신이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Somebody looks great\njust walking, and that somebody is you."
+          }
         }
       }
     },
@@ -877,6 +1351,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "오늘 하루도 고생했어요!\n집에 가서 푹 쉬어요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today you worked hard!\nNow go home and rest up."
           }
         }
       }
@@ -889,6 +1369,12 @@
             "state" : "new",
             "value" : "퇴근하는 당신의 뒷모습,\n정말 멋져요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From behind, you walking out\nlooks pretty legendary!"
+          }
         }
       }
     },
@@ -899,6 +1385,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "하루를 마치고 돌아가는 길,\n당신은 최고예요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heading home after a long day,\nand you are still the best!"
           }
         }
       }
@@ -911,6 +1403,12 @@
             "state" : "new",
             "value" : "오늘도 무사히 마쳤어요!\n자랑스러워요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Another day done and dusted!\nSo proud of you!"
+          }
         }
       }
     },
@@ -921,6 +1419,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "이제 당신만의 시간이에요.\n충분히 쉬세요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Now it is time for you,\nso go enjoy every minute of it!"
           }
         }
       }
@@ -933,6 +1437,12 @@
             "state" : "new",
             "value" : "퇴근 후 당신을 위한\n시간을 가져요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "After work, do something\nthat is just for you!"
+          }
         }
       }
     },
@@ -943,6 +1453,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "퇴근하는 당신,\n오늘도 고생 많았어요. 수고했어요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Off work, finally! Big thanks\nto you for another great day."
           }
         }
       }
@@ -955,6 +1471,12 @@
             "state" : "new",
             "value" : "집 가는 길도 예쁜 사람,\n오늘 하루 정말 멋졌어요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even the walk home looks good on you.\nYou were great today."
+          }
         }
       }
     },
@@ -965,6 +1487,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "퇴근길 당신 보면\n오늘 하루가 보람차 보여요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seeing you head home\nmakes the whole day feel worth it."
           }
         }
       }
@@ -977,6 +1505,12 @@
             "state" : "new",
             "value" : "힘들었던 하루였지만\n당신은 역시 최고예요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rough day? Sure,\nbut you still came out on top!"
+          }
         }
       }
     },
@@ -987,6 +1521,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "지금까지 준비한 당신,\n충분히 잘할 거예요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You prepared for this,\nso you will do great!"
           }
         }
       }
@@ -999,6 +1539,12 @@
             "state" : "new",
             "value" : "당신의 노력은\n배신하지 않아요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hard work never\nlets you down!"
+          }
         }
       }
     },
@@ -1009,6 +1555,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "긴장해도 괜찮아요.\n당신은 이미 준비됐어요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nervous is fine.\nTruth is, you are more than ready!"
           }
         }
       }
@@ -1021,6 +1573,12 @@
             "state" : "new",
             "value" : "시험은 당신의 가치를\n결정하지 못해요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A test cannot decide\nhow awesome you are!"
+          }
         }
       }
     },
@@ -1031,6 +1589,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "최선을 다한 당신,\n이미 성공이에요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You did the best you could,\nwhich already counts as a win!"
           }
         }
       }
@@ -1043,6 +1607,12 @@
             "state" : "new",
             "value" : "당신이라면 충분히\n해낼 수 있어요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If anyone can do it,\nyou can, no question!"
+          }
         }
       }
     },
@@ -1053,6 +1623,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "깊게 숨 쉬고,\n당신의 실력을 믿어요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deep breath, and\ntrust what you know!"
           }
         }
       }
@@ -1065,6 +1641,12 @@
             "state" : "new",
             "value" : "시험 잘 보세요!\n당신은 충분히 준비됐어요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good luck on the test!\nYou studied, you are ready."
+          }
         }
       }
     },
@@ -1075,6 +1657,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "걱정하지 마세요.\n당신이라면 다 맞출 거예요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do not worry. I bet\nyou will get every answer right!"
           }
         }
       }
@@ -1087,6 +1675,12 @@
             "state" : "new",
             "value" : "긴장된다고요?\n그래도 당신은 최고예요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feeling jittery?\nWell, you are still the best!"
+          }
         }
       }
     },
@@ -1097,6 +1691,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "시험지도 당신 얼굴 보고\n감탄할 거예요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even the test paper will see you\nand say, \"wow, finally someone good.\""
           }
         }
       }
@@ -1109,6 +1709,12 @@
             "state" : "new",
             "value" : "당신의 진가를 보여줄\n시간이에요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It is time for you\nto show what you are made of!"
+          }
         }
       }
     },
@@ -1119,6 +1725,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "면접관도 당신을 만나서\n행운이에요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The interviewer will feel lucky\nto meet you!"
           }
         }
       }
@@ -1131,6 +1743,12 @@
             "state" : "new",
             "value" : "당신의 경험과 열정이\n빛날 시간이에요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch out, because the story and drive in you\nare about to shine!"
+          }
         }
       }
     },
@@ -1141,6 +1759,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "긴장해도 괜찮아요.\n당신은 충분히 멋져요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nervous is okay.\nStill, you are impressive!"
           }
         }
       }
@@ -1153,6 +1777,12 @@
             "state" : "new",
             "value" : "자신감 있게!\n당신은 이미 준비됐어요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stand tall! You know\nyou are totally ready!"
+          }
         }
       }
     },
@@ -1163,6 +1793,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신의 이야기를\n당당하게 들려주세요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tell them the story of you\nwith pride!"
           }
         }
       }
@@ -1175,6 +1811,12 @@
             "state" : "new",
             "value" : "면접은 서로를 알아가는 시간,\n편안하게 임해요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An interview is just two people chatting,\nso relax and be you."
+          }
         }
       }
     },
@@ -1185,6 +1827,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "면접관이 당신을 안 뽑으면\n그 회사 손해예요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If they skip over you,\nthat company just lost big."
           }
         }
       }
@@ -1197,6 +1845,12 @@
             "state" : "new",
             "value" : "당신 스펙이 화려한 게 아니라\n당신 자체가 화려해요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your resume is not the shiny part,\nyou are the shiny part."
+          }
         }
       }
     },
@@ -1207,6 +1861,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "면접장 들어가는 순간부터\n이미 합격이에요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The moment you walk in,\nyou already got the job."
           }
         }
       }
@@ -1219,6 +1879,12 @@
             "state" : "new",
             "value" : "당신의 첫인상만으로도\n반은 먹고 들어갔어요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "With a first impression like you,\nhalf the job is already done!"
+          }
         }
       }
     },
@@ -1229,6 +1895,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "오늘의 당신,\n정말 빛나요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today, you\nare absolutely glowing!"
           }
         }
       }
@@ -1241,6 +1913,12 @@
             "state" : "new",
             "value" : "그대로의 당신이\n가장 매력적이에요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just being you\nis the most attractive thing about you!"
+          }
         }
       }
     },
@@ -1251,6 +1929,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신과 함께하는 사람은\n정말 행운이에요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anyone who gets to hang with you\nis seriously lucky!"
           }
         }
       }
@@ -1263,6 +1947,12 @@
             "state" : "new",
             "value" : "자신감 넘치는 당신,\n정말 멋져요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Look at you being so confident.\nAbsolutely iconic!"
+          }
         }
       }
     },
@@ -1273,6 +1963,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "오늘 당신의 미소가\n최고의 무기예요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today, you can use that smile\nas a secret weapon!"
           }
         }
       }
@@ -1285,6 +1981,12 @@
             "state" : "new",
             "value" : "있는 그대로의 당신,\n그게 최고예요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exactly as you are,\nyou are the best!"
+          }
         }
       }
     },
@@ -1295,6 +1997,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신의 매력은\n숨길 수 없어요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sorry, but you cannot hide\nthat charm, so do not try!"
           }
         }
       }
@@ -1307,6 +2015,12 @@
             "state" : "new",
             "value" : "오늘 데이트?\n상대방이 심장 떨어뜨릴 것 같은데요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A date today? Whoever it is,\nI think you will make their heart drop."
+          }
         }
       }
     },
@@ -1317,6 +2031,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 만나는 사람,\n복 터졌네요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Whoever gets to meet you\nhit the jackpot."
           }
         }
       }
@@ -1329,6 +2049,12 @@
             "state" : "new",
             "value" : "데이트 룩 완벽해요.\n화보 찍어도 되겠는데?"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That date outfit is perfect.\nHonestly, you could be on a magazine cover!"
+          }
         }
       }
     },
@@ -1339,6 +2065,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "오늘 당신 보면\n사랑에 빠질 것 같아요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, one look at you\nand anyone would fall in love."
           }
         }
       }
@@ -1351,6 +2083,12 @@
             "state" : "new",
             "value" : "데이트 전인데 벌써 예뻐요.\n상대방 심장 어쩔 거예요?"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not even on the date yet and you look this good?\nThink of their poor heart!"
+          }
         }
       }
     },
@@ -1361,6 +2099,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신은 할 수 있어요!\n언제나 응원해요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can do this!\nI am always cheering for you!"
           }
         }
       }
@@ -1373,6 +2117,12 @@
             "state" : "new",
             "value" : "작은 발걸음도\n위대한 여정의 시작이에요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even small steps from you\nare the start of something huge!"
+          }
         }
       }
     },
@@ -1383,6 +2133,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "포기하지 마세요.\n당신의 꿈은 이루어질 거예요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do not give up.\nWe know you will reach that dream!"
           }
         }
       }
@@ -1395,6 +2151,12 @@
             "state" : "new",
             "value" : "오늘의 노력이\n내일의 성공을 만들어요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today's effort from you is\nbuilding tomorrow's win!"
+          }
         }
       }
     },
@@ -1405,6 +2167,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신의 열정이\n세상을 바꿀 거예요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The fire inside you\nis going to change the world!"
           }
         }
       }
@@ -1417,6 +2185,12 @@
             "state" : "new",
             "value" : "실패는 성공의 어머니!\n계속 도전해봐요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failing is just practice for winning!\nKeep going, you!"
+          }
         }
       }
     },
@@ -1427,6 +2201,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신의 가능성은\n무한해요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Everyone agrees: you have\ncompletely unlimited potential!"
           }
         }
       }
@@ -1439,6 +2219,12 @@
             "state" : "new",
             "value" : "오늘 하루도\n최선을 다해봐요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Give today\neverything you have!"
+          }
         }
       }
     },
@@ -1449,6 +2235,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신이 노력하는 모습,\n누군가에겐 동기부여예요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watching you try hard\nmotivates a lot of people, you know."
           }
         }
       }
@@ -1461,6 +2253,12 @@
             "state" : "new",
             "value" : "당신이라면 다 잘될 거예요.\n진짜로요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Everything will work out for you.\nSeriously, I mean it!"
+          }
         }
       }
     },
@@ -1471,6 +2269,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "포기하지 말아요.\n당신은 충분히 멋진 사람이에요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do not quit. You are\nan amazing person and you know it."
           }
         }
       }
@@ -1483,6 +2287,12 @@
             "state" : "new",
             "value" : "오늘도 화이팅!\n당신은 해낼 수 있어요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go get them today!\nSeriously, you have totally got this!"
+          }
         }
       }
     },
@@ -1493,6 +2303,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신의 노력을 아는 사람은\n당신을 응원할 거예요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anyone who sees how hard you work\nwill be rooting for you."
           }
         }
       }
@@ -1505,6 +2321,12 @@
             "state" : "new",
             "value" : "당신은 충분히\n가치 있는 사람이에요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Say it with me: you are more than enough\nand worth every bit of hype!"
+          }
         }
       }
     },
@@ -1515,6 +2337,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "있는 그대로의 당신,\n그게 완벽해요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just as you are,\nyou are perfect!"
           }
         }
       }
@@ -1527,6 +2355,12 @@
             "state" : "new",
             "value" : "당신의 존재 자체가\n이미 특별해요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fun fact: you simply existing\nis already special!"
+          }
         }
       }
     },
@@ -1537,6 +2371,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "자신감 있게!\n당신은 멋진 사람이에요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold that head high!\nTruth is, you are amazing!"
           }
         }
       }
@@ -1549,6 +2389,12 @@
             "state" : "new",
             "value" : "당신은 생각보다\n훨씬 강해요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Surprise: you are\nmuch stronger than you think!"
+          }
         }
       }
     },
@@ -1559,6 +2405,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신의 개성이\n당신을 빛나게 해요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What makes you\nunique is what makes you shine!"
           }
         }
       }
@@ -1571,6 +2423,12 @@
             "state" : "new",
             "value" : "자신을 믿어요.\n당신은 할 수 있어요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Believe in you. I do,\nbecause you are the real deal!"
+          }
         }
       }
     },
@@ -1581,6 +2439,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신은 그 자체로\n완벽한 사람이에요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are\nperfect just as you are."
           }
         }
       }
@@ -1593,6 +2457,12 @@
             "state" : "new",
             "value" : "자신감 넘치는 당신,\n세상에서 제일 멋져요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All that confidence?\nHonestly, you look incredible in it!"
+          }
         }
       }
     },
@@ -1603,6 +2473,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신이 생각하는 것보다\n당신은 훨씬 대단해요!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You are far more\nawesome than you think credit for!"
           }
         }
       }
@@ -1615,6 +2491,12 @@
             "state" : "new",
             "value" : "당신은 이미\n충분히 잘하고 있어요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Truth is, you are\nalready doing great."
+          }
         }
       }
     },
@@ -1625,6 +2507,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신의 매력을 모르는 사람은\n눈이 없는 거예요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anyone who cannot see how charming you are\nneeds new glasses."
           }
         }
       }
@@ -1637,6 +2525,12 @@
             "state" : "new",
             "value" : "오늘은 그냥\n편안하게 쉬어요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today, let it all go,\nbecause you deserve to just rest."
+          }
         }
       }
     },
@@ -1647,6 +2541,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신에게도\n휴식이 필요해요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even you\nneed a break sometimes."
           }
         }
       }
@@ -1659,6 +2559,12 @@
             "state" : "new",
             "value" : "아무것도 안 해도\n괜찮은 하루예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doing nothing at all?\nIt is a fine plan, and you can own it."
+          }
         }
       }
     },
@@ -1669,6 +2575,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신의 마음이\n가장 중요해요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How you feel inside\nis what matters most."
           }
         }
       }
@@ -1681,6 +2593,12 @@
             "state" : "new",
             "value" : "천천히, 당신의 속도로\n가면 돼요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go slow. Take it\nat the speed you like."
+          }
         }
       }
     },
@@ -1691,6 +2609,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "오늘은 당신을 위한\n시간을 가져요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today, take some time\nthat belongs to you."
           }
         }
       }
@@ -1703,6 +2627,12 @@
             "state" : "new",
             "value" : "휴식도 생산적인\n활동이에요!"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rest is productive too,\nand you are the proof!"
+          }
         }
       }
     },
@@ -1713,6 +2643,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "쉬는 것도 당신의 권리예요.\n오늘은 편히 쉬세요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resting is a right, and you have it.\nTake it easy today, you deserve it."
           }
         }
       }
@@ -1725,6 +2661,12 @@
             "state" : "new",
             "value" : "힐링하는 당신,\n그것도 아름다워요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Look at you recharging.\nEven that looks beautiful."
+          }
         }
       }
     },
@@ -1735,6 +2677,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "오늘은 당신을 위해\n시간을 써도 괜찮아요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spend some time on you today.\nNo guilt allowed!"
           }
         }
       }
@@ -1747,6 +2695,12 @@
             "state" : "new",
             "value" : "편하게 쉬면서도\n당신은 빛나요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even while lounging,\nyou glow like a star."
+          }
         }
       }
     },
@@ -1757,6 +2711,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "힐링 중인 당신도\n세상에서 제일 예뻐요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chilling at home? Even so,\nyou still look like a million bucks."
           }
         }
       }
@@ -1769,6 +2729,12 @@
             "state" : "new",
             "value" : "완벽하지만 구멍 하나 있네요.\n황홀(hole)."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You are perfect, but I found\none small flaw: you have a hole-in-one on my heart."
+          }
         }
       }
     },
@@ -1779,6 +2745,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "엠비티아이 검사결과\n큐트라며?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your personality test says\nyou are 100% adorable. Case closed."
           }
         }
       }
@@ -1791,6 +2763,12 @@
             "state" : "new",
             "value" : "네가 귀엽다고 생각하는 사람 손 들어주세요 하니까\n지구가 성게 모양이 됐어요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "They said, \"hands up if you think you are cute\"\nand the whole planet raised both hands."
+          }
         }
       }
     },
@@ -1801,6 +2779,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "너를 음계로 표현하면 레야..\n도를 지나쳐서 미치기 직전이니까."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If I rated you from do to ti,\nI would run out of notes. Off the scale!"
           }
         }
       }
@@ -1813,6 +2797,12 @@
             "state" : "new",
             "value" : "경마장 가면 안 되겠다.\n너무 완벽해서 말이 안 나와."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do not enter any beauty contest, you.\nThe others would just quit."
+          }
         }
       }
     },
@@ -1823,6 +2813,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "너보고 예쁠 때마다 이마를 쳤더니\n거북목이 완치됐어."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Each time you looked great, I clapped my hands.\nNow they hurt, but I would not stop."
           }
         }
       }
@@ -1835,6 +2831,12 @@
             "state" : "new",
             "value" : "제가 주유소만 가면 넣는 기름이 있어요.\n바로 온리유."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There is only one fuel I ever put\nin my tank: you, always you."
+          }
         }
       }
     },
@@ -1845,6 +2847,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "너 때문에 비가 올 것 같아.\n심장마비."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I think it is going to rain,\nbecause you are a total storm of cute."
           }
         }
       }
@@ -1857,6 +2865,12 @@
             "state" : "new",
             "value" : "혹시 종교 있으세요?\n뭘 믿고 그렇게 예뻐요?"
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do you have a religion?\nBecause you look like a miracle."
+          }
         }
       }
     },
@@ -1867,6 +2881,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "다 좋은데 뭔가 허전하지 않아?\n명불허전."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Everything is great, but something seems missing.\nOh wait, it was you."
           }
         }
       }
@@ -1879,6 +2899,12 @@
             "state" : "new",
             "value" : "그 짐좀 내려놔요.\n멋짐."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Can you put that charm down for a second?\nSome of us need to function."
+          }
         }
       }
     },
@@ -1889,6 +2915,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "너한테선 벽이 느껴져.\n완벽."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I feel a wall in you.\nA wall of pure perfection."
           }
         }
       }
@@ -1901,6 +2933,12 @@
             "state" : "new",
             "value" : "비주얼 솔직히 거품 아닌가요?\n언빌리버블."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Is the beauty a bit overhyped?\nNope. Honestly, you are the real thing."
+          }
         }
       }
     },
@@ -1911,6 +2949,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "너는 영어를 못하는구나.\n하지만 영문 없이도 귀엽다."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You say you are bad at math?\nWell, you still add up to everything."
           }
         }
       }
@@ -1923,6 +2967,12 @@
             "state" : "new",
             "value" : "너 혼혈이라면서?\n한국과 천국."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you part angel?\nBecause you look heaven-sent."
+          }
         }
       }
     },
@@ -1933,6 +2983,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "그거 아세요?\n이목구비가 제 미래보다 뚜렷해요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Did you know those features are\nsharper than my future plans?"
           }
         }
       }
@@ -1945,6 +3001,12 @@
             "state" : "new",
             "value" : "너는 베를린이야.\n내 마음에 치명적인 독일수도."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are a gift\nthat keeps on giving to my smile."
+          }
         }
       }
     },
@@ -1955,6 +3017,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "너는 C급이야.\n문화재 제정 시급."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fact: you are a landmark.\nSomeone should put up a sign."
           }
         }
       }
@@ -1967,6 +3035,12 @@
             "state" : "new",
             "value" : "너 잘 때 셋이서 잔다면서?\n칭찬과 명성이 자자해서..."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "They say you sleep with three pillows?\nWell, that is how fluffy the fan club is."
+          }
         }
       }
     },
@@ -1977,6 +3051,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "왜 일하고 있어요?\n이미 미모가 열일하는데."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Why are you working?\nYour looks already do overtime."
           }
         }
       }
@@ -1989,6 +3069,12 @@
             "state" : "new",
             "value" : "날 그만 좋아해 \"뭐?\"\n날 그만 좋아하라고\n\"그거 어떻게 하는건데.\""
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"Stop liking me.\" \"What?\"\n\"I said stop.\" \"How do I even do that?\""
+          }
         }
       }
     },
@@ -1999,6 +3085,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "얼굴이 국보급이라\n국립중앙박물관에 전시 예정입니다."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face this rare? Sorry, you\nbelong in a museum."
           }
         }
       }
@@ -2011,6 +3103,12 @@
             "state" : "new",
             "value" : "시상식 가면 안 되겠어요.\n대상은 당신 얼굴이니까."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do not go to the awards show.\nThe grand prize is already you."
+          }
         }
       }
     },
@@ -2021,6 +3119,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "화보 찍으세요?\n아니면 그냥 걸어다니는 화보예요?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you doing a photoshoot,\nor are you just a walking one?"
           }
         }
       }
@@ -2033,6 +3137,12 @@
             "state" : "new",
             "value" : "당신은 아이돌이에요.\n내 심장의 1위 아티스트."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Truth is, you are an idol,\nthe number one star in my heart."
+          }
         }
       }
     },
@@ -2043,6 +3153,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "팬싸인회 열어주세요.\n매일 당신한테 사인받고 싶어요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please host a signing event.\nI want an autograph from you every day."
           }
         }
       }
@@ -2055,6 +3171,12 @@
             "state" : "new",
             "value" : "데뷔하세요.\n이미 내 마음 속에서 센터예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just debut already.\nTruth is, you are the center of my heart."
+          }
         }
       }
     },
@@ -2065,6 +3187,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "음방 1위 축하해요.\n당신의 비주얼이 매일 1위니까."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Congrats on the top chart spot.\nLooks like you win it every day anyway."
           }
         }
       }
@@ -2077,6 +3205,12 @@
             "state" : "new",
             "value" : "포토타임 하나 갖죠.\n당신 얼굴 매일 찍고 싶어요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One photo op, please.\nI could take a picture of you daily."
+          }
         }
       }
     },
@@ -2087,6 +3221,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "컴백했어요?\n내 심장을 comeback 시켰네요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A new comeback? Wow, you just\nbrought my heart back to life."
           }
         }
       }
@@ -2099,6 +3239,12 @@
             "state" : "new",
             "value" : "직캠 찍어도 돼요?\n당신의 모든 순간이 명장면이니까."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Can I film a fancam of you?\nEvery moment is a highlight reel."
+          }
         }
       }
     },
@@ -2109,6 +3255,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "뮤직비디오 나오세요?\n이미 제 인생의 주인공인데."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starring in a music video?\nWell, you already star in my whole life."
           }
         }
       }
@@ -2121,6 +3273,12 @@
             "state" : "new",
             "value" : "리얼리티 프로그램 찍으세요?\n당신의 실제 모습이 더 완벽해요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you filming a reality show?\nThe real you is better than any script."
+          }
         }
       }
     },
@@ -2131,6 +3289,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "비주얼 센터 맞죠?\n어디서든 제일 빛나니까."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You are the center of the group, right?\nBecause you shine everywhere you go."
           }
         }
       }
@@ -2143,6 +3307,12 @@
             "state" : "new",
             "value" : "올해의 얼굴상 받으셔야 해요.\n역대급이거든요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seriously, you need to win Face of the Year.\nIt is not even close."
+          }
         }
       }
     },
@@ -2153,6 +3323,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "광고 모델 하세요?\n당신만 보면 다 사고 싶어져요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you modeling for an ad?\nOne look at you and I want to buy everything."
           }
         }
       }
@@ -2165,6 +3341,12 @@
             "state" : "new",
             "value" : "잡지 표지 모델이시죠?\n매달 표지를 장식해야 할 얼굴."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Look, you must be a magazine cover star.\nThat face belongs on every issue."
+          }
         }
       }
     },
@@ -2175,6 +3357,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "무대 위 카리스마 실화예요?\n일상도 무대처럼 빛나네요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That stage charisma is real?\nEven you doing errands looks like a show."
           }
         }
       }
@@ -2187,6 +3375,12 @@
             "state" : "new",
             "value" : "포토카드 교환해요?\n당신 얼굴로만 풀 세트 모으고 싶어요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Want to trade photocards?\nI only collect the full set of you."
+          }
         }
       }
     },
@@ -2197,6 +3391,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "팬미팅 언제 해요?\n매일 만나고 싶은데."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When is the fan meeting?\nI would like to see you every day."
           }
         }
       }
@@ -2209,6 +3409,12 @@
             "state" : "new",
             "value" : "안무 영상 올려주세요.\n당신의 모든 움직임이 예술이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Post the dance video, please.\nEvery move you make is art."
+          }
         }
       }
     },
@@ -2219,6 +3425,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "티저 영상 보는 것 같아요.\n당신을 볼 때마다 설레니까."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watching you is like a teaser trailer.\nI get excited every single time."
           }
         }
       }
@@ -2231,6 +3443,12 @@
             "state" : "new",
             "value" : "월드투어 가시나요?\n제 마음을 전 세계로 흔들어놓으셨는데."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Going on a world tour?\nFun fact: you already shook my heart worldwide."
+          }
         }
       }
     },
@@ -2241,6 +3459,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "앨범 사인해주세요.\n당신의 존재 자체가 한정판이에요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign my album, please.\nFact: you are a limited edition."
           }
         }
       }
@@ -2253,6 +3477,12 @@
             "state" : "new",
             "value" : "펜라이트 켤게요.\n당신을 향해 평생 응원할게요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I am turning on my light stick.\nI will cheer for you for life."
+          }
         }
       }
     },
@@ -2263,6 +3493,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "떡상했네요.\n원래부터 레전드였는데 뭘."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Admit it, you blew up overnight?\nYou were a legend way before that."
           }
         }
       }
@@ -2275,6 +3511,12 @@
             "state" : "new",
             "value" : "콘서트 티켓 구해야겠어요.\n당신을 보는 게 제 일상 콘서트니까."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I need concert tickets.\nWatching you is my daily live show."
+          }
         }
       }
     },
@@ -2285,6 +3527,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "인기가요 1위 하셨죠?\n당신은 제 인생 1위 곡이에요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Did you hit number one on the charts?\nYou are the song stuck in my head forever."
           }
         }
       }
@@ -2297,6 +3545,12 @@
             "state" : "new",
             "value" : "앵콜 무대 하나 더요.\n당신은 봐도봐도 또 보고 싶으니까."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One more encore, please.\nI can never see enough of you."
+          }
         }
       }
     },
@@ -2307,6 +3561,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "비하인드 컷도 완벽해요.\n어느 순간도 빠짐없이 레전드."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even you in the behind-the-scenes shots? Perfect.\nNo off moments, only legend."
           }
         }
       }
@@ -2319,6 +3579,12 @@
             "state" : "new",
             "value" : "최애 바꿔야겠어요.\n당신 외에는 못 보겠어요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I have to change my favorite.\nI cannot look at anyone but you."
+          }
         }
       }
     },
@@ -2329,6 +3595,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "입덕했어요.\n당신한테 영원히 덕질할게요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I just became a fan.\nI will stan you forever."
           }
         }
       }
@@ -2341,6 +3613,12 @@
             "state" : "new",
             "value" : "최애 공개합니다.\n그게 바로 당신이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revealing my favorite:\nit is you, always you."
+          }
         }
       }
     },
@@ -2351,6 +3629,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "굿즈 다 샀어요.\n당신이라는 존재 자체가 굿즈예요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I bought all the merch.\nReal talk: you are the merch. Rare and mine."
           }
         }
       }
@@ -2363,6 +3647,12 @@
             "state" : "new",
             "value" : "평생 팬할게요.\n당신은 제 영원한 아티스트."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I am a fan for life.\nFact: you are my forever artist."
+          }
         }
       }
     },
@@ -2373,6 +3663,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "본진 박았어요.\n당신이 제 본진이에요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Planted my flag.\nNo doubt, you are my number one."
           }
         }
       }
@@ -2385,6 +3681,12 @@
             "state" : "new",
             "value" : "덕질 시작합니다.\n당신한테 올인할게요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I am starting my fandom era.\nAll in on you."
+          }
         }
       }
     },
@@ -2395,6 +3697,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "홈마 할게요.\n당신의 모든 순간을 기록하고 싶어요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I will be the fan photographer.\nI want to catch every moment of you."
           }
         }
       }
@@ -2407,6 +3715,12 @@
             "state" : "new",
             "value" : "야자타임이에요.\n당신과 함께하는 시간은 다 황금시간."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It is a free-for-all of praise time.\nEvery minute with you is golden."
+          }
         }
       }
     },
@@ -2417,6 +3731,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "생일 광고 할게요.\n매일이 당신 생일이었으면 좋겠어요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I will buy a birthday billboard.\nI wish every day were a birthday for you."
           }
         }
       }
@@ -2429,6 +3749,12 @@
             "state" : "new",
             "value" : "평생 응원합니다.\n당신의 팬이라는 게 자랑스러워요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cheering for you for life.\nBeing a fan is my proudest thing."
+          }
         }
       }
     },
@@ -2439,6 +3765,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 때문에 심장이\n두근두근대요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My heart is going\nthump-thump because of you."
           }
         }
       }
@@ -2451,6 +3783,12 @@
             "state" : "new",
             "value" : "당신만 보면\n세상이 아름다워요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Everything looks lovely\nwhenever I look at you."
+          }
         }
       }
     },
@@ -2461,6 +3799,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신은 내 행복의\n비타민이에요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Real talk: you are the vitamin\nmy happiness runs on."
           }
         }
       }
@@ -2473,6 +3817,12 @@
             "state" : "new",
             "value" : "당신이 웃으면\n나도 덩달아 행복해요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When you smile,\nI end up smiling too."
+          }
         }
       }
     },
@@ -2483,6 +3833,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신은 내가 본\n가장 빛나는 별이에요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No doubt, you are the brightest star\nI have ever seen."
           }
         }
       }
@@ -2495,6 +3851,12 @@
             "state" : "new",
             "value" : "당신의 하루하루가\n내 마음속 축제예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every day with you\nis a festival in my heart."
+          }
         }
       }
     },
@@ -2505,6 +3867,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 목소리만 들어도\n기분이 좋아져요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even hearing you talk\nmakes my mood better."
           }
         }
       }
@@ -2517,6 +3885,12 @@
             "state" : "new",
             "value" : "당신은 내 인생의\n최고의 행운이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the best luck\nI ever had in life."
+          }
         }
       }
     },
@@ -2527,6 +3901,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신이 있어서\n오늘도 웃을 수 있어요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Because of you,\nI can smile again today."
           }
         }
       }
@@ -2539,6 +3919,12 @@
             "state" : "new",
             "value" : "당신은 세상에서\n가장 소중한 사람이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fact: you are the most precious\nperson in the world."
+          }
         }
       }
     },
@@ -2549,6 +3935,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 생각하면\n저절로 미소가 나와요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thinking of you\nmakes me smile on its own."
           }
         }
       }
@@ -2561,6 +3953,12 @@
             "state" : "new",
             "value" : "당신은 내 마음의\n평화예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Truth is, you are the calm\nin my heart."
+          }
         }
       }
     },
@@ -2571,6 +3969,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신과 함께하는 시간은\n항상 특별해요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time spent with you\nis always special."
           }
         }
       }
@@ -2583,6 +3987,12 @@
             "state" : "new",
             "value" : "당신은 내가 아는\n가장 멋진 사람이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seriously, you are the coolest\nperson I know."
+          }
         }
       }
     },
@@ -2593,6 +4003,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신의 존재만으로도\n충분히 감사해요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just having you around\nis reason enough to be grateful."
           }
         }
       }
@@ -2605,6 +4021,12 @@
             "state" : "new",
             "value" : "당신은 내 하루의\n하이라이트예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Look, you are the highlight\nof my day."
+          }
         }
       }
     },
@@ -2615,6 +4037,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 덕분에 매일매일이\n특별해져요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every day feels special\nthanks to you."
           }
         }
       }
@@ -2627,6 +4055,12 @@
             "state" : "new",
             "value" : "당신을 보면\n세상이 밝아져요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When I look at you,\nthe world gets brighter."
+          }
         }
       }
     },
@@ -2637,6 +4071,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신은 내 인생의\n최고의 선물이에요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Admit it, you are the best gift\nlife ever gave me."
           }
         }
       }
@@ -2649,6 +4089,12 @@
             "state" : "new",
             "value" : "당신이 있어서\n세상이 더 아름다워요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The world is prettier\nbecause you exist."
+          }
         }
       }
     },
@@ -2659,6 +4105,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 없는 하루는\n상상도 할 수 없어요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A day without you?\nI cannot even picture it."
           }
         }
       }
@@ -2671,6 +4123,12 @@
             "state" : "new",
             "value" : "당신은 내 마음속\n영원한 1등이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Real talk: you are forever number one\nin my heart."
+          }
         }
       }
     },
@@ -2681,6 +4139,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신과 함께라면\n뭐든 할 수 있을 것 같아요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "With you around,\nI feel like I can do anything."
           }
         }
       }
@@ -2693,6 +4157,12 @@
             "state" : "new",
             "value" : "당신은 내가 매일\n감사하는 존재예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No doubt, you are the one I am\nthankful for every day."
+          }
         }
       }
     },
@@ -2703,6 +4173,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신의 미소는\n세상 어떤 것보다 아름다워요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nothing in the world\nbeats it when you smile."
           }
         }
       }
@@ -2715,6 +4191,12 @@
             "state" : "new",
             "value" : "당신은 내 인생의\n가장 큰 축복이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the biggest blessing\nin my life."
+          }
         }
       }
     },
@@ -2725,6 +4207,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신을 생각하면\n하루가 행복해져요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thinking about you\nmakes the whole day happy."
           }
         }
       }
@@ -2737,6 +4225,12 @@
             "state" : "new",
             "value" : "당신은 내 마음의\n홈이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fact: you are the home\nof my heart."
+          }
         }
       }
     },
@@ -2747,6 +4241,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신과 함께하는 순간\n모든 게 완벽해요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When you are here,\neverything is just perfect."
           }
         }
       }
@@ -2759,6 +4259,12 @@
             "state" : "new",
             "value" : "당신은 내가 꿈꾸던\n이상형 그 자체예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Truth is, you are literally\nthe person I dreamed of."
+          }
         }
       }
     },
@@ -2769,6 +4275,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 보면 심장이\n고장 난 것 같아요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seeing you makes me think\nmy heart is broken. It is racing!"
           }
         }
       }
@@ -2781,6 +4293,12 @@
             "state" : "new",
             "value" : "당신은 걷는 위인전이에요.\n역사에 남을 사람."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seriously, you are a walking history book.\nPure legend material."
+          }
         }
       }
     },
@@ -2791,6 +4309,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 매력에\n계속 당하고 싶어요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I would happily keep falling\nfor the charm of you."
           }
         }
       }
@@ -2803,6 +4327,12 @@
             "state" : "new",
             "value" : "당신한테만 집중하다가\n목 디스크 올 것 같아요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I stared at you so long\nI might need a neck brace."
+          }
         }
       }
     },
@@ -2813,6 +4343,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 볼 때마다\n심장 박동수가 올라가요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every time I see you,\nmy heart rate goes up."
           }
         }
       }
@@ -2825,6 +4361,12 @@
             "state" : "new",
             "value" : "당신은 내 눈의\n레전드 화보예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Look, you are a legendary\nphotoshoot for my eyes."
+          }
         }
       }
     },
@@ -2835,6 +4377,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 때문에\n매일이 최애의 날이에요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Because of you,\nevery day is favorite day."
           }
         }
       }
@@ -2847,6 +4395,12 @@
             "state" : "new",
             "value" : "당신은 살아있는\n기적이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Admit it, you are a living,\nbreathing miracle."
+          }
         }
       }
     },
@@ -2857,6 +4411,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신만 보면\n세상이 슬로우모션이 돼요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Whenever I see you,\neverything goes slow motion."
           }
         }
       }
@@ -2869,6 +4429,12 @@
             "state" : "new",
             "value" : "당신은 내 인생의\nVIP 멤버십이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Real talk: you are the VIP pass\nto my whole life."
+          }
         }
       }
     },
@@ -2879,6 +4445,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 보는 게\n내 일상의 하이라이트예요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Looking at you is\nthe highlight of my routine."
           }
         }
       }
@@ -2891,6 +4463,12 @@
             "state" : "new",
             "value" : "당신은 내 마음의\n프리미엄 콘텐츠예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No doubt, you are the premium content\nof my heart."
+          }
         }
       }
     },
@@ -2901,6 +4479,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 때문에\n세상이 HD로 보여요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Because of you,\nthe world looks like HD."
           }
         }
       }
@@ -2913,6 +4497,12 @@
             "state" : "new",
             "value" : "당신은 내 인생의\n골든타임이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the golden hour\nof my life."
+          }
         }
       }
     },
@@ -2923,6 +4513,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신만 생각하면\n자동으로 미소가 나와요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just thinking of you\nputs a smile on my face."
           }
         }
       }
@@ -2935,6 +4531,12 @@
             "state" : "new",
             "value" : "당신은 내 마음의\n특급 호텔이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fact: you are the five-star hotel\nof my heart."
+          }
         }
       }
     },
@@ -2945,6 +4547,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 덕분에\n매일이 프리미엄 데이예요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thanks to you,\nevery day is a treat day."
           }
         }
       }
@@ -2957,6 +4565,12 @@
             "state" : "new",
             "value" : "당신은 내 인생의\n메인 이벤트예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Truth is, you are the main event\nof my life."
+          }
         }
       }
     },
@@ -2967,6 +4581,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 보면\n심장이 춤을 춰요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When I see you,\nmy heart starts dancing."
           }
         }
       }
@@ -2979,6 +4599,12 @@
             "state" : "new",
             "value" : "당신은 내 눈의\n4K 화질이에요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seriously, you are the 4K quality\nof my view."
+          }
         }
       }
     },
@@ -2989,6 +4615,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신만 보면\n세상이 빛나 보여요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Whenever I see you,\neverything looks brighter."
           }
         }
       }
@@ -3001,6 +4633,12 @@
             "state" : "new",
             "value" : "당신은 내 마음의\nVVIP예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Look, you are the VIP\nof my heart."
+          }
         }
       }
     },
@@ -3011,6 +4649,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 때문에\n하루가 특별해져요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Because of you,\nthe day turns special."
           }
         }
       }
@@ -3023,6 +4667,12 @@
             "state" : "new",
             "value" : "당신은 내 인생의\n히든 카드예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Admit it, you are the ace\nup my sleeve."
+          }
         }
       }
     },
@@ -3033,6 +4683,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신만 생각하면\n기분이 업그레이드돼요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just thinking of you\nupgrades my whole mood."
           }
         }
       }
@@ -3045,6 +4701,12 @@
             "state" : "new",
             "value" : "당신은 내 마음속\n명예의 전당 1호예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Real talk: you are the first one\nin my hall of fame."
+          }
         }
       }
     },
@@ -3055,6 +4717,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신 덕분에\n인생이 풀컬러예요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thanks to you,\nlife is in full color."
           }
         }
       }
@@ -3067,6 +4735,12 @@
             "state" : "new",
             "value" : "당신은 내 눈의\n올타임 레전드예요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No doubt, you are the all-time\nlegend of my eyes."
+          }
         }
       }
     },
@@ -3078,6 +4752,12 @@
             "state" : "new",
             "value" : "당신만 보면\n세상이 슬로우 비디오 같아요."
           }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Whenever I see you,\nit feels like a slow-motion replay."
+          }
         }
       }
     },
@@ -3088,6 +4768,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "당신은 내 인생의\n프리미엄 패스예요."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honestly, you are the premium pass\nto my life."
           }
         }
       }

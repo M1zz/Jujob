@@ -44,3 +44,48 @@ https://m1zz.github.io/Jujob/ko/index.html
 
 개인정보는 수집하지 않아요. 이름과 즐겨찾기 같은 정보는 내 기기 안에만 저장돼요.
 버그 제보와 기능 제안은 설정 화면에서 이메일이나 인스타그램으로 보내 주세요.
+
+## en
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/en/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/en/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/en/index.html
+
+### 이름
+
+Daily Hype
+
+### 부제
+
+Gush Over Yourself, Together
+
+### 키워드
+
+widget,quotes,motivation,affirmations,positive,cheer,confidence,uplifting,selflove,mood,peptalk
+
+### 프로모션 텍스트
+
+A friendly voice that cheers you on, way over the top. Put a hype line on your Home Screen for every moment, from the morning commute to a rough day. Add your name too!
+
+### 설명
+
+Daily Hype is a widget app that piles on the compliments, and then piles on a few more. Every time you glance at your Home Screen, a fresh over-the-top cheer is waiting for you.
+When your confidence needs a boost, pick a line from 281 hype lines made for mornings, commutes, interviews, tests, rough days, and more.
+
+What you get
+- Home Screen widget: choose the font, text color, background image, alignment, line spacing, and how often it refreshes.
+- Pick a mood: choose a line that fits how you feel or what you are about to do, like a morning, the commute, an interview, a test, a workout, a date, the ride home, an evening, a rough day, or a chill moment.
+- Add your name: swap the word "you" in every line for your own name, so you become your own biggest fan.
+- Favorites and history: tap the star to save the lines you love, and look back at the ones you have seen.
+- Streaks and achievements: check in for 7, 30, or 100 days in a row to unlock special lines.
+
+Your privacy matters. The app collects no personal information, and things like your name and favorites stay on your device only.
+Bug reports and feature ideas are welcome from the settings screen, by email or Instagram.
