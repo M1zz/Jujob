@@ -49,3 +49,9 @@ Send bugs and ideas by email or DM
 Ahora recibes piropos en más idiomas
 Escribe al desarrollador desde ajustes
 Errores y ideas, por correo o Instagram
+
+### 앱스토어 (독일어)
+
+Die Sprüche gibt es jetzt mehrsprachig
+Entwickler-Kontakt in den Einstellungen
+Fehler und Ideen gern per Mail oder DM

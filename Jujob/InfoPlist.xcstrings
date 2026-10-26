@@ -52,6 +52,12 @@
             "state" : "translated",
             "value" : "Piropo del Día"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hype des Tages"
+          }
         }
       }
     },
@@ -105,6 +111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Piropo del Día"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hype des Tages"
           }
         }
       }

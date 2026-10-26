@@ -51,6 +51,12 @@
             "state" : "translated",
             "value" : "El sol sale cada mañana\npara ver quién brilla más: tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guten Morgen, Sonnenschein!\nSo strahlend wie heute ist nur du."
+          }
         }
       }
     },
@@ -103,6 +109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Despierta, que hoy la luz\nmás potente de la casa eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Sonne geht auf, weil sie\nweiß, dass hier ein Mensch wie du wartet."
           }
         }
       }
@@ -157,6 +169,12 @@
             "state" : "translated",
             "value" : "Abres los ojos y el día\nya es tuyo. Imparable, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schon wach? Respekt!\nDer Tag hat Glück mit dir, du Frühstarter."
+          }
         }
       }
     },
@@ -209,6 +227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se levanta una leyenda\ny esa leyenda eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der schönste Start in den Morgen\nbist und bleibst eben du."
           }
         }
       }
@@ -263,6 +287,12 @@
             "state" : "translated",
             "value" : "Ni el café despierta tanto\ncomo tú. En serio."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute spielt wieder die Hauptrolle:\nganz klar du."
+          }
         }
       }
     },
@@ -315,6 +345,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suena el despertador y la\nestrella del día eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaum die Augen auf,\nschon Gewinner: du."
           }
         }
       }
@@ -369,6 +405,12 @@
             "state" : "translated",
             "value" : "Lo más bonito del amanecer\nno es el sol: eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Süßer als jeder Kaffee ist nur\ndein Lächeln am Morgen, du Zuckerstück."
+          }
         }
       }
     },
@@ -421,6 +463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sé tú, a tu aire:\nes lo mejor que le pasa al día."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bleib heute einfach so, wie du bist.\nBesser geht's nicht."
           }
         }
       }
@@ -475,6 +523,12 @@
             "state" : "translated",
             "value" : "Madrugar y encima brillar:\nesa combinación solo la tienes tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schon so früh so hübsch?\nDas ist ein Verbrechen, du Schuft."
+          }
         }
       }
     },
@@ -527,6 +581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Buenos días? Qué va:\nmejores días, si estás tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guten Morgen? Nee, Bestmorgen,\nweil du da bist!"
           }
         }
       }
@@ -581,6 +641,12 @@
             "state" : "translated",
             "value" : "Mejor plan para esta mañana:\nlo tienes tú, y nadie más."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Gesicht gleich nach dem Aufstehen:\nAugenschmaus pur, du Glückspilz."
+          }
         }
       }
     },
@@ -633,6 +699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alerta de luz: ya amaneció\nporque has llegado tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute früh wieder entdeckt:\nden strahlendsten Menschen, nämlich du."
           }
         }
       }
@@ -687,6 +759,12 @@
             "state" : "translated",
             "value" : "Día completado con nota,\ny la mejor de la clase eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puh, was für ein Tag!\nStolz auf dich, du Kraftpaket."
+          }
         }
       }
     },
@@ -739,6 +817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cierras el día como lo abriste:\na lo grande, como solo tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieser Abend braucht Applaus,\nund der geht heute an niemand anderen als du."
           }
         }
       }
@@ -793,6 +877,12 @@
             "state" : "translated",
             "value" : "Hoy lo diste todo. Quien merece\nun aplauso largo eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alles gegeben, wie immer.\nDarauf darf man als du stolz sein."
+          }
         }
       }
     },
@@ -845,6 +935,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Con todo el cansancio, aguantaste\nel día como nadie. Un mito, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Müde, aber geschafft!\nDas hast du fein gemacht, du Held."
           }
         }
       }
@@ -899,6 +995,12 @@
             "state" : "translated",
             "value" : "Tu día valió la pena\nporque lo viviste tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein Tag ist immer wertvoll,\nwenn du ihn gelebt hast."
+          }
         }
       }
     },
@@ -951,6 +1053,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Otro día más y sigues en pie.\nHéroe de lo cotidiano: tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heil angekommen?\nDas reicht schon, echt wahr, du Wunder."
           }
         }
       }
@@ -1005,6 +1113,12 @@
             "state" : "translated",
             "value" : "Mira el cielo: miles de estrellas\ny ninguna como tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie die Sterne am Nachthimmel\nstrahlt auch jemand wie du."
+          }
         }
       }
     },
@@ -1057,6 +1171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anochece, pero la luz sigue\nencendida. La luz eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abends noch so strahlend?\nWie schaffst du das den ganzen Tag?"
           }
         }
       }
@@ -1111,6 +1231,12 @@
             "state" : "translated",
             "value" : "Gracias por el día, tú:\nsin ti habría sido uno cualquiera."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Danke für heute.\nGut, dass es dich gibt, du Schatz."
+          }
         }
       }
     },
@@ -1163,6 +1289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoy el mundo fue más bonito\nporque estabas tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dank dir war die Welt heute\nein Stück schöner, du Sonnenschein."
           }
         }
       }
@@ -1217,6 +1349,12 @@
             "state" : "translated",
             "value" : "De día, leyenda. De noche,\nleyenda. Siempre tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nachts eine Legende,\ntagsüber eine Legende: du."
+          }
         }
       }
     },
@@ -1269,6 +1407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un mal día no cuenta.\nLo que cuenta eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ist schon okay. Solche Tage gibt's.\nIn der Disziplin schlägst du dich richtig gut."
           }
         }
       }
@@ -1323,6 +1467,12 @@
             "state" : "translated",
             "value" : "Esto pasará, y quien seguirá\nde pie, como siempre, eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute ist es zäh,\naber am Ende packt es keiner so wie du."
+          }
         }
       }
     },
@@ -1375,6 +1525,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perfección no se pide, pero\nla más cercana eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfekt muss keiner sein.\nGenau so, wie du bist, ist es richtig."
           }
         }
       }
@@ -1429,6 +1585,12 @@
             "state" : "translated",
             "value" : "Descansa si hace falta.\nIr a tu ritmo es de sabios, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gönn dir ruhig eine Pause.\nDein Tempo ist das richtige, du Schatz."
+          }
         }
       }
     },
@@ -1481,6 +1643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Más fuerte de lo que crees:\neso eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viel stärker, als man denkt,\nist ein Mensch wie du."
           }
         }
       }
@@ -1535,6 +1703,12 @@
             "state" : "translated",
             "value" : "Todo pasa, también esto.\nY aquí seguirás tú, de pie."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das geht vorbei.\nUnd wer schafft es? Genau, du."
+          }
         }
       }
     },
@@ -1587,6 +1761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Con el ánimo por los suelos\nvales oro igual, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbst im Stimmungstief bleibt dein Wert,\nwas er ist: unbezahlbar, du Schatz."
           }
         }
       }
@@ -1641,6 +1821,12 @@
             "state" : "translated",
             "value" : "Sentir tristeza es normal.\nTodas tus emociones valen, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Traurigkeit gehört dazu.\nAlle Gefühle sind okay, du Herz."
+          }
         }
       }
     },
@@ -1693,6 +1879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Sabías que el diamante\nse forma bajo presión? Como tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diamanten entstehen unter Druck.\nGlitzer-Alarm also, du Juwel."
           }
         }
       }
@@ -1747,6 +1939,12 @@
             "state" : "translated",
             "value" : "De bajón o no, la persona\nmás valiosa del mundo eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mies drauf? Schau mich an:\nIch bin wegen dir ganz aus dem Häuschen, du Wirbelwind."
+          }
         }
       }
     },
@@ -1799,6 +1997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Estar de bajón no cambia\nque el tesoro eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stimmungstief? Egal!\nWertvoll bleibt bei allem nur du."
           }
         }
       }
@@ -1853,6 +2057,12 @@
             "state" : "translated",
             "value" : "Hasta llorando brillas\ncomo una joya."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbst traurig siehst du gut aus.\nUnd beim Weinen erst recht. Unfair!"
+          }
         }
       }
     },
@@ -1905,6 +2115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Que hoy cueste no cambia\nlo esencial: el milagro eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auch an schweren Tagen:\nEin kleines Wunder bleibt immer du."
           }
         }
       }
@@ -1959,6 +2175,12 @@
             "state" : "translated",
             "value" : "Hoy cuesta, pero lo lograrás:\nlo digo yo y lo sabes tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute ist es schwer,\naber am Ende gewinnt eben du."
+          }
         }
       }
     },
@@ -2011,6 +2233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En los malos ratos se nota\nquién tiene casta: tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerade jetzt zeigt sich,\nwas in dir steckt, du Kämpfer."
           }
         }
       }
@@ -2065,6 +2293,12 @@
             "state" : "translated",
             "value" : "No te rindas. Fuerza de sobra\nla tienes tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gib nicht auf.\nStark genug ist doch keiner so wie du."
+          }
         }
       }
     },
@@ -2117,6 +2351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aguantar como lo haces\nes cosa de héroes, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie hältst du das nur aus?\nDas ist echte Größe, du Riese."
           }
         }
       }
@@ -2171,6 +2411,12 @@
             "state" : "translated",
             "value" : "Los palos de hoy son abono:\nmañana la flor serás tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Kampf von heute ist\ndas Wachstum von morgen, versprochen, du Pflänzchen."
+          }
         }
       }
     },
@@ -2223,6 +2469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aguanta más de lo imaginable\nquien, como tú, no se rinde."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In dir steckt mehr Ausdauer,\nals du je gedacht hättest, du Marathon."
           }
         }
       }
@@ -2277,6 +2529,12 @@
             "state" : "translated",
             "value" : "Este mal rato será anécdota\ny quien la cuente, leyenda: tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bald denkst du an den Moment\nnur noch mit einem Lächeln zurück."
+          }
         }
       }
     },
@@ -2329,6 +2587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Los diamantes brillan tras\nel pulido. Igual que tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geschliffen strahlt es heller.\nGilt für Diamanten und für dich, du Brillant."
           }
         }
       }
@@ -2383,6 +2647,12 @@
             "state" : "translated",
             "value" : "¿Mal día? Aun así, lo mejor\nque he visto hoy eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alles zu viel? Egal:\nSo hübsch bleibt trotzdem nur du."
+          }
         }
       }
     },
@@ -2435,6 +2705,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Que sigas adelante es la\nesperanza de alguien, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Durchhalten ist für manche\neine echte Hoffnung, du Held."
           }
         }
       }
@@ -2489,6 +2765,12 @@
             "state" : "translated",
             "value" : "Con la moral por los suelos\nsigue habiendo luz: eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fix und fertig, aber trotzdem schön.\nDagegen ist man machtlos, du Naturgewalt."
+          }
         }
       }
     },
@@ -2541,6 +2823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoy se puede con todo, y\nquien mejor lo sabe eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auf geht's, heute läuft's.\nGlaub an dich, du Profi!"
           }
         }
       }
@@ -2595,6 +2883,12 @@
             "state" : "translated",
             "value" : "Confío en tu talento:\npara esto, el mejor eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich glaube an dein Können.\nHeute wird richtig gut, du Optimist."
+          }
         }
       }
     },
@@ -2647,6 +2941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preparación lista: media\nvictoria ya es tuya, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gut vorbereitet?\nDann bist du schon zur Hälfte am Ziel."
           }
         }
       }
@@ -2701,6 +3001,12 @@
             "state" : "translated",
             "value" : "Lo que toque hoy tiene\nsolución, y la solución eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Aufgaben von heute?\nKein Problem für dich, du Meister."
+          }
         }
       }
     },
@@ -2753,6 +3059,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu ilusión iluminará el día\nentero, tú, farola humana."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Begeisterung bringt\nden Tag zum Leuchten, du Funke."
           }
         }
       }
@@ -2807,6 +3119,12 @@
             "state" : "translated",
             "value" : "¡Vamos! A lo grande,\ncomo siempre, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los geht's, zeig, was in dir steckt,\nso wie nur du es kannst."
+          }
         }
       }
     },
@@ -2859,6 +3177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Antes de empezar ya tenías\naire de profesional, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schon vor Arbeitsbeginn\nein echter Profi: du."
           }
         }
       }
@@ -2913,6 +3237,12 @@
             "state" : "translated",
             "value" : "¿Sin ganas de trabajar? Aun así\nrindes más que nadie: tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Lust zu arbeiten?\nDein Gesicht macht trotzdem Überstunden, du Fleißiger."
+          }
         }
       }
     },
@@ -2965,6 +3295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La oficina sube de nivel:\nel fichaje del día eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Büro-Outfit heute: wow.\nDie Firma strahlt, wegen dir, du Glanzstück."
           }
         }
       }
@@ -3019,6 +3355,12 @@
             "state" : "translated",
             "value" : "Verte trabajar es un\nespectáculo. La estrella, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn du arbeitest, ist das Kunst.\nFast schon museumsreif."
+          }
         }
       }
     },
@@ -3071,6 +3413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aún no has empezado\ny ya vas ganando, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noch nicht mal angefangen\nund schon perfekt: du."
           }
         }
       }
@@ -3125,6 +3473,12 @@
             "state" : "translated",
             "value" : "Entrenar ya es un triunfo,\ny quien lo logra hoy eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im Sportdress schon ein Vorbild:\nsieh mal einer an, du!"
+          }
         }
       }
     },
@@ -3177,6 +3531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuidarte cada día\nes de admirar, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute wieder was für dich getan.\nDas ist stark, du Sportskanone."
           }
         }
       }
@@ -3231,6 +3591,12 @@
             "state" : "translated",
             "value" : "Nadie conoce tu cuerpo\ncomo lo conoces tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niemand kennt deinen Körper so gut\nwie du. Vertrau ihm!"
+          }
         }
       }
     },
@@ -3283,6 +3649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Solo por ponerte en marcha\nya mereces aplauso."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schon angefangen? Das ist\nschon ein Grund zum Stolzsein, du Held."
           }
         }
       }
@@ -3337,6 +3709,12 @@
             "state" : "translated",
             "value" : "Sudar te sienta de lujo,\ntú, pura energía."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schweißperlen stehen dir.\nDas ist Schönheit, du Athlet."
+          }
         }
       }
     },
@@ -3389,6 +3767,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu salud es lo primero\ny nadie lo sabe como tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gesundheit zuerst.\nGut, dass du das so siehst."
           }
         }
       }
@@ -3443,6 +3827,12 @@
             "state" : "translated",
             "value" : "Sacar tiempo para ti\nes de campeones, como tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du nimmst dir Zeit für dich.\nDafür gibt's Applaus, du Vorbild."
+          }
         }
       }
     },
@@ -3495,6 +3885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Con esa ropa deportiva\nsaldrías en una revista, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im Trainingsoutfit könnte man\nein Fotoshooting mit dir machen, du Model."
           }
         }
       }
@@ -3549,6 +3945,12 @@
             "state" : "translated",
             "value" : "El gimnasio se ilumina\ncuando quien entra eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das Fitnessstudio ist ein Paradies,\nseit du reinkommst."
+          }
         }
       }
     },
@@ -3601,6 +4003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sudas y brillas a la vez.\n¿Quién lo hace así? Solo tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbst beim Sport strahlt man so wie du.\nWie machst du das nur?"
           }
         }
       }
@@ -3655,6 +4063,12 @@
             "state" : "translated",
             "value" : "¿Alguien a quien el sudor\nle quede bien? Sí: tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wer sieht auch verschwitzt gut aus?\nGenau, du."
+          }
         }
       }
     },
@@ -3707,6 +4121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rumbo al trabajo, caminando\ncomo un profesional: tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auf dem Arbeitsweg wirkt keiner so professionell\nwie du. Respekt!"
           }
         }
       }
@@ -3761,6 +4181,12 @@
             "state" : "translated",
             "value" : "Madrugar y salir a la calle\nmerece un aplauso, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schon früh unterwegs?\nStark von dir, du Frühaufsteher."
+          }
         }
       }
     },
@@ -3813,6 +4239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Otro día camino al trabajo\ny ya vas ganando, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute wieder pünktlich unterwegs:\nGewinner, ganz klar, du."
           }
         }
       }
@@ -3867,6 +4299,12 @@
             "state" : "translated",
             "value" : "Cada paso que das\nvale oro, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeder deiner Schritte\nzählt, du Wanderer."
+          }
         }
       }
     },
@@ -3919,6 +4357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hasta el trayecto es especial\nsi quien lo recorre eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbst der Arbeitsweg wird\nmit dir was Besonderes, du Lichtblick."
           }
         }
       }
@@ -3973,6 +4417,12 @@
             "state" : "translated",
             "value" : "Responsable y puntual:\nnadie cumple como tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du gehst verantwortungsvoll zur Arbeit.\nDas verdient Respekt, du Vorbild."
+          }
         }
       }
     },
@@ -4025,6 +4475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "El metro hoy es pasarela\ny la estrella del desfile eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seit du in der U-Bahn stehst,\nist sie ein Catwalk."
           }
         }
       }
@@ -4079,6 +4535,12 @@
             "state" : "translated",
             "value" : "Hasta en el autobús brillas, tú.\n¿Hoy toca sesión de fotos?"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbst im Bus eine Wucht.\nGibt's heute ein Fotoshooting für dich, du Star?"
+          }
         }
       }
     },
@@ -4131,6 +4593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verte camino al trabajo\nanima cualquier mañana, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wer morgens den Tag besser macht?\nJa, du."
           }
         }
       }
@@ -4185,6 +4653,12 @@
             "state" : "translated",
             "value" : "Caminar y verse tan bien:\ntalento que solo tienes tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einfach nur gehen und dabei super aussehen:\nDas kann nur du."
+          }
         }
       }
     },
@@ -4237,6 +4711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Día cumplido! A casa a descansar,\nque lo mereces."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Was für ein Tag!\nGönn dir daheim eine Pause, du Fleißiger."
           }
         }
       }
@@ -4291,6 +4771,12 @@
             "state" : "translated",
             "value" : "Salir del trabajo es un\nespectáculo si sales tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbst von hinten eine Wucht:\nso geht der Feierabend, du Silhouette."
+          }
         }
       }
     },
@@ -4343,6 +4829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En el camino de vuelta\nsigues siendo lo mejor, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nach dem Tag auf dem Heimweg:\nHut ab vor dir, du Meister."
           }
         }
       }
@@ -4397,6 +4889,12 @@
             "state" : "translated",
             "value" : "Otro día resuelto sin dramas.\nTalento puro."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heil geschafft!\nWer macht uns stolz? Genau, du."
+          }
         }
       }
     },
@@ -4449,6 +4947,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ahora empieza tu tiempo.\nDisfrútalo a tope, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jetzt ist Zeit nur für dich.\nErhol dich richtig, du Fleißbiene!"
           }
         }
       }
@@ -4503,6 +5007,12 @@
             "state" : "translated",
             "value" : "Tras el trabajo, tu tiempo es\nsagrado. Mímate, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feierabend! Die Zeit gehört\nwieder ganz dir, du Glückskind."
+          }
         }
       }
     },
@@ -4555,6 +5065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fin de la jornada: matrícula\nde honor para quien la ganó, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feierabend! Heute hast du wieder\nalles gegeben. Respekt."
           }
         }
       }
@@ -4609,6 +5125,12 @@
             "state" : "translated",
             "value" : "Hasta de vuelta a casa\nbrillas, tú. Menudo día."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbst auf dem Heimweg so hübsch.\nDer Tag war stark, du Wunder."
+          }
         }
       }
     },
@@ -4661,6 +5183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Al verte salir parece que\nel día valió la pena, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wer den Feierabend so schön macht?\nGenau, du."
           }
         }
       }
@@ -4715,6 +5243,12 @@
             "state" : "translated",
             "value" : "Fue un día duro, pero\nsigues siendo de lo mejor, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein harter Tag, klar.\nUnd trotzdem bleibt das beste Ergebnis: du."
+          }
         }
       }
     },
@@ -4767,6 +5301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Has estudiado de sobra,\nasí que lo bordas, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "So viel gelernt, so gut vorbereitet.\nDas reicht locker, du Streber."
           }
         }
       }
@@ -4821,6 +5361,12 @@
             "state" : "translated",
             "value" : "Tu esfuerzo nunca falla,\ny eso lo sabes mejor que tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Mühe wird sich\nauszahlen, versprochen, du Fleißiger!"
+          }
         }
       }
     },
@@ -4873,6 +5419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Es normal tener nervios.\nLo tienes todo preparado, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nervös sein ist okay.\nBereit ist doch keiner so wie du."
           }
         }
       }
@@ -4927,6 +5479,12 @@
             "state" : "translated",
             "value" : "Un examen no mide lo que vales:\ntú vales mucho más."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Prüfung sagt nichts\nüber deinen Wert, du Schatz."
+          }
         }
       }
     },
@@ -4979,6 +5537,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lo diste todo y eso ya\nes un aprobado. Matrícula, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Bestes gegeben?\nDann hast du schon gewonnen."
           }
         }
       }
@@ -5033,6 +5597,12 @@
             "state" : "translated",
             "value" : "Si te lo propones, lo sacas.\nY tú siempre te lo propones."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das schaffst du locker,\nund zwar mit links."
+          }
         }
       }
     },
@@ -5085,6 +5655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Respira hondo y confía\nen todo lo que sabes, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einmal tief Luft holen\nund vertrauen, so wie du es immer tust."
           }
         }
       }
@@ -5139,6 +5715,12 @@
             "state" : "translated",
             "value" : "Suerte con el examen, que\ntú vas con preparación de sobra."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viel Erfolg!\nBestens vorbereitet ist niemand so wie du."
+          }
         }
       }
     },
@@ -5191,6 +5773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cero preocupación: acertarás\nhasta lo que no estudiaste, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Sorge, am Ende kreuzt\nalles richtig an: du."
           }
         }
       }
@@ -5245,6 +5833,12 @@
             "state" : "translated",
             "value" : "¿Nervios? Aun así, la mejor cabeza\nde esa aula es la tuya, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgeregt? Dein Lächeln\nschlägt jede Aufregung, du Ruhepol."
+          }
         }
       }
     },
@@ -5297,6 +5891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Al verte, hasta el folio del examen\nsusurrará: «ya aprobó», tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sogar das Prüfungsblatt staunt,\nwenn es dich sieht, du Genie."
           }
         }
       }
@@ -5351,6 +5951,12 @@
             "state" : "translated",
             "value" : "Ha llegado el momento\nde brillar, y tú lo sabes hacer."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jetzt zeigst du,\nwas in dir steckt, du Talent."
+          }
         }
       }
     },
@@ -5403,6 +6009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu experiencia y tu ilusión\nson tu mejor carta, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Personalerin hat Glück,\ndass sie ausgerechnet du kennenlernen darf."
           }
         }
       }
@@ -5457,6 +6069,12 @@
             "state" : "translated",
             "value" : "Si hay nervios, no pasa nada:\nlo que hay delante es de lo mejor, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Erfahrung und Begeisterung\nbringen alles zum Leuchten, du Profi."
+          }
         }
       }
     },
@@ -5509,6 +6127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cabeza alta, que tú vienes\ncon todo preparado."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aufgeregt ist okay.\nGut bist du sowieso."
           }
         }
       }
@@ -5563,6 +6187,12 @@
             "state" : "translated",
             "value" : "Cuenta tu historia con orgullo:\nmaterial tienes de sobra, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit Selbstvertrauen rein:\nBestens vorbereitet ist keiner wie du."
+          }
         }
       }
     },
@@ -5615,6 +6245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Una entrevista es conocerse.\nCalma, que de eso sabes tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erzähl deine Geschichte\nstolz, so wie nur du es kannst."
           }
         }
       }
@@ -5669,6 +6305,12 @@
             "state" : "translated",
             "value" : "Si esa empresa no te ficha,\nla pérdida es suya."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein Gespräch ist ein Kennenlernen.\nEntspannt bleiben kann niemand so wie du."
+          }
         }
       }
     },
@@ -5721,6 +6363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dicen que tu currículum brilla,\npero el brillo de verdad eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wer jemanden wie dich nicht einstellt,\nverpasst die Chance seines Lebens, du Juwel."
           }
         }
       }
@@ -5775,6 +6423,12 @@
             "state" : "translated",
             "value" : "Entras a la sala y el puesto\nya está en tu bolsillo, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht der Lebenslauf glänzt so,\nsondern vor allem du."
+          }
         }
       }
     },
@@ -5827,6 +6481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu primera impresión vale\nmedio contrato, y tú lo sabes."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beim Betreten des Raums\nist es schon geschafft, du Sieger."
           }
         }
       }
@@ -5881,6 +6541,12 @@
             "state" : "translated",
             "value" : "Ojo, recursos humanos:\nla leyenda de hoy eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der erste Eindruck von dir ist so gut,\ndass die Hälfte schon sitzt, du Charmeur."
+          }
         }
       }
     },
@@ -5933,6 +6599,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoy estás radiante,\ny no es el café: eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute wieder\nmit voller Strahlkraft: du."
           }
         }
       }
@@ -5987,6 +6659,12 @@
             "state" : "translated",
             "value" : "Tal como eres, ya resultas\nirresistible. Sí, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "So, wie du bist,\nist es am charmantesten."
+          }
         }
       }
     },
@@ -6039,6 +6717,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quien salga contigo ha\nganado la lotería, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wer Zeit mit dir verbringt,\nhat echtes Glück, du Schatz."
           }
         }
       }
@@ -6093,6 +6777,12 @@
             "state" : "translated",
             "value" : "Con esa confianza seduces\nhasta al espejo, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbstbewusst gefällst du\nnoch viel besser, versprochen."
+          }
         }
       }
     },
@@ -6145,6 +6835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu sonrisa de hoy es tu mejor\narma de seducción, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Lächeln heute ist\ndie beste Waffe der Welt, du Charmeur."
           }
         }
       }
@@ -6199,6 +6895,12 @@
             "state" : "translated",
             "value" : "Tal cual eres: eso ya\nes un diez. Así de simple, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "So, wie du bist,\nist es richtig gut."
+          }
         }
       }
     },
@@ -6251,6 +6953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu encanto es imposible de\nesconder, ni lo intentes, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Charme lässt sich nicht verstecken,\ntut mir leid, du Herzensbrecher."
           }
         }
       }
@@ -6305,6 +7013,12 @@
             "state" : "translated",
             "value" : "¿Cita hoy? A la otra persona\nle va a dar un vuelco el corazón."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein Date heute? Die Person gegenüber\nverliert gleich ihr Herz an dich, du Schönheit."
+          }
         }
       }
     },
@@ -6357,6 +7071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quien quede contigo ha tocado\nel premio gordo. ¿Lo sabes, tú?"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wer dich trifft, ist ein Glückspilz,\nwirklich wahr, du Traum."
           }
         }
       }
@@ -6411,6 +7131,12 @@
             "state" : "translated",
             "value" : "Tu look es perfecto.\n¿Sesión de fotos o cita? Solo tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das Date-Outfit sitzt perfekt.\nKönnte glatt aufs Cover, du Model!"
+          }
         }
       }
     },
@@ -6463,6 +7189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Con verte hoy, cualquiera\nse enamora un poquito, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute siehst du so gut aus,\nich verliebe mich fast, du Schöner."
           }
         }
       }
@@ -6517,6 +7249,12 @@
             "state" : "translated",
             "value" : "La cita ni ha empezado y\nya le has robado el corazón."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noch vor dem Date so schön.\nWas wird da aus dem Herzen, du Schlingel?"
+          }
         }
       }
     },
@@ -6569,6 +7307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Puedes con ello, tú.\nEstoy aquí para animarte siempre."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du schaffst das.\nIch bin immer auf deiner Seite, du Rakete!"
           }
         }
       }
@@ -6623,6 +7367,12 @@
             "state" : "translated",
             "value" : "Un pequeño paso es el inicio\nde un gran viaje, y lo das tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kleine Schritte sind der Anfang\neiner großen Reise, du Entdecker."
+          }
         }
       }
     },
@@ -6675,6 +7425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No te rindas: tus sueños\nse cumplirán, y tú ya lo sabes."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gib nicht auf.\nDein Traum wird wahr, wirst sehen, du Träumer."
           }
         }
       }
@@ -6729,6 +7485,12 @@
             "state" : "translated",
             "value" : "El esfuerzo de hoy es\nel éxito de mañana. Palabra."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Fleiß von heute baut\nden Erfolg von morgen, du Baumeister."
+          }
         }
       }
     },
@@ -6781,6 +7543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu pasión puede cambiar\nel mundo. Sigue así, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit deiner Leidenschaft\nänderst du noch die Welt, du Wirbelwind."
           }
         }
       }
@@ -6835,6 +7603,12 @@
             "state" : "translated",
             "value" : "Fallar es parte del camino.\nInsiste, que tú puedes."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scheitern gehört dazu!\nEinfach weiter versuchen, du Kämpfer."
+          }
         }
       }
     },
@@ -6887,6 +7661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu potencial no tiene techo.\nSin límites, como tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Möglichkeiten sind\nunbegrenzt, du Weltenbummler."
           }
         }
       }
@@ -6941,6 +7721,12 @@
             "state" : "translated",
             "value" : "A darlo todo hoy,\nque tú sabes cómo."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute wieder\nvoll loslegen, wie immer, du Rakete."
+          }
         }
       }
     },
@@ -6993,6 +7779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verte esforzarte motiva\na más de uno, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie du dich anstrengst,\nmotiviert andere, glaub mir."
           }
         }
       }
@@ -7047,6 +7839,12 @@
             "state" : "translated",
             "value" : "Todo va a salir bien,\nporque lo harás tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit dir läuft am Ende alles gut.\nEhrlich, versprochen, du Glückskind!"
+          }
         }
       }
     },
@@ -7099,6 +7897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No te rindas: ya eres\nuna gran persona, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gib nicht auf.\nEin toller Mensch ist keiner so wie du."
           }
         }
       }
@@ -7153,6 +7957,12 @@
             "state" : "translated",
             "value" : "¡Ánimo! Tienes lo que hay\nque tener, y de sobra, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los geht's, auf ein Neues!\nDas packt keiner so wie du."
+          }
         }
       }
     },
@@ -7205,6 +8015,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quien conoce tu esfuerzo\nte aplaude. Y yo también, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wer deine Mühe sieht,\nfeuert dich garantiert an, du Kämpfer."
           }
         }
       }
@@ -7259,6 +8075,12 @@
             "state" : "translated",
             "value" : "Vales muchísimo,\ncon todas las letras, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wertvoll ist man auch genau jetzt,\nso wie du."
+          }
         }
       }
     },
@@ -7311,6 +8133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tal cual, la perfección\ntiene nombre: tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "So, wie du bist,\nist es bereits perfekt, du Unikat."
           }
         }
       }
@@ -7365,6 +8193,12 @@
             "state" : "translated",
             "value" : "Que existas ya es algo\nespecial. Y existes tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allein dass es dich gibt,\nist besonders, du Unikat."
+          }
         }
       }
     },
@@ -7417,6 +8251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cabeza alta: una persona\ngenial eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit Selbstvertrauen!\nEin toller Mensch ist doch wohl nur du."
           }
         }
       }
@@ -7471,6 +8311,12 @@
             "state" : "translated",
             "value" : "Eres más fuerte de lo que\ncrees. Mucho más, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viel stärker, als man denkt:\nso ein Mensch bist nur du."
+          }
         }
       }
     },
@@ -7523,6 +8369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu forma de ser es\ntu mayor brillo, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Charakter lässt dich leuchten,\ndu Lichtgestalt."
           }
         }
       }
@@ -7577,6 +8429,12 @@
             "state" : "translated",
             "value" : "Cree en ti: lo necesario\nlo tienes tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glaub an dich.\nDas Zeug dazu hat keiner so wie du."
+          }
         }
       }
     },
@@ -7629,6 +8487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eres una persona completa\ntal cual, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie du bist,\nist vollkommen, du Original."
           }
         }
       }
@@ -7683,6 +8547,12 @@
             "state" : "translated",
             "value" : "Con tanta seguridad\neres lo más grande, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbstbewusst bist am Ende\nder Beste von allen: du."
+          }
         }
       }
     },
@@ -7735,6 +8605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vales mucho más de\nlo que piensas, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mehr drauf als gedacht:\nschau dich doch an, du Talent!"
           }
         }
       }
@@ -7789,6 +8665,12 @@
             "state" : "translated",
             "value" : "Ya lo haces muy bien,\nde verdad, y lo sabes tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Es läuft schon richtig gut.\nGlaub mir das ruhig mal, du Zweifler."
+          }
         }
       }
     },
@@ -7841,6 +8723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quien no ve tu encanto\nes que no tiene ojos, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wer den Charme von dir nicht sieht,\nträgt wohl keine Brille, du Sonnenschein."
           }
         }
       }
@@ -7895,6 +8783,12 @@
             "state" : "translated",
             "value" : "Hoy toca relajarse,\nsin prisas ni culpas, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute einfach mal\nentspannt bleiben, du Dauerläufer."
+          }
         }
       }
     },
@@ -7947,6 +8841,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un descanso lo necesita\ncualquiera, también tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auch ein Mensch wie du\nbraucht mal Ruhe, du Kraftwerk."
           }
         }
       }
@@ -8001,6 +8901,12 @@
             "state" : "translated",
             "value" : "No hacer nada es un plan\nperfecto hoy."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nichts tun ist auch\nein vollwertiger Tag, du Fleißiger."
+          }
         }
       }
     },
@@ -8053,6 +8959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu bienestar es lo primero\ny tú lo sabes."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Wohlbefinden\nkommt zuerst, du Schatz."
           }
         }
       }
@@ -8107,6 +9019,12 @@
             "state" : "translated",
             "value" : "Poco a poco, a tu ritmo,\nllegas igual, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ganz langsam, in dem Tempo von dir,\nkommst du genauso an."
+          }
         }
       }
     },
@@ -8159,6 +9077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hoy es tu día: un tiempo\nsolo para ti, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute gehört die Zeit\nganz allein dir, du Glückspilz."
           }
         }
       }
@@ -8213,6 +9137,12 @@
             "state" : "translated",
             "value" : "Descansar también es avanzar.\nSin culpa."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auch Ausruhen ist\neine Leistung, du Fleißiger!"
+          }
         }
       }
     },
@@ -8265,6 +9195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Descansar es un derecho.\nHoy, a relajarte, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausruhen ist das gute Recht von dir.\nHeute bleibst du einfach liegen."
           }
         }
       }
@@ -8319,6 +9255,12 @@
             "state" : "translated",
             "value" : "Relajarte tiene su encanto\ncasi tanto como tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beim Entspannen siehst du\nauch noch richtig gut aus."
+          }
         }
       }
     },
@@ -8371,6 +9313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dedicarte un rato está más\nque bien, y lo mereces tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Es ist völlig okay,\nZeit für dich zu nehmen, du Schatz."
           }
         }
       }
@@ -8425,6 +9373,12 @@
             "state" : "translated",
             "value" : "Hasta en pijama y en el sofá\nbrillas, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbst beim Faulenzen\nstrahlt jemand wie du einfach weiter."
+          }
         }
       }
     },
@@ -8477,6 +9431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mientras descansas, sigues\nsiendo lo más bonito, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entspannt sein steht dir,\nnoch besser als alles andere, du Chiller."
           }
         }
       }
@@ -8531,6 +9491,12 @@
             "state" : "translated",
             "value" : "Defectos tuyos: he buscado\ndos veces y nada. Error 404, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fast perfekt, aber ein kleiner Fehler:\nzu schön für diese Welt. Gemeint ist: du."
+          }
         }
       }
     },
@@ -8583,6 +9549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿El número Pi? Infinito,\nirracional y muy de nota. Igual que tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Persönlichkeitstest sagt:\nGefährlich süß, wie du."
           }
         }
       }
@@ -8637,6 +9609,12 @@
             "state" : "translated",
             "value" : "Si ser guapo fuera delito,\nla cadena perpetua llevaría tu nombre."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle, die dich süß finden, bitte melden.\nDie Erde kippt gleich zur Seite."
+          }
         }
       }
     },
@@ -8689,6 +9667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Test de personalidad: resultado\n«madre mía, qué maravilla». Eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eiskaffee? Nein, erfrischender:\nso bist nur du, du Genuss."
           }
         }
       }
@@ -8743,6 +9727,12 @@
             "state" : "translated",
             "value" : "No necesitas filtro: ya vienes\nen alta definición, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich suche eine Tankstelle.\nDeine Augen tanken mein Herz voll, du Zapfsäule."
+          }
         }
       }
     },
@@ -8795,6 +9785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dicen que el dinero no da la\nfelicidad. Pero tú sí, y sin IVA."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mir ist nach Regen zumute.\nDas Herz stürmt nämlich wegen dir."
           }
         }
       }
@@ -8849,6 +9845,12 @@
             "state" : "translated",
             "value" : "Si fueras un cuento,\nserías el que nunca se acaba."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich mag Wörter, aber bei dir\nfehlen sie mir. Nur noch Staunen, du Wunder."
+          }
         }
       }
     },
@@ -8901,6 +9903,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perdona, se te ha caído algo:\nmi mandíbula al verte, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hast du keine Mutter?\nSo ein Aussehen ist nicht von dieser Welt."
           }
         }
       }
@@ -8955,6 +9963,12 @@
             "state" : "translated",
             "value" : "No eres de este mundo.\nVienes de uno mejor."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich kam nur zum Wasserholen.\nJetzt hat mich dein Lächeln erwischt."
+          }
         }
       }
     },
@@ -9007,6 +10021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tu sonrisa tiene más «me gusta»\nque toda mi vida junta, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Irgendwas fehlt? Ach nein,\nes ist einfach alles da, wie bei dir."
           }
         }
       }
@@ -9061,6 +10081,12 @@
             "state" : "translated",
             "value" : "¿Llevas mapa? Es que\nme pierdo en tu mirada."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich hab dein Gesicht gegoogelt.\nDas Internet bekam nur Herzaugen."
+          }
         }
       }
     },
@@ -9113,6 +10139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si esto es un sueño, que no\nme despierte nadie. Tan real: tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bist du WLAN? Bei dir\nist sofort Empfang, volle Balken."
           }
         }
       }
@@ -9167,6 +10199,12 @@
             "state" : "translated",
             "value" : "Mi Ctrl+Z de los días malos\nsiempre eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Akku ist leer? Egal:\nBei dir lade ich sofort auf, du Steckdose."
+          }
         }
       }
     },
@@ -9219,6 +10257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Grupo sanguíneo: A positivo.\nPura buena onda, como tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn Schönheit verboten wäre,\nbekämst du lebenslänglich."
           }
         }
       }
@@ -9273,6 +10317,12 @@
             "state" : "translated",
             "value" : "Eres tan guay que\nel hielo se pone celoso, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich bin kein Dichter,\naber wegen dir fällt mir Lyrik ein, du Muse."
+          }
         }
       }
     },
@@ -9325,6 +10375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Cuánto pesas? Oro, como mínimo.\nQuilates a tope, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Navi aus: Ich verlaufe mich gern\nim Lächeln von dir, du Lieblingsziel."
           }
         }
       }
@@ -9379,6 +10435,12 @@
             "state" : "translated",
             "value" : "Tanto talento junto\ndebería tributar aparte, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bei dir geht mir ein Licht auf\nwie im Kühlschrank, du Kühle."
+          }
         }
       }
     },
@@ -9431,6 +10493,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si fueras un verbo, serías\n«brillar»: siempre en presente."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gibt's bei dir Sternenstaub?\nSo glitzert nur ein Mensch wie du."
           }
         }
       }
@@ -9485,6 +10553,12 @@
             "state" : "translated",
             "value" : "Si fueras un restaurante,\nhabría lista de espera de un año, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich bin kein Mathe-Genie,\naber du addierst dich in mein Herz. Rechenfehler: nie."
+          }
         }
       }
     },
@@ -9537,6 +10611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dicen que el amor es ciego,\npero le devuelves la vista."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meine Lieblingszahl lautet eins.\nWer das ist? Schätze, du."
           }
         }
       }
@@ -9591,6 +10671,12 @@
             "state" : "translated",
             "value" : "Tu cara ya es patrimonio\nde la humanidad, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soll ich dich fotografieren?\nDann hab ich dich immer dabei, du Motiv."
+          }
         }
       }
     },
@@ -9643,6 +10729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelen la gala: el premio\ngordo de este año ya tiene dueño: tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestern Abend träumte ich von dir.\nHeute früh wollte ich nicht aufstehen, du Traum."
           }
         }
       }
@@ -9697,6 +10789,12 @@
             "state" : "translated",
             "value" : "¿Sesión de fotos o es que\ncaminas así por la vida, tú?"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Wege führen nach Rom,\nmeiner führt nur zu dir, du Wegweiser."
+          }
         }
       }
     },
@@ -9749,6 +10847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mi artista número uno,\nen bucle en mi cabeza: tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Gesicht gehört auf ein Plakat.\nAm besten gleich überall, du Werbeträger."
           }
         }
       }
@@ -9803,6 +10907,12 @@
             "state" : "translated",
             "value" : "Quiero tu autógrafo\ntodos los días, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mach bei der Casting-Show mit.\nIn meinem Herzen gewinnst du längst."
+          }
         }
       }
     },
@@ -9855,6 +10965,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Debuta ya: en mi corazón\nya eres cabeza de cartel, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Gesicht gehört ins Museum.\nVorn schon reserviert für dich, du Kunstwerk."
           }
         }
       }
@@ -9909,6 +11025,12 @@
             "state" : "translated",
             "value" : "Número uno en mi lista\nsemana tras semana: tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zur Preisverleihung bitte nicht.\nDen Hauptpreis kriegt sowieso dein Gesicht."
+          }
         }
       }
     },
@@ -9961,6 +11083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Posa un momento: quiero\nuna foto tuya cada día, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als Star bist du\nin meinem Herzen längst die Nummer eins."
           }
         }
       }
@@ -10015,6 +11143,12 @@
             "state" : "translated",
             "value" : "¿Vuelves? Mi corazón acaba\nde reiniciarse, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autogrammstunde, bitte!\nDeine Unterschrift hänge ich mir ein, du Star."
+          }
         }
       }
     },
@@ -10067,6 +11201,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Te grabo? Cada momento tuyo\nes de ver en bucle."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wann ist dein Debüt?\nIn meinem Kopf stehst du ganz vorn."
           }
         }
       }
@@ -10121,6 +11261,12 @@
             "state" : "translated",
             "value" : "¿En un videoclip? Ya eres\nprotagonista de mi vida, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Platz eins der Charts?\nBei mir sowieso, jeden Tag, du Hit."
+          }
         }
       }
     },
@@ -10173,6 +11319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Documental de tu vida?\nAl natural ganas a todos."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein Foto mit dir wäre toll.\nEigentlich zehn. Eher hundert, du Sternchen."
           }
         }
       }
@@ -10227,6 +11379,12 @@
             "state" : "translated",
             "value" : "Siempre en el centro: donde\nvayas, brillas más que nadie, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neues Album, neuer Hit?\nBei mir läuft dein Lächeln, du Ohrwurm."
+          }
         }
       }
     },
@@ -10279,6 +11437,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Premio a la cara del año.\nY de la década. Gana tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Darf ich dich filmen?\nJede Sekunde mit dir ist ein Highlight."
           }
         }
       }
@@ -10333,6 +11497,12 @@
             "state" : "translated",
             "value" : "Si sales en un anuncio,\nvendes hasta lo que no existe."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Läuft gerade dein Musikvideo?\nIch lebe ja schon in deinem Film, du Regisseur."
+          }
         }
       }
     },
@@ -10385,6 +11555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Portada de revista cada mes:\nesa cara lo merece, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drehst du eine Doku?\nDein echtes Ich ist schon die Sensation, du Naturtalent."
           }
         }
       }
@@ -10439,6 +11615,12 @@
             "state" : "translated",
             "value" : "¿Tu carisma es real? La calle\ncontigo ya es un escenario."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitte der Bühne? Gehört dir.\nAm meisten leuchtet überall nur du."
+          }
         }
       }
     },
@@ -10491,6 +11673,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Cromos? Yo quiero la colección\ncompleta, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wahl zum Gesicht des Jahres:\nGewinnen tut, ohne anzutreten, nur du."
           }
         }
       }
@@ -10545,6 +11733,12 @@
             "state" : "translated",
             "value" : "¿Cuándo es el encuentro con fans?\nYo, a diario, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Werbung mit dir? Sofort\nwill ich alles kaufen, was du anfasst."
+          }
         }
       }
     },
@@ -10597,6 +11791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sube un vídeo bailando:\nmoverte ya es arte, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titelbild für jedes Magazin:\ndieses Gesicht gehört auf alle Cover, du Schönheit."
           }
         }
       }
@@ -10651,6 +11851,12 @@
             "state" : "translated",
             "value" : "Verte es como un tráiler,\ny el estreno favorito eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie machst du diese Bühnenpräsenz?\nDein Alltag ist schon eine Show."
+          }
         }
       }
     },
@@ -10703,6 +11909,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Gira mundial? Ya me has\nsacudido el corazón entero, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sammelkarten tauschen?\nIch will nur eine komplette Serie von dir, du Sammlerstück."
           }
         }
       }
@@ -10757,6 +11969,12 @@
             "state" : "translated",
             "value" : "Firma mi disco: eres\nedición limitada, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wann ist dein Fan-Treffen?\nIch will dich jeden Tag sehen, du Idol."
+          }
         }
       }
     },
@@ -10809,6 +12027,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Enciendo la linterna del móvil\ny te aplaudo toda la vida, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stell ein Tanzvideo online.\nJede Bewegung von dir ist Kunst, du Tänzer."
           }
         }
       }
@@ -10863,6 +12087,12 @@
             "state" : "translated",
             "value" : "Vas en ascenso, aunque\nsiempre fuiste de leyenda, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie ein Trailer bist du:\nIch will gleich den ganzen Film."
+          }
         }
       }
     },
@@ -10915,6 +12145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Busco entradas para verte:\neres mi concierto diario."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gehst du auf Welttournee?\nMein Herz hast du schon überall verteilt."
           }
         }
       }
@@ -10969,6 +12205,12 @@
             "state" : "translated",
             "value" : "¿Número uno? Lo eres\nen mi lista de éxitos, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signier mir dein Album.\nDein Dasein ist limitierte Edition, du Rarität."
+          }
         }
       }
     },
@@ -11021,6 +12263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bis, bis, bis: otra vez,\nque no me canso de verte, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mach das Licht an, Fanclub:\nIch jubel dir ein Leben lang zu, du Star."
           }
         }
       }
@@ -11075,6 +12323,12 @@
             "state" : "translated",
             "value" : "Hasta en las tomas falsas\nresultas de leyenda, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plötzlich so berühmt?\nWarst doch immer schon eine Legende, du Held."
+          }
         }
       }
     },
@@ -11127,6 +12381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cambio de favorito:\nsin ti no veo a nadie más."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Karten fürs Konzert besorge ich.\nDich zu sehen ist mein tägliches Live-Erlebnis."
           }
         }
       }
@@ -11181,6 +12441,12 @@
             "state" : "translated",
             "value" : "Me he hecho fan tuyo.\nDe por vida, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zugabe! Noch ein Auftritt!\nGenug kriegt man nie von dir, du Hit."
+          }
         }
       }
     },
@@ -11233,6 +12499,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Revelo mi favorito:\nni más ni menos que tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbst hinter den Kulissen perfekt:\nJeder Moment mit dir ist Kult, du Ikone."
           }
         }
       }
@@ -11287,6 +12559,12 @@
             "state" : "translated",
             "value" : "Compré todo el merchandising,\npero el mejor souvenir eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich muss meinen Liebling wechseln.\nAußer dir sehe ich keinen mehr, du Star."
+          }
         }
       }
     },
@@ -11339,6 +12617,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fan para siempre: mi\nartista de cabecera eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich bin jetzt Fan.\nAb heute jubele ich dir für immer zu, du Idol."
           }
         }
       }
@@ -11393,6 +12677,12 @@
             "state" : "translated",
             "value" : "Ya he elegido bando:\nel tuyo. Mi equipo eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mein Liebling ist dir bekannt?\nGenau, das bist du."
+          }
         }
       }
     },
@@ -11445,6 +12735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abro tu club de fans:\nel carnet número uno es mío, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fanartikel hab ich alle.\nDas beste Sammlerstück aber bist du."
           }
         }
       }
@@ -11499,6 +12795,12 @@
             "state" : "translated",
             "value" : "Hago de paparazzi: no quiero\nperderme ni un momento tuyo, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fan fürs Leben, versprochen!\nMein Lieblingskünstler bleibt nur du."
+          }
         }
       }
     },
@@ -11551,6 +12853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cualquier rato a tu lado\nes tiempo de oro, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich fange an zu schwärmen:\nIch bin voll auf dich festgelegt, du Magnet."
           }
         }
       }
@@ -11605,6 +12913,12 @@
             "state" : "translated",
             "value" : "Pongo pancartas de cumpleaños:\nojalá cada día fuera el tuyo, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich werde dein Fotograf.\nJeden Moment von dir will ich festhalten, du Motiv."
+          }
         }
       }
     },
@@ -11657,6 +12971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Te aplaudiré siempre.\nSer tu fan es mi orgullo, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jetzt ist Schwärmzeit!\nJede Minute mit dir ist pures Gold, du Schatz."
           }
         }
       }
@@ -11711,6 +13031,12 @@
             "state" : "translated",
             "value" : "Si el encanto cotizara en bolsa,\ntú serías el valor más alto."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich buche Werbung zum Geburtstag.\nAm liebsten wäre jeder Tag deiner, du Schatz."
+          }
         }
       }
     },
@@ -11763,6 +13089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Me haces latir el corazón\ncomo un bombo, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich jubele dir ewig zu.\nStolz, dass ich dein Fan bin, du Star."
           }
         }
       }
@@ -11817,6 +13149,12 @@
             "state" : "translated",
             "value" : "Mirarte hace el mundo\nmás bonito, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seit ich dich kenne,\nklopft mein Herz im Takt, du Dirigent."
+          }
         }
       }
     },
@@ -11869,6 +13207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mi vitamina diaria de\nfelicidad: tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allein dich zu sehen,\nmacht die Welt schöner, du Lichtblick."
           }
         }
       }
@@ -11923,6 +13267,12 @@
             "state" : "translated",
             "value" : "Cuando sonríes, yo\nme alegro en cadena, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie ein Vitamin für mein Glück:\nso bist du."
+          }
         }
       }
     },
@@ -11975,6 +13325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La estrella más brillante\nque he visto: tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn du lachst,\nlache ich einfach mit, du Ansteckender."
           }
         }
       }
@@ -12029,6 +13385,12 @@
             "state" : "translated",
             "value" : "Cada día contigo es fiesta\ny el DJ eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der hellste Stern, den ich kenne,\nbist wohl du."
+          }
         }
       }
     },
@@ -12081,6 +13443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Solo con oír tu voz\nse me arregla el humor, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeder Tag mit dir\nist ein Fest für mein Herz, du Partylöwe."
           }
         }
       }
@@ -12135,6 +13503,12 @@
             "state" : "translated",
             "value" : "En mi vida, la mayor\nsuerte eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allein deine Stimme zu hören\nhebt die Stimmung, du Gute-Laune-Quelle."
+          }
         }
       }
     },
@@ -12187,6 +13561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gracias a ti sonrío hoy.\nSolo tú lo consigues."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das größte Glück meines Lebens?\nDas bist du."
           }
         }
       }
@@ -12241,6 +13621,12 @@
             "state" : "translated",
             "value" : "Nadie es más valioso\npara mí que tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wegen dir kann ich auch heute\nwieder lächeln, du Sonnenschein."
+          }
         }
       }
     },
@@ -12293,6 +13679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se me escapa una sonrisa\ncada vez que apareces, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der wichtigste Mensch der Welt?\nGanz klar: du."
           }
         }
       }
@@ -12347,6 +13739,12 @@
             "state" : "translated",
             "value" : "Hay ruido en mi cabeza,\npero la calma eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn ich an dich denke,\nlächle ich ganz von allein, du Schatz."
+          }
         }
       }
     },
@@ -12399,6 +13797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "El tiempo a tu lado\nsiempre es especial, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mein innerer Frieden?\nDas bist du."
           }
         }
       }
@@ -12453,6 +13857,12 @@
             "state" : "translated",
             "value" : "De toda la gente que conozco,\nlo máximo eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Zeit mit dir\nist immer was Besonderes, du Schatz."
+          }
         }
       }
     },
@@ -12505,6 +13915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Que existas, tú,\nya es motivo de gratitud."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der tollste Mensch, den ich kenne:\nja, du."
           }
         }
       }
@@ -12559,6 +13975,12 @@
             "state" : "translated",
             "value" : "Lo mejor de mi día\nsiempre eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich bin schon dankbar,\ndass es dich gibt, du Schatz."
+          }
         }
       }
     },
@@ -12611,6 +14033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cada día es especial\nporque existes tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das Highlight meines Tages?\nOhne Frage nur du."
           }
         }
       }
@@ -12665,6 +14093,12 @@
             "state" : "translated",
             "value" : "Si apareces, el mundo\nse enciende. Solo tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dank dir wird jeder Tag\nein kleines Fest, du Glücksbringer."
+          }
         }
       }
     },
@@ -12717,6 +14151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "El mejor regalo de mi vida\neres tú, sin envoltorio."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sobald ich dich sehe,\nwird die Welt heller, du Lichtblick."
           }
         }
       }
@@ -12771,6 +14211,12 @@
             "state" : "translated",
             "value" : "El mundo es más bonito\ndesde que estás tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das schönste Geschenk meines Lebens,\ndas bist du."
+          }
         }
       }
     },
@@ -12823,6 +14269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un día sin ti da pereza.\nUn día contigo es fiesta, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit dir ist die Welt\nnoch ein Stück schöner, du Sonnenstrahl."
           }
         }
       }
@@ -12877,6 +14329,12 @@
             "state" : "translated",
             "value" : "Imposible imaginar mi día\nsin la persona que eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein Tag ohne dich?\nKann ich mir nicht vorstellen, du Schatz."
+          }
         }
       }
     },
@@ -12929,6 +14387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En mi corazón hay un puesto\nde honor y su dueño eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meine ewige Nummer eins?\nNatürlich du."
           }
         }
       }
@@ -12983,6 +14447,12 @@
             "state" : "translated",
             "value" : "Con alguien a mi lado, todo\nes posible. Ese alguien eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit dir an meiner Seite\nschaffe ich einfach alles, du Held."
+          }
         }
       }
     },
@@ -13035,6 +14505,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Doy gracias a diario\npor alguien como tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeden Tag danke ich\nfür dich, du Glücksbringer."
           }
         }
       }
@@ -13089,6 +14565,12 @@
             "state" : "translated",
             "value" : "Tu sonrisa le gana\na cualquier cosa, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Lächeln ist schöner\nals alles auf der Welt, du Sonne."
+          }
         }
       }
     },
@@ -13141,6 +14623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La mayor bendición\nde mi vida eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der größte Segen meines Lebens\nbist, ganz klar, du."
           }
         }
       }
@@ -13195,6 +14683,12 @@
             "state" : "translated",
             "value" : "Pensar en ti mejora el día.\nDe verdad, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich denke an dich\nund der ganze Tag wird froh, du Schatz."
+          }
         }
       }
     },
@@ -13247,6 +14741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mi hogar no es un lugar:\nes una persona, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mein Zuhause im Herzen?\nDas bist du."
           }
         }
       }
@@ -13301,6 +14801,12 @@
             "state" : "translated",
             "value" : "A tu lado cada momento\nes perfecto, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit dir ist jeder Augenblick\nvollkommen, du Traum."
+          }
         }
       }
     },
@@ -13353,6 +14859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Justo el tipo de persona\ncon el que soñaba: tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mein Traumtyp in Person?\nDas bist ganz klar du."
           }
         }
       }
@@ -13407,6 +14919,12 @@
             "state" : "translated",
             "value" : "Me miras y mi corazón\nse vuelve loco, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn ich dich sehe,\nspielt mein Herz verrückt, du Herzensbrecher."
+          }
         }
       }
     },
@@ -13459,6 +14977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Una persona de libro de\nhistoria eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine lebende Legende ist nur eine:\nnämlich du."
           }
         }
       }
@@ -13513,6 +15037,12 @@
             "state" : "translated",
             "value" : "Tu encanto es un hechizo\ny yo caigo siempre, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Von deinem Charme\nwill ich mich immer wieder überrollen lassen, du Naturgewalt."
+          }
         }
       }
     },
@@ -13565,6 +15095,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mirarte tanto me va a\ndar tortícolis, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich schau dich so lange an,\nbis mein Nacken streikt, du Magnet."
           }
         }
       }
@@ -13619,6 +15155,12 @@
             "state" : "translated",
             "value" : "Cada vez que te veo el\ncorazón sube de revoluciones, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sehe ich dich, steigt mein Puls.\nMein Arzt weiß Bescheid, du Herzensbrecher."
+          }
         }
       }
     },
@@ -13671,6 +15213,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mi película favorita\nde todas eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mein Lieblingsposter an der Wand?\nAch, das bist ja du."
           }
         }
       }
@@ -13725,6 +15273,12 @@
             "state" : "translated",
             "value" : "Cada día es el día del favorito\nsi estás tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit dir ist jeder Tag\nmein Lieblingstag, du Schatz."
+          }
         }
       }
     },
@@ -13777,6 +15331,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Un milagro con patas\ny ese milagro eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein wandelndes Wunder:\nSo einen wie dich gibt es nur einmal, du Unikat."
           }
         }
       }
@@ -13831,6 +15391,12 @@
             "state" : "translated",
             "value" : "Contigo el mundo va a\ncámara lenta, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn ich dich sehe,\nläuft die Welt in Zeitlupe, du Zauberer."
+          }
         }
       }
     },
@@ -13883,6 +15449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tienes carnet VIP\nen mi vida, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Jackpot meines Lebens?\nDas bist du."
           }
         }
       }
@@ -13937,6 +15509,12 @@
             "state" : "translated",
             "value" : "Verte es el momento\nmás top de mi rutina, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dich zu sehen ist\ndas Highlight jedes Tages, du Glücksfall."
+          }
         }
       }
     },
@@ -13989,6 +15567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Contenido premium\nde mi corazón: tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der beste Film, den ich kenne?\nNatürlich du."
           }
         }
       }
@@ -14043,6 +15627,12 @@
             "state" : "translated",
             "value" : "Tengo la vida en HD\ndesde que apareciste, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seit es dich gibt,\nsehe ich die Welt in HD, du Augenschmaus."
+          }
         }
       }
     },
@@ -14095,6 +15685,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La hora dorada de mi vida\neres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der beste Zeitpunkt meines Lebens?\nGenau jetzt, mit dir, du Glückspilz."
           }
         }
       }
@@ -14149,6 +15745,12 @@
             "state" : "translated",
             "value" : "Pienso en ti y sonrío\nsin querer. Culpa tuya, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beim Gedanken an dich\nlächle ich automatisch, du Schatz."
+          }
         }
       }
     },
@@ -14201,6 +15803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mi hotel de cinco estrellas\nes tu abrazo, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mein Herz ist ein Hotel,\nund die Suite gehört nur dir, du VIP."
           }
         }
       }
@@ -14255,6 +15863,12 @@
             "state" : "translated",
             "value" : "La carta ganadora\nde mi baraja eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dank dir ist jeder Tag\nein Wellness-Tag, du Wohltat."
+          }
         }
       }
     },
@@ -14307,6 +15921,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mi sitio favorito del\nmundo eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Höhepunkt meines Lebens?\nDas bist du."
           }
         }
       }
@@ -14361,6 +15981,12 @@
             "state" : "translated",
             "value" : "Un cambio de plan\na mejor: tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn ich dich sehe,\ntanzt mein Herz, du Tänzer."
+          }
         }
       }
     },
@@ -14413,6 +16039,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quien lo tiene todo\ny no se da cuenta eres tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "So scharf wie du\nsieht kein Bildschirm der Welt aus."
           }
         }
       }
@@ -14467,6 +16099,12 @@
             "state" : "translated",
             "value" : "Mi lista de reproducción\nfavorita se llama «tú»."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn ich dich sehe,\nleuchtet die ganze Welt, du Lichtquelle."
+          }
         }
       }
     },
@@ -14519,6 +16157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Por ti la vida\ntiene otro color, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mein Herz hat einen Ehrenplatz.\nDer gehört nur dir, du Ehrengast."
           }
         }
       }
@@ -14573,6 +16217,12 @@
             "state" : "translated",
             "value" : "Mi evento principal\ndel año eres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das Ass im Ärmel meines Lebens?\nDas bist du."
+          }
         }
       }
     },
@@ -14625,6 +16275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mi nivel de felicidad\nsube cuando apareces, tú."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allein ein Gedanke an dich\nhebt meine Laune, du Gute-Laune-Quelle."
           }
         }
       }
@@ -14679,6 +16335,12 @@
             "state" : "translated",
             "value" : "Mi salón de la fama\ntiene un solo nombre: tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In meinem Herzen steht dein Name\nganz oben in der Ruhmeshalle, du Legende."
+          }
         }
       }
     },
@@ -14731,6 +16393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Desde que estás tú\nla vida va a todo color."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dank dir ist mein Leben\nfarbenfroh und bunt, du Regenbogen."
           }
         }
       }
@@ -14785,6 +16453,12 @@
             "state" : "translated",
             "value" : "Mi pase VIP a la felicidad\neres tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Allzeit-Hit meines Lebens?\nGanz klar, du."
+          }
         }
       }
     },
@@ -14838,6 +16512,12 @@
             "state" : "translated",
             "value" : "Mis ganas de verte\nvan en aumento, tú."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seh ich dich an,\nläuft alles in Zeitlupe, du Zauberer."
+          }
         }
       }
     },
@@ -14890,6 +16570,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si el cariño fuera dinero,\ntú serías mi banco."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Hauptgewinn meines Lebens?\nNatürlich du."
           }
         }
       }

@@ -362,3 +362,48 @@ Qué puedes hacer
 
 Tu privacidad importa: la app no recoge ningún dato personal. Tu nombre, tus favoritos y tus ajustes se quedan solo en tu dispositivo.
 ¿Has encontrado un error o tienes una idea? Escríbenos desde los ajustes, por correo o por Instagram.
+
+## de
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/de/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/de/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/de/index.html
+
+### 이름
+
+Hype des Tages
+
+### 부제
+
+Lass uns gemeinsam schwärmen
+
+### 키워드
+
+Widget,Komplimente,Motivation,Sprüche,Zitate,Selbstliebe,Aufmunterung,Mutmacher,Trost,Prüfung,Lob
+
+### 프로모션 텍스트
+
+Dein täglicher Mutmacher: Mit dem Widget wirst du vom Morgen bis zum Heimweg herrlich übertrieben gefeiert. Jetzt sogar mit deinem Namen im Spruch.
+
+### 설명
+
+Übertriebene Komplimente direkt auf deinem Home-Bildschirm: Hype des Tages ist das Widget, das dich mehrmals täglich feiert, als hättest du gerade den Weltrekord im Großartigsein geknackt.
+281 Hype-Sprüche warten auf dich, für den Morgen, den Arbeitsweg, das Vorstellungsgespräch, schwere Tage und alles dazwischen. Perfekt zum Aufmuntern, zum Verschenken und zum Schmunzeln.
+
+Das kann die App
+- Homescreen-Widget: Schrift, Schriftfarbe, Hintergrundbild, Ausrichtung, Zeilenabstand und Aktualisierungsintervall stellst du ganz nach deinem Geschmack ein.
+- Stimmung wählen: Morgen, Arbeitsweg, vorm Interview, vor der Prüfung, vorm Training, vorm Date, Heimweg, Abend, Durchhänger, Entspannung, Selbstvertrauen oder Motivation. Für jede Lage der passende Spruch.
+- Dein Name im Spruch: Aus "du" wird dein Name, damit der Hype wirklich dir gilt.
+- Favoriten und Verlauf: Sprüche, die dir gefallen, speicherst du per Stern. Im Verlauf findest du alles wieder.
+- Serien und Erfolge: Schau 7, 30 oder 100 Tage in Folge vorbei und schalte besondere Sprüche frei.
+
+Datenschutz ist uns wichtig: Die App sammelt keine persönlichen Daten. Name, Favoriten und Einstellungen bleiben ausschließlich auf deinem Gerät.
+Fehler gemeldet, Idee gehabt? Schreib uns in den Einstellungen per E-Mail oder auf Instagram.

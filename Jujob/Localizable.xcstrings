@@ -47,6 +47,12 @@
             "state" : "translated",
             "value" : "%lld días"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Tage"
+          }
         }
       }
     },
@@ -92,6 +98,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ya has vivido 100 piropos locos.\nTú, maestro o maestra total."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 Hype-Sprüche entdeckt,\ndu bist jetzt ein echter Meister!"
           }
         }
       }
@@ -139,6 +151,12 @@
             "state" : "translated",
             "value" : "¡100 días seguidos con tu piropo!"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 Tage in Folge vorbeigeschaut!"
+          }
         }
       }
     },
@@ -184,6 +202,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡El milagro de los 100 días!\nTu constancia ha cambiado el mundo."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das 100-Tage-Wunder! Deine Ausdauer\nhat die Welt verändert!"
           }
         }
       }
@@ -231,6 +255,12 @@
             "state" : "translated",
             "value" : "100 días de viaje juntos.\nTú eres una persona increíble."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 Tage voller Abenteuer – gemeinsam.\nDu bist wirklich großartig!"
+          }
         }
       }
     },
@@ -276,6 +306,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 min"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 Min."
           }
         }
       }
@@ -323,6 +359,12 @@
             "state" : "translated",
             "value" : "30 min"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 Min."
+          }
         }
       }
     },
@@ -368,6 +410,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡30 días seguidos con tu piropo!"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 Tage in Folge vorbeigeschaut!"
           }
         }
       }
@@ -415,6 +463,12 @@
             "state" : "translated",
             "value" : "Un mes entero viniendo a verme.\nTú, lo máximo."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 Tage lang immer wieder da –\ndu bist spitze!"
+          }
         }
       }
     },
@@ -460,6 +514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Has leído 50 piropos locos.\nQué pasión tienes."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle 50 Sprüche entdeckt –\ndu bist richtig begeistert dabei!"
           }
         }
       }
@@ -507,6 +567,12 @@
             "state" : "translated",
             "value" : "5 min"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 Min."
+          }
         }
       }
     },
@@ -553,6 +619,12 @@
             "state" : "translated",
             "value" : "¡7 días seguidos con tu piropo!"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7 Tage in Folge vorbeigeschaut!"
+          }
         }
       }
     },
@@ -598,6 +670,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Una semana juntos.\n¡Y que no pare!"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Woche gemeinsam unterwegs –\nund es geht weiter!"
           }
         }
       }
@@ -651,6 +729,12 @@
             "state" : "translated",
             "value" : "Restaurar compras"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Käufe wiederherstellen"
+          }
         }
       }
     },
@@ -702,6 +786,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elige una categoría"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategorie wählen"
           }
         }
       }
@@ -755,6 +845,12 @@
             "state" : "translated",
             "value" : "Elige una fuente"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schrift wählen"
+          }
         }
       }
     },
@@ -806,6 +902,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tutorial"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anleitung"
           }
         }
       }
@@ -859,6 +961,12 @@
             "state" : "translated",
             "value" : "anónimo"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anonym"
+          }
         }
       }
     },
@@ -911,6 +1019,12 @@
             "state" : "translated",
             "value" : "premium"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
+          }
         }
       }
     },
@@ -960,6 +1074,12 @@
             "state" : "translated",
             "value" : "Contactar con el desarrollador"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entwickler kontaktieren"
+          }
         }
       }
     },
@@ -1005,6 +1125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Color del degradado"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Farbverlauf"
           }
         }
       }
@@ -1052,6 +1178,12 @@
             "state" : "translated",
             "value" : "Color del texto"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schriftfarbe"
+          }
         }
       }
     },
@@ -1097,6 +1229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elige tu estado"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stimmung wählen"
           }
         }
       }
@@ -1144,6 +1282,12 @@
             "state" : "translated",
             "value" : "Bajón"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stimmungstief"
+          }
         }
       }
     },
@@ -1189,6 +1333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Te elijo el piropo perfecto\npara tu estado de ánimo."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wir suchen den passenden Spruch\nzu Stimmung und Situation!"
           }
         }
       }
@@ -1236,6 +1386,12 @@
             "state" : "translated",
             "value" : "Mi racha"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meine Bilanz"
+          }
         }
       }
     },
@@ -1282,6 +1438,12 @@
             "state" : "translated",
             "value" : "Mis piropos"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meine Sprüche"
+          }
         }
       }
     },
@@ -1327,6 +1489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Otro piropo"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nächster Spruch"
           }
         }
       }
@@ -1375,6 +1543,12 @@
             "state" : "translated",
             "value" : "tú"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "du"
+          }
         }
       }
     },
@@ -1420,6 +1594,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tú vales mucho,\nmuchísimo."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du bist wertvoll,\nund zwar genau so, wie du bist!"
           }
         }
       }
@@ -1467,6 +1647,12 @@
             "state" : "translated",
             "value" : "Antes de la cita"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vor dem Date"
+          }
         }
       }
     },
@@ -1512,6 +1698,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Motivación"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motivation"
           }
         }
       }
@@ -1559,6 +1751,12 @@
             "state" : "translated",
             "value" : "Al azar"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zufall"
+          }
         }
       }
     },
@@ -1604,6 +1802,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Te encanta un piropo?\nToca la estrella para guardarlo."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipp auf den Stern, um Sprüche,\ndie dir gefallen, zu speichern!"
           }
         }
       }
@@ -1651,6 +1855,12 @@
             "state" : "translated",
             "value" : "Quiérete cada día"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich liebe mich jeden Tag"
+          }
         }
       }
     },
@@ -1696,6 +1906,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entrevista"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorm Interview"
           }
         }
       }
@@ -1743,6 +1959,12 @@
             "state" : "translated",
             "value" : "Vista previa"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorschau"
+          }
         }
       }
     },
@@ -1788,6 +2010,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fondo"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hintergrund"
           }
         }
       }
@@ -1835,6 +2063,12 @@
             "state" : "translated",
             "value" : "Imagen de fondo"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hintergrundbild"
+          }
         }
       }
     },
@@ -1880,6 +2114,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡100 días!"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 Tage geschafft!"
           }
         }
       }
@@ -1927,6 +2167,12 @@
             "state" : "translated",
             "value" : "Cien días sin faltar ni uno.\nTú eres lo más valioso del mundo."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 Tage lang jeden Tag da –\ndu bist unbezahlbar!"
+          }
         }
       }
     },
@@ -1972,6 +2218,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aceptamos avisos de errores y sugerencias."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehlermeldungen und Ideen sind willkommen."
           }
         }
       }
@@ -2019,6 +2271,12 @@
             "state" : "translated",
             "value" : "Ajustes avanzados"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feineinstellungen"
+          }
         }
       }
     },
@@ -2064,6 +2322,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frecuencia de actualización"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisierung"
           }
         }
       }
@@ -2111,6 +2375,12 @@
             "state" : "translated",
             "value" : "Examen"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vor der Prüfung"
+          }
         }
       }
     },
@@ -2156,6 +2426,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mañana"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morgen"
           }
         }
       }
@@ -2203,6 +2479,12 @@
             "state" : "translated",
             "value" : "Desplázate hasta encontrar la app.\n\"Piropo del Día\""
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scrolle, bis der App-Name erscheint.\n\"Hype des Tages\""
+          }
         }
       }
     },
@@ -2248,6 +2530,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Logros"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erfolge"
           }
         }
       }
@@ -2295,6 +2583,12 @@
             "state" : "translated",
             "value" : "Racha"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serie"
+          }
         }
       }
     },
@@ -2340,6 +2634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Cómo te sientes hoy?"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie fühlst du dich heute?"
           }
         }
       }
@@ -2387,6 +2687,12 @@
             "state" : "translated",
             "value" : "Hoy también a tu manera,\nque es la mejor."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bleib auch heute du selbst,\ndas ist das Beste!"
+          }
         }
       }
     },
@@ -2432,6 +2738,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Piropo del Día"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hype des Tages"
           }
         }
       }
@@ -2479,6 +2791,12 @@
             "state" : "translated",
             "value" : "Derecha"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rechts"
+          }
         }
       }
     },
@@ -2524,6 +2842,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Que nadie desanime a mi niño ni a mi niña!\nElige unas palabras que te animen."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na, nicht den Kopf hängen lassen!\nWähl dir ein aufmunterndes Wort!"
           }
         }
       }
@@ -2571,6 +2895,12 @@
             "state" : "translated",
             "value" : "Izquierda"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Links"
+          }
         }
       }
     },
@@ -2616,6 +2946,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entreno"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vor dem Training"
           }
         }
       }
@@ -2663,6 +2999,12 @@
             "state" : "translated",
             "value" : "Ajusta al detalle la forma y la fuente del widget"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Form und Schrift des Widgets fein anpassen"
+          }
         }
       }
     },
@@ -2708,6 +3050,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajustes del widget"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget-Einstellungen"
           }
         }
       }
@@ -2755,6 +3103,12 @@
             "state" : "translated",
             "value" : "Usar este piropo"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diesen Spruch nutzen"
+          }
         }
       }
     },
@@ -2800,6 +3154,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nombre"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
           }
         }
       }
@@ -2847,6 +3207,12 @@
             "state" : "translated",
             "value" : "Tu nombre"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name festlegen"
+          }
         }
       }
     },
@@ -2892,6 +3258,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Dime tu nombre!"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie heißt du?"
           }
         }
       }
@@ -2939,6 +3311,12 @@
             "state" : "translated",
             "value" : "Escribe tu nombre"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name eingeben"
+          }
         }
       }
     },
@@ -2984,6 +3362,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escribir por correo"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Per E-Mail schreiben"
           }
         }
       }
@@ -3031,6 +3415,12 @@
             "state" : "translated",
             "value" : "Ahora elige el tamaño y toca \"Añadir widget\". ¡Ya está!"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jetzt nur noch die Widget-Größe wählen und auf \"Widget hinzufügen\" tippen."
+          }
         }
       }
     },
@@ -3076,6 +3466,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "DM en Instagram (@lee25_ios)"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instagram-DM (@lee25_ios)"
           }
         }
       }
@@ -3123,6 +3519,12 @@
             "state" : "translated",
             "value" : "Antes de trabajar"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vor der Arbeit"
+          }
         }
       }
     },
@@ -3168,6 +3570,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Una semana!"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Woche geschafft!"
           }
         }
       }
@@ -3215,6 +3623,12 @@
             "state" : "translated",
             "value" : "Toda la semana sin fallar.\n¡Qué orgullo!"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine ganze Woche lang dabei –\nich bin so stolz auf dich!"
+          }
         }
       }
     },
@@ -3260,6 +3674,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Confianza"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbstvertrauen"
           }
         }
       }
@@ -3307,6 +3727,12 @@
             "state" : "translated",
             "value" : "Noche"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abend"
+          }
         }
       }
     },
@@ -3352,6 +3778,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Guardar"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speichern"
           }
         }
       }
@@ -3399,6 +3831,12 @@
             "state" : "translated",
             "value" : "Sugerido por"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorgeschlagen von"
+          }
         }
       }
     },
@@ -3444,6 +3882,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gran maestro del piropo"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hype-Großmeister"
           }
         }
       }
@@ -3491,6 +3935,12 @@
             "state" : "translated",
             "value" : "Maestro del piropo"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hype-Meister"
+          }
         }
       }
     },
@@ -3536,6 +3986,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widget de piropos"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hype-Widget"
           }
         }
       }
@@ -3583,6 +4039,12 @@
             "state" : "translated",
             "value" : "Pondré tu nombre\nen lugar de \"tú\" en los piropos."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wir setzen deinen Namen\nstatt \"du\" in die Sprüche ein!"
+          }
         }
       }
     },
@@ -3628,6 +4090,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se anota solo\ncada vez que veas un piropo."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alles, was du dir ansiehst,\nwird automatisch erfasst!"
           }
         }
       }
@@ -3675,6 +4143,12 @@
             "state" : "translated",
             "value" : "Centro"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitte"
+          }
         }
       }
     },
@@ -3720,6 +4194,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Favoritos"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favoriten"
           }
         }
       }
@@ -3767,6 +4247,12 @@
             "state" : "translated",
             "value" : "Aún no tienes favoritos"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noch keine Favoriten"
+          }
         }
       }
     },
@@ -3812,6 +4298,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Has visto 100 piropos en total!"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insgesamt 100 Sprüche gesehen!"
           }
         }
       }
@@ -3859,6 +4351,12 @@
             "state" : "translated",
             "value" : "¡Has visto 50 piropos en total!"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insgesamt 50 Sprüche gesehen!"
+          }
         }
       }
     },
@@ -3904,6 +4402,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Días en total"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tage insgesamt"
           }
         }
       }
@@ -3951,6 +4455,12 @@
             "state" : "translated",
             "value" : "Mejor racha"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bestwert"
+          }
         }
       }
     },
@@ -3996,6 +4506,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Camino al trabajo"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arbeitsweg"
           }
         }
       }
@@ -4043,6 +4559,12 @@
             "state" : "translated",
             "value" : "Vuelta a casa"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heimweg"
+          }
         }
       }
     },
@@ -4088,6 +4610,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fuente"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schrift"
           }
         }
       }
@@ -4135,6 +4663,12 @@
             "state" : "translated",
             "value" : "Ajustes de fuente"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schrifteinstellungen"
+          }
         }
       }
     },
@@ -4180,6 +4714,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Un mes!"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einen Monat geschafft!"
           }
         }
       }
@@ -4227,6 +4767,12 @@
             "state" : "translated",
             "value" : "Un mes juntos.\nTú eres una persona muy especial."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einen Monat zusammen –\ndu bist wirklich besonders!"
+          }
         }
       }
     },
@@ -4272,6 +4818,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Interlineado"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeilenabstand"
           }
         }
       }
@@ -4319,6 +4871,12 @@
             "state" : "translated",
             "value" : "Racha actual"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuelle Serie"
+          }
         }
       }
     },
@@ -4364,6 +4922,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mantén pulsada la pantalla de inicio hasta que los iconos se muevan y toca ➕ arriba a la izquierda o a la derecha."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Halte den Home-Bildschirm gedrückt, bis die Symbole wackeln, und tippe oben links oder rechts auf das ➕."
           }
         }
       }
@@ -4411,6 +4975,12 @@
             "state" : "translated",
             "value" : "Historial"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verlauf"
+          }
         }
       }
     },
@@ -4456,6 +5026,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "El historial está vacío"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noch kein Verlauf"
           }
         }
       }
@@ -4503,6 +5079,12 @@
             "state" : "translated",
             "value" : "Relax"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entspannung"
+          }
         }
       }
     },
@@ -4548,6 +5130,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Días duros"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durchhänger"
           }
         }
       }
