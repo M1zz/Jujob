@@ -139,3 +139,9 @@ Błędy i pomysły wyślij mailem lub na IG
 Pepp på flera språk i appen nu
 Kontakta utvecklaren i inställningarna
 Skicka buggar och förslag till oss
+
+### 앱스토어 (튀르키예어)
+
+Artık birçok dilde pohpoh alabilirsin
+Ayarlardan geliştiriciye ulaşabilirsin
+Hata ve önerini e-posta veya DM ile yaz

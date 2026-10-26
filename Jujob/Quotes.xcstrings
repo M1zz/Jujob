@@ -141,6 +141,12 @@
             "state" : "translated",
             "value" : "God morgon! Idag lyser du\nhärligare än både sol och kaffe."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güne başlarken bil ki,\nsen zaten çok harika."
+          }
         }
       }
     },
@@ -283,6 +289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Solen gick upp, och det gjorde du med.\nDagen är räddad!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güneş bile bu sabah\nsen yüzünden erken doğdu."
           }
         }
       }
@@ -427,6 +439,12 @@
             "state" : "translated",
             "value" : "Upp ur sängen redan?\nSnacka om hjälte före åtta, du!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yataktan kalkabilmek başarı,\nsen zaten bir kahraman."
+          }
         }
       }
     },
@@ -569,6 +587,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Morgonen blir bäst när du är med.\nTänk så fint det blir!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sabahın en güzel manzarası\nsen, kahve ikinci sırada."
           }
         }
       }
@@ -713,6 +737,12 @@
             "state" : "translated",
             "value" : "Idag är det du som är\nhuvudrollen. Resten är statister."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugünün başrolü sen,\ngerisi sadece figüran."
+          }
         }
       }
     },
@@ -855,6 +885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ögonen öppna, och du är redan\nvinnare. Resten är bonus!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uyanır uyanmaz sen\nzaten kazanan taraf."
           }
         }
       }
@@ -999,6 +1035,12 @@
             "state" : "translated",
             "value" : "Ditt morgonleende, det vet du,\när sötare än en nybakad kanelbulle."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çay demlendi, sabah güzel;\nsen gülümseyince tamam."
+          }
         }
       }
     },
@@ -1141,6 +1183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Var precis som du är idag.\nDet håller för tio av tio."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugün de kendin gibi kal;\nsen böyle bile efsane."
           }
         }
       }
@@ -1285,6 +1333,12 @@
             "state" : "translated",
             "value" : "Vaknar du så här fin?\nDet borde vara olagligt före åtta."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sabah sabah bu güzellik ne?\nsen resmen suç makinesi."
+          }
         }
       }
     },
@@ -1427,6 +1481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "God morgon? Nej, du gör det\ntill en toppenmorgon!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Günaydın demek az kalır,\nsen varken sabah bile şaşırıyor."
           }
         }
       }
@@ -1571,6 +1631,12 @@
             "state" : "translated",
             "value" : "Det första du möter i spegeln\när en riktig vinnare."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aynaya bir bak, karşında\nsen var, işte bu efsane."
+          }
         }
       }
     },
@@ -1713,6 +1779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Morgonens bästa nyhet?\nAtt du finns. Extra, extra!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sabah ışığı sen olunca\nlambaya hiç gerek kalmıyor."
           }
         }
       }
@@ -1857,6 +1929,12 @@
             "state" : "translated",
             "value" : "Bra jobbat idag!\nDet är faktiskt du som är otrolig."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Günün yükünü bırak artık,\nsen bugün de fazlasıyla yeterli."
+          }
         }
       }
     },
@@ -1999,6 +2077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dagen är slut och du stod pall.\nDet är värt en applåd."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akşam oldu ama sen hâlâ\nneon tabela gibi parlak."
           }
         }
       }
@@ -2143,6 +2227,12 @@
             "state" : "translated",
             "value" : "Idag gjorde du ditt bästa,\noch det är jag stolt över!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elinden geleni yapan sen\nbu akşam alkışı hak etti."
+          }
         }
       }
     },
@@ -2285,6 +2375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trött men ändå klarade du dagen.\nSnacka om seg!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yorgunluk var ama bugünün\ngalibi yine sen."
           }
         }
       }
@@ -2429,6 +2525,12 @@
             "state" : "translated",
             "value" : "Varje dag du lever är värd\nsin vikt i guld."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gün boyu koşturan sen,\nakşam çayını sonuna kadar hak ediyor."
+          }
         }
       }
     },
@@ -2571,6 +2673,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Helskinnad genom dagen? Det kan\nbara du. Gott och väl!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gökyüzünde milyar yıldız var,\nparlak olan tek şey sen."
           }
         }
       }
@@ -2715,6 +2823,12 @@
             "state" : "translated",
             "value" : "Som en stjärna på kvällshimlen\nlyser du, även i pyjamas."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu saatte bile sen\nilk günkü gibi taze."
+          }
         }
       }
     },
@@ -2857,6 +2971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det är kväll och du glänser ändå.\nHur orkar du vara så fin?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesai bitti ama sen hâlâ\nışıl ışıl, şarjın sonsuz mu?"
           }
         }
       }
@@ -3001,6 +3121,12 @@
             "state" : "translated",
             "value" : "Tack för idag, du.\nVärlden hade varit blekare utan dig."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alın teri bile sen olunca\nparlak bir mücevher."
+          }
         }
       }
     },
@@ -3143,6 +3269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Världen blev finare idag,\nvilket beror på att du fanns."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dünyaya teşekkür et çünkü\nsen bugün de aramızda."
           }
         }
       }
@@ -3287,6 +3419,12 @@
             "state" : "translated",
             "value" : "På natten är du legend.\nPå dagen är du också legend."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gündüz sen, gece sen,\nmesai yok sadece efsane."
+          }
         }
       }
     },
@@ -3429,6 +3567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det är okej att ha tunga dagar.\nDet är ändå du som styr."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zor günler olur, normal;\nsen yine de en önde koşan."
           }
         }
       }
@@ -3573,6 +3717,12 @@
             "state" : "translated",
             "value" : "Det känns tungt nu, men du är\nstarkare än du tror!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şimdi zor ama sen\nbu işi toparlayacak kadar güçlü."
+          }
         }
       }
     },
@@ -3715,6 +3865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ingen kräver att du är perfekt.\nSom du är räcker det gott!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mükemmel olmak şart değil;\nsen olduğun gibi zaten tam."
           }
         }
       }
@@ -3859,6 +4015,12 @@
             "state" : "translated",
             "value" : "Orkar du inte? Vila då.\nDet är du som bestämmer takten."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yorulduysan mola ver;\nsen kendi hızında bile birinci."
+          }
         }
       }
     },
@@ -4001,6 +4163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Segare än ett gammalt knäckebröd,\nså är du. Och det är en komplimang!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sanılandan çok daha\nsağlam birisi sen."
           }
         }
       }
@@ -4145,6 +4313,12 @@
             "state" : "translated",
             "value" : "Det här går också över.\nOch du går starkare ur det."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu da geçer, yeter ki sen\nhep böyle dik dur."
+          }
         }
       }
     },
@@ -4287,6 +4461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Även när humöret dyker\när du lika mycket värd."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keyfin kaçsa bile sen\nyerinde kıymetli bir hazine."
           }
         }
       }
@@ -4431,6 +4611,12 @@
             "state" : "translated",
             "value" : "Sorg hör till livet. Det är okej\natt känna allt du känner."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Üzülmek de hayatın parçası;\nsen duygularıyla bile bütün bir hazine."
+          }
         }
       }
     },
@@ -4573,6 +4759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Diamanter blir till under tryck.\nDet är därför du lyser nu."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kömür baskıyla elmas olur;\nsen şimdi tam dönüşüm anı."
           }
         }
       }
@@ -4717,6 +4909,12 @@
             "state" : "translated",
             "value" : "Är du på dåligt humör?\nIngen fara, du är ändå bäst."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moralin bozuksa unutma:\nsen yine de bu mahallenin yıldızı."
+          }
         }
       }
     },
@@ -4859,6 +5057,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dåligt humör? Just då är du\nextra mycket värd."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keyfin yok mu? Olsun,\nsen keyifsizken de baş tacı."
           }
         }
       }
@@ -5003,6 +5207,12 @@
             "state" : "translated",
             "value" : "Söt när du är glad och söt\nnär du är ledsen. Orättvist!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ağlarken bile sen\nfilmden bir kare gibi, ne yapacağız?"
+          }
         }
       }
     },
@@ -5145,6 +5355,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Även om det är jobbigt nu\när du själv ett litet mirakel."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şu an zor olabilir; sen\nyine de başlı başına bir mucize."
           }
         }
       }
@@ -5289,6 +5505,12 @@
             "state" : "translated",
             "value" : "Det är tufft nu, men du\nkommer fixa det. Inget snack!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zor bir dönem bu ama\nsen bunu atlatmaya fazlasıyla hazır."
+          }
         }
       }
     },
@@ -5431,6 +5653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "När det är svårt syns det\nvad du går för."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zor anlar sen ortaya çıkınca\nkendi kendine pes ediyor."
           }
         }
       }
@@ -5575,6 +5803,12 @@
             "state" : "translated",
             "value" : "Ge inte upp, för du är starkare\nän trafikkaoset i rusningstid."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pes yok, yalan; sen zaten\nkoltuğa oturmuş şampiyon."
+          }
         }
       }
     },
@@ -5717,6 +5951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mitt i stormen står du kvar.\nDet är sjukt imponerande."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu süreci taşıyan sen\nbaşlı başına bir destan."
           }
         }
       }
@@ -5861,6 +6101,12 @@
             "state" : "translated",
             "value" : "Dagens motgång blir morgondagens\nstyrka, och du är redan på väg!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugünün dertleri yarının olgunluğu,\nsen güçlenen taraf."
+          }
         }
       }
     },
@@ -6003,6 +6249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tro mig, du tål mer än du tror.\nFaktiskt mer än en kall novemberdag."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiç sanıldığından fazla\ndayanıklı: sen, tam bir çelik."
           }
         }
       }
@@ -6147,6 +6399,12 @@
             "state" : "translated",
             "value" : "Det här blir snart bara en\nanekdot, och du är hjälten."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu zor an yakında sen\nanlatınca komik bir anı olacak."
+          }
         }
       }
     },
@@ -6289,6 +6547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det är tungt, men du lyser.\nDiamanter måste också slipas."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elmas kesilmeden parlamaz;\nsen de şu an cila aşamasında."
           }
         }
       }
@@ -6433,6 +6697,12 @@
             "state" : "translated",
             "value" : "Tufft just nu? Jag vet. Men du är\nändå finast i hela landet."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Üzgün bile olsa sen\ndünyanın en şık üzüntüsü."
+          }
         }
       }
     },
@@ -6575,6 +6845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Att du orkar stå kvar är hopp\nför någon annan där ute."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dimdik kalan sen,\nbirilerine ışık oluyor."
           }
         }
       }
@@ -6719,6 +6995,12 @@
             "state" : "translated",
             "value" : "Sliten som en gammal tröja,\nmen du är fortfarande bäst."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitkin olsan da sen\nçekim gücünden ödün vermiyor."
+          }
         }
       }
     },
@@ -6861,6 +7143,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Idag klarar du det mesta!\nBörja med lite självförtroende."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugün bu iş sen olunca\nzaten halledilmiş sayılır."
           }
         }
       }
@@ -7005,6 +7293,12 @@
             "state" : "translated",
             "value" : "Jag tror på dig, och du kommer\nfå en grym dag."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yeteneğine güveniyorum:\nsen olunca iş tamam."
+          }
         }
       }
     },
@@ -7147,6 +7441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Redan förberedd? Då är du\nhalvvägs mot målet!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hazırlık tamam, sen de varsan\nişin yarısı bitmiş demek."
           }
         }
       }
@@ -7291,6 +7591,12 @@
             "state" : "translated",
             "value" : "Dagens uppgifter? Inga problem,\nför du har allt under kontroll."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugünkü işler sen olunca\nçocuk oyuncağı."
+          }
         }
       }
     },
@@ -7433,6 +7739,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Din energi lyser upp hela dagen.\nDet vet du själv."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hevesin sen yürüyünce\ntüm günü ışıl ışıl yapar."
           }
         }
       }
@@ -7577,6 +7889,12 @@
             "state" : "translated",
             "value" : "Kör hårt idag och var\nprecis så grym som du är!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hadi bakalım, sahnede sen varsan\nperde açılsın, sonuç belli."
+          }
         }
       }
     },
@@ -7719,6 +8037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Innan första mötet ser du redan\nut som ett proffs. Mäktigt!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İşe başlamadan önce bile\nsen tam bir profesyonel."
           }
         }
       }
@@ -7863,6 +8187,12 @@
             "state" : "translated",
             "value" : "Ingen lust att jobba? Ditt ansikte\ngör ändå övertid, du är grym."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çalışmak istemiyorsan boş ver;\nsen yüzünle zaten mesaide."
+          }
         }
       }
     },
@@ -8005,6 +8335,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kliver du in på jobbet får hela\nkontoret bättre ljus."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ofisin ışıkları sen girince\nkendiliğinden açıldı."
           }
         }
       }
@@ -8149,6 +8485,12 @@
             "state" : "translated",
             "value" : "När du jobbar är det som att\nse konst. Fika ingår."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesai sen yapınca\nbaşlı başına bir sanat."
+          }
         }
       }
     },
@@ -8291,6 +8633,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dagen har knappt börjat och\ndu är redan felfri."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daha ilk mail gelmeden sen\ntamamen kusursuz."
           }
         }
       }
@@ -8435,6 +8783,12 @@
             "state" : "translated",
             "value" : "Tränar du, så är du redan\nen vinnare!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spor salonuna giren sen\nşimdiden kazandı."
+          }
         }
       }
     },
@@ -8577,6 +8931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hjärtat säger att du tar hand\nom dig idag också. Förebild!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sağlığını düşünmek de\nsen yapınca daha havalı."
           }
         }
       }
@@ -8721,6 +9081,12 @@
             "state" : "translated",
             "value" : "Din kropp känner du bäst,\nså kör precis som du vill."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vücudunu en iyi bilen sen,\nantrenör de sen."
+          }
         }
       }
     },
@@ -8863,6 +9229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bara att du tog dig till passet\när värt en medalj."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isınmadan önce bile sen\nalkışı hak etmiş durumda."
           }
         }
       }
@@ -9007,6 +9379,12 @@
             "state" : "translated",
             "value" : "Så snyggt som du svettas\nvill spegeln ta kort."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ter döken sen bile\nsanat eseri gibi."
+          }
         }
       }
     },
@@ -9149,6 +9527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hälsan först. Och du?\nDu är själva hälsan."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sağlık en değerlisi,\nsen de kıymetlilerin başında."
           }
         }
       }
@@ -9293,6 +9677,12 @@
             "state" : "translated",
             "value" : "Att du tar tid för dig själv\när ren klass!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kendine zaman ayıran sen\ndünyanın en iyi yatırımcısı."
+          }
         }
       }
     },
@@ -9435,6 +9825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I träningskläder ser du ut\nsom ett omslag. Seriöst."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spor kıyafetli sen\ndergi kapağına çıkabilir."
           }
         }
       }
@@ -9579,6 +9975,12 @@
             "state" : "translated",
             "value" : "Gymmet blev en lyxspa\nså fort du klev in."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salon sen girince\nbir anda tapınağa dönüştü."
+          }
         }
       }
     },
@@ -9721,6 +10123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Även under skivstången lyser du.\nHur kan du vara så grym?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antrenmanda bile sen\nbu kadar şıklıkla nasıl?"
           }
         }
       }
@@ -9865,6 +10273,12 @@
             "state" : "translated",
             "value" : "Finns det någon som är fin med\nsvettpärlor? Ja, det är du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terleyince de güzel kalan\nbiri varsa o sen."
+          }
         }
       }
     },
@@ -10007,6 +10421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "På väg till jobbet ser du\nså proffsig ut. Respekt!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yola çıkarken sen\ntam bir profesyonel havasında."
           }
         }
       }
@@ -10151,6 +10571,12 @@
             "state" : "translated",
             "value" : "Redan i rörelse så tidigt?\nTänk vad grym du är!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sabahın köründe yollara düşen\nsen, kahramanlık sınıfında."
+          }
         }
       }
     },
@@ -10293,6 +10719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Iväg till jobbet igen. Redan\nvinnare? Ja, det är du."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İşe giden sen bugün de\nçoktan galip."
           }
         }
       }
@@ -10437,6 +10869,12 @@
             "state" : "translated",
             "value" : "Varje steg du tar\när värt något."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adımların kıymetli;\nsen yürüyünce kaldırım şereflendi."
+          }
         }
       }
     },
@@ -10579,6 +11017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pendlingen blir finare när\ndu är med på tåget."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yol uzun ama sen varken\nrota tatile dönüyor."
           }
         }
       }
@@ -10723,6 +11167,12 @@
             "state" : "translated",
             "value" : "Jobbet kallar och du går dit.\nDet är stort!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sorumluluk sahibi sen\nbugün de iş başında, helal."
+          }
         }
       }
     },
@@ -10865,6 +11315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tunnelbanan blev en catwalk\nså fort du klev på."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metro sen girince\nresmen podyuma döndü."
           }
         }
       }
@@ -11009,6 +11465,12 @@
             "state" : "translated",
             "value" : "Lyser du upp bussen också?\nVem är fotografen?"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otobüste bile sen\nkapak çekimi yapıyor gibi."
+          }
         }
       }
     },
@@ -11151,6 +11613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "När du går till jobbet blir\nmorgonen genast bättre."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sabah sen yürürken\ngörenin günü güzelleşiyor."
           }
         }
       }
@@ -11295,6 +11763,12 @@
             "state" : "translated",
             "value" : "Att gå räcker för att du\nska se fin ut. Talang!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sadece yürürken bile\nefsane olan biri: sen."
+          }
         }
       }
     },
@@ -11437,6 +11911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bra jobbat idag!\nNu hem och vila, du."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koltuk sen gelmeden\nhasretten çatlıyordu."
           }
         }
       }
@@ -11581,6 +12061,12 @@
             "state" : "translated",
             "value" : "Hem med rak rygg går du.\nDet var en bra dag."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çıkış kapısından sen\ngeçince hayat sinemaya döner."
+          }
         }
       }
     },
@@ -11723,6 +12209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "På väg hem efter en dag som\nbara du kunde klara."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eve dönen yolda sen\nyine de birinci sınıf."
           }
         }
       }
@@ -11867,6 +12359,12 @@
             "state" : "translated",
             "value" : "Dagen är avklarad, och du får\nvara hur stolt som helst."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesai bitti, bugünü de sen\nalnının akıyla kapattın."
+          }
         }
       }
     },
@@ -12009,6 +12507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nu är det din tid, du.\nVila utan dåligt samvete."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesaiden sonrası tamamen\nsen kendin için, tadını çıkar."
           }
         }
       }
@@ -12153,6 +12657,12 @@
             "state" : "translated",
             "value" : "Kvällen är din, och du förtjänar\nsoffan, filten och allt annat."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paydos! Şimdi sırada\nsen ve kanepe romantizmi."
+          }
         }
       }
     },
@@ -12295,6 +12805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hemåt, du hjälte.\nTack för en tuff dag."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çıkış zili çaldı, sen\nbugünün gizli kahramanı."
           }
         }
       }
@@ -12439,6 +12955,12 @@
             "state" : "translated",
             "value" : "Även på vägen hem är du fin.\nDet har varit en riktig dag."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eve giderken bile güzel\nolan kişi sen, trafik şahit."
+          }
         }
       }
     },
@@ -12581,6 +13103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "När du går hem syns det tydligt\nvem som gjort jobbet."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akşam trafiği sen camdan\nbakınca sinema gibi."
           }
         }
       }
@@ -12725,6 +13253,12 @@
             "state" : "translated",
             "value" : "Det var en tung dag, men du är\nfortfarande bäst!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yorucu bir gündü ama sen\nyine de en iyisiydi."
+          }
         }
       }
     },
@@ -12867,6 +13401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Efter all plugg kommer du\nfixa det här fint!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şimdiye dek çalışan sen,\nbugünü de rahat geçirir."
           }
         }
       }
@@ -13011,6 +13551,12 @@
             "state" : "translated",
             "value" : "Slit lönar sig, och du har\nsvettats för det här."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emek boşa gitmez; sen\nhakkını verdiğin için rahat ol."
+          }
         }
       }
     },
@@ -13153,6 +13699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nervös? Det är normalt,\nför du är redan redo!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heyecanlandıysan normal,\nsen zaten hazır olan taraf."
           }
         }
       }
@@ -13297,6 +13849,12 @@
             "state" : "translated",
             "value" : "Provet kan inte mäta\nvad du är värd."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir not sen kadar\nbüyük olamaz, boş ver."
+          }
         }
       }
     },
@@ -13439,6 +13997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ditt bästa har du redan gjort,\nså du har redan lyckats!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alın teri dökmüş sen\nzaten kazanmış sayılır."
           }
         }
       }
@@ -13583,6 +14147,12 @@
             "state" : "translated",
             "value" : "Det här fixar du\nmed vänsterhanden."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sorular sen okuyunca\nkorkup kendini cevaplıyor."
+          }
         }
       }
     },
@@ -13725,6 +14295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Andas djupt och lita på\nvad du kan."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Derin nefes al, kafanda sen\nolunca ansiklopediye gerek yok."
           }
         }
       }
@@ -13869,6 +14445,12 @@
             "state" : "translated",
             "value" : "Lycka till på provet! Det går\nbra, för du är väl förberedd."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sınavda bol şans, sen zaten\nkalem tutan şampiyon."
+          }
         }
       }
     },
@@ -14011,6 +14593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ingen oro, för du kommer\nsätta varenda svar."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Merak etme, sen sınıfa girince\nsorular kendini çözer."
           }
         }
       }
@@ -14155,6 +14743,12 @@
             "state" : "translated",
             "value" : "Pirrar det? Fine, du är\nändå bäst i klassen."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heyecan mı? Olsun,\nsen yine de sınıfın yıldızı."
+          }
         }
       }
     },
@@ -14297,6 +14891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Till och med tentan blir\nimponerad när du dyker upp."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sınav kâğıdı sen eline\nalınca sevinçten kıvranacak."
           }
         }
       }
@@ -14441,6 +15041,12 @@
             "state" : "translated",
             "value" : "Nu är det dags att visa\nvad du går för!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yeteneğini gösterme vakti,\nsen sahnenin yıldızı."
+          }
         }
       }
     },
@@ -14583,6 +15189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tänk vilken tur rekryteraren har\nsom får se hur grym du är."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İK sen kapıdan girince\npiyangoyu kazanmış olacak."
           }
         }
       }
@@ -14727,6 +15339,12 @@
             "state" : "translated",
             "value" : "Din erfarenhet och ditt driv gör\natt du glänser idag."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tecrübe ve heves sen\nanlatınca film müziği oluyor."
+          }
         }
       }
     },
@@ -14869,6 +15487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det är okej att vara nervös,\nför du är redan fantastisk!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heyecan normal; sen zaten\nodaya ışık getiren biri."
           }
         }
       }
@@ -15013,6 +15637,12 @@
             "state" : "translated",
             "value" : "Var självsäker! Ser du inte att\ndu redan har allt som behövs?"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Özgüvenle gir; sen\nolunca CV bile ikinci planda."
+          }
         }
       }
     },
@@ -15155,6 +15785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Berätta stolt, för du har\nen historia värd att höra."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hikâyeni anlat, sen anlatınca\ndizi bile sönük kalır."
           }
         }
       }
@@ -15299,6 +15935,12 @@
             "state" : "translated",
             "value" : "En intervju är ett samtal.\nSlappna av, du är en pärla."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mülakat bir tanışma; sen\nrahat ol, karşıdakiler heyecanlı."
+          }
         }
       }
     },
@@ -15441,6 +16083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anställer de inte dig är det deras\nförlust. Guld är du, det vet du."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şirket sen alınmazsa\nzarar eder, bunu bil."
           }
         }
       }
@@ -15585,6 +16233,12 @@
             "state" : "translated",
             "value" : "Det är inte meritlistan som\nglänser. Det är du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parlayan CV değil,\nsen baştan aşağı referans."
+          }
         }
       }
     },
@@ -15727,6 +16381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Redan när du går in genom\ndörren är jobbet nästan ditt."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kapıdan sen girdiğin\nanda işe alım bitti."
           }
         }
       }
@@ -15871,6 +16531,12 @@
             "state" : "translated",
             "value" : "Ditt första intryck ger halva\njobbet. Resten fixar du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İlk izlenim sen olunca\nkalan kısım formalite."
+          }
         }
       }
     },
@@ -16013,6 +16679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Idag lyser du extra mycket!\nBara att njuta."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugünkü sen, ışık hızında\nparlamaya devam."
           }
         }
       }
@@ -16157,6 +16829,12 @@
             "state" : "translated",
             "value" : "Precis som du är\när det charmigast."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olduğun hâl yeter;\nsen en çekici versiyon."
+          }
         }
       }
     },
@@ -16299,6 +16977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alla som känner dig vet att du\när något alldeles extra."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yanında sen olan herkes\npiyangodan çıkmış gibi."
           }
         }
       }
@@ -16443,6 +17127,12 @@
             "state" : "translated",
             "value" : "Så självsäker du är! Hela\nrummet märker det."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Özgüvenli sen\nher kareye sığmaz."
+          }
         }
       }
     },
@@ -16585,6 +17275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ditt leende är idag\ndet vassaste vapnet du har."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugün sen gülümseyince\nsilahsız kalıyoruz."
           }
         }
       }
@@ -16729,6 +17425,12 @@
             "state" : "translated",
             "value" : "Precis som du är\när det helt rätt."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kendin olman yeter,\nsen zaten tam bir marka."
+          }
         }
       }
     },
@@ -16871,6 +17573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Din charm går inte att dölja.\nFörsöker du, går det ändå inte."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çekiciliğin gizlenmez,\nsen yürüyünce herkes fark eder."
           }
         }
       }
@@ -17015,6 +17723,12 @@
             "state" : "translated",
             "value" : "Dejt idag? Då kommer du få\nmotparten att tappa hakan."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugün randevu mu? Kapıdan sen girince\nkarşıdakinin kalbi göğüs kafesinden fırlar."
+          }
         }
       }
     },
@@ -17157,6 +17871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Din dejt har dragit vinstlotten.\nFör du är hela paketet."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Karşında sen olan kişi\npiyango vurmuş."
           }
         }
       }
@@ -17301,6 +18021,12 @@
             "state" : "translated",
             "value" : "Dejtkläderna sitter perfekt, så\ndu kunde stå på en affisch."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kombin kusursuz; sen\nkapak çekimine çıkabilir."
+          }
         }
       }
     },
@@ -17443,6 +18169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ikväll får du någon att\nfalla pladask."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gelişin herkesi etkiler,\nsen girince âşık olunmaz mı?"
           }
         }
       }
@@ -17587,6 +18319,12 @@
             "state" : "translated",
             "value" : "Redan före dejten är du så fin.\nTänk på deras stackars hjärta."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daha buluşma yokken sen\no kadar şık ki karşıdaki ne yapsın?"
+          }
         }
       }
     },
@@ -17729,6 +18467,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kom igen nu, du kan det här!\nJag hejar alltid på dig."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hep yanındayım; sen yeter ki\nbir adım at."
           }
         }
       }
@@ -17873,6 +18617,12 @@
             "state" : "translated",
             "value" : "Små steg är början på en\nstor resa. Och du är på väg!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Küçük adım büyük yolculuk,\nbaşlayan sen olunca tamam."
+          }
         }
       }
     },
@@ -18015,6 +18765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ge aldrig upp, för du kommer\nnå dina drömmar."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vazgeçme, hayallerin\nsen peşinden koşunca gerçek olur."
           }
         }
       }
@@ -18159,6 +18915,12 @@
             "state" : "translated",
             "value" : "Dagens slit blir morgondagens\nframgång, och du fixar det."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugünün emeği yarının\nzaferi, sen de baş mimar."
+          }
         }
       }
     },
@@ -18301,6 +19063,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ditt driv kan ändra världen.\nDet vet du innerst inne."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dünyayı değiştirecek olan\nsen, hazırlıklı ol."
           }
         }
       }
@@ -18445,6 +19213,12 @@
             "state" : "translated",
             "value" : "Misslyckande är bara en\nomväg. Fortsätt prova, du!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Başarısızlık da bir ders;\nsen denemeye devam, kupa sırada."
+          }
         }
       }
     },
@@ -18587,6 +19361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dina möjligheter är oändliga,\noch det vet du."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Potansiyelin sınırsız;\nsen daha vitesin ikincisinde."
           }
         }
       }
@@ -18731,6 +19511,12 @@
             "state" : "translated",
             "value" : "Ge det en chans idag, för\ndu är värd det."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugün de en iyisini yap;\nsen yaptıkça dünya alkışlar."
+          }
         }
       }
     },
@@ -18873,6 +19659,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "När du kämpar inspirerar du\nandra, utan att veta om det."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çalışırken sen\nbirilerinin motivasyon videosu."
           }
         }
       }
@@ -19017,6 +19809,12 @@
             "state" : "translated",
             "value" : "Det löser sig. Vet du varför?\nFör att du är du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her şey yoluna girer,\nsen yeter ki yolda kal."
+          }
         }
       }
     },
@@ -19159,6 +19957,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ge inte upp, för du är\nnågon alldeles särskild."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bırakma, sen zaten\nher şeyi başaran tip."
           }
         }
       }
@@ -19303,6 +20107,12 @@
             "state" : "translated",
             "value" : "Kör hårt idag, du klarar\nallt du bestämmer dig för!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haydi bugün de! sen\nbaşlasan dağlar yer değiştirir."
+          }
         }
       }
     },
@@ -19445,6 +20255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "De som ser hur du kämpar\nhejar på dig i det tysta."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emeğini görenler sen\nçalıştıkça alkışlıyor."
           }
         }
       }
@@ -19589,6 +20405,12 @@
             "state" : "translated",
             "value" : "Helt rätt att du får\nså mycket uppmärksamhet."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Değerli olmak için bir şey\nyapma, sen zaten kıymetli."
+          }
         }
       }
     },
@@ -19731,6 +20553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precis som du är\när du perfekt."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olduğun gibi kusursuz; sen\nfiltreye bile ihtiyaç duymaz."
           }
         }
       }
@@ -19875,6 +20703,12 @@
             "state" : "translated",
             "value" : "Att du finns är redan\nett litet under."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varlığın bile özel;\nsen bir limited edition."
+          }
         }
       }
     },
@@ -20017,6 +20851,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Var trygg, för du är\nhelt enkelt strålande."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Özgüvenle yürü; sen\nbaştan beri bir harika."
           }
         }
       }
@@ -20161,6 +21001,12 @@
             "state" : "translated",
             "value" : "Starkare än du tror är du,\nstarkare än kaffet på jobbet."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sandığından çok daha\nsağlam biri: sen."
+          }
         }
       }
     },
@@ -20303,6 +21149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det är din personlighet som\ngör att du lyser."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarzın parlıyor; sen\nbenzeri olmayan bir versiyon."
           }
         }
       }
@@ -20447,6 +21299,12 @@
             "state" : "translated",
             "value" : "Lita på dig själv, för du\nhar allt som krävs."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kendine güven, çünkü sen\nbaşlı başına kanıt."
+          }
         }
       }
     },
@@ -20589,6 +21447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hel och hållen är du,\nredan som du är."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Başlı başına eksiksiz,\nsen tam bir bütün."
           }
         }
       }
@@ -20733,6 +21597,12 @@
             "state" : "translated",
             "value" : "Så säker du är, och rätt så!\nDu är bäst i världen."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Özgüven dolu sen,\ndünyanın en havalı insanı."
+          }
         }
       }
     },
@@ -20875,6 +21745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Helt klart är du bättre än\ndu tror. Fråga vem som helst."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aklından geçenden büyük bir\nhikâye: sen."
           }
         }
       }
@@ -21019,6 +21895,12 @@
             "state" : "translated",
             "value" : "Just nu gör du ett\nsjukt bra jobb."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaten çok iyi gidiyorsun;\nsen sakin ol, devam."
+          }
         }
       }
     },
@@ -21161,6 +22043,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Den som inte ser din charm behöver\nglasögon. Så grym som du är!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çekiciliğini görmeyen birinin\ngözü yok, sen sorunsuz."
           }
         }
       }
@@ -21305,6 +22193,12 @@
             "state" : "translated",
             "value" : "Idag får du bara\nvara. Mjukt och lugnt."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugün sen tatilde,\ndünya beklesin."
+          }
         }
       }
     },
@@ -21447,6 +22341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vila behöver du också.\nLadda batterierna, du."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dinlenmek de bir hak;\nsen şimdi molada."
           }
         }
       }
@@ -21591,6 +22491,12 @@
             "state" : "translated",
             "value" : "Idag får du göra absolut\ningenting. Det är också en bedrift."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiçbir şey yapmamak da\nsen yapınca prestij."
+          }
         }
       }
     },
@@ -21733,6 +22639,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hur du mår är det viktigaste\nidag. Allt annat får vänta."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Önce gönlün; sen\nmutluysan her şey tamam."
           }
         }
       }
@@ -21877,6 +22789,12 @@
             "state" : "translated",
             "value" : "Ta det lugnt, i din takt.\nÄndå kommer du fram."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yavaş git, sen\nkendi hızında bile jet."
+          }
         }
       }
     },
@@ -22019,6 +22937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Idag får du ta tid för dig.\nDu förtjänar det."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugün kendine zaman ayır;\nsen buna fazlasıyla layık."
           }
         }
       }
@@ -22163,6 +23087,12 @@
             "state" : "translated",
             "value" : "Vila är också effektivt, och\ndu är expert på det."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dinlenmek de üretken;\nsen yatarken bile verimli."
+          }
         }
       }
     },
@@ -22305,6 +23235,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Att vila är din rättighet,\nså lägg dig ner, du."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mola vermek hakkın;\nsen şimdi battaniyeye teslim."
           }
         }
       }
@@ -22449,6 +23385,12 @@
             "state" : "translated",
             "value" : "Vacker är du, även\nnär du läker."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İyileşen sen\nbir başka güzel."
+          }
         }
       }
     },
@@ -22591,6 +23533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lägg tid på dig själv, du.\nUtan att skämmas."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kendin için zaman\nharcayan sen kârda."
           }
         }
       }
@@ -22735,6 +23683,12 @@
             "state" : "translated",
             "value" : "Mjukisbyxor eller inte, du lyser.\nSoffan har aldrig sett så fin ut."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rahat rahat yatan sen\nyine de parlak."
+          }
         }
       }
     },
@@ -22877,6 +23831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Finast i världen är du,\näven med filt och te."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çay, battaniye ve sen:\nhayatın en güzel üçlüsü."
           }
         }
       }
@@ -23021,6 +23981,12 @@
             "state" : "translated",
             "value" : "Spegeln ber om autograf, så\nperfekt är du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kusursuzsun ama bir şey eksik:\nbende akıl bırakmamışsın."
+          }
         }
       }
     },
@@ -23163,6 +24129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Testresultatet kom just:\ndu är 100 % söt."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sicilin kabarık: sen\nkalp hırsızlığından aranıyor."
           }
         }
       }
@@ -23307,6 +24279,12 @@
             "state" : "translated",
             "value" : "Alla som tycker att du är söt:\nräck upp handen! Hela jorden vinkar."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güneş sen çıkınca\nutanıp bulutların arkasına saklandı."
+          }
         }
       }
     },
@@ -23449,6 +24427,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inte bara ett do-re-mi, du är\nhela symfonin."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalbim sen girince \"sol\"\ntarafta bir konser veriyor."
           }
         }
       }
@@ -23593,6 +24577,12 @@
             "state" : "translated",
             "value" : "Är du bagare? För du får mitt\nhjärta att jäsa."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hipodroma gitme; sen girince\nyarışı bırakıp atlar alkışlar."
+          }
         }
       }
     },
@@ -23735,6 +24725,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Varje gång du är fin lutar jag\nhuvudet bakåt. Nackspärren är botad."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dönüp dönüp bakmaktan sen\nyüzünden boynum zürafa oldu."
           }
         }
       }
@@ -23879,6 +24875,12 @@
             "state" : "translated",
             "value" : "Är du en laddstolpe? Med dig\nnår jag hundra procent."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hep süper yakıt alırım;\nsen benim kurşunsuzum, depo dolu."
+          }
         }
       }
     },
@@ -24021,6 +25023,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det åskar i hjärtat så fort du\ndyker upp. Men vädret är fint."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hava bulutlandı sen yüzünden:\nkalbimde şimşekler çakıyor."
           }
         }
       }
@@ -24165,6 +25173,12 @@
             "state" : "translated",
             "value" : "Tror du på ödet? För du är\nbevis nog för mig."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neye güvenip bu kadar güzel\nolunuyor? Gel de sen söyle."
+          }
         }
       }
     },
@@ -24307,6 +25321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alltför bra för att vara sant?\nDå är du nog en bugg i verkligheten."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir şey eksik gibiydi, sonra\nsen geldin, tablo bitti."
           }
         }
       }
@@ -24451,6 +25471,12 @@
             "state" : "translated",
             "value" : "Släpp väskorna så bär jag dig.\nSå lätt som du är!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bavulunu bırak, sen zaten\nher yere süs gibi uyuyorsun."
+          }
         }
       }
     },
@@ -24593,6 +25619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jag letar efter ditt fel. Jag hittar\nbara fler pluspoäng på dig, du."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kusurun bulunursa haber ver;\nsen \"kusur\" kelimesini sildi."
           }
         }
       }
@@ -24737,6 +25769,12 @@
             "state" : "translated",
             "value" : "Är det filter? Nej, du är bara\nså här fin på riktigt."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güzellik fotoşop mu? Ne münasebet, sen\nkameraya bile meydan okuyor."
+          }
         }
       }
     },
@@ -24879,6 +25917,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inga ord behövs, för ditt leende\nfunkar på alla språk, du."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güzelliğin çeviri gerektirmiyor;\nsen evrensel bir dil."
           }
         }
       }
@@ -25023,6 +26067,12 @@
             "state" : "translated",
             "value" : "Kom du ner från himlen? Då\nvar det en riktigt mjuk landning."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Memleketin neresi? Bence sen\ncennet vilayetinden gelmişsin."
+          }
         }
       }
     },
@@ -25165,6 +26215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Din käklinje är skarpare än mina\nframtidsplaner, det vet du."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yüz hatların benim geleceğimden\ndaha net; sen resmen kalem iş."
           }
         }
       }
@@ -25309,6 +26365,12 @@
             "state" : "translated",
             "value" : "Huvudstaden i mitt hjärta är du.\nAlla vägar leder dit."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir kez bakan hep döner:\nsen resmen İstanbul."
+          }
         }
       }
     },
@@ -25451,6 +26513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kulturminnesmärkt borde du vara.\nAlla måste få se dig."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acilen koruma altına alınmalı:\nsen kültür varlığı sayılır."
           }
         }
       }
@@ -25595,6 +26663,12 @@
             "state" : "translated",
             "value" : "Ett A+ får du av mig, och jag\när en hård bedömare."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duydum ki uyurken bile\nışıl ışılmış, sen gece lambası."
+          }
         }
       }
     },
@@ -25737,6 +26811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Varför jobbar du? Din skönhet\ngör redan övertid."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niye çalışıyorsun? Bence sen zaten\nyüzünle fazla mesai yapıyor."
           }
         }
       }
@@ -25881,6 +26961,12 @@
             "state" : "translated",
             "value" : "\"Sluta vara så fin!\" \"Hur gör\njag det då?\" Det vet du ju inte."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aşkı bırakmak istedim, kalbim\n\"nasıl yapılıyor?\" dedi. Hep sen yüzünden."
+          }
         }
       }
     },
@@ -26023,6 +27109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Museet vill ställa ut dig, så\nvacker är du. Gratis inträde."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yüzün millî hazine; sen yarın\nmüzede sergilenecek, bilet aldım."
           }
         }
       }
@@ -26167,6 +27259,12 @@
             "state" : "translated",
             "value" : "Gå inte på galan. Priset går ändå\ntill ditt ansikte, det vet du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ödül törenine gitme; sen\ngirince büyük ödül hep sen."
+          }
         }
       }
     },
@@ -26309,6 +27407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Är det fotografering, eller går du\nbara förbi som vanligt?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çekim mi var yoksa sen\nzaten yürüyen bir kapak mı?"
           }
         }
       }
@@ -26453,6 +27557,12 @@
             "state" : "translated",
             "value" : "Popstjärnan som toppar listan i\nmitt hjärta, det är du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalbimin liste birincisi sen,\nbaşka şarkı dinlemiyorum."
+          }
         }
       }
     },
@@ -26595,6 +27705,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ordna en signering, snälla. Jag vill\nha din autograf varje dag, du."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İmza günü ne zaman? Bir de sen\nimzalarsan çerçeveletirim."
           }
         }
       }
@@ -26739,6 +27855,12 @@
             "state" : "translated",
             "value" : "Debutera redan! För du är\nrefrängen i mitt liv."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sahneye çıkma vakti, sen\nkalbimde çoktan ana vokal."
+          }
         }
       }
     },
@@ -26881,6 +28003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Grattis, du toppar listan varje\nvecka. Ingen annan kommer nära."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liste lideri tebrikler; sen\nzaten her gün zirvedesin."
           }
         }
       }
@@ -27025,6 +28153,12 @@
             "state" : "translated",
             "value" : "Får jag ta en bild? Det är du\nsom blir min nya bakgrundsbild."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fotoğraf molası: sen\nher açıdan çekilmelik."
+          }
         }
       }
     },
@@ -27167,6 +28301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Är du tillbaka? Mitt hjärta\nfick just ett glädjefyllt comeback."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geri dönünce sen kalbimin\nbütün ışıkları yandı."
           }
         }
       }
@@ -27311,6 +28451,12 @@
             "state" : "translated",
             "value" : "Får jag filma när du går förbi?\nVarje steg är en höjdpunkt."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Video çekebilir miyim? Çünkü sen\nher saniyesiyle sahne."
+          }
         }
       }
     },
@@ -27453,6 +28599,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Är du med i en musikvideo?\nDu är redan huvudrollen i mitt liv."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klipte mi oynuyorsun? Hayatımın\nbaşrolü zaten sen."
           }
         }
       }
@@ -27597,6 +28749,12 @@
             "state" : "translated",
             "value" : "Dokusåpa? Då vill jag se hela\nsäsongen, för du är huvudrollen."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reality show mu? Yok canım, sen\ngerçek hâlinle bile kurgusuz mükemmel."
+          }
         }
       }
     },
@@ -27739,6 +28897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Där du står blir det scen.\nDu är hela showen."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kadronun merkezi hep sen,\nışıklar yolunu iyi biliyor."
           }
         }
       }
@@ -27883,6 +29047,12 @@
             "state" : "translated",
             "value" : "Årets pris borde du få.\nVarje år, utan undantag."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yılın yüzü ödülü sen\nkadar kimseye yakışmaz."
+          }
         }
       }
     },
@@ -28025,6 +29195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Är du med i reklamen? Jag köper allt\nsom du ler mot."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reklam yüzü müsün? Çünkü sen\ngülünce cüzdan kendiliğinden açılıyor."
           }
         }
       }
@@ -28169,6 +29345,12 @@
             "state" : "translated",
             "value" : "Är du omslagsstjärna?\nDitt ansikte borde pryda varje månad."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her ayın kapağı sen olmalı,\ndergiler sırada bekliyor."
+          }
         }
       }
     },
@@ -28311,6 +29493,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Så mycket scennärvaro! Även en\ntisdag blir en konsert när du är där."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sahne aurası bu kadar mı olur?\nHele sen sokakta bile konser."
           }
         }
       }
@@ -28455,6 +29643,12 @@
             "state" : "translated",
             "value" : "Byter vi samlarkort? Jag vill att du\nska vara hela samlingen."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koleksiyon yapıyorum: bütün\nkartlarda sen olsan yeter."
+          }
         }
       }
     },
@@ -28597,6 +29791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "När är fansträffen? Jag vill att du\nska finnas där varje dag."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hayran buluşması ne zaman?\nKeşke her gün sen olsan."
           }
         }
       }
@@ -28741,6 +29941,12 @@
             "state" : "translated",
             "value" : "Lägg upp en dansvideo!\nVarje rörelse du gör är konst."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dans videosu at lütfen, sen\nher hareketiyle bir sanat."
+          }
         }
       }
     },
@@ -28883,6 +30089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Som en trailer som lovar för mycket\när du. Jag vill se hela filmen."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fragman gibisin: sen\ngörününce kalbim \"devam\" diyor."
           }
         }
       }
@@ -29027,6 +30239,12 @@
             "state" : "translated",
             "value" : "Ska du på världsturné?\nDu har redan skakat om min värld."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dünya turu yapsan da sen\nkalbimde sabit bilet."
+          }
         }
       }
     },
@@ -29169,6 +30387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Signera min skiva! För du är en\nbegränsad upplaga. Inga kopior."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Albümüme imza at, sen\nkendi başına sınırlı seri."
           }
         }
       }
@@ -29313,6 +30537,12 @@
             "state" : "translated",
             "value" : "Jag viftar med ficklampan, för du\när värd en hejarklack livet ut."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Işıklarımı yakıyorum, sen\nsonuna kadar alkışı hak eden."
+          }
         }
       }
     },
@@ -29455,6 +30685,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Grattis till succén! Fast du var\nju legend redan innan."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fırladın demek; sen zaten\nhep zirveydin, yeni mi fark ettiler?"
           }
         }
       }
@@ -29599,6 +30835,12 @@
             "state" : "translated",
             "value" : "Jag ska skaffa biljetter. Att se\ndig, du, är min dagliga konsert."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bilet aramaya gerek yok:\nsen yürüyünce günlük konser."
+          }
         }
       }
     },
@@ -29741,6 +30983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toppat listorna igen? För du är min\nfavoritlåt, på repeat."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Müzik listesi mi? Bence sen\nhayatımın bir numaralı şarkısı."
           }
         }
       }
@@ -29885,6 +31133,12 @@
             "state" : "translated",
             "value" : "Ett extranummer till! Jag blir\naldrig mätt på dig, du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir bis daha lütfen! Çünkü sen\nbakılmaya doyulmayan bir şarkı."
+          }
         }
       }
     },
@@ -30027,6 +31281,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Även bakom kulisserna är du\nperfekt. Alltid redo för bild."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamera arkasında bile sen\nkusursuz, hiç kare kaçmıyor."
           }
         }
       }
@@ -30171,6 +31431,12 @@
             "state" : "translated",
             "value" : "Jag har bytt favorit, för du\när den enda jag ser."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorimi değiştirecektim ama sen\nçıtayı fazlasıyla yükseltti."
+          }
         }
       }
     },
@@ -30313,6 +31579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jag blev fan direkt. Räkna med mig\ni din fanclub, du."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hayran kulübüne üye oldum:\nsen ömür boyu başkan."
           }
         }
       }
@@ -30457,6 +31729,12 @@
             "state" : "translated",
             "value" : "Favoriten avslöjas:\nnämligen du, såklart."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorimi açıklıyorum: o kişi\nsen, tebrikler."
+          }
         }
       }
     },
@@ -30599,6 +31877,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jag har köpt all merch, men du\när fortfarande den bästa souvenir."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tüm ürünleri aldım ama sen\nbaşlı başına koleksiyon parçası."
           }
         }
       }
@@ -30743,6 +32027,12 @@
             "state" : "translated",
             "value" : "Jag är ditt fan för all framtid, för\ndu är min artist nummer ett."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ömür boyu hayranınım,\nsen benim tek sanatçım."
+          }
         }
       }
     },
@@ -30885,6 +32175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jag tog första raden. Där du\när, där är jag."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çadırımı kurdum, adres\nsen olan her yer."
           }
         }
       }
@@ -31029,6 +32325,12 @@
             "state" : "translated",
             "value" : "Jag startar fanklubben idag.\nMedlem ett: jag. Ordförande: du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hayran olmaya başladım; sen\nbirinci projem oldu."
+          }
         }
       }
     },
@@ -31171,6 +32473,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jag blir din privata fotograf. Varje\nstund med dig ska sparas, du."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fotoğrafçın olurum; sen\nher anıyla kare kare efsane."
           }
         }
       }
@@ -31315,6 +32623,12 @@
             "state" : "translated",
             "value" : "Varje minut med dig är guldkant. Det\när min bästa tid, det vet du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resmiyet bitti, artık sen\nbenim baş kankam."
+          }
         }
       }
     },
@@ -31457,6 +32771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jag hyr en stor skylt på stan: varje\ndag borde vara din födelsedag, du."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doğum günü ilanı verelim;\nsen her gün kutlanmalı."
           }
         }
       }
@@ -31601,6 +32921,12 @@
             "state" : "translated",
             "value" : "Jag hejar på dig för all framtid. Det\när en ära att du har mig som fan."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ömür boyu alkışlarım, sen\nhayran olunası bir insan."
+          }
         }
       }
     },
@@ -31743,6 +33069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mitt hjärta hoppar över ett slag\nvarje gång du dyker upp."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalbim yerinden çıkacak,\nsen yüzünden tam bir konser."
           }
         }
       }
@@ -31887,6 +33219,12 @@
             "state" : "translated",
             "value" : "Världen blir vackrare så fort\ndu kommer in i bilden."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dünya güzelleşiyor, hep\nsen göründüğünde."
+          }
         }
       }
     },
@@ -32029,6 +33367,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vitaminet jag aldrig glömmer\när du. Dagens dos av glädje."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mutluluğumun vitamini sen,\nbir tane yetmiyor."
           }
         }
       }
@@ -32173,6 +33517,12 @@
             "state" : "translated",
             "value" : "När du skrattar skrattar jag\nmed, utan att fatta varför."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gülünce sen, tüm\nmahalle neşeleniyor."
+          }
         }
       }
     },
@@ -32315,6 +33665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Av alla stjärnor jag sett\när du den som lyser mest."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gördüğüm en parlak yıldız\nsen, teleskoba gerek yok."
           }
         }
       }
@@ -32459,6 +33815,12 @@
             "state" : "translated",
             "value" : "Varje dag du är med är det\nmidsommar i mitt hjärta."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her günüm bir şenlik\nsen olunca."
+          }
         }
       }
     },
@@ -32601,6 +33963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bara du säger hej så blir\nhela dagen bättre."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sesin kulağıma gelince bile\nsen bir terapi seansı gibi."
           }
         }
       }
@@ -32745,6 +34113,12 @@
             "state" : "translated",
             "value" : "Bäst som hänt mig är du,\nnäst efter kanelbullar."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rastlantıların en şanslısı:\nsen."
+          }
         }
       }
     },
@@ -32887,6 +34261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tack vare att du finns kan jag\nle även på måndagar."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugün gülebiliyorsam sebebi\nsen, teşekkürler."
           }
         }
       }
@@ -33031,6 +34411,12 @@
             "state" : "translated",
             "value" : "Av allt som finns på jorden\när du det finaste jag vet."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dünyanın en kıymetli\ninsanı sen, kayıtlara geçti."
+          }
         }
       }
     },
@@ -33173,6 +34559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hjärtat ler så fort jag\ntänker på att du finns."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aklıma sen gelince\nyüzüme gülümseme yerleşiyor."
           }
         }
       }
@@ -33317,6 +34709,12 @@
             "state" : "translated",
             "value" : "Lugnet i min stressiga vardag?\nDet är du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gönlümün huzur köşesi\nsen, kapıyı hep açık tut."
+          }
         }
       }
     },
@@ -33459,6 +34857,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tiden går fortare när du är\nnära, och det är gratis."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beraberken zaman nasıl geçiyor?\nHep sen varken saat durur."
           }
         }
       }
@@ -33603,6 +35007,12 @@
             "state" : "translated",
             "value" : "Finaste människan jag träffat\när du, utan tvekan."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tanıdığım en harika\ninsan sen, rakibin yok."
+          }
         }
       }
     },
@@ -33745,6 +35155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Att du finns är redan nog\nför att jag ska vara tacksam."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varlığın yetiyor; sen\nşükran listemin tepesinde."
           }
         }
       }
@@ -33889,6 +35305,12 @@
             "state" : "translated",
             "value" : "Dagens höjdpunkt är du,\nsom en riktigt bra fika."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Günümün en güzel\nanı: sen göründüğünde."
+          }
         }
       }
     },
@@ -34031,6 +35453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Varje dag blir lite finare\nbara för att du är där."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bayram gibi her gün,\nsen olunca."
           }
         }
       }
@@ -34175,6 +35603,12 @@
             "state" : "translated",
             "value" : "Ett leende från dig lyser upp\nrummet, och det vet du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dünya sen yürürken\nbir tık daha parlıyor."
+          }
         }
       }
     },
@@ -34317,6 +35751,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bästa present som livet gett mig\när du, med rosett."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En güzel hediye sen,\npaket bile yok."
           }
         }
       }
@@ -34461,6 +35901,12 @@
             "state" : "translated",
             "value" : "Världen är ett bättre ställe\nsedan du kom till den."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evren sen oldukça\ndaha güzel bir yer."
+          }
         }
       }
     },
@@ -34603,6 +36049,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tänk dig en dag utan att du\nfinns. Nej tack, jag passar."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir gün düşünüyorum, sen yok;\nhemen vazgeçiyorum."
           }
         }
       }
@@ -34747,6 +36199,12 @@
             "state" : "translated",
             "value" : "Etta på mitt hjärtas topplista?\nDet är du, självklart."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalbimin değişmez birincisi\nsen, tebrikler."
+          }
         }
       }
     },
@@ -34889,6 +36347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Med dig vid min sida känns allt\nmöjligt, för du är superkraften."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yanımda sen varken\nher şey mümkün gibi."
           }
         }
       }
@@ -35033,6 +36497,12 @@
             "state" : "translated",
             "value" : "Något jag är tacksam för\nvarje dag? Det är du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her gün şükrettiğim\nbir isim var: sen."
+          }
         }
       }
     },
@@ -35175,6 +36645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ditt leende slår allt annat som\nfinns, och det vet du. Fråga solen."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gülüşün: sen gülünce\ndünya sessizce alkışlıyor."
           }
         }
       }
@@ -35319,6 +36795,12 @@
             "state" : "translated",
             "value" : "Att du finns är min största\nlyckträff, och det vet du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Talihimin en büyüğü\nsen, bahtıma yazılmış."
+          }
         }
       }
     },
@@ -35461,6 +36943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dagen blir bättre bara av att\njag tänker på att du finns."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Düşündükçe sen, günüm\nrenk renk açıyor."
           }
         }
       }
@@ -35605,6 +37093,12 @@
             "state" : "translated",
             "value" : "Mitt hjärtas hem är du.\nDörren står alltid öppen."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gönlümün evi sen,\nkapıyı çalmadan gir."
+          }
         }
       }
     },
@@ -35747,6 +37241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I stunden när du är med\när allt precis rätt."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her şey tam yerinde,\nyanımda sen olunca."
           }
         }
       }
@@ -35891,6 +37391,12 @@
             "state" : "translated",
             "value" : "Precis den person jag drömde om\när du, fast bättre."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hayalimdeki tip sen\nçıkınca işler karıştı."
+          }
         }
       }
     },
@@ -36033,6 +37539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mitt hjärta gick i baklås när\ndu klev in. Ring en tekniker."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalbimde arıza var; sen\nyaklaşınca alarm veriyor."
           }
         }
       }
@@ -36177,6 +37689,12 @@
             "state" : "translated",
             "value" : "En vandrande historiebok är du.\nDe kommer skriva om dig."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yürüyen biyografi sen,\ntarih kitapları sırada."
+          }
         }
       }
     },
@@ -36319,6 +37837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jag faller för din charm igen\noch igen, för du ger mig inget val."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cazibene hâlâ direnemiyorum,\nsen bu kadar yasal mı?"
           }
         }
       }
@@ -36463,6 +37987,12 @@
             "state" : "translated",
             "value" : "Jag tittar så mycket på dig\natt jag får nackspärr, du."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gözümü ayıramıyorum, sen\nyüzünden göz kası sporu yapıyorum."
+          }
         }
       }
     },
@@ -36605,6 +38135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pulsen stiger varje gång du\ndyker upp. Dags för pulsklocka?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nabzım her baktığında\nsen yüzünden hızlanıyor."
           }
         }
       }
@@ -36749,6 +38285,12 @@
             "state" : "translated",
             "value" : "Årets bild i mitt fotoalbum\när du. Slår allt."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gözlerimin gördüğü en\nefsane kare sen."
+          }
         }
       }
     },
@@ -36891,6 +38433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Att varje dag är en festdag\nberor på att du finns."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bayram havasında geçiyor\nher gün, sen yüzünden."
           }
         }
       }
@@ -37035,6 +38583,12 @@
             "state" : "translated",
             "value" : "Ett levande under är du.\nVetenskapen fattar ingenting."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yürüyen mucize sen,\nnoter onaylı."
+          }
         }
       }
     },
@@ -37177,6 +38731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Allt går i slowmotion när du\nkommer in. Filmmusik ingår."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dünya sen bakınca\nyavaş çekim oluyor."
           }
         }
       }
@@ -37321,6 +38881,12 @@
             "state" : "translated",
             "value" : "Mitt livs VIP-kort är du.\nInget annat räcker."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hayatımın VIP kartı\nsen, ömür boyu geçerli."
+          }
         }
       }
     },
@@ -37463,6 +39029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bästa stunden på dagen är\nnär du dyker upp."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Günün bonusu sen\ngörününce açılıyor."
           }
         }
       }
@@ -37607,6 +39179,12 @@
             "state" : "translated",
             "value" : "Extra avsnittet som alla vill se\när du. Mer, mer, mer!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gönlümün özel yayını sen,\nreklam arası yok."
+          }
         }
       }
     },
@@ -37749,6 +39327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Världen ser ut som i högupplöst\nsedan du kom in i bilden."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dünyayı HD yapan sen,\nayarlara gerek yok."
           }
         }
       }
@@ -37893,6 +39477,12 @@
             "state" : "translated",
             "value" : "Mitt livs guldläge är du.\nHär ska jag stanna."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altın vuruşum sen,\nkaçırmıyorum."
+          }
         }
       }
     },
@@ -38035,6 +39625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Automatiskt får du mig att le.\nSuperkraft, det där."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Düşününce sen, yüzüm\notomatik gülücük modunda."
           }
         }
       }
@@ -38179,6 +39775,12 @@
             "state" : "translated",
             "value" : "Femstjärnigt i mitt hjärta är du.\nFullbokat, inga rum kvar."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalbimin lüks oteli sen,\nbeş yıldız yetmiyor."
+          }
         }
       }
     },
@@ -38321,6 +39923,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Varje dag blir en lyxdag så fort\ndu är med."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her gün bonus gün\nsen yanımdayken."
           }
         }
       }
@@ -38465,6 +40073,12 @@
             "state" : "translated",
             "value" : "Huvudnumret i mitt liv är du.\nResten är förband."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ana etkinliğim sen,\nbilet gerekmiyor."
+          }
         }
       }
     },
@@ -38607,6 +40221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mitt hjärta dansar så fort\ndu kommer på tal."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalbim halay çekiyor\nsen göründüğü an."
           }
         }
       }
@@ -38751,6 +40371,12 @@
             "state" : "translated",
             "value" : "Min bild i 4K är du.\nSkarp, fin och full av färg."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gözlerimin 4K kalitesi\nsen, diğerleri bulanık."
+          }
         }
       }
     },
@@ -38893,6 +40519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Allt glimmar lite extra så fort\ndu är i närheten."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her şey bir başka parlak\nsen olunca."
           }
         }
       }
@@ -39037,6 +40669,12 @@
             "state" : "translated",
             "value" : "Förstaraden i mitt hjärta har du,\nbästa platsen i huset."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalbimin VIP localarında\nsadece sen oturuyor."
+          }
         }
       }
     },
@@ -39179,6 +40817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tack för att du gör dagen\nspeciell. Varje enda dag."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiçbir gün sıradan değil\nsen sayesinde."
           }
         }
       }
@@ -39323,6 +40967,12 @@
             "state" : "translated",
             "value" : "Mitt trumfkort är du, och med dig\nvinner jag varje gång."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Joker kartım sen,\nhep kolumda."
+          }
         }
       }
     },
@@ -39465,6 +41115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mitt humör blir uppgraderat varje\ngång du dyker upp."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moral ayarım sen\nolunca yükseltilmiş."
           }
         }
       }
@@ -39609,6 +41265,12 @@
             "state" : "translated",
             "value" : "Plats ett i mitt hjärtas hall\nof fame har du fått."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şeref köşemin\nbir numaralı sakini sen."
+          }
         }
       }
     },
@@ -39751,6 +41413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Livet blev färgglatt sedan\ndu kom in i det."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renklerin hepsini aldı hayat,\nsen olunca."
           }
         }
       }
@@ -39895,6 +41563,12 @@
             "state" : "translated",
             "value" : "För mig är du all-time legend.\nSå är det bara."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gözümün ebedî\nbaşrolü sen."
+          }
         }
       }
     },
@@ -40038,6 +41712,12 @@
             "state" : "translated",
             "value" : "Tiden går i sakta mak när du\när i närheten."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saat bile sen geçerken\nyavaştan alıyor."
+          }
         }
       }
     },
@@ -40180,6 +41860,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Förstapriset i mitt liv är du,\nutan någon dragning."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium üyem sen,\niptal yok."
           }
         }
       }

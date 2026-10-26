@@ -137,6 +137,12 @@
             "state" : "translated",
             "value" : "%lld dagar"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld gün"
+          }
         }
       }
     },
@@ -272,6 +278,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du har sett 100 pepp,\nnu är du en riktig mästare!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 pohpohu da görmüş sen,\nartık gerçek bir usta!"
           }
         }
       }
@@ -409,6 +421,12 @@
             "state" : "translated",
             "value" : "Du har kollat din pepp 100 dagar i rad!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 gün üst üste pohpoh aldın!"
+          }
         }
       }
     },
@@ -544,6 +562,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 dagars under! Din uthållighet\nhar förändrat världen!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 günlük mucize! Bu azimle\ndünyayı değiştirdin sen!"
           }
         }
       }
@@ -681,6 +705,12 @@
             "state" : "translated",
             "value" : "100 dagar tillsammans,\nvilken resa. Du är helt fantastisk!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 günlük yolu birlikte yürüdük,\nsen gerçekten muhteşem birisin!"
+          }
         }
       }
     },
@@ -816,6 +846,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 min"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 dk"
           }
         }
       }
@@ -953,6 +989,12 @@
             "state" : "translated",
             "value" : "30 min"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 dk"
+          }
         }
       }
     },
@@ -1088,6 +1130,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du har kollat din pepp 30 dagar i rad!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 gün üst üste pohpoh aldın!"
           }
         }
       }
@@ -1225,6 +1273,12 @@
             "state" : "translated",
             "value" : "Under 30 dagar har du kommit\nförbi varje dag. Du är bäst!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 gün boyunca hiç aksatmadan\ngelen sen, harikasın!"
+          }
         }
       }
     },
@@ -1360,6 +1414,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du har läst 50 pepp,\nvilket driv du har!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "50 pohpohu da görmüş sen,\nçok hevesli birisin!"
           }
         }
       }
@@ -1497,6 +1557,12 @@
             "state" : "translated",
             "value" : "5 min"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 dk"
+          }
         }
       }
     },
@@ -1633,6 +1699,12 @@
             "state" : "translated",
             "value" : "Du har kollat din pepp 7 dagar i rad!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7 gün üst üste pohpoh aldın!"
+          }
         }
       }
     },
@@ -1768,6 +1840,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En vecka tillsammans,\nnu fortsätter vi väl?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7 günü birlikte geçirdik,\nbundan sonra da devam edelim!"
           }
         }
       }
@@ -1911,6 +1989,12 @@
             "state" : "translated",
             "value" : "Återställ köp"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Satın Alımları Geri Yükle"
+          }
         }
       }
     },
@@ -2052,6 +2136,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Välj kategori"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategori Seç"
           }
         }
       }
@@ -2195,6 +2285,12 @@
             "state" : "translated",
             "value" : "Välj typsnitt"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yazı Tipi Seç"
+          }
         }
       }
     },
@@ -2336,6 +2432,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Guide"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rehber"
           }
         }
       }
@@ -2479,6 +2581,12 @@
             "state" : "translated",
             "value" : "Anonym"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "anonim"
+          }
         }
       }
     },
@@ -2621,6 +2729,12 @@
             "state" : "translated",
             "value" : "Premium"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "premium"
+          }
         }
       }
     },
@@ -2760,6 +2874,12 @@
             "state" : "translated",
             "value" : "Kontakta utvecklaren"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geliştiriciyle İletişim"
+          }
         }
       }
     },
@@ -2895,6 +3015,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gradientfärg"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gradyan Rengi"
           }
         }
       }
@@ -3032,6 +3158,12 @@
             "state" : "translated",
             "value" : "Textfärg"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yazı Rengi"
+          }
         }
       }
     },
@@ -3167,6 +3299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Välj humör"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruh Hali Seç"
           }
         }
       }
@@ -3304,6 +3442,12 @@
             "state" : "translated",
             "value" : "Nedstämd"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moralim Bozuk"
+          }
         }
       }
     },
@@ -3439,6 +3583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vi väljer pepp som passar\nditt humör och din situation!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruh haline ve duruma uygun\npohpohu biz seçelim!"
           }
         }
       }
@@ -3576,6 +3726,12 @@
             "state" : "translated",
             "value" : "Mina rekord"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kayıtlarım"
+          }
         }
       }
     },
@@ -3712,6 +3868,12 @@
             "state" : "translated",
             "value" : "Mina pepp"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pohpohlarım"
+          }
         }
       }
     },
@@ -3847,6 +4009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nästa pepp"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonraki Pohpoh"
           }
         }
       }
@@ -3985,6 +4153,12 @@
             "state" : "translated",
             "value" : "du"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "sen"
+          }
         }
       }
     },
@@ -4120,6 +4294,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du är värd\nprecis allt gott!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unutma, sen çok\ndeğerli birisin!"
           }
         }
       }
@@ -4257,6 +4437,12 @@
             "state" : "translated",
             "value" : "Före dejten"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Randevu Öncesi"
+          }
         }
       }
     },
@@ -4392,6 +4578,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Motivation"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motivasyon"
           }
         }
       }
@@ -4529,6 +4721,12 @@
             "state" : "translated",
             "value" : "Slump"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rastgele"
+          }
         }
       }
     },
@@ -4664,6 +4862,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spara pepp du gillar\ngenom att trycka på stjärnan!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beğendiğin pohpohu\nyıldız düğmesiyle kaydet!"
           }
         }
       }
@@ -4801,6 +5005,12 @@
             "state" : "translated",
             "value" : "Älska dig själv, varje dag"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her gün kendimi seviyorum"
+          }
         }
       }
     },
@@ -4936,6 +5146,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Före intervjun"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mülakat Öncesi"
           }
         }
       }
@@ -5073,6 +5289,12 @@
             "state" : "translated",
             "value" : "Förhandsvisning"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Önizleme"
+          }
         }
       }
     },
@@ -5208,6 +5430,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bakgrund"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arka Plan Ayarı"
           }
         }
       }
@@ -5345,6 +5573,12 @@
             "state" : "translated",
             "value" : "Bakgrundsbild"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arka Plan Görseli"
+          }
         }
       }
     },
@@ -5480,6 +5714,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 dagar!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 Gün Tamam!"
           }
         }
       }
@@ -5617,6 +5857,12 @@
             "state" : "translated",
             "value" : "Du har kommit förbi i 100 dagar,\ndu är den finaste människan som finns!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 gün boyunca her gün gelen sen,\ndünyanın en değerli insanısın!"
+          }
         }
       }
     },
@@ -5752,6 +5998,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Buggrapporter och förslag är varmt välkomna."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hata bildirimleri ve öneriler bizim için değerli."
           }
         }
       }
@@ -5889,6 +6141,12 @@
             "state" : "translated",
             "value" : "Detaljer"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detaylı Ayarlar"
+          }
         }
       }
     },
@@ -6024,6 +6282,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uppdateringsintervall"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yenileme Sıklığı"
           }
         }
       }
@@ -6161,6 +6425,12 @@
             "state" : "translated",
             "value" : "Före provet"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sınav Öncesi"
+          }
         }
       }
     },
@@ -6296,6 +6566,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Morgon"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sabah"
           }
         }
       }
@@ -6433,6 +6709,12 @@
             "state" : "translated",
             "value" : "Scrolla tills appens namn dyker upp.\n\"Dagens Pepp\""
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uygulama adını görene kadar kaydırın.\n\"Günün Pohpohu\""
+          }
         }
       }
     },
@@ -6568,6 +6850,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Utmärkelser"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Başarımlar"
           }
         }
       }
@@ -6705,6 +6993,12 @@
             "state" : "translated",
             "value" : "Streak"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seri"
+          }
         }
       }
     },
@@ -6840,6 +7134,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hur känns det idag?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugün nasıl hissediyorsun?"
           }
         }
       }
@@ -6977,6 +7277,12 @@
             "state" : "translated",
             "value" : "Var precis som du är idag,\ndet är det bästa!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugün de sen ol,\nen güzeli bu!"
+          }
         }
       }
     },
@@ -7112,6 +7418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dagens Pepp"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Günün Pohpohu"
           }
         }
       }
@@ -7249,6 +7561,12 @@
             "state" : "translated",
             "value" : "Höger"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sağ"
+          }
         }
       }
     },
@@ -7384,6 +7702,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lugn, ingen ska tappa modet här!\nVälj något som peppar dig själv!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kendini üzme, bak ne güzel gidiyorsun!\nKendini yüreklendirecek bir söz seç!"
           }
         }
       }
@@ -7521,6 +7845,12 @@
             "state" : "translated",
             "value" : "Vänster"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sol"
+          }
         }
       }
     },
@@ -7656,6 +7986,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Före träningen"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antrenman Öncesi"
           }
         }
       }
@@ -7793,6 +8129,12 @@
             "state" : "translated",
             "value" : "Finjustera widgetens utseende och typsnitt"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget'ın görünümünü ve yazı tipini ince ayarlayın"
+          }
         }
       }
     },
@@ -7928,6 +8270,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widgetinställningar"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget Ayarları"
           }
         }
       }
@@ -8065,6 +8413,12 @@
             "state" : "translated",
             "value" : "Använd den här"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bu Pohpohu Kullan"
+          }
         }
       }
     },
@@ -8200,6 +8554,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Namn"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İsim"
           }
         }
       }
@@ -8337,6 +8697,12 @@
             "state" : "translated",
             "value" : "Ange namn"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İsim Ayarı"
+          }
         }
       }
     },
@@ -8472,6 +8838,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vad heter du?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İsmini söyle!"
           }
         }
       }
@@ -8609,6 +8981,12 @@
             "state" : "translated",
             "value" : "Skriv ditt namn"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İsmini yaz"
+          }
         }
       }
     },
@@ -8744,6 +9122,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mejla oss"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-postayla Ulaş"
           }
         }
       }
@@ -8881,6 +9265,12 @@
             "state" : "translated",
             "value" : "Välj nu storlek och tryck på \"Lägg till widget\"."
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şimdi widget boyutunu seçip \"Widget Ekle\" düğmesine dokunman yeterli."
+          }
         }
       }
     },
@@ -9013,6 +9403,12 @@
           }
         },
         "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instagram DM (@lee25_ios)"
+          }
+        },
+        "tr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instagram DM (@lee25_ios)"
@@ -9153,6 +9549,12 @@
             "state" : "translated",
             "value" : "Före jobbet"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesai Başı"
+          }
         }
       }
     },
@@ -9288,6 +9690,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En vecka!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 Hafta Tamam!"
           }
         }
       }
@@ -9425,6 +9833,12 @@
             "state" : "translated",
             "value" : "En hel vecka i rad,\nvad stolt jag är över dig!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir hafta boyunca düzenli gelen sen,\ngurur kaynağısın!"
+          }
         }
       }
     },
@@ -9560,6 +9974,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Självförtroende"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Özgüven"
           }
         }
       }
@@ -9697,6 +10117,12 @@
             "state" : "translated",
             "value" : "Kväll"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akşam"
+          }
         }
       }
     },
@@ -9832,6 +10258,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spara"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaydet"
           }
         }
       }
@@ -9969,6 +10401,12 @@
             "state" : "translated",
             "value" : "Förslag från"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öneren Kişi"
+          }
         }
       }
     },
@@ -10104,6 +10542,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stormästare i pepp"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pohpoh Büyük Üstadı"
           }
         }
       }
@@ -10241,6 +10685,12 @@
             "state" : "translated",
             "value" : "Peppmästare"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pohpoh Üstadı"
+          }
         }
       }
     },
@@ -10376,6 +10826,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Peppwidget"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pohpoh Widget'ı"
           }
         }
       }
@@ -10513,6 +10969,12 @@
             "state" : "translated",
             "value" : "Vi byter ut 'du' i peppen\nmot ditt eget namn!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pohpohlarda 'sen' yerine\nismini kullanalım!"
+          }
         }
       }
     },
@@ -10648,6 +11110,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Din pepp sparas\nautomatiskt när du läser!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pohpoh gördükçe\notomatik kaydedilir!"
           }
         }
       }
@@ -10785,6 +11253,12 @@
             "state" : "translated",
             "value" : "Mitten"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orta"
+          }
         }
       }
     },
@@ -10920,6 +11394,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Favoriter"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favoriler"
           }
         }
       }
@@ -11057,6 +11537,12 @@
             "state" : "translated",
             "value" : "Inga favoriter än"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favoriler boş"
+          }
         }
       }
     },
@@ -11192,6 +11678,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du har läst 100 pepp totalt!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toplam 100 pohpoh gördün!"
           }
         }
       }
@@ -11329,6 +11821,12 @@
             "state" : "translated",
             "value" : "Du har läst 50 pepp totalt!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toplam 50 pohpoh gördün!"
+          }
         }
       }
     },
@@ -11464,6 +11962,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dagar totalt"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toplam Gün"
           }
         }
       }
@@ -11601,6 +12105,12 @@
             "state" : "translated",
             "value" : "Bästa streak"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En Uzun Seri"
+          }
         }
       }
     },
@@ -11736,6 +12246,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "På väg till jobbet"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İşe Giderken"
           }
         }
       }
@@ -11873,6 +12389,12 @@
             "state" : "translated",
             "value" : "På väg hem"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İş Çıkışı"
+          }
         }
       }
     },
@@ -12008,6 +12530,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Typsnitt"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yazı Tipi"
           }
         }
       }
@@ -12145,6 +12673,12 @@
             "state" : "translated",
             "value" : "Typsnitt"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yazı Tipi Ayarı"
+          }
         }
       }
     },
@@ -12280,6 +12814,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En månad!"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 Ay Tamam!"
           }
         }
       }
@@ -12417,6 +12957,12 @@
             "state" : "translated",
             "value" : "En hel månad tillsammans,\ndu är verkligen speciell!"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir aydır birlikteyiz,\nsen gerçekten çok özel birisin!"
+          }
         }
       }
     },
@@ -12552,6 +13098,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Radavstånd"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Satır Aralığı"
           }
         }
       }
@@ -12689,6 +13241,12 @@
             "state" : "translated",
             "value" : "Nuvarande streak"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güncel Seri"
+          }
         }
       }
     },
@@ -12824,6 +13382,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Håll in en tom yta på hemskärmen tills ikonerna börjar vippa och tryck på ➕ uppe till vänster eller höger."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ana ekrana uzun basarak titreme moduna gir, ardından sağ ya da sol üstteki ➕ simgesine dokun."
           }
         }
       }
@@ -12961,6 +13525,12 @@
             "state" : "translated",
             "value" : "Historik"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geçmiş"
+          }
         }
       }
     },
@@ -13096,6 +13666,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Historiken är tom"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geçmiş boş"
           }
         }
       }
@@ -13233,6 +13809,12 @@
             "state" : "translated",
             "value" : "Lugn och ro"
           }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dinlenme"
+          }
         }
       }
     },
@@ -13368,6 +13950,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tuffa stunder"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zor Zamanlar"
           }
         }
       }

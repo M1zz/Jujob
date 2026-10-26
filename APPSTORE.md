@@ -1038,3 +1038,48 @@ Det här kan appen:
 
 Din integritet är viktig. Appen samlar inte in några personuppgifter, och namn, favoriter och inställningar ligger bara kvar på din enhet.
 Har du hittat en bugg eller har ett förslag? Skriv till oss via e-post eller Instagram i inställningarna.
+
+## tr
+
+### 지원 URL
+
+https://m1zz.github.io/Jujob/tr/support.html
+
+### 개인정보처리방침 URL
+
+https://m1zz.github.io/Jujob/tr/privacy.html
+
+### 마케팅 URL
+
+https://m1zz.github.io/Jujob/tr/index.html
+
+### 이름
+
+Günün Pohpohu
+
+### 부제
+
+Birlikte abartalım
+
+### 키워드
+
+motivasyon,iltifat,övgü,widget,özgüven,moral,destek,güzelsözler,mülakat,sınav,pozitif,komik,ilham
+
+### 프로모션 텍스트
+
+Her gün yanında biri olsun: ana ekran widget'ında sabahtan akşama abartılı övgüler bekliyor. Artık isminle de sesleniyoruz!
+
+### 설명
+
+Fazlasıyla, hem de gereğinden fazla pohpohlayan bir widget uygulaması. Ana ekranda gün içinde defalarca karşına çıkan abartılı bir söz moralini yükseltir.
+Özgüvenini düşüren günlerde yanında olacak 281 pohpoh; sabahtan mülakata, işe gidişten zor zamanlara kadar ruh haline ve duruma göre hazır bekliyor.
+
+Öne çıkan özellikler
+- Ana ekran widget'ı: Boyutu, yazı tipini, yazı rengini, arka plan görselini, hizalamayı, satır aralığını ve yenileme sıklığını istediğin gibi ayarla.
+- Ruh hali seçimi: Sabah, işe giderken, mülakat ve sınav öncesi, antrenman, randevu, iş çıkışı, akşam, zor zamanlar, dinlenme, özgüven ve motivasyon gibi durumlara uygun sözler seç.
+- İsim ekleme: Sözlerdeki "sen" yerine ismin yazılır ve uygulama en hevesli hayranına dönüşür.
+- Favoriler ve geçmiş: Beğendiğin sözü yıldız düğmesiyle kaydet, gördüklerini geçmişten tekrar aç.
+- Seri ve başarımlar: 7, 30 ve 100 gün üst üste açtığında özel sözlerin kilidi açılır.
+
+Kişisel veri toplamıyoruz. İsmin ve favorilerin gibi bilgiler yalnızca cihazında kalır.
+Hata bildirimi ve önerilerini ayarlar ekranından e-posta veya Instagram üzerinden gönderebilirsin.
