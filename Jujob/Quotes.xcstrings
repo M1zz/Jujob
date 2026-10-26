@@ -99,6 +99,12 @@
             "state" : "translated",
             "value" : "God morgen, solstråle!\nI dag ser du helt fantastisk ud."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Καλημέρα! Σήμερα εσύ\nλάμπεις πιο πολύ κι από τον ήλιο"
+          }
         }
       }
     },
@@ -199,6 +205,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Solen står op, og det gør du også.\nDet bliver en god dag!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ξύπνησες; Τότε εσύ\nκέρδισες ήδη τη μέρα!"
           }
         }
       }
@@ -301,6 +313,12 @@
             "state" : "translated",
             "value" : "Bare fordi du stod op, er det en sejr.\nHold da op, hvor er du sej!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο καφές θέλει ώρα να ξυπνήσει,\nενώ εσύ λάμπεις από το πρωί"
+          }
         }
       }
     },
@@ -401,6 +419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Morgenen er den bedste tid, for der\ner du allerfriskest. Mød dagen!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πρωινό δελτίο: ο ήλιος βγήκε\nμόνο γιατί εσύ ξύπνησες"
           }
         }
       }
@@ -503,6 +527,12 @@
             "state" : "translated",
             "value" : "Der er ikke noget galt med dagen,\nnår du er hovedperson i den."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Άντε, σήκω! Ο κόσμος περιμένει\nνα δει πώς λάμπεις εσύ σήμερα"
+          }
         }
       }
     },
@@ -603,6 +633,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Øjnene er åbne, og du er allerede\nvinderen. Resten er bonus!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Από τη στιγμή που άνοιξες μάτια\nεσύ είσαι ήδη μπροστά στη βαθμολογία"
           }
         }
       }
@@ -705,6 +741,12 @@
             "state" : "translated",
             "value" : "Dit morgensmil er sødere end\nkaffe med to skefulde sukker."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πιο γλυκό κι από τον καφέ σου\nείναι το χαμόγελο που φοράς εσύ"
+          }
         }
       }
     },
@@ -805,6 +847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vær dig selv i dag,\ndet er der ikke noget bedre end."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πάρε γυαλιά ηλίου, γιατί\nεσύ λάμπεις πρωί πρωί!"
           }
         }
       }
@@ -907,6 +955,12 @@
             "state" : "translated",
             "value" : "Må man godt se så godt ud om morgenen?\nDet burde næsten være forbudt, du."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν χρειάζεσαι ξυπνητήρι,\nεσύ ξυπνάς τον κόσμο με τη λάμψη σου"
+          }
         }
       }
     },
@@ -1007,6 +1061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "God morgen? Nej, bedste morgen,\nfor det er jo dig, der er her."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Καλημέρα ή καλύτερα\n«ευτυχώς που υπάρχεις εσύ»;"
           }
         }
       }
@@ -1109,6 +1169,12 @@
             "state" : "translated",
             "value" : "Første blik i dag faldt på dig,\nog så vidste jeg, du var dagens fund."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το πρώτο που είδα σήμερα\nήταν η οθόνη, κι εσύ μου φτιάχνεις τη μέρα"
+          }
         }
       }
     },
@@ -1209,6 +1275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nu er du vågen, og verden\nhar fået sin allerbedste."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο καθρέφτης λέει «ευχαριστώ»\nκάθε πρωί που εσύ περνάς μπροστά του"
           }
         }
       }
@@ -1311,6 +1383,12 @@
             "state" : "translated",
             "value" : "Godt gået i dag! Nu har du\nfortjent en lun sofa og et tæppe."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τέλος η μέρα και πάλι\nεσύ τα κατάφερες. Μπράβο!"
+          }
         }
       }
     },
@@ -1411,6 +1489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dagen er slut, og du står\nstadig lige så flot. Respekt."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κλείνεις τη μέρα κι εσύ\nμοιάζεις με ταινία με καλό τέλος"
           }
         }
       }
@@ -1513,6 +1597,12 @@
             "state" : "translated",
             "value" : "Hele dagen gjorde du dit bedste,\nog det er jeg stolt af."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έδωσες ό,τι είχες σήμερα\nκαι εσύ αξίζεις παρασημοφόρηση!"
+          }
         }
       }
     },
@@ -1613,6 +1703,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Træt, men dagen overlevede du\nmed stil. Hatten af!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κούραση; Φυσικά! Κι όμως εσύ\nτα κατάφερες περίφημα"
           }
         }
       }
@@ -1715,6 +1811,12 @@
             "state" : "translated",
             "value" : "Din dag har været guld værd,\nfor du var med i den."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κάθε μέρα σου αξίζει,\nγιατί εσύ την έζησες"
+          }
         }
       }
     },
@@ -1815,6 +1917,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bare du kom helskindet igennem,\ner det nok. Godt klaret!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έπεσε το βράδυ και\nεσύ ακόμα λάμπεις; Βρες διακόπτη!"
           }
         }
       }
@@ -1917,6 +2025,12 @@
             "state" : "translated",
             "value" : "Stjernerne tænder for dig i aften,\nfor du skinner allerede."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σαν τα άστρα στον ουρανό\nλάμπεις κι εσύ απόψε"
+          }
         }
       }
     },
@@ -2017,6 +2131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv ved lysets slukning ser du\nud, som om du har et filter på."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ευχαριστώ, γιατί σήμερα\nεσύ έκανες τον κόσμο πιο όμορφο"
           }
         }
       }
@@ -2119,6 +2239,12 @@
             "state" : "translated",
             "value" : "Tak for i dag! Verden er\nbedre, fordi du er i den."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο κόσμος ήταν σήμερα υπέροχος\nγιατί ήσουν εσύ εκεί"
+          }
         }
       }
     },
@@ -2219,6 +2345,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I aften lyser byen op,\nmen ikke så meget som du."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Νύχτα ή μέρα,\nεσύ είσαι θρύλος και στις δύο"
           }
         }
       }
@@ -2321,6 +2453,12 @@
             "state" : "translated",
             "value" : "Både om dagen og om natten\ner du en levende legende."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δύσκολη μέρα; Κι όμως\nεσύ τα πας καλύτερα απ' ό,τι νομίζεις"
+          }
         }
       }
     },
@@ -2421,6 +2559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det er okay at have en dårlig dag.\nHusk, at du klarer det fint."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα πας μια χαρά και\nεσύ το ξέρεις βαθιά μέσα σου"
           }
         }
       }
@@ -2523,6 +2667,12 @@
             "state" : "translated",
             "value" : "Selv om det er svært nu,\nkan du godt komme igennem det!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν χρειάζεται να είσαι τέλειος·\nεσύ όπως είσαι κερδίζεις"
+          }
         }
       }
     },
@@ -2623,6 +2773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perfekt behøver du ikke at være,\nfor dig selv er du bedst."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ξεκουράσου όσο θες,\nεσύ προχωράς με τον δικό σου ρυθμό"
           }
         }
       }
@@ -2725,6 +2881,12 @@
             "state" : "translated",
             "value" : "Hold en pause, hvis du har brug for det.\nDit tempo er det rigtige tempo."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η δύναμή σου ξεπερνά τη φαντασία σου·\nεσύ είσαι από ατσάλι"
+          }
         }
       }
     },
@@ -2825,6 +2987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stærkere end du tror,\ndet er du, altså virkelig."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θα περάσει κι αυτό και\nεσύ θα έχεις το τελευταίο γέλιο"
           }
         }
       }
@@ -2927,6 +3095,12 @@
             "state" : "translated",
             "value" : "Det her går også over,\nog du kommer styrket ud af det!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κι όταν πέφτει το κέφι,\nεσύ αξίζεις το ίδιο, ούτε γραμμάριο λιγότερο"
+          }
         }
       }
     },
@@ -3027,6 +3201,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv når humøret er i kælderen,\nbor du stadig i penthouset."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η λύπη είναι μέρος σου,\nεσύ όμως είσαι πολλά περισσότερα"
           }
         }
       }
@@ -3129,6 +3309,12 @@
             "state" : "translated",
             "value" : "Sorgen hører med til livet.\nDet er okay at mærke, hvad du mærker."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το διαμάντι λάμπει μετά από πίεση,\nκαι εσύ το ίδιο, μη φοβάσαι"
+          }
         }
       }
     },
@@ -3229,6 +3415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vidste du, at diamanter\nbliver til under pres? Det gør du også."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Λυπάσαι; Κοίτα, εγώ\nχαμογελάω μόνο που υπάρχεις εσύ"
           }
         }
       }
@@ -3331,6 +3523,12 @@
             "state" : "translated",
             "value" : "Når du er ked af det, er jeg det også,\nfor jeg er helt vild med dig."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ακόμη και σε κακό κέφι,\nεσύ μένεις ό,τι πιο πολύτιμο έχω"
+          }
         }
       }
     },
@@ -3431,6 +3629,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nedtur? Så er det nu, du skal\nhuske, hvor dyrebar du er."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Και μέσα στα δάκρυα ακόμη\nεσύ δείχνεις υπέροχα, τι να κάνω;"
           }
         }
       }
@@ -3533,6 +3737,12 @@
             "state" : "translated",
             "value" : "Både når du smiler og græder\ner du smuk. Hvad skal jeg stille op?"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ακόμη κι όταν πονάς,\nεσύ είσαι ένα θαύμα που περπατά"
+          }
         }
       }
     },
@@ -3633,6 +3843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det er hårdt lige nu, men bare\nat du findes, er et lille mirakel."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τώρα είναι δύσκολα,\nμα εσύ σίγουρα θα τα καταφέρεις"
           }
         }
       }
@@ -3735,6 +3951,12 @@
             "state" : "translated",
             "value" : "Det er svært nu, men jeg er helt\nsikker på, at du nok skal klare det!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στις δύσκολες στιγμές\nφαίνεται τι αξίζει, και εσύ αξίζεις χρυσάφι"
+          }
         }
       }
     },
@@ -3835,6 +4057,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I de svære stunder viser\ndu, hvor stærk du egentlig er."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μην τα παρατάς,\nεσύ ξέρεις να αντέχεις"
           }
         }
       }
@@ -3937,6 +4165,12 @@
             "state" : "translated",
             "value" : "Giv ikke op, for du er\nstærkere, end du aner!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αντέχεις τόσα πολλά,\nεσύ είσαι ήρωας της ιστορίας"
+          }
         }
       }
     },
@@ -4037,6 +4271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når man holder ud i svære tider,\nsom du gør, skal man tage hatten af."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ό,τι σε πονά σήμερα,\nαύριο εσύ θα το λες ανέκδοτο"
           }
         }
       }
@@ -4139,6 +4379,12 @@
             "state" : "translated",
             "value" : "Dagens modgang er morgendagens\nstyrke, og den har du masser af."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αντέχεις περισσότερα\nαπ' όσα νομίζεις, εσύ το έχεις αποδείξει"
+          }
         }
       }
     },
@@ -4239,6 +4485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tænk, hvor meget du kan bære!\nMere end du selv tror, faktisk."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κι αυτή η στιγμή\nθα γίνει ανάμνηση που εσύ θα λες με περηφάνια"
           }
         }
       }
@@ -4341,6 +4593,12 @@
             "state" : "translated",
             "value" : "Selv dette øjeblik bliver snart\nen historie, du kan grine af."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δύσκολα; Ναι. Όμως εσύ\nλάμπεις ακόμη και μες στη βροχή"
+          }
         }
       }
     },
@@ -4441,6 +4699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv om du er under pres,\nskinner du som en diamant."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το ότι αντέχεις εσύ\nδίνει ελπίδα σε κάποιον άλλον"
           }
         }
       }
@@ -4543,6 +4807,12 @@
             "state" : "translated",
             "value" : "Hård dag, siger du? Alligevel er\ndu stadig den flotteste herinde."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κουράστηκες ως το κόκαλο\nκι εσύ φαίνεσαι ακόμη υπέροχα"
+          }
         }
       }
     },
@@ -4643,6 +4913,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når du holder ud,\ngiver du håb til andre."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ό,τι κι αν γίνει,\nεσύ θα ξαναβρείς το χαμόγελό σου"
           }
         }
       }
@@ -4745,6 +5021,12 @@
             "state" : "translated",
             "value" : "Slidt til benet, og stadig er\ndu sød. Det kan jeg ikke gøre noget ved."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σήμερα εσύ μπορείς τα πάντα·\nξεκίνα με αυτοπεποίθηση"
+          }
         }
       }
     },
@@ -4845,6 +5127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I dag er det dig, der kan alt!\nStart med selvtillid og smil."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σε πιστεύω! Με τέτοιες ικανότητες\nεσύ θα έχεις υπέροχη μέρα"
           }
         }
       }
@@ -4947,6 +5235,12 @@
             "state" : "translated",
             "value" : "Tro på dig selv, for der er\ningen, der gør det bedre end du."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ετοιμότητα εκατό τοις εκατό·\nεσύ είσαι ήδη μισή επιτυχία"
+          }
         }
       }
     },
@@ -5047,6 +5341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Forberedt som du er, er\ndu halvvejs i mål!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η δουλειά της ημέρας;\nΠαιχνιδάκι όταν εσύ είσαι μπροστά"
           }
         }
       }
@@ -5149,6 +5449,12 @@
             "state" : "translated",
             "value" : "Dagens to-do-liste bliver kort,\nfor du ordner det hele hurtigt."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το πάθος σου θα φωτίσει\nτη μέρα, κι εσύ θα το δεις"
+          }
         }
       }
     },
@@ -5249,6 +5555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Med dit gåpåmod lyser du\nhele dagen op!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ορμητικά! Κι αυτή τη φορά\nεσύ θα το κάνεις με στυλ"
           }
         }
       }
@@ -5351,6 +5663,12 @@
             "state" : "translated",
             "value" : "Hep hep! I dag gør du det\npå din helt egen måde!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πριν ξεκινήσεις δουλειά,\nεσύ δείχνεις ήδη επαγγελματίας"
+          }
         }
       }
     },
@@ -5451,6 +5769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Før arbejdet går i gang ser du ud\nsom en, der er født til det."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βαριέσαι; Εντάξει, αλλά\nεσύ έχεις πρόσωπο που κάνει υπερωρίες"
           }
         }
       }
@@ -5553,6 +5877,12 @@
             "state" : "translated",
             "value" : "Ingen lyst til at arbejde? Dit ansigt\nknokler på overtid, uanset hvad du gør."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το γραφείο λάμπει\nαπό τότε που εσύ περνάς την πόρτα"
+          }
         }
       }
     },
@@ -5653,6 +5983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kontoret lyser op, så snart du\ntræder ind ad døren. Strøm sparet!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν εσύ δουλεύεις,\nγίνεται τέχνη. Τελεία"
           }
         }
       }
@@ -5755,6 +6091,12 @@
             "state" : "translated",
             "value" : "Når du arbejder, er det kunst,\nog det ved du nok selv."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πριν καν αρχίσεις,\nεσύ έχεις ήδη τελειώσει με στυλ"
+          }
         }
       }
     },
@@ -5855,6 +6197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Før dagen overhovedet er gået i gang\ner du allerede topscorer."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γυμνάζεσαι; Τότε εσύ\nείσαι ήδη σούπερ ήρωας"
           }
         }
       }
@@ -5957,6 +6305,12 @@
             "state" : "translated",
             "value" : "Bare du tager træningstøjet på,\ner du allerede en vinder!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Φροντίζεις την υγεία σου\nκαι εσύ αξίζεις χειροκρότημα"
+          }
         }
       }
     },
@@ -6057,6 +6411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kroppen siger tak, hver gang du\ntager en tur i træningstøjet."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το σώμα σου το ξέρεις\nκαλύτερα εσύ από κάθε γυμναστή"
           }
         }
       }
@@ -6159,6 +6519,12 @@
             "state" : "translated",
             "value" : "Din krop ved bedst, hvad du kan,\nog den siger: det er meget!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έβαλες τα αθλητικά;\nΤότε εσύ έχεις ήδη κερδίσει"
+          }
         }
       }
     },
@@ -6259,6 +6625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alene fordi du er mødt op,\nmå du godt klappe dig selv på skulderen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ιδρώτας κι εσύ μαζί:\nο συνδυασμός της χρονιάς"
           }
         }
       }
@@ -6361,6 +6733,12 @@
             "state" : "translated",
             "value" : "Sveden står på dig, og du ser\nstadig ud som en filmstjerne."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η υγεία πάνω απ' όλα·\nεσύ το ξέρεις και το κάνεις"
+          }
         }
       }
     },
@@ -6461,6 +6839,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dit helbred er vigtigst, og\ndu passer så fint på det."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αφιερώνεις χρόνο στον εαυτό σου\nκι εσύ αξίζεις ένα μπράβο"
           }
         }
       }
@@ -6563,6 +6947,12 @@
             "state" : "translated",
             "value" : "Tak, fordi du bruger tid på dig selv.\nDen investering betaler sig."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Με φόρμα γυμναστικής εσύ\nθα έβγαζες εξώφυλλο περιοδικού"
+          }
         }
       }
     },
@@ -6663,6 +7053,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I det træningstøj kunne du\nsagtens pryde forsiden af et blad."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το γυμναστήριο έγινε παράδεισος\nαπό τότε που εσύ μπαίνεις"
           }
         }
       }
@@ -6765,6 +7161,12 @@
             "state" : "translated",
             "value" : "Fitnesscentret er blevet et paradis,\nsiden du begyndte at komme der."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ακόμη και με βάρη στο χέρι\nεσύ πώς γίνεται να έχεις τόσο στυλ;"
+          }
         }
       }
     },
@@ -6865,6 +7267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv under tunge løft skinner du.\nHvordan kan du altid være så sej?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ιδρώνεις και λάμπεις;\nΑυτό το καταφέρνεις μόνο εσύ"
           }
         }
       }
@@ -6967,6 +7375,12 @@
             "state" : "translated",
             "value" : "Smuk, mens man sveder? Det kan\nkun du, og det er uretfærdigt."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στον δρόμο για τη δουλειά\nεσύ μοιάζεις με πασαρέλα"
+          }
         }
       }
     },
@@ -7067,6 +7481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvor ser du professionel ud\npå vej til arbejde!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μόλις ξεκινάς το πρωί,\nεσύ είσαι πιο επαγγελματίας απ' όλους"
           }
         }
       }
@@ -7169,6 +7589,12 @@
             "state" : "translated",
             "value" : "Allerede i gang så tidligt,\nog du gør det med stil!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πας στη δουλειά και εσύ\nέχεις ήδη κερδίσει τη μέρα"
+          }
         }
       }
     },
@@ -7269,6 +7695,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Igen i dag møder du op,\nså du er vinderen allerede."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κάθε βήμα σου\nεσύ το κάνεις να μετρά"
           }
         }
       }
@@ -7371,6 +7803,12 @@
             "state" : "translated",
             "value" : "Hvert skridt, du tager, er\nværd at lægge mærke til!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν εσύ είσαι στον δρόμο,\nγιορτάζει κι ο πρωινός δρόμος"
+          }
         }
       }
     },
@@ -7471,6 +7909,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pendlerturen bliver speciel,\nnår du er med på ruten."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Με τόση υπευθυνότητα\nεσύ κάνεις τη δουλειά να φαίνεται υπέροχη"
           }
         }
       }
@@ -7573,6 +8017,12 @@
             "state" : "translated",
             "value" : "Ansvarsfuld som du er, kan\nman kun tage hatten af."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στο μετρό σήμερα εσύ\nέκανες πασαρέλα χωρίς να το καταλάβεις"
+          }
         }
       }
     },
@@ -7673,6 +8123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Siden du steg ind, er\ntoget blevet en catwalk."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στο λεωφορείο λάμπεις·\nτι φωτογράφιση κάνεις εσύ εκεί;"
           }
         }
       }
@@ -7775,6 +8231,12 @@
             "state" : "translated",
             "value" : "Selv i bussen skinner du,\nså er der fotoshoot i dag?"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στον δρόμο σε βλέπω να λάμπεις\nκαι εσύ μου φτιάχνεις το πρωί"
+          }
         }
       }
     },
@@ -7875,6 +8337,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når du går forbi, bliver\nhele morgenen lidt bedre."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Απλώς περπατάς και εσύ\nφαίνεσαι σαν πρωταγωνιστής σειράς"
           }
         }
       }
@@ -7977,6 +8445,12 @@
             "state" : "translated",
             "value" : "Bare ved at gå gør du\nallerede et stort indtryk."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σχόλασες, και εσύ\nάξιζες αυτό το ήρεμο βράδυ"
+          }
         }
       }
     },
@@ -8077,6 +8551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Godt gået i dag! Nu kan du\ntage hjem og slappe helt af."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Φεύγεις από το γραφείο και εσύ\nμοιάζεις ταινία ακόμη κι από πίσω"
           }
         }
       }
@@ -8179,6 +8659,12 @@
             "state" : "translated",
             "value" : "Bagfra ser du også\nfantastisk ud på vej hjem!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στον δρόμο της επιστροφής\nεσύ είσαι το πιο φωτεινό σημείο"
+          }
         }
       }
     },
@@ -8279,6 +8765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hjemvejen er din, og det er\ndig, der er bedst. Sikkert."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τελείωσες τη μέρα και\nεσύ αξίζεις υπόκλιση"
           }
         }
       }
@@ -8381,6 +8873,12 @@
             "state" : "translated",
             "value" : "Endnu en dag overstået,\nog du var fantastisk!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τώρα είναι ο χρόνος σου,\nκαι εσύ τον αξίζεις ολόκληρο"
+          }
         }
       }
     },
@@ -8481,6 +8979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nu har du fri, og tiden er din.\nPust ud!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο καναπές και η σειρά σου\nπεριμένουν· εσύ το αξίζεις"
           }
         }
       }
@@ -8583,6 +9087,12 @@
             "state" : "translated",
             "value" : "Tag lidt tid til dig selv,\nnu hvor du har fri."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μπράβο που σχόλασες·\nεσύ έκανες τα πράγματα, εγώ απλώς θαυμάζω"
+          }
         }
       }
     },
@@ -8683,6 +9193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fyraften! Nu har du fortjent\nen rigtig god aften."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μέχρι το σπίτι\nεσύ περπατάς σαν πρωταγωνιστής"
           }
         }
       }
@@ -8785,6 +9301,12 @@
             "state" : "translated",
             "value" : "På vej hjem er du lige så fin\nsom på vej ind. Hvilken dag!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το κουράγιο σου σήμερα\nεσύ το έκανες να φαίνεται εύκολο"
+          }
         }
       }
     },
@@ -8885,6 +9407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når du går hjem fra arbejde,\nhar dagen givet mening."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δύσκολη μέρα, αλλά\nεσύ ήσουν και σήμερα ό,τι καλύτερο"
           }
         }
       }
@@ -8987,6 +9515,12 @@
             "state" : "translated",
             "value" : "En hård dag, men du var\nstadig bedst. Som altid."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όσα κι αν διάβασες,\nεσύ θα τα θυμηθείς όλα"
+          }
         }
       }
     },
@@ -9087,6 +9621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Efter al den forberedelse\nklarer du det nok flot!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η προσπάθειά σου δεν\nχάνεται ποτέ, εσύ το ξέρεις"
           }
         }
       }
@@ -9189,6 +9729,12 @@
             "state" : "translated",
             "value" : "Din indsats svigter dig ikke,\ndet ved du godt."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν αγχώνεσαι, εντάξει·\nεσύ πάντως τα έχεις μάθει όλα"
+          }
         }
       }
     },
@@ -9289,6 +9835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det er helt okay at være nervøs,\nfor du er klar!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ένα τεστ δεν είναι ο καθρέφτης σου·\nεσύ είσαι πολύ μεγαλύτερο πράγμα"
           }
         }
       }
@@ -9391,6 +9943,12 @@
             "state" : "translated",
             "value" : "En eksamen kan ikke måle,\nhvad du er værd."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έκανες ό,τι μπορούσες\nκαι εσύ έχεις ήδη επιτύχει"
+          }
         }
       }
     },
@@ -9491,6 +10049,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Har du gjort dit bedste,\ner du allerede i mål!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θα τα καταφέρεις;\nΑυτονόητο, εσύ το ξέρεις"
           }
         }
       }
@@ -9593,6 +10157,12 @@
             "state" : "translated",
             "value" : "Hvis nogen kan klare det,\nså er det dig, du gamle ræv."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πάρε μια ανάσα,\nεσύ ξέρεις πολύ περισσότερα απ' όσα νομίζεις"
+          }
         }
       }
     },
@@ -9693,6 +10263,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Træk vejret dybt og\nstol på det, du kan!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Καλή επιτυχία·\nεσύ απλώς χρειάζεται να εμφανιστείς"
           }
         }
       }
@@ -9795,6 +10371,12 @@
             "state" : "translated",
             "value" : "Held og lykke! Husk, at du\nhar lært mere, end du tror."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μη φοβάσαι,\nεσύ θα τα απαντήσεις όλα σωστά"
+          }
         }
       }
     },
@@ -9895,6 +10477,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rolig nu, du lander på 12.\nSkalaen går ikke højere!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αγχώνεσαι; Και βέβαια,\nγιατί εσύ θέλεις να τα πας τέλεια"
           }
         }
       }
@@ -9997,6 +10585,12 @@
             "state" : "translated",
             "value" : "Nervøs? Det er du måske, men\njeg ved, du er den bedste."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ακόμη και το γραπτό\nθα θαυμάσει όταν εσύ το γράψεις"
+          }
         }
       }
     },
@@ -10097,6 +10691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Opgavepapiret falder i svime,\nnår du sætter dig ned."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ώρα να δείξεις τι αξίζεις·\nεσύ το ξέρεις, εμείς το βλέπουμε"
           }
         }
       }
@@ -10199,6 +10799,12 @@
             "state" : "translated",
             "value" : "Nu er det din tur til at vise,\nhvad du kan. Gå ind og skin!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο υπεύθυνος της συνέντευξης\nθα είναι τυχερός σήμερα, εσύ το ξέρεις"
+          }
         }
       }
     },
@@ -10299,6 +10905,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Den, der skal ansætte dig,\ner heldig, at du kommer."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η εμπειρία και το πάθος σου\nλάμπουν, και εσύ το ξέρεις"
           }
         }
       }
@@ -10401,6 +11013,12 @@
             "state" : "translated",
             "value" : "Din erfaring og dit gåpåmod er\npræcis det, du skal vise nu."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Νιώθεις νεύρα; Δεν πειράζει,\nεσύ είσαι ήδη απίθανο ταλέντο"
+          }
         }
       }
     },
@@ -10501,6 +11119,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lidt nervøs? Det er fint,\nfor du er alligevel helt rigtig."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μπες με αυτοπεποίθηση·\nεσύ προετοιμάζεσαι από καιρό"
           }
         }
       }
@@ -10603,6 +11227,12 @@
             "state" : "translated",
             "value" : "Med selvtillid ind ad døren,\nfor du er klar!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πες την ιστορία σου\nπερήφανα, εσύ έχεις τα καλύτερα"
+          }
         }
       }
     },
@@ -10703,6 +11333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fortæl din historie stolt, for\ndu har så meget at byde på."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η συνέντευξη είναι γνωριμία·\nχαλάρωσε και δείξε πώς εσύ λάμπεις"
           }
         }
       }
@@ -10805,6 +11441,12 @@
             "state" : "translated",
             "value" : "En samtale er bare en snak,\nså tag den roligt og vær dig selv."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν δεν σε προσλάβουν,\nχάνουν εκείνοι, όχι εσύ"
+          }
         }
       }
     },
@@ -10905,6 +11547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvis de ikke ansætter dig,\ner det firmaet, der taber."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν λάμπει το βιογραφικό σου·\nεσύ λάμπεις, και αυτό φαίνεται"
           }
         }
       }
@@ -11007,6 +11655,12 @@
             "state" : "translated",
             "value" : "Dit CV er flot, men du er\nendnu bedre end det."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Από την πόρτα που μπαίνεις\nεσύ έχεις ήδη προσληφθεί"
+          }
         }
       }
     },
@@ -11107,6 +11761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Så snart du træder ind i lokalet,\ner jobbet så godt som dit."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η πρώτη εντύπωση\nπου αφήνεις εσύ φτάνει και περισσεύει"
           }
         }
       }
@@ -11209,6 +11869,12 @@
             "state" : "translated",
             "value" : "Med dit første indtryk har du\nallerede halvdelen af jobbet."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σήμερα, ξέρεις,\nεσύ λάμπεις περισσότερο από ποτέ"
+          }
         }
       }
     },
@@ -11309,6 +11975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I dag skinner du\nlidt ekstra!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όπως ακριβώς είσαι,\nεσύ έχεις τη μεγαλύτερη γοητεία"
           }
         }
       }
@@ -11411,6 +12083,12 @@
             "state" : "translated",
             "value" : "Præcis som du er,\ner du allermest charmerende!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όποιος είναι μαζί σου\nείναι τυχερός, κι εσύ το αξίζεις"
+          }
         }
       }
     },
@@ -11511,6 +12189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Folk omkring dig er heldige,\nog det ved du godt."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Με τόση αυτοπεποίθηση\nεσύ δείχνεις υπέροχα"
           }
         }
       }
@@ -11613,6 +12297,12 @@
             "state" : "translated",
             "value" : "Fuld af selvtillid, som du er,\ntager du bare hele rummet."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το χαμόγελό σου σήμερα\nείναι το καλύτερο όπλο· εσύ το ξέρεις"
+          }
         }
       }
     },
@@ -11713,6 +12403,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dit smil i dag er\ndit bedste våben!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έτσι ακριβώς όπως είσαι,\nεσύ είσαι ήδη το απόλυτο"
           }
         }
       }
@@ -11815,6 +12511,12 @@
             "state" : "translated",
             "value" : "Præcis den, du er,\ner der ikke noget at rette på."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τη γοητεία σου\nδεν τη κρύβει κανείς, ούτε εσύ"
+          }
         }
       }
     },
@@ -11915,6 +12617,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Din charme kan ikke skjules,\nog du prøver heller ikke."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ραντεβού σήμερα; Μάλλον\nεσύ θα κάνεις την καρδιά του άλλου να χτυπά"
           }
         }
       }
@@ -12017,6 +12725,12 @@
             "state" : "translated",
             "value" : "Date i dag? Din date får svært\nved at holde sig, når du kommer."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όποιος βγαίνει μαζί σου\nκέρδισε λαχείο, εσύ ο θησαυρός"
+          }
         }
       }
     },
@@ -12117,6 +12831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvem end du skal møde,\nhar ramt jackpot."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το ντύσιμο για το ραντεβού\nείναι άψογο· εσύ βγάζεις εξώφυλλο"
           }
         }
       }
@@ -12219,6 +12939,12 @@
             "state" : "translated",
             "value" : "Dit date-outfit er perfekt, og du\nkunne sagtens komme på forsiden."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν σε δει σήμερα\nθα ερωτευτεί, εσύ το ξέρεις"
+          }
         }
       }
     },
@@ -12319,6 +13045,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når jeg ser dig i dag,\nkunne jeg godt falde pladask."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πριν καν βγεις,\nεσύ έχεις ήδη κλέψει μια καρδιά"
           }
         }
       }
@@ -12421,6 +13153,12 @@
             "state" : "translated",
             "value" : "Før I overhovedet er mødt, er du\nallerede for fin. Stakkels hjerte."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μπορείς! Εγώ θα είμαι ο πρώτος\nθαυμαστής όταν εσύ τα καταφέρεις"
+          }
         }
       }
     },
@@ -12521,6 +13259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det kan du sagtens,\nog jeg hepper altid på dig!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ακόμη και το μικρό βήμα\nείναι αρχή· εσύ το έχεις ήδη κάνει"
           }
         }
       }
@@ -12623,6 +13367,12 @@
             "state" : "translated",
             "value" : "Små skridt er også\nbegyndelsen på en stor rejse!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μην τα παρατάς, το όνειρό σου\nθα γίνει πραγματικότητα και εσύ θα το δεις"
+          }
         }
       }
     },
@@ -12723,6 +13473,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Giv ikke op, for dine drømme\nkommer til at gå i opfyldelse, du."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η σημερινή προσπάθεια\nχτίζει αυριανή επιτυχία· εσύ είσαι ο μάστορας"
           }
         }
       }
@@ -12825,6 +13581,12 @@
             "state" : "translated",
             "value" : "Dagens indsats er morgendagens\nsucces, og du er i gang!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το πάθος σου θα αλλάξει\nτον κόσμο, εσύ έχεις τη δύναμη"
+          }
         }
       }
     },
@@ -12925,6 +13687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Med dit gåpåmod kan du\nændre hele verden!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η αποτυχία είναι δάσκαλος\nκαι εσύ μαθαίνεις πιο γρήγορα απ' όλους"
           }
         }
       }
@@ -13027,6 +13795,12 @@
             "state" : "translated",
             "value" : "Fejl er en del af vejen,\nså prøv igen, du klarer det."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οι δυνατότητές σου\nείναι άπειρες, εσύ το ξέρεις"
+          }
         }
       }
     },
@@ -13127,6 +13901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dine muligheder er\nuendelige!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δώσε κάθε μέρα\nό,τι έχεις κι εσύ θα δεις θαύματα"
           }
         }
       }
@@ -13229,6 +14009,12 @@
             "state" : "translated",
             "value" : "Gør dit bedste i dag,\ndet plejer du jo."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν εσύ προσπαθείς,\nκάποιος αλλού παίρνει κουράγιο"
+          }
         }
       }
     },
@@ -13329,6 +14115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når du knokler, bliver andre\nmotiveret af at se på dig."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όλα θα πάνε καλά·\nεσύ είσαι το καλύτερο σημάδι"
           }
         }
       }
@@ -13431,6 +14223,12 @@
             "state" : "translated",
             "value" : "Det går nok alt sammen,\nnår det er dig, der står for det."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μην παραιτείσαι· εσύ\nέχεις ήδη αποδείξει πολλά"
+          }
         }
       }
     },
@@ -13531,6 +14329,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Giv ikke op, for du er\net fantastisk menneske, du."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δύναμη τώρα, γιατί εσύ\nμπορείς να καταφέρεις τα πάντα"
           }
         }
       }
@@ -13633,6 +14437,12 @@
             "state" : "translated",
             "value" : "Hep hep i dag!\nDet her klarer du på et øjeblik."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όσοι ξέρουν τον κόπο σου\nχειροκροτούν, κι εσύ το αξίζεις"
+          }
         }
       }
     },
@@ -13733,6 +14543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "De, der kender din indsats,\nhepper på dig hver dag."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η αξία σου είναι δεδομένη·\nεσύ δεν χρειάζεσαι άλλη απόδειξη"
           }
         }
       }
@@ -13835,6 +14651,12 @@
             "state" : "translated",
             "value" : "Husk, at du er værd\nat elske, præcis som du er!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όπως είσαι,\nεσύ είσαι ήδη ολοκληρωμένο έργο τέχνης"
+          }
         }
       }
     },
@@ -13935,6 +14757,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Præcis som du er,\ner du fuldendt!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Και μόνο η ύπαρξή σου\nείναι ξεχωριστή, εσύ το ξέρεις"
           }
         }
       }
@@ -14037,6 +14865,12 @@
             "state" : "translated",
             "value" : "Bare det, at du findes,\ngør dagen speciel!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Με αυτοπεποίθηση, γιατί\nεσύ είσαι ένας φοβερός άνθρωπος"
+          }
         }
       }
     },
@@ -14137,6 +14971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hold hovedet højt, for\ndu er et fantastisk menneske!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η δύναμή σου είναι\nμεγαλύτερη απ' όσο φαίνεται, εσύ το ξέρεις"
           }
         }
       }
@@ -14239,6 +15079,12 @@
             "state" : "translated",
             "value" : "Stærkere end du tror,\ner du, og det ved jeg!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η προσωπικότητά σου\nλάμπει, και εσύ το ξέρεις"
+          }
         }
       }
     },
@@ -14339,6 +15185,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Din egenart er det, der\nfår dig til at stråle."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πίστεψε στον εαυτό σου,\nεσύ μπορείς να κατακτήσεις τον κόσμο"
           }
         }
       }
@@ -14441,6 +15293,12 @@
             "state" : "translated",
             "value" : "Tro på dig selv,\ndu kan nemlig alt!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έτσι όπως είσαι, εσύ\nταιριάζεις τέλεια στον κόσμο"
+          }
         }
       }
     },
@@ -14541,6 +15399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fuldkommen, det er hvad du er,\nog slet ikke andet."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Με τόση αυτοπεποίθηση,\nεσύ είσαι ό,τι καλύτερο έχει ο κόσμος"
           }
         }
       }
@@ -14643,6 +15507,12 @@
             "state" : "translated",
             "value" : "Så selvsikker, som du er,\ner du verdens bedste."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αξίζεις πολύ περισσότερα\nαπ' όσα νομίζεις, εσύ το ξέρεις"
+          }
         }
       }
     },
@@ -14743,6 +15613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mere imponerende end du tænker\ner du faktisk, og det er sandt."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα πας ήδη υπέροχα,\nεσύ δεν έχεις τίποτα να αποδείξεις"
           }
         }
       }
@@ -14845,6 +15721,12 @@
             "state" : "translated",
             "value" : "Hvis du bare vidste, hvor godt\ndu allerede klarer dig!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όποιος δεν βλέπει τη γοητεία σου\nδεν έχει μάτια, εσύ δεν φταις"
+          }
         }
       }
     },
@@ -14945,6 +15827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Folk, der ikke ser din charme,\nmå have glemt deres briller."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σήμερα απλώς\nχαλάρωσε, εσύ το αξίζεις"
           }
         }
       }
@@ -15047,6 +15935,12 @@
             "state" : "translated",
             "value" : "I dag er det helt fint\nbare at slappe af."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ακόμη κι εσύ\nχρειάζεσαι ξεκούραση"
+          }
         }
       }
     },
@@ -15147,6 +16041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv du har brug for\nhvile i ny og næ."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Να μην κάνεις τίποτα\nείναι εντάξει, εσύ το ξέρεις"
           }
         }
       }
@@ -15249,6 +16149,12 @@
             "state" : "translated",
             "value" : "Gør ingenting i dag,\ndet er også en god dag."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η ψυχή σου είναι\nτο πιο σημαντικό, εσύ το ξέρεις"
+          }
         }
       }
     },
@@ -15349,6 +16255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dit hjerte er det\nvigtigste, du har."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αργά και σταθερά,\nεσύ με τον δικό σου ρυθμό"
           }
         }
       }
@@ -15451,6 +16363,12 @@
             "state" : "translated",
             "value" : "Tag det stille og roligt,\ni dit eget tempo."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αφιέρωσε χρόνο στον εαυτό σου·\nεσύ το χρειάζεσαι σήμερα"
+          }
         }
       }
     },
@@ -15551,6 +16469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I dag bruger vi tid på dig,\nog du må gerne nyde det."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η ξεκούραση είναι\nπαραγωγική, εσύ το πιστεύεις"
           }
         }
       }
@@ -15653,6 +16577,12 @@
             "state" : "translated",
             "value" : "Hvile er også nyttigt,\nog du er jo mester i det."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το να ξεκουράζεσαι\nείναι δικαίωμά σου, εσύ το αξίζεις"
+          }
         }
       }
     },
@@ -15753,6 +16683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "At holde fri er din ret.\nI dag må du godt slappe af."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Την ώρα που γιατρεύεσαι\nεσύ ακόμη κερδίζεις τον κόσμο"
           }
         }
       }
@@ -15855,6 +16791,12 @@
             "state" : "translated",
             "value" : "Hyg dig, for du er smuk,\nselv når du hygger!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μπορείς να σταματήσεις·\nεσύ δεν χρωστάς τίποτα σε κανέναν"
+          }
         }
       }
     },
@@ -15955,6 +16897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Det er helt okay, at du\nbruger tid på dig selv i dag."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ξεκουράζεσαι και πάλι\nεσύ λάμπεις, δεν γίνεται αλλιώς"
           }
         }
       }
@@ -16057,6 +17005,12 @@
             "state" : "translated",
             "value" : "Mens du slapper af,\nskinner du stadig."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ακόμη και στην ηρεμία σου\nεσύ είσαι ό,τι ομορφότερο στον κόσμο"
+          }
         }
       }
     },
@@ -16157,6 +17111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv i hvilemode er du\nden smukkeste i verden."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τέλεια, εκτός από ένα κενό:\nαυτό που αφήνεις όταν λείπεις εσύ"
           }
         }
       }
@@ -16259,6 +17219,12 @@
             "state" : "translated",
             "value" : "Perfekt som du er, mangler der\nkun én ting: mig ved siden af."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το τεστ προσωπικότητας\nβγάζει «κούκλα»· εσύ διαφωνείς;"
+          }
         }
       }
     },
@@ -16359,6 +17325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Personlighedstesten siger, du er\nhelt sød. Den har aldrig taget fejl."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο καθρέφτης είπε «πάω για ύπνο»\nγιατί εσύ τον ξεπέρασες σε λάμψη"
           }
         }
       }
@@ -16461,6 +17433,12 @@
             "state" : "translated",
             "value" : "Alle, der synes, du er sød,\nbedes række hånden op. Det er en skov."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν η ομορφιά ήταν έγκλημα,\nεσύ θα είχες ήδη ισόβια"
+          }
         }
       }
     },
@@ -16561,6 +17539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvis du var en tone, var du den\nhøje, som alle gerne vil ramme."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σε λένε κόσμημα;\nΛίγο είναι, εσύ είσαι ολόκληρο κοσμηματοπωλείο"
           }
         }
       }
@@ -16663,6 +17647,12 @@
             "state" : "translated",
             "value" : "Selv modvinden bliver til medvind,\nnår du cykler forbi."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στον πίνακα βαθμολογίας\nσε βάζουν δέκα, κι εσύ είσαι εκτός κλίμακας"
+          }
         }
       }
     },
@@ -16763,6 +17753,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når du går forbi, vender jeg mig,\nog nu har min nakke aldrig været bedre."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σε λένε μπαλαρίνα;\nΜάλλον ναι, γιατί εσύ χορεύεις στις καρδιές"
           }
         }
       }
@@ -16865,6 +17861,12 @@
             "state" : "translated",
             "value" : "Der er én ting, jeg aldrig bliver træt af,\nog det er dig. Fuld tank."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έχω ένα πρόβλημα:\nτα επίθετα τελειώνουν όταν σκέφτομαι εσύ"
+          }
         }
       }
     },
@@ -16965,6 +17967,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er det tordenvejr? Nej, det er\nbare mit hjerte, der brager for dig."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο ήλιος παραιτήθηκε·\nεσύ κάνεις καλύτερα τη δουλειά"
           }
         }
       }
@@ -17067,6 +18075,12 @@
             "state" : "translated",
             "value" : "Hvad er din hemmelighed? Hvad tror du på,\nsiden du ser så godt ud?"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το GPS λέει «έχετε φτάσει»\nκάθε φορά που σε βλέπω"
+          }
         }
       }
     },
@@ -17167,6 +18181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er der noget, der mangler? Nej, du\nlever op til alle forventninger."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τόση λάμψη, και δεν σε πληρώνει\nη εταιρεία ρεύματος;"
           }
         }
       }
@@ -17269,6 +18289,12 @@
             "state" : "translated",
             "value" : "Som rugbrød er du sund og solid,\nog alle danskere elsker dig."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν είσαι ζαχαροπλαστείο,\nαλλά εσύ μου γλυκαίνεις τη μέρα"
+          }
         }
       }
     },
@@ -17369,6 +18395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jeg leder efter en fejl ved dig,\nmen du er bygget uden revner."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα χνάρια σου θα μπουν στο μουσείο,\nεσύ ο καλλιτέχνης"
           }
         }
       }
@@ -17471,6 +18503,12 @@
             "state" : "translated",
             "value" : "Er det photoshop? Nej, det er bare\ndig, og du er næsten for god til at være sand."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κοστίζεις ακριβά,\nαλλά για μένα εσύ είσαι δωρεάν χαμόγελο"
+          }
         }
       }
     },
@@ -17571,6 +18609,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skalaen går kun til 12, så når du\nfår 13, ødelægger du hele systemet."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μου έβαλαν πρόστιμο\nγια υπερβολικό θαυμασμό· ευθύνη εσύ"
           }
         }
       }
@@ -17673,6 +18717,12 @@
             "state" : "translated",
             "value" : "Er du halvt dansk, halvt engel?\nFor du er altså himmelsk."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μοιάζεις με Wi-Fi:\nεσύ μου δίνεις σύνδεση με τη ζωή"
+          }
         }
       }
     },
@@ -17773,6 +18823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gør du bare grin? Dine kindben er\nskarpere end min fremtidsplan."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο καλύτερος τύπος:\nεσύ + χαμόγελο = ευτυχία"
           }
         }
       }
@@ -17875,6 +18931,12 @@
             "state" : "translated",
             "value" : "Alle veje fører til dig, så du\nmå være Rom, altså!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στο ηλιοβασίλεμα δίνω εννιά·\nεσύ παίρνεις δέκα με τόνο"
+          }
         }
       }
     },
@@ -17975,6 +19037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Der skal fredningsskilt op, for du\ner et levende kulturminde."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν η καλοσύνη ήταν νόμισμα,\nεσύ θα είχες ήδη τράπεζα"
           }
         }
       }
@@ -18077,6 +19145,12 @@
             "state" : "translated",
             "value" : "Er du en pantflaske? For jeg vil\ngerne have dig tilbage hver gang."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μην βγεις βόλτα· θα γεμίσει\nο δρόμος θαυμαστές, και εσύ φταις"
+          }
         }
       }
     },
@@ -18177,6 +19251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvorfor arbejder du?\nDit udseende har travlt nok."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μπήκε το κέφι στο σπίτι\nμε ένα όνομα: εσύ"
           }
         }
       }
@@ -18279,6 +19359,12 @@
             "state" : "translated",
             "value" : "Hold op med at kunne lide mig, sagde jeg.\n\"Hvordan gør man det?\" sagde du."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το κινητό μου έβαλε φίλτρο·\nεσύ δεν χρειάζεσαι κανένα"
+          }
         }
       }
     },
@@ -18379,6 +19465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dit ansigt er så sjældent, at du\nsnart udstilles på Nationalmuseet."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ποιος είπε ότι υπάρχει σχέδιο Β;\nΌταν εσύ είσαι το σχέδιο Α"
           }
         }
       }
@@ -18481,6 +19573,12 @@
             "state" : "translated",
             "value" : "Bliv hjemme fra prisuddelingen,\nfor du tager alle priserne."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το μουσείο θα σε ήθελε έκθεμα·\nεσύ πάντως ήδη είσαι έργο τέχνης"
+          }
         }
       }
     },
@@ -18581,6 +19679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er du til fotoshoot, eller går du\nbare rundt som en forside?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βγάζεις φωτογραφία;\nΟ φακός ζητά συγγνώμη, εσύ ήσουν τέλειο"
           }
         }
       }
@@ -18683,6 +19787,12 @@
             "state" : "translated",
             "value" : "Hvis du er en popstjerne, så er du\nnummer ét på min hitliste."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δόξα τω Θεώ, υπάρχεις·\nεσύ είσαι ο λόγος που ζει η λέξη «τέλειο»"
+          }
         }
       }
     },
@@ -18783,6 +19893,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Må jeg få en autograf, du?\nJeg tager gerne én hver dag."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σήμερα η ομορφιά\nβγήκε βόλτα και είχε όνομα: εσύ"
           }
         }
       }
@@ -18885,6 +20001,12 @@
             "state" : "translated",
             "value" : "Slå dig løs på scenen, for du er\nallerede i centrum af mit liv."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σε είδα στην οθόνη· εσύ\nκάνεις το ίντερνετ καλύτερο"
+          }
         }
       }
     },
@@ -18985,6 +20107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hitlisten er klar: du ligger nummer\nét, som du gør hver eneste dag."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Με έναν καφέ κι εσύ\nη μέρα γίνεται γιορτή"
           }
         }
       }
@@ -19087,6 +20215,12 @@
             "state" : "translated",
             "value" : "Står du stille et øjeblik? Jeg vil\ngerne tage et billede hver dag."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πέρασες από δω και τα λουλούδια\nάνθισαν από ζήλια· εσύ φταις"
+          }
         }
       }
     },
@@ -19187,6 +20321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er du tilbage? Så fik du mit\nhjerte til at genopstå."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το γέλιο σου κάνει τα δέντρα\nνα χορεύουν, εσύ το ξέρεις"
           }
         }
       }
@@ -19289,6 +20429,12 @@
             "state" : "translated",
             "value" : "Må jeg filme dig, mens du går?\nHvert sekund er en scene fra en film."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κανένα σχόλιο·\nμόνο εσύ, και αρκεί"
+          }
         }
       }
     },
@@ -19389,6 +20535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skal du være med i en musikvideo? Det er\njo dig, der har hovedrollen i mit liv."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο καλύτερος ρόλος της ταινίας;\nΟ δικός σου, γιατί εσύ είσαι ο πρωταγωνιστής"
           }
         }
       }
@@ -19491,6 +20643,12 @@
             "state" : "translated",
             "value" : "Skal du i realityshow? Virkeligheden\ner jo bedst, når det er dig."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βγαίνεις στη βόλτα\nκαι ο ήλιος κάνει χώρο, εσύ φωτίζεις"
+          }
         }
       }
     },
@@ -19591,6 +20749,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er du gruppens ansigt udadtil? Man ser\ndig først, uanset hvor du står."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η καρδιά μου έχει δύο ρυθμούς:\nκανονικό και όταν εσύ χαμογελάς"
           }
         }
       }
@@ -19693,6 +20857,12 @@
             "state" : "translated",
             "value" : "Prisen som årets ansigt skal gå til dig,\nfor du er helt historisk."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν ήσουν γλυκό,\nεσύ θα ήσουν το πιο ακριβό της βιτρίνας"
+          }
         }
       }
     },
@@ -19793,6 +20963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er du reklamemodel? Jeg får lyst\ntil at købe alt, når du er med."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σε κάθε φωτογραφία\nέλειπες εσύ, και τώρα συμπληρώθηκε"
           }
         }
       }
@@ -19895,6 +21071,12 @@
             "state" : "translated",
             "value" : "Er du forsidemodel? Dit ansigt burde\npryde alle blade hver måned, du."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν σε έχω ανάγκη·\nαπλώς εσύ είσαι η πιο ωραία συνήθεια"
+          }
         }
       }
     },
@@ -19995,6 +21177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er scenekarismaen ægte? Selv i hverdagen\nlyser du som på en scene."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όλο φως και πάθος,\nεσύ είσαι αυτό που ψάχνει ο κόσμος"
           }
         }
       }
@@ -20097,6 +21285,12 @@
             "state" : "translated",
             "value" : "Vil du bytte samlekort? Jeg vil kun\nhave dem med dit ansigt."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα αστέρια ρώτησαν\nπώς λάμπεις έτσι εσύ, και δεν απάντησες"
+          }
         }
       }
     },
@@ -20197,6 +21391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvornår holder du fanmøde?\nJeg vil gerne se dig hver dag."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όπου πας,\nεσύ φέρνεις φως, ακόμη και στο ασανσέρ"
           }
         }
       }
@@ -20299,6 +21499,12 @@
             "state" : "translated",
             "value" : "Læg en dansevideo op, for hver\nbevægelse du laver er kunst."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αστέρι είσαι, και μάλιστα\nεσύ από αυτά που φαίνονται και με φως ημέρας"
+          }
         }
       }
     },
@@ -20399,6 +21605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "At se dig er som en teaser:\njeg glæder mig til resten, hver gang."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δέκα στα δέκα,\nκαι εσύ το ξέρεις"
           }
         }
       }
@@ -20501,6 +21713,12 @@
             "state" : "translated",
             "value" : "Skal du på verdensturné? Det er du jo\nallerede i mit hjerte."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν είχες μάρκα,\nεσύ θα εξαντλούσες τα αποθέματα σε μια ώρα"
+          }
         }
       }
     },
@@ -20601,6 +21819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skriv i min bog, for du er\nen limited edition."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μόνο με το χαμόγελό σου\nεσύ έχεις φίλους σε όλο τον κόσμο"
           }
         }
       }
@@ -20703,6 +21927,12 @@
             "state" : "translated",
             "value" : "Jeg tænder lysstaven og hepper på dig\nhele livet, så længe du skinner."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σε ψάχνω παντού\nκαι εσύ είσαι πάντα στην καρδιά μου"
+          }
         }
       }
     },
@@ -20803,6 +22033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gik du viralt? Legende var du fra\nførste dag, så jeg undrer mig ikke."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η Δευτέρα φοβάται\nόταν σε βλέπει να χαμογελάς εσύ"
           }
         }
       }
@@ -20905,6 +22141,12 @@
             "state" : "translated",
             "value" : "Jeg skal have koncertbilletter, for hver\ndag, jeg ser dig, er det en koncert."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν η Δευτέρα είχε προσωπικότητα,\nεσύ θα την έκανες Παρασκευή"
+          }
         }
       }
     },
@@ -21005,6 +22247,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gik du til tops på hitlisten? For mig er du\ni hvert fald yndlingssangen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η καρδιά μου έχει\nμια θέση, και εσύ την έχεις πιάσει"
           }
         }
       }
@@ -21107,6 +22355,12 @@
             "state" : "translated",
             "value" : "Et ekstranummer, tak! Man bliver\naldrig træt af at se dig."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η μουσική είναι ωραία,\nαλλά εσύ είσαι το τραγούδι"
+          }
         }
       }
     },
@@ -21207,6 +22461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selv bag kulisserne er du perfekt,\nhvert eneste øjeblik."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θα σε έβαζα για πάντα\nστη λίστα αναπαραγωγής, εσύ κομμάτι-όνειρο"
           }
         }
       }
@@ -21309,6 +22569,12 @@
             "state" : "translated",
             "value" : "Jeg bytter favorit, for jeg kan ikke\nse andre end dig."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μ' αρέσει που υπάρχεις·\nεσύ δεν το ήξερες;"
+          }
         }
       }
     },
@@ -21409,6 +22675,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nu er jeg fan, og det bliver jeg,\nså længe du er til."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν γελάς εσύ,\nγελά μαζί σου όλος ο κόσμος"
           }
         }
       }
@@ -21511,6 +22783,12 @@
             "state" : "translated",
             "value" : "Mit livs favorit, vil du vide hvem?\nDet er dig, selvfølgelig."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Λες και έχεις μαγικό ραβδί:\nεσύ αλλάζεις τη διάθεση όλων"
+          }
         }
       }
     },
@@ -21611,6 +22889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jeg har købt alt merch, men du\ner den eneste ægte vare."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο κόσμος θα έμενε μπερδεμένος\nχωρίς εσύ, και το ξέρει"
           }
         }
       }
@@ -21713,6 +22997,12 @@
             "state" : "translated",
             "value" : "Jeg bliver fan resten af livet,\nfor du er min evige stjerne."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Με το που σε βλέπω\nεσύ μου φτιάχνεις το χαμόγελο"
+          }
         }
       }
     },
@@ -21813,6 +23103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jeg har slået lejr ved siden af dig,\nfor du er min faste base."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το αστείο μου ήταν μέτριο·\nεσύ το έκανες αστείο γελώντας"
           }
         }
       }
@@ -21915,6 +23211,12 @@
             "state" : "translated",
             "value" : "Nu går jeg all in som fan, og\ndu får hele min opmærksomhed."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν χρειάζομαι πρωινό·\nμου φτάνει το χαμόγελό σου, εσύ"
+          }
         }
       }
     },
@@ -22015,6 +23317,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jeg bliver din fotograf, for jeg vil\nhave hvert eneste øjeblik med dig."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ευχάριστη έκπληξη είσαι\nχωρίς ημερομηνία λήξης, εσύ"
           }
         }
       }
@@ -22117,6 +23425,12 @@
             "state" : "translated",
             "value" : "Alle timer er guldtimer,\nnår du er med."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αν ήσουν βιβλίο,\nεσύ θα ήσουν best seller"
+          }
         }
       }
     },
@@ -22217,6 +23531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gid hver dag var din fødselsdag,\nså kunne jeg synge for dig hver gang."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Για την ιστορία:\nεσύ είσαι ο λόγος που ο κόσμος αξίζει"
           }
         }
       }
@@ -22319,6 +23639,12 @@
             "state" : "translated",
             "value" : "Jeg hepper på dig for evigt,\nog det er jeg stolt af at være."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η καρδιά μου τρέχει\nόταν εσύ μπαίνεις στο δωμάτιο"
+          }
         }
       }
     },
@@ -22419,6 +23745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mit hjerte hamrer løs,\nbare fordi du går forbi."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ξέρεις κάτι; Ο κόσμος\nγίνεται ομορφότερος όπου περνάς εσύ"
           }
         }
       }
@@ -22521,6 +23853,12 @@
             "state" : "translated",
             "value" : "Så snart jeg ser dig, bliver\nverden bare smukkere."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στη ζωή μου εσύ\nείσαι η βιταμίνη της χαράς"
+          }
         }
       }
     },
@@ -22621,6 +23959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "For mig er du dagens vitaminpille,\nog den er sund og sød."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χαμογελώ κι εγώ\nχωρίς λόγο όταν γελάς εσύ"
           }
         }
       }
@@ -22723,6 +24067,12 @@
             "state" : "translated",
             "value" : "Når du smiler, gør jeg også,\nhelt automatisk og uden grund."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έχω δει πολλά αστέρια,\nαλλά εσύ είσαι το πιο φωτεινό"
+          }
         }
       }
     },
@@ -22823,6 +24173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Den smukkeste stjerne, jeg kender,\ner dig, og den er lige her."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κάθε μέρα σου\nείναι γιορτή στην καρδιά μου, εσύ το ξέρεις"
           }
         }
       }
@@ -22925,6 +24281,12 @@
             "state" : "translated",
             "value" : "Hver dag med dig er\nen fest i mit hjerte."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Με τη φωνή σου\nεσύ μου φτιάχνεις τη διάθεση"
+          }
         }
       }
     },
@@ -23025,6 +24387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hører jeg din stemme, bliver jeg\nglad, uanset hvad du siger."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μεγάλη μου τύχη\nείναι που υπάρχεις εσύ"
           }
         }
       }
@@ -23127,6 +24495,12 @@
             "state" : "translated",
             "value" : "Min største lykke er,\nat jeg har lært dig at kende."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χαμογελώ σήμερα\nεπειδή υπάρχεις εσύ"
+          }
         }
       }
     },
@@ -23227,6 +24601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Takket være dig kan jeg\nsmile hver eneste dag."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Από όλα όσα ξέρω,\nεσύ είσαι το πιο πολύτιμο"
           }
         }
       }
@@ -23329,6 +24709,12 @@
             "state" : "translated",
             "value" : "På hele jorden er der ingen,\nder er så dyrebar som du."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ειρωνεία της μοίρας:\nεσύ με κάνεις να χαμογελώ μόνος μου"
+          }
         }
       }
     },
@@ -23429,6 +24815,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tænker jeg på dig, kommer\nsmilet helt af sig selv."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γαλήνη θα πει\nεσύ, με ένα φλιτζάνι τσάι"
           }
         }
       }
@@ -23531,6 +24923,12 @@
             "state" : "translated",
             "value" : "Hos dig finder jeg ro,\nog det er du helt alene om."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η ώρα που περνάμε μαζί\nγίνεται ξεχωριστή επειδή εσύ είσαι εκεί"
+          }
         }
       }
     },
@@ -23631,6 +25029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle stunder med dig\nbliver til noget særligt."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Από όσους ξέρω,\nεσύ είσαι το καλύτερο δείγμα ανθρώπου"
           }
         }
       }
@@ -23733,6 +25137,12 @@
             "state" : "translated",
             "value" : "Af alle, jeg kender, er du\nden allerfedeste. Ingen tvivl."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Και μόνο που υπάρχεις,\nεσύ αξίζεις ένα μεγάλο ευχαριστώ"
+          }
         }
       }
     },
@@ -23833,6 +25243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bare fordi du findes,\ner jeg taknemmelig hver dag."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στη μέρα μου\nεσύ είσαι πάντα το highlight"
           }
         }
       }
@@ -23935,6 +25351,12 @@
             "state" : "translated",
             "value" : "Dagens højdepunkt er, når du\nkommer forbi, og det er hver dag."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κάθε μέρα γίνεται ξεχωριστή\nεπειδή εσύ ήρθες στη ζωή μου"
+          }
         }
       }
     },
@@ -24035,6 +25457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hver dag bliver bedre, når du\ner i nærheden."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Φως μπαίνει στο δωμάτιο\nόποτε φτάνεις εσύ"
           }
         }
       }
@@ -24137,6 +25565,12 @@
             "state" : "translated",
             "value" : "Når jeg ser dig, bliver\nverden lysere, helt ærligt."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το πιο ωραίο δώρο\nτης ζωής μου είσαι εσύ"
+          }
         }
       }
     },
@@ -24237,6 +25671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Livets bedste gave er, at du\nfindes, og at jeg kender dig."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο κόσμος είναι ομορφότερος\nγιατί εσύ είσαι εδώ"
           }
         }
       }
@@ -24339,6 +25779,12 @@
             "state" : "translated",
             "value" : "Verden er smukkere, fordi du\ner en del af den."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μια μέρα χωρίς εσύ\nδεν μπορώ να τη φανταστώ"
+          }
         }
       }
     },
@@ -24439,6 +25885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En dag uden dig? Det kan\njeg slet ikke forestille mig."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σε κάθε λίστα μου\nεσύ είσαι πάντα το νούμερο ένα"
           }
         }
       }
@@ -24541,6 +25993,12 @@
             "state" : "translated",
             "value" : "I mit hjerte står du\npå førstepladsen for evigt."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν είσαι δίπλα μου, εσύ\nμε κάνεις να νιώθω ότι όλα γίνονται"
+          }
         }
       }
     },
@@ -24641,6 +26099,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Med dig ved min side tror jeg,\nat jeg kan alt."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κάθε μέρα ευχαριστώ\nτον κόσμο που υπάρχεις εσύ"
           }
         }
       }
@@ -24743,6 +26207,12 @@
             "state" : "translated",
             "value" : "Hver dag er jeg taknemmelig,\nfordi du er i mit liv."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ένα δικό σου χαμόγελο\nκαι η μέρα φτιάχνεται, εσύ μάγε"
+          }
         }
       }
     },
@@ -24843,6 +26313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dit smil slår enhver solnedgang,\nog det ved du godt."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η μεγαλύτερη ευλογία\nτης ζωής μου είσαι εσύ"
           }
         }
       }
@@ -24945,6 +26421,12 @@
             "state" : "translated",
             "value" : "Min største velsignelse er,\nat du er med på rejsen."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μόλις σε σκέφτομαι,\nη μέρα φωτίζεται, εσύ φταις"
+          }
         }
       }
     },
@@ -25045,6 +26527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tænker jeg på dig,\nbliver hele dagen god."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σπίτι μου πια\nείναι εκεί που βρίσκεσαι εσύ"
           }
         }
       }
@@ -25147,6 +26635,12 @@
             "state" : "translated",
             "value" : "Hos dig føler jeg mig hjemme,\nog det er du alene om."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όταν είσαι εδώ εσύ,\nόλα είναι στη θέση τους"
+          }
         }
       }
     },
@@ -25247,6 +26741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når du er der, er alt\nperfekt. Punktum."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η ιδανική μου εικόνα\nείναι ακριβώς εσύ"
           }
         }
       }
@@ -25349,6 +26849,12 @@
             "state" : "translated",
             "value" : "Min drømmepartner, det er dig,\nog nu står du her. Jackpot!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Λέω στην καρδιά μου «ηρέμησε»\nκαι εσύ την ξαναχαλάς"
+          }
         }
       }
     },
@@ -25449,6 +26955,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hver gang du går forbi, gør\nmit hjerte noget underligt."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Περπατώντας εσύ\nγράφεις ιστορία"
           }
         }
       }
@@ -25551,6 +27063,12 @@
             "state" : "translated",
             "value" : "En gående biografi, det er hvad\ndu er. Dit navn bliver husket."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στη γοητεία σου\nεσύ με νικάς κάθε φορά"
+          }
         }
       }
     },
@@ -25651,6 +27169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vil du have, at jeg falder for dig?\nJeg er allerede på vej ned."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σε κοιτάζω τόσο πολύ\nπου εσύ μου έφερες πόνο στον αυχένα"
           }
         }
       }
@@ -25753,6 +27277,12 @@
             "state" : "translated",
             "value" : "Jeg stirrer så meget på dig,\nat jeg får nakkesmerter."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κάθε φορά που εσύ\nχαμογελάς, ανεβαίνει ο σφυγμός μου"
+          }
         }
       }
     },
@@ -25853,6 +27383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hver gang du kommer forbi,\nstiger min puls med ti."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στα μάτια μου\nεσύ είσαι θρύλος"
           }
         }
       }
@@ -25955,6 +27491,12 @@
             "state" : "translated",
             "value" : "For mine øjne er du\net gammelt mesterværk, aldrig forgået."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κάθε μέρα που εσύ\nυπάρχεις, είναι η αγαπημένη μου"
+          }
         }
       }
     },
@@ -26055,6 +27597,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "På grund af dig er hver dag\nmin yndlingsdag."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ζωντανό θαύμα είσαι·\nτο ήξερες εσύ;"
           }
         }
       }
@@ -26157,6 +27705,12 @@
             "state" : "translated",
             "value" : "Et levende mirakel, det er\nhvad du er. Ikke mindre."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Με κοιτάς και όλα\nγίνονται αργή κίνηση, εσύ φταις"
+          }
         }
       }
     },
@@ -26257,6 +27811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når du kommer ind,\ngår verden i slowmotion."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Για μένα εσύ\nείσαι το χρυσό εισιτήριο"
           }
         }
       }
@@ -26359,6 +27919,12 @@
             "state" : "translated",
             "value" : "I mit liv får du altid\nVIP-adgang, uden kø."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τρέλα μου είναι να σε βλέπω·\nεσύ είσαι το highlight της μέρας"
+          }
         }
       }
     },
@@ -26459,6 +28025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "At se dig er mit dagligdags\nhøjdepunkt, uden at du ved det."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το καλύτερο περιεχόμενο\nπου έχω δει είσαι εσύ"
           }
         }
       }
@@ -26561,6 +28133,12 @@
             "state" : "translated",
             "value" : "Dig kigger jeg på som på\npremium-indhold, uden at slukke."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μαζί σου ο κόσμος\nείναι σε HD, εσύ το ξέρεις"
+          }
         }
       }
     },
@@ -26661,6 +28239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Takket være dig ser verden\nud i HD i dag."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η καλύτερη ώρα της ζωής μου\nείσαι εσύ"
           }
         }
       }
@@ -26763,6 +28347,12 @@
             "state" : "translated",
             "value" : "Min guldtime er altid, når\ndu er i nærheden."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το χαμόγελο έρχεται μόνο του\nόταν σε σκέφτομαι, εσύ φταις"
+          }
         }
       }
     },
@@ -26863,6 +28453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bare tanken om dig sætter gang i\nsmilet, og du ved det ikke engang."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πεντάστερο ξενοδοχείο\nείναι η καρδιά μου, και εσύ ο μόνιμος πελάτης"
           }
         }
       }
@@ -26965,6 +28561,12 @@
             "state" : "translated",
             "value" : "Mit hjerte er et luksushotel,\nog du har altid værelse der."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επειδή υπάρχεις εσύ,\nκάθε μέρα είναι ειδική ημέρα"
+          }
         }
       }
     },
@@ -27065,6 +28667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hver dag med dig er en fest,\nog du er æresgæst."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κύριο γεγονός της ζωής μου\nείσαι εσύ"
           }
         }
       }
@@ -27167,6 +28775,12 @@
             "state" : "translated",
             "value" : "Mit livs hovedbegivenhed? Det er dig,\nog du leverer hver gang."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Η καρδιά μου χορεύει\nόταν εσύ δίνεις ρυθμό"
+          }
         }
       }
     },
@@ -27267,6 +28881,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når du går forbi, danser\nmit hjerte med sig selv."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στα μάτια μου εσύ\nέχεις ανάλυση 4K"
           }
         }
       }
@@ -27369,6 +28989,12 @@
             "state" : "translated",
             "value" : "I mine øjne er du ikke HD,\nmen 4K. Ingen pixel er forkert."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο κόσμος λάμπει όταν σε κοιτάζω,\nεσύ τον φώτισες"
+          }
         }
       }
     },
@@ -27469,6 +29095,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Går jeg rundt med dig i tankerne,\nser verden altid lysere ud."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο μοναδικός VIP\nτης καρδιάς μου είσαι εσύ"
           }
         }
       }
@@ -27571,6 +29203,12 @@
             "state" : "translated",
             "value" : "Hjertets VVIP-lounge er reserveret\ntil dig og kun dig."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επειδή υπάρχεις εσύ,\nη μέρα γίνεται ξεχωριστή"
+          }
         }
       }
     },
@@ -27671,6 +29309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når du er med, bliver\ndagen lidt mere speciel."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το κρυφό μου χαρτί\nείσαι εσύ"
           }
         }
       }
@@ -27773,6 +29417,12 @@
             "state" : "translated",
             "value" : "Mit hemmelige trumfkort er dig,\nog du vinder hver gang."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το κέφι μου αναβαθμίζεται\nόταν σε σκέφτομαι, εσύ φταις"
+          }
         }
       }
     },
@@ -27873,6 +29523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tænker jeg på dig, opgraderes\nmit humør automatisk."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αίθουσα δόξας; Μπορεί\nεσύ να είσαι το πρώτο και μοναδικό όνομα"
           }
         }
       }
@@ -27975,6 +29631,12 @@
             "state" : "translated",
             "value" : "Hos mig sidder du på æresplads\ni hjertets hall of fame."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χάρη στο χαμόγελό σου\nεσύ έκανες τη ζωή μου έγχρωμη"
+          }
         }
       }
     },
@@ -28075,6 +29737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Med dig i livet er alt\ni fuld farve."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θρύλος όλων των εποχών\nείσαι εσύ, στα μάτια μου"
           }
         }
       }
@@ -28177,6 +29845,12 @@
             "state" : "translated",
             "value" : "I mine øjne er du alle tiders\nlegende, og det bliver du ved med."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ο χρόνος κάνει αργή κίνηση\nόταν περνάς εσύ μπροστά μου"
+          }
         }
       }
     },
@@ -28278,6 +29952,12 @@
             "state" : "translated",
             "value" : "Mit livs filmklip har dig i hovedrollen,\nog du vandt alle priserne."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το πολυτιμότερο πάσο\nτης ζωής μου είσαι εσύ"
+          }
         }
       }
     },
@@ -28378,6 +30058,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mit gratis adgangskort til lykken,\ndet er dig, og du er guld værd."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το πιο όμορφο ηλιοβασίλεμα;\nΓια μένα είναι όταν εσύ γυρίζεις και γελάς"
           }
         }
       }

@@ -97,3 +97,9 @@ Chyby i nápady pošli e-mailem či DM
 Nu kan du få roser på flere sprog
 Skriv til udvikleren fra indstillinger
 Fejl og forslag: mail eller Instagram
+
+### 앱스토어 (그리스어)
+
+Παινέματα πια σε πολλές γλώσσες
+Μήνυμα στον δημιουργό από τις ρυθμίσεις
+Σφάλματα και ιδέες: email ή Instagram

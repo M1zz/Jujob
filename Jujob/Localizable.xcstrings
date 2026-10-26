@@ -95,6 +95,12 @@
             "state" : "translated",
             "value" : "%lld dage"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld ημέρες"
+          }
         }
       }
     },
@@ -188,6 +194,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle 100 roser er set,\nog nu er du en sand mester!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Έζησες και τα 100 παινέματα·\nπλέον κατέχεις την τέχνη!"
           }
         }
       }
@@ -283,6 +295,12 @@
             "state" : "translated",
             "value" : "100 dage i træk med dagens ros!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 ημέρες στη σειρά με παινέματα!"
+          }
         }
       }
     },
@@ -376,6 +394,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 dages mirakel! Din udholdenhed\nhar ændret verden!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θαύμα 100 ημερών! Η επιμονή σου\nάλλαξε τον κόσμο!"
           }
         }
       }
@@ -471,6 +495,12 @@
             "state" : "translated",
             "value" : "100 dage på rejse sammen,\nog du er simpelthen fantastisk!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ένα απίστευτο ταξίδι 100 ημερών μαζί,\nκαι εσύ είσαι σπουδαίος άνθρωπος!"
+          }
         }
       }
     },
@@ -564,6 +594,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "15 min."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 λεπτά"
           }
         }
       }
@@ -659,6 +695,12 @@
             "state" : "translated",
             "value" : "30 min."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 λεπτά"
+          }
         }
       }
     },
@@ -752,6 +794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "30 dage i træk med dagens ros!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 ημέρες στη σειρά με παινέματα!"
           }
         }
       }
@@ -847,6 +895,12 @@
             "state" : "translated",
             "value" : "Hele 30 dage, og du bliver ved\nmed at komme forbi. Helt i top!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τόσες ημέρες χωρίς διακοπή·\nεσύ είσαι κορυφή!"
+          }
         }
       }
     },
@@ -940,6 +994,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle 50 roser er set,\nhvor er du bare dedikeret!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Είδες και τα 50 παινέματα·\nεσύ έχεις αληθινό πάθος!"
           }
         }
       }
@@ -1035,6 +1095,12 @@
             "state" : "translated",
             "value" : "5 min."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 λεπτά"
+          }
         }
       }
     },
@@ -1129,6 +1195,12 @@
             "state" : "translated",
             "value" : "7 dage i træk med dagens ros!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7 ημέρες στη σειρά με παινέματα!"
+          }
         }
       }
     },
@@ -1222,6 +1294,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En hel uge sammen,\nlad os blive ved!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μια εβδομάδα μαζί·\nνα συνεχίσουμε έτσι!"
           }
         }
       }
@@ -1323,6 +1401,12 @@
             "state" : "translated",
             "value" : "Gendan køb"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επαναφορά αγορών"
+          }
         }
       }
     },
@@ -1422,6 +1506,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vælg en kategori"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επιλογή κατηγορίας"
           }
         }
       }
@@ -1523,6 +1613,12 @@
             "state" : "translated",
             "value" : "Vælg en skrifttype"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επιλογή γραμματοσειράς"
+          }
         }
       }
     },
@@ -1622,6 +1718,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vejledning"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Οδηγός"
           }
         }
       }
@@ -1723,6 +1825,12 @@
             "state" : "translated",
             "value" : "anonym"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ανώνυμος"
+          }
         }
       }
     },
@@ -1823,6 +1931,12 @@
             "state" : "translated",
             "value" : "premium"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium"
+          }
         }
       }
     },
@@ -1920,6 +2034,12 @@
             "state" : "translated",
             "value" : "Kontakt udvikleren"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επικοινωνία με τον δημιουργό"
+          }
         }
       }
     },
@@ -2013,6 +2133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Farveforløb"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χρώμα διαβάθμισης"
           }
         }
       }
@@ -2108,6 +2234,12 @@
             "state" : "translated",
             "value" : "Tekstfarve"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χρώμα κειμένου"
+          }
         }
       }
     },
@@ -2201,6 +2333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vælg humør"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επιλογή διάθεσης"
           }
         }
       }
@@ -2296,6 +2434,12 @@
             "state" : "translated",
             "value" : "Nedtur"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κακή διάθεση"
+          }
         }
       }
     },
@@ -2389,6 +2533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jeg finder en ros, der passer\ntil dit humør og din situation!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θα διαλέξω το παίνεμα\nπου ταιριάζει στη διάθεσή σου!"
           }
         }
       }
@@ -2484,6 +2634,12 @@
             "state" : "translated",
             "value" : "Mit overblik"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα στατιστικά μου"
+          }
         }
       }
     },
@@ -2578,6 +2734,12 @@
             "state" : "translated",
             "value" : "Mine roser"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα παινέματά μου"
+          }
         }
       }
     },
@@ -2671,6 +2833,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Næste ros"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επόμενο παίνεμα"
           }
         }
       }
@@ -2767,6 +2935,12 @@
             "state" : "translated",
             "value" : "du"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "εσύ"
+          }
         }
       }
     },
@@ -2860,6 +3034,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Husk lige, at du er\nmere end god nok!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αξίζεις πολλά·\nεσύ είσαι ξεχωριστός άνθρωπος!"
           }
         }
       }
@@ -2955,6 +3135,12 @@
             "state" : "translated",
             "value" : "Før date"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πριν το ραντεβού"
+          }
         }
       }
     },
@@ -3048,6 +3234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Motivation"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κίνητρο"
           }
         }
       }
@@ -3143,6 +3335,12 @@
             "state" : "translated",
             "value" : "Tilfældig"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τυχαίο"
+          }
         }
       }
     },
@@ -3236,6 +3434,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tryk på stjernen og gem\nde roser, du bedst kan lide!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πάτα το αστέρι και κράτα\nτα παινέματα που αγαπάς!"
           }
         }
       }
@@ -3331,6 +3535,12 @@
             "state" : "translated",
             "value" : "Elsk dig selv hver dag"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αγαπώ τον εαυτό μου κάθε μέρα"
+          }
         }
       }
     },
@@ -3424,6 +3634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Før jobsamtale"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πριν τη συνέντευξη"
           }
         }
       }
@@ -3519,6 +3735,12 @@
             "state" : "translated",
             "value" : "Forhåndsvisning"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προεπισκόπηση"
+          }
         }
       }
     },
@@ -3612,6 +3834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Baggrund"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ρυθμίσεις φόντου"
           }
         }
       }
@@ -3707,6 +3935,12 @@
             "state" : "translated",
             "value" : "Baggrundsbillede"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εικόνα φόντου"
+          }
         }
       }
     },
@@ -3800,6 +4034,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "100 dage!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100 ημέρες!"
           }
         }
       }
@@ -3895,6 +4135,12 @@
             "state" : "translated",
             "value" : "100 dage i træk, og du er her stadig.\nIngen er mere værd end dig!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εκατό μέρες κάθε μέρα εδώ·\nεσύ είσαι ό,τι πιο πολύτιμο!"
+          }
         }
       }
     },
@@ -3988,6 +4234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fejlrapporter og forslag er meget velkomne."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αναφορές σφαλμάτων και ιδέες είναι ευπρόσδεκτες."
           }
         }
       }
@@ -4083,6 +4335,12 @@
             "state" : "translated",
             "value" : "Avancerede indstillinger"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σύνθετες ρυθμίσεις"
+          }
         }
       }
     },
@@ -4176,6 +4434,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Opdateringsinterval"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συχνότητα ανανέωσης"
           }
         }
       }
@@ -4271,6 +4535,12 @@
             "state" : "translated",
             "value" : "Før eksamen"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πριν τις εξετάσεις"
+          }
         }
       }
     },
@@ -4364,6 +4634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Morgen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πρωί"
           }
         }
       }
@@ -4459,6 +4735,12 @@
             "state" : "translated",
             "value" : "Rul ned, til du finder appens navn.\n\"Dagens Ros\""
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κύλισε μέχρι να βρεις το όνομα της εφαρμογής.\n«Το Παίνεμα της Ημέρας»"
+          }
         }
       }
     },
@@ -4552,6 +4834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Præstationer"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επιτεύγματα"
           }
         }
       }
@@ -4647,6 +4935,12 @@
             "state" : "translated",
             "value" : "Stribe"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σερί ημερών"
+          }
         }
       }
     },
@@ -4740,6 +5034,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvordan har du det i dag?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πώς νιώθεις σήμερα;"
           }
         }
       }
@@ -4835,6 +5135,12 @@
             "state" : "translated",
             "value" : "Vær dig selv i dag,\nfor det er det bedste!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Και σήμερα όπως πάντα εσύ·\nαυτό είναι το καλύτερο!"
+          }
         }
       }
     },
@@ -4928,6 +5234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dagens Ros"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το Παίνεμα της Ημέρας"
           }
         }
       }
@@ -5023,6 +5335,12 @@
             "state" : "translated",
             "value" : "Højre"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεξιά"
+          }
         }
       }
     },
@@ -5116,6 +5434,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvem har taget modet fra vores ven?!\nVælg et opmuntrende ord til dig selv!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ποιος πείραξε το παιδί μου;\nΔιάλεξε μια κουβέντα για να τονωθείς!"
           }
         }
       }
@@ -5211,6 +5535,12 @@
             "state" : "translated",
             "value" : "Venstre"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αριστερά"
+          }
         }
       }
     },
@@ -5304,6 +5634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Før træning"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πριν την προπόνηση"
           }
         }
       }
@@ -5399,6 +5735,12 @@
             "state" : "translated",
             "value" : "Finjuster widgettens udseende og skrifttype"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ρύθμισε με ακρίβεια την όψη και τη γραμματοσειρά του widget"
+          }
         }
       }
     },
@@ -5492,6 +5834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widget-indstillinger"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ρυθμίσεις widget"
           }
         }
       }
@@ -5587,6 +5935,12 @@
             "state" : "translated",
             "value" : "Brug denne ros"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χρήση αυτού του παινέματος"
+          }
         }
       }
     },
@@ -5680,6 +6034,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Navn"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Όνομα"
           }
         }
       }
@@ -5775,6 +6135,12 @@
             "state" : "translated",
             "value" : "Indstil navn"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ορισμός ονόματος"
+          }
         }
       }
     },
@@ -5868,6 +6234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hvad hedder du?"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πες μου το όνομά σου!"
           }
         }
       }
@@ -5963,6 +6335,12 @@
             "state" : "translated",
             "value" : "Skriv dit navn"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γράψε το όνομά σου"
+          }
         }
       }
     },
@@ -6056,6 +6434,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skriv en e-mail"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Επικοινωνία με email"
           }
         }
       }
@@ -6151,6 +6535,12 @@
             "state" : "translated",
             "value" : "Vælg en widgetstørrelse og tryk på \"Tilføj widget\"."
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τώρα διάλεξε μέγεθος και πάτα «Προσθήκη widget»."
+          }
         }
       }
     },
@@ -6244,6 +6634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instagram-DM (@lee25_ios)"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μήνυμα στο Instagram (@lee25_ios)"
           }
         }
       }
@@ -6339,6 +6735,12 @@
             "state" : "translated",
             "value" : "Før arbejde"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πριν τη δουλειά"
+          }
         }
       }
     },
@@ -6432,6 +6834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En uge!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μία εβδομάδα!"
           }
         }
       }
@@ -6527,6 +6935,12 @@
             "state" : "translated",
             "value" : "En hel uge i træk,\nog jeg er virkelig stolt af dig!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μια εβδομάδα χωρίς διακοπή·\nνιώθω περηφάνια για σένα!"
+          }
         }
       }
     },
@@ -6620,6 +7034,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selvtillid"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αυτοπεποίθηση"
           }
         }
       }
@@ -6715,6 +7135,12 @@
             "state" : "translated",
             "value" : "Aften"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βράδυ"
+          }
         }
       }
     },
@@ -6808,6 +7234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gem"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποθήκευση"
           }
         }
       }
@@ -6903,6 +7335,12 @@
             "state" : "translated",
             "value" : "Foreslået af"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πρότεινε"
+          }
         }
       }
     },
@@ -6996,6 +7434,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stormester i ros"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μέγας Μάστορας Παινεμάτων"
           }
         }
       }
@@ -7091,6 +7535,12 @@
             "state" : "translated",
             "value" : "Rosmester"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μάστορας Παινεμάτων"
+          }
         }
       }
     },
@@ -7184,6 +7634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ros-widget"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget παινεμάτων"
           }
         }
       }
@@ -7279,6 +7735,12 @@
             "state" : "translated",
             "value" : "Der, hvor der står \"du\",\nsætter jeg dit navn ind!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Θα βάλω το όνομά σου στα παινέματα\nστη θέση του «εσύ»!"
+          }
         }
       }
     },
@@ -7372,6 +7834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hver gang du læser en ros,\ngemmes den automatisk!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μόλις δεις ένα παίνεμα,\nκαταγράφεται αυτόματα!"
           }
         }
       }
@@ -7467,6 +7935,12 @@
             "state" : "translated",
             "value" : "Midten"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κέντρο"
+          }
         }
       }
     },
@@ -7560,6 +8034,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Favoritter"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αγαπημένα"
           }
         }
       }
@@ -7655,6 +8135,12 @@
             "state" : "translated",
             "value" : "Ingen favoritter endnu"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δεν έχεις αγαπημένα ακόμη"
+          }
         }
       }
     },
@@ -7748,6 +8234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I alt 100 roser set!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Είδες συνολικά 100 παινέματα!"
           }
         }
       }
@@ -7843,6 +8335,12 @@
             "state" : "translated",
             "value" : "I alt 50 roser set!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Είδες συνολικά 50 παινέματα!"
+          }
         }
       }
     },
@@ -7936,6 +8434,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dage i alt"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σύνολο ημερών"
           }
         }
       }
@@ -8031,6 +8535,12 @@
             "state" : "translated",
             "value" : "Bedste stribe"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ρεκόρ"
+          }
         }
       }
     },
@@ -8124,6 +8634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "På vej til arbejde"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στον δρόμο για τη δουλειά"
           }
         }
       }
@@ -8219,6 +8735,12 @@
             "state" : "translated",
             "value" : "På vej hjem"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Στον δρόμο για το σπίτι"
+          }
         }
       }
     },
@@ -8312,6 +8834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skrifttype"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γραμματοσειρά"
           }
         }
       }
@@ -8407,6 +8935,12 @@
             "state" : "translated",
             "value" : "Skriftindstillinger"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ρυθμίσεις γραμματοσειράς"
+          }
         }
       }
     },
@@ -8500,6 +9034,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En måned!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ένας μήνας!"
           }
         }
       }
@@ -8595,6 +9135,12 @@
             "state" : "translated",
             "value" : "En hel måned sammen,\nog du er helt særlig!"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ένας ολόκληρος μήνας μαζί·\nεσύ είσαι πολύ ξεχωριστός άνθρωπος!"
+          }
         }
       }
     },
@@ -8688,6 +9234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Linjeafstand"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Διάστιχο"
           }
         }
       }
@@ -8783,6 +9335,12 @@
             "state" : "translated",
             "value" : "Nuværende stribe"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τρέχον σερί"
+          }
         }
       }
     },
@@ -8876,6 +9434,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hold fingeren på hjemmeskærmen, til ikonerne ryster, og tryk på ➕ øverst i hjørnet."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κράτα πατημένη την αρχική οθόνη και πάτα το ➕ πάνω αριστερά ή δεξιά."
           }
         }
       }
@@ -8971,6 +9535,12 @@
             "state" : "translated",
             "value" : "Historik"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ιστορικό"
+          }
         }
       }
     },
@@ -9064,6 +9634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Historikken er tom"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Το ιστορικό είναι άδειο"
           }
         }
       }
@@ -9159,6 +9735,12 @@
             "state" : "translated",
             "value" : "Hygge"
           }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Χαλάρωση"
+          }
         }
       }
     },
@@ -9252,6 +9834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Når det er hårdt"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Δύσκολη στιγμή"
           }
         }
       }
