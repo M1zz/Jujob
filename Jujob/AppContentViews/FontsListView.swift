@@ -16,18 +16,22 @@ struct FontsListView: View {
         NavigationView {
             List {
                 ForEach(0..<manager.fonts.count, content: { index in
-                    HStack {
-                        Text(manager.fonts[index]).font(.custom(manager.fonts[index], size: 22))
-                        Spacer()
-                        Image(systemName: manager.selectedFont == manager.fonts[index] ? "largecircle.fill.circle" : "circle")
-                            .resizable().aspectRatio(contentMode: .fit)
-                            .frame(width: 25)
-                    }
-                    .contentShape(Rectangle())
-                    .onTapGesture(perform: {
+                    Button {
                         presentation.wrappedValue.dismiss()
                         manager.selectedFont = manager.fonts[index]
-                    })
+                    } label: {
+                        HStack {
+                            Text(manager.fonts[index]).font(.custom(manager.fonts[index], size: 22, relativeTo: .title2))
+                            Spacer()
+                            Image(systemName: manager.selectedFont == manager.fonts[index] ? "largecircle.fill.circle" : "circle")
+                                .resizable().aspectRatio(contentMode: .fit)
+                                .frame(width: 25)
+                                .accessibilityHidden(true)
+                        }
+                        .contentShape(Rectangle())
+                    }
+                    .buttonStyle(.plain)
+                    .accessibilityAddTraits(manager.selectedFont == manager.fonts[index] ? .isSelected : [])
                 })
             }
             .environment(\.defaultMinListRowHeight, 50)

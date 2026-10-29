@@ -1083,3 +1083,15 @@ Fazlasıyla, hem de gereğinden fazla pohpohlayan bir widget uygulaması. Ana ek
 
 Kişisel veri toplamıyoruz. İsmin ve favorilerin gibi bilgiler yalnızca cihazında kalır.
 Hata bildirimi ve önerilerini ayarlar ekranından e-posta veya Instagram üzerinden gönderebilirsin.
+
+## 손쉬운 사용
+
+<!-- DeployBar 가 App Store Connect '앱의 손쉬운 사용' 에 올린다. 실제로 확인한 것만 적는다. -->
+
+### iPhone
+voiceOver
+voiceControl
+largerText
+darkInterface
+differentiateWithoutColor
+reducedMotion

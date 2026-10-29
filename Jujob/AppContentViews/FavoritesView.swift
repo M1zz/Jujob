@@ -45,6 +45,7 @@ struct FavoritesView: View {
                         Image(systemName: "xmark.circle.fill")
                             .foregroundColor(.white)
                     }
+                    .accessibilityLabel(Text("닫기"))
                 }
             }
         }
@@ -55,6 +56,7 @@ struct FavoritesView: View {
             Image(systemName: "star.fill")
                 .font(.system(size: 60))
                 .foregroundColor(.yellow)
+                .accessibilityHidden(true)
 
             Text("즐겨찾기가 비어있어요")
                 .font(.title2)
@@ -77,7 +79,7 @@ struct FavoriteQuoteCard: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 12) {
             Text(quoteText)
-                .font(.system(size: 18))
+                .font(.system(.title3))
                 .foregroundColor(.white)
                 .multilineTextAlignment(.leading)
 
@@ -91,7 +93,7 @@ struct FavoriteQuoteCard: View {
                     }
                 }) {
                     Label("이 주접 사용", systemImage: "checkmark.circle")
-                        .font(.system(size: 14))
+                        .font(.system(.subheadline))
                         .foregroundColor(.blue)
                 }
 
@@ -101,6 +103,8 @@ struct FavoriteQuoteCard: View {
                     Image(systemName: "star.fill")
                         .foregroundColor(.yellow)
                 }
+                .accessibilityLabel(Text("즐겨찾기"))
+                .accessibilityAddTraits(.isSelected)
             }
         }
         .padding()

@@ -20,15 +20,19 @@ struct LocalPhotoGallery: View {
                 ForEach(0..<manager.localImages.count, id: \.self, content: { row in
                     HStack(spacing: 20) {
                         ForEach(0..<manager.localImages[row].count, id: \.self, content: { item in
-                            Image(uiImage: manager.localImages[row][item])
-                                .resizable().aspectRatio(contentMode: .fill)
-                                .frame(width: UIScreen.main.bounds.width/2 - 30, height: UIScreen.main.bounds.width/2)
-                                .clipped()
-                                .cornerRadius(20)
-                                .onTapGesture(perform: {
-                                    manager.backgroundImageName = manager.localImages[row][item].accessibilityIdentifier!
-                                    presentationMode.wrappedValue.dismiss()
-                                })
+                            Button {
+                                manager.backgroundImageName = manager.localImages[row][item].accessibilityIdentifier!
+                                presentationMode.wrappedValue.dismiss()
+                            } label: {
+                                Image(uiImage: manager.localImages[row][item])
+                                    .resizable().aspectRatio(contentMode: .fill)
+                                    .frame(width: UIScreen.main.bounds.width/2 - 30, height: UIScreen.main.bounds.width/2)
+                                    .clipped()
+                                    .cornerRadius(20)
+                            }
+                            .buttonStyle(.plain)
+                            // 사진에 이름이 없어 "배경이미지 3" 처럼 순서로 부른다
+                            .accessibilityLabel(Text("배경이미지") + Text(verbatim: " \(row * 2 + item + 1)"))
                         })
                     }
                 })

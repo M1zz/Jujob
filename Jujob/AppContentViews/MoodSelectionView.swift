@@ -53,6 +53,7 @@ struct MoodSelectionView: View {
                             .foregroundColor(.white)
                             .font(.title2)
                     }
+                    .accessibilityLabel(Text("닫기"))
                 }
             }
         }
@@ -61,11 +62,12 @@ struct MoodSelectionView: View {
     private var HeaderSection: some View {
         VStack(spacing: 10) {
             Text("오늘 기분이 어때요?")
-                .font(.system(size: 28, weight: .bold))
+                .font(.system(.title, weight: .bold))
+                .accessibilityAddTraits(.isHeader)
                 .foregroundColor(.white)
 
             Text("기분이나 상황에 맞는\n주접을 골라드릴게요!")
-                .font(.system(size: 16))
+                .font(.system(.callout))
                 .foregroundColor(.gray)
                 .multilineTextAlignment(.center)
         }
@@ -123,13 +125,16 @@ struct CategoryCard: View {
             VStack(spacing: 12) {
                 Text(categoryEmoji)
                     .font(.system(size: 40))
+                    .accessibilityHidden(true)
 
                 Text(category.displayName)
-                    .font(.system(size: 16, weight: .semibold))
+                    .font(.system(.callout, weight: .semibold))
                     .foregroundColor(.white)
+                    .multilineTextAlignment(.center)
             }
             .frame(maxWidth: .infinity)
-            .frame(height: 120)
+            .frame(minHeight: 120)
+            .padding(.vertical, 4)
             .background(
                 RoundedRectangle(cornerRadius: 20)
                     .fill(
@@ -152,6 +157,7 @@ struct CategoryCard: View {
             )
             .shadow(color: isSelected ? categoryColor.opacity(0.5) : Color.clear, radius: 10, x: 0, y: 5)
         }
+        .accessibilityAddTraits(isSelected ? .isSelected : [])
     }
 }
 

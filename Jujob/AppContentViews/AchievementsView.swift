@@ -39,6 +39,7 @@ struct AchievementsView: View {
                         Image(systemName: "xmark.circle.fill")
                             .foregroundColor(.white)
                     }
+                    .accessibilityLabel(Text("닫기"))
                 }
             }
         }
@@ -47,7 +48,8 @@ struct AchievementsView: View {
     private var StreakSection: some View {
         VStack(spacing: 15) {
             Text("연속 기록")
-                .font(.system(size: 22, weight: .bold))
+                .font(.system(.title2, weight: .bold))
+                .accessibilityAddTraits(.isHeader)
                 .foregroundColor(.white)
                 .frame(maxWidth: .infinity, alignment: .leading)
 
@@ -84,7 +86,8 @@ struct AchievementsView: View {
     private var AchievementsSection: some View {
         VStack(spacing: 15) {
             Text("업적")
-                .font(.system(size: 22, weight: .bold))
+                .font(.system(.title2, weight: .bold))
+                .accessibilityAddTraits(.isHeader)
                 .foregroundColor(.white)
                 .frame(maxWidth: .infinity, alignment: .leading)
 
@@ -106,17 +109,19 @@ struct StreakCard: View {
             Image(systemName: icon)
                 .font(.system(size: 30))
                 .foregroundColor(color)
+                .accessibilityHidden(true)
 
             Text(value)
-                .font(.system(size: 28, weight: .bold))
+                .font(.system(.title, weight: .bold))
                 .foregroundColor(.white)
 
             Text(title)
-                .font(.system(size: 14))
+                .font(.system(.subheadline))
                 .foregroundColor(.gray)
         }
         .frame(maxWidth: .infinity)
         .padding(.vertical, 20)
+        .accessibilityElement(children: .combine)
         .background(
             RoundedRectangle(cornerRadius: 15)
                 .fill(Color(#colorLiteral(red: 0.1764705926, green: 0.1921568662, blue: 0.2078431398, alpha: 1)))
@@ -148,16 +153,16 @@ struct AchievementCard: View {
 
             VStack(alignment: .leading, spacing: 5) {
                 Text(achievement.title)
-                    .font(.system(size: 18, weight: .bold))
+                    .font(.system(.title3, weight: .bold))
                     .foregroundColor(achievement.isUnlocked ? .white : .gray)
 
                 Text(achievement.description)
-                    .font(.system(size: 14))
+                    .font(.system(.subheadline))
                     .foregroundColor(.gray)
 
                 if achievement.isUnlocked, let date = formattedDate {
                     Text(date)
-                        .font(.system(size: 12))
+                        .font(.system(.caption))
                         .foregroundColor(.blue)
                 }
             }
@@ -166,7 +171,7 @@ struct AchievementCard: View {
 
             if !achievement.isUnlocked {
                 Text("\(achievement.requirement)일")
-                    .font(.system(size: 14))
+                    .font(.system(.subheadline))
                     .foregroundColor(.gray)
             }
         }
@@ -179,6 +184,7 @@ struct AchievementCard: View {
             RoundedRectangle(cornerRadius: 15)
                 .stroke(achievement.isUnlocked ? Color.yellow.opacity(0.5) : Color.clear, lineWidth: 2)
         )
+        .accessibilityElement(children: .combine)
     }
 }
 

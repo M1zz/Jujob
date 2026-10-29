@@ -41,6 +41,7 @@ struct UserNameSettingView: View {
                         Image(systemName: "xmark.circle.fill")
                             .foregroundColor(.white)
                     }
+                    .accessibilityLabel(Text("닫기"))
                 }
             }
             .onAppear {
@@ -54,13 +55,15 @@ struct UserNameSettingView: View {
             Image(systemName: "person.circle.fill")
                 .font(.system(size: 80))
                 .foregroundColor(.blue)
+                .accessibilityHidden(true)
 
             Text("이름을 알려주세요!")
-                .font(.system(size: 24, weight: .bold))
+                .font(.system(.title2, weight: .bold))
+                .accessibilityAddTraits(.isHeader)
                 .foregroundColor(.white)
 
             Text("주접에서 '당신' 대신\n이름을 넣어드릴게요!")
-                .font(.system(size: 16))
+                .font(.system(.callout))
                 .foregroundColor(.gray)
                 .multilineTextAlignment(.center)
         }
@@ -69,11 +72,12 @@ struct UserNameSettingView: View {
     private var InputSection: some View {
         VStack(alignment: .leading, spacing: 10) {
             Text("이름")
-                .font(.system(size: 16, weight: .semibold))
+                .font(.system(.callout, weight: .semibold))
                 .foregroundColor(.white)
 
             TextField("이름을 입력하세요", text: $tempName)
-                .font(.system(size: 18))
+                .accessibilityLabel(Text("이름"))
+                .font(.system(.title3))
                 .foregroundColor(.white)
                 .padding()
                 .background(
@@ -90,7 +94,7 @@ struct UserNameSettingView: View {
     private var PreviewSection: some View {
         VStack(alignment: .leading, spacing: 10) {
             Text("미리보기")
-                .font(.system(size: 16, weight: .semibold))
+                .font(.system(.callout, weight: .semibold))
                 .foregroundColor(.white)
 
             VStack(spacing: 15) {
@@ -115,7 +119,7 @@ struct UserNameSettingView: View {
             presentationMode.wrappedValue.dismiss()
         }) {
             Text("저장하기")
-                .font(.system(size: 18, weight: .bold))
+                .font(.system(.title3, weight: .bold))
                 .foregroundColor(.white)
                 .frame(maxWidth: .infinity)
                 .padding()
@@ -143,7 +147,7 @@ struct PreviewQuote: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
             Text(displayText)
-                .font(.system(size: 16))
+                .font(.system(.callout))
                 .foregroundColor(.white)
                 .frame(maxWidth: .infinity, alignment: .leading)
         }

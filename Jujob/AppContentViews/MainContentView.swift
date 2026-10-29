@@ -100,6 +100,7 @@ struct MainContentView: View {
                         .font(.system(size: 22))
                         .foregroundColor(.gray)
                 })
+                .accessibilityLabel(Text("Tutorial"))
             }
             .padding()
             Spacer()
@@ -111,6 +112,7 @@ struct MainContentView: View {
         VStack {
             Text("오늘의 주접")
                 .font(.largeTitle).bold()
+                .accessibilityAddTraits(.isHeader)
             Text("왜 우리애 기죽이고 그래요!\n스스로를 격려해 줄 한마디를 골라주세요!")
                 .font(.headline)
                 .foregroundColor(.secondary)
@@ -142,19 +144,21 @@ struct MainContentView: View {
             // 헤더 + 카테고리 배지
             HStack {
                 Text(String(localized: "내 주접 관리").uppercased())
-                    .font(.system(size: 15))
+                    .font(.system(.subheadline))
                     .fontWeight(.bold)
                     .padding(.leading, 15)
                     .foregroundColor(Color(#colorLiteral(red: 0.9488552213, green: 0.9487094283, blue: 0.9693081975, alpha: 1)))
+                    .accessibilityAddTraits(.isHeader)
 
                 Spacer()
 
                 // 카테고리 배지
                 HStack(spacing: 6) {
                     Text(manager.currentQuoteCategory.emoji)
-                        .font(.system(size: 14))
+                        .font(.system(.subheadline))
+                        .accessibilityHidden(true)
                     Text(manager.currentQuoteCategory.displayName)
-                        .font(.system(size: 12, weight: .semibold))
+                        .font(.system(.caption, weight: .semibold))
                         .foregroundColor(.white)
                 }
                 .padding(.horizontal, 12)
@@ -230,7 +234,7 @@ struct MainContentView: View {
             VStack {
                 createSectionHeader(title: String(localized: "상세 설정"))
                 Text("위젯 모양과 글꼴을 세밀하게 조정하세요")
-                    .font(.system(size: 13))
+                    .font(.system(.footnote))
                     .foregroundColor(.gray)
                     .frame(maxWidth: .infinity, alignment: .leading)
                     .padding(.leading, 15)
@@ -250,8 +254,9 @@ struct MainContentView: View {
         VStack {
             HStack {
                 Text("배경 설정")
-                    .font(.system(size: 16, weight: .semibold))
+                    .font(.system(.callout, weight: .semibold))
                     .foregroundColor(.white)
+                    .accessibilityAddTraits(.isHeader)
                 Spacer()
             }
             .padding(.bottom, 10)
@@ -261,7 +266,7 @@ struct MainContentView: View {
                     ColorPicker("그라데이션 색", selection: $primaryColor).onChange(of: primaryColor) {  _, newValue in
                         manager.selectedBackgroundColor = [newValue, secondaryColor]
                     }
-                    ColorPicker("", selection: $secondaryColor).labelsHidden().onChange(of: secondaryColor) { _, newValue in
+                    ColorPicker("그라데이션 끝 색", selection: $secondaryColor).labelsHidden().onChange(of: secondaryColor) { _, newValue in
                         manager.selectedBackgroundColor = [primaryColor, newValue]
                     }
                 }
@@ -276,6 +281,7 @@ struct MainContentView: View {
                         Image(systemName: "trash.circle").resizable().aspectRatio(contentMode: .fit)
                     })
                     .frame(width: 25, height: 25)
+                    .accessibilityLabel(Text("배경이미지 삭제"))
                     .padding(.trailing, 15)
                     
                     Button(action: {
@@ -302,6 +308,7 @@ struct MainContentView: View {
                         .frame(width: 45, height: 30)
                         .contentShape(Rectangle()).clipped()
                     })
+                    .accessibilityLabel(Text("배경이미지"))
                 }
             }
             .padding()
@@ -315,8 +322,9 @@ struct MainContentView: View {
         VStack {
             HStack {
                 Text("폰트 설정")
-                    .font(.system(size: 16, weight: .semibold))
+                    .font(.system(.callout, weight: .semibold))
                     .foregroundColor(.white)
+                    .accessibilityAddTraits(.isHeader)
                 Spacer()
             }
             .padding(.bottom, 10)
@@ -337,6 +345,8 @@ struct MainContentView: View {
                     Spacer()
                         .frame(width: 70)
                     Slider(value: $manager.selectedTextLineSpacing, in: 0...40)
+                        .accessibilityLabel(Text("행간"))
+                        .accessibilityValue(Text(verbatim: "\(Int(manager.selectedTextLineSpacing))"))
                         
                 }
                 Divider().background(Color.white)
@@ -355,8 +365,9 @@ struct MainContentView: View {
         VStack {
             HStack {
                 Text("위젯 설정")
-                    .font(.system(size: 16, weight: .semibold))
+                    .font(.system(.callout, weight: .semibold))
                     .foregroundColor(.white)
+                    .accessibilityAddTraits(.isHeader)
                 Spacer()
             }
             .padding(.bottom, 10)
@@ -390,6 +401,7 @@ struct MainContentView: View {
                     .background(RoundedRectangle(cornerRadius: 8).foregroundColor(Color(#colorLiteral(red: 0.6965066386, green: 0.6965066386, blue: 0.6965066386, alpha: 1))))
                     .pickerStyle(SegmentedPickerStyle())
                     .labelsHidden()
+                    .accessibilityLabel(Text("새로고침 주기"))
                 }
             }
             .padding()
@@ -402,7 +414,7 @@ struct MainContentView: View {
         VStack {
             createSectionHeader(title: String(localized: "개발자에게 문의"))
             Text("버그 제보와 기능 제안을 환영합니다.")
-                .font(.system(size: 13))
+                .font(.system(.footnote))
                 .foregroundColor(.gray)
                 .frame(maxWidth: .infinity, alignment: .leading)
                 .padding(.leading, 15)
@@ -422,6 +434,7 @@ struct MainContentView: View {
                         Image(systemName: "chevron.right")
                             .font(.system(size: 13, weight: .semibold))
                             .foregroundColor(.gray)
+                            .accessibilityHidden(true)
                     }
                 }
                 Divider().background(Color.white)
@@ -452,7 +465,8 @@ struct MainContentView: View {
 extension MainContentView {
     private func createSectionHeader(title: String) -> some View {
         HStack {
-            Text(title.uppercased()).font(.system(size: 15)).fontWeight(.bold).padding(.leading, 15)
+            Text(title.uppercased()).font(.system(.subheadline)).fontWeight(.bold).padding(.leading, 15)
+                .accessibilityAddTraits(.isHeader)
             Spacer()
         }
         .foregroundColor(Color(#colorLiteral(red: 0.9488552213, green: 0.9487094283, blue: 0.9693081975, alpha: 1)))
@@ -472,13 +486,16 @@ struct FeatureButton: View {
                 Image(systemName: icon)
                     .font(.system(size: 24))
                     .foregroundColor(color)
+                    .accessibilityHidden(true)
 
                 Text(title)
-                    .font(.system(size: 13, weight: .medium))
+                    .font(.system(.footnote, weight: .medium))
                     .foregroundColor(.white)
+                    .multilineTextAlignment(.center)
             }
             .frame(maxWidth: .infinity)
-            .frame(height: 80)
+            .frame(minHeight: 80)
+            .padding(.vertical, 4)
             .background(
                 RoundedRectangle(cornerRadius: 12)
                     .fill(Color(#colorLiteral(red: 0.1764705926, green: 0.1921568662, blue: 0.2078431398, alpha: 1)))
@@ -503,6 +520,7 @@ struct TextAlignmentPicker: View {
             }
             .pickerStyle(SegmentedPickerStyle())
             .labelsHidden()
+            .accessibilityLabel(Text("텍스트 정렬"))
             .background(RoundedRectangle(cornerRadius: 8).foregroundColor(bgColor))
             .onChange(of: selection, perform: { value in
                 manager.contentAlignment = value == 0 ? .leading : value == 1 ? .center : .trailing

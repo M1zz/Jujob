@@ -45,6 +45,7 @@ struct HistoryView: View {
                         Image(systemName: "xmark.circle.fill")
                             .foregroundColor(.white)
                     }
+                    .accessibilityLabel(Text("닫기"))
                 }
             }
         }
@@ -55,6 +56,7 @@ struct HistoryView: View {
             Image(systemName: "clock.fill")
                 .font(.system(size: 60))
                 .foregroundColor(.blue)
+                .accessibilityHidden(true)
 
             Text("히스토리가 비어있어요")
                 .font(.title2)
@@ -84,7 +86,7 @@ struct HistoryQuoteCard: View {
         VStack(alignment: .leading, spacing: 12) {
             HStack {
                 Text(history.category)
-                    .font(.system(size: 12))
+                    .font(.system(.caption))
                     .padding(.horizontal, 10)
                     .padding(.vertical, 5)
                     .background(Color.blue.opacity(0.3))
@@ -94,12 +96,12 @@ struct HistoryQuoteCard: View {
                 Spacer()
 
                 Text(formattedDate)
-                    .font(.system(size: 12))
+                    .font(.system(.caption))
                     .foregroundColor(.gray)
             }
 
             Text(history.quoteText)
-                .font(.system(size: 16))
+                .font(.system(.callout))
                 .foregroundColor(.white)
                 .multilineTextAlignment(.leading)
 
@@ -113,7 +115,7 @@ struct HistoryQuoteCard: View {
                     }
                 }) {
                     Label("이 주접 사용", systemImage: "checkmark.circle")
-                        .font(.system(size: 14))
+                        .font(.system(.subheadline))
                         .foregroundColor(.blue)
                 }
 
@@ -123,6 +125,8 @@ struct HistoryQuoteCard: View {
                     Image(systemName: preferencesManager.isFavorite(quoteText: history.quoteText) ? "star.fill" : "star")
                         .foregroundColor(.yellow)
                 }
+                .accessibilityLabel(Text("즐겨찾기"))
+                .accessibilityAddTraits(preferencesManager.isFavorite(quoteText: history.quoteText) ? .isSelected : [])
             }
         }
         .padding()

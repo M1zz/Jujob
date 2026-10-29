@@ -43,16 +43,18 @@ struct TutorialContentView: View {
     private func TutorialStepView(step: TutorialStep) -> some View {
         VStack {
             Text(step.rawValue)
-                .font(.system(size: 25)).bold()
+                .font(.system(.title2)).bold()
                 .padding()
                 .foregroundColor(.white)
                 .background(Circle().foregroundColor(.blue))
             Text(step.description)
-                .font(.system(size: 20))
+                .font(.system(.title3))
                 .padding(30)
                 .multilineTextAlignment(.center)
                 .background(RoundedRectangle(cornerRadius: 20).foregroundColor(.secondary).opacity(0.15))
-        }.padding([.leading, .trailing, .bottom], 22)
+        }
+        .accessibilityElement(children: .combine)
+        .padding([.leading, .trailing, .bottom], 22)
     }
 }
 
