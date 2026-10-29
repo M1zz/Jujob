@@ -1,0 +1,467 @@
+{
+  "title": "Piropo del Día: el widget que te pone por las nubes",
+  "description": "Un widget en tu pantalla de inicio con un piropo exagerado nuevo cada 5, 15 o 30 minutos. 281 frases para cada estado, rachas y más. Pago único.",
+  "hero": {
+    "headline": "Cada vez que miras el móvil,\ntu fan número uno te espera",
+    "lead": "Piropo del Día es un widget que te halaga demasiado, y a propósito. Un piropo de mañana por la mañana, uno de entrevista antes de la entrevista. Cámbiale la fuente, los colores y el fondo a tu gusto.",
+    "cta": "Descárgala en el App Store",
+    "note": "Una sola compra y lo tienes todo. Sin suscripción ni anuncios."
+  },
+  "demo": {
+    "title": "Llévate un piropo ahora",
+    "lead": "Elige un estado y el widget te muestra un piropo para él. Toca Otro piropo y sale uno al azar de los 281.",
+    "next": "Otro piropo",
+    "note": "Son las frases reales de la app. En la app, el widget cambia solo cada 5, 15 o 30 minutos.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Mañana",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "Camino al trabajo",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Días duros",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Entrevista",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Antes de la cita",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "Vuelta a casa",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "El sol sale cada mañana\npara ver quién brilla más: tú.",
+      "Despierta, que hoy la luz\nmás potente de la casa eres tú.",
+      "Abres los ojos y el día\nya es tuyo. Imparable, tú.",
+      "Se levanta una leyenda\ny esa leyenda eres tú.",
+      "Ni el café despierta tanto\ncomo tú. En serio.",
+      "Suena el despertador y la\nestrella del día eres tú.",
+      "Lo más bonito del amanecer\nno es el sol: eres tú.",
+      "Sé tú, a tu aire:\nes lo mejor que le pasa al día.",
+      "Madrugar y encima brillar:\nesa combinación solo la tienes tú.",
+      "¿Buenos días? Qué va:\nmejores días, si estás tú.",
+      "Mejor plan para esta mañana:\nlo tienes tú, y nadie más.",
+      "Alerta de luz: ya amaneció\nporque has llegado tú.",
+      "Día completado con nota,\ny la mejor de la clase eres tú.",
+      "Cierras el día como lo abriste:\na lo grande, como solo tú.",
+      "Hoy lo diste todo. Quien merece\nun aplauso largo eres tú.",
+      "Con todo el cansancio, aguantaste\nel día como nadie. Un mito, tú.",
+      "Tu día valió la pena\nporque lo viviste tú.",
+      "Otro día más y sigues en pie.\nHéroe de lo cotidiano: tú.",
+      "Mira el cielo: miles de estrellas\ny ninguna como tú.",
+      "Anochece, pero la luz sigue\nencendida. La luz eres tú.",
+      "Gracias por el día, tú:\nsin ti habría sido uno cualquiera.",
+      "Hoy el mundo fue más bonito\nporque estabas tú.",
+      "De día, leyenda. De noche,\nleyenda. Siempre tú.",
+      "Un mal día no cuenta.\nLo que cuenta eres tú.",
+      "Esto pasará, y quien seguirá\nde pie, como siempre, eres tú.",
+      "Perfección no se pide, pero\nla más cercana eres tú.",
+      "Descansa si hace falta.\nIr a tu ritmo es de sabios, tú.",
+      "Más fuerte de lo que crees:\neso eres tú.",
+      "Todo pasa, también esto.\nY aquí seguirás tú, de pie.",
+      "Con el ánimo por los suelos\nvales oro igual, tú.",
+      "Sentir tristeza es normal.\nTodas tus emociones valen, tú.",
+      "¿Sabías que el diamante\nse forma bajo presión? Como tú.",
+      "De bajón o no, la persona\nmás valiosa del mundo eres tú.",
+      "Estar de bajón no cambia\nque el tesoro eres tú.",
+      "Hasta llorando brillas\ncomo una joya.",
+      "Que hoy cueste no cambia\nlo esencial: el milagro eres tú.",
+      "Hoy cuesta, pero lo lograrás:\nlo digo yo y lo sabes tú.",
+      "En los malos ratos se nota\nquién tiene casta: tú.",
+      "No te rindas. Fuerza de sobra\nla tienes tú.",
+      "Aguantar como lo haces\nes cosa de héroes, tú.",
+      "Los palos de hoy son abono:\nmañana la flor serás tú.",
+      "Aguanta más de lo imaginable\nquien, como tú, no se rinde.",
+      "Este mal rato será anécdota\ny quien la cuente, leyenda: tú.",
+      "Los diamantes brillan tras\nel pulido. Igual que tú.",
+      "¿Mal día? Aun así, lo mejor\nque he visto hoy eres tú.",
+      "Que sigas adelante es la\nesperanza de alguien, tú.",
+      "Con la moral por los suelos\nsigue habiendo luz: eres tú.",
+      "Hoy se puede con todo, y\nquien mejor lo sabe eres tú.",
+      "Confío en tu talento:\npara esto, el mejor eres tú.",
+      "Preparación lista: media\nvictoria ya es tuya, tú.",
+      "Lo que toque hoy tiene\nsolución, y la solución eres tú.",
+      "Tu ilusión iluminará el día\nentero, tú, farola humana.",
+      "¡Vamos! A lo grande,\ncomo siempre, tú.",
+      "Antes de empezar ya tenías\naire de profesional, tú.",
+      "¿Sin ganas de trabajar? Aun así\nrindes más que nadie: tú.",
+      "La oficina sube de nivel:\nel fichaje del día eres tú.",
+      "Verte trabajar es un\nespectáculo. La estrella, tú.",
+      "Aún no has empezado\ny ya vas ganando, tú.",
+      "Entrenar ya es un triunfo,\ny quien lo logra hoy eres tú.",
+      "Cuidarte cada día\nes de admirar, tú.",
+      "Nadie conoce tu cuerpo\ncomo lo conoces tú.",
+      "Solo por ponerte en marcha\nya mereces aplauso.",
+      "Sudar te sienta de lujo,\ntú, pura energía.",
+      "Tu salud es lo primero\ny nadie lo sabe como tú.",
+      "Sacar tiempo para ti\nes de campeones, como tú.",
+      "Con esa ropa deportiva\nsaldrías en una revista, tú.",
+      "El gimnasio se ilumina\ncuando quien entra eres tú.",
+      "Sudas y brillas a la vez.\n¿Quién lo hace así? Solo tú.",
+      "¿Alguien a quien el sudor\nle quede bien? Sí: tú.",
+      "Rumbo al trabajo, caminando\ncomo un profesional: tú.",
+      "Madrugar y salir a la calle\nmerece un aplauso, tú.",
+      "Otro día camino al trabajo\ny ya vas ganando, tú.",
+      "Cada paso que das\nvale oro, tú.",
+      "Hasta el trayecto es especial\nsi quien lo recorre eres tú.",
+      "Responsable y puntual:\nnadie cumple como tú.",
+      "El metro hoy es pasarela\ny la estrella del desfile eres tú.",
+      "Hasta en el autobús brillas, tú.\n¿Hoy toca sesión de fotos?",
+      "Verte camino al trabajo\nanima cualquier mañana, tú.",
+      "Caminar y verse tan bien:\ntalento que solo tienes tú.",
+      "¡Día cumplido! A casa a descansar,\nque lo mereces.",
+      "Salir del trabajo es un\nespectáculo si sales tú.",
+      "En el camino de vuelta\nsigues siendo lo mejor, tú.",
+      "Otro día resuelto sin dramas.\nTalento puro.",
+      "Ahora empieza tu tiempo.\nDisfrútalo a tope, tú.",
+      "Tras el trabajo, tu tiempo es\nsagrado. Mímate, tú.",
+      "Fin de la jornada: matrícula\nde honor para quien la ganó, tú.",
+      "Hasta de vuelta a casa\nbrillas, tú. Menudo día.",
+      "Al verte salir parece que\nel día valió la pena, tú.",
+      "Fue un día duro, pero\nsigues siendo de lo mejor, tú.",
+      "Has estudiado de sobra,\nasí que lo bordas, tú.",
+      "Tu esfuerzo nunca falla,\ny eso lo sabes mejor que tú.",
+      "Es normal tener nervios.\nLo tienes todo preparado, tú.",
+      "Un examen no mide lo que vales:\ntú vales mucho más.",
+      "Lo diste todo y eso ya\nes un aprobado. Matrícula, tú.",
+      "Si te lo propones, lo sacas.\nY tú siempre te lo propones.",
+      "Respira hondo y confía\nen todo lo que sabes, tú.",
+      "Suerte con el examen, que\ntú vas con preparación de sobra.",
+      "Cero preocupación: acertarás\nhasta lo que no estudiaste, tú.",
+      "¿Nervios? Aun así, la mejor cabeza\nde esa aula es la tuya, tú.",
+      "Al verte, hasta el folio del examen\nsusurrará: «ya aprobó», tú.",
+      "Ha llegado el momento\nde brillar, y tú lo sabes hacer.",
+      "Tu experiencia y tu ilusión\nson tu mejor carta, tú.",
+      "Si hay nervios, no pasa nada:\nlo que hay delante es de lo mejor, tú.",
+      "Cabeza alta, que tú vienes\ncon todo preparado.",
+      "Cuenta tu historia con orgullo:\nmaterial tienes de sobra, tú.",
+      "Una entrevista es conocerse.\nCalma, que de eso sabes tú.",
+      "Si esa empresa no te ficha,\nla pérdida es suya.",
+      "Dicen que tu currículum brilla,\npero el brillo de verdad eres tú.",
+      "Entras a la sala y el puesto\nya está en tu bolsillo, tú.",
+      "Tu primera impresión vale\nmedio contrato, y tú lo sabes.",
+      "Ojo, recursos humanos:\nla leyenda de hoy eres tú.",
+      "Hoy estás radiante,\ny no es el café: eres tú.",
+      "Tal como eres, ya resultas\nirresistible. Sí, tú.",
+      "Quien salga contigo ha\nganado la lotería, tú.",
+      "Con esa confianza seduces\nhasta al espejo, tú.",
+      "Tu sonrisa de hoy es tu mejor\narma de seducción, tú.",
+      "Tal cual eres: eso ya\nes un diez. Así de simple, tú.",
+      "Tu encanto es imposible de\nesconder, ni lo intentes, tú.",
+      "¿Cita hoy? A la otra persona\nle va a dar un vuelco el corazón.",
+      "Quien quede contigo ha tocado\nel premio gordo. ¿Lo sabes, tú?",
+      "Tu look es perfecto.\n¿Sesión de fotos o cita? Solo tú.",
+      "Con verte hoy, cualquiera\nse enamora un poquito, tú.",
+      "La cita ni ha empezado y\nya le has robado el corazón.",
+      "Puedes con ello, tú.\nEstoy aquí para animarte siempre.",
+      "Un pequeño paso es el inicio\nde un gran viaje, y lo das tú.",
+      "No te rindas: tus sueños\nse cumplirán, y tú ya lo sabes.",
+      "El esfuerzo de hoy es\nel éxito de mañana. Palabra.",
+      "Tu pasión puede cambiar\nel mundo. Sigue así, tú.",
+      "Fallar es parte del camino.\nInsiste, que tú puedes.",
+      "Tu potencial no tiene techo.\nSin límites, como tú.",
+      "A darlo todo hoy,\nque tú sabes cómo.",
+      "Verte esforzarte motiva\na más de uno, tú.",
+      "Todo va a salir bien,\nporque lo harás tú.",
+      "No te rindas: ya eres\nuna gran persona, tú.",
+      "¡Ánimo! Tienes lo que hay\nque tener, y de sobra, tú.",
+      "Quien conoce tu esfuerzo\nte aplaude. Y yo también, tú.",
+      "Vales muchísimo,\ncon todas las letras, tú.",
+      "Tal cual, la perfección\ntiene nombre: tú.",
+      "Que existas ya es algo\nespecial. Y existes tú.",
+      "Cabeza alta: una persona\ngenial eres tú.",
+      "Eres más fuerte de lo que\ncrees. Mucho más, tú.",
+      "Tu forma de ser es\ntu mayor brillo, tú.",
+      "Cree en ti: lo necesario\nlo tienes tú.",
+      "Eres una persona completa\ntal cual, tú.",
+      "Con tanta seguridad\neres lo más grande, tú.",
+      "Vales mucho más de\nlo que piensas, tú.",
+      "Ya lo haces muy bien,\nde verdad, y lo sabes tú.",
+      "Quien no ve tu encanto\nes que no tiene ojos, tú.",
+      "Hoy toca relajarse,\nsin prisas ni culpas, tú.",
+      "Un descanso lo necesita\ncualquiera, también tú.",
+      "No hacer nada es un plan\nperfecto hoy.",
+      "Tu bienestar es lo primero\ny tú lo sabes.",
+      "Poco a poco, a tu ritmo,\nllegas igual, tú.",
+      "Hoy es tu día: un tiempo\nsolo para ti, tú.",
+      "Descansar también es avanzar.\nSin culpa.",
+      "Descansar es un derecho.\nHoy, a relajarte, tú.",
+      "Relajarte tiene su encanto\ncasi tanto como tú.",
+      "Dedicarte un rato está más\nque bien, y lo mereces tú.",
+      "Hasta en pijama y en el sofá\nbrillas, tú.",
+      "Mientras descansas, sigues\nsiendo lo más bonito, tú.",
+      "Defectos tuyos: he buscado\ndos veces y nada. Error 404, tú.",
+      "¿El número Pi? Infinito,\nirracional y muy de nota. Igual que tú.",
+      "Si ser guapo fuera delito,\nla cadena perpetua llevaría tu nombre.",
+      "Test de personalidad: resultado\n«madre mía, qué maravilla». Eres tú.",
+      "No necesitas filtro: ya vienes\nen alta definición, tú.",
+      "Dicen que el dinero no da la\nfelicidad. Pero tú sí, y sin IVA.",
+      "Si fueras un cuento,\nserías el que nunca se acaba.",
+      "Perdona, se te ha caído algo:\nmi mandíbula al verte, tú.",
+      "No eres de este mundo.\nVienes de uno mejor.",
+      "Tu sonrisa tiene más «me gusta»\nque toda mi vida junta, tú.",
+      "¿Llevas mapa? Es que\nme pierdo en tu mirada.",
+      "Si esto es un sueño, que no\nme despierte nadie. Tan real: tú.",
+      "Mi Ctrl+Z de los días malos\nsiempre eres tú.",
+      "Grupo sanguíneo: A positivo.\nPura buena onda, como tú.",
+      "Eres tan guay que\nel hielo se pone celoso, tú.",
+      "¿Cuánto pesas? Oro, como mínimo.\nQuilates a tope, tú.",
+      "Tanto talento junto\ndebería tributar aparte, tú.",
+      "Si fueras un verbo, serías\n«brillar»: siempre en presente.",
+      "Si fueras un restaurante,\nhabría lista de espera de un año, tú.",
+      "Dicen que el amor es ciego,\npero le devuelves la vista.",
+      "Tu cara ya es patrimonio\nde la humanidad, tú.",
+      "Cancelen la gala: el premio\ngordo de este año ya tiene dueño: tú.",
+      "¿Sesión de fotos o es que\ncaminas así por la vida, tú?",
+      "Mi artista número uno,\nen bucle en mi cabeza: tú.",
+      "Quiero tu autógrafo\ntodos los días, tú.",
+      "Debuta ya: en mi corazón\nya eres cabeza de cartel, tú.",
+      "Número uno en mi lista\nsemana tras semana: tú.",
+      "Posa un momento: quiero\nuna foto tuya cada día, tú.",
+      "¿Vuelves? Mi corazón acaba\nde reiniciarse, tú.",
+      "¿Te grabo? Cada momento tuyo\nes de ver en bucle.",
+      "¿En un videoclip? Ya eres\nprotagonista de mi vida, tú.",
+      "¿Documental de tu vida?\nAl natural ganas a todos.",
+      "Siempre en el centro: donde\nvayas, brillas más que nadie, tú.",
+      "Premio a la cara del año.\nY de la década. Gana tú.",
+      "Si sales en un anuncio,\nvendes hasta lo que no existe.",
+      "Portada de revista cada mes:\nesa cara lo merece, tú.",
+      "¿Tu carisma es real? La calle\ncontigo ya es un escenario.",
+      "¿Cromos? Yo quiero la colección\ncompleta, tú.",
+      "¿Cuándo es el encuentro con fans?\nYo, a diario, tú.",
+      "Sube un vídeo bailando:\nmoverte ya es arte, tú.",
+      "Verte es como un tráiler,\ny el estreno favorito eres tú.",
+      "¿Gira mundial? Ya me has\nsacudido el corazón entero, tú.",
+      "Firma mi disco: eres\nedición limitada, tú.",
+      "Enciendo la linterna del móvil\ny te aplaudo toda la vida, tú.",
+      "Vas en ascenso, aunque\nsiempre fuiste de leyenda, tú.",
+      "Busco entradas para verte:\neres mi concierto diario.",
+      "¿Número uno? Lo eres\nen mi lista de éxitos, tú.",
+      "Bis, bis, bis: otra vez,\nque no me canso de verte, tú.",
+      "Hasta en las tomas falsas\nresultas de leyenda, tú.",
+      "Cambio de favorito:\nsin ti no veo a nadie más.",
+      "Me he hecho fan tuyo.\nDe por vida, tú.",
+      "Revelo mi favorito:\nni más ni menos que tú.",
+      "Compré todo el merchandising,\npero el mejor souvenir eres tú.",
+      "Fan para siempre: mi\nartista de cabecera eres tú.",
+      "Ya he elegido bando:\nel tuyo. Mi equipo eres tú.",
+      "Abro tu club de fans:\nel carnet número uno es mío, tú.",
+      "Hago de paparazzi: no quiero\nperderme ni un momento tuyo, tú.",
+      "Cualquier rato a tu lado\nes tiempo de oro, tú.",
+      "Pongo pancartas de cumpleaños:\nojalá cada día fuera el tuyo, tú.",
+      "Te aplaudiré siempre.\nSer tu fan es mi orgullo, tú.",
+      "Si el encanto cotizara en bolsa,\ntú serías el valor más alto.",
+      "Me haces latir el corazón\ncomo un bombo, tú.",
+      "Mirarte hace el mundo\nmás bonito, tú.",
+      "Mi vitamina diaria de\nfelicidad: tú.",
+      "Cuando sonríes, yo\nme alegro en cadena, tú.",
+      "La estrella más brillante\nque he visto: tú.",
+      "Cada día contigo es fiesta\ny el DJ eres tú.",
+      "Solo con oír tu voz\nse me arregla el humor, tú.",
+      "En mi vida, la mayor\nsuerte eres tú.",
+      "Gracias a ti sonrío hoy.\nSolo tú lo consigues.",
+      "Nadie es más valioso\npara mí que tú.",
+      "Se me escapa una sonrisa\ncada vez que apareces, tú.",
+      "Hay ruido en mi cabeza,\npero la calma eres tú.",
+      "El tiempo a tu lado\nsiempre es especial, tú.",
+      "De toda la gente que conozco,\nlo máximo eres tú.",
+      "Que existas, tú,\nya es motivo de gratitud.",
+      "Lo mejor de mi día\nsiempre eres tú.",
+      "Cada día es especial\nporque existes tú.",
+      "Si apareces, el mundo\nse enciende. Solo tú.",
+      "El mejor regalo de mi vida\neres tú, sin envoltorio.",
+      "El mundo es más bonito\ndesde que estás tú.",
+      "Un día sin ti da pereza.\nUn día contigo es fiesta, tú.",
+      "Imposible imaginar mi día\nsin la persona que eres tú.",
+      "En mi corazón hay un puesto\nde honor y su dueño eres tú.",
+      "Con alguien a mi lado, todo\nes posible. Ese alguien eres tú.",
+      "Doy gracias a diario\npor alguien como tú.",
+      "Tu sonrisa le gana\na cualquier cosa, tú.",
+      "La mayor bendición\nde mi vida eres tú.",
+      "Pensar en ti mejora el día.\nDe verdad, tú.",
+      "Mi hogar no es un lugar:\nes una persona, tú.",
+      "A tu lado cada momento\nes perfecto, tú.",
+      "Justo el tipo de persona\ncon el que soñaba: tú.",
+      "Me miras y mi corazón\nse vuelve loco, tú.",
+      "Una persona de libro de\nhistoria eres tú.",
+      "Tu encanto es un hechizo\ny yo caigo siempre, tú.",
+      "Mirarte tanto me va a\ndar tortícolis, tú.",
+      "Cada vez que te veo el\ncorazón sube de revoluciones, tú.",
+      "Mi película favorita\nde todas eres tú.",
+      "Cada día es el día del favorito\nsi estás tú.",
+      "Un milagro con patas\ny ese milagro eres tú.",
+      "Contigo el mundo va a\ncámara lenta, tú.",
+      "Tienes carnet VIP\nen mi vida, tú.",
+      "Verte es el momento\nmás top de mi rutina, tú.",
+      "Contenido premium\nde mi corazón: tú.",
+      "Tengo la vida en HD\ndesde que apareciste, tú.",
+      "La hora dorada de mi vida\neres tú.",
+      "Pienso en ti y sonrío\nsin querer. Culpa tuya, tú.",
+      "Mi hotel de cinco estrellas\nes tu abrazo, tú.",
+      "La carta ganadora\nde mi baraja eres tú.",
+      "Mi sitio favorito del\nmundo eres tú.",
+      "Un cambio de plan\na mejor: tú.",
+      "Quien lo tiene todo\ny no se da cuenta eres tú.",
+      "Mi lista de reproducción\nfavorita se llama «tú».",
+      "Por ti la vida\ntiene otro color, tú.",
+      "Mi evento principal\ndel año eres tú.",
+      "Mi nivel de felicidad\nsube cuando apareces, tú.",
+      "Mi salón de la fama\ntiene un solo nombre: tú.",
+      "Desde que estás tú\nla vida va a todo color.",
+      "Mi pase VIP a la felicidad\neres tú.",
+      "Mis ganas de verte\nvan en aumento, tú.",
+      "Si el cariño fuera dinero,\ntú serías mi banco."
+    ]
+  },
+  "problem": {
+    "title": "¿Quién es tu crítico más duro? ¿Tú?",
+    "text": "Camino al trabajo, antes de la entrevista, de vuelta a casa, la voz de tu cabeza no para de echarte la bronca. Piropo del Día se pone de tu lado desde la pantalla de inicio varias veces al día, un pelín más de la cuenta. En cuanto se te escapa una sonrisa, vuelve un poco de confianza."
+  },
+  "features": [
+    {
+      "title": "Un piropo para cada momento",
+      "text": "Elige entre 14 estados y situaciones como `Mañana`, `Camino al trabajo`, `Días duros`, `Entrevista` o `Antes de la cita`, y el piropo que encaja aparece en tu widget al momento. ¿No te decides? También está `Al azar`.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Guarda los que más te gusten",
+      "text": "Toca la estrella para guardarlo en Favoritos y repasa los anteriores en el Historial. Toca `Usar este piropo` y pasa directo a tu widget.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Entra cada día y suma",
+      "text": "Cada día que lo miras alarga tu racha. Al llegar a 7, 30 o 100 días seguidos, o a 50 y 100 días en total, desbloqueas un logro.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "Empieza en tres pasos",
+    "items": [
+      {
+        "title": "Elige tu estado",
+        "text": "Abre `Elige tu estado` y toca el que encaje ahora."
+      },
+      {
+        "title": "Personaliza el widget",
+        "text": "En Ajustes avanzados elige fuente, color del texto, fondo y frecuencia."
+      },
+      {
+        "title": "Ponlo en tu pantalla de inicio",
+        "text": "Mantén pulsada la pantalla de inicio, toca + y busca Piropo del Día."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Así puedes dejar el widget",
+    "rows": [
+      [
+        "Fuente",
+        "13 opciones, entre ellas Futura, Georgia y Marker Felt"
+      ],
+      [
+        "Color del texto",
+        "El que más te guste"
+      ],
+      [
+        "Fondo",
+        "Un degradado de dos colores o una de las fotos incluidas"
+      ],
+      [
+        "Alineación",
+        "Izquierda, centro o derecha"
+      ],
+      [
+        "Interlineado",
+        "Líneas más juntas o más separadas"
+      ],
+      [
+        "Frecuencia de actualización",
+        "Un piropo nuevo cada 5, 15 o 30 minutos"
+      ]
+    ],
+    "note": "El tamaño del widget lo eliges al añadirlo a la pantalla de inicio."
+  },
+  "pricing": {
+    "title": "Lo compras una vez y listo",
+    "free": {
+      "name": "La app",
+      "items": [
+        "281 piropos para 14 estados",
+        "Un widget de pantalla de inicio a tu estilo",
+        "Favoritos e Historial",
+        "Rachas y logros"
+      ]
+    },
+    "pro": {
+      "name": "Apoya al desarrollador",
+      "items": [
+        "Elige una propina pequeña, mediana o grande",
+        "No desbloquea nada. Es solo una forma de dar las gracias"
+      ],
+      "note": "Solo si te apetece y cuando te apetezca."
+    },
+    "note": "Sin suscripción, sin compras extra y sin anuncios."
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "items": [
+      {
+        "q": "¿Cómo añado el widget?",
+        "a": "Mantén pulsado un hueco libre de la pantalla de inicio hasta que los iconos se muevan, toca + arriba, busca Piropo del Día y elige un tamaño."
+      },
+      {
+        "q": "¿Cómo se elige el siguiente piropo?",
+        "a": "Al elegir un estado, un piropo para ese estado aparece al momento en tu widget. Después, el widget muestra uno al azar de los 281 con la frecuencia que elegiste. También puedes tocar `Otro piropo` en la app para pasar al siguiente."
+      },
+      {
+        "q": "¿Puedo cambiar la fuente o la frecuencia del widget?",
+        "a": "Sí. En Ajustes avanzados cambias la fuente, el color del texto, el fondo, la alineación, el interlineado y la frecuencia de actualización, que puede ser de 5, 15 o 30 minutos."
+      },
+      {
+        "q": "El widget no ha cambiado enseguida.",
+        "a": "iOS decide cuándo se redibujan los widgets, así que a veces va un poco por detrás de la frecuencia elegida. Abre la app y ciérrala, y el widget se actualiza."
+      },
+      {
+        "q": "¿Cómo funciona la racha?",
+        "a": "Cada día seguido que miras un piropo suma uno a tu racha. En `Mi racha` ves la racha actual, tu mejor marca, los días totales y tus logros."
+      },
+      {
+        "q": "Han desaparecido mis favoritos y el historial.",
+        "a": "Todo se guarda solo en tu dispositivo, así que no se conserva si borras la app o cambias de móvil. Si no la has borrado y aun así ha desaparecido, escríbenos un correo."
+      },
+      {
+        "q": "¿Se envían mis datos a algún sitio?",
+        "a": "No. La app no recoge datos personales. Tus favoritos y tu historial se quedan en tu dispositivo."
+      },
+      {
+        "q": "¿Cómo aviso de un error o propongo una idea?",
+        "a": "Desde `Contactar con el desarrollador` en la app, por correo o por mensaje directo en Instagram a @lee25_ios. Te respondemos en cuanto lo veamos."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Desde hoy, alguien de tu parte\nen la pantalla de inicio",
+    "cta": "Descárgala en el App Store"
+  },
+  "ui": {
+    "skip": "Ir al contenido",
+    "languages": "Idioma",
+    "privacy": "Privacidad",
+    "contact": "¿Dudas o sugerencias? Escríbenos a {email}."
+  }
+}

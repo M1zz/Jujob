@@ -1,56 +1,192 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Daily Hype — Gush Over Yourself, Together</title>
-<meta name="description" content="Daily Hype is a widget app that praises you way too much and cheers you on extra loud.">
-<!--hreflang-->
-<link rel="alternate" hreflang="ko" href="https://m1zz.github.io/Jujob/ko/index.html">
-<link rel="alternate" hreflang="en" href="https://m1zz.github.io/Jujob/en/index.html">
-<link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/Jujob/en-GB/index.html">
-<link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/Jujob/zh-Hans/index.html">
-<link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/Jujob/zh-Hant/index.html">
-<link rel="alternate" hreflang="ja" href="https://m1zz.github.io/Jujob/ja/index.html">
-<link rel="alternate" hreflang="ru" href="https://m1zz.github.io/Jujob/ru/index.html">
-<link rel="alternate" hreflang="es" href="https://m1zz.github.io/Jujob/es/index.html">
-<link rel="alternate" hreflang="de" href="https://m1zz.github.io/Jujob/de/index.html">
-<link rel="alternate" hreflang="fr" href="https://m1zz.github.io/Jujob/fr/index.html">
-<link rel="alternate" hreflang="it" href="https://m1zz.github.io/Jujob/it/index.html">
-<link rel="alternate" hreflang="pt-BR" href="https://m1zz.github.io/Jujob/pt-BR/index.html">
-<link rel="alternate" hreflang="th" href="https://m1zz.github.io/Jujob/th/index.html">
-<link rel="alternate" hreflang="vi" href="https://m1zz.github.io/Jujob/vi/index.html">
-<link rel="alternate" hreflang="cs" href="https://m1zz.github.io/Jujob/cs/index.html">
-<link rel="alternate" hreflang="da" href="https://m1zz.github.io/Jujob/da/index.html">
-<link rel="alternate" hreflang="el" href="https://m1zz.github.io/Jujob/el/index.html">
-<link rel="alternate" hreflang="fi" href="https://m1zz.github.io/Jujob/fi/index.html">
-<link rel="alternate" hreflang="id" href="https://m1zz.github.io/Jujob/id/index.html">
-<link rel="alternate" hreflang="nb" href="https://m1zz.github.io/Jujob/nb/index.html">
-<link rel="alternate" hreflang="nl" href="https://m1zz.github.io/Jujob/nl/index.html">
-<link rel="alternate" hreflang="pl" href="https://m1zz.github.io/Jujob/pl/index.html">
-<link rel="alternate" hreflang="sv" href="https://m1zz.github.io/Jujob/sv/index.html">
-<link rel="alternate" hreflang="tr" href="https://m1zz.github.io/Jujob/tr/index.html">
-<link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/Jujob/en/index.html">
-<!--/hreflang-->
-<style>body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.7;max-width:720px;margin:0 auto;padding:24px 18px 48px;color:#1c1c1e;background:#fff}
-@media(prefers-color-scheme:dark){body{color:#f2f2f7;background:#1c1c1e}a{color:#64b5ff}}
-h1{font-size:1.7em;margin:.6em 0 .2em}h2{font-size:1.15em;margin:1.6em 0 .4em}nav.top{display:flex;gap:16px;flex-wrap:wrap;font-size:.95em;margin-bottom:12px}
-.sub{opacity:.7;margin-top:0}ul{padding-left:1.2em}.langs{margin-top:40px;padding-top:16px;border-top:1px solid #8884;font-size:.9em}.langs a{display:inline-block;margin:2px 8px 2px 0}footer{margin-top:24px;opacity:.6;font-size:.85em}</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Daily Hype: the widget that hypes you up, a lot</title>
+  <meta name="description" content="A home screen widget with a fresh, over-the-top compliment every 5, 15 or 30 minutes. 281 lines for every mood, streaks and more. Pay once.">
+  <meta name="theme-color" content="#C2600A" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0a0d0f" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6450839961">
+  <link rel="canonical" href="https://m1zz.github.io/Jujob/en/">
+  <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/Jujob/ko/">
+  <link rel="alternate" hreflang="en" href="https://m1zz.github.io/Jujob/en/">
+  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/Jujob/en-GB/">
+  <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/Jujob/zh-Hans/">
+  <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/Jujob/zh-Hant/">
+  <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/Jujob/ja/">
+  <link rel="alternate" hreflang="ru" href="https://m1zz.github.io/Jujob/ru/">
+  <link rel="alternate" hreflang="es" href="https://m1zz.github.io/Jujob/es/">
+  <link rel="alternate" hreflang="de" href="https://m1zz.github.io/Jujob/de/">
+  <link rel="alternate" hreflang="fr" href="https://m1zz.github.io/Jujob/fr/">
+  <link rel="alternate" hreflang="it" href="https://m1zz.github.io/Jujob/it/">
+  <link rel="alternate" hreflang="pt-BR" href="https://m1zz.github.io/Jujob/pt-BR/">
+  <link rel="alternate" hreflang="th" href="https://m1zz.github.io/Jujob/th/">
+  <link rel="alternate" hreflang="vi" href="https://m1zz.github.io/Jujob/vi/">
+  <link rel="alternate" hreflang="cs" href="https://m1zz.github.io/Jujob/cs/">
+  <link rel="alternate" hreflang="da" href="https://m1zz.github.io/Jujob/da/">
+  <link rel="alternate" hreflang="el" href="https://m1zz.github.io/Jujob/el/">
+  <link rel="alternate" hreflang="fi" href="https://m1zz.github.io/Jujob/fi/">
+  <link rel="alternate" hreflang="id" href="https://m1zz.github.io/Jujob/id/">
+  <link rel="alternate" hreflang="nb" href="https://m1zz.github.io/Jujob/nb/">
+  <link rel="alternate" hreflang="nl" href="https://m1zz.github.io/Jujob/nl/">
+  <link rel="alternate" hreflang="pl" href="https://m1zz.github.io/Jujob/pl/">
+  <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/Jujob/sv/">
+  <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/Jujob/tr/">
+  <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/Jujob/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Daily Hype: the widget that hypes you up, a lot">
+  <meta property="og:description" content="A home screen widget with a fresh, over-the-top compliment every 5, 15 or 30 minutes. 281 lines for every mood, streaks and more. Pay once.">
+  <meta property="og:url" content="https://m1zz.github.io/Jujob/en/">
+  <meta property="og:image" content="https://m1zz.github.io/Jujob/img/en/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#C2600A}@media (prefers-color-scheme:dark){:root{--accent:#FFB547}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="top"><a href="index.html" aria-current=page>About</a><a href="privacy.html">Privacy Policy</a><a href="support.html">Support</a></nav>
-<h1>Daily Hype</h1>
-<p class="sub">Gush Over Yourself, Together</p>
-<p>Daily Hype is a widget app that praises you way too much and cheers you on extra loud.</p>
-<ul>
-<li>Meet 281 hype lines right on your Home Screen widget</li>
-<li>Pick a line that fits your mood or moment</li>
-<li>Add your name to make every line yours</li>
-<li>Save favorites and browse your history</li>
-<li>Keep a streak and unlock achievements for steady cheers</li>
-</ul>
-<p><a href="privacy.html">Privacy Policy</a> · <a href="support.html">Support</a></p>
-<div class="langs"><!--langs--><a href="../ko/index.html" hreflang="ko" lang="ko">한국어</a> <a href="../en/index.html" hreflang="en" lang="en">English</a> <a href="../en-GB/index.html" hreflang="en-GB" lang="en-GB">English (UK)</a> <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> <a href="../es/index.html" hreflang="es" lang="es">Español</a> <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a><!--/langs--></div>
-<footer>© 2026 Leeo</footer>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="bar">
+    <a class="brand" href="../en/"><img src="../icon.png" alt="" width="32" height="32">Daily Hype</a>
+    <a class="lang-link" href="#languages">Language</a>
+  </header>
+
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>Your biggest fan,<br>right on your home screen</h1>
+        <p class="lead">Daily Hype is a widget that compliments you way too much, on purpose. Morning hype in the morning, interview hype before the interview. Style it with your own font, colors and background.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6450839961">Get it on the App Store</a><a class="try" href="#try">Get hyped right now ↓</a></div>
+        <p class="muted small">One purchase unlocks everything. No subscription, no ads.</p>
+      </div>
+      <div class="phone"><img src="../img/en/01-main.jpg" alt="Your biggest fan, right on your home screen" width="720" height="1564" decoding="async"></div>
+    </section>
+
+
+    <section class="reveal" id="try">
+      <h2>Get hyped right now</h2>
+      <p class="muted">Pick a mood and the widget shows a line for it. Tap Next Hype for a random one out of all 281.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;Get hyped right now&quot;, &quot;lead&quot;: &quot;Pick a mood and the widget shows a line for it. Tap Next Hype for a random one out of all 281.&quot;, &quot;next&quot;: &quot;Next Hype&quot;, &quot;note&quot;: &quot;These are the real lines from the app. In the app, the widget moves on by itself every 5, 15 or 30 minutes.&quot;, &quot;moods&quot;: [{&quot;emoji&quot;: &quot;🌅&quot;, &quot;name&quot;: &quot;Morning&quot;, &quot;first&quot;: 0}, {&quot;emoji&quot;: &quot;🚶&quot;, &quot;name&quot;: &quot;Commute&quot;, &quot;first&quot;: 69}, {&quot;emoji&quot;: &quot;💪&quot;, &quot;name&quot;: &quot;Rough Day&quot;, &quot;first&quot;: 36}, {&quot;emoji&quot;: &quot;👔&quot;, &quot;name&quot;: &quot;Before an Interview&quot;, &quot;first&quot;: 100}, {&quot;emoji&quot;: &quot;💕&quot;, &quot;name&quot;: &quot;Before a Date&quot;, &quot;first&quot;: 111}, {&quot;emoji&quot;: &quot;🏠&quot;, &quot;name&quot;: &quot;Heading Home&quot;, &quot;first&quot;: 79}], &quot;quotes&quot;: [&quot;Rise and shine! Honestly,\nyou already look like a main character.&quot;, &quot;The sun came up and said,\n\&quot;Wow, you outshine me.\&quot;&quot;, &quot;Honestly, you woke up today,\nand that alone deserves a trophy!&quot;, &quot;Mornings are better because\nyou are in them. Fact.&quot;, &quot;Today, you get\nthe leading role again!&quot;, &quot;Eyes open, and you\nalready won the day.&quot;, &quot;Forget coffee. Everyone agrees\nyou are the real morning boost.&quot;, &quot;Just be you today.\nIt is the best look in town!&quot;, &quot;Looking this good before breakfast?\nHonestly, you should be arrested for it.&quot;, &quot;Good morning? No no,\nwith you here it&#x27;s a GREAT morning!&quot;, &quot;First thing I see is you.\nMy eyes just hit the jackpot.&quot;, &quot;Breaking news this morning:\nyou are the brightest thing out there.&quot;, &quot;Long day, huh? Seriously,\nyou handled it like a legend.&quot;, &quot;Wrapping up the day,\nand you still look amazing!&quot;, &quot;You gave it everything today,\nand we are so proud of you!&quot;, &quot;Tired, sure, but look:\nyou survived the whole day!&quot;, &quot;Every day with you in it\nis a day worth having.&quot;, &quot;Today, you got through in one piece.\nThat is plenty!&quot;, &quot;The stars came out tonight\nbut you were already glowing.&quot;, &quot;It is evening and you still sparkle.\nHow do you do it all day?&quot;, &quot;Thanks for all that hard work.\nLucky me, I know you.&quot;, &quot;The whole world looked nicer today\nbecause you were in it.&quot;, &quot;Legend at night,\nlegend in daylight. Never a dull you.&quot;, &quot;It is okay, rough days happen.\nYou are doing better than you think.&quot;, &quot;It is tough right now,\nbut you can absolutely get through it!&quot;, &quot;Nobody needs perfect.\nThe real you is already the best!&quot;, &quot;Rest if you need to.\nYou can go at the pace you like, you know.&quot;, &quot;Plot twist: you are\nway tougher than you think!&quot;, &quot;This will pass, and\nyou will be the one still standing.&quot;, &quot;Feeling low? Sure, but\nyou still have the same big value.&quot;, &quot;Sadness is a part of you too.\nFeel it all, you are allowed.&quot;, &quot;Diamonds only form under pressure,\nso yeah, you sparkle hardest now.&quot;, &quot;Feeling blue? Look at me.\nI am glued to you, so I am blue too.&quot;, &quot;Down in the dumps? Even then\nyou are the most precious thing around.&quot;, &quot;You look good sad,\nyou look good crying. What now?&quot;, &quot;Even on a bad day,\nyou being here is a small miracle.&quot;, &quot;It is hard right now,\nbut you will totally pull through!&quot;, &quot;Tough moments are when\nyou show how awesome you are!&quot;, &quot;Do not quit. You are\nmade of stronger stuff than you think.&quot;, &quot;Hanging in there through all this?\nHonestly, you are a hero.&quot;, &quot;Today&#x27;s struggle is just\nfertilizer, and you are about to bloom.&quot;, &quot;You can handle\nway more than you believe!&quot;, &quot;Soon this hard stretch will be\na story you tell about how you won.&quot;, &quot;Diamonds shine after the cutting,\nso of course you glow right now.&quot;, &quot;Having a rough time?\nStill, you are the best-looking thing in the room.&quot;, &quot;Somebody out there sees you hang on\nand thinks, I can too.&quot;, &quot;Drained and exhausted, and\nyou still look this good? Rude.&quot;, &quot;Today you can do it!\nStart like you mean it!&quot;, &quot;I believe in you,\nand today will be a good one!&quot;, &quot;Look at that, you showed up ready,\nso half the win is done!&quot;, &quot;Whatever is on the list today,\nyou will crush it without breaking a sweat.&quot;, &quot;Watch out, the fire in you\nwill light up the whole day.&quot;, &quot;Go get it! Do it\nthe way only you can!&quot;, &quot;Before work even starts,\nyou already look like a pro!&quot;, &quot;Do not feel like working?\nWell, you still look like you are working it.&quot;, &quot;Commute looks? Unreal.\nThe office glows because you walk in.&quot;, &quot;Watching you work\nis basically performance art.&quot;, &quot;The day has not even started\nand you are already flawless.&quot;, &quot;Working out? Of course,\nyou are already a legend at it.&quot;, &quot;Taking care of that health again?\nHonestly, you are impressive.&quot;, &quot;Nobody knows that body like you do,\nso trust the expert!&quot;, &quot;Just starting a workout?\nHonestly, you should be proud already!&quot;, &quot;Sweat looks good on you.\nTruly, absolutely stunning!&quot;, &quot;Remember, you\ncome first. Always!&quot;, &quot;Some me-time again? Wow,\nyou are on a champion streak!&quot;, &quot;Gym clothes on you?\nSomeone get a camera crew.&quot;, &quot;The gym just turned into paradise\nbecause you walked in.&quot;, &quot;Glowing mid-workout?\nHow do you look this good all the time?&quot;, &quot;Someone looks good while sweating?\nYes, you. It is you.&quot;, &quot;On the way to work,\nyou look like a total professional!&quot;, &quot;Up and moving this early?\nHonestly, you are a machine.&quot;, &quot;Off to work again?\nTrust me, you already won today!&quot;, &quot;Every single step you take\nmatters, and I mean it!&quot;, &quot;Even a commute feels special\nwhen you are on it.&quot;, &quot;Showing up for work\nwith heart? Respect to you!&quot;, &quot;The subway became a runway\nthe moment you stepped on.&quot;, &quot;Glowing on the bus again?\nIs there a shoot, you gorgeous thing?&quot;, &quot;Seeing you head to work\nmakes my morning happy.&quot;, &quot;Somebody looks great\njust walking, and that somebody is you.&quot;, &quot;Today you worked hard!\nNow go home and rest up.&quot;, &quot;From behind, you walking out\nlooks pretty legendary!&quot;, &quot;Heading home after a long day,\nand you are still the best!&quot;, &quot;Another day done and dusted!\nSo proud of you!&quot;, &quot;Now it is time for you,\nso go enjoy every minute of it!&quot;, &quot;After work, do something\nthat is just for you!&quot;, &quot;Off work, finally! Big thanks\nto you for another great day.&quot;, &quot;Even the walk home looks good on you.\nYou were great today.&quot;, &quot;Seeing you head home\nmakes the whole day feel worth it.&quot;, &quot;Rough day? Sure,\nbut you still came out on top!&quot;, &quot;You prepared for this,\nso you will do great!&quot;, &quot;Hard work never\nlets you down!&quot;, &quot;Nervous is fine.\nTruth is, you are more than ready!&quot;, &quot;A test cannot decide\nhow awesome you are!&quot;, &quot;You did the best you could,\nwhich already counts as a win!&quot;, &quot;If anyone can do it,\nyou can, no question!&quot;, &quot;Deep breath, and\ntrust what you know!&quot;, &quot;Good luck on the test!\nYou studied, you are ready.&quot;, &quot;Do not worry. I bet\nyou will get every answer right!&quot;, &quot;Feeling jittery?\nWell, you are still the best!&quot;, &quot;Even the test paper will see you\nand say, \&quot;wow, finally someone good.\&quot;&quot;, &quot;It is time for you\nto show what you are made of!&quot;, &quot;The interviewer will feel lucky\nto meet you!&quot;, &quot;Watch out, because the story and drive in you\nare about to shine!&quot;, &quot;Nervous is okay.\nStill, you are impressive!&quot;, &quot;Stand tall! You know\nyou are totally ready!&quot;, &quot;Tell them the story of you\nwith pride!&quot;, &quot;An interview is just two people chatting,\nso relax and be you.&quot;, &quot;If they skip over you,\nthat company just lost big.&quot;, &quot;Your resume is not the shiny part,\nyou are the shiny part.&quot;, &quot;The moment you walk in,\nyou already got the job.&quot;, &quot;With a first impression like you,\nhalf the job is already done!&quot;, &quot;Today, you\nare absolutely glowing!&quot;, &quot;Just being you\nis the most attractive thing about you!&quot;, &quot;Anyone who gets to hang with you\nis seriously lucky!&quot;, &quot;Look at you being so confident.\nAbsolutely iconic!&quot;, &quot;Today, you can use that smile\nas a secret weapon!&quot;, &quot;Exactly as you are,\nyou are the best!&quot;, &quot;Sorry, but you cannot hide\nthat charm, so do not try!&quot;, &quot;A date today? Whoever it is,\nI think you will make their heart drop.&quot;, &quot;Whoever gets to meet you\nhit the jackpot.&quot;, &quot;That date outfit is perfect.\nHonestly, you could be on a magazine cover!&quot;, &quot;Honestly, one look at you\nand anyone would fall in love.&quot;, &quot;Not even on the date yet and you look this good?\nThink of their poor heart!&quot;, &quot;You can do this!\nI am always cheering for you!&quot;, &quot;Even small steps from you\nare the start of something huge!&quot;, &quot;Do not give up.\nWe know you will reach that dream!&quot;, &quot;Today&#x27;s effort from you is\nbuilding tomorrow&#x27;s win!&quot;, &quot;The fire inside you\nis going to change the world!&quot;, &quot;Failing is just practice for winning!\nKeep going, you!&quot;, &quot;Everyone agrees: you have\ncompletely unlimited potential!&quot;, &quot;Give today\neverything you have!&quot;, &quot;Watching you try hard\nmotivates a lot of people, you know.&quot;, &quot;Everything will work out for you.\nSeriously, I mean it!&quot;, &quot;Do not quit. You are\nan amazing person and you know it.&quot;, &quot;Go get them today!\nSeriously, you have totally got this!&quot;, &quot;Anyone who sees how hard you work\nwill be rooting for you.&quot;, &quot;Say it with me: you are more than enough\nand worth every bit of hype!&quot;, &quot;Just as you are,\nyou are perfect!&quot;, &quot;Fun fact: you simply existing\nis already special!&quot;, &quot;Hold that head high!\nTruth is, you are amazing!&quot;, &quot;Surprise: you are\nmuch stronger than you think!&quot;, &quot;What makes you\nunique is what makes you shine!&quot;, &quot;Believe in you. I do,\nbecause you are the real deal!&quot;, &quot;Honestly, you are\nperfect just as you are.&quot;, &quot;All that confidence?\nHonestly, you look incredible in it!&quot;, &quot;You are far more\nawesome than you think credit for!&quot;, &quot;Truth is, you are\nalready doing great.&quot;, &quot;Anyone who cannot see how charming you are\nneeds new glasses.&quot;, &quot;Today, let it all go,\nbecause you deserve to just rest.&quot;, &quot;Even you\nneed a break sometimes.&quot;, &quot;Doing nothing at all?\nIt is a fine plan, and you can own it.&quot;, &quot;How you feel inside\nis what matters most.&quot;, &quot;Go slow. Take it\nat the speed you like.&quot;, &quot;Today, take some time\nthat belongs to you.&quot;, &quot;Rest is productive too,\nand you are the proof!&quot;, &quot;Resting is a right, and you have it.\nTake it easy today, you deserve it.&quot;, &quot;Look at you recharging.\nEven that looks beautiful.&quot;, &quot;Spend some time on you today.\nNo guilt allowed!&quot;, &quot;Even while lounging,\nyou glow like a star.&quot;, &quot;Chilling at home? Even so,\nyou still look like a million bucks.&quot;, &quot;You are perfect, but I found\none small flaw: you have a hole-in-one on my heart.&quot;, &quot;Your personality test says\nyou are 100% adorable. Case closed.&quot;, &quot;They said, \&quot;hands up if you think you are cute\&quot;\nand the whole planet raised both hands.&quot;, &quot;If I rated you from do to ti,\nI would run out of notes. Off the scale!&quot;, &quot;Do not enter any beauty contest, you.\nThe others would just quit.&quot;, &quot;Each time you looked great, I clapped my hands.\nNow they hurt, but I would not stop.&quot;, &quot;There is only one fuel I ever put\nin my tank: you, always you.&quot;, &quot;I think it is going to rain,\nbecause you are a total storm of cute.&quot;, &quot;Do you have a religion?\nBecause you look like a miracle.&quot;, &quot;Everything is great, but something seems missing.\nOh wait, it was you.&quot;, &quot;Can you put that charm down for a second?\nSome of us need to function.&quot;, &quot;I feel a wall in you.\nA wall of pure perfection.&quot;, &quot;Is the beauty a bit overhyped?\nNope. Honestly, you are the real thing.&quot;, &quot;You say you are bad at math?\nWell, you still add up to everything.&quot;, &quot;Are you part angel?\nBecause you look heaven-sent.&quot;, &quot;Did you know those features are\nsharper than my future plans?&quot;, &quot;Honestly, you are a gift\nthat keeps on giving to my smile.&quot;, &quot;Fact: you are a landmark.\nSomeone should put up a sign.&quot;, &quot;They say you sleep with three pillows?\nWell, that is how fluffy the fan club is.&quot;, &quot;Why are you working?\nYour looks already do overtime.&quot;, &quot;\&quot;Stop liking me.\&quot; \&quot;What?\&quot;\n\&quot;I said stop.\&quot; \&quot;How do I even do that?\&quot;&quot;, &quot;Face this rare? Sorry, you\nbelong in a museum.&quot;, &quot;Do not go to the awards show.\nThe grand prize is already you.&quot;, &quot;Are you doing a photoshoot,\nor are you just a walking one?&quot;, &quot;Truth is, you are an idol,\nthe number one star in my heart.&quot;, &quot;Please host a signing event.\nI want an autograph from you every day.&quot;, &quot;Just debut already.\nTruth is, you are the center of my heart.&quot;, &quot;Congrats on the top chart spot.\nLooks like you win it every day anyway.&quot;, &quot;One photo op, please.\nI could take a picture of you daily.&quot;, &quot;A new comeback? Wow, you just\nbrought my heart back to life.&quot;, &quot;Can I film a fancam of you?\nEvery moment is a highlight reel.&quot;, &quot;Starring in a music video?\nWell, you already star in my whole life.&quot;, &quot;Are you filming a reality show?\nThe real you is better than any script.&quot;, &quot;You are the center of the group, right?\nBecause you shine everywhere you go.&quot;, &quot;Seriously, you need to win Face of the Year.\nIt is not even close.&quot;, &quot;Are you modeling for an ad?\nOne look at you and I want to buy everything.&quot;, &quot;Look, you must be a magazine cover star.\nThat face belongs on every issue.&quot;, &quot;That stage charisma is real?\nEven you doing errands looks like a show.&quot;, &quot;Want to trade photocards?\nI only collect the full set of you.&quot;, &quot;When is the fan meeting?\nI would like to see you every day.&quot;, &quot;Post the dance video, please.\nEvery move you make is art.&quot;, &quot;Watching you is like a teaser trailer.\nI get excited every single time.&quot;, &quot;Going on a world tour?\nFun fact: you already shook my heart worldwide.&quot;, &quot;Sign my album, please.\nFact: you are a limited edition.&quot;, &quot;I am turning on my light stick.\nI will cheer for you for life.&quot;, &quot;Admit it, you blew up overnight?\nYou were a legend way before that.&quot;, &quot;I need concert tickets.\nWatching you is my daily live show.&quot;, &quot;Did you hit number one on the charts?\nYou are the song stuck in my head forever.&quot;, &quot;One more encore, please.\nI can never see enough of you.&quot;, &quot;Even you in the behind-the-scenes shots? Perfect.\nNo off moments, only legend.&quot;, &quot;I have to change my favorite.\nI cannot look at anyone but you.&quot;, &quot;I just became a fan.\nI will stan you forever.&quot;, &quot;Revealing my favorite:\nit is you, always you.&quot;, &quot;I bought all the merch.\nReal talk: you are the merch. Rare and mine.&quot;, &quot;I am a fan for life.\nFact: you are my forever artist.&quot;, &quot;Planted my flag.\nNo doubt, you are my number one.&quot;, &quot;I am starting my fandom era.\nAll in on you.&quot;, &quot;I will be the fan photographer.\nI want to catch every moment of you.&quot;, &quot;It is a free-for-all of praise time.\nEvery minute with you is golden.&quot;, &quot;I will buy a birthday billboard.\nI wish every day were a birthday for you.&quot;, &quot;Cheering for you for life.\nBeing a fan is my proudest thing.&quot;, &quot;My heart is going\nthump-thump because of you.&quot;, &quot;Everything looks lovely\nwhenever I look at you.&quot;, &quot;Real talk: you are the vitamin\nmy happiness runs on.&quot;, &quot;When you smile,\nI end up smiling too.&quot;, &quot;No doubt, you are the brightest star\nI have ever seen.&quot;, &quot;Every day with you\nis a festival in my heart.&quot;, &quot;Even hearing you talk\nmakes my mood better.&quot;, &quot;Honestly, you are the best luck\nI ever had in life.&quot;, &quot;Because of you,\nI can smile again today.&quot;, &quot;Fact: you are the most precious\nperson in the world.&quot;, &quot;Thinking of you\nmakes me smile on its own.&quot;, &quot;Truth is, you are the calm\nin my heart.&quot;, &quot;Time spent with you\nis always special.&quot;, &quot;Seriously, you are the coolest\nperson I know.&quot;, &quot;Just having you around\nis reason enough to be grateful.&quot;, &quot;Look, you are the highlight\nof my day.&quot;, &quot;Every day feels special\nthanks to you.&quot;, &quot;When I look at you,\nthe world gets brighter.&quot;, &quot;Admit it, you are the best gift\nlife ever gave me.&quot;, &quot;The world is prettier\nbecause you exist.&quot;, &quot;A day without you?\nI cannot even picture it.&quot;, &quot;Real talk: you are forever number one\nin my heart.&quot;, &quot;With you around,\nI feel like I can do anything.&quot;, &quot;No doubt, you are the one I am\nthankful for every day.&quot;, &quot;Nothing in the world\nbeats it when you smile.&quot;, &quot;Honestly, you are the biggest blessing\nin my life.&quot;, &quot;Thinking about you\nmakes the whole day happy.&quot;, &quot;Fact: you are the home\nof my heart.&quot;, &quot;When you are here,\neverything is just perfect.&quot;, &quot;Truth is, you are literally\nthe person I dreamed of.&quot;, &quot;Seeing you makes me think\nmy heart is broken. It is racing!&quot;, &quot;Seriously, you are a walking history book.\nPure legend material.&quot;, &quot;I would happily keep falling\nfor the charm of you.&quot;, &quot;I stared at you so long\nI might need a neck brace.&quot;, &quot;Every time I see you,\nmy heart rate goes up.&quot;, &quot;Look, you are a legendary\nphotoshoot for my eyes.&quot;, &quot;Because of you,\nevery day is favorite day.&quot;, &quot;Admit it, you are a living,\nbreathing miracle.&quot;, &quot;Whenever I see you,\neverything goes slow motion.&quot;, &quot;Real talk: you are the VIP pass\nto my whole life.&quot;, &quot;Looking at you is\nthe highlight of my routine.&quot;, &quot;No doubt, you are the premium content\nof my heart.&quot;, &quot;Because of you,\nthe world looks like HD.&quot;, &quot;Honestly, you are the golden hour\nof my life.&quot;, &quot;Just thinking of you\nputs a smile on my face.&quot;, &quot;Fact: you are the five-star hotel\nof my heart.&quot;, &quot;Thanks to you,\nevery day is a treat day.&quot;, &quot;Truth is, you are the main event\nof my life.&quot;, &quot;When I see you,\nmy heart starts dancing.&quot;, &quot;Seriously, you are the 4K quality\nof my view.&quot;, &quot;Whenever I see you,\neverything looks brighter.&quot;, &quot;Look, you are the VIP\nof my heart.&quot;, &quot;Because of you,\nthe day turns special.&quot;, &quot;Admit it, you are the ace\nup my sleeve.&quot;, &quot;Just thinking of you\nupgrades my whole mood.&quot;, &quot;Real talk: you are the first one\nin my hall of fame.&quot;, &quot;Thanks to you,\nlife is in full color.&quot;, &quot;No doubt, you are the all-time\nlegend of my eyes.&quot;, &quot;Whenever I see you,\nit feels like a slow-motion replay.&quot;, &quot;Honestly, you are the premium pass\nto my life.&quot;]}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>Who's the harshest critic you know? Is it you?</h2>
+      <p>On the commute, before the interview, on the way home, the voice in your head mostly nags. Daily Hype takes your side from the home screen, several times a day, a little more than seems reasonable. The moment you snort at your phone, some confidence comes back.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Hype that fits the moment</h2>
+        <p>Choose from 14 moods and situations like <code>Morning</code>, <code>Commute</code>, <code>Rough Day</code>, <code>Before an Interview</code> and <code>Before a Date</code>, and a matching line lands on your widget right away. Can't decide? There's <code>Random</code> too.</p>
+      </div>
+      <div class="phone"><img src="../img/en/02-mood.jpg" alt="Hype that fits the moment" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Keep the ones you love</h2>
+        <p>Tap the star to save a line to Favorites, and scroll back through past lines in History. Tap <code>Use This Hype</code> and it goes straight onto your widget.</p>
+      </div>
+      <div class="phone"><img src="../img/en/03-favorites.jpg" alt="Keep the ones you love" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Show up daily and watch it add up</h2>
+        <p>Every day you check in keeps your streak going. Hit 7, 30 or 100 days in a row, or 50 and 100 days in total, and an achievement unlocks.</p>
+      </div>
+      <div class="phone"><img src="../img/en/05-achievements.jpg" alt="Show up daily and watch it add up" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>Three steps to start</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Pick a mood</h3><p>Open <code>Pick a Mood</code> and tap whatever fits right now.</p></li>
+<li class="card"><span class="n">2</span><h3>Style the widget</h3><p>Choose a font, text color, background and refresh interval in Advanced Settings.</p></li>
+<li class="card"><span class="n">3</span><h3>Add it to your home screen</h3><p>Touch and hold the home screen, tap +, and find Daily Hype.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>Make the widget yours</h2>
+      <div class="card table">
+        <dl><div><dt>Font</dt><dd>13 options, including Futura, Georgia and Marker Felt</dd></div><div><dt>Text color</dt><dd>Any color you like</dd></div><div><dt>Background</dt><dd>A two-color gradient, or one of the built-in photos</dd></div><div><dt>Alignment</dt><dd>Left, center or right</dd></div><div><dt>Line spacing</dt><dd>Tighter or looser lines</dd></div><div><dt>Refresh interval</dt><dd>A new line every 5, 15 or 30 minutes</dd></div></dl>
+      </div>
+      <p class="muted">You choose the widget size when you add it to the home screen.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Buy it once and you're done</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>The app</h3>
+          <ul><li>281 lines across 14 moods</li><li>A home screen widget you can style</li><li>Favorites and History</li><li>Streaks and achievements</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Support the developer</h3>
+          <ul><li>Pick a small, medium or large tip</li><li>It doesn't unlock anything. It's simply a way to say thanks</li></ul>
+          <p class="muted">Only if and when you feel like it.</p>
+        </div>
+      </div>
+      <p class="muted">No subscription, no extra purchases, no ads.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Questions</h2>
+      <div class="faq"><details><summary>How do I add the widget?</summary><p>Touch and hold an empty spot on your home screen until the icons jiggle, tap + at the top, search for Daily Hype and pick a size.</p></details>
+<details><summary>How is the next line chosen?</summary><p>When you pick a mood, a line for that mood goes straight onto your widget. After that, the widget shows a random line from all 281 at the refresh interval you chose. You can also tap <code>Next Hype</code> in the app to skip ahead.</p></details>
+<details><summary>Can I change the widget's font or refresh interval?</summary><p>Yes. In Advanced Settings you can change the font, text color, background, alignment, line spacing and refresh interval. The interval can be 5, 15 or 30 minutes.</p></details>
+<details><summary>The widget didn't change right away.</summary><p>iOS decides exactly when widgets redraw, so it can run a little behind the interval you picked. Open the app and close it again, and the widget updates.</p></details>
+<details><summary>How does the streak work?</summary><p>Each day in a row that you check in adds to your streak. <code>My Stats</code> shows your current streak, your best, total days and your achievements.</p></details>
+<details><summary>My favorites and history are gone.</summary><p>Everything is stored only on your device, so it doesn't carry over if you delete the app or switch phones. If you didn't delete the app and it still vanished, please email us.</p></details>
+<details><summary>Is any of my data sent anywhere?</summary><p>No. The app collects no personal data. Your favorites and history stay on your device.</p></details>
+<details><summary>How do I report a bug or suggest something?</summary><p>Right from <code>Contact the Developer</code> in the app, or by email or Instagram DM at @lee25_ios. We reply as soon as we've had a look.</p></details></div>
+      <p class="contact">Questions or feedback? Write to <a href="mailto:leeo@kakao.com">leeo@kakao.com</a>.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Put someone on your side<br>starting today</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6450839961">Get it on the App Store</a>
+    </section>
+  </main>
+
+  <footer>
+    <nav id="languages" class="langs" aria-label="Language"><a href="../ko/" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en" aria-current="page">English</a>
+<a href="../en-GB/" hreflang="en-GB" lang="en-GB">English (UK)</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">Privacy Policy</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 Leeo</p>
+  </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

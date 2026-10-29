@@ -1,0 +1,467 @@
+{
+  "title": "Trop Fan de Toi : le widget qui te couvre de compliments",
+  "description": "Un widget d'écran d'accueil avec un compliment XXL toutes les 5, 15 ou 30 minutes. 281 phrases pour chaque humeur, des séries. Achat unique.",
+  "hero": {
+    "headline": "Chaque fois que tu prends ton téléphone,\nton plus grand fan t'attend",
+    "lead": "Trop Fan de Toi est un widget qui te complimente beaucoup trop, et c'est fait exprès. Un compliment du matin le matin, un compliment d'entretien avant l'entretien. Police, couleurs et fond se règlent comme tu veux.",
+    "cta": "Télécharger sur l'App Store",
+    "note": "Un seul achat pour tout débloquer. Ni abonnement, ni pub."
+  },
+  "demo": {
+    "title": "Reçois un compliment tout de suite",
+    "lead": "Choisis une humeur et le widget affiche le compliment qui va avec. Touche Compliment suivant pour en tirer un au hasard parmi les 281.",
+    "next": "Compliment suivant",
+    "note": "Ce sont les vraies phrases de l'app. Dans l'app, le widget passe tout seul au suivant toutes les 5, 15 ou 30 minutes.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Matin",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "Trajet du matin",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Coup dur",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Avant l'entretien",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Avant le rencard",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "Retour du boulot",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "Réveil réussi, et tu rayonnes déjà.\nLe soleil peut retourner dormir.",
+      "Franchement, quand tu ouvres les yeux,\nle matin se met au garde-à-vous !",
+      "Être debout, c'est déjà un exploit,\net tu l'as fait avec classe.",
+      "Ton réveil sonne, mais c'est toi\nqui assures le spectacle, tu le sais ?",
+      "Encore une journée où tu joues\nle premier rôle. Saison 1 000 !",
+      "Yeux ouverts, victoire validée :\nla journée est déjà dans ta poche, tu vois.",
+      "Ton sourire du matin vaut trois cafés,\net tu n'as même pas besoin de sucre.",
+      "Fais comme tu sais faire aujourd'hui :\nbriller sans même essayer !",
+      "Aussi canon dès le réveil ?\nSi tu continues, j'appelle la police du style.",
+      "Un simple bonjour, c'est trop court :\nquand tu entres, c'est un lever de rideau !",
+      "Premier regard du matin sur toi,\net je me dis que tu mérites une médaille.",
+      "Alerte info : quelqu'un brille\nplus fort que le soleil. Spoiler : tu.",
+      "Journée finie, bravo : tu as tout géré\navec un style de dingue.",
+      "Ce soir, tu refermes ta journée\ncomme on referme un chef-d'œuvre.",
+      "Aujourd'hui, tu as donné le maximum\net moi, j'applaudis debout.",
+      "Un peu crevé, mais tu as tenu bon.\nJ'ai les larmes aux yeux, c'est beau.",
+      "Ta journée vaut de l'or,\net ce soir, tu peux t'en vanter.",
+      "Journée bouclée sans dégât :\nrien que ça, ça mérite un trophée.",
+      "Dans le ciel du soir, il y a des étoiles\net, tout au milieu, tu brilles.",
+      "Il fait nuit et tu brilles encore :\nbatterie solaire cachée ?",
+      "Merci pour tout ce que tu as fait.\nHeureusement que c'est toi !",
+      "Merci : grâce à toi, le monde a été\nplus beau aujourd'hui, tu sais ?",
+      "Le soir, légende. Le matin, légende.\nOn ne change pas une équipe qui gagne !",
+      "Ça va aller : même les super-héros ont\ndes jours sans. Là, tu fais déjà de ton mieux.",
+      "Là, c'est rude, mais tu as déjà survécu\nà 100 % de tes pires journées.",
+      "Pas besoin d'être parfait.\nAvoue, tu es déjà bien plus que ça !",
+      "Quand ça tire trop, pose-toi un peu :\ntu avances à ton rythme, et c'est le bon.",
+      "Plus costaud que tu ne le penses,\ntu l'es, et de loin !",
+      "Ça aussi, ça passera. Et pendant ce temps,\ntu gardes la classe.",
+      "Même quand le moral baisse, tu gardes\nta valeur, qui ne bouge pas d'un poil.",
+      "La tristesse fait partie du paquet.\nSache que tu as le droit de tout ressentir.",
+      "Un diamant se forme sous la pression :\nregarde comme tu scintilles déjà.",
+      "Si le moral flanche, pense à ceci :\nun fan de toi existe, et c'est moi, tu vois.",
+      "Moral dans les chaussettes ? Aucun souci,\ntu restes ce qu'il y a de plus précieux.",
+      "Même quand tu pleures, tu restes\nsplendide. Qu'est-ce que tu veux que j'y fasse ?",
+      "Même si c'est dur, tu restes\nun petit miracle à toi tout seul.",
+      "C'est dur maintenant, mais tu vas\ntout déchirer, c'est écrit dans les étoiles.",
+      "Dans les moments difficiles, c'est là\nque tu montres ce que tu vaux.",
+      "Ne lâche rien : tu es bien assez\nfort pour y arriver.",
+      "Traverser une période compliquée comme\ntu le fais, c'est franchement impressionnant.",
+      "Les galères d'aujourd'hui, c'est l'engrais\nde la réussite de demain.",
+      "Tu peux encaisser bien plus\nque tu ne l'imagines.",
+      "Ce moment pénible deviendra bientôt\nun souvenir dont tu riras.",
+      "Même cabossé, tu brilles : une pierre\nprécieuse, ça se taille d'abord.",
+      "Tu galères ? Peut-être, mais tu restes\nla personne la plus attachante du coin.",
+      "Rien que parce que tu tiens bon,\nquelqu'un, quelque part, garde espoir.",
+      "À bout de forces, tu restes quand même\nmagnifique. Désolé, c'est comme ça.",
+      "Aujourd'hui, tu peux tout faire.\nLance-toi avec confiance !",
+      "Je crois en toi à 200 %,\net je sais que tu vas passer une journée géniale.",
+      "Tout est en place : tu as déjà fait\nla moitié du chemin vers la réussite !",
+      "Les tâches du jour ? Pour toi,\nça ressemble à une promenade de santé, tu verras.",
+      "Ta passion va éclairer la journée\net tu vas tout illuminer !",
+      "Allez, on y va ! Fais ça\ncomme tu sais si bien le faire.",
+      "Avant même de commencer, tu as déjà\nl'allure d'un pro. Ça se voit !",
+      "Pas envie de bosser ? Normal, mais tu as\nun visage qui travaille déjà à plein temps.",
+      "Une allure pareille pour aller bosser ?\nTa boîte brille parce que tu es là, c'est sûr.",
+      "Quand tu bosses, c'est tout simplement\nde l'art. Mets-le au musée !",
+      "Même avant de commencer,\ntu es déjà irréprochable.",
+      "Rien que parce que tu bouges,\nje te trouve déjà formidable !",
+      "Prendre soin de ta santé tous les jours :\nchapeau, tu donnes une vraie leçon.",
+      "Ton corps, tu le connais mieux que personne.\nFais-lui confiance, tu sais !",
+      "Avoir enfilé tes baskets, c'est déjà\nune victoire que tu peux fêter dignement.",
+      "Quand tu transpires, c'est magnifique.\nLa sueur te va à ravir.",
+      "Ta santé passe avant tout,\net tu le sais mieux que personne.",
+      "Prendre du temps pour toi, aujourd'hui\nencore : franchement, tu es au top !",
+      "Tenue de sport sur le dos, tu pourrais\nfaire la une d'un magazine !",
+      "La salle de sport est devenue\nun paradis depuis que tu y viens.",
+      "Même en plein effort tu rayonnes.\nComment fais-tu pour être aussi canon ?",
+      "Transpirer et rester sublime, ça existe ?\nOui : quand tu t'entraînes, c'est officiel.",
+      "En route vers le boulot, tu as l'air\nd'un vrai pro. Chapeau bas !",
+      "Déjà en mouvement dès le matin :\nmais d'où te vient cette énergie, tu me dis ?",
+      "Aujourd'hui encore, tu vas travailler,\net la victoire est déjà acquise.",
+      "Chacun de tes pas dans la rue\na de la valeur, tu sais.",
+      "Même le trajet du matin devient\nspécial quand tu es de la partie.",
+      "Encore une fois, tu y vas avec sérieux :\nquelle classe, quelle fiabilité !",
+      "Quand tu montes dans le métro,\nle quai se transforme en podium de défilé.",
+      "Même dans le bus, tu resplendis.\nUne séance photo avant le terminus ?",
+      "Te voir partir au boulot, c'est ce qui\nrend mon matin joyeux, tu le sais ?",
+      "Le simple fait de marcher te rend sublime.\nSi tu savais, c'est ton superpouvoir !",
+      "Belle journée de travail, bravo !\nRentre vite, tu peux te reposer.",
+      "Vu de dos, quand tu rentres,\nc'est quand même la grande classe.",
+      "En rentrant, souviens-toi que tu as\ndonné le meilleur. Tu es au top !",
+      "Journée bouclée sans souci :\nje suis super fier que tu aies tout géré.",
+      "C'est maintenant ton moment à toi :\nrepose-toi tant que tu veux !",
+      "Après le boulot, offre-toi\nun moment rien que pour toi, tu l'as bien mérité !",
+      "Fin de journée, et tu as tout donné.\nUn grand bravo, tu l'as mérité !",
+      "Même sur le chemin du retour, tu es\nsplendide. Quelle journée magnifique !",
+      "En te voyant rentrer, je me dis que\ntu as bien rempli ta journée.",
+      "La journée a été rude, mais toi,\ntu restes au sommet, comme toujours !",
+      "Après tout ce travail, ça va rouler :\ntu as tout ce qu'il faut dans la tête !",
+      "Ton travail ne trahit jamais :\ntu vas récolter ce que tu as semé.",
+      "Le trac, c'est normal. N'oublie pas\nque tu as déjà tout révisé !",
+      "Une note ne dit rien de ta valeur.\nRespire, et tu verras que tout ira bien.",
+      "Quoi qu'il arrive, tu as donné\ntout ce que tu avais : c'est gagné.",
+      "Pour quelqu'un comme toi, tu peux le croire :\nça va passer comme une lettre à la poste.",
+      "Respire à fond et fais confiance\nà ce que tu sais déjà.",
+      "Bonne chance pour l'examen ! Avec tout ce que tu sais,\ntu as largement de quoi y aller.",
+      "Pas de panique : tu vas tout bien\nrépondre, y compris aux questions pièges.",
+      "Le stress monte ? Normal. Reste zen,\ntu es quand même au top.",
+      "La copie d'examen va rester bouche bée\nquand tu poseras dessus ton petit nom.",
+      "C'est l'heure de montrer ce que tu vaux,\net tu vas faire des étincelles !",
+      "Le recruteur a de la chance :\nil va rencontrer quelqu'un comme toi, c'est certain.",
+      "Ton expérience et ta passion vont briller :\nc'est ton moment, et tu le sais.",
+      "Un peu de trac ? Normal.\nMais tu as déjà tout ce qu'il faut !",
+      "Tête haute ! Tout est en place\npour que tu les épates.",
+      "Raconte ton histoire avec fierté :\ntu as de quoi captiver la salle.",
+      "Un entretien, c'est une rencontre.\nDétends-toi, tu n'as rien à prouver.",
+      "Si le recruteur ne t'engage pas,\nc'est son entreprise qui y perd, tu peux me croire.",
+      "Ce n'est pas ton CV qui brille,\nc'est toi, et tu le montres dès l'entrée.",
+      "Dès que tu franchis la porte,\nl'affaire est déjà dans le sac !",
+      "Dès ta première impression,\ntu as déjà fait la moitié du boulot !",
+      "Aujourd'hui, tu rayonnes\nplus que jamais. Merci pour le spectacle !",
+      "Rien à changer : ton charme\nse voit déjà d'ici, tu sais !",
+      "Ceux qui passent du temps avec toi\nont de la chance, tu sais.",
+      "Avec une telle assurance,\ntu fais vraiment forte impression !",
+      "Ton sourire du jour, c'est ta meilleure\narme secrète, et tu t'en sers à merveille.",
+      "Tel que tu es, c'est parfait.\nNe change rien !",
+      "Ton charme, tu ne peux pas le cacher,\nmême si tu essaies très fort.",
+      "Rendez-vous ce soir ? Quand tu arrives,\nl'autre risque le cœur qui s'arrête net.",
+      "Ceux qui sortent avec toi\nont gagné au loto, tu peux me croire.",
+      "Ta tenue est parfaite. Si tu veux,\ntu peux faire la une d'un magazine !",
+      "En te voyant ce soir, quelqu'un\nva tomber amoureux, tu verras.",
+      "Le rencard n'a pas commencé et tu éblouis déjà.\nPauvre petit cœur d'en face !",
+      "Je te le dis : tu en es capable,\net je suis dans ton équipe !",
+      "Un tout petit pas et, sans que tu le saches,\nc'est le début d'un grand voyage !",
+      "Ne lâche rien : tes rêves vont\nse réaliser, tu verras !",
+      "L'effort que tu fais aujourd'hui\nfait ton succès de demain !",
+      "Avec ta passion, tu peux\nchanger le monde !",
+      "L'échec est la mère de la réussite !\nContinue d'essayer, tu vas y arriver.",
+      "Tes possibilités sont infinies,\nregarde ce que tu peux faire !",
+      "Aujourd'hui encore, donne le meilleur,\ntu en as largement les moyens !",
+      "Quand tu fais des efforts, tu inspires\nquelqu'un, même sans le savoir.",
+      "Avec toi, tout finit par bien se passer.\nJe te le jure, tu verras !",
+      "Surtout, ne lâche pas : tu es\nbien trop top pour abandonner.",
+      "Allez, courage ! Aujourd'hui, tu peux\ntout casser !",
+      "Ceux qui voient les efforts que tu fais\nte soutiendront jusqu'au bout.",
+      "Tu vaux largement ce que tu mérites,\net même beaucoup plus.",
+      "Tel que tu es, c'est\nla perfection, ni plus ni moins.",
+      "Ton existence est déjà quelque chose\nde spécial, et tu l'ignores peut-être.",
+      "Avance avec assurance : tu es\nvraiment quelqu'un de bien !",
+      "Plus fort que tu ne le crois,\nvoilà ce que tu es !",
+      "Ta personnalité, c'est ce qui te fait briller,\net tu brilles fort !",
+      "Crois en toi : tu peux le faire,\net moi, je le sais !",
+      "Rien à ajouter : tu es déjà\nun tableau complet, signé et encadré.",
+      "Avec une telle assurance, tu fais\ntrembler toute la planète !",
+      "Crois-moi, tu vaux bien plus\nque tout ce que tu imagines !",
+      "Sans te mentir, tu t'en sors déjà\nsuper bien. Continue !",
+      "Ceux qui ne voient pas ton charme\nont besoin de lunettes, et tu n'y es pour rien.",
+      "Aujourd'hui, on se pose, on respire,\net tu n'as rien d'autre à faire.",
+      "Toi aussi, tu as le droit\nde faire une pause.",
+      "Ne rien faire du tout : si tu veux,\nc'est une excellente journée !",
+      "Ton bien-être, tu le mets\ntoujours en premier, et c'est bien.",
+      "Doucement : tu avances à ton rythme,\net c'est parfait.",
+      "Prends un moment rien que pour toi :\ntu le mérites amplement.",
+      "Se reposer, c'est aussi une activité,\net tu la maîtrises à merveille !",
+      "Te reposer, c'est ton droit. Aujourd'hui,\ninstalle-toi bien au chaud, tu l'as mérité.",
+      "Quand tu prends soin de toi,\nc'est tout aussi beau.",
+      "Ce temps que tu t'offres aujourd'hui,\nil est mérité, ne t'excuse pas.",
+      "Même en train de buller,\ntu rayonnes comme personne.",
+      "Même en mode détente, tu gardes le titre\nde plus belle personne du quartier.",
+      "Tout est parfait chez toi, sauf un détail :\ntu m'empêches de regarder ailleurs.",
+      "Résultat de ton test de personnalité :\ntu es à 100 % adorable. Aucune marge d'erreur.",
+      "Que ceux qui te trouvent adorable lèvent la main.\nTout le monde debout, tu vois ça ?",
+      "J'ai cherché « canon » dans le dico :\ntu étais dans l'illustration, forcément.",
+      "Avec toi, mon cœur capte cinq barres :\nton signal bat celui du Wi-Fi, tu sais.",
+      "Quand je te regarde, mon cerveau affiche :\nerreur 404, tu n'as aucun défaut.",
+      "Il y a un fruit que j'adore : la pêche.\nEn te voyant, j'ai la pêche, tu vois ?",
+      "On t'appelle comment ? Soleil ?\nParce que dès que tu arrives, ça brille.",
+      "Dis, tu crois au coup de foudre ?\nParce que là, je viens de prendre une décharge.",
+      "Je cherchais un défaut chez toi... j'ai trouvé :\ntu es trop adorable, c'est tout.",
+      "Y a-t-il un ange dans la pièce ?\nAh non, c'est juste que tu viens d'entrer.",
+      "Quand tu es là, c'est comme un bon café :\nfort, chaud, et ça réveille tout le monde.",
+      "Honnêtement, quand tu passes, ta beauté,\nc'est du lourd : même la balance dit waouh.",
+      "Pas de super-pouvoirs, toi ? Alors comment\ntu fais pour illuminer toute la pièce ?",
+      "Mélange de charme et de classe : tu es\nun cocktail à consommer sans modération.",
+      "Petite info : quand tu souris, tes traits sont\nplus nets que mon avenir. Sans jalousie.",
+      "Pour moi, tu es la capitale du cœur :\npas besoin de GPS, j'y vais les yeux fermés.",
+      "Pour moi, tu mérites le classement\nmonument historique. Urgence absolue !",
+      "On dit que, sur ton passage, même les fleurs\nfont la queue pour te saluer, tu savais ?",
+      "Pourquoi tu travailles ? Ta beauté\nfait déjà des heures sup' pour toi.",
+      "« Arrête de me plaire. »\n« Et comment tu veux qu'on fasse, au juste ? »",
+      "Ton visage est un trésor national :\nsi tu veux, on l'expose au musée demain.",
+      "Pas de cérémonie pour toi, c'est inutile :\nle prix de la plus belle frimousse, tu l'as.",
+      "Séance photo en cours ? Ou alors tu fais juste\nune promenade version magazine ?",
+      "Dans le classement de mon cœur, tu es\nune idole, numéro un depuis toujours.",
+      "Une séance de dédicaces, s'il te plaît :\nje veux ton paraphe chaque matin, si tu veux.",
+      "Lance ta carrière, tu es déjà\nla tête d'affiche dans mon cœur.",
+      "Premier au hit-parade, encore ! Normal :\ntu as la plus belle bobine de l'industrie.",
+      "Une séance photo, ça te dit ? Parce que tu mérites\nqu'on te photographie tous les jours.",
+      "Retour de toi dans ma vie ? Pour moi, tu as\nfait de mon cœur un remix, un vrai hit.",
+      "Je peux te filmer en gros plan ? Chaque fois\nque tu bouges, c'est une belle scène.",
+      "Un clip avec toi ? Dans ma vie,\ntu tiens déjà le premier rôle.",
+      "Une émission sur ta vie ? Inutile :\ntu es déjà tellement mieux en vrai.",
+      "Au centre de la photo, c'est toi,\nparce que tu brilles partout où tu vas.",
+      "Le prix du visage de l'année, c'est toi,\net tu l'as eu à l'unanimité.",
+      "Si tu fais de la pub, je vais tout acheter,\nmême ce dont je n'ai pas besoin.",
+      "Une couv de magazine, c'est toi, tous les mois.\nPour toi, il faudrait un numéro quotidien.",
+      "Le charisme sur scène, c'est vrai ?\nQuand tu es là, le quotidien ressemble à un spectacle.",
+      "Échange de cartes à collectionner ? Si tu en as,\nje voudrais tout l'album, sans doublon.",
+      "Ça se passe quand, ta rencontre avec les fans ?\nJ'aimerais que tu viennes chaque jour.",
+      "Poste ta chorégraphie, je t'en prie :\ncomme tu bouges, c'est de l'art en mouvement.",
+      "On dirait la bande-annonce d'un film :\nrien que quand tu apparais, mon cœur s'emballe.",
+      "Tournée mondiale en vue ? Déjà, tu as fait\nvibrer mon cœur sur tous les continents.",
+      "Dédicace-moi cet album : quand tu es là,\nta présence est une édition limitée.",
+      "J'allume mon bâton lumineux pour toi :\nje t'encouragerai tant que tu me souris.",
+      "Ça a explosé, hein ? Normal,\ntu étais déjà légendaire depuis le début.",
+      "Je dois réserver des places de concert :\nquand tu apparais, c'est mon spectacle quotidien.",
+      "Premier du top 50, encore ?\nPour moi, tu es le hit de toute ma vie.",
+      "Un rappel, encore un !\nOn ne se lasse pas de te revoir quand tu passes.",
+      "Même dans les coulisses, tu es au top :\naucune seconde ratée, que du légendaire.",
+      "Je dois changer de chouchou :\ntu m'empêches d'en regarder un autre.",
+      "Ça y est, je suis fan. Si tu t'y attends,\nje te soutiendrai à vie, sans condition.",
+      "Mon favori, je le dévoile :\nc'est toi, et tu l'as bien compris, non ?",
+      "J'ai acheté tous les produits dérivés :\ntu es le meilleur article de la boutique.",
+      "Fan à vie, c'est décidé :\nje te suivrai partout, tu es mon artiste.",
+      "Mon QG de fan est installé :\ntu en es la boss, et l'unique adresse.",
+      "Fan-club ouvert : adhérent numéro un,\nc'est moi. Et toi, tu es la star du comité.",
+      "Je serai ton photographe officiel :\nje veux garder tous les moments où tu brilles.",
+      "C'est l'heure de la fête : chaque seconde\nque tu passes ici vaut de l'or en barre.",
+      "Je loue un panneau pub pour toi :\nque chaque jour soit celui où tu fêtes ton anniversaire.",
+      "Je te soutiens pour la vie :\nje suis fier que tu aies un fan-club.",
+      "Mon cœur s'emballe dès que tu entres,\net il n'a pas l'air de vouloir se calmer.",
+      "Le monde est plus beau\ndès que tu apparais.",
+      "Pour mon bonheur, tu es\nla vitamine du jour.",
+      "Quand tu ris, je ris aussi\nsans même savoir pourquoi.",
+      "De toutes les étoiles que j'ai vues,\ntu es de loin la plus brillante.",
+      "Chacune de tes journées est une fête\ndans mon cœur, tu le savais ?",
+      "Rien qu'en entendant ta voix,\nmon humeur remonte, et tu le fais sans effort.",
+      "Dans ma vie, tu es\nle plus gros coup de chance.",
+      "Grâce à toi, je peux encore sourire :\ntu es le meilleur remède.",
+      "Personne n'est plus précieux que toi,\net tu le sais bien, avoue.",
+      "Penser à toi suffit, et quand tu apparais,\nle sourire arrive tout seul.",
+      "Pour mon cœur, tu es\nle calme après la tempête.",
+      "Chaque minute que tu passes avec moi\nest un moment à part.",
+      "De toutes les personnes que je connais,\ntu es la plus géniale.",
+      "Ta présence seule me comble :\nmerci d'exister, tu sais ?",
+      "Parmi toutes mes journées, tu es\nle moment que je préfère.",
+      "Avec toi dans les parages, chaque jour devient\nspécial, et tu le fais sans effort.",
+      "Dès que tu entres dans mon regard,\nle monde s'éclaire.",
+      "Pour moi, tu es\nle plus beau des cadeaux.",
+      "Sans toi, le monde serait moins beau,\nc'est mathématique, tu peux vérifier.",
+      "Une journée sans toi ? Impossible,\nje ne sais pas ce que tu me fais.",
+      "Au fond de mon cœur, tu es\nla numéro un pour toujours.",
+      "Avec toi à mes côtés, j'ai l'impression\nque tu rends tout possible.",
+      "Chaque jour, je remercie le ciel\nque tu existes.",
+      "Ton sourire est plus beau que tout,\net si tu savais à quel point !",
+      "Ma plus grande bénédiction,\nc'est que tu sois là.",
+      "Penser à toi, c'est lancer une journée heureuse,\net tu en es la cause.",
+      "À tes côtés, chaque instant devient parfait,\nsans que tu fasses quoi que ce soit.",
+      "Quand je pense à mon idéal, tu apparais\ncomme par magie, c'est dingue.",
+      "Mon cœur tombe en panne\ndès que tu passes devant moi.",
+      "On devrait te mettre au programme\nscolaire : tu es une légende vivante.",
+      "Ton charme est une attaque surprise\net tu peux recommencer, je me laisse faire.",
+      "À force de ne regarder que toi,\nj'aurai un torticolis, mais tu en vaux la peine.",
+      "Chaque fois que tu apparais,\nmon cœur passe la seconde.",
+      "Dans ma galerie d'art perso, tu es\nle chef-d'œuvre numéro un.",
+      "À cause de toi, tous mes jours\nsont des jours de fête, tu es responsable.",
+      "Un vrai miracle sur pattes, et c'est toi,\nsi tu veux tout savoir.",
+      "Dès que tu entres dans la pièce,\nle monde passe au ralenti.",
+      "Ma vie t'offre l'accès VIP :\nsans file d'attente, quand tu veux.",
+      "Pour mon cœur, tu es\nle contenu en exclusivité.",
+      "À cause de toi, le monde tourne\nen haute définition, tu n'y es pas pour rien.",
+      "Mon heure préférée de la journée,\nc'est celle où tu es là.",
+      "Rien qu'en pensant à toi,\nj'affiche un sourire, tu peux en être fier.",
+      "Un hôtel cinq étoiles, ça existe :\nc'est mon cœur, et tu en es le client roi.",
+      "Grâce à toi, chaque jour est une fête,\navec confettis. Et tu les offres sans compter.",
+      "Dans mon histoire, tu es\nl'événement principal.",
+      "Quand tu apparais,\nmon cœur se met à danser.",
+      "À mes yeux, tu es\nen ultra haute définition.",
+      "Dès que tu passes dans mes pensées,\nmon humeur passe au niveau supérieur.",
+      "Au panthéon de mon cœur, tu as\nla place numéro un, gravée dans le marbre.",
+      "Mon atout caché, celui qui change tout :\nc'est toi, et tu ne le savais pas.",
+      "Merci à toi : depuis que tu es là,\nma vie est passée en couleurs.",
+      "Dans la légende de mon cœur,\nc'est toi la star, et tu le sais bien.",
+      "Quand tu es là, ma journée\ngagne vingt points de bonheur.",
+      "Pour mon cœur, tu es\nle VIP des VIP.",
+      "Depuis que tu as débarqué, ma vie\na pris un joli virage.",
+      "À chaque fois que tu passes,\nle temps s'arrête une seconde.",
+      "Pour moi, tu es\nun bonheur sans date de péremption.",
+      "Avec toi dans le décor, mon quotidien\ntourne comme un film, et tu en es le héros.",
+      "Dans ma vie, tu es\nle laissez-passer pour le bonheur."
+    ]
+  },
+  "problem": {
+    "title": "Ton pire critique, ce ne serait pas toi ?",
+    "text": "Dans le trajet du matin, avant l'entretien, en rentrant du boulot, la petite voix dans ta tête râle surtout. Trop Fan de Toi prend ton parti depuis l'écran d'accueil, plusieurs fois par jour, un peu plus que raisonnable. Le temps d'un sourire, un peu de confiance revient."
+  },
+  "features": [
+    {
+      "title": "Le compliment qui colle à l'humeur",
+      "text": "Choisis parmi 14 humeurs et situations comme `Matin`, `Trajet du matin`, `Coup dur`, `Avant l'entretien` ou `Avant le rencard`, et le compliment assorti arrive aussitôt sur ton widget. Tu hésites ? Il y a aussi `Aléatoire`.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Garde ceux que tu préfères",
+      "text": "Touche l'étoile pour l'ajouter aux Favoris, et retrouve les précédents dans l'Historique. Touche `Utiliser ce compliment` et il passe direct sur ton widget.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Reviens chaque jour, ça compte",
+      "text": "Chaque jour où tu passes prolonge ta série. À 7, 30 ou 100 jours d'affilée, et à 50 et 100 jours au total, un succès se débloque.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "Trois étapes pour commencer",
+    "items": [
+      {
+        "title": "Choisis ton humeur",
+        "text": "Ouvre `Choisis ton humeur` et touche celle du moment."
+      },
+      {
+        "title": "Personnalise le widget",
+        "text": "Dans les réglages avancés, choisis police, couleur du texte, fond et fréquence."
+      },
+      {
+        "title": "Ajoute-le à l'écran d'accueil",
+        "text": "Maintiens le doigt sur l'écran d'accueil, touche + et cherche Trop Fan de Toi."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Ce que tu peux régler sur le widget",
+    "rows": [
+      [
+        "Police",
+        "13 polices, dont Futura, Georgia et Marker Felt"
+      ],
+      [
+        "Couleur du texte",
+        "Celle que tu veux"
+      ],
+      [
+        "Fond",
+        "Un dégradé de deux couleurs ou une des photos fournies"
+      ],
+      [
+        "Alignement",
+        "À gauche, centré ou à droite"
+      ],
+      [
+        "Interligne",
+        "Lignes plus serrées ou plus aérées"
+      ],
+      [
+        "Fréquence de rafraîchissement",
+        "Un nouveau compliment toutes les 5, 15 ou 30 minutes"
+      ]
+    ],
+    "note": "La taille du widget se choisit au moment de l'ajouter à l'écran d'accueil."
+  },
+  "pricing": {
+    "title": "Tu l'achètes une fois, c'est tout",
+    "free": {
+      "name": "L'app",
+      "items": [
+        "281 compliments pour 14 humeurs",
+        "Un widget d'écran d'accueil à ton style",
+        "Favoris et Historique",
+        "Séries et succès"
+      ]
+    },
+    "pro": {
+      "name": "Soutenir le développeur",
+      "items": [
+        "Un petit, moyen ou grand pourboire, au choix",
+        "Cela ne débloque rien. C'est juste une façon de dire merci"
+      ],
+      "note": "Seulement si l'envie t'en prend."
+    },
+    "note": "Pas d'abonnement, pas d'achat en plus, pas de pub."
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "items": [
+      {
+        "q": "Comment ajouter le widget ?",
+        "a": "Maintiens le doigt sur un espace vide de l'écran d'accueil jusqu'à ce que les icônes bougent, touche + en haut, cherche Trop Fan de Toi et choisis une taille."
+      },
+      {
+        "q": "Comment le compliment suivant est-il choisi ?",
+        "a": "Quand tu choisis une humeur, un compliment pour elle arrive aussitôt sur le widget. Ensuite, le widget en affiche un au hasard parmi les 281, à la fréquence choisie. Dans l'app, tu peux aussi toucher `Compliment suivant` pour passer au suivant."
+      },
+      {
+        "q": "Je peux changer la police ou la fréquence du widget ?",
+        "a": "Oui. Dans les réglages avancés, tu changes la police, la couleur du texte, le fond, l'alignement, l'interligne et la fréquence de rafraîchissement : 5, 15 ou 30 minutes."
+      },
+      {
+        "q": "Le widget n'a pas changé tout de suite.",
+        "a": "C'est iOS qui décide quand redessiner les widgets, il peut donc avoir un peu de retard sur la fréquence choisie. Ouvre l'app puis ferme-la, et le widget se met à jour."
+      },
+      {
+        "q": "Comment marche la série ?",
+        "a": "Chaque jour d'affilée où tu regardes un compliment allonge ta série. Dans `Mes stats`, tu vois ta série en cours, ton record, le total de jours et tes succès."
+      },
+      {
+        "q": "Mes favoris et mon historique ont disparu.",
+        "a": "Tout est enregistré uniquement sur ton appareil, donc rien ne suit si tu supprimes l'app ou changes de téléphone. Si tu n'as rien supprimé et que tout a disparu, écris-nous un e-mail."
+      },
+      {
+        "q": "Mes données sont-elles envoyées quelque part ?",
+        "a": "Non. L'app ne collecte aucune donnée personnelle. Tes favoris et ton historique restent sur ton appareil."
+      },
+      {
+        "q": "Comment signaler un bug ou proposer une idée ?",
+        "a": "Directement via `Contacter le développeur` dans l'app, par e-mail ou en DM sur Instagram à @lee25_ios. On te répond dès qu'on a regardé."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Dès aujourd'hui, quelqu'un\nde ton côté",
+    "cta": "Télécharger sur l'App Store"
+  },
+  "ui": {
+    "skip": "Aller au contenu",
+    "languages": "Langue",
+    "privacy": "Confidentialité",
+    "contact": "Une question, une idée ? Écris à {email}."
+  }
+}

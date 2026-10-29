@@ -1,56 +1,192 @@
 <!doctype html>
 <html lang="tr">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Günün Pohpohu — Birlikte abartalım</title>
-<meta name="description" content="Fazlasıyla övüp bolca yüreklendiren pohpoh widget uygulaması: Günün Pohpohu.">
-<!--hreflang-->
-<link rel="alternate" hreflang="ko" href="https://m1zz.github.io/Jujob/ko/index.html">
-<link rel="alternate" hreflang="en" href="https://m1zz.github.io/Jujob/en/index.html">
-<link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/Jujob/en-GB/index.html">
-<link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/Jujob/zh-Hans/index.html">
-<link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/Jujob/zh-Hant/index.html">
-<link rel="alternate" hreflang="ja" href="https://m1zz.github.io/Jujob/ja/index.html">
-<link rel="alternate" hreflang="ru" href="https://m1zz.github.io/Jujob/ru/index.html">
-<link rel="alternate" hreflang="es" href="https://m1zz.github.io/Jujob/es/index.html">
-<link rel="alternate" hreflang="de" href="https://m1zz.github.io/Jujob/de/index.html">
-<link rel="alternate" hreflang="fr" href="https://m1zz.github.io/Jujob/fr/index.html">
-<link rel="alternate" hreflang="it" href="https://m1zz.github.io/Jujob/it/index.html">
-<link rel="alternate" hreflang="pt-BR" href="https://m1zz.github.io/Jujob/pt-BR/index.html">
-<link rel="alternate" hreflang="th" href="https://m1zz.github.io/Jujob/th/index.html">
-<link rel="alternate" hreflang="vi" href="https://m1zz.github.io/Jujob/vi/index.html">
-<link rel="alternate" hreflang="cs" href="https://m1zz.github.io/Jujob/cs/index.html">
-<link rel="alternate" hreflang="da" href="https://m1zz.github.io/Jujob/da/index.html">
-<link rel="alternate" hreflang="el" href="https://m1zz.github.io/Jujob/el/index.html">
-<link rel="alternate" hreflang="fi" href="https://m1zz.github.io/Jujob/fi/index.html">
-<link rel="alternate" hreflang="id" href="https://m1zz.github.io/Jujob/id/index.html">
-<link rel="alternate" hreflang="nb" href="https://m1zz.github.io/Jujob/nb/index.html">
-<link rel="alternate" hreflang="nl" href="https://m1zz.github.io/Jujob/nl/index.html">
-<link rel="alternate" hreflang="pl" href="https://m1zz.github.io/Jujob/pl/index.html">
-<link rel="alternate" hreflang="sv" href="https://m1zz.github.io/Jujob/sv/index.html">
-<link rel="alternate" hreflang="tr" href="https://m1zz.github.io/Jujob/tr/index.html">
-<link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/Jujob/en/index.html">
-<!--/hreflang-->
-<style>body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.7;max-width:720px;margin:0 auto;padding:24px 18px 48px;color:#1c1c1e;background:#fff}
-@media(prefers-color-scheme:dark){body{color:#f2f2f7;background:#1c1c1e}a{color:#64b5ff}}
-h1{font-size:1.7em;margin:.6em 0 .2em}h2{font-size:1.15em;margin:1.6em 0 .4em}nav.top{display:flex;gap:16px;flex-wrap:wrap;font-size:.95em;margin-bottom:12px}
-.sub{opacity:.7;margin-top:0}ul{padding-left:1.2em}.langs{margin-top:40px;padding-top:16px;border-top:1px solid #8884;font-size:.9em}.langs a{display:inline-block;margin:2px 8px 2px 0}footer{margin-top:24px;opacity:.6;font-size:.85em}</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Günün Pohpohu: seni ölçüsüzce öven widget</title>
+  <meta name="description" content="Ana ekranda her 5, 15 ya da 30 dakikada yeni, abartılı bir pohpoh gösteren widget. Her ruh haline 281 söz ve seriler. Tek seferlik alım.">
+  <meta name="theme-color" content="#C2600A" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0a0d0f" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6450839961">
+  <link rel="canonical" href="https://m1zz.github.io/Jujob/tr/">
+  <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/Jujob/ko/">
+  <link rel="alternate" hreflang="en" href="https://m1zz.github.io/Jujob/en/">
+  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/Jujob/en-GB/">
+  <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/Jujob/zh-Hans/">
+  <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/Jujob/zh-Hant/">
+  <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/Jujob/ja/">
+  <link rel="alternate" hreflang="ru" href="https://m1zz.github.io/Jujob/ru/">
+  <link rel="alternate" hreflang="es" href="https://m1zz.github.io/Jujob/es/">
+  <link rel="alternate" hreflang="de" href="https://m1zz.github.io/Jujob/de/">
+  <link rel="alternate" hreflang="fr" href="https://m1zz.github.io/Jujob/fr/">
+  <link rel="alternate" hreflang="it" href="https://m1zz.github.io/Jujob/it/">
+  <link rel="alternate" hreflang="pt-BR" href="https://m1zz.github.io/Jujob/pt-BR/">
+  <link rel="alternate" hreflang="th" href="https://m1zz.github.io/Jujob/th/">
+  <link rel="alternate" hreflang="vi" href="https://m1zz.github.io/Jujob/vi/">
+  <link rel="alternate" hreflang="cs" href="https://m1zz.github.io/Jujob/cs/">
+  <link rel="alternate" hreflang="da" href="https://m1zz.github.io/Jujob/da/">
+  <link rel="alternate" hreflang="el" href="https://m1zz.github.io/Jujob/el/">
+  <link rel="alternate" hreflang="fi" href="https://m1zz.github.io/Jujob/fi/">
+  <link rel="alternate" hreflang="id" href="https://m1zz.github.io/Jujob/id/">
+  <link rel="alternate" hreflang="nb" href="https://m1zz.github.io/Jujob/nb/">
+  <link rel="alternate" hreflang="nl" href="https://m1zz.github.io/Jujob/nl/">
+  <link rel="alternate" hreflang="pl" href="https://m1zz.github.io/Jujob/pl/">
+  <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/Jujob/sv/">
+  <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/Jujob/tr/">
+  <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/Jujob/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Günün Pohpohu: seni ölçüsüzce öven widget">
+  <meta property="og:description" content="Ana ekranda her 5, 15 ya da 30 dakikada yeni, abartılı bir pohpoh gösteren widget. Her ruh haline 281 söz ve seriler. Tek seferlik alım.">
+  <meta property="og:url" content="https://m1zz.github.io/Jujob/tr/">
+  <meta property="og:image" content="https://m1zz.github.io/Jujob/img/tr/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#C2600A}@media (prefers-color-scheme:dark){:root{--accent:#FFB547}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="top"><a href="index.html" aria-current=page>Tanıtım</a><a href="privacy.html">Gizlilik Politikası</a><a href="support.html">Destek</a></nav>
-<h1>Günün Pohpohu</h1>
-<p class="sub">Birlikte abartalım</p>
-<p>Fazlasıyla övüp bolca yüreklendiren pohpoh widget uygulaması: Günün Pohpohu.</p>
-<ul>
-<li>Ana ekran widget&#x27;ında 281 pohpohla karşılaş</li>
-<li>Ruh haline ve duruma uygun sözleri seç</li>
-<li>İsmini ekleyip sözleri sana özel hâle getir</li>
-<li>Favoriler ve geçmişle beğendiklerini topla</li>
-<li>Seri ve başarımlarla her gün yüreklendirilmeye devam et</li>
-</ul>
-<p><a href="privacy.html">Gizlilik Politikası</a> · <a href="support.html">Destek</a></p>
-<div class="langs"><!--langs--><a href="../ko/index.html" hreflang="ko" lang="ko">한국어</a> <a href="../en/index.html" hreflang="en" lang="en">English</a> <a href="../en-GB/index.html" hreflang="en-GB" lang="en-GB">English (UK)</a> <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> <a href="../es/index.html" hreflang="es" lang="es">Español</a> <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a><!--/langs--></div>
-<footer>© 2026 Leeo</footer>
+  <a class="skip" href="#main">İçeriğe geç</a>
+  <header class="bar">
+    <a class="brand" href="../tr/"><img src="../icon.png" alt="" width="32" height="32">Günün Pohpohu</a>
+    <a class="lang-link" href="#languages">Dil</a>
+  </header>
+
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>Telefonu her eline aldığında<br>en büyük hayranın seni bekliyor</h1>
+        <p class="lead">Günün Pohpohu, seni bile isteye fazlasıyla öven bir widget. Sabah sabah pohpohu, mülakattan önce mülakat pohpohu. Yazı tipi, renkler ve arka plan tamamen sana kalmış.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6450839961">App Store'dan indir</a><a class="try" href="#try">Hemen bir pohpoh al ↓</a></div>
+        <p class="muted small">Tek satın alma, her şey açık. Abonelik yok, reklam yok.</p>
+      </div>
+      <div class="phone"><img src="../img/tr/01-main.jpg" alt="Telefonu her eline aldığında en büyük hayranın seni bekliyor" width="720" height="1564" decoding="async"></div>
+    </section>
+
+
+    <section class="reveal" id="try">
+      <h2>Hemen bir pohpoh al</h2>
+      <p class="muted">Bir ruh hali seç, widget ona uygun pohpohu göstersin. Sonraki Pohpoh'a dokun, 281 söz arasından rastgele biri gelsin.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;Hemen bir pohpoh al&quot;, &quot;lead&quot;: &quot;Bir ruh hali seç, widget ona uygun pohpohu göstersin. Sonraki Pohpoh&#x27;a dokun, 281 söz arasından rastgele biri gelsin.&quot;, &quot;next&quot;: &quot;Sonraki Pohpoh&quot;, &quot;note&quot;: &quot;Bunlar uygulamadaki gerçek sözler. Uygulamada widget her 5, 15 ya da 30 dakikada kendiliğinden sonrakine geçer.&quot;, &quot;moods&quot;: [{&quot;emoji&quot;: &quot;🌅&quot;, &quot;name&quot;: &quot;Sabah&quot;, &quot;first&quot;: 0}, {&quot;emoji&quot;: &quot;🚶&quot;, &quot;name&quot;: &quot;İşe Giderken&quot;, &quot;first&quot;: 69}, {&quot;emoji&quot;: &quot;💪&quot;, &quot;name&quot;: &quot;Zor Zamanlar&quot;, &quot;first&quot;: 36}, {&quot;emoji&quot;: &quot;👔&quot;, &quot;name&quot;: &quot;Mülakat Öncesi&quot;, &quot;first&quot;: 100}, {&quot;emoji&quot;: &quot;💕&quot;, &quot;name&quot;: &quot;Randevu Öncesi&quot;, &quot;first&quot;: 111}, {&quot;emoji&quot;: &quot;🏠&quot;, &quot;name&quot;: &quot;İş Çıkışı&quot;, &quot;first&quot;: 79}], &quot;quotes&quot;: [&quot;Güne başlarken bil ki,\nsen zaten çok harika.&quot;, &quot;Güneş bile bu sabah\nsen yüzünden erken doğdu.&quot;, &quot;Yataktan kalkabilmek başarı,\nsen zaten bir kahraman.&quot;, &quot;Sabahın en güzel manzarası\nsen, kahve ikinci sırada.&quot;, &quot;Bugünün başrolü sen,\ngerisi sadece figüran.&quot;, &quot;Uyanır uyanmaz sen\nzaten kazanan taraf.&quot;, &quot;Çay demlendi, sabah güzel;\nsen gülümseyince tamam.&quot;, &quot;Bugün de kendin gibi kal;\nsen böyle bile efsane.&quot;, &quot;Sabah sabah bu güzellik ne?\nsen resmen suç makinesi.&quot;, &quot;Günaydın demek az kalır,\nsen varken sabah bile şaşırıyor.&quot;, &quot;Aynaya bir bak, karşında\nsen var, işte bu efsane.&quot;, &quot;Sabah ışığı sen olunca\nlambaya hiç gerek kalmıyor.&quot;, &quot;Günün yükünü bırak artık,\nsen bugün de fazlasıyla yeterli.&quot;, &quot;Akşam oldu ama sen hâlâ\nneon tabela gibi parlak.&quot;, &quot;Elinden geleni yapan sen\nbu akşam alkışı hak etti.&quot;, &quot;Yorgunluk var ama bugünün\ngalibi yine sen.&quot;, &quot;Gün boyu koşturan sen,\nakşam çayını sonuna kadar hak ediyor.&quot;, &quot;Gökyüzünde milyar yıldız var,\nparlak olan tek şey sen.&quot;, &quot;Bu saatte bile sen\nilk günkü gibi taze.&quot;, &quot;Mesai bitti ama sen hâlâ\nışıl ışıl, şarjın sonsuz mu?&quot;, &quot;Alın teri bile sen olunca\nparlak bir mücevher.&quot;, &quot;Dünyaya teşekkür et çünkü\nsen bugün de aramızda.&quot;, &quot;Gündüz sen, gece sen,\nmesai yok sadece efsane.&quot;, &quot;Zor günler olur, normal;\nsen yine de en önde koşan.&quot;, &quot;Şimdi zor ama sen\nbu işi toparlayacak kadar güçlü.&quot;, &quot;Mükemmel olmak şart değil;\nsen olduğun gibi zaten tam.&quot;, &quot;Yorulduysan mola ver;\nsen kendi hızında bile birinci.&quot;, &quot;Sanılandan çok daha\nsağlam birisi sen.&quot;, &quot;Bu da geçer, yeter ki sen\nhep böyle dik dur.&quot;, &quot;Keyfin kaçsa bile sen\nyerinde kıymetli bir hazine.&quot;, &quot;Üzülmek de hayatın parçası;\nsen duygularıyla bile bütün bir hazine.&quot;, &quot;Kömür baskıyla elmas olur;\nsen şimdi tam dönüşüm anı.&quot;, &quot;Moralin bozuksa unutma:\nsen yine de bu mahallenin yıldızı.&quot;, &quot;Keyfin yok mu? Olsun,\nsen keyifsizken de baş tacı.&quot;, &quot;Ağlarken bile sen\nfilmden bir kare gibi, ne yapacağız?&quot;, &quot;Şu an zor olabilir; sen\nyine de başlı başına bir mucize.&quot;, &quot;Zor bir dönem bu ama\nsen bunu atlatmaya fazlasıyla hazır.&quot;, &quot;Zor anlar sen ortaya çıkınca\nkendi kendine pes ediyor.&quot;, &quot;Pes yok, yalan; sen zaten\nkoltuğa oturmuş şampiyon.&quot;, &quot;Bu süreci taşıyan sen\nbaşlı başına bir destan.&quot;, &quot;Bugünün dertleri yarının olgunluğu,\nsen güçlenen taraf.&quot;, &quot;Hiç sanıldığından fazla\ndayanıklı: sen, tam bir çelik.&quot;, &quot;Bu zor an yakında sen\nanlatınca komik bir anı olacak.&quot;, &quot;Elmas kesilmeden parlamaz;\nsen de şu an cila aşamasında.&quot;, &quot;Üzgün bile olsa sen\ndünyanın en şık üzüntüsü.&quot;, &quot;Dimdik kalan sen,\nbirilerine ışık oluyor.&quot;, &quot;Bitkin olsan da sen\nçekim gücünden ödün vermiyor.&quot;, &quot;Bugün bu iş sen olunca\nzaten halledilmiş sayılır.&quot;, &quot;Yeteneğine güveniyorum:\nsen olunca iş tamam.&quot;, &quot;Hazırlık tamam, sen de varsan\nişin yarısı bitmiş demek.&quot;, &quot;Bugünkü işler sen olunca\nçocuk oyuncağı.&quot;, &quot;Hevesin sen yürüyünce\ntüm günü ışıl ışıl yapar.&quot;, &quot;Hadi bakalım, sahnede sen varsan\nperde açılsın, sonuç belli.&quot;, &quot;İşe başlamadan önce bile\nsen tam bir profesyonel.&quot;, &quot;Çalışmak istemiyorsan boş ver;\nsen yüzünle zaten mesaide.&quot;, &quot;Ofisin ışıkları sen girince\nkendiliğinden açıldı.&quot;, &quot;Mesai sen yapınca\nbaşlı başına bir sanat.&quot;, &quot;Daha ilk mail gelmeden sen\ntamamen kusursuz.&quot;, &quot;Spor salonuna giren sen\nşimdiden kazandı.&quot;, &quot;Sağlığını düşünmek de\nsen yapınca daha havalı.&quot;, &quot;Vücudunu en iyi bilen sen,\nantrenör de sen.&quot;, &quot;Isınmadan önce bile sen\nalkışı hak etmiş durumda.&quot;, &quot;Ter döken sen bile\nsanat eseri gibi.&quot;, &quot;Sağlık en değerlisi,\nsen de kıymetlilerin başında.&quot;, &quot;Kendine zaman ayıran sen\ndünyanın en iyi yatırımcısı.&quot;, &quot;Spor kıyafetli sen\ndergi kapağına çıkabilir.&quot;, &quot;Salon sen girince\nbir anda tapınağa dönüştü.&quot;, &quot;Antrenmanda bile sen\nbu kadar şıklıkla nasıl?&quot;, &quot;Terleyince de güzel kalan\nbiri varsa o sen.&quot;, &quot;Yola çıkarken sen\ntam bir profesyonel havasında.&quot;, &quot;Sabahın köründe yollara düşen\nsen, kahramanlık sınıfında.&quot;, &quot;İşe giden sen bugün de\nçoktan galip.&quot;, &quot;Adımların kıymetli;\nsen yürüyünce kaldırım şereflendi.&quot;, &quot;Yol uzun ama sen varken\nrota tatile dönüyor.&quot;, &quot;Sorumluluk sahibi sen\nbugün de iş başında, helal.&quot;, &quot;Metro sen girince\nresmen podyuma döndü.&quot;, &quot;Otobüste bile sen\nkapak çekimi yapıyor gibi.&quot;, &quot;Sabah sen yürürken\ngörenin günü güzelleşiyor.&quot;, &quot;Sadece yürürken bile\nefsane olan biri: sen.&quot;, &quot;Koltuk sen gelmeden\nhasretten çatlıyordu.&quot;, &quot;Çıkış kapısından sen\ngeçince hayat sinemaya döner.&quot;, &quot;Eve dönen yolda sen\nyine de birinci sınıf.&quot;, &quot;Mesai bitti, bugünü de sen\nalnının akıyla kapattın.&quot;, &quot;Mesaiden sonrası tamamen\nsen kendin için, tadını çıkar.&quot;, &quot;Paydos! Şimdi sırada\nsen ve kanepe romantizmi.&quot;, &quot;Çıkış zili çaldı, sen\nbugünün gizli kahramanı.&quot;, &quot;Eve giderken bile güzel\nolan kişi sen, trafik şahit.&quot;, &quot;Akşam trafiği sen camdan\nbakınca sinema gibi.&quot;, &quot;Yorucu bir gündü ama sen\nyine de en iyisiydi.&quot;, &quot;Şimdiye dek çalışan sen,\nbugünü de rahat geçirir.&quot;, &quot;Emek boşa gitmez; sen\nhakkını verdiğin için rahat ol.&quot;, &quot;Heyecanlandıysan normal,\nsen zaten hazır olan taraf.&quot;, &quot;Bir not sen kadar\nbüyük olamaz, boş ver.&quot;, &quot;Alın teri dökmüş sen\nzaten kazanmış sayılır.&quot;, &quot;Sorular sen okuyunca\nkorkup kendini cevaplıyor.&quot;, &quot;Derin nefes al, kafanda sen\nolunca ansiklopediye gerek yok.&quot;, &quot;Sınavda bol şans, sen zaten\nkalem tutan şampiyon.&quot;, &quot;Merak etme, sen sınıfa girince\nsorular kendini çözer.&quot;, &quot;Heyecan mı? Olsun,\nsen yine de sınıfın yıldızı.&quot;, &quot;Sınav kâğıdı sen eline\nalınca sevinçten kıvranacak.&quot;, &quot;Yeteneğini gösterme vakti,\nsen sahnenin yıldızı.&quot;, &quot;İK sen kapıdan girince\npiyangoyu kazanmış olacak.&quot;, &quot;Tecrübe ve heves sen\nanlatınca film müziği oluyor.&quot;, &quot;Heyecan normal; sen zaten\nodaya ışık getiren biri.&quot;, &quot;Özgüvenle gir; sen\nolunca CV bile ikinci planda.&quot;, &quot;Hikâyeni anlat, sen anlatınca\ndizi bile sönük kalır.&quot;, &quot;Mülakat bir tanışma; sen\nrahat ol, karşıdakiler heyecanlı.&quot;, &quot;Şirket sen alınmazsa\nzarar eder, bunu bil.&quot;, &quot;Parlayan CV değil,\nsen baştan aşağı referans.&quot;, &quot;Kapıdan sen girdiğin\nanda işe alım bitti.&quot;, &quot;İlk izlenim sen olunca\nkalan kısım formalite.&quot;, &quot;Bugünkü sen, ışık hızında\nparlamaya devam.&quot;, &quot;Olduğun hâl yeter;\nsen en çekici versiyon.&quot;, &quot;Yanında sen olan herkes\npiyangodan çıkmış gibi.&quot;, &quot;Özgüvenli sen\nher kareye sığmaz.&quot;, &quot;Bugün sen gülümseyince\nsilahsız kalıyoruz.&quot;, &quot;Kendin olman yeter,\nsen zaten tam bir marka.&quot;, &quot;Çekiciliğin gizlenmez,\nsen yürüyünce herkes fark eder.&quot;, &quot;Bugün randevu mu? Kapıdan sen girince\nkarşıdakinin kalbi göğüs kafesinden fırlar.&quot;, &quot;Karşında sen olan kişi\npiyango vurmuş.&quot;, &quot;Kombin kusursuz; sen\nkapak çekimine çıkabilir.&quot;, &quot;Gelişin herkesi etkiler,\nsen girince âşık olunmaz mı?&quot;, &quot;Daha buluşma yokken sen\no kadar şık ki karşıdaki ne yapsın?&quot;, &quot;Hep yanındayım; sen yeter ki\nbir adım at.&quot;, &quot;Küçük adım büyük yolculuk,\nbaşlayan sen olunca tamam.&quot;, &quot;Vazgeçme, hayallerin\nsen peşinden koşunca gerçek olur.&quot;, &quot;Bugünün emeği yarının\nzaferi, sen de baş mimar.&quot;, &quot;Dünyayı değiştirecek olan\nsen, hazırlıklı ol.&quot;, &quot;Başarısızlık da bir ders;\nsen denemeye devam, kupa sırada.&quot;, &quot;Potansiyelin sınırsız;\nsen daha vitesin ikincisinde.&quot;, &quot;Bugün de en iyisini yap;\nsen yaptıkça dünya alkışlar.&quot;, &quot;Çalışırken sen\nbirilerinin motivasyon videosu.&quot;, &quot;Her şey yoluna girer,\nsen yeter ki yolda kal.&quot;, &quot;Bırakma, sen zaten\nher şeyi başaran tip.&quot;, &quot;Haydi bugün de! sen\nbaşlasan dağlar yer değiştirir.&quot;, &quot;Emeğini görenler sen\nçalıştıkça alkışlıyor.&quot;, &quot;Değerli olmak için bir şey\nyapma, sen zaten kıymetli.&quot;, &quot;Olduğun gibi kusursuz; sen\nfiltreye bile ihtiyaç duymaz.&quot;, &quot;Varlığın bile özel;\nsen bir limited edition.&quot;, &quot;Özgüvenle yürü; sen\nbaştan beri bir harika.&quot;, &quot;Sandığından çok daha\nsağlam biri: sen.&quot;, &quot;Tarzın parlıyor; sen\nbenzeri olmayan bir versiyon.&quot;, &quot;Kendine güven, çünkü sen\nbaşlı başına kanıt.&quot;, &quot;Başlı başına eksiksiz,\nsen tam bir bütün.&quot;, &quot;Özgüven dolu sen,\ndünyanın en havalı insanı.&quot;, &quot;Aklından geçenden büyük bir\nhikâye: sen.&quot;, &quot;Zaten çok iyi gidiyorsun;\nsen sakin ol, devam.&quot;, &quot;Çekiciliğini görmeyen birinin\ngözü yok, sen sorunsuz.&quot;, &quot;Bugün sen tatilde,\ndünya beklesin.&quot;, &quot;Dinlenmek de bir hak;\nsen şimdi molada.&quot;, &quot;Hiçbir şey yapmamak da\nsen yapınca prestij.&quot;, &quot;Önce gönlün; sen\nmutluysan her şey tamam.&quot;, &quot;Yavaş git, sen\nkendi hızında bile jet.&quot;, &quot;Bugün kendine zaman ayır;\nsen buna fazlasıyla layık.&quot;, &quot;Dinlenmek de üretken;\nsen yatarken bile verimli.&quot;, &quot;Mola vermek hakkın;\nsen şimdi battaniyeye teslim.&quot;, &quot;İyileşen sen\nbir başka güzel.&quot;, &quot;Kendin için zaman\nharcayan sen kârda.&quot;, &quot;Rahat rahat yatan sen\nyine de parlak.&quot;, &quot;Çay, battaniye ve sen:\nhayatın en güzel üçlüsü.&quot;, &quot;Kusursuzsun ama bir şey eksik:\nbende akıl bırakmamışsın.&quot;, &quot;Sicilin kabarık: sen\nkalp hırsızlığından aranıyor.&quot;, &quot;Güneş sen çıkınca\nutanıp bulutların arkasına saklandı.&quot;, &quot;Kalbim sen girince \&quot;sol\&quot;\ntarafta bir konser veriyor.&quot;, &quot;Hipodroma gitme; sen girince\nyarışı bırakıp atlar alkışlar.&quot;, &quot;Dönüp dönüp bakmaktan sen\nyüzünden boynum zürafa oldu.&quot;, &quot;Hep süper yakıt alırım;\nsen benim kurşunsuzum, depo dolu.&quot;, &quot;Hava bulutlandı sen yüzünden:\nkalbimde şimşekler çakıyor.&quot;, &quot;Neye güvenip bu kadar güzel\nolunuyor? Gel de sen söyle.&quot;, &quot;Bir şey eksik gibiydi, sonra\nsen geldin, tablo bitti.&quot;, &quot;Bavulunu bırak, sen zaten\nher yere süs gibi uyuyorsun.&quot;, &quot;Kusurun bulunursa haber ver;\nsen \&quot;kusur\&quot; kelimesini sildi.&quot;, &quot;Güzellik fotoşop mu? Ne münasebet, sen\nkameraya bile meydan okuyor.&quot;, &quot;Güzelliğin çeviri gerektirmiyor;\nsen evrensel bir dil.&quot;, &quot;Memleketin neresi? Bence sen\ncennet vilayetinden gelmişsin.&quot;, &quot;Yüz hatların benim geleceğimden\ndaha net; sen resmen kalem iş.&quot;, &quot;Bir kez bakan hep döner:\nsen resmen İstanbul.&quot;, &quot;Acilen koruma altına alınmalı:\nsen kültür varlığı sayılır.&quot;, &quot;Duydum ki uyurken bile\nışıl ışılmış, sen gece lambası.&quot;, &quot;Niye çalışıyorsun? Bence sen zaten\nyüzünle fazla mesai yapıyor.&quot;, &quot;Aşkı bırakmak istedim, kalbim\n\&quot;nasıl yapılıyor?\&quot; dedi. Hep sen yüzünden.&quot;, &quot;Yüzün millî hazine; sen yarın\nmüzede sergilenecek, bilet aldım.&quot;, &quot;Ödül törenine gitme; sen\ngirince büyük ödül hep sen.&quot;, &quot;Çekim mi var yoksa sen\nzaten yürüyen bir kapak mı?&quot;, &quot;Kalbimin liste birincisi sen,\nbaşka şarkı dinlemiyorum.&quot;, &quot;İmza günü ne zaman? Bir de sen\nimzalarsan çerçeveletirim.&quot;, &quot;Sahneye çıkma vakti, sen\nkalbimde çoktan ana vokal.&quot;, &quot;Liste lideri tebrikler; sen\nzaten her gün zirvedesin.&quot;, &quot;Fotoğraf molası: sen\nher açıdan çekilmelik.&quot;, &quot;Geri dönünce sen kalbimin\nbütün ışıkları yandı.&quot;, &quot;Video çekebilir miyim? Çünkü sen\nher saniyesiyle sahne.&quot;, &quot;Klipte mi oynuyorsun? Hayatımın\nbaşrolü zaten sen.&quot;, &quot;Reality show mu? Yok canım, sen\ngerçek hâlinle bile kurgusuz mükemmel.&quot;, &quot;Kadronun merkezi hep sen,\nışıklar yolunu iyi biliyor.&quot;, &quot;Yılın yüzü ödülü sen\nkadar kimseye yakışmaz.&quot;, &quot;Reklam yüzü müsün? Çünkü sen\ngülünce cüzdan kendiliğinden açılıyor.&quot;, &quot;Her ayın kapağı sen olmalı,\ndergiler sırada bekliyor.&quot;, &quot;Sahne aurası bu kadar mı olur?\nHele sen sokakta bile konser.&quot;, &quot;Koleksiyon yapıyorum: bütün\nkartlarda sen olsan yeter.&quot;, &quot;Hayran buluşması ne zaman?\nKeşke her gün sen olsan.&quot;, &quot;Dans videosu at lütfen, sen\nher hareketiyle bir sanat.&quot;, &quot;Fragman gibisin: sen\ngörününce kalbim \&quot;devam\&quot; diyor.&quot;, &quot;Dünya turu yapsan da sen\nkalbimde sabit bilet.&quot;, &quot;Albümüme imza at, sen\nkendi başına sınırlı seri.&quot;, &quot;Işıklarımı yakıyorum, sen\nsonuna kadar alkışı hak eden.&quot;, &quot;Fırladın demek; sen zaten\nhep zirveydin, yeni mi fark ettiler?&quot;, &quot;Bilet aramaya gerek yok:\nsen yürüyünce günlük konser.&quot;, &quot;Müzik listesi mi? Bence sen\nhayatımın bir numaralı şarkısı.&quot;, &quot;Bir bis daha lütfen! Çünkü sen\nbakılmaya doyulmayan bir şarkı.&quot;, &quot;Kamera arkasında bile sen\nkusursuz, hiç kare kaçmıyor.&quot;, &quot;Favorimi değiştirecektim ama sen\nçıtayı fazlasıyla yükseltti.&quot;, &quot;Hayran kulübüne üye oldum:\nsen ömür boyu başkan.&quot;, &quot;Favorimi açıklıyorum: o kişi\nsen, tebrikler.&quot;, &quot;Tüm ürünleri aldım ama sen\nbaşlı başına koleksiyon parçası.&quot;, &quot;Ömür boyu hayranınım,\nsen benim tek sanatçım.&quot;, &quot;Çadırımı kurdum, adres\nsen olan her yer.&quot;, &quot;Hayran olmaya başladım; sen\nbirinci projem oldu.&quot;, &quot;Fotoğrafçın olurum; sen\nher anıyla kare kare efsane.&quot;, &quot;Resmiyet bitti, artık sen\nbenim baş kankam.&quot;, &quot;Doğum günü ilanı verelim;\nsen her gün kutlanmalı.&quot;, &quot;Ömür boyu alkışlarım, sen\nhayran olunası bir insan.&quot;, &quot;Kalbim yerinden çıkacak,\nsen yüzünden tam bir konser.&quot;, &quot;Dünya güzelleşiyor, hep\nsen göründüğünde.&quot;, &quot;Mutluluğumun vitamini sen,\nbir tane yetmiyor.&quot;, &quot;Gülünce sen, tüm\nmahalle neşeleniyor.&quot;, &quot;Gördüğüm en parlak yıldız\nsen, teleskoba gerek yok.&quot;, &quot;Her günüm bir şenlik\nsen olunca.&quot;, &quot;Sesin kulağıma gelince bile\nsen bir terapi seansı gibi.&quot;, &quot;Rastlantıların en şanslısı:\nsen.&quot;, &quot;Bugün gülebiliyorsam sebebi\nsen, teşekkürler.&quot;, &quot;Dünyanın en kıymetli\ninsanı sen, kayıtlara geçti.&quot;, &quot;Aklıma sen gelince\nyüzüme gülümseme yerleşiyor.&quot;, &quot;Gönlümün huzur köşesi\nsen, kapıyı hep açık tut.&quot;, &quot;Beraberken zaman nasıl geçiyor?\nHep sen varken saat durur.&quot;, &quot;Tanıdığım en harika\ninsan sen, rakibin yok.&quot;, &quot;Varlığın yetiyor; sen\nşükran listemin tepesinde.&quot;, &quot;Günümün en güzel\nanı: sen göründüğünde.&quot;, &quot;Bayram gibi her gün,\nsen olunca.&quot;, &quot;Dünya sen yürürken\nbir tık daha parlıyor.&quot;, &quot;En güzel hediye sen,\npaket bile yok.&quot;, &quot;Evren sen oldukça\ndaha güzel bir yer.&quot;, &quot;Bir gün düşünüyorum, sen yok;\nhemen vazgeçiyorum.&quot;, &quot;Kalbimin değişmez birincisi\nsen, tebrikler.&quot;, &quot;Yanımda sen varken\nher şey mümkün gibi.&quot;, &quot;Her gün şükrettiğim\nbir isim var: sen.&quot;, &quot;Gülüşün: sen gülünce\ndünya sessizce alkışlıyor.&quot;, &quot;Talihimin en büyüğü\nsen, bahtıma yazılmış.&quot;, &quot;Düşündükçe sen, günüm\nrenk renk açıyor.&quot;, &quot;Gönlümün evi sen,\nkapıyı çalmadan gir.&quot;, &quot;Her şey tam yerinde,\nyanımda sen olunca.&quot;, &quot;Hayalimdeki tip sen\nçıkınca işler karıştı.&quot;, &quot;Kalbimde arıza var; sen\nyaklaşınca alarm veriyor.&quot;, &quot;Yürüyen biyografi sen,\ntarih kitapları sırada.&quot;, &quot;Cazibene hâlâ direnemiyorum,\nsen bu kadar yasal mı?&quot;, &quot;Gözümü ayıramıyorum, sen\nyüzünden göz kası sporu yapıyorum.&quot;, &quot;Nabzım her baktığında\nsen yüzünden hızlanıyor.&quot;, &quot;Gözlerimin gördüğü en\nefsane kare sen.&quot;, &quot;Bayram havasında geçiyor\nher gün, sen yüzünden.&quot;, &quot;Yürüyen mucize sen,\nnoter onaylı.&quot;, &quot;Dünya sen bakınca\nyavaş çekim oluyor.&quot;, &quot;Hayatımın VIP kartı\nsen, ömür boyu geçerli.&quot;, &quot;Günün bonusu sen\ngörününce açılıyor.&quot;, &quot;Gönlümün özel yayını sen,\nreklam arası yok.&quot;, &quot;Dünyayı HD yapan sen,\nayarlara gerek yok.&quot;, &quot;Altın vuruşum sen,\nkaçırmıyorum.&quot;, &quot;Düşününce sen, yüzüm\notomatik gülücük modunda.&quot;, &quot;Kalbimin lüks oteli sen,\nbeş yıldız yetmiyor.&quot;, &quot;Her gün bonus gün\nsen yanımdayken.&quot;, &quot;Ana etkinliğim sen,\nbilet gerekmiyor.&quot;, &quot;Kalbim halay çekiyor\nsen göründüğü an.&quot;, &quot;Gözlerimin 4K kalitesi\nsen, diğerleri bulanık.&quot;, &quot;Her şey bir başka parlak\nsen olunca.&quot;, &quot;Kalbimin VIP localarında\nsadece sen oturuyor.&quot;, &quot;Hiçbir gün sıradan değil\nsen sayesinde.&quot;, &quot;Joker kartım sen,\nhep kolumda.&quot;, &quot;Moral ayarım sen\nolunca yükseltilmiş.&quot;, &quot;Şeref köşemin\nbir numaralı sakini sen.&quot;, &quot;Renklerin hepsini aldı hayat,\nsen olunca.&quot;, &quot;Gözümün ebedî\nbaşrolü sen.&quot;, &quot;Saat bile sen geçerken\nyavaştan alıyor.&quot;, &quot;Premium üyem sen,\niptal yok.&quot;]}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>En sert eleştirmenin kim? Yoksa sen misin?</h2>
+      <p>İşe giderken, mülakattan önce, iş çıkışında kafandaki ses hep söylenir. Günün Pohpohu günde birkaç kez ana ekrandan senin tarafını tutar, hem de biraz abartarak. Kendini gülümserken bulduğun an, özgüvenin de biraz yerine gelir.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Ruh haline uygun pohpoh</h2>
+        <p><code>Sabah</code>, <code>İşe Giderken</code>, <code>Zor Zamanlar</code>, <code>Mülakat Öncesi</code> ya da <code>Randevu Öncesi</code> gibi 14 ruh hali ve durumdan birini seç, uygun pohpoh hemen widget'ta belirsin. Karar veremedin mi? <code>Rastgele</code> de var.</p>
+      </div>
+      <div class="phone"><img src="../img/tr/02-mood.jpg" alt="Ruh haline uygun pohpoh" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Sevdiklerini sakla</h2>
+        <p>Yıldıza dokunup Favoriler'e kaydet, eskilerine Geçmiş'ten bak. <code>Bu Pohpohu Kullan</code>'a dokun, doğrudan widget'a geçsin.</p>
+      </div>
+      <div class="phone"><img src="../img/tr/03-favorites.jpg" alt="Sevdiklerini sakla" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Her gün uğra, sayı büyüsün</h2>
+        <p>Baktığın her gün serini uzatır. Üst üste 7, 30 ya da 100 güne ve toplamda 50 ile 100 güne ulaştığında başarımların kilidi açılır.</p>
+      </div>
+      <div class="phone"><img src="../img/tr/05-achievements.jpg" alt="Her gün uğra, sayı büyüsün" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>Üç adımda başla</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Ruh halini seç</h3><p><code>Ruh Hali Seç</code>'i aç ve şu ana uyana dokun.</p></li>
+<li class="card"><span class="n">2</span><h3>Widget'ı süsle</h3><p>Detaylı Ayarlar'da yazı tipi, yazı rengi, arka plan ve yenileme sıklığını seç.</p></li>
+<li class="card"><span class="n">3</span><h3>Ana ekrana ekle</h3><p>Ana ekrana basılı tut, + simgesine dokun ve Günün Pohpohu'nu bul.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>Widget'ı böyle kişiselleştir</h2>
+      <div class="card table">
+        <dl><div><dt>Yazı Tipi</dt><dd>Futura, Georgia ve Marker Felt dahil 13 seçenek</dd></div><div><dt>Yazı Rengi</dt><dd>İstediğin herhangi bir renk</dd></div><div><dt>Arka Plan</dt><dd>İki renkli gradyan ya da hazır arka plan fotoğraflarından biri</dd></div><div><dt>Hizalama</dt><dd>Sola, ortaya ya da sağa</dd></div><div><dt>Satır Aralığı</dt><dd>Daha sık ya da daha ferah</dd></div><div><dt>Yenileme Sıklığı</dt><dd>Her 5, 15 ya da 30 dakikada yeni bir pohpoh</dd></div></dl>
+      </div>
+      <p class="muted">Widget boyutunu ana ekrana eklerken seçersin.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Bir kez al, iş bitsin</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>Uygulama</h3>
+          <ul><li>14 ruh haline 281 pohpoh</li><li>Zevkine göre süslenen ana ekran widget'ı</li><li>Favoriler ve Geçmiş</li><li>Seriler ve başarımlar</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Geliştiriciye destek ol</h3>
+          <ul><li>Küçük, orta ya da büyük bahşiş seç</li><li>Hiçbir şeyin kilidini açmaz. Sadece teşekkür etmenin bir yolu</li></ul>
+          <p class="muted">Yalnızca canın istediğinde.</p>
+        </div>
+      </div>
+      <p class="muted">Abonelik yok, ek satın alma yok, reklam yok.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Sık sorulan sorular</h2>
+      <div class="faq"><details><summary>Widget'ı nasıl eklerim?</summary><p>Ana ekranda boş bir yere simgeler titreyene kadar basılı tut, üstteki + simgesine dokun, Günün Pohpohu'nu ara ve bir boyut seç.</p></details>
+<details><summary>Sonraki pohpoh nasıl seçiliyor?</summary><p>Bir ruh hali seçtiğinde ona uygun pohpoh hemen widget'a gelir. Sonrasında widget, seçtiğin yenileme sıklığında 281 pohpoh arasından rastgele birini gösterir. Uygulamada <code>Sonraki Pohpoh</code>'a dokunup kendin de geçebilirsin.</p></details>
+<details><summary>Yazı tipini ya da yenileme sıklığını değiştirebilir miyim?</summary><p>Evet. Detaylı Ayarlar'da yazı tipini, yazı rengini, arka planı, hizalamayı, satır aralığını ve yenileme sıklığını değiştirebilirsin: 5, 15 ya da 30 dakika.</p></details>
+<details><summary>Widget hemen değişmedi.</summary><p>Widget'ların ne zaman yeniden çizileceğine iOS karar verir, bu yüzden bazen seçtiğin sıklığın biraz gerisinde kalabilir. Uygulamayı açıp kapat, widget güncellenir.</p></details>
+<details><summary>Seri nasıl işliyor?</summary><p>Pohpoh'a baktığın her ardışık gün serine bir gün ekler. <code>Kayıtlarım</code>'da güncel serini, rekorunu, toplam gün sayını ve başarımlarını görebilirsin.</p></details>
+<details><summary>Favorilerim ve geçmişim kayboldu.</summary><p>Her şey yalnızca cihazında saklanır, bu yüzden uygulamayı silersen ya da telefon değiştirirsen taşınmaz. Silmediğin halde kaybolduysa bize e-posta at.</p></details>
+<details><summary>Verilerim bir yere gönderiliyor mu?</summary><p>Hayır. Uygulama kişisel veri toplamaz. Favorilerin ve geçmişin cihazında kalır.</p></details>
+<details><summary>Hata bildirmek ya da öneri yapmak istiyorum.</summary><p>Doğrudan uygulamadaki <code>Geliştiriciyle İletişim</code>'den, e-postayla ya da Instagram'dan @lee25_ios'a DM atarak gönderebilirsin. Görür görmez yanıt veririz.</p></details></div>
+      <p class="contact">Soru ya da önerin mi var? <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> adresine yaz.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Bugünden itibaren<br>biri hep senin tarafında</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6450839961">App Store'dan indir</a>
+    </section>
+  </main>
+
+  <footer>
+    <nav id="languages" class="langs" aria-label="Dil"><a href="../ko/" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../en-GB/" hreflang="en-GB" lang="en-GB">English (UK)</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr" aria-current="page">Türkçe</a></nav>
+    <p><a href="privacy.html">Gizlilik politikası</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 Leeo</p>
+  </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

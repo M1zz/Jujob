@@ -1,0 +1,467 @@
+{
+  "title": "Pujian Lebay Harian: widget yang memujimu habis-habisan",
+  "description": "Widget Layar Utama yang menampilkan pujian lebay baru tiap 5, 15, atau 30 menit. 281 kalimat untuk tiap mood, rekor beruntun. Sekali beli.",
+  "hero": {
+    "headline": "Tiap kali buka HP,\nfans beratmu sudah menunggu",
+    "lead": "Pujian Lebay Harian adalah widget yang sengaja memujimu kelewatan. Pagi-pagi dapat pujian pagi, sebelum wawancara dapat pujian wawancara. Font, warna, dan latarnya bisa kamu atur sesukamu.",
+    "cta": "Unduh di App Store",
+    "note": "Sekali beli, semua fitur terbuka. Tanpa langganan, tanpa iklan."
+  },
+  "demo": {
+    "title": "Dapatkan satu pujian sekarang",
+    "lead": "Pilih mood, dan widget menampilkan pujian untuk mood itu. Ketuk Pujian Berikutnya untuk mengacak satu dari 281 pujian.",
+    "next": "Pujian Berikutnya",
+    "note": "Ini kalimat asli dari aplikasinya. Di aplikasi, widget berganti sendiri tiap 5, 15, atau 30 menit.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Pagi",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "Berangkat Kerja",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Lagi Berat",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Sebelum Wawancara",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Sebelum Kencan",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "Pulang Kerja",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "Hari baru, vibes baru,\nkamu tuh udah keren dari sananya.",
+      "Matahari aja kalah silau sama kamu,\npagi ini kamu juara lagi!",
+      "Bangun aja udah prestasi, lho,\nkamu hebat, semangat ya hari ini!",
+      "Pagi paling indah sedunia\nya pagi pas kamu melek.",
+      "Hari ini kamu pemeran utamanya,\nyang lain cuma figuran!",
+      "Mata baru kebuka aja,\nkamu udah menang duluan.",
+      "Senyum kamu pagi ini\nlebih manis dari kopi susu.",
+      "Jadi diri kamu sendiri hari ini,\nitu udah paling oke!",
+      "Baru bangun udah secakep itu?\nCermin aja minder lihat kamu.",
+      "Selamat pagi? Salah!\nAda kamu, jadi ini pagi paling selamat.",
+      "Mata baru melek, eh ada kamu di layar,\nrezeki nomplok banget!",
+      "Pagi ini pun kamu terdeteksi\njadi makhluk paling bersinar di bumi!",
+      "Capek ya seharian? Salut,\nkamu hebat banget hari ini.",
+      "Penutup hari kayak kamu gini\nbikin malam ikut bangga.",
+      "Udah berusaha sekuat tenaga hari ini,\nbangga deh sama kamu!",
+      "Lelah sih, tapi kamu berhasil\nbertahan sampai malam. Keren!",
+      "Hari-hari kamu selalu berarti,\nsekecil apa pun itu.",
+      "Hari ini lewat dengan selamat,\ndan itu udah lebih dari cukup!",
+      "Bintang di langit aja\nngiri sama kilau kamu!",
+      "Udah malam, tapi kamu masih bersinar.\nKok bisa secakep itu seharian?",
+      "Makasih udah berjuang seharian.\nSyukurlah ada kamu di dunia ini.",
+      "Berkat kamu, dunia hari ini\nkelihatan lebih indah.",
+      "Siang kamu legenda,\nmalam pun kamu tetap legenda.",
+      "Nggak apa-apa kok, hari berat itu wajar.\nPercaya deh, kamu udah cukup baik.",
+      "Sekarang memang berat,\ntapi kamu pasti bisa lewatin!",
+      "Nggak harus sempurna,\nkamu apa adanya udah paling top!",
+      "Capek? Istirahat aja dulu,\njalan pelan-pelan sesuai tempo kamu.",
+      "Ternyata kamu jauh lebih kuat\ndari yang kamu kira, lho!",
+      "Ini juga bakal lewat.\nYakin deh, kamu bisa!",
+      "Meski mood lagi turun,\nnilai kamu nggak ikut turun!",
+      "Sedih itu bagian dari kamu.\nRasain aja semuanya, nggak apa-apa.",
+      "Tau nggak? Berlian aja baru berkilau\nsetelah ditekan, dan kamu juga!",
+      "Lagi murung? Tenang,\nada aku yang siap ngefans sama kamu.",
+      "Mood anjlok? Justru di saat gitu\nkamu paling berharga sedunia.",
+      "Sedih pun kamu tetap menawan,\nnangis juga. Mau protes?",
+      "Walau lagi berat, keberadaan kamu\nudah jadi keajaiban tersendiri.",
+      "Sekarang memang susah,\ntapi kamu pasti berhasil!",
+      "Di saat sulit gini,\nkualitas asli kamu keluar!",
+      "Jangan nyerah ya,\nkamu tuh kuat banget.",
+      "Bertahan di masa sulit gini,\nkamu keren parah!",
+      "Kesulitan hari ini jadi pupuk\nbuat kamu tumbuh besok!",
+      "Ternyata kamu sanggup menanggung\njauh lebih banyak dari bayanganmu!",
+      "Momen berat ini\nbakal jadi kenangan nanti!",
+      "Dihajar masalah pun kamu tetap kinclong,\nnamanya juga berlian diasah.",
+      "Lagi susah? Tetap aja\nkamu paling cakep sejagat raya.",
+      "Tahu nggak, kamu yang bertahan\njadi harapan buat seseorang.",
+      "Capek setengah mati pun,\nkamu tetap menawan. Gimana dong?",
+      "Hari ini kamu pasti bisa!\nMulai dengan percaya diri, yuk!",
+      "Aku percaya sama kemampuan kamu!\nHari ini pasti seru.",
+      "Udah siap berarti\nseparuh sukses udah di tangan kamu!",
+      "Kerjaan hari ini?\nBuat kamu mah kecil!",
+      "Semangat kamu hari ini\nbakal bikin semuanya bersinar!",
+      "Gas! Hari ini juga\nlakuin dengan gaya kamu sendiri!",
+      "Belum mulai kerja aja,\naura profesional kamu udah kerasa!",
+      "Males kerja? Tenang,\nwajah kamu udah lembur duluan.",
+      "Visual berangkat kerja hari ini gila,\nkantor bersinar berkat kamu.",
+      "Cara kamu kerja itu\nseni tingkat tinggi.",
+      "Belum mulai kerja aja\nkamu udah sempurna.",
+      "Yang lagi olahraga itu kamu,\ndan kamu udah keren banget.",
+      "Tetap jaga kesehatan hari ini,\nkamu emang luar biasa!",
+      "Tubuh kamu, kamu yang paling ngerti.\nPercaya aja sama itu!",
+      "Baru mulai olahraga aja,\nkamu udah pantas dibanggain!",
+      "Keringat kamu pun\nkelihatan indah banget!",
+      "Kesehatan kamu\nyang paling penting!",
+      "Luangin waktu buat diri sendiri,\nkamu emang juara!",
+      "Pakai baju olahraga aja,\nkamu udah pantas jadi cover majalah!",
+      "Tempat gym jadi surga\ngara-gara ada kamu.",
+      "Olahraga pun kamu tetap bersinar,\nkok bisa kece terus?",
+      "Siapa bilang berkeringat nggak cakep?\nContohnya ya kamu.",
+      "Gaya kamu berangkat kerja\nprofesional banget!",
+      "Pagi-pagi udah gerak,\nkamu tuh keren banget!",
+      "Yang berangkat kerja hari ini,\nkamu udah jadi pemenang!",
+      "Setiap langkah kamu\nada artinya, lho!",
+      "Perjalanan ke kantor jadi spesial\nkalau ada kamu.",
+      "Berangkat kerja dengan penuh tanggung jawab,\nkamu keren banget!",
+      "Gara-gara kamu, gerbong kereta\nberubah jadi catwalk.",
+      "Di dalam bus pun kamu bersinar,\nmau pemotretan lagi?",
+      "Lihat kamu berangkat kerja\nbikin pagi jadi bahagia.",
+      "Jalan kaki doang udah keren,\nitulah kamu.",
+      "Kerja keras hari ini udah beres!\nPulang terus istirahat yang puas ya.",
+      "Punggung kamu pas pulang kerja\naja udah keren banget!",
+      "Di perjalanan pulang pun,\nkamu tetap yang terbaik!",
+      "Hari ini selesai dengan selamat!\nBangga sama kamu!",
+      "Sekarang waktunya buat kamu.\nIstirahat sepuasnya ya!",
+      "Sepulang kerja, luangin waktu\nbuat diri kamu sendiri!",
+      "Pulang kerja ya? Capek banget pasti.\nMakasih udah berjuang, kamu hebat!",
+      "Jalan pulang pun kamu tetap cakep,\nhari ini kamu keren banget.",
+      "Ngelihat kamu pulang kerja,\nhari ini kelihatan penuh makna.",
+      "Hari ini memang melelahkan,\ntapi kamu tetap juara!",
+      "Udah belajar sejauh ini,\nkamu pasti lancar!",
+      "Usaha kamu\nnggak bakal mengkhianati hasil!",
+      "Gugup itu wajar,\nkamu udah siap, kok!",
+      "Nilai ujian nggak bisa\nmenentukan harga diri kamu!",
+      "Udah berusaha maksimal,\nberarti kamu udah sukses!",
+      "Kalau itu kamu,\npasti bisa!",
+      "Tarik napas dalam-dalam,\npercaya sama kemampuan kamu!",
+      "Semoga ujiannya lancar,\nkamu udah siap banget.",
+      "Tenang aja,\nkamu pasti bisa jawab semuanya!",
+      "Deg-degan? Tetap aja\nkamu yang paling top!",
+      "Lembar soal aja bakal terpukau\nlihat muka kamu.",
+      "Saatnya kamu tunjukin\nkualitas asli kamu!",
+      "Pewawancara bakal beruntung\nbisa ketemu kamu!",
+      "Pengalaman dan semangat kamu\nsiap bersinar sekarang!",
+      "Gugup nggak apa-apa,\nkamu udah cukup keren, kok!",
+      "Percaya diri aja,\nkamu udah siap banget!",
+      "Ceritain kisah kamu\ndengan lantang dan bangga!",
+      "Wawancara itu saling kenalan,\njadi santai aja ya!",
+      "Kalau kamu nggak diterima,\nyang rugi perusahaannya.",
+      "Bukan CV kamu yang mewah,\ntapi kamu sendiri yang berkilau.",
+      "Begitu masuk ruang wawancara,\nkamu udah lolos duluan.",
+      "Kesan pertama dari kamu aja\nudah separuh jalan menuju diterima!",
+      "Hari ini kamu\nbersinar banget!",
+      "Jadi kamu apa adanya\nitu paling memesona!",
+      "Yang ada di dekat kamu\nberuntung banget!",
+      "Percaya diri kamu\nkeren banget!",
+      "Senyum kamu hari ini\nsenjata paling ampuh!",
+      "Jadi diri kamu sendiri aja,\nitu udah yang terbaik!",
+      "Pesona kamu\nnggak bisa disembunyiin!",
+      "Kencan hari ini?\nGebetan kamu bakal lemas lihat kamu!",
+      "Yang ketemu kamu hari ini\nberuntung tujuh turunan.",
+      "Outfit kencan kamu sempurna.\nSiap-siap jadi cover majalah!",
+      "Lihat kamu hari ini\nsiapa pun bisa jatuh cinta.",
+      "Belum kencan aja udah secakep ini.\nJantung dia mau kamu apain?",
+      "Percayalah, kamu pasti bisa!\nAku selalu dukung kamu!",
+      "Langkah kecil pun\nawal perjalanan besar!",
+      "Jangan menyerah.\nMimpi kamu bakal terwujud!",
+      "Usaha hari ini\nbikin sukses kamu besok!",
+      "Semangat kamu\nbakal mengubah dunia!",
+      "Gagal itu bumbu sukses!\nTerus coba, kamu pasti bisa!",
+      "Potensi kamu\nnggak ada batasnya!",
+      "Hari ini juga\nkasih yang terbaik, ya!",
+      "Lihat kamu berjuang gitu\nbisa jadi semangat buat orang lain.",
+      "Kalau kamu yang jalanin,\nsemua bakal lancar. Serius!",
+      "Jangan menyerah dulu,\nkamu orang keren, kok.",
+      "Semangat terus hari ini,\nkamu pasti bisa!",
+      "Orang yang tahu perjuangan kamu\npasti ikut mendukung.",
+      "Dengar ya, kamu itu\nberharga banget!",
+      "Jadi diri kamu apa adanya\nitu udah sempurna!",
+      "Keberadaan kamu aja\nudah istimewa!",
+      "Pede dong,\nkamu orang keren!",
+      "Ternyata kamu jauh lebih kuat\ndari dugaan!",
+      "Keunikan kamu\nyang bikin kamu bersinar!",
+      "Percaya sama diri sendiri,\nkamu pasti mampu!",
+      "Sempurna itu cara kamu\njadi diri sendiri.",
+      "Percaya diri tinggi,\nkamu paling keren sedunia!",
+      "Ternyata kamu tuh jauh lebih hebat\ndari yang kamu pikir!",
+      "Percaya deh, kamu udah\nmelakukan yang terbaik.",
+      "Yang nggak sadar pesona kamu\nmungkin matanya lagi libur.",
+      "Hari ini santai aja,\nistirahat dulu yuk.",
+      "Ingat, kamu juga\nbutuh istirahat.",
+      "Nggak ngapa-ngapain pun\nhari ini tetap oke!",
+      "Perasaan kamu\nyang paling penting.",
+      "Pelan-pelan aja,\nikuti tempo kamu sendiri.",
+      "Hari ini luangin waktu\nbuat kamu sendiri, ya.",
+      "Istirahat juga termasuk\nkegiatan produktif, lho!",
+      "Rebahan itu hak kamu.\nHari ini istirahat yang tenang ya.",
+      "Lagi healing pun\nkamu tetap menawan.",
+      "Hari ini nggak apa-apa\npakai waktu buat kamu sendiri.",
+      "Sambil santai pun\nkamu tetap bersinar.",
+      "Waktu healing pun, kamu tetap\nyang paling cakep sedunia.",
+      "Katanya nggak ada yang sempurna.\nBerarti kamu itu pengecualian.",
+      "Tes kepribadian bilang\nkamu 100% menggemaskan.",
+      "Ada survei: siapa yang paling imut?\nHasilnya, semua jari nunjuk kamu.",
+      "Bagiku kamu tuh kayak huruf vokal,\ntanpa kamu kalimatku nggak kebaca.",
+      "Jangan sering lewat depan rumahku,\nnanti satu RT kesengsem sama kamu.",
+      "Tiap kamu lewat aku bengong,\nsampai lupa cara kedip.",
+      "Aku punya kebiasaan buruk:\nnyari kamu tiap buka layar.",
+      "Kok hujan deras, ya?\nTernyata hatiku kebanjiran gara-gara kamu.",
+      "Pasti kamu lulusan sekolah sihir,\nsoalnya aku langsung terpesona.",
+      "Katanya nggak ada gading yang tak retak,\nkamu pengecualian, mulus banget.",
+      "Taruh dulu bebannya, sini,\nkamu cukup jadi cakep aja.",
+      "Sumpah, kamu itu kayak sinyal penuh,\nbikin hidupku lancar jaya.",
+      "Visualnya jujur aja,\nbeneran nggak sih? Kok bisa kayak gitu?",
+      "Pasti kamu kurang tidur ya?\nSoalnya semalaman kamu muter-muter di pikiranku.",
+      "Katanya kamu blasteran?\nBidadari campur surga.",
+      "Tau nggak, garis wajah kamu\nlebih jelas dari masa depanku.",
+      "Ibu kota hatiku itu kamu,\nsemua jalan menuju kamu.",
+      "Dasar kamu cabai rawit,\nkecil-kecil bikin hatiku kepedasan.",
+      "Katanya kamu jago masak?\nSoalnya hatiku langsung matang gara-gara kamu.",
+      "Ngapain kerja keras?\nMuka kamu udah lembur duluan.",
+      "\"Berhenti suka sama aku, dong.\"\n\"Hah?\"\n\"Cara berhentinya gimana?\"",
+      "Wajah kamu sekelas pusaka,\njadi mau dipajang di museum nasional.",
+      "Jangan ikut ajang penghargaan, ya.\nPiala utamanya jelas buat kamu.",
+      "Lagi pemotretan, ya?\nAtau memang kamu jalan sambil jadi cover?",
+      "Idola di hatiku itu kamu,\nperingkat satu sepanjang masa.",
+      "Tolong adain jumpa fans, dong.\nAku mau minta tanda tangan kamu tiap hari.",
+      "Debut aja, deh.\nDi hatiku kamu udah jadi center.",
+      "Selamat juara tangga lagu!\nVisual kamu juara tiap hari.",
+      "Sesi foto dulu, yuk.\nAku mau abadiin kamu tiap hari.",
+      "Comeback ya?\nJantungku ikut hidup lagi gara-gara kamu.",
+      "Boleh aku rekam kamu?\nSoalnya tiap momen kamu itu adegan terbaik.",
+      "Main video klip, ya?\nPadahal kamu udah jadi tokoh utama hidupku.",
+      "Ikut acara realita?\nAslinya kamu malah lebih sempurna.",
+      "Pasti kamu pusat visual,\nsoalnya di mana pun kamu paling bersinar.",
+      "Piala wajah terbaik tahun ini\nwajib jatuh ke kamu, saingan nggak ada.",
+      "Jadi model iklan, ya?\nLihat kamu aja bikin aku pengen beli semuanya.",
+      "Sampul majalah tiap bulan\nmemang pantas dihiasi muka kamu.",
+      "Karisma kamu di panggung beneran?\nSehari-hari pun kamu kayak lagi di panggung.",
+      "Tukeran kartu foto, yuk?\nAku mau kumpulin satu set penuh wajah kamu.",
+      "Kapan nih fan meeting?\nAku maunya ketemu kamu tiap hari.",
+      "Upload video koreografinya dong.\nTiap gerakan kamu itu seni.",
+      "Kayak lihat teaser aja,\ntiap lihat kamu, deg-degan duluan.",
+      "Mau tur keliling dunia?\nHatiku udah kamu goyang sedunia.",
+      "Tanda tangan di albumku, ya,\nkamu tuh edisi terbatas.",
+      "Lightstick-ku nyala nih,\naku bakal dukung kamu seumur hidup.",
+      "Naik daun, ya?\nPadahal dari dulu kamu udah legenda.",
+      "Aku harus cari tiket konser.\nSoalnya lihat kamu itu konser harianku.",
+      "Juara tangga lagu, kan,\nkamu itu lagu nomor satu di hidupku.",
+      "Encore sekali lagi, dong.\nDilihat berkali-kali pun kamu tetap bikin kangen.",
+      "Foto candid pun sempurna,\nkamu legenda di setiap momen.",
+      "Bias aku harus ganti.\nSelain kamu, mataku nggak mau lihat.",
+      "Aku jatuh cinta jadi fans,\ndan kamu yang bakal kuikuti selamanya.",
+      "Bias aku diumumkan hari ini:\nya kamu, siapa lagi.",
+      "Merchandise udah kuborong,\ntapi kamu sendiri merch paling berharga.",
+      "Fans seumur hidup, resmi,\nkamu artis abadi buatku.",
+      "Markas fans aku udah pindah,\ndan markas barunya kamu.",
+      "Resmi mulai ngefans.\nSeluruh hidupku buat kamu.",
+      "Aku mau jadi fotografer pribadi,\nbiar tiap momen kamu terekam.",
+      "Waktu bareng kamu itu\nsemuanya jam emas.",
+      "Aku mau pasang iklan ulang tahun.\nAndai tiap hari ultahnya kamu.",
+      "Fans seumur hidup nih.\nBangga banget jadi penggemar kamu.",
+      "Jantungku deg-degan nggak karuan,\ngara-gara kamu. Tanggung jawab dong!",
+      "Dunia kayak dihias ulang\ntiap kali aku lihat kamu.",
+      "Sumber vitamin bahagiaku\nya cuma kamu.",
+      "Pas kamu ketawa, aku ikut\nsenyum tanpa izin.",
+      "Bintang paling terang yang pernah kulihat\nternyata kamu, bukan di langit.",
+      "Festival di hatiku digelar\ntiap hari berkat kamu.",
+      "Suara kamu doang\nudah cukup bikin mood naik.",
+      "Keberuntungan terbesar hidupku\nadalah kenal sama kamu.",
+      "Berkat kamu, hari ini\naku masih bisa senyum lebar.",
+      "Orang paling berharga sedunia?\nJawabannya kamu, titik.",
+      "Cukup mikirin kamu\nsenyumku muncul sendiri.",
+      "Damainya hatiku\nitu gara-gara ada kamu.",
+      "Momen bareng kamu\nnggak pernah biasa-biasa aja.",
+      "Dari sekian miliar manusia,\nkamu yang paling keren menurutku.",
+      "Ada kamu aja\nudah bikin aku bersyukur.",
+      "Bagian terbaik dari hariku\nselalu momen ada kamu.",
+      "Hari-hariku jadi spesial\ngara-gara kamu muncul.",
+      "Lampu kamar mati pun\nnggak masalah, asal ada kamu.",
+      "Hadiah terindah dalam hidupku\ntuh kamu, tanpa bungkus.",
+      "Dunia ini lebih cantik\nkarena kamu ikut menghuninya.",
+      "Bayangin sehari tanpa kamu?\nNggak sanggup, deh.",
+      "Peringkat satu di hatiku\nnggak pernah berubah: kamu.",
+      "Asal bareng kamu,\nrasanya semua bisa kuhadapi.",
+      "Tiap hari aku bilang makasih\nke semesta karena ada kamu.",
+      "Pemandangan terindah sedunia\nkalah sama senyum kamu.",
+      "Berkah terbesar dalam hidupku\nitu kamu.",
+      "Baru kepikiran kamu,\nseharian udah happy.",
+      "Rumah ternyaman buat hatiku\nya ada kamu.",
+      "Pas ada kamu,\nsemuanya serasa sempurna.",
+      "Tipe idaman yang dulu cuma mimpi\nternyata nyata, namanya kamu.",
+      "Tiap kamu muncul, jantungku\nkayak mau mogok.",
+      "Biografi berjalan, itulah kamu,\nnamanya bakal tercatat di buku sejarah.",
+      "Terpesona terus sama kamu\naku sih ikhlas.",
+      "Fokus mandangin kamu terus,\nleherku sampai butuh pijat.",
+      "Detak jantungku naik\ntiap kamu lewat. Bahaya!",
+      "Foto kamu pantas jadi sampul\nmajalah paling laris sedunia.",
+      "Sejak ada kamu, tiap hari\nrasanya hari libur nasional.",
+      "Keajaiban dunia ke-8\nternyata hidup, dan namanya kamu.",
+      "Pas kamu lewat,\ndunia otomatis slow motion.",
+      "Kartu VIP di hidupku\ncuma satu, dan itu kamu.",
+      "Ngelihatin kamu\njadi kegiatan favoritku tiap hari.",
+      "Konten premium di hatiku\nisinya kamu semua.",
+      "Dunia kelihatan HD\nsejak ada kamu.",
+      "Jam emas dalam hidupku\nya waktu bareng kamu.",
+      "Cuma mikirin kamu,\nsenyumku langsung otomatis.",
+      "Kamar paling mewah di hatiku\nkhusus disiapin buat kamu.",
+      "Berkat kamu, setiap hari\nberasa tanggal gajian.",
+      "Acara utama dalam hidupku\nbintang tamunya kamu.",
+      "Jantungku joget sendiri\ntiap kali kamu nongol.",
+      "Resolusi 4K buat mataku\ncuma kamu yang punya.",
+      "Dunia kelihatan berkilau\ntiap kamu ada di sekitar.",
+      "Daftar tamu VVIP di hatiku\ncuma ada satu nama: kamu.",
+      "Hari biasa pun berubah istimewa\nkalau kamu ikut hadir.",
+      "Kartu truf dalam hidupku\nya kamu, siapa lagi.",
+      "Mood-ku auto naik level\ncuma karena mikirin kamu.",
+      "Aula kehormatan hatiku\nbaru diisi satu orang: kamu.",
+      "Hidupku yang tadinya hitam putih\njadi penuh warna berkat kamu.",
+      "Sepanjang masa, legenda nomor satu\ndi mataku itu kamu.",
+      "Tiap kamu lewat, dunia\nkayak lagi diputar pelan-pelan.",
+      "Tiket emas menuju bahagia\nada di tangan kamu."
+    ]
+  },
+  "problem": {
+    "title": "Siapa pengkritik paling keras buatmu? Jangan-jangan kamu sendiri",
+    "text": "Di jalan berangkat kerja, sebelum wawancara, saat pulang, suara di kepala isinya omelan melulu. Pujian Lebay Harian membelamu dari Layar Utama beberapa kali sehari, sedikit kelewat batas. Begitu kamu senyum-senyum sendiri, rasa percaya diri pun balik sedikit."
+  },
+  "features": [
+    {
+      "title": "Pujian yang pas dengan mood-mu",
+      "text": "Pilih dari 14 mood dan situasi seperti `Pagi`, `Berangkat Kerja`, `Lagi Berat`, `Sebelum Wawancara`, atau `Sebelum Kencan`, dan pujian yang cocok langsung muncul di widget. Bingung? Ada `Acak` juga.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Simpan yang kamu suka",
+      "text": "Ketuk bintang untuk menyimpannya di Favorit, lalu lihat lagi yang sebelumnya di Riwayat. Ketuk `Pakai Pujian Ini` dan langsung pindah ke widget.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Mampir tiap hari, rekornya terus naik",
+      "text": "Setiap hari kamu mampir, rekor beruntunmu bertambah. Capai 7, 30, atau 100 hari berturut-turut, atau total 50 dan 100 hari, dan pencapaian pun terbuka.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "Mulai dalam tiga langkah",
+    "items": [
+      {
+        "title": "Pilih mood",
+        "text": "Buka `Pilih Mood` dan ketuk yang pas dengan saat ini."
+      },
+      {
+        "title": "Hias widget",
+        "text": "Di Pengaturan Lanjutan, pilih font, warna teks, latar, dan interval refresh."
+      },
+      {
+        "title": "Pasang di Layar Utama",
+        "text": "Tekan lama Layar Utama, ketuk +, lalu cari Pujian Lebay Harian."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Atur widget sesukamu",
+    "rows": [
+      [
+        "Font",
+        "13 pilihan, termasuk Futura, Georgia, dan Marker Felt"
+      ],
+      [
+        "Warna Teks",
+        "Warna apa saja yang kamu suka"
+      ],
+      [
+        "Latar",
+        "Gradasi dua warna, atau salah satu foto bawaan"
+      ],
+      [
+        "Perataan",
+        "Kiri, tengah, atau kanan"
+      ],
+      [
+        "Jarak Baris",
+        "Lebih rapat atau lebih longgar"
+      ],
+      [
+        "Interval Refresh",
+        "Pujian baru tiap 5, 15, atau 30 menit"
+      ]
+    ],
+    "note": "Ukuran widget dipilih saat kamu menambahkannya ke Layar Utama."
+  },
+  "pricing": {
+    "title": "Sekali beli, beres",
+    "free": {
+      "name": "Aplikasinya",
+      "items": [
+        "281 pujian untuk 14 mood",
+        "Widget Layar Utama yang bisa dihias",
+        "Favorit dan Riwayat",
+        "Rekor beruntun dan pencapaian"
+      ]
+    },
+    "pro": {
+      "name": "Dukung pengembang",
+      "items": [
+        "Pilih tip kecil, sedang, atau besar",
+        "Tidak membuka fitur apa pun. Hanya cara untuk berterima kasih"
+      ],
+      "note": "Hanya kalau dan kapan kamu mau."
+    },
+    "note": "Tanpa langganan, tanpa pembelian tambahan, tanpa iklan."
+  },
+  "faq": {
+    "title": "Pertanyaan umum",
+    "items": [
+      {
+        "q": "Bagaimana cara menambah widget?",
+        "a": "Tekan lama area kosong di Layar Utama sampai ikonnya bergoyang, ketuk + di atas, cari Pujian Lebay Harian, lalu pilih ukurannya."
+      },
+      {
+        "q": "Bagaimana pujian berikutnya dipilih?",
+        "a": "Saat kamu memilih mood, pujian untuk mood itu langsung muncul di widget. Setelah itu, widget menampilkan pujian acak dari 281 pujian sesuai interval refresh pilihanmu. Di aplikasi, kamu juga bisa ketuk `Pujian Berikutnya` untuk ganti sendiri."
+      },
+      {
+        "q": "Bisakah ganti font atau interval refresh?",
+        "a": "Bisa. Di Pengaturan Lanjutan kamu bisa ganti font, warna teks, latar, perataan, jarak baris, dan interval refresh: 5, 15, atau 30 menit."
+      },
+      {
+        "q": "Widget-nya tidak langsung berubah.",
+        "a": "iOS yang menentukan kapan widget digambar ulang, jadi kadang sedikit telat dari interval yang kamu pilih. Buka aplikasinya lalu tutup lagi, widget akan langsung diperbarui."
+      },
+      {
+        "q": "Bagaimana rekor beruntun dihitung?",
+        "a": "Tiap hari berturut-turut kamu melihat pujian, rekormu bertambah satu. Di `Rekorku` kamu bisa lihat rekor saat ini, rekor terbaik, total hari, dan pencapaian."
+      },
+      {
+        "q": "Favorit dan riwayatku hilang.",
+        "a": "Semua data hanya tersimpan di perangkatmu, jadi tidak ikut pindah kalau aplikasinya dihapus atau ganti HP. Kalau tidak dihapus tapi tetap hilang, kabari kami lewat email."
+      },
+      {
+        "q": "Apakah dataku dikirim ke mana-mana?",
+        "a": "Tidak. Aplikasi ini tidak mengumpulkan data pribadi. Favorit dan riwayatmu tetap di perangkatmu."
+      },
+      {
+        "q": "Bagaimana melaporkan bug atau memberi usulan?",
+        "a": "Langsung lewat `Hubungi Developer` di aplikasi, lewat email, atau DM Instagram @lee25_ios. Kami balas begitu sudah melihatnya."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Mulai hari ini, ada yang\nselalu di pihakmu",
+    "cta": "Unduh di App Store"
+  },
+  "ui": {
+    "skip": "Langsung ke konten",
+    "languages": "Bahasa",
+    "privacy": "Kebijakan Privasi",
+    "contact": "Ada pertanyaan atau masukan? Kirim ke {email}."
+  }
+}

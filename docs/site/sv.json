@@ -1,0 +1,467 @@
+{
+  "title": "Dagens Pepp: widgeten som hajpar dig utan hämningar",
+  "description": "En widget på hemskärmen med ny, överdriven pepp var 5:e, 15:e eller 30:e minut. 281 rader för varje humör, sviter och mer. Köp en gång.",
+  "hero": {
+    "headline": "Varje gång du tar upp mobilen\nväntar ditt största fan",
+    "lead": "Dagens Pepp är en widget som med flit berömmer dig alldeles för mycket. Morgonpepp på morgonen, intervjupepp före intervjun. Typsnitt, färger och bakgrund väljer du själv.",
+    "cta": "Hämta på App Store",
+    "note": "Ett köp och du har allt. Ingen prenumeration, ingen reklam."
+  },
+  "demo": {
+    "title": "Få lite pepp direkt",
+    "lead": "Välj ett humör så visar widgeten peppen som passar. Tryck på Nästa pepp för en slumpad bland alla 281.",
+    "next": "Nästa pepp",
+    "note": "Det här är de riktiga raderna från appen. I appen byter widgeten själv var 5:e, 15:e eller 30:e minut.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Morgon",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "På väg till jobbet",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Tuffa stunder",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Före intervjun",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Före dejten",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "På väg hem",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "God morgon! Idag lyser du\nhärligare än både sol och kaffe.",
+      "Solen gick upp, och det gjorde du med.\nDagen är räddad!",
+      "Upp ur sängen redan?\nSnacka om hjälte före åtta, du!",
+      "Morgonen blir bäst när du är med.\nTänk så fint det blir!",
+      "Idag är det du som är\nhuvudrollen. Resten är statister.",
+      "Ögonen öppna, och du är redan\nvinnare. Resten är bonus!",
+      "Ditt morgonleende, det vet du,\när sötare än en nybakad kanelbulle.",
+      "Var precis som du är idag.\nDet håller för tio av tio.",
+      "Vaknar du så här fin?\nDet borde vara olagligt före åtta.",
+      "God morgon? Nej, du gör det\ntill en toppenmorgon!",
+      "Det första du möter i spegeln\när en riktig vinnare.",
+      "Morgonens bästa nyhet?\nAtt du finns. Extra, extra!",
+      "Bra jobbat idag!\nDet är faktiskt du som är otrolig.",
+      "Dagen är slut och du stod pall.\nDet är värt en applåd.",
+      "Idag gjorde du ditt bästa,\noch det är jag stolt över!",
+      "Trött men ändå klarade du dagen.\nSnacka om seg!",
+      "Varje dag du lever är värd\nsin vikt i guld.",
+      "Helskinnad genom dagen? Det kan\nbara du. Gott och väl!",
+      "Som en stjärna på kvällshimlen\nlyser du, även i pyjamas.",
+      "Det är kväll och du glänser ändå.\nHur orkar du vara så fin?",
+      "Tack för idag, du.\nVärlden hade varit blekare utan dig.",
+      "Världen blev finare idag,\nvilket beror på att du fanns.",
+      "På natten är du legend.\nPå dagen är du också legend.",
+      "Det är okej att ha tunga dagar.\nDet är ändå du som styr.",
+      "Det känns tungt nu, men du är\nstarkare än du tror!",
+      "Ingen kräver att du är perfekt.\nSom du är räcker det gott!",
+      "Orkar du inte? Vila då.\nDet är du som bestämmer takten.",
+      "Segare än ett gammalt knäckebröd,\nså är du. Och det är en komplimang!",
+      "Det här går också över.\nOch du går starkare ur det.",
+      "Även när humöret dyker\när du lika mycket värd.",
+      "Sorg hör till livet. Det är okej\natt känna allt du känner.",
+      "Diamanter blir till under tryck.\nDet är därför du lyser nu.",
+      "Är du på dåligt humör?\nIngen fara, du är ändå bäst.",
+      "Dåligt humör? Just då är du\nextra mycket värd.",
+      "Söt när du är glad och söt\nnär du är ledsen. Orättvist!",
+      "Även om det är jobbigt nu\när du själv ett litet mirakel.",
+      "Det är tufft nu, men du\nkommer fixa det. Inget snack!",
+      "När det är svårt syns det\nvad du går för.",
+      "Ge inte upp, för du är starkare\nän trafikkaoset i rusningstid.",
+      "Mitt i stormen står du kvar.\nDet är sjukt imponerande.",
+      "Dagens motgång blir morgondagens\nstyrka, och du är redan på väg!",
+      "Tro mig, du tål mer än du tror.\nFaktiskt mer än en kall novemberdag.",
+      "Det här blir snart bara en\nanekdot, och du är hjälten.",
+      "Det är tungt, men du lyser.\nDiamanter måste också slipas.",
+      "Tufft just nu? Jag vet. Men du är\nändå finast i hela landet.",
+      "Att du orkar stå kvar är hopp\nför någon annan där ute.",
+      "Sliten som en gammal tröja,\nmen du är fortfarande bäst.",
+      "Idag klarar du det mesta!\nBörja med lite självförtroende.",
+      "Jag tror på dig, och du kommer\nfå en grym dag.",
+      "Redan förberedd? Då är du\nhalvvägs mot målet!",
+      "Dagens uppgifter? Inga problem,\nför du har allt under kontroll.",
+      "Din energi lyser upp hela dagen.\nDet vet du själv.",
+      "Kör hårt idag och var\nprecis så grym som du är!",
+      "Innan första mötet ser du redan\nut som ett proffs. Mäktigt!",
+      "Ingen lust att jobba? Ditt ansikte\ngör ändå övertid, du är grym.",
+      "Kliver du in på jobbet får hela\nkontoret bättre ljus.",
+      "När du jobbar är det som att\nse konst. Fika ingår.",
+      "Dagen har knappt börjat och\ndu är redan felfri.",
+      "Tränar du, så är du redan\nen vinnare!",
+      "Hjärtat säger att du tar hand\nom dig idag också. Förebild!",
+      "Din kropp känner du bäst,\nså kör precis som du vill.",
+      "Bara att du tog dig till passet\när värt en medalj.",
+      "Så snyggt som du svettas\nvill spegeln ta kort.",
+      "Hälsan först. Och du?\nDu är själva hälsan.",
+      "Att du tar tid för dig själv\när ren klass!",
+      "I träningskläder ser du ut\nsom ett omslag. Seriöst.",
+      "Gymmet blev en lyxspa\nså fort du klev in.",
+      "Även under skivstången lyser du.\nHur kan du vara så grym?",
+      "Finns det någon som är fin med\nsvettpärlor? Ja, det är du.",
+      "På väg till jobbet ser du\nså proffsig ut. Respekt!",
+      "Redan i rörelse så tidigt?\nTänk vad grym du är!",
+      "Iväg till jobbet igen. Redan\nvinnare? Ja, det är du.",
+      "Varje steg du tar\när värt något.",
+      "Pendlingen blir finare när\ndu är med på tåget.",
+      "Jobbet kallar och du går dit.\nDet är stort!",
+      "Tunnelbanan blev en catwalk\nså fort du klev på.",
+      "Lyser du upp bussen också?\nVem är fotografen?",
+      "När du går till jobbet blir\nmorgonen genast bättre.",
+      "Att gå räcker för att du\nska se fin ut. Talang!",
+      "Bra jobbat idag!\nNu hem och vila, du.",
+      "Hem med rak rygg går du.\nDet var en bra dag.",
+      "På väg hem efter en dag som\nbara du kunde klara.",
+      "Dagen är avklarad, och du får\nvara hur stolt som helst.",
+      "Nu är det din tid, du.\nVila utan dåligt samvete.",
+      "Kvällen är din, och du förtjänar\nsoffan, filten och allt annat.",
+      "Hemåt, du hjälte.\nTack för en tuff dag.",
+      "Även på vägen hem är du fin.\nDet har varit en riktig dag.",
+      "När du går hem syns det tydligt\nvem som gjort jobbet.",
+      "Det var en tung dag, men du är\nfortfarande bäst!",
+      "Efter all plugg kommer du\nfixa det här fint!",
+      "Slit lönar sig, och du har\nsvettats för det här.",
+      "Nervös? Det är normalt,\nför du är redan redo!",
+      "Provet kan inte mäta\nvad du är värd.",
+      "Ditt bästa har du redan gjort,\nså du har redan lyckats!",
+      "Det här fixar du\nmed vänsterhanden.",
+      "Andas djupt och lita på\nvad du kan.",
+      "Lycka till på provet! Det går\nbra, för du är väl förberedd.",
+      "Ingen oro, för du kommer\nsätta varenda svar.",
+      "Pirrar det? Fine, du är\nändå bäst i klassen.",
+      "Till och med tentan blir\nimponerad när du dyker upp.",
+      "Nu är det dags att visa\nvad du går för!",
+      "Tänk vilken tur rekryteraren har\nsom får se hur grym du är.",
+      "Din erfarenhet och ditt driv gör\natt du glänser idag.",
+      "Det är okej att vara nervös,\nför du är redan fantastisk!",
+      "Var självsäker! Ser du inte att\ndu redan har allt som behövs?",
+      "Berätta stolt, för du har\nen historia värd att höra.",
+      "En intervju är ett samtal.\nSlappna av, du är en pärla.",
+      "Anställer de inte dig är det deras\nförlust. Guld är du, det vet du.",
+      "Det är inte meritlistan som\nglänser. Det är du.",
+      "Redan när du går in genom\ndörren är jobbet nästan ditt.",
+      "Ditt första intryck ger halva\njobbet. Resten fixar du.",
+      "Idag lyser du extra mycket!\nBara att njuta.",
+      "Precis som du är\när det charmigast.",
+      "Alla som känner dig vet att du\när något alldeles extra.",
+      "Så självsäker du är! Hela\nrummet märker det.",
+      "Ditt leende är idag\ndet vassaste vapnet du har.",
+      "Precis som du är\när det helt rätt.",
+      "Din charm går inte att dölja.\nFörsöker du, går det ändå inte.",
+      "Dejt idag? Då kommer du få\nmotparten att tappa hakan.",
+      "Din dejt har dragit vinstlotten.\nFör du är hela paketet.",
+      "Dejtkläderna sitter perfekt, så\ndu kunde stå på en affisch.",
+      "Ikväll får du någon att\nfalla pladask.",
+      "Redan före dejten är du så fin.\nTänk på deras stackars hjärta.",
+      "Kom igen nu, du kan det här!\nJag hejar alltid på dig.",
+      "Små steg är början på en\nstor resa. Och du är på väg!",
+      "Ge aldrig upp, för du kommer\nnå dina drömmar.",
+      "Dagens slit blir morgondagens\nframgång, och du fixar det.",
+      "Ditt driv kan ändra världen.\nDet vet du innerst inne.",
+      "Misslyckande är bara en\nomväg. Fortsätt prova, du!",
+      "Dina möjligheter är oändliga,\noch det vet du.",
+      "Ge det en chans idag, för\ndu är värd det.",
+      "När du kämpar inspirerar du\nandra, utan att veta om det.",
+      "Det löser sig. Vet du varför?\nFör att du är du.",
+      "Ge inte upp, för du är\nnågon alldeles särskild.",
+      "Kör hårt idag, du klarar\nallt du bestämmer dig för!",
+      "De som ser hur du kämpar\nhejar på dig i det tysta.",
+      "Helt rätt att du får\nså mycket uppmärksamhet.",
+      "Precis som du är\när du perfekt.",
+      "Att du finns är redan\nett litet under.",
+      "Var trygg, för du är\nhelt enkelt strålande.",
+      "Starkare än du tror är du,\nstarkare än kaffet på jobbet.",
+      "Det är din personlighet som\ngör att du lyser.",
+      "Lita på dig själv, för du\nhar allt som krävs.",
+      "Hel och hållen är du,\nredan som du är.",
+      "Så säker du är, och rätt så!\nDu är bäst i världen.",
+      "Helt klart är du bättre än\ndu tror. Fråga vem som helst.",
+      "Just nu gör du ett\nsjukt bra jobb.",
+      "Den som inte ser din charm behöver\nglasögon. Så grym som du är!",
+      "Idag får du bara\nvara. Mjukt och lugnt.",
+      "Vila behöver du också.\nLadda batterierna, du.",
+      "Idag får du göra absolut\ningenting. Det är också en bedrift.",
+      "Hur du mår är det viktigaste\nidag. Allt annat får vänta.",
+      "Ta det lugnt, i din takt.\nÄndå kommer du fram.",
+      "Idag får du ta tid för dig.\nDu förtjänar det.",
+      "Vila är också effektivt, och\ndu är expert på det.",
+      "Att vila är din rättighet,\nså lägg dig ner, du.",
+      "Vacker är du, även\nnär du läker.",
+      "Lägg tid på dig själv, du.\nUtan att skämmas.",
+      "Mjukisbyxor eller inte, du lyser.\nSoffan har aldrig sett så fin ut.",
+      "Finast i världen är du,\näven med filt och te.",
+      "Spegeln ber om autograf, så\nperfekt är du.",
+      "Testresultatet kom just:\ndu är 100 % söt.",
+      "Alla som tycker att du är söt:\nräck upp handen! Hela jorden vinkar.",
+      "Inte bara ett do-re-mi, du är\nhela symfonin.",
+      "Är du bagare? För du får mitt\nhjärta att jäsa.",
+      "Varje gång du är fin lutar jag\nhuvudet bakåt. Nackspärren är botad.",
+      "Är du en laddstolpe? Med dig\nnår jag hundra procent.",
+      "Det åskar i hjärtat så fort du\ndyker upp. Men vädret är fint.",
+      "Tror du på ödet? För du är\nbevis nog för mig.",
+      "Alltför bra för att vara sant?\nDå är du nog en bugg i verkligheten.",
+      "Släpp väskorna så bär jag dig.\nSå lätt som du är!",
+      "Jag letar efter ditt fel. Jag hittar\nbara fler pluspoäng på dig, du.",
+      "Är det filter? Nej, du är bara\nså här fin på riktigt.",
+      "Inga ord behövs, för ditt leende\nfunkar på alla språk, du.",
+      "Kom du ner från himlen? Då\nvar det en riktigt mjuk landning.",
+      "Din käklinje är skarpare än mina\nframtidsplaner, det vet du.",
+      "Huvudstaden i mitt hjärta är du.\nAlla vägar leder dit.",
+      "Kulturminnesmärkt borde du vara.\nAlla måste få se dig.",
+      "Ett A+ får du av mig, och jag\när en hård bedömare.",
+      "Varför jobbar du? Din skönhet\ngör redan övertid.",
+      "\"Sluta vara så fin!\" \"Hur gör\njag det då?\" Det vet du ju inte.",
+      "Museet vill ställa ut dig, så\nvacker är du. Gratis inträde.",
+      "Gå inte på galan. Priset går ändå\ntill ditt ansikte, det vet du.",
+      "Är det fotografering, eller går du\nbara förbi som vanligt?",
+      "Popstjärnan som toppar listan i\nmitt hjärta, det är du.",
+      "Ordna en signering, snälla. Jag vill\nha din autograf varje dag, du.",
+      "Debutera redan! För du är\nrefrängen i mitt liv.",
+      "Grattis, du toppar listan varje\nvecka. Ingen annan kommer nära.",
+      "Får jag ta en bild? Det är du\nsom blir min nya bakgrundsbild.",
+      "Är du tillbaka? Mitt hjärta\nfick just ett glädjefyllt comeback.",
+      "Får jag filma när du går förbi?\nVarje steg är en höjdpunkt.",
+      "Är du med i en musikvideo?\nDu är redan huvudrollen i mitt liv.",
+      "Dokusåpa? Då vill jag se hela\nsäsongen, för du är huvudrollen.",
+      "Där du står blir det scen.\nDu är hela showen.",
+      "Årets pris borde du få.\nVarje år, utan undantag.",
+      "Är du med i reklamen? Jag köper allt\nsom du ler mot.",
+      "Är du omslagsstjärna?\nDitt ansikte borde pryda varje månad.",
+      "Så mycket scennärvaro! Även en\ntisdag blir en konsert när du är där.",
+      "Byter vi samlarkort? Jag vill att du\nska vara hela samlingen.",
+      "När är fansträffen? Jag vill att du\nska finnas där varje dag.",
+      "Lägg upp en dansvideo!\nVarje rörelse du gör är konst.",
+      "Som en trailer som lovar för mycket\när du. Jag vill se hela filmen.",
+      "Ska du på världsturné?\nDu har redan skakat om min värld.",
+      "Signera min skiva! För du är en\nbegränsad upplaga. Inga kopior.",
+      "Jag viftar med ficklampan, för du\när värd en hejarklack livet ut.",
+      "Grattis till succén! Fast du var\nju legend redan innan.",
+      "Jag ska skaffa biljetter. Att se\ndig, du, är min dagliga konsert.",
+      "Toppat listorna igen? För du är min\nfavoritlåt, på repeat.",
+      "Ett extranummer till! Jag blir\naldrig mätt på dig, du.",
+      "Även bakom kulisserna är du\nperfekt. Alltid redo för bild.",
+      "Jag har bytt favorit, för du\när den enda jag ser.",
+      "Jag blev fan direkt. Räkna med mig\ni din fanclub, du.",
+      "Favoriten avslöjas:\nnämligen du, såklart.",
+      "Jag har köpt all merch, men du\när fortfarande den bästa souvenir.",
+      "Jag är ditt fan för all framtid, för\ndu är min artist nummer ett.",
+      "Jag tog första raden. Där du\när, där är jag.",
+      "Jag startar fanklubben idag.\nMedlem ett: jag. Ordförande: du.",
+      "Jag blir din privata fotograf. Varje\nstund med dig ska sparas, du.",
+      "Varje minut med dig är guldkant. Det\när min bästa tid, det vet du.",
+      "Jag hyr en stor skylt på stan: varje\ndag borde vara din födelsedag, du.",
+      "Jag hejar på dig för all framtid. Det\när en ära att du har mig som fan.",
+      "Mitt hjärta hoppar över ett slag\nvarje gång du dyker upp.",
+      "Världen blir vackrare så fort\ndu kommer in i bilden.",
+      "Vitaminet jag aldrig glömmer\när du. Dagens dos av glädje.",
+      "När du skrattar skrattar jag\nmed, utan att fatta varför.",
+      "Av alla stjärnor jag sett\när du den som lyser mest.",
+      "Varje dag du är med är det\nmidsommar i mitt hjärta.",
+      "Bara du säger hej så blir\nhela dagen bättre.",
+      "Bäst som hänt mig är du,\nnäst efter kanelbullar.",
+      "Tack vare att du finns kan jag\nle även på måndagar.",
+      "Av allt som finns på jorden\när du det finaste jag vet.",
+      "Hjärtat ler så fort jag\ntänker på att du finns.",
+      "Lugnet i min stressiga vardag?\nDet är du.",
+      "Tiden går fortare när du är\nnära, och det är gratis.",
+      "Finaste människan jag träffat\när du, utan tvekan.",
+      "Att du finns är redan nog\nför att jag ska vara tacksam.",
+      "Dagens höjdpunkt är du,\nsom en riktigt bra fika.",
+      "Varje dag blir lite finare\nbara för att du är där.",
+      "Ett leende från dig lyser upp\nrummet, och det vet du.",
+      "Bästa present som livet gett mig\när du, med rosett.",
+      "Världen är ett bättre ställe\nsedan du kom till den.",
+      "Tänk dig en dag utan att du\nfinns. Nej tack, jag passar.",
+      "Etta på mitt hjärtas topplista?\nDet är du, självklart.",
+      "Med dig vid min sida känns allt\nmöjligt, för du är superkraften.",
+      "Något jag är tacksam för\nvarje dag? Det är du.",
+      "Ditt leende slår allt annat som\nfinns, och det vet du. Fråga solen.",
+      "Att du finns är min största\nlyckträff, och det vet du.",
+      "Dagen blir bättre bara av att\njag tänker på att du finns.",
+      "Mitt hjärtas hem är du.\nDörren står alltid öppen.",
+      "I stunden när du är med\när allt precis rätt.",
+      "Precis den person jag drömde om\när du, fast bättre.",
+      "Mitt hjärta gick i baklås när\ndu klev in. Ring en tekniker.",
+      "En vandrande historiebok är du.\nDe kommer skriva om dig.",
+      "Jag faller för din charm igen\noch igen, för du ger mig inget val.",
+      "Jag tittar så mycket på dig\natt jag får nackspärr, du.",
+      "Pulsen stiger varje gång du\ndyker upp. Dags för pulsklocka?",
+      "Årets bild i mitt fotoalbum\när du. Slår allt.",
+      "Att varje dag är en festdag\nberor på att du finns.",
+      "Ett levande under är du.\nVetenskapen fattar ingenting.",
+      "Allt går i slowmotion när du\nkommer in. Filmmusik ingår.",
+      "Mitt livs VIP-kort är du.\nInget annat räcker.",
+      "Bästa stunden på dagen är\nnär du dyker upp.",
+      "Extra avsnittet som alla vill se\när du. Mer, mer, mer!",
+      "Världen ser ut som i högupplöst\nsedan du kom in i bilden.",
+      "Mitt livs guldläge är du.\nHär ska jag stanna.",
+      "Automatiskt får du mig att le.\nSuperkraft, det där.",
+      "Femstjärnigt i mitt hjärta är du.\nFullbokat, inga rum kvar.",
+      "Varje dag blir en lyxdag så fort\ndu är med.",
+      "Huvudnumret i mitt liv är du.\nResten är förband.",
+      "Mitt hjärta dansar så fort\ndu kommer på tal.",
+      "Min bild i 4K är du.\nSkarp, fin och full av färg.",
+      "Allt glimmar lite extra så fort\ndu är i närheten.",
+      "Förstaraden i mitt hjärta har du,\nbästa platsen i huset.",
+      "Tack för att du gör dagen\nspeciell. Varje enda dag.",
+      "Mitt trumfkort är du, och med dig\nvinner jag varje gång.",
+      "Mitt humör blir uppgraderat varje\ngång du dyker upp.",
+      "Plats ett i mitt hjärtas hall\nof fame har du fått.",
+      "Livet blev färgglatt sedan\ndu kom in i det.",
+      "För mig är du all-time legend.\nSå är det bara.",
+      "Tiden går i sakta mak när du\när i närheten.",
+      "Förstapriset i mitt liv är du,\nutan någon dragning."
+    ]
+  },
+  "problem": {
+    "title": "Vem är din hårdaste kritiker? Är det du själv?",
+    "text": "På väg till jobbet, före intervjun, på väg hem: Rösten i huvudet tjatar mest. Dagens Pepp står på din sida från hemskärmen flera gånger om dagen, och lite mer än rimligt. I samma stund som du drar på munnen kommer lite självförtroende tillbaka."
+  },
+  "features": [
+    {
+      "title": "Pepp som passar humöret",
+      "text": "Välj bland 14 humör och lägen som `Morgon`, `På väg till jobbet`, `Tuffa stunder`, `Före intervjun` eller `Före dejten`, så landar rätt pepp direkt på widgeten. Kan du inte välja? Det finns `Slump` också.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Spara dina favoriter",
+      "text": "Tryck på stjärnan för att spara peppen i Favoriter, och bläddra bakåt i Historik. Tryck på `Använd den här` så hamnar den direkt på widgeten.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Titta in varje dag och se det växa",
+      "text": "Varje dag du tittar in förlänger din svit. Vid 7, 30 eller 100 dagar i rad, och vid 50 och 100 dagar totalt, låser du upp en prestation.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "Kom igång i tre steg",
+    "items": [
+      {
+        "title": "Välj humör",
+        "text": "Öppna `Välj humör` och tryck på det som passar just nu."
+      },
+      {
+        "title": "Anpassa widgeten",
+        "text": "Välj typsnitt, textfärg, bakgrund och uppdateringsintervall under Detaljer."
+      },
+      {
+        "title": "Lägg den på hemskärmen",
+        "text": "Håll fingret på hemskärmen, tryck på + och leta upp Dagens Pepp."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Så gör du widgeten till din",
+    "rows": [
+      [
+        "Typsnitt",
+        "13 val, bland annat Futura, Georgia och Marker Felt"
+      ],
+      [
+        "Textfärg",
+        "Vilken färg du vill"
+      ],
+      [
+        "Bakgrund",
+        "En gradient i två färger eller en av de inbyggda bilderna"
+      ],
+      [
+        "Justering",
+        "Vänster, centrerat eller höger"
+      ],
+      [
+        "Radavstånd",
+        "Tätare eller luftigare rader"
+      ],
+      [
+        "Uppdateringsintervall",
+        "Ny pepp var 5:e, 15:e eller 30:e minut"
+      ]
+    ],
+    "note": "Widgetens storlek väljer du när du lägger till den på hemskärmen."
+  },
+  "pricing": {
+    "title": "Köp den en gång, sen är det klart",
+    "free": {
+      "name": "Appen",
+      "items": [
+        "281 peppar för 14 humör",
+        "En hemskärmswidget i din stil",
+        "Favoriter och Historik",
+        "Sviter och prestationer"
+      ]
+    },
+    "pro": {
+      "name": "Stöd utvecklaren",
+      "items": [
+        "Välj en liten, mellan eller stor dricks",
+        "Den låser inte upp något. Det är bara ett sätt att säga tack"
+      ],
+      "note": "Bara om och när du känner för det."
+    },
+    "note": "Ingen prenumeration, inga extraköp, ingen reklam."
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "items": [
+      {
+        "q": "Hur lägger jag till widgeten?",
+        "a": "Håll fingret på en tom plats på hemskärmen tills symbolerna vickar, tryck på + högst upp, sök efter Dagens Pepp och välj en storlek."
+      },
+      {
+        "q": "Hur väljs nästa pepp?",
+        "a": "När du väljer ett humör hamnar en pepp för det direkt på widgeten. Sedan visar widgeten en slumpad pepp bland alla 281 med det intervall du valt. I appen kan du också trycka på `Nästa pepp` för att byta själv."
+      },
+      {
+        "q": "Kan jag ändra typsnitt eller uppdateringsintervall?",
+        "a": "Ja. Under Detaljer ändrar du typsnitt, textfärg, bakgrund, justering, radavstånd och uppdateringsintervall: 5, 15 eller 30 minuter."
+      },
+      {
+        "q": "Widgeten ändrades inte direkt.",
+        "a": "Det är iOS som bestämmer när widgetar ritas om, så den kan släpa lite efter det valda intervallet. Öppna appen och stäng den igen så uppdateras widgeten."
+      },
+      {
+        "q": "Hur fungerar sviten?",
+        "a": "Varje dag i rad som du tittar på en pepp lägger till en dag i sviten. Under `Mina rekord` ser du din nuvarande svit, ditt rekord, antal dagar totalt och dina prestationer."
+      },
+      {
+        "q": "Mina favoriter och min historik är borta.",
+        "a": "Allt sparas bara på din enhet och följer därför inte med om du raderar appen eller byter mobil. Om du inte raderat något och det ändå är borta, skicka ett mejl till oss."
+      },
+      {
+        "q": "Skickas mina uppgifter någonstans?",
+        "a": "Nej. Appen samlar inte in några personuppgifter. Dina favoriter och din historik stannar på din enhet."
+      },
+      {
+        "q": "Hur rapporterar jag ett fel eller föreslår något?",
+        "a": "Direkt via `Kontakta utvecklaren` i appen, via mejl eller i ett DM på Instagram till @lee25_ios. Vi svarar så fort vi har sett det."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Från och med i dag har du\nnågon på din sida",
+    "cta": "Hämta på App Store"
+  },
+  "ui": {
+    "skip": "Gå till innehållet",
+    "languages": "Språk",
+    "privacy": "Integritetspolicy",
+    "contact": "Frågor eller idéer? Skriv till {email}."
+  }
+}

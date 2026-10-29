@@ -1,0 +1,26 @@
+/* 오늘의 주접 웹 데모. 위젯은 앱의 기본 모양 그대로: 위에서 아래로 주황 그라데이션, 흰 글씨, 가운데 정렬. */
+.demo-card { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s5); align-items: center; }
+.demo-stage { background: var(--bg); border-radius: var(--r-inner); padding: var(--s7) var(--s5);
+              display: grid; place-items: center; }
+.jj-widget { width: min(260px, 100%); aspect-ratio: 1; border-radius: 22%; display: grid; place-items: center;
+             padding: var(--s5); background: linear-gradient(#F3AF22, #F38E22); color: #fff;
+             box-shadow: 0 12px 32px rgb(243 142 34 / .3); }
+.jj-widget.pop { animation: jj-pop .45s var(--ease); }
+@keyframes jj-pop { 0% { transform: scale(.94); opacity: .6; } 100% { transform: none; opacity: 1; } }
+.jj-quote { margin: 0; text-align: center; white-space: pre-line; font-size: 1.1875rem; line-height: 1.4; font-weight: 500;
+            text-wrap: balance; }
+
+.demo-chips { display: flex; flex-wrap: wrap; gap: var(--s2); margin-bottom: var(--s4); }
+.chip { font: inherit; font-weight: 600; color: var(--text); background: var(--bg); border: 0;
+        border-radius: 999px; padding: var(--s2) var(--s4); min-height: 44px; cursor: pointer;
+        transition: transform .15s var(--ease), background .15s var(--ease); }
+.chip:hover { background: color-mix(in srgb, var(--accent) 14%, var(--bg)); }
+.chip:active { transform: scale(.95); }
+.chip[aria-pressed="true"] { background: var(--accent); color: var(--on-accent); }
+.jj-next { font: inherit; font-weight: 600; min-height: 48px; padding: 0 var(--s5); border-radius: 999px; cursor: pointer;
+           color: var(--accent); background: transparent; border: 2px solid var(--accent); }
+.jj-next:hover { background: color-mix(in srgb, var(--accent) 10%, transparent); }
+.demo-note { margin-top: var(--s4); }
+
+@media (prefers-reduced-motion: reduce) { .jj-widget.pop { animation: none; } .chip { transition: none; } }
+@media (max-width: 760px) { .demo-card { grid-template-columns: 1fr; } }

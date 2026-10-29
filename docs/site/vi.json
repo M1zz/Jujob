@@ -1,0 +1,467 @@
+{
+  "title": "Khen Lố Mỗi Ngày: widget khen bạn hết cỡ",
+  "description": "Widget trên Màn hình chính đổi một câu khen siêu lố mỗi 5, 15 hoặc 30 phút. 281 câu cho mọi tâm trạng, chuỗi ngày và hơn thế nữa. Mua một lần.",
+  "hero": {
+    "headline": "Mỗi lần cầm điện thoại,\nfan cứng của bạn đã chờ sẵn",
+    "lead": "Khen Lố Mỗi Ngày là widget cố tình khen bạn quá đà. Buổi sáng có câu khen buổi sáng, trước phỏng vấn có câu khen trước phỏng vấn. Phông chữ, màu sắc và nền đều chỉnh theo ý bạn.",
+    "cta": "Tải trên App Store",
+    "note": "Mua một lần, dùng mọi tính năng. Không thuê bao, không quảng cáo."
+  },
+  "demo": {
+    "title": "Nhận ngay một câu khen",
+    "lead": "Chọn tâm trạng, widget sẽ hiện câu khen hợp với nó. Chạm Câu tiếp theo để bốc ngẫu nhiên một câu trong 281 câu.",
+    "next": "Câu tiếp theo",
+    "note": "Đây là các câu thật trong ứng dụng. Trong ứng dụng, widget tự đổi sang câu khác mỗi 5, 15 hoặc 30 phút.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Buổi sáng",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "Đi làm",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Lúc mệt mỏi",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Trước phỏng vấn",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Trước buổi hẹn",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "Tan làm",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "Chào buổi sáng! Hôm nay bạn đã\nđủ lấp lánh rồi nhé.",
+      "Mặt trời còn phải nể\nkhi thấy bạn thức dậy.",
+      "Dậy được là bạn đã thắng\nmột nửa cuộc đời rồi!",
+      "Sáng nay bạn tỏa sáng hơn\ncả bình minh luôn đó.",
+      "Hôm nay bạn là nhân vật chính,\ncứ thế mà tỏa sáng thôi!",
+      "Vừa mở mắt ra là bạn\nđã chiến thắng rồi đó.",
+      "Nụ cười của bạn buổi sáng\nngọt hơn cả ly cà phê sữa.",
+      "Hôm nay vẫn là bạn,\nvà thế là quá đỉnh rồi!",
+      "Sáng ra đã xinh thế này,\nbạn định phạm luật hả?",
+      "Người ta chúc buổi sáng tốt lành,\nem chúc bạn buổi sáng cực phẩm!",
+      "Mới sáng ra đã gặp bạn,\nmắt em được đi spa luôn.",
+      "Sáng nay em tìm ra người rạng rỡ\nnhất quả đất, chính là bạn!",
+      "Vất vả cả ngày rồi,\nbạn giỏi lắm đó nha!",
+      "Khép lại một ngày, bạn vẫn\nlung linh như lúc mới sáng.",
+      "Hôm nay đã cố hết sức,\nem tự hào về bạn ghê!",
+      "Mệt thì mệt, nhưng bạn vẫn\ntrụ vững cả ngày. Đỉnh!",
+      "Ngày nào của bạn\ncũng đáng giá hết.",
+      "Một ngày bình yên trôi qua,\nthế là đủ rồi bạn nhé.",
+      "Như sao trên bầu trời đêm,\nbạn cũng đang tỏa sáng đó.",
+      "Tối rồi mà bạn vẫn rạng rỡ,\nbật pin dự phòng hả?",
+      "Chạy deadline cả ngày mà bạn\nvẫn dễ thương, sao được vậy?",
+      "Nhờ có bạn mà hôm nay\nthế giới đẹp hơn hẳn.",
+      "Đêm nhìn cũng huyền thoại,\nngày nhìn cũng huyền thoại.",
+      "Không sao đâu, ai cũng có ngày tệ,\nbạn đang làm tốt lắm rồi.",
+      "Giờ tuy khó đấy, nhưng\nbạn nhất định vượt qua được!",
+      "Không cần hoàn hảo đâu,\nbạn như bây giờ là tuyệt nhất!",
+      "Mệt thì nghỉ chút cũng được,\nbạn cứ đi theo nhịp của mình.",
+      "Nói nhỏ nhé, thật ra bạn mạnh\nmẽ hơn bạn tưởng nhiều lắm!",
+      "Rồi cũng sẽ qua thôi,\nbạn làm được mà!",
+      "Tâm trạng có đi xuống thì\ngiá trị của bạn vẫn y nguyên.",
+      "Buồn cũng là một phần của bạn,\ncảm xúc nào cũng được phép có.",
+      "Biết không, kim cương cũng cần\náp lực mới thành. Như bạn đó!",
+      "Buồn hả? Nhìn em nè, em còn mê\nbạn tới mức quên buồn luôn.",
+      "Tâm trạng xuống dốc cũng được,\nbạn vẫn quý nhất quả đất.",
+      "Buồn vẫn xinh, khóc vẫn xinh,\nbạn tính sao đây hả?",
+      "Dù đang mệt, sự có mặt của bạn\nvẫn là một phép màu.",
+      "Giờ thì khó đấy, nhưng\nbạn chắc chắn sẽ làm được!",
+      "Càng lúc khó khăn thì\nbạn càng lộ rõ bản lĩnh!",
+      "Đừng bỏ cuộc nhé,\nbạn đủ mạnh mẽ mà.",
+      "Vẫn đang cố vượt qua,\nbạn giỏi thật sự đó!",
+      "Khó khăn hôm nay là phân bón\ncho bạn lớn lên ngày mai!",
+      "Nghe này, bạn chịu đựng được\nnhiều hơn bạn nghĩ đó!",
+      "Phút khó khăn này rồi sẽ\nthành kỷ niệm, bạn cứ tin đi!",
+      "Khó thì khó, bạn vẫn lấp lánh,\nkim cương cũng phải mài mới sáng.",
+      "Đang chật vật à? Vậy mà bạn\nvẫn xinh nhất hệ mặt trời.",
+      "Việc bạn vẫn đứng vững\nlà hy vọng của ai đó đó.",
+      "Mệt muốn xỉu mà bạn\nvẫn đẹp, hết cách luôn!",
+      "Hôm nay bạn làm được mà,\ntự tin bắt đầu thôi nào!",
+      "Em tin vào năng lực của bạn,\nhôm nay sẽ rất tuyệt đấy.",
+      "Chuẩn bị xong rồi thì bạn\nđã thành công một nửa!",
+      "Việc hôm nay mà có bạn\nthì chuyện nhỏ như con thỏ.",
+      "Nhiệt huyết của bạn sẽ\nlàm sáng cả ngày hôm nay!",
+      "Cố lên nào! Hôm nay cứ để\nbạn tỏa sáng theo cách riêng.",
+      "Trước giờ làm, bạn đã\nchuyên nghiệp lắm rồi đó!",
+      "Lười đi làm hả? Nhưng gương mặt\nbạn đang làm thay rồi.",
+      "Visual đi làm hôm nay xỉu luôn,\ncông ty sáng hẳn nhờ bạn.",
+      "Nhìn bạn làm việc thôi\nđã thấy là nghệ thuật rồi.",
+      "Chưa bắt đầu làm mà bạn\nđã hoàn hảo, là sao vậy?",
+      "Đang tập luyện là bạn\nđã ngầu lắm rồi!",
+      "Chăm lo sức khỏe mỗi ngày,\nbạn giỏi quá trời!",
+      "Cơ thể mình thì chỉ bạn\nhiểu rõ nhất, cứ tin nó!",
+      "Chỉ cần bắt đầu tập thôi\nlà bạn đã đáng tự hào rồi.",
+      "Mồ hôi rơi mà bạn vẫn\nđẹp như phim, hết nói!",
+      "Sức khỏe của bạn\nmới là quan trọng nhất.",
+      "Hôm nay lại dành thời gian\ncho bản thân, bạn quá đỉnh!",
+      "Mặc đồ tập vào là bạn\nlên bìa tạp chí được luôn.",
+      "Phòng gym thành thiên đường\nvì có bạn ghé qua.",
+      "Tập cũng tỏa sáng, sao bạn\nlúc nào cũng ngầu vậy?",
+      "Có người đổ mồ hôi vẫn đẹp á?\nChính là bạn đó.",
+      "Dáng bạn đi làm sáng nay\nchuyên nghiệp hết sức!",
+      "Sáng sớm đã lên đường rồi,\nbạn giỏi thật đó!",
+      "Hôm nay vẫn đi làm,\nbạn đã là người chiến thắng!",
+      "Mỗi bước chân của bạn\nđều có giá trị đó nha.",
+      "Đường đi làm mà có bạn\nthì đường nào cũng đặc biệt.",
+      "Đi làm đầy trách nhiệm như bạn\nthì ngầu lắm luôn!",
+      "Có bạn mà tuyến xe buýt\nthành sàn catwalk luôn.",
+      "Ngồi trên xe mà bạn vẫn sáng,\nhôm nay chụp ảnh bìa hả?",
+      "Thấy bạn đi làm là\nbuổi sáng em vui hẳn lên.",
+      "Chỉ đi bộ thôi mà bạn đã ngầu,\nhết nước chấm luôn!",
+      "Hôm nay vất vả rồi, bạn nhé!\nVề nhà nghỉ ngơi cho đã.",
+      "Dáng bạn tan làm đi về\nmới ngầu làm sao!",
+      "Trên đường về nhà,\nbạn vẫn là số một!",
+      "Một ngày suôn sẻ xong rồi,\nbạn đáng tự hào lắm!",
+      "Giờ là thời gian của riêng bạn,\nnghỉ ngơi thoải mái nha!",
+      "Tan làm rồi, hãy dành\nthời gian cho chính bạn nhé!",
+      "Tan làm rồi nè, hôm nay bạn\nvất vả nhiều rồi, cảm ơn nha!",
+      "Đường về nhà cũng xinh,\nhôm nay bạn đỉnh lắm luôn.",
+      "Nhìn bạn tan làm thôi\nmà thấy cả ngày thật ý nghĩa.",
+      "Một ngày mệt đấy, nhưng\nbạn vẫn là nhất, không bàn cãi.",
+      "Ôn bấy lâu rồi, bạn chắc\nchắn sẽ làm tốt thôi!",
+      "Công sức bạn bỏ ra\nkhông bao giờ uổng phí!",
+      "Hồi hộp cũng không sao,\nbạn đã sẵn sàng rồi!",
+      "Bài thi đâu có quyết định\nđược giá trị của bạn!",
+      "Đã cố gắng hết mình, bạn\nđã thành công rồi đó!",
+      "Với bạn thì chuyện này\nhoàn toàn làm được!",
+      "Hít thở sâu nào,\ntin vào thực lực của bạn!",
+      "Thi tốt nhé! Em biết bạn đã\nchuẩn bị kỹ lắm rồi mà.",
+      "Đừng lo, có bạn là\ntrúng tủ hết, đúng hết luôn!",
+      "Run hả? Nhưng bạn vẫn là\nđỉnh nhất, cứ vào phòng thi đi!",
+      "Tờ đề thi thấy mặt bạn\nchắc cũng tự giải luôn.",
+      "Đến lúc bạn thể hiện\nbản lĩnh rồi đó!",
+      "Nhà tuyển dụng gặp được bạn\nlà họ may mắn lắm đó.",
+      "Kinh nghiệm và nhiệt huyết\ncủa bạn sắp tỏa sáng rồi!",
+      "Hồi hộp cũng được,\nbạn đủ giỏi rồi mà!",
+      "Tự tin lên nào! Em thấy bạn\nđã sẵn sàng rồi!",
+      "Cứ tự tin kể câu chuyện\ncủa bạn, họ sẽ nghe say mê.",
+      "Phỏng vấn chỉ là buổi trò chuyện,\nbạn thoải mái nha.",
+      "Nhà tuyển dụng mà không nhận bạn\nthì công ty đó lỗ nặng.",
+      "Không phải CV đẹp đâu,\nmà tự bạn đã quá đẹp rồi.",
+      "Vừa bước vào phòng phỏng vấn\nlà bạn đã đậu hơn nửa rồi.",
+      "Chỉ cần ấn tượng đầu của bạn\nlà họ đã ưng rồi!",
+      "Hôm nay bạn trông\nthật rạng rỡ!",
+      "Cứ là chính mình thôi bạn,\nnhư vậy là duyên nhất rồi!",
+      "Ai ở cạnh bạn\nthật sự may mắn lắm!",
+      "Tự tin thế này,\nbạn nhất quả đất luôn!",
+      "Nụ cười của bạn hôm nay\nlà vũ khí lợi hại nhất.",
+      "Cứ là chính bạn thôi,\nthế là hoàn hảo rồi!",
+      "Sức hút của bạn\nkhông giấu đi đâu được.",
+      "Hôm nay hẹn hò hả? Chắc người ta\nrớt tim vì bạn mất.",
+      "Ai được gặp bạn hôm nay\nchắc trúng số rồi.",
+      "Outfit hẹn hò hoàn hảo, bạn\nlên bìa tạp chí được luôn!",
+      "Nhìn bạn hôm nay\nai cũng muốn đổ gục thôi.",
+      "Chưa tới giờ hẹn mà bạn đã xinh vậy,\nđịnh làm người ta rớt tim hả?",
+      "Cố lên, em tin bạn làm được!\nLúc nào em cũng cổ vũ hết mình.",
+      "Bước nhỏ thôi nhưng\nlà khởi đầu của hành trình lớn!",
+      "Đừng bỏ cuộc nhé, ước mơ\ncủa bạn sẽ thành sự thật!",
+      "Cố gắng hôm nay là\nthành công của bạn ngày mai.",
+      "Nhiệt huyết của bạn rồi sẽ\nlàm thay đổi cả thế giới!",
+      "Thất bại là mẹ thành công,\nbạn cứ thử tiếp đi nhé!",
+      "Tiềm năng của bạn\nlà vô hạn đó!",
+      "Hôm nay cũng vậy,\nbạn cứ cố hết sức nhé!",
+      "Thấy bạn nỗ lực mà\nbao người có thêm động lực đó.",
+      "Có bạn thì gì cũng ổn,\nthật đó, em không đùa!",
+      "Đừng bỏ cuộc nha, bạn\nlà người tuyệt vời mà.",
+      "Cố lên nào! Hôm nay bạn\nnhất định làm được!",
+      "Ai biết bạn đã nỗ lực\nđều sẽ luôn ủng hộ bạn.",
+      "Trên đời này mọi điều tốt đẹp\nđều xứng đáng với bạn.",
+      "Cứ là chính bạn,\nnhư vậy là hoàn hảo!",
+      "Chỉ cần bạn có mặt\nlà đã đặc biệt rồi!",
+      "Tự tin lên! Em dám cá bạn là một\nngười tuyệt vời mà!",
+      "Thật ra bạn mạnh mẽ hơn\nnhiều so với bạn tưởng!",
+      "Nét riêng của bạn\nchính là điều làm bạn tỏa sáng.",
+      "Hãy tin vào mình, bạn\nlàm được mà!",
+      "Vốn dĩ bạn đã là\nmột người trọn vẹn rồi.",
+      "Tự tin như bạn thì\nngầu nhất hành tinh luôn!",
+      "Nghe em nói nè, bạn tuyệt vời\nhơn nhiều so với bạn nghĩ!",
+      "Thật ra bạn đã làm\nrất tốt rồi đó.",
+      "Ai không thấy sức hút của bạn\nchắc cần đi khám mắt.",
+      "Hôm nay cứ thong thả\nnghỉ ngơi thôi nhé.",
+      "Ngay cả bạn\ncũng cần được nghỉ ngơi đó.",
+      "Không làm gì cả cũng ổn,\nđó là một ngày tử tế.",
+      "Tâm trạng của bạn\nmới là quan trọng nhất.",
+      "Từ từ thôi, cứ đi theo\nnhịp của bạn là được.",
+      "Hôm nay hãy dành thời gian\ncho chính bạn nhé.",
+      "Nghỉ ngơi cũng là\nmột việc rất năng suất!",
+      "Nghỉ ngơi là quyền của bạn,\nhôm nay cứ nằm thoải mái nha.",
+      "Đang chữa lành mà bạn\nvẫn đẹp lắm.",
+      "Dành thời gian cho bạn\ncũng chẳng sao đâu.",
+      "Nằm thư giãn mà bạn\nvẫn tỏa sáng, kỳ ghê!",
+      "Đang chill mà bạn\nvẫn xinh nhất quả đất.",
+      "Hoàn hảo thế này mà chỉ thiếu\nđúng một thứ: lỗi để chê.",
+      "Em bị cận nặng, vậy mà nhìn bạn\nvẫn thấy đẹp rõ mồn một.",
+      "Điện thoại em sắp hết pin,\nnhìn bạn một cái là sạc đầy.",
+      "Cho em hỏi đường đến tim bạn\nđược không? Em lạc mất rồi.",
+      "Trời nóng thế này chắc do\nbạn quá hot đó mà.",
+      "Sao bạn không đi thi hoa hậu?\nVì ban giám khảo sợ mất giải.",
+      "Cho hỏi bạn học trường nào?\nSao tốt nghiệp xuất sắc môn đẹp vậy?",
+      "Có phải bạn là Wi-Fi không?\nVì em thấy kết nối liền tay.",
+      "Có phải bạn là đường không?\nSao nhìn là thấy ngọt rồi.",
+      "Có phải bạn là cà phê không?\nVì thấy bạn là em tỉnh cả người.",
+      "Em leo đỉnh núi cao nhất còn chưa\nđỉnh bằng bạn đâu.",
+      "Giá xăng tăng rồi, nhưng độ xinh\ncủa bạn còn tăng nhanh hơn.",
+      "Bài toán khó nhất đời em là\ntìm chỗ để chê bạn.",
+      "Chắc bạn học cao thủ từ nhỏ,\nchứ sao xinh đẹp có bằng cấp vậy?",
+      "Mỗi lần thấy bạn là em\ntưởng mình trúng độc đắc.",
+      "Em xin phép khai báo,\nvì bạn quá đẹp nên em bị loạn nhịp.",
+      "Nghe đồn bạn là thần đèn,\nvì cứ xuất hiện là ước gì cũng thành.",
+      "Nếu cái đẹp là tội thì bạn\nđã bị tù chung thân rồi đó.",
+      "Người ta có bản đồ, em có bạn,\nnhìn là biết đúng hướng hạnh phúc.",
+      "Hỏi nhỏ, bạn có mệt không?\nVì chạy trong đầu em cả ngày.",
+      "Cảm ơn bạn vì đã đẹp,\nđể thế giới này bớt buồn.",
+      "Gương mà biết nói chắc cũng\nxin chụp chung với bạn.",
+      "Trên đời có 7 kỳ quan,\ncòn bạn là kỳ quan thứ 8.",
+      "Chỉ cần bạn cười lên là toàn khu\nđược mùa luôn đó.",
+      "Nghe nói bạn cao thủ lắm,\nvì cả thành phố đều bị bạn hạ gục.",
+      "Nếu bạn là bài hát,\nem sẽ bấm nghe lặp lại cả đời.",
+      "Cho em xin số của bạn nhé?\nSố may mắn của đời em!",
+      "Thật ra em không thích đếm cừu,\nchỉ đếm điểm đáng yêu của bạn.",
+      "Soi gương chưa bạn?\nChắc cái gương cũng đang xin tên.",
+      "Xin lỗi vì làm phiền, nhưng\nbạn đẹp quá nên em báo công an.",
+      "Sáng ăn gì mà bạn\nđẹp hết phần thiên hạ vậy?",
+      "Em đã thử đủ cách rồi,\nchẳng tìm ra khuyết điểm nào của bạn.",
+      "Hôm nay thời tiết đẹp,\nchắc là do bạn đi ngang qua.",
+      "Phim nào có bạn là\nchắc chắn đạt phòng vé nghìn tỷ.",
+      "Em ăn no rồi, nhưng nhìn bạn\nvẫn thấy thèm, ngon mắt quá.",
+      "Đẹp đến mức camera thường nhìn bạn\ncũng phải xin lỗi vì chưa đủ nét.",
+      "Quả này bạn lên top xu hướng,\nmà thật ra bạn vốn là top từ lâu.",
+      "Bác sĩ dặn không nên nhìn bạn lâu,\nvì em dễ bị say nắng.",
+      "Thấy bạn thì em lập tức\nmở chế độ fan cuồng.",
+      "Nhìn bạn là em hiểu vì sao\nngười ta hay nói \"đẹp vỡ màn hình\".",
+      "Fan cứng của bạn xin phép\nđiểm danh nhé: có em đây!",
+      "Em đã đặt báo thức chỉ để\nngắm bạn sớm hơn mười phút.",
+      "Hôm nào bạn ra mắt album\nlà em mua ngay bản giới hạn.",
+      "Mở fan meeting đi bạn ơi,\nem xếp hàng từ tối hôm qua.",
+      "Debut đi, em tin bạn\nsẽ có fan số một là em.",
+      "Nhìn bạn thôi là em thấy\nbao nhiêu gánh nặng bay hết.",
+      "Em đang tính lập fanpage\nchỉ để khen bạn cả ngày.",
+      "Được bạn ghé qua là cả ngày\nem ở chế độ lễ hội.",
+      "Em chọn bạn làm bias\nvà đổi luôn cả danh sách yêu thích.",
+      "Cho em xin chữ ký bạn nhé,\nđể mai kia còn khoe con cháu.",
+      "Sân khấu đâu mà sáng vậy?\nÀ, bạn vừa bước ra.",
+      "Ánh đèn sân khấu thua xa\nánh sáng từ nụ cười của bạn.",
+      "Ghé fan meeting của bạn xong,\nem tính đổi nghề thành fan chuyên nghiệp.",
+      "Hôm nay bạn lên sóng là\ncả mạng xã hội bùng nổ.",
+      "Chụp hình xin phép trước nhé,\nvì bạn đẹp quá đà.",
+      "Nghe nói bạn là hit của năm,\nem nghe hoài chưa chán.",
+      "Tình hình là em\nđã hết thuốc chữa vì bạn.",
+      "Thật đó, bạn cười một cái\nlà tim em tăng ca liền.",
+      "Mỗi khi bạn xuất hiện,\ntrái tim em tự động bật nhạc.",
+      "Chỉ cần bạn gửi tin nhắn,\nem đã vui cả tuần rồi.",
+      "Có bạn bên cạnh là em thấy\nđời mình lên level liền.",
+      "Cuộc sống của em có bạn\nnhư phim có nhạc nền hay.",
+      "Nghe giọng bạn thôi\nlà em thấy khỏe hẳn.",
+      "Với em, bạn là\nniềm vui bất tận.",
+      "Nhờ có bạn mà em\nbiết thế nào là hạnh phúc nhỏ.",
+      "Mỗi ngày với bạn\nnhư một lễ hội riêng của em.",
+      "Em nhớ bạn nên\nnhìn gì cũng ra bạn.",
+      "Mọi thứ đều xịn hơn\nkhi có bạn xuất hiện.",
+      "Sao bạn cứ đáng yêu hoài vậy?\nEm chịu hết nổi rồi!",
+      "Đối với em, bạn\nlà phiên bản giới hạn.",
+      "Em nghĩ về bạn là\nmiệng tự cười liền.",
+      "Em nghĩ bạn đến với cuộc đời em\nnhư mưa rơi giữa trưa nóng.",
+      "Thời gian bên bạn lúc nào\ncũng như được bật chế độ chậm.",
+      "Trong lòng em, bạn luôn\nđứng ở vị trí đầu bảng.",
+      "Có bạn ở đây là em\nthấy mình giàu có nhất rồi.",
+      "Em cảm ơn bạn mỗi ngày,\nvì bạn đã xuất hiện.",
+      "Em tin vào điều tốt đẹp\ncũng nhờ bạn đó.",
+      "Nhắn tin với bạn xong là\nem hết sạch buồn phiền.",
+      "Chỉ cần thấy bạn cười,\ncả ngày em đã trọn vẹn.",
+      "Dù bạn không phải người nổi tiếng,\nem vẫn muốn xin chữ ký.",
+      "Có bạn là em thấy\nnhà nào cũng thành tổ ấm.",
+      "Mỗi lần gặp bạn, em lại\ncó thêm lý do để yêu đời.",
+      "Nếu em có điều ước,\nchắc em chỉ muốn thấy bạn vui.",
+      "Với em thì bạn\nlà món quà quý nhất.",
+      "Nghe bạn nói như bài hát ru,\nem thấy bình yên liền.",
+      "Nhìn bạn một cái\nlà em quên hết mệt mỏi.",
+      "Gặp được bạn là em\nbiết mình đã trúng quẻ may.",
+      "Mỗi sáng có bạn nhắn tin\nlà pin em đầy cả ngày.",
+      "Nếu bạn làm đầu bếp thì\nmón nào cũng ngon cả thế giới.",
+      "Em đỏ mặt mà vẫn thích,\nchỉ có bạn làm được thôi.",
+      "Chỗ nào có bạn đứng\nlà chỗ đó thành nơi đáng sống.",
+      "Chỉ cần bạn gật đầu,\nem sẵn sàng xếp hàng cả đời.",
+      "Em đã thử đếm sao trên trời,\nnhưng bạn vẫn sáng nhất.",
+      "Thế giới có bạn thật là\nmay mắn vô cùng.",
+      "Thật ra bạn là phiên bản\nnâng cấp của sự dễ thương.",
+      "Hôm nay bạn cũng là\nngười em muốn khoe nhất.",
+      "Cảm giác khi nhìn bạn\ngiống như được ăn kem giữa hè.",
+      "Em chấm bạn 10 điểm,\nkhông có nhưng gì hết.",
+      "Tổng kết năm nay, bạn\nvẫn là nhân vật xuất sắc nhất.",
+      "Cả xóm em ai cũng tự hào\nvì có bạn đó.",
+      "Xin trao tặng bạn\ndanh hiệu người đáng yêu nhất.",
+      "Nhờ bạn mà em hiểu\nthế nào là cảm xúc dâng trào.",
+      "Giải thưởng gương mặt của năm\nchắc chắn thuộc về bạn rồi.",
+      "Nếu hạnh phúc có địa chỉ thì\nđó là chỗ bạn đang đứng.",
+      "Với bạn thì mọi ánh nhìn\nđều là ánh nhìn ngưỡng mộ.",
+      "Chuyện lạ có thật: bạn xuất hiện,\nlà tâm trạng em lên liền.",
+      "Tình yêu em dành cho bạn\ncòn lớn hơn cả bầu trời.",
+      "Sau tất cả thì bạn vẫn là\nđiều tuyệt nhất em từng gặp.",
+      "Ngày mai bạn cũng sẽ đỉnh,\nem bảo chứng luôn đó!",
+      "Tin vui đầu ngày: bạn vẫn\nđẹp trai xinh gái như hôm qua.",
+      "Nếu có cuộc thi tỏa sáng thì\nbạn đã nhận cúp từ lâu.",
+      "Giữa phố đông người, em vẫn\nnhận ra bạn đầu tiên.",
+      "Khen bạn thì em có thừa,\nnhưng chê thì xin chịu.",
+      "Nắng đẹp, gió mát, và\nbạn nữa. Đủ bộ rồi nhé!",
+      "Mai mốt bạn nổi tiếng nhớ\nnhận em là fan đầu tiên nha.",
+      "Gặp ai cũng muốn kể cho mẹ nghe\nvề bạn, kiểu người hiếm có.",
+      "Gió có thổi bay cả mây,\ncũng không bay nổi sức hút của bạn.",
+      "Hít một hơi thật sâu, rồi\nnhớ rằng bạn đang làm rất tốt.",
+      "Em không mê tín đâu, nhưng\ngặp bạn đúng là vận may.",
+      "Đời em có hai điều chắc chắn:\ntrời sẽ sáng, và bạn sẽ đỉnh.",
+      "Chưa bao giờ em thấy ai\nvừa giỏi vừa dễ thương như bạn."
+    ]
+  },
+  "problem": {
+    "title": "Người khắt khe với bạn nhất, có phải chính bạn?",
+    "text": "Trên đường đi làm, trước buổi phỏng vấn, lúc tan làm, giọng nói trong đầu chỉ toàn càm ràm. Khen Lố Mỗi Ngày đứng về phía bạn ngay từ Màn hình chính, vài lần mỗi ngày, hơi quá tay một chút. Khoảnh khắc bạn bật cười, chút tự tin cũng quay lại."
+  },
+  "features": [
+    {
+      "title": "Câu khen hợp tâm trạng lúc này",
+      "text": "Chọn trong 14 tâm trạng và tình huống như `Buổi sáng`, `Đi làm`, `Lúc mệt mỏi`, `Trước phỏng vấn` hay `Trước buổi hẹn`, câu khen phù hợp sẽ lên widget ngay. Phân vân thì đã có `Ngẫu nhiên`.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Giữ lại những câu bạn thích",
+      "text": "Chạm ngôi sao để lưu vào Yêu thích, xem lại các câu cũ trong Lịch sử. Chạm `Dùng câu này` là câu đó lên widget liền.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Ghé mỗi ngày, thành tích cứ thế tăng",
+      "text": "Mỗi ngày bạn ghé xem là chuỗi ngày dài thêm. Đủ 7, 30 hoặc 100 ngày liên tiếp, hay tổng cộng 50 và 100 ngày, bạn sẽ mở khóa thành tựu.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "Bắt đầu chỉ với 3 bước",
+    "items": [
+      {
+        "title": "Chọn tâm trạng",
+        "text": "Mở `Chọn tâm trạng` và chạm vào cái hợp với lúc này."
+      },
+      {
+        "title": "Trang trí widget",
+        "text": "Trong Cài đặt chi tiết, chọn phông chữ, màu chữ, nền và chu kỳ làm mới."
+      },
+      {
+        "title": "Đặt lên Màn hình chính",
+        "text": "Chạm và giữ Màn hình chính, chạm + rồi tìm Khen Lố Mỗi Ngày."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Widget tùy bạn chỉnh",
+    "rows": [
+      [
+        "Phông chữ",
+        "13 kiểu, có Futura, Georgia và Marker Felt"
+      ],
+      [
+        "Màu chữ",
+        "Màu nào bạn thích cũng được"
+      ],
+      [
+        "Nền",
+        "Chuyển sắc hai màu, hoặc một trong các ảnh nền có sẵn"
+      ],
+      [
+        "Căn lề",
+        "Trái, giữa hoặc phải"
+      ],
+      [
+        "Giãn dòng",
+        "Dòng sát hơn hoặc thoáng hơn"
+      ],
+      [
+        "Chu kỳ làm mới",
+        "Câu mới mỗi 5, 15 hoặc 30 phút"
+      ]
+    ],
+    "note": "Kích thước widget được chọn khi thêm vào Màn hình chính."
+  },
+  "pricing": {
+    "title": "Mua một lần là xong",
+    "free": {
+      "name": "Ứng dụng",
+      "items": [
+        "281 câu khen cho 14 tâm trạng",
+        "Widget Màn hình chính tùy chỉnh được",
+        "Yêu thích và Lịch sử",
+        "Chuỗi ngày và thành tựu"
+      ]
+    },
+    "pro": {
+      "name": "Ủng hộ nhà phát triển",
+      "items": [
+        "Chọn mức tip nhỏ, vừa hoặc lớn",
+        "Không mở khóa tính năng nào. Chỉ là một lời cảm ơn"
+      ],
+      "note": "Chỉ khi nào bạn muốn."
+    },
+    "note": "Không thuê bao, không mua thêm, không quảng cáo."
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp",
+    "items": [
+      {
+        "q": "Thêm widget thế nào?",
+        "a": "Chạm và giữ một chỗ trống trên Màn hình chính đến khi biểu tượng rung, chạm + ở trên cùng, tìm Khen Lố Mỗi Ngày và chọn kích thước."
+      },
+      {
+        "q": "Câu tiếp theo được chọn thế nào?",
+        "a": "Khi bạn chọn tâm trạng, câu khen của tâm trạng đó lên widget ngay. Sau đó widget hiện ngẫu nhiên một câu trong 281 câu theo chu kỳ làm mới bạn chọn. Trong ứng dụng, bạn cũng có thể chạm `Câu tiếp theo` để tự đổi."
+      },
+      {
+        "q": "Đổi phông chữ hay chu kỳ làm mới được không?",
+        "a": "Được. Trong Cài đặt chi tiết, bạn đổi được phông chữ, màu chữ, nền, căn lề, giãn dòng và chu kỳ làm mới: 5, 15 hoặc 30 phút."
+      },
+      {
+        "q": "Widget không đổi ngay.",
+        "a": "iOS quyết định khi nào vẽ lại widget nên đôi khi sẽ chậm hơn chu kỳ bạn chọn một chút. Mở ứng dụng rồi đóng lại, widget sẽ cập nhật."
+      },
+      {
+        "q": "Chuỗi ngày được tính thế nào?",
+        "a": "Mỗi ngày liên tiếp bạn xem câu khen sẽ cộng thêm vào chuỗi. Trong `Hành trình của mình` có chuỗi hiện tại, kỷ lục, tổng số ngày và các thành tựu."
+      },
+      {
+        "q": "Mục yêu thích và lịch sử bị mất.",
+        "a": "Mọi thông tin chỉ lưu trên máy nên sẽ không đi theo khi bạn xóa ứng dụng hay đổi điện thoại. Nếu bạn không xóa mà vẫn mất, hãy gửi email cho chúng mình."
+      },
+      {
+        "q": "Dữ liệu của tôi có bị gửi đi đâu không?",
+        "a": "Không. Ứng dụng không thu thập dữ liệu cá nhân. Mục yêu thích và lịch sử chỉ nằm trên máy của bạn."
+      },
+      {
+        "q": "Muốn báo lỗi hay góp ý?",
+        "a": "Gửi ngay từ `Liên hệ nhà phát triển` trong ứng dụng, qua email hoặc DM Instagram @lee25_ios. Chúng mình sẽ trả lời ngay khi xem."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Từ hôm nay, có người\nđứng về phía bạn",
+    "cta": "Tải trên App Store"
+  },
+  "ui": {
+    "skip": "Bỏ qua đến nội dung",
+    "languages": "Ngôn ngữ",
+    "privacy": "Chính sách quyền riêng tư",
+    "contact": "Có câu hỏi hay góp ý? Gửi về {email}."
+  }
+}

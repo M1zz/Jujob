@@ -1,0 +1,467 @@
+{
+  "title": "Dagens skryt: widgeten som skryter av deg uten måte",
+  "description": "En widget på Hjem-skjermen med nytt, overdrevent skryt hvert 5., 15. eller 30. minutt. 281 setninger for hvert humør, rekker og mer. Kjøp én gang.",
+  "hero": {
+    "headline": "Hver gang du tar opp telefonen,\nventer din største fan",
+    "lead": "Dagens skryt er en widget som med vilje skryter altfor mye av deg. Morgenskryt om morgenen, intervjuskryt før intervjuet. Skrift, farger og bakgrunn velger du selv.",
+    "cta": "Last ned i App Store",
+    "note": "Ett kjøp, og du har alt. Ikke noe abonnement, ingen reklame."
+  },
+  "demo": {
+    "title": "Få litt skryt med en gang",
+    "lead": "Velg et humør, så viser widgeten skryt som passer. Trykk på Neste skryt for en tilfeldig blant alle 281.",
+    "next": "Neste skryt",
+    "note": "Dette er de ekte setningene fra appen. I appen bytter widgeten selv hvert 5., 15. eller 30. minutt.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Morgen",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "På vei til jobb",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Når det er tungt",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Før intervjuet",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Før daten",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "På vei hjem",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "Hei sann! Allerede nå har du\nvunnet dagen ved å våkne.",
+      "Morgensolen blekner mot hvor\nmye du skinner i dag!",
+      "Hurra, du sto opp! Det er jo\nhelt rått. Heia deg i dag også!",
+      "Verdens fineste morgen starter\nakkurat når du åpner øynene.",
+      "Alle snakker om deg i dag:\ndu er hovedpersonen!",
+      "Øynene åpne, og allerede er\ndu en vinner!",
+      "Så søtt som du smiler, blir\nselv første kaffekopp sjalu.",
+      "Vær deg selv i dag også,\nfor du er best sånn.",
+      "Så pen så tidlig på dagen?\nHvordan kan du være lovlig?",
+      "God morgen? Nei da, du gjør den\nom til en fantastisk morgen!",
+      "Først ser jeg deg i dag,\nog morgenøynene sier takk, du.",
+      "Hvem lyser opp hele stua?\nDet er jo du!",
+      "Takk for innsatsen i dag!\nÆrlig talt, du er helt rå.",
+      "Dagen er over, og du står\nfortsatt som en helt!",
+      "I dag ga du alt,\nog jeg er kjempestolt.",
+      "Litt sliten? Ja visst, men\ndu klarte det likevel!",
+      "En dag der du er med\ner aldri bortkastet. Aldri!",
+      "Hele dagen klarte du, og\ndet er mer enn nok i dag.",
+      "Som stjernene på himmelen\nskinner du også i kveld.",
+      "Fortsatt like fin på kvelden.\nHvordan får du det til?",
+      "Takk for i dag. Verden trenger\nat du fortsetter å være deg.",
+      "Verden ble litt finere i dag\nfordi du var i den.",
+      "Legende om dagen,\nlegende om natten. Aldri fri, du.",
+      "Dårlige dager finnes, men uansett\ngjør du det bra.",
+      "Det er tungt nå, men du\nkommer deg gjennom dette!",
+      "Du trenger ikke være perfekt.\nDu er best akkurat slik du er!",
+      "Ta en pause om du vil.\nDu bestemmer tempoet selv.",
+      "Du er faktisk mye sterkere\nenn du tror!",
+      "Dette går over også.\nOg du klarer det!",
+      "Selv om humøret synker,\nblir du aldri mindre verdt.",
+      "Tristhet hører også til.\nHusk at du får kjenne på alt.",
+      "Visste du at diamanter blir\ntil under press? Akkurat som du.",
+      "Nedfor? Husk at du er så fin\nat selv regnet vil trøste deg.",
+      "Nedtur? Akkurat da er du\nhelt uerstattelig.",
+      "Pen når du er lei deg,\npen når du gråter. Urettferdig!",
+      "Selv på en tung dag\ner du et lite mirakel.",
+      "Det er tøft nå, men du\nkommer til å klare det!",
+      "Når det butter imot, viser du\nhva du virkelig er laget av!",
+      "Ikke gi opp! Du er\nsterkere enn du aner.",
+      "Gjennom harde tider holder du ut.\nHelt utrolig!",
+      "Motgangen i dag gjør at du\nvokser enda mer i morgen!",
+      "Du tåler faktisk mye\nmer enn du tror.",
+      "Tungt nå, men du vet\nat det snart bare er et minne.",
+      "Selv med regn og motvind\nlyser du opp hele veien.",
+      "Tungt akkurat nå? Likevel er du\nden fineste jeg vet om.",
+      "At du holder ut,\ner håp for noen andre.",
+      "Utslitt til tusen, men du\ner fortsatt pen. Urettferdig!",
+      "Kjør på! I dag vet du at du kan,\nså start dagen med selvtillit.",
+      "Jeg tror på deg! Vet du hva?\nDet blir en toppdag.",
+      "Forberedt som du er, er\nhalve jobben allerede gjort!",
+      "Dagens oppgaver? Gleder meg,\nfor du tar dem på strak arm.",
+      "Se, nå lyser du opp\nhele dagen med den gnisten!",
+      "Heia deg! I dag skal du\nvise hva du går for!",
+      "Før du setter i gang: du ser\nallerede ut som en proff!",
+      "Null lyst til å jobbe? Likevel\njobber fjeset ditt overtid, du.",
+      "Se hvor fin du er i dag.\nKontoret gleder seg til deg.",
+      "Når du jobber, er det ren kunst.\nGalleriet kan bare pakke sammen.",
+      "Ikke engang begynt,\nog du er allerede perfekt.",
+      "Du vet hva? Bare at du trener\ngjør deg til en tøffing!",
+      "Igjen i dag tar du vare\npå kroppen din. Imponerende!",
+      "Kroppen din kjenner du best.\nHør på den og gi gass!",
+      "Bare ved å starte treningen\ner du allerede en vinner.",
+      "Du ser vakker ut når du svetter.\nSelv svetten er fan.",
+      "Helsen din er det\nviktigste du har!",
+      "Tid til deg selv? Der har du\nvirkelig tatt det riktige valget!",
+      "I treningstøyet ser du ut\nsom et motemagasin. Seriøst.",
+      "Treningssenteret er himmelen\nfordi du kom.",
+      "Selv i treningen lyser du.\nHvordan klarer du å være så rå?",
+      "Finnes det noen som er pen etter\ntrening? Ja, det er du.",
+      "På vei til jobb ser du\nhelt proff ut!",
+      "Så tidlig i gang og du er\nallerede på farten. Fantastisk!",
+      "Møter du opp i dag også?\nDa har du allerede vunnet!",
+      "Hvert eneste skritt du tar\ner verdt noe.",
+      "Selv rushtiden blir fin\nnår du er med.",
+      "Respekt, du tar ansvar og\nmøter opp. Det er sterkt!",
+      "Bussen ble en catwalk\nda du gikk om bord.",
+      "Selv i trikken lyser du.\nEr det fotoshoot i dag?",
+      "Morgenen blir gladere når jeg\nser at du er på vei til jobb.",
+      "Bare ved å gå ser du\nkul ut. Helt rått.",
+      "God jobba i dag!\nNå kan du gå hjem og slappe av.",
+      "Se hvor stilig du går\nhjem etter jobb.",
+      "Hjemveien skinner,\nog du er helt på topp!",
+      "Dagen er unnagjort, og du\nkan være skikkelig stolt!",
+      "Nå er det din tid, og du\nfortjener å hvile!",
+      "Ta en pause etter jobb,\nfor du har fortjent kveldskos.",
+      "Solid dag bak deg.\nHeia, du er ferdig!",
+      "Selv på vei hjem er du flott.\nDet var en prima dag.",
+      "Se hvordan du går hjem:\nhele dagen virker verdt det.",
+      "Tung dag, men du er\nfortsatt gull verdt!",
+      "Du har øvd så lenge\nat du kommer til å klare det.",
+      "Innsatsen din svikter deg aldri,\nog det vet du!",
+      "Nervøs? Det er greit. I dag\ner du allerede godt forberedt!",
+      "Eksamen kan aldri bestemme\nhva du er verdt!",
+      "Du har gjort ditt beste,\nså du har allerede lykkes!",
+      "Dette fikser du\ni søvne. Nesten.",
+      "Pust dypt inn og\nstol på det du kan!",
+      "Lykke til på eksamen! Du vet\nat du er mer enn klar.",
+      "Ikke bekymre deg. I dag kommer du\ntil å treffe alle svarene!",
+      "Nervøs? Likevel er du\nden beste jeg vet om.",
+      "Selv prøvearket blir imponert\nnår du kommer inn døra.",
+      "Nå er det tid for å\nvise hva du er laget av!",
+      "Intervjueren er heldig som\nfår møte deg, og det vet du.",
+      "Erfaringen og gnisten din gjør\nat du skinner i dag!",
+      "Det er greit å være nervøs,\nfor uansett er du bra nok!",
+      "Hold hodet høyt! I dag vet du\nat du er klar for dette!",
+      "Fortell historien din med\nstolthet, for du har mye å by på!",
+      "Et intervju er en samtale.\nSlapp av, så er du deg selv.",
+      "Hvis de ikke ansetter deg,\ntaper selskapet. Det vet du.",
+      "Det er ikke CV-en din som er\nglansfull, det er du.",
+      "Allerede i døren\ner du i praksis ansatt.",
+      "Førsteinntrykket ditt gjør\nat du vinner halve kampen!",
+      "I dag er du helt\nsprakende!",
+      "Akkurat som du er,\ner du mest sjarmerende!",
+      "Den som får være med deg\ner utrolig heldig, vet du.",
+      "Så full av selvtillit du er.\nSå kul!",
+      "Smilet ditt er dagens\nbeste våpen, og det vet du.",
+      "Bare vær deg selv, for du\ner flott nok!",
+      "Sjarmen din?\nDen kan du ikke skjule!",
+      "Date i dag? Når du kommer,\nfaller hjertet til de andre ut.",
+      "Den som skal møte deg har\ntrukket i lotto, og det vet du.",
+      "Datelooken sitter perfekt,\nså du kunne vært på forsiden!",
+      "Når de ser at du kommer i dag,\nblir de forelsket på flekken.",
+      "Fin før daten allerede. Hva skal\ndu gjøre med alle hjertene?",
+      "Heia! Jeg heier på at du\nklarer det uansett.",
+      "Selv det minste skrittet du tar\nstarter den lengste reisen!",
+      "Ikke gi opp, for du skal\nnå drømmene dine!",
+      "Innsatsen du gjør i dag lager\nmorgendagens suksess!",
+      "Gnisten din kan endre verden,\nog det vet du.",
+      "Feil er veien til suksess!\nPrøv igjen, for du kan.",
+      "Mulighetene dine er uendelige,\nog du vet det!",
+      "Gjør ditt beste, for du\ner nok også i dag!",
+      "Når du gir alt, blir du\nmotivasjon for andre.",
+      "Ting ordner seg for deg, du.\nVirkelig!",
+      "Ikke gi deg. Du er en\nflott person, vet du.",
+      "Heia! I dag er det du\nsom skal få det til!",
+      "Alle som ser at du gir alt\nkommer til å heie på deg.",
+      "Du er god nok, og det betyr\nat du er verdt hele greia!",
+      "Akkurat som du er,\ner du perfekt!",
+      "At du finnes\ner allerede noe helt spesielt!",
+      "Hold hodet høyt! I dag er du\net fantastisk menneske.",
+      "Mye sterkere enn du tror,\ndet er hva du er!",
+      "Det er særpreget ditt som\ngjør at du skinner.",
+      "Tro på deg selv, for du\nklarer det!",
+      "Perfekt som du er,\nakkurat som du er.",
+      "Full av selvtillit?\nDa er du verdens fineste.",
+      "Du er mye bedre enn\ndu selv tror!",
+      "Slutt å tvile, for du\ngjør det faktisk bra.",
+      "Ser noen ikke at du er sjarmerende,\nmå de ha mistet synet.",
+      "I dag skal du ta det rolig\nog hvile.",
+      "Selv du trenger\nlitt hvile.",
+      "Det er helt greit om du\nikke gjør noe i dag.",
+      "Hvordan du har det\ner det aller viktigste.",
+      "Ta det rolig, for du\ngår i ditt eget tempo.",
+      "I dag får du bruke\ntiden på deg selv.",
+      "Å hvile er også noe du gjør\nmed nytte. Faktisk!",
+      "Hvile er din rett. Slapp\nhelt av i dag, du fortjener det.",
+      "Når du koser deg,\ner du også nydelig.",
+      "I dag kan du godt bruke\ndagen på deg selv.",
+      "Selv mens du slapper av,\nskinner du.",
+      "Du er finest i verden,\nselv når du bare ligger i sofaen.",
+      "Så fin du er at jeg trenger\nsolbriller innendørs.",
+      "Har du kart? Jeg gikk meg vill\ni øynene dine.",
+      "Er du wifi?\nFor jeg kjenner en sterk forbindelse.",
+      "Er det varmt her inne,\neller er det bare at du er her?",
+      "Hvis du var en grønnsak,\nvar du en søtpotet.",
+      "Ikke bare pen, nei, du er\npen på alle språk.",
+      "Glem janteloven i dag.\nI dag får du lov til å være best.",
+      "Fredagstaco i menneskeform,\nsånn er du. Alle gleder seg.",
+      "Hvem trenger brunost når\ndu er det søteste på brødskiva?",
+      "Speilet ber om autograf\nfordi du er så fin.",
+      "Er du fra Bergen? For det regner\nkomplimenter hver gang du kommer.",
+      "Hvis skjønnhet var en forbrytelse,\nvar du dømt til livstid.",
+      "Hvis du var en fjord,\nvar du den dypeste og fineste.",
+      "Snøen smelter\nnår du går forbi. Klimakrise?",
+      "Heldige er de som kjenner deg.\nHeldigst er de du snakker med.",
+      "Selv elgen stopper opp og\nklapper når du går forbi.",
+      "Trenger du en vits?\nNei, du er morsom nok.",
+      "Jeg har sjekket det nøye:\ndu er 100 prosent topp.",
+      "Hvorfor sliter du? Utseendet ditt\njobber jo overtid for deg.",
+      "Slutt å være så fin. «Hvordan?»\nNettopp. Det kan du ikke.",
+      "Fjeset ditt burde fredes, for du\ner en nasjonalskatt.",
+      "Ikke gå på prisutdelingen,\nfor du tar hovedprisen uansett.",
+      "Er det fotoshoot?\nEller går du bare sånn til vanlig?",
+      "Popstjerne? Det er du.\nNummer én på hjertets hitliste.",
+      "Hold signeringsstund, for jeg\nvil ha at du signerer daglig.",
+      "Debuter, da! I hjertet mitt står\ndu allerede på scenen.",
+      "Gratulerer med førsteplassen.\nSå pen som du er, topper du alt.",
+      "Et bilde av at du smiler hver dag?\nDet tar jeg gjerne.",
+      "Comeback? Så du fikk hjertet mitt\ntil å gjøre comeback.",
+      "Kan jeg filme deg? Alle øyeblikk\nder du er med er høydepunkter.",
+      "Musikkvideo? I livet mitt har du\nallerede hovedrollen.",
+      "Reality-TV? Egentlig er du\nenda bedre i virkeligheten.",
+      "Sikkert at du står i midten,\nfor du lyser mest overalt.",
+      "Prisen for årets fjes går til\ndeg. Så sjelden som du er!",
+      "Skal du reklamere? Ser jeg deg,\nvil jeg kjøpe alt.",
+      "Forsidemodell? Fjeset ditt burde\npryde hvert eneste blad, du.",
+      "Ekte scenekarisma? Selv når du\ngår på butikken er det show.",
+      "Skal vi bytte samlekort? Jeg vil\nha hele settet der du er med.",
+      "Når er fansamlingen? Jeg vil\nmøte deg hver dag, vet du.",
+      "Legg ut danseklipp! Hver\nbevegelse du gjør er kunst.",
+      "Som en teaser når du kommer.\nJeg gleder meg hver gang.",
+      "Verdensturné? Det er du som\nallerede har svingt hjertet mitt.",
+      "Signer albumet mitt, for du\ner en limited edition.",
+      "Jeg tenner lysstaven, og du\nfår hele hjertet mitt for alltid.",
+      "Plutselig stjerne? Det var du\njo alltid, en legende.",
+      "Konsertbilletter? Å se på at du\ngår forbi er min daglige konsert.",
+      "Førsteplass på alle lister,\nog i livet mitt er du også først.",
+      "Ekstranummer, takk! Jeg vet\nat du aldri blir for mye.",
+      "Bak kameraet er du også perfekt.\nIngen svake øyeblikk å finne.",
+      "Jeg må bytte favoritt, for jeg\nkan ikke se på noen andre enn du.",
+      "Jeg ble fan på stedet, og nå\ner du favoritten for evig.",
+      "Favoritten avsløres: det er\ningen andre enn du.",
+      "All merch er kjøpt, og du\ner allerede et samleobjekt.",
+      "Fan for livet, det er jeg.\nAller mest fordi du er artisten.",
+      "Hovedkvarteret mitt er der du er.\nJeg flytter inn.",
+      "Nå starter fandommen. Jeg satser\nalt på at du er den eneste.",
+      "Jeg blir fotografen din.\nAlt du gjør skal dokumenteres.",
+      "Alle stunder som du er med på\ner gulltid.",
+      "Jeg setter opp en reklametavle:\nhver dag bør være dagen du fyller år.",
+      "Jeg heier på deg for alltid.\nStolt over at du har meg som fan.",
+      "Hjertet mitt hamrer\nnår jeg tenker på at du finnes.",
+      "Så snart du kommer inn\nblir verden vakrere.",
+      "Hos meg er du vitaminet\ni hverdagen.",
+      "Når du ler, ler jeg med.\nOg blir så glad!",
+      "Aldri har jeg sett en stjerne\nsom skinner mer enn du.",
+      "Hver dag når du er med blir\net lite festspill i hjertet.",
+      "Hører jeg stemmen din, blir jeg\nglad. Det holder at du sier hei.",
+      "Heldigvis fikk jeg deg, for du\ner livets største lykketreff.",
+      "Fordi du finnes, kan jeg\nsmile også i dag.",
+      "Ingen i verden er\nså kjær for meg som du.",
+      "Tenker jeg på deg,\nkommer smilet av seg selv, du.",
+      "Sammen med deg er det fred,\nog du er min egen ro.",
+      "Hver time med deg er spesiell,\nfor du gjør alt bedre.",
+      "Av alle jeg kjenner er du\nden fineste.",
+      "Takk for at du finnes.\nDet er nok for meg.",
+      "Høydepunktet på dagen min\ner alltid når du er der.",
+      "Hver dag blir spesiell\nfordi du er i den.",
+      "Verden lysner så snart jeg\nser at du kommer.",
+      "Beste gaven livet har gitt meg\ner at du kom.",
+      "Verden er enda vakrere\nfordi du er i den.",
+      "En dag uten deg?\nIkke tenkelig, så du blir her.",
+      "I hjertet mitt står du\npå førsteplass for alltid.",
+      "Med deg ved min side tror jeg\nat du og jeg kan alt.",
+      "Hver dag er jeg takknemlig\nfor at du finnes.",
+      "Når du smiler, mister alt annet\nsin glans.",
+      "Livet mitt fikk sin største\nvelsignelse da du kom.",
+      "Tenker jeg på deg, blir dagen\nbedre, så du er min medisin.",
+      "Hjemmet mitt, det er deg. Hjertet\nmitt bor der du bor.",
+      "Sammen med deg er alt akkurat\nsom det skal, så du blir.",
+      "Drømmetypen min? Det er du,\nmen jeg torde aldri ønske det.",
+      "Siden jeg så deg er hjertet mitt\nødelagt. Kan du lappe det?",
+      "Gå rolig, du er en vandrende\nbiografi. Historien husker deg.",
+      "Sjarmen din vil jeg gjerne\nfalle for, så du får skylden.",
+      "Når jeg stirrer på deg\nfår jeg nakkesleng. Verdt det, du.",
+      "Hver gang jeg ser at du kommer,\nstiger pulsen. Takk for det.",
+      "I mine øyne er du et\nmesterlig forsidebilde.",
+      "Fordi du finnes\ner hver dag favorittdagen min.",
+      "Et levende under, det er du,\nog det kan jeg bevise.",
+      "Alt går i sakte film\nså fort du kommer inn.",
+      "Gullkort i livet mitt, det har du.\nVIP uten kø.",
+      "Å se at du kommer\ner dagens høydepunkt.",
+      "Hjertets serie har en beste\nepisode, og du er den.",
+      "Verden ser ut som i 4K\nbare fordi du er der.",
+      "I livet mitt er du gullstunden,\nog alt faller på plass.",
+      "Bare å tenke på deg\ngir et smil, og du vet det.",
+      "Femstjerners hotell for hjertet\nmitt, det er du.",
+      "Fordi du er her, blir hver dag\nen liten feiring.",
+      "Hovedarrangementet i livet mitt?\nDet er du.",
+      "Ser jeg at du kommer, danser\nhjertet av seg selv.",
+      "I øynene mine har du\nbildekvalitet i 8K.",
+      "Så snart du kommer,\nlyser alt litt klarere.",
+      "Æresgjest i hjertet mitt er du,\nalltid med plass ved bordet.",
+      "Takket være deg blir dagen bedre,\nfor du er solen.",
+      "Trumfkortet i livet mitt,\ndet er du.",
+      "Tenker jeg på at du finnes, blir\nhumøret automatisk oppgradert.",
+      "Plass nummer én i hjertets\næreshall går til deg, du.",
+      "Siden du kom\ner livet i full farge.",
+      "For øynene mine er du\net evig mesterverk.",
+      "Når jeg ser at du smiler,\ngår verden litt langsommere.",
+      "Nøkkelen jeg trengte, det er du.\nLivet mitt er opplåst.",
+      "Livet mitt har fått ny lyd\nsiden du begynte å smile til meg."
+    ]
+  },
+  "problem": {
+    "title": "Hvem er din strengeste kritiker? Er det deg selv?",
+    "text": "På vei til jobb, før intervjuet, på vei hjem: Stemmen i hodet maser mest. Dagens skryt tar din side fra Hjem-skjermen flere ganger om dagen, og litt mer enn rimelig. I det du drar på smilebåndet, kommer litt av selvtilliten tilbake."
+  },
+  "features": [
+    {
+      "title": "Skryt som passer humøret",
+      "text": "Velg blant 14 humør og situasjoner som `Morgen`, `På vei til jobb`, `Når det er tungt`, `Før intervjuet` eller `Før daten`, så havner riktig skryt rett på widgeten. Klarer du ikke å velge? Det finnes også `Tilfeldig`.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Ta vare på favorittene",
+      "text": "Trykk på stjernen for å lagre skrytet i Favoritter, og bla tilbake i Historikk. Trykk på `Bruk dette skrytet`, så havner det rett på widgeten.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Stikk innom hver dag, og se det vokse",
+      "text": "Hver dag du titter innom, blir rekken din lengre. Ved 7, 30 eller 100 dager på rad, og ved 50 og 100 dager totalt, låser du opp en prestasjon.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "I gang på tre steg",
+    "items": [
+      {
+        "title": "Velg humør",
+        "text": "Åpne `Velg humør`, og trykk på det som passer nå."
+      },
+      {
+        "title": "Tilpass widgeten",
+        "text": "Velg skrift, tekstfarge, bakgrunn og oppdateringsintervall i Avanserte innstillinger."
+      },
+      {
+        "title": "Legg den på Hjem-skjermen",
+        "text": "Hold inne på Hjem-skjermen, trykk på + og finn Dagens skryt."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Slik gjør du widgeten til din",
+    "rows": [
+      [
+        "Skrift",
+        "13 valg, blant annet Futura, Georgia og Marker Felt"
+      ],
+      [
+        "Tekstfarge",
+        "Den fargen du liker"
+      ],
+      [
+        "Bakgrunn",
+        "En fargegradient i to farger eller et av de innebygde bildene"
+      ],
+      [
+        "Justering",
+        "Venstre, midtstilt eller høyre"
+      ],
+      [
+        "Linjeavstand",
+        "Tettere eller luftigere linjer"
+      ],
+      [
+        "Oppdateringsintervall",
+        "Nytt skryt hvert 5., 15. eller 30. minutt"
+      ]
+    ],
+    "note": "Størrelsen på widgeten velger du når du legger den til på Hjem-skjermen."
+  },
+  "pricing": {
+    "title": "Kjøp den én gang, så er det gjort",
+    "free": {
+      "name": "Appen",
+      "items": [
+        "281 skryt for 14 humør",
+        "En Hjem-skjerm-widget i din stil",
+        "Favoritter og Historikk",
+        "Rekker og prestasjoner"
+      ]
+    },
+    "pro": {
+      "name": "Støtt utvikleren",
+      "items": [
+        "Velg en liten, middels eller stor tips",
+        "Den låser ikke opp noe. Det er bare en måte å si takk på"
+      ],
+      "note": "Bare hvis og når du har lyst."
+    },
+    "note": "Ikke noe abonnement, ingen ekstrakjøp, ingen reklame."
+  },
+  "faq": {
+    "title": "Vanlige spørsmål",
+    "items": [
+      {
+        "q": "Hvordan legger jeg til widgeten?",
+        "a": "Hold inne på et tomt sted på Hjem-skjermen til symbolene vrikker, trykk på + øverst, søk etter Dagens skryt og velg en størrelse."
+      },
+      {
+        "q": "Hvordan velges neste skryt?",
+        "a": "Når du velger et humør, havner et skryt for det rett på widgeten. Deretter viser widgeten et tilfeldig skryt blant alle 281 i intervallet du har valgt. I appen kan du også trykke på `Neste skryt` for å bytte selv."
+      },
+      {
+        "q": "Kan jeg endre skrift eller oppdateringsintervall?",
+        "a": "Ja. I Avanserte innstillinger endrer du skrift, tekstfarge, bakgrunn, justering, linjeavstand og oppdateringsintervall: 5, 15 eller 30 minutter."
+      },
+      {
+        "q": "Widgeten endret seg ikke med en gang.",
+        "a": "Det er iOS som bestemmer når widgeter tegnes på nytt, så den kan henge litt etter intervallet du valgte. Åpne appen og lukk den igjen, så oppdateres widgeten."
+      },
+      {
+        "q": "Hvordan fungerer rekken?",
+        "a": "Hver dag på rad du ser et skryt, legger en dag til rekken. Under `Min statistikk` ser du nåværende rekke, rekorden din, totalt antall dager og prestasjonene dine."
+      },
+      {
+        "q": "Favorittene og historikken min er borte.",
+        "a": "Alt lagres bare på enheten din og blir ikke med hvis du sletter appen eller bytter telefon. Har du ikke slettet noe og det likevel er borte, send oss en e-post."
+      },
+      {
+        "q": "Blir dataene mine sendt noe sted?",
+        "a": "Nei. Appen samler ikke inn personopplysninger. Favorittene og historikken din blir på enheten din."
+      },
+      {
+        "q": "Hvordan melder jeg fra om en feil eller foreslår noe?",
+        "a": "Rett via `Kontakt utvikleren` i appen, på e-post eller i en DM på Instagram til @lee25_ios. Vi svarer så snart vi har sett det."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Fra i dag har du noen\npå din side",
+    "cta": "Last ned i App Store"
+  },
+  "ui": {
+    "skip": "Gå til innhold",
+    "languages": "Språk",
+    "privacy": "Personvern",
+    "contact": "Spørsmål eller idéer? Skriv til {email}."
+  }
+}

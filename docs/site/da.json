@@ -1,0 +1,467 @@
+{
+  "title": "Dagens Ros: widgetten, der roser dig helt over gevind",
+  "description": "En widget på hjemmeskærmen med ny, overdreven ros hvert 5., 15. eller 30. minut. 281 sætninger til hvert humør, stribe og mere. Køb én gang.",
+  "hero": {
+    "headline": "Hver gang du tager telefonen,\nventer din største fan",
+    "lead": "Dagens Ros er en widget, der med vilje roser dig alt for meget. Morgenros om morgenen, jobsamtale-ros før jobsamtalen. Skrifttype, farver og baggrund vælger du selv.",
+    "cta": "Hent i App Store",
+    "note": "Ét køb, og du har det hele. Intet abonnement, ingen reklamer."
+  },
+  "demo": {
+    "title": "Få en portion ros nu",
+    "lead": "Vælg et humør, så viser widgetten den ros, der passer. Tryk på Næste ros for en tilfældig blandt alle 281.",
+    "next": "Næste ros",
+    "note": "Det er de rigtige sætninger fra appen. I appen skifter widgetten selv hvert 5., 15. eller 30. minut.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Morgen",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "På vej til arbejde",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Når det er hårdt",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Før jobsamtale",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Før date",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "På vej hjem",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "God morgen, solstråle!\nI dag ser du helt fantastisk ud.",
+      "Solen står op, og det gør du også.\nDet bliver en god dag!",
+      "Bare fordi du stod op, er det en sejr.\nHold da op, hvor er du sej!",
+      "Morgenen er den bedste tid, for der\ner du allerfriskest. Mød dagen!",
+      "Der er ikke noget galt med dagen,\nnår du er hovedperson i den.",
+      "Øjnene er åbne, og du er allerede\nvinderen. Resten er bonus!",
+      "Dit morgensmil er sødere end\nkaffe med to skefulde sukker.",
+      "Vær dig selv i dag,\ndet er der ikke noget bedre end.",
+      "Må man godt se så godt ud om morgenen?\nDet burde næsten være forbudt, du.",
+      "God morgen? Nej, bedste morgen,\nfor det er jo dig, der er her.",
+      "Første blik i dag faldt på dig,\nog så vidste jeg, du var dagens fund.",
+      "Nu er du vågen, og verden\nhar fået sin allerbedste.",
+      "Godt gået i dag! Nu har du\nfortjent en lun sofa og et tæppe.",
+      "Dagen er slut, og du står\nstadig lige så flot. Respekt.",
+      "Hele dagen gjorde du dit bedste,\nog det er jeg stolt af.",
+      "Træt, men dagen overlevede du\nmed stil. Hatten af!",
+      "Din dag har været guld værd,\nfor du var med i den.",
+      "Bare du kom helskindet igennem,\ner det nok. Godt klaret!",
+      "Stjernerne tænder for dig i aften,\nfor du skinner allerede.",
+      "Selv ved lysets slukning ser du\nud, som om du har et filter på.",
+      "Tak for i dag! Verden er\nbedre, fordi du er i den.",
+      "I aften lyser byen op,\nmen ikke så meget som du.",
+      "Både om dagen og om natten\ner du en levende legende.",
+      "Det er okay at have en dårlig dag.\nHusk, at du klarer det fint.",
+      "Selv om det er svært nu,\nkan du godt komme igennem det!",
+      "Perfekt behøver du ikke at være,\nfor dig selv er du bedst.",
+      "Hold en pause, hvis du har brug for det.\nDit tempo er det rigtige tempo.",
+      "Stærkere end du tror,\ndet er du, altså virkelig.",
+      "Det her går også over,\nog du kommer styrket ud af det!",
+      "Selv når humøret er i kælderen,\nbor du stadig i penthouset.",
+      "Sorgen hører med til livet.\nDet er okay at mærke, hvad du mærker.",
+      "Vidste du, at diamanter\nbliver til under pres? Det gør du også.",
+      "Når du er ked af det, er jeg det også,\nfor jeg er helt vild med dig.",
+      "Nedtur? Så er det nu, du skal\nhuske, hvor dyrebar du er.",
+      "Både når du smiler og græder\ner du smuk. Hvad skal jeg stille op?",
+      "Det er hårdt lige nu, men bare\nat du findes, er et lille mirakel.",
+      "Det er svært nu, men jeg er helt\nsikker på, at du nok skal klare det!",
+      "I de svære stunder viser\ndu, hvor stærk du egentlig er.",
+      "Giv ikke op, for du er\nstærkere, end du aner!",
+      "Når man holder ud i svære tider,\nsom du gør, skal man tage hatten af.",
+      "Dagens modgang er morgendagens\nstyrke, og den har du masser af.",
+      "Tænk, hvor meget du kan bære!\nMere end du selv tror, faktisk.",
+      "Selv dette øjeblik bliver snart\nen historie, du kan grine af.",
+      "Selv om du er under pres,\nskinner du som en diamant.",
+      "Hård dag, siger du? Alligevel er\ndu stadig den flotteste herinde.",
+      "Når du holder ud,\ngiver du håb til andre.",
+      "Slidt til benet, og stadig er\ndu sød. Det kan jeg ikke gøre noget ved.",
+      "I dag er det dig, der kan alt!\nStart med selvtillid og smil.",
+      "Tro på dig selv, for der er\ningen, der gør det bedre end du.",
+      "Forberedt som du er, er\ndu halvvejs i mål!",
+      "Dagens to-do-liste bliver kort,\nfor du ordner det hele hurtigt.",
+      "Med dit gåpåmod lyser du\nhele dagen op!",
+      "Hep hep! I dag gør du det\npå din helt egen måde!",
+      "Før arbejdet går i gang ser du ud\nsom en, der er født til det.",
+      "Ingen lyst til at arbejde? Dit ansigt\nknokler på overtid, uanset hvad du gør.",
+      "Kontoret lyser op, så snart du\ntræder ind ad døren. Strøm sparet!",
+      "Når du arbejder, er det kunst,\nog det ved du nok selv.",
+      "Før dagen overhovedet er gået i gang\ner du allerede topscorer.",
+      "Bare du tager træningstøjet på,\ner du allerede en vinder!",
+      "Kroppen siger tak, hver gang du\ntager en tur i træningstøjet.",
+      "Din krop ved bedst, hvad du kan,\nog den siger: det er meget!",
+      "Alene fordi du er mødt op,\nmå du godt klappe dig selv på skulderen.",
+      "Sveden står på dig, og du ser\nstadig ud som en filmstjerne.",
+      "Dit helbred er vigtigst, og\ndu passer så fint på det.",
+      "Tak, fordi du bruger tid på dig selv.\nDen investering betaler sig.",
+      "I det træningstøj kunne du\nsagtens pryde forsiden af et blad.",
+      "Fitnesscentret er blevet et paradis,\nsiden du begyndte at komme der.",
+      "Selv under tunge løft skinner du.\nHvordan kan du altid være så sej?",
+      "Smuk, mens man sveder? Det kan\nkun du, og det er uretfærdigt.",
+      "Hvor ser du professionel ud\npå vej til arbejde!",
+      "Allerede i gang så tidligt,\nog du gør det med stil!",
+      "Igen i dag møder du op,\nså du er vinderen allerede.",
+      "Hvert skridt, du tager, er\nværd at lægge mærke til!",
+      "Pendlerturen bliver speciel,\nnår du er med på ruten.",
+      "Ansvarsfuld som du er, kan\nman kun tage hatten af.",
+      "Siden du steg ind, er\ntoget blevet en catwalk.",
+      "Selv i bussen skinner du,\nså er der fotoshoot i dag?",
+      "Når du går forbi, bliver\nhele morgenen lidt bedre.",
+      "Bare ved at gå gør du\nallerede et stort indtryk.",
+      "Godt gået i dag! Nu kan du\ntage hjem og slappe helt af.",
+      "Bagfra ser du også\nfantastisk ud på vej hjem!",
+      "Hjemvejen er din, og det er\ndig, der er bedst. Sikkert.",
+      "Endnu en dag overstået,\nog du var fantastisk!",
+      "Nu har du fri, og tiden er din.\nPust ud!",
+      "Tag lidt tid til dig selv,\nnu hvor du har fri.",
+      "Fyraften! Nu har du fortjent\nen rigtig god aften.",
+      "På vej hjem er du lige så fin\nsom på vej ind. Hvilken dag!",
+      "Når du går hjem fra arbejde,\nhar dagen givet mening.",
+      "En hård dag, men du var\nstadig bedst. Som altid.",
+      "Efter al den forberedelse\nklarer du det nok flot!",
+      "Din indsats svigter dig ikke,\ndet ved du godt.",
+      "Det er helt okay at være nervøs,\nfor du er klar!",
+      "En eksamen kan ikke måle,\nhvad du er værd.",
+      "Har du gjort dit bedste,\ner du allerede i mål!",
+      "Hvis nogen kan klare det,\nså er det dig, du gamle ræv.",
+      "Træk vejret dybt og\nstol på det, du kan!",
+      "Held og lykke! Husk, at du\nhar lært mere, end du tror.",
+      "Rolig nu, du lander på 12.\nSkalaen går ikke højere!",
+      "Nervøs? Det er du måske, men\njeg ved, du er den bedste.",
+      "Opgavepapiret falder i svime,\nnår du sætter dig ned.",
+      "Nu er det din tur til at vise,\nhvad du kan. Gå ind og skin!",
+      "Den, der skal ansætte dig,\ner heldig, at du kommer.",
+      "Din erfaring og dit gåpåmod er\npræcis det, du skal vise nu.",
+      "Lidt nervøs? Det er fint,\nfor du er alligevel helt rigtig.",
+      "Med selvtillid ind ad døren,\nfor du er klar!",
+      "Fortæl din historie stolt, for\ndu har så meget at byde på.",
+      "En samtale er bare en snak,\nså tag den roligt og vær dig selv.",
+      "Hvis de ikke ansætter dig,\ner det firmaet, der taber.",
+      "Dit CV er flot, men du er\nendnu bedre end det.",
+      "Så snart du træder ind i lokalet,\ner jobbet så godt som dit.",
+      "Med dit første indtryk har du\nallerede halvdelen af jobbet.",
+      "I dag skinner du\nlidt ekstra!",
+      "Præcis som du er,\ner du allermest charmerende!",
+      "Folk omkring dig er heldige,\nog det ved du godt.",
+      "Fuld af selvtillid, som du er,\ntager du bare hele rummet.",
+      "Dit smil i dag er\ndit bedste våben!",
+      "Præcis den, du er,\ner der ikke noget at rette på.",
+      "Din charme kan ikke skjules,\nog du prøver heller ikke.",
+      "Date i dag? Din date får svært\nved at holde sig, når du kommer.",
+      "Hvem end du skal møde,\nhar ramt jackpot.",
+      "Dit date-outfit er perfekt, og du\nkunne sagtens komme på forsiden.",
+      "Når jeg ser dig i dag,\nkunne jeg godt falde pladask.",
+      "Før I overhovedet er mødt, er du\nallerede for fin. Stakkels hjerte.",
+      "Det kan du sagtens,\nog jeg hepper altid på dig!",
+      "Små skridt er også\nbegyndelsen på en stor rejse!",
+      "Giv ikke op, for dine drømme\nkommer til at gå i opfyldelse, du.",
+      "Dagens indsats er morgendagens\nsucces, og du er i gang!",
+      "Med dit gåpåmod kan du\nændre hele verden!",
+      "Fejl er en del af vejen,\nså prøv igen, du klarer det.",
+      "Dine muligheder er\nuendelige!",
+      "Gør dit bedste i dag,\ndet plejer du jo.",
+      "Når du knokler, bliver andre\nmotiveret af at se på dig.",
+      "Det går nok alt sammen,\nnår det er dig, der står for det.",
+      "Giv ikke op, for du er\net fantastisk menneske, du.",
+      "Hep hep i dag!\nDet her klarer du på et øjeblik.",
+      "De, der kender din indsats,\nhepper på dig hver dag.",
+      "Husk, at du er værd\nat elske, præcis som du er!",
+      "Præcis som du er,\ner du fuldendt!",
+      "Bare det, at du findes,\ngør dagen speciel!",
+      "Hold hovedet højt, for\ndu er et fantastisk menneske!",
+      "Stærkere end du tror,\ner du, og det ved jeg!",
+      "Din egenart er det, der\nfår dig til at stråle.",
+      "Tro på dig selv,\ndu kan nemlig alt!",
+      "Fuldkommen, det er hvad du er,\nog slet ikke andet.",
+      "Så selvsikker, som du er,\ner du verdens bedste.",
+      "Mere imponerende end du tænker\ner du faktisk, og det er sandt.",
+      "Hvis du bare vidste, hvor godt\ndu allerede klarer dig!",
+      "Folk, der ikke ser din charme,\nmå have glemt deres briller.",
+      "I dag er det helt fint\nbare at slappe af.",
+      "Selv du har brug for\nhvile i ny og næ.",
+      "Gør ingenting i dag,\ndet er også en god dag.",
+      "Dit hjerte er det\nvigtigste, du har.",
+      "Tag det stille og roligt,\ni dit eget tempo.",
+      "I dag bruger vi tid på dig,\nog du må gerne nyde det.",
+      "Hvile er også nyttigt,\nog du er jo mester i det.",
+      "At holde fri er din ret.\nI dag må du godt slappe af.",
+      "Hyg dig, for du er smuk,\nselv når du hygger!",
+      "Det er helt okay, at du\nbruger tid på dig selv i dag.",
+      "Mens du slapper af,\nskinner du stadig.",
+      "Selv i hvilemode er du\nden smukkeste i verden.",
+      "Perfekt som du er, mangler der\nkun én ting: mig ved siden af.",
+      "Personlighedstesten siger, du er\nhelt sød. Den har aldrig taget fejl.",
+      "Alle, der synes, du er sød,\nbedes række hånden op. Det er en skov.",
+      "Hvis du var en tone, var du den\nhøje, som alle gerne vil ramme.",
+      "Selv modvinden bliver til medvind,\nnår du cykler forbi.",
+      "Når du går forbi, vender jeg mig,\nog nu har min nakke aldrig været bedre.",
+      "Der er én ting, jeg aldrig bliver træt af,\nog det er dig. Fuld tank.",
+      "Er det tordenvejr? Nej, det er\nbare mit hjerte, der brager for dig.",
+      "Hvad er din hemmelighed? Hvad tror du på,\nsiden du ser så godt ud?",
+      "Er der noget, der mangler? Nej, du\nlever op til alle forventninger.",
+      "Som rugbrød er du sund og solid,\nog alle danskere elsker dig.",
+      "Jeg leder efter en fejl ved dig,\nmen du er bygget uden revner.",
+      "Er det photoshop? Nej, det er bare\ndig, og du er næsten for god til at være sand.",
+      "Skalaen går kun til 12, så når du\nfår 13, ødelægger du hele systemet.",
+      "Er du halvt dansk, halvt engel?\nFor du er altså himmelsk.",
+      "Gør du bare grin? Dine kindben er\nskarpere end min fremtidsplan.",
+      "Alle veje fører til dig, så du\nmå være Rom, altså!",
+      "Der skal fredningsskilt op, for du\ner et levende kulturminde.",
+      "Er du en pantflaske? For jeg vil\ngerne have dig tilbage hver gang.",
+      "Hvorfor arbejder du?\nDit udseende har travlt nok.",
+      "Hold op med at kunne lide mig, sagde jeg.\n\"Hvordan gør man det?\" sagde du.",
+      "Dit ansigt er så sjældent, at du\nsnart udstilles på Nationalmuseet.",
+      "Bliv hjemme fra prisuddelingen,\nfor du tager alle priserne.",
+      "Er du til fotoshoot, eller går du\nbare rundt som en forside?",
+      "Hvis du er en popstjerne, så er du\nnummer ét på min hitliste.",
+      "Må jeg få en autograf, du?\nJeg tager gerne én hver dag.",
+      "Slå dig løs på scenen, for du er\nallerede i centrum af mit liv.",
+      "Hitlisten er klar: du ligger nummer\nét, som du gør hver eneste dag.",
+      "Står du stille et øjeblik? Jeg vil\ngerne tage et billede hver dag.",
+      "Er du tilbage? Så fik du mit\nhjerte til at genopstå.",
+      "Må jeg filme dig, mens du går?\nHvert sekund er en scene fra en film.",
+      "Skal du være med i en musikvideo? Det er\njo dig, der har hovedrollen i mit liv.",
+      "Skal du i realityshow? Virkeligheden\ner jo bedst, når det er dig.",
+      "Er du gruppens ansigt udadtil? Man ser\ndig først, uanset hvor du står.",
+      "Prisen som årets ansigt skal gå til dig,\nfor du er helt historisk.",
+      "Er du reklamemodel? Jeg får lyst\ntil at købe alt, når du er med.",
+      "Er du forsidemodel? Dit ansigt burde\npryde alle blade hver måned, du.",
+      "Er scenekarismaen ægte? Selv i hverdagen\nlyser du som på en scene.",
+      "Vil du bytte samlekort? Jeg vil kun\nhave dem med dit ansigt.",
+      "Hvornår holder du fanmøde?\nJeg vil gerne se dig hver dag.",
+      "Læg en dansevideo op, for hver\nbevægelse du laver er kunst.",
+      "At se dig er som en teaser:\njeg glæder mig til resten, hver gang.",
+      "Skal du på verdensturné? Det er du jo\nallerede i mit hjerte.",
+      "Skriv i min bog, for du er\nen limited edition.",
+      "Jeg tænder lysstaven og hepper på dig\nhele livet, så længe du skinner.",
+      "Gik du viralt? Legende var du fra\nførste dag, så jeg undrer mig ikke.",
+      "Jeg skal have koncertbilletter, for hver\ndag, jeg ser dig, er det en koncert.",
+      "Gik du til tops på hitlisten? For mig er du\ni hvert fald yndlingssangen.",
+      "Et ekstranummer, tak! Man bliver\naldrig træt af at se dig.",
+      "Selv bag kulisserne er du perfekt,\nhvert eneste øjeblik.",
+      "Jeg bytter favorit, for jeg kan ikke\nse andre end dig.",
+      "Nu er jeg fan, og det bliver jeg,\nså længe du er til.",
+      "Mit livs favorit, vil du vide hvem?\nDet er dig, selvfølgelig.",
+      "Jeg har købt alt merch, men du\ner den eneste ægte vare.",
+      "Jeg bliver fan resten af livet,\nfor du er min evige stjerne.",
+      "Jeg har slået lejr ved siden af dig,\nfor du er min faste base.",
+      "Nu går jeg all in som fan, og\ndu får hele min opmærksomhed.",
+      "Jeg bliver din fotograf, for jeg vil\nhave hvert eneste øjeblik med dig.",
+      "Alle timer er guldtimer,\nnår du er med.",
+      "Gid hver dag var din fødselsdag,\nså kunne jeg synge for dig hver gang.",
+      "Jeg hepper på dig for evigt,\nog det er jeg stolt af at være.",
+      "Mit hjerte hamrer løs,\nbare fordi du går forbi.",
+      "Så snart jeg ser dig, bliver\nverden bare smukkere.",
+      "For mig er du dagens vitaminpille,\nog den er sund og sød.",
+      "Når du smiler, gør jeg også,\nhelt automatisk og uden grund.",
+      "Den smukkeste stjerne, jeg kender,\ner dig, og den er lige her.",
+      "Hver dag med dig er\nen fest i mit hjerte.",
+      "Hører jeg din stemme, bliver jeg\nglad, uanset hvad du siger.",
+      "Min største lykke er,\nat jeg har lært dig at kende.",
+      "Takket være dig kan jeg\nsmile hver eneste dag.",
+      "På hele jorden er der ingen,\nder er så dyrebar som du.",
+      "Tænker jeg på dig, kommer\nsmilet helt af sig selv.",
+      "Hos dig finder jeg ro,\nog det er du helt alene om.",
+      "Alle stunder med dig\nbliver til noget særligt.",
+      "Af alle, jeg kender, er du\nden allerfedeste. Ingen tvivl.",
+      "Bare fordi du findes,\ner jeg taknemmelig hver dag.",
+      "Dagens højdepunkt er, når du\nkommer forbi, og det er hver dag.",
+      "Hver dag bliver bedre, når du\ner i nærheden.",
+      "Når jeg ser dig, bliver\nverden lysere, helt ærligt.",
+      "Livets bedste gave er, at du\nfindes, og at jeg kender dig.",
+      "Verden er smukkere, fordi du\ner en del af den.",
+      "En dag uden dig? Det kan\njeg slet ikke forestille mig.",
+      "I mit hjerte står du\npå førstepladsen for evigt.",
+      "Med dig ved min side tror jeg,\nat jeg kan alt.",
+      "Hver dag er jeg taknemmelig,\nfordi du er i mit liv.",
+      "Dit smil slår enhver solnedgang,\nog det ved du godt.",
+      "Min største velsignelse er,\nat du er med på rejsen.",
+      "Tænker jeg på dig,\nbliver hele dagen god.",
+      "Hos dig føler jeg mig hjemme,\nog det er du alene om.",
+      "Når du er der, er alt\nperfekt. Punktum.",
+      "Min drømmepartner, det er dig,\nog nu står du her. Jackpot!",
+      "Hver gang du går forbi, gør\nmit hjerte noget underligt.",
+      "En gående biografi, det er hvad\ndu er. Dit navn bliver husket.",
+      "Vil du have, at jeg falder for dig?\nJeg er allerede på vej ned.",
+      "Jeg stirrer så meget på dig,\nat jeg får nakkesmerter.",
+      "Hver gang du kommer forbi,\nstiger min puls med ti.",
+      "For mine øjne er du\net gammelt mesterværk, aldrig forgået.",
+      "På grund af dig er hver dag\nmin yndlingsdag.",
+      "Et levende mirakel, det er\nhvad du er. Ikke mindre.",
+      "Når du kommer ind,\ngår verden i slowmotion.",
+      "I mit liv får du altid\nVIP-adgang, uden kø.",
+      "At se dig er mit dagligdags\nhøjdepunkt, uden at du ved det.",
+      "Dig kigger jeg på som på\npremium-indhold, uden at slukke.",
+      "Takket være dig ser verden\nud i HD i dag.",
+      "Min guldtime er altid, når\ndu er i nærheden.",
+      "Bare tanken om dig sætter gang i\nsmilet, og du ved det ikke engang.",
+      "Mit hjerte er et luksushotel,\nog du har altid værelse der.",
+      "Hver dag med dig er en fest,\nog du er æresgæst.",
+      "Mit livs hovedbegivenhed? Det er dig,\nog du leverer hver gang.",
+      "Når du går forbi, danser\nmit hjerte med sig selv.",
+      "I mine øjne er du ikke HD,\nmen 4K. Ingen pixel er forkert.",
+      "Går jeg rundt med dig i tankerne,\nser verden altid lysere ud.",
+      "Hjertets VVIP-lounge er reserveret\ntil dig og kun dig.",
+      "Når du er med, bliver\ndagen lidt mere speciel.",
+      "Mit hemmelige trumfkort er dig,\nog du vinder hver gang.",
+      "Tænker jeg på dig, opgraderes\nmit humør automatisk.",
+      "Hos mig sidder du på æresplads\ni hjertets hall of fame.",
+      "Med dig i livet er alt\ni fuld farve.",
+      "I mine øjne er du alle tiders\nlegende, og det bliver du ved med.",
+      "Mit livs filmklip har dig i hovedrollen,\nog du vandt alle priserne.",
+      "Mit gratis adgangskort til lykken,\ndet er dig, og du er guld værd."
+    ]
+  },
+  "problem": {
+    "title": "Hvem er din hårdeste kritiker? Er det dig selv?",
+    "text": "På vej til arbejde, før jobsamtalen, på vej hjem: Stemmen i hovedet brokker sig mest. Dagens Ros tager dit parti fra hjemmeskærmen flere gange om dagen, og lidt mere end rimeligt. I det øjeblik du trækker på smilebåndet, kommer lidt af selvtilliden tilbage."
+  },
+  "features": [
+    {
+      "title": "Ros, der passer til humøret",
+      "text": "Vælg mellem 14 humør og situationer som `Morgen`, `På vej til arbejde`, `Når det er hårdt`, `Før jobsamtale` eller `Før date`, så lander den rette ros straks på din widget. Kan du ikke vælge? Der er også `Tilfældig`.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Gem dem, du holder af",
+      "text": "Tryk på stjernen for at gemme rosen i Favoritter, og bladr tilbage i Historik. Tryk på `Brug denne ros`, så ryger den direkte på widgetten.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Kig forbi hver dag, og se det vokse",
+      "text": "Hver dag du kigger ind, forlænger din stribe. Ved 7, 30 eller 100 dage i træk og ved 50 og 100 dage i alt låser du en præstation op.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "Kom i gang på tre trin",
+    "items": [
+      {
+        "title": "Vælg humør",
+        "text": "Åbn `Vælg humør`, og tryk på det, der passer lige nu."
+      },
+      {
+        "title": "Tilpas widgetten",
+        "text": "Vælg skrifttype, tekstfarve, baggrund og opdateringsinterval i Avancerede indstillinger."
+      },
+      {
+        "title": "Læg den på hjemmeskærmen",
+        "text": "Hold fingeren på hjemmeskærmen, tryk på +, og find Dagens Ros."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Sådan gør du widgetten til din",
+    "rows": [
+      [
+        "Skrifttype",
+        "13 muligheder, bl.a. Futura, Georgia og Marker Felt"
+      ],
+      [
+        "Tekstfarve",
+        "Lige den farve, du kan lide"
+      ],
+      [
+        "Baggrund",
+        "Et farveforløb i to farver eller et af de indbyggede billeder"
+      ],
+      [
+        "Justering",
+        "Venstre, midt eller højre"
+      ],
+      [
+        "Linjeafstand",
+        "Tættere eller luftigere linjer"
+      ],
+      [
+        "Opdateringsinterval",
+        "Ny ros hvert 5., 15. eller 30. minut"
+      ]
+    ],
+    "note": "Widgettens størrelse vælger du, når du føjer den til hjemmeskærmen."
+  },
+  "pricing": {
+    "title": "Køb den én gang, så er det klaret",
+    "free": {
+      "name": "Appen",
+      "items": [
+        "281 roser til 14 humør",
+        "En hjemmeskærmswidget i din stil",
+        "Favoritter og Historik",
+        "Striber og præstationer"
+      ]
+    },
+    "pro": {
+      "name": "Støt udvikleren",
+      "items": [
+        "Vælg en lille, mellem eller stor drikkepenge",
+        "Det låser ikke noget op. Det er bare en måde at sige tak på"
+      ],
+      "note": "Kun hvis og når du har lyst."
+    },
+    "note": "Intet abonnement, ingen ekstra køb, ingen reklamer."
+  },
+  "faq": {
+    "title": "Ofte stillede spørgsmål",
+    "items": [
+      {
+        "q": "Hvordan tilføjer jeg widgetten?",
+        "a": "Hold fingeren på et tomt sted på hjemmeskærmen, til symbolerne vrikker, tryk på + øverst, søg efter Dagens Ros, og vælg en størrelse."
+      },
+      {
+        "q": "Hvordan vælges den næste ros?",
+        "a": "Når du vælger et humør, kommer en ros til det straks på widgetten. Derefter viser widgetten en tilfældig blandt alle 281 i det interval, du har valgt. I appen kan du også trykke på `Næste ros` for selv at skifte."
+      },
+      {
+        "q": "Kan jeg ændre skrifttype eller opdateringsinterval?",
+        "a": "Ja. I Avancerede indstillinger ændrer du skrifttype, tekstfarve, baggrund, justering, linjeafstand og opdateringsinterval: 5, 15 eller 30 minutter."
+      },
+      {
+        "q": "Widgetten skiftede ikke med det samme.",
+        "a": "Det er iOS, der bestemmer, hvornår widgets tegnes igen, så den kan halte lidt efter det valgte interval. Åbn appen og luk den igen, så opdateres widgetten."
+      },
+      {
+        "q": "Hvordan virker striben?",
+        "a": "Hver dag i træk, hvor du ser en ros, lægger en dag til striben. Under `Mit overblik` ser du din aktuelle stribe, din rekord, antal dage i alt og dine præstationer."
+      },
+      {
+        "q": "Mine favoritter og min historik er væk.",
+        "a": "Alt gemmes kun på din enhed og følger derfor ikke med, hvis du sletter appen eller skifter telefon. Har du ikke slettet noget, og er det alligevel væk, så send os en mail."
+      },
+      {
+        "q": "Bliver mine data sendt nogen steder hen?",
+        "a": "Nej. Appen indsamler ingen personoplysninger. Dine favoritter og din historik bliver på din enhed."
+      },
+      {
+        "q": "Hvordan melder jeg en fejl eller foreslår noget?",
+        "a": "Direkte via `Kontakt udvikleren` i appen, på mail eller i en DM på Instagram til @lee25_ios. Vi svarer, så snart vi har set det."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Fra i dag er der nogen\npå din side",
+    "cta": "Hent i App Store"
+  },
+  "ui": {
+    "skip": "Gå til indhold",
+    "languages": "Sprog",
+    "privacy": "Privatlivspolitik",
+    "contact": "Spørgsmål eller idéer? Skriv til {email}."
+  }
+}

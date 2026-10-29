@@ -1,0 +1,467 @@
+{
+  "title": "Päivän hehkutus: widget, joka kehuu sinua ylitsevuotavasti",
+  "description": "Koti-valikon widget, joka näyttää uuden, ylitsevuotavan kehun 5, 15 tai 30 minuutin välein. 281 kehua joka fiilikseen, putkia ja muuta. Kertaosto.",
+  "hero": {
+    "headline": "Aina kun otat puhelimen käteen,\nsuurin fanisi odottaa",
+    "lead": "Päivän hehkutus on widget, joka kehuu sinua tahallaan aivan liikaa. Aamulla aamukehu, ennen haastattelua haastattelukehu. Fontin, värit ja taustan valitset itse.",
+    "cta": "Lataa App Storesta",
+    "note": "Yksi ostos ja kaikki on käytössä. Ei tilausta, ei mainoksia."
+  },
+  "demo": {
+    "title": "Ota kehu vastaan heti",
+    "lead": "Valitse fiilis, niin widget näyttää siihen sopivan kehun. Napauta Seuraava kehu, niin saat satunnaisen kaikista 281:stä.",
+    "next": "Seuraava kehu",
+    "note": "Nämä ovat sovelluksen oikeat kehut. Sovelluksessa widget vaihtaa itse seuraavaan 5, 15 tai 30 minuutin välein.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Aamu",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "Töihin matkalla",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Rankka hetki",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Ennen haastattelua",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Ennen treffejä",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "Töistä kotiin",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "Uusi päivä, uusi tilaisuus loistaa.\nJa sinä olet jo valmiiksi kiillotettu.",
+      "Aurinko nousi vain siksi, että\nsinä näkisit sen näin kauniina.",
+      "Nousit sängystä, joten sinä olet jo\nvoittanut päivän ensimmäisen kierroksen!",
+      "Kahvikin kalpenee, kun sinä\nhymyilet ensimmäisen kerran aamulla.",
+      "Tänään pääosassa esiintyy sinä.\nSivuosia ei ole tarjolla.",
+      "Silmät auki ja heti voitolla:\nsinä, päivän aamutähti!",
+      "Aamun paras tuoksu ei ole kahvi,\nvaan sinä ja hyvä tuulesi.",
+      "Ole tänäänkin sinä itse.\nSe on paras mahdollinen valinta!",
+      "Näin aikaisin ja sinä jo näytät tuolta?\nTämä on kyllä laitonta.",
+      "Hyvää huomenta? Ei, vaan parasta,\nkoska sinä olet paikalla!",
+      "Aamupeili tuijottaa ja miettii,\nmiten sinä jaksat näyttää noin hyvältä.",
+      "Ensimmäinen kahvi odottaa vielä,\nmutta sinä olet jo täysin virkistävä.",
+      "Päivä on pulkassa, ja sinä\nhoidit sen aivan mestarillisesti!",
+      "Illan hämärässäkin sinä näytät\nsiltä, että kaikki sujuu.",
+      "Teit tänään parhaasi, ja sinä\nsaat olla siitä ylpeä!",
+      "Väsyttää, mutta selvisit silti,\nkoska sinä olet tehty kestämään.",
+      "Jokainen päivä on arvokas,\nkun sinä olet siinä mukana.",
+      "Päivä meni kunnialla loppuun,\nja sinä saat kaikki kehut.",
+      "Tähdet syttyvät taivaalle, koska\nsinä tarvitset taustavalaistuksen.",
+      "Ilta on jo täällä, mutta sinä\nkiiltelet yhä kuin aamulla.",
+      "Kiitos päivästä, sinä sinnikäs!\nNyt on sohvan vuoro.",
+      "Maailma oli tänään vähän parempi,\nkoska sinä kuljit siinä.",
+      "Yöllä legenda, päivällä legenda.\nVuorokausitaukoa ei sinulle ole.",
+      "Rankkoja päiviä tulee, mutta sinä\nselviät niistä, vaikka et usko.",
+      "Nyt on raskasta, mutta sinä olet\nvahvempi kuin tämä päivä.",
+      "Ei tarvitse olla täydellinen.\nRiittää, että sinä olet tässä.",
+      "Lepää rauhassa, kun väsyttää,\nsillä sinä et ole kilpajuoksussa.",
+      "Kukaan ei ihmettele, että sinä\nolet vahvempi kuin luulet.",
+      "Tämäkin menee ohi, ja sinä\nsaat vielä nauraa tälle.",
+      "Fiilis voi olla pohjalla, mutta sinä\net ole alennusmyynnissä.",
+      "Suru kuuluu osaksi elämää, ja sinä\nsaat tuntea kaiken rauhassa.",
+      "Timanttikin tarvitsee painetta.\nSiksi sinä säteilet nyt tuplasti.",
+      "Jos masentaa, muista tämä:\nsinä olet edelleen erinomaista seuraa.",
+      "Maassa mutta silti maailman kallein:\nsinä olet arvokas aina.",
+      "Itketkin kauniisti, sinä\nelokuvan pääosan esittäjä.",
+      "Vaikka kaikki on nyt vaikeaa,\nsinä olet jo itsessäsi ihme.",
+      "Nyt on kurjaa, mutta sinä\nlöydät kyllä tien läpi.",
+      "Vaikeina hetkinä sinä näytät\nsen oikean tähtiaineksesi.",
+      "Älä luovuta, sillä sinä olet\npaljon sitkeämpi kuin sisu.",
+      "Kestät läpi vaikean ajan, ja\nsinä teet sen vielä tyylillä.",
+      "Tämän päivän tuska on huomisen\nvoima, ja sinä keräät sitä jo.",
+      "Jaksat enemmän kuin luulet:\nsinä olet kuin akku, joka ei lopu.",
+      "Tämäkin hankala hetki on pian\nvain tarina, jonka sinä kerrot.",
+      "Hiotaan, hiotaan: timantti kiiltää\nvasta kun sinä kestät hionnan.",
+      "Kurjaako? Silti sinä olet\nkaikkien tuntemieni ihmisten ykkönen.",
+      "Kun sinä sinnittelet, joku muu\nsaa toivoa katsoa sinua.",
+      "Rättiväsynyt ja silti kaunis:\nsinä olet luonnonoikku.",
+      "Tänäänkin sinä pystyt kaikkeen.\nAloita rohkeasti!",
+      "Uskon kykyihisi, ja sinä saat\ntänään aikaan jotain upeaa.",
+      "Valmistautunut ihminen on puoliksi voittanut,\nja sinä olet jo valmis.",
+      "Päivän työt tuntuvat helpoilta, kun\nniitä hoitaa sinä, tuo ammattilainen.",
+      "Intosi sytyttää koko päivän,\nja sinä olet sen sytytyslanka.",
+      "Hyvä, sinä! Nyt tuot sen\nomalla tyylilläsi tähän päivään!",
+      "Ennen töiden alkua sinä jo\nnäytät täydeltä ammattilaiselta.",
+      "Ei huvita töihin? Naamasi silti\nteki jo ylitöitä, ja sinä olet ammattilainen.",
+      "Työmatkavisuaalisi on päätä huimaava.\nToimisto kiiltää, kun sinä astut sisään.",
+      "Kun sinä teet töitä, se näyttää\nsuoraan taidenäyttelyltä.",
+      "Ennen kuin edes aloitat,\nsinä olet jo täydellinen.",
+      "Jo se, että sinä lähdit treenaamaan,\non iso voitto!",
+      "Pidät huolta terveydestäsi, ja sinä\nolet siinä aivan mahtava!",
+      "Kehosi tietää parhaiten,\nmitä sinä pystyt tekemään.",
+      "Treenin aloittaminenkin on\nsuuri saavutus, sinä sankari.",
+      "Hiki valuu, ja sinä näytät\nsilti aivan upealta!",
+      "Terveytesi on tärkeintä,\njoten sinä saat ottaa rauhallisesti.",
+      "Annat itsellesi aikaa tänäänkin,\nja sinä ansaitset sen!",
+      "Treeniasussa sinä näytät\nsiltä kuin menisit kansikuvaan.",
+      "Kuntosalista tuli taivas,\nkun sinä astuit sisään.",
+      "Treenaat ja säteilet yhtä aikaa:\nmiten sinä jaksat olla noin hyvä?",
+      "Onko olemassa ihminen, joka näyttää\nhyvältä hikisenä? On: sinä.",
+      "Työmatkalla sinä näytät\nihan oikealta ammattilaiselta!",
+      "Liikkeellä jo aamusta, ja sinä\nteet sen aivan mahtavasti!",
+      "Lähdit töihin tänäänkin, joten\nsinä olet jo voittaja!",
+      "Jokainen askeleesi on arvokas,\nja sinä otat niitä upeasti.",
+      "Työmatka on erityinen, kun\nsinä olet siinä mukana.",
+      "Vastuullisesti töihin taas, ja\nsinä näytät siinä todella hyvältä.",
+      "Raitiovaunusta tuli catwalk,\nkun sinä nousit kyytiin.",
+      "Bussin ikkunassa kiiltää taas yksi\ntähti, ja se olet sinä.",
+      "Aamu muuttuu iloiseksi, kun\nsinä kävelet vastaan töihin.",
+      "Pelkkä käveleminenkin on taidetta,\nkun sinä sen teet.",
+      "Hyvin tehty tänään! Nyt kotiin,\nsohvalle ja lepäämään.",
+      "Kotimatkalla sinä näytät\nvieläkin hienommalta kuin aamulla.",
+      "Päivä on tehty, ja sinä\nolet sen paras osa.",
+      "Selvisit päivästä kunnialla,\nja sinä saat olla ylpeä!",
+      "Nyt alkaa vapaa-aika, ja\nsinä saat levätä täysillä!",
+      "Töiden jälkeen aika on omaasi, ja\nsinä päätät, mitä sillä tehdään.",
+      "Työpäivä ohi! Kyllä sinä olet\nansainnut jokaisen sohvahetken.",
+      "Kotimatkakin on kaunis, kun\nsinä kävelet sen läpi.",
+      "Kotimatkalla näkee heti: sinä\nolet tehnyt tänään oikeasti jotain.",
+      "Rankka päivä takana, ja silti\nsinä olet yhä vahvasti mukana.",
+      "Olet valmistautunut hyvin, ja sinä\nosaat tämän kyllä!",
+      "Vaiva palkitaan, ja sinä olet\nnähnyt sitä vaivaa ihan tarpeeksi.",
+      "Jännitys on ihan ok, sillä\nsinä olet jo valmis!",
+      "Koe ei mittaa sitä, kuka sinä olet.\nSe on vain paperi.",
+      "Annoit kaikkesi, ja sinä\nolet jo voittanut.",
+      "Kun sinä päätät onnistua,\nei koe voi mitään.",
+      "Hengitä syvään ja luota siihen,\nmitä sinä osaat.",
+      "Onnea kokeeseen, sillä sinä olet\nvalmiimpi kuin luulet!",
+      "Älä huoli, sinä osaat\nvastata kaikkeen oikein!",
+      "Jännittääkö? Silti sinä olet\nparas tyyppi koko luokassa.",
+      "Koepaperikin hämmästyy,\nkun sinä katsot sitä.",
+      "Nyt on aika näyttää,\nmitä sinä oikeasti osaat!",
+      "Haastattelijalla on tuuria, kun\nsinä tulet paikalle.",
+      "Kokemuksesi ja intosi loistavat,\nja sinä saat ne näkyviin tänään.",
+      "Jännitys on ihan ok,\nkoska sinä olet jo upea.",
+      "Rohkeasti sisään, sillä sinä\nolet jo valmis!",
+      "Kerro tarinasi ylpeänä, koska\nsinä olet paras kertoja.",
+      "Haastattelu on keskustelu, ja\nsinä olet siinä luonteva.",
+      "Jos he eivät valitse sinua,\nse on firman tappio, sinä olet kultaa.",
+      "CV on hieno, mutta sinä olet\nvielä parempi kuin se.",
+      "Jo ovesta astuessa sinä olet\nvalittu, siitä ei kiistelty.",
+      "Ensivaikutelmasi riittää voittoon,\nsillä sinä olet kuin valopilkku.",
+      "Tänään sinä säteilet\nvielä tavallistakin kirkkaammin!",
+      "Juuri sellaisena, kuin sinä olet,\non kaikkein viehättävin!",
+      "Onnekas on se, jonka kanssa\nsinä vietät aikaa!",
+      "Itsevarmuutta pursuaa, ja sinä\nolet siinä aivan upea!",
+      "Hymysi on tänään paras aseesi,\nja sinä osaat käyttää sitä.",
+      "Älä muuta mitään: sinä olet\njo nyt itsevarmuuden lähde.",
+      "Charmiasi ei voi piilottaa,\nvaikka sinä yrittäisit.",
+      "Treffeille? Kumppanisi sydän\nvoi pysähtyä, kun sinä saavut.",
+      "Tapaaja on voittanut lotossa,\nkoska sinä olet pääpalkinto.",
+      "Treffiasusi on täydellinen, ja\nsinä näytät lehden kansikuvalta.",
+      "Jos sinä astut ovesta sisään,\nkoko ravintola rakastuu.",
+      "Treffit eivät ole edes alkaneet, ja sinä\nolet jo sydänten murskaaja.",
+      "Totta kai sinä pystyt tähän,\nja minä pidän peukkuja.",
+      "Pienikin askel on osa suurta\nmatkaa, ja sinä olet jo matkalla.",
+      "Älä luovuta, sillä sinä olet\nsaavuttamassa unelmasi!",
+      "Tämän päivän vaiva on huomisen\nvoitto, ja sinä teet sen hyvin.",
+      "Intosi voi muuttaa maailmaa,\nja sinä olet jo liikkeellä.",
+      "Epäonnistuminen on vain harjoitusta.\nHuomenna sinä onnistut.",
+      "Mahdollisuutesi ovat rajattomat,\nja sinä olet vasta alussa.",
+      "Tee tänään parhaasi, koska\nsinä olet siinä loistava.",
+      "Kun sinä yrität kovasti, joku\nmuu saa siitä intoa.",
+      "Kaikki järjestyy, jos sinä\nvain jatkat. Ihan oikeasti!",
+      "Älä anna periksi, sillä sinä\nolet loistava ihminen.",
+      "Hyvä sinä! Tänäänkin saat\nkaiken aikaan.",
+      "Joka näkee vaivannäkösi, pitää\npeukkuja, ja sinä ansaitset sen.",
+      "Arvokas olet jo sellaisenaan, sinä\nihana ihminen!",
+      "Juuri sellaisena sinä olet täydellinen,\nei yhtään vähempää.",
+      "Pelkkä olemassaolosi on jo\njotain erityistä, sinä ihme.",
+      "Rohkeasti eteenpäin, sillä sinä\nolet aika upea tyyppi!",
+      "Vahvempi olet kuin luulet,\nja sinä tiedät sen jo.",
+      "Luonteesi saa sinut loistamaan,\nja sinä olet ainutlaatuinen.",
+      "Usko itseesi, sillä sinä\nosaat kyllä!",
+      "Täydellinen sellaisenaan:\nsinä, ei mitään lisättävää.",
+      "Itsevarmana sinä olet\nmaailman upein näky!",
+      "Huikeampi olet kuin ajattelet,\nja sinä saat sen vielä huomata.",
+      "Jo nyt teet hyvää työtä,\nja sinä olet sen arvoinen.",
+      "Joka ei huomaa viehätystäsi,\nei ole katsonut, sillä sinä loistat.",
+      "Tänään vain lepäillään,\nrauhassa ja hyvässä seurassa.",
+      "Lepo kuuluu myös sinulle,\nja sinä saat sen nyt.",
+      "Päivä, jona ei tarvitse tehdä mitään,\non ihan täysi päivä.",
+      "Mielesi on kaikkein tärkein,\nja sinä saat kuunnella sitä.",
+      "Edetään hitaasti, ja sinä\nsaat valita tahdin.",
+      "Tänään vietetään aikaa kanssasi,\nja sinä olet erinomaista seuraa.",
+      "Lepo on tuottavaa, joten sinä\nolet tehnyt töitä koko ajan!",
+      "Lepääminen on oikeutesi, ja sinä\nsaat ottaa sen vapaasti.",
+      "Rentoutuessasi sinä olet\nvieläkin kauniimpi.",
+      "Ota aikaa itsellesi, sillä\nsinä olet sen ansainnut.",
+      "Lepäilet ja loistat samalla,\nkuinka sinä sen teet?",
+      "Jopa pyjamassa sohvalla sinä\nolet maailman kaunein ihminen.",
+      "Täydellinen, mutta yksi vika:\nsinä olet liian hyvä ollaksesi totta.",
+      "Persoonallisuustesti paljasti:\nsinä olet sataprosenttisesti ihana.",
+      "Kysyin: nostakaa käsi, jos sinä olet söpö.\nNyt koko planeetta vilkuttaa.",
+      "Kauneusihmeet vertaavat itseään:\nsinä olet se mittapuu.",
+      "Poliisi pysäytti ja sanoi:\nsinä ajat sydämeeni ylinopeutta.",
+      "Sakkolappu tuli: sinä olet liian\nhyvännäköinen julkiseen tilaan.",
+      "Kysyin, mikä kaupan paras tuote on,\nja myyjä osoitti: sinä.",
+      "Kehu kehuu kehua, mutta sinä\nolet koko kehuoppikirja.",
+      "Uskotko taikuuteen? Siitä viis,\nkoska sinä olet elävä todiste.",
+      "Kaikki on kunnossa, mutta mitä puuttuu?\nEi mitään, sinä olet täysi.",
+      "Laske laukku alas, sinä olet\nkantanut jo tarpeeksi hurmaa.",
+      "Hiljaa hyvä tulee, mutta sinä\ntulet kuin ukkonen: kaikki huomaavat.",
+      "Lakritsi on hyvää ja salmiakki parempaa,\nmutta sinä olet suklaata.",
+      "Sauna lauantaina on ihanaa,\nmutta sinä olet vielä löylyisempi.",
+      "Revontulet pyytävät tuuraajaa, kun\nsinä olet paikalla.",
+      "Sisua ei tarvita, kun sinä olet\nvalmiiksi liian upea.",
+      "Mökillä on rauhallista, mutta\nsinä tuot sinne kesäyön auringon.",
+      "Pulla pehmeää, kahvi kuumaa,\nmutta sinä olet makeampi.",
+      "Paljon on kaunista Suomessa,\nmutta sinä olet ihan oma järvensä.",
+      "Karjalanpiirakka on kansallisaarre,\nmutta sinä olet vielä suurempi.",
+      "Miksi sinä työskentelet?\nNaamasi tekee jo kaiken työn.",
+      "Gaalassa ei voi jakaa palkintoja,\nkoska sinä veisit ne kaikki.",
+      "Kuvaaja on pyytänyt tulla uudestaan,\nkoska sinä olet liian hyvä kuva.",
+      "Ei, et ole mikään idoli, vaan sinä\nolet sydämeni listaykkönen.",
+      "Pyydän nimikirjoitusta:\nsinä saat signeerata koko päiväni.",
+      "Debytoi pian, sillä sinä olet\njo sydämessäni keskipisteenä.",
+      "Listaykkönen taas! Kun sinä\nastut lavalle, hitti on valmis.",
+      "Pysähdy hetkeksi, kun sinä\nhymyilet, haluan ottaa kuvan.",
+      "Paluu lavalle? Kyllä, sinä olet\nkäynnistänyt sydämeni uudelleen.",
+      "Videoleikkeet sinusta pyörivät päässäni,\nkoska sinä olet joka kohtauksessa.",
+      "Musiikkivideossa ei ole tilaa muille,\nkun sinä olet pääosassa.",
+      "Dokumenttisarjassa sinä olisit\nmaailman viehättävin päähenkilö.",
+      "Keskushenkilö jokaisessa huoneessa:\nsinä, ihan varmasti.",
+      "Vuoden kasvot -palkinto on sinun, ja\nsinä olet ollut ehdolla ikuisesti.",
+      "Mainoksissa sinä loistat niin,\nettä kaikki haluavat ostaa kaiken.",
+      "Lehden kansikuvaan sinä kuulut,\nsekä jokaiseen numeroon.",
+      "Lavalla sinä olet karismaa,\nja arjessakin loistat kuin valonheitin.",
+      "Jos keräisin kuvakortteja, sinä\nolisit koko pakka, ei muuta.",
+      "Fanitapaaminen? Kyllä, sinä olet se,\njonka haluan nähdä joka päivä.",
+      "Tanssivideo tulille, koska sinä\nliikut kuin taideteos.",
+      "Esittelyvideo on turha, koska\nsinä olet aina pelkkä huippukohta.",
+      "Maailmankiertue odottaa, mutta\nsinä olet jo järisyttänyt maailmani.",
+      "Albumiin nimikirjoitus, kiitos:\nsinä olet rajoitettu erä.",
+      "Heiluttelen valotikkua, ja sinä\nsaat koko sydämeni valot.",
+      "Nousu listalle on selvä, mutta\nsinä olet ollut legenda aina.",
+      "Konserttiliput odottavat, mutta\nsinä olet päivittäinen keikkani.",
+      "Kappale ykkössijalla, ja sinä\nolet elämäni parhaat soinnut.",
+      "Vielä yksi encore, sillä sinä\nolet liian hyvä lopetettavaksi.",
+      "Kuvauksen taustakuvatkin ovat täydellisiä,\nsillä sinä olet joka kuvassa.",
+      "Vaihdan suosikkini, koska sinä\nolet ainoa, jota jaksan katsoa.",
+      "Fanittamaan ryhdyin heti, kun sinä\nastuit huoneeseen.",
+      "Paljastan suosikkini: se on\nsinä, ei muuta vaihtoehtoa.",
+      "Ostin kaikki tuotteet, mutta sinä\nolet oikea keräilyharvinaisuus.",
+      "Fanitan sinua elämäni loppuun,\nkoska sinä olet ikuinen suosikkini.",
+      "Kotijoukkueeni löytyy luotasi,\nsillä sinä olet minun kapteenini.",
+      "Aloitan fanituksen heti, ja sinä\nsaat minulta kaiken innostuksen.",
+      "Ryhdyn valokuvaajaksi, sillä sinä\nolet jokaisen otoksen arvoinen.",
+      "Aika kultaa muistot, mutta kun sinä\nolet mukana, kaikki on kultaa jo nyt.",
+      "Synttärimainos kaupungin taululle:\nsinä synnyit täydellisenä.",
+      "Tuen sinua elämän loppuun asti,\nja sinä olet fanikuntani ylpeys.",
+      "Sydämeni hakkaa, kun sinä\nkäännät katseen minuun.",
+      "Maailma kaunistuu, kun sinä\nvain katsot siihen.",
+      "Olet onnellisuuden vitamiini,\nja sinä vaikutat jo ilman annosta.",
+      "Kirkkain tähti, minkä olen nähnyt,\non se, jota sinä katsot hymyillen.",
+      "Joka päivä on juhla, kun\nsinä olet läsnä sydämessäni.",
+      "Äänesi kuuleminen riittää, sillä\nsinä saat hyvälle mielelle tilaa.",
+      "Elämäni suurin onni, ja\nsinä olet sen alkulähde.",
+      "Tänäänkin sinä saat minut\nnauramaan ilman syytä.",
+      "Maailman rakkain ihminen, ja\nsinä tiedät sen jo.",
+      "Kun ajattelen sinua, sinä saat\nhymyn tulemaan ihan itsestään.",
+      "Mielenrauhani, ja sinä\nolet sen kotiosoite.",
+      "Hetket kanssasi ovat aina\nerityisiä, koska sinä olet mukana.",
+      "Parasta, mitä tiedän, on\nsinä ja sinun hymysi.",
+      "Kiitollisuus täyttää mieleni, koska\nsinä olet vain olemassa.",
+      "Päiväni kohokohta on se hetki,\nkun sinä ilmestyt kuvaan.",
+      "Päivät muuttuvat erityisiksi, kun\nsinä olet niissä mukana.",
+      "Valaiset huoneen, kun sinä\nastut sisään, ei lamppua tarvita.",
+      "Elämän paras lahja, ja sinä\nolet sen punainen rusetti.",
+      "Maailma on kauniimpi, koska\nsinä asut siinä.",
+      "Päivä ilman sinua olisi kuin\nkahvi ilman kofeiinia, sinä.",
+      "Ykkönen sydämessäni on\nsinä, ei kiistaa.",
+      "Kaiken mahdollistaa se, että\nsinä seisot vierelläni.",
+      "Joka päivä kiitän tuurista, koska\nsinä olet osunut kohdalleni.",
+      "Hymysi voittaa kaiken maailmassa,\nja sinä tiedät sen.",
+      "Elämäni suurin siunaus on\nsinä, ei ole toista.",
+      "Ajatus sinusta tekee päivästä\nonnellisen, ja sinä tiedät sen.",
+      "Sydämeni koti on siellä,\nmissä sinä olet.",
+      "Kaikki on täydellistä, kun\nsinä olet lähellä.",
+      "Kuvittelin unelmieni ihmisen,\nja sinä olet ihan se.",
+      "Katson sinua ja sydän menee\nepäkuntoon. Korjaajaksi kelpaa vain sinä.",
+      "Matkaan kanssasi vaikka kuuhun, sillä\nsinä olet paras reppukaveri.",
+      "Historiankirjoihin päätyvä ihminen, ja\nsinä olet jo kävelevä elämäkerta.",
+      "Charmisi iskee jatkuvasti, ja\nsinä saat jatkaa vaan.",
+      "Sinuun keskittyessäni niskani\njäi jumiin, sinä viehkeä.",
+      "Sykkeeni nousee aina, kun sinä\nastut näkökenttääni.",
+      "Silmissäni sinä olet\nlegendaarinen kansikuva.",
+      "Joka päivä on suosikkipäivä,\nkun sinä olet siinä.",
+      "Elävä ihme, ja sinä\nolet kävelevä todiste.",
+      "Ajan hidastuessa huomaan, että\nsinä olet syy tähän.",
+      "Elämäni VIP-kortti, ja sinä\nolet sen ainoa haltija.",
+      "Päivän kohokohta on se, kun\nsinä tulet kuvaan.",
+      "Sydämelleni premium-sisältöä, ja sinä\nolet sen ykkössuosikki.",
+      "Maailma näyttää teräväpiirtoiselta, kun\nsinä astut kuvaan.",
+      "Elämäni kultainen hetki, ja sinä\nolet sen kellonaika.",
+      "Aina kun sinä olet mielessäni,\nhymy tulee automaattisesti.",
+      "Sydämeni luksushotelli, ja sinä\nolet sen ainoa vieras.",
+      "Joka päivä on huippupäivä,\nkun sinä olet siinä mukana.",
+      "Elämäni pääsarja, ja sinä\nolet sen tähti.",
+      "Syke tanssii, kun sinä\nvain katsot minua.",
+      "Silmissäni sinä olet\nkirkkaampi kuin 4K.",
+      "Kun sinä astut paikalle, maailma\nsaa kirkkaammat värit.",
+      "Mielessäni sinä olet\nehdottomasti ykkönen.",
+      "Sydämeni vip-vieras on se,\njonka nimi on sinä.",
+      "Päivästä tulee erityinen, kun\nsinä olet jossain lähellä.",
+      "Salainen valttikorttini on\nsinä, joka voitat kaiken.",
+      "Mielialani nousee kuin hissi, kun\nsinä ilmestyt kuvaan.",
+      "Kunniatauluni ensimmäinen nimi on\nsinä, ja loput ovat tyhjiä.",
+      "Elämäni värikuvaa täydentää\nse, että sinä olet täällä.",
+      "Silmissäni olet aikojen legenda,\nja sinä tiedät sen.",
+      "Maailma kulkee hidastettuna, kun\nsinä käännät päätäsi.",
+      "Premium-passini elämään on\nsinä, ja se on voimassa ikuisesti."
+    ]
+  },
+  "problem": {
+    "title": "Kuka on ankarin arvostelijasi? Sinäkö itse?",
+    "text": "Töihin mennessä, ennen haastattelua, kotimatkalla pään sisäinen ääni lähinnä nalkuttaa. Päivän hehkutus asettuu puolellesi Koti-valikosta monta kertaa päivässä, vähän enemmän kuin olisi kohtuullista. Kun huomaat hymyileväsi, itseluottamustakin palaa vähän."
+  },
+  "features": [
+    {
+      "title": "Kehu fiiliksen mukaan",
+      "text": "Valitse 14 fiiliksestä ja tilanteesta, kuten `Aamu`, `Töihin matkalla`, `Rankka hetki`, `Ennen haastattelua` tai `Ennen treffejä`, niin sopiva kehu ilmestyy heti widgetiin. Etkö osaa päättää? Valittavana on myös `Satunnainen`.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Säästä suosikit",
+      "text": "Napauta tähteä tallentaaksesi kehun Suosikkeihin ja selaa aiempia Historiasta. Napauta `Käytä tätä kehua`, niin se siirtyy suoraan widgetiin.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Käy joka päivä, niin lukema kasvaa",
+      "text": "Jokainen päivä, jona käyt katsomassa, pidentää putkeasi. 7, 30 tai 100 päivää putkeen sekä yhteensä 50 ja 100 päivää avaavat saavutuksen.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "Alkuun kolmessa vaiheessa",
+    "items": [
+      {
+        "title": "Valitse fiilis",
+        "text": "Avaa `Valitse fiilis` ja napauta sitä, joka sopii nyt."
+      },
+      {
+        "title": "Muokkaa widgetiä",
+        "text": "Valitse Lisäasetuksista fontti, tekstin väri, tausta ja päivitysväli."
+      },
+      {
+        "title": "Lisää se Koti-valikkoon",
+        "text": "Pidä sormea Koti-valikossa, napauta + ja etsi Päivän hehkutus."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Tee widgetistä omasi",
+    "rows": [
+      [
+        "Fontti",
+        "13 vaihtoehtoa, mm. Futura, Georgia ja Marker Felt"
+      ],
+      [
+        "Tekstin väri",
+        "Mikä tahansa väri, josta pidät"
+      ],
+      [
+        "Tausta",
+        "Kahden värin liukuväri tai jokin valmiista taustakuvista"
+      ],
+      [
+        "Tasaus",
+        "Vasemmalle, keskelle tai oikealle"
+      ],
+      [
+        "Riviväli",
+        "Tiiviimmät tai väljemmät rivit"
+      ],
+      [
+        "Päivitysväli",
+        "Uusi kehu 5, 15 tai 30 minuutin välein"
+      ]
+    ],
+    "note": "Widgetin koon valitset, kun lisäät sen Koti-valikkoon."
+  },
+  "pricing": {
+    "title": "Osta kerran, ja asia on sillä selvä",
+    "free": {
+      "name": "Sovellus",
+      "items": [
+        "281 kehua 14 fiilikseen",
+        "Oman näköisesi widget Koti-valikkoon",
+        "Suosikit ja Historia",
+        "Putket ja saavutukset"
+      ]
+    },
+    "pro": {
+      "name": "Tue kehittäjää",
+      "items": [
+        "Valitse pieni, keskikokoinen tai iso tippi",
+        "Se ei avaa mitään. Se on vain tapa sanoa kiitos"
+      ],
+      "note": "Vain jos ja kun siltä tuntuu."
+    },
+    "note": "Ei tilausta, ei lisäostoja, ei mainoksia."
+  },
+  "faq": {
+    "title": "Usein kysyttyä",
+    "items": [
+      {
+        "q": "Miten lisään widgetin?",
+        "a": "Pidä sormea tyhjässä kohdassa Koti-valikossa, kunnes symbolit heiluvat, napauta ylhäältä +, hae Päivän hehkutus ja valitse koko."
+      },
+      {
+        "q": "Miten seuraava kehu valitaan?",
+        "a": "Kun valitset fiiliksen, siihen sopiva kehu ilmestyy heti widgetiin. Sen jälkeen widget näyttää valitsemasi päivitysvälin mukaan satunnaisen kehun kaikista 281:stä. Sovelluksessa voit myös napauttaa `Seuraava kehu` ja vaihtaa itse."
+      },
+      {
+        "q": "Voinko vaihtaa fontin tai päivitysvälin?",
+        "a": "Voit. Lisäasetuksissa vaihdat fontin, tekstin värin, taustan, tasauksen, rivivälin ja päivitysvälin: 5, 15 tai 30 minuuttia."
+      },
+      {
+        "q": "Widget ei vaihtunut heti.",
+        "a": "iOS päättää, milloin widgetit piirretään uudelleen, joten se voi laahata hieman valitun välin perässä. Avaa sovellus ja sulje se, niin widget päivittyy."
+      },
+      {
+        "q": "Miten putki toimii?",
+        "a": "Jokainen peräkkäinen päivä, jona katsot kehun, pidentää putkea päivällä. Kohdassa `Omat tilastot` näet nykyisen putken, ennätyksen, päivät yhteensä ja saavutukset."
+      },
+      {
+        "q": "Suosikkini ja historiani katosivat.",
+        "a": "Kaikki tallennetaan vain laitteellesi, joten tiedot eivät siirry, jos poistat sovelluksen tai vaihdat puhelinta. Jos et poistanut mitään ja tiedot silti katosivat, lähetä meille sähköpostia."
+      },
+      {
+        "q": "Lähetetäänkö tietojani jonnekin?",
+        "a": "Ei. Sovellus ei kerää henkilötietoja. Suosikkisi ja historiasi pysyvät laitteellasi."
+      },
+      {
+        "q": "Miten ilmoitan virheestä tai ehdotan jotain?",
+        "a": "Suoraan sovelluksen kohdasta `Ota yhteyttä kehittäjään`, sähköpostilla tai Instagramin yksityisviestillä @lee25_ios. Vastaamme heti, kun olemme ehtineet katsoa."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Tästä päivästä alkaen\njoku on puolellasi",
+    "cta": "Lataa App Storesta"
+  },
+  "ui": {
+    "skip": "Siirry sisältöön",
+    "languages": "Kieli",
+    "privacy": "Tietosuoja",
+    "contact": "Kysyttävää tai ideoita? Kirjoita osoitteeseen {email}."
+  }
+}

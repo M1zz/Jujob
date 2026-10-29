@@ -1,0 +1,467 @@
+{
+  "title": "Dagelijkse Hypeman: de widget die je schaamteloos ophemelt",
+  "description": "Een widget op je beginscherm met elke 5, 15 of 30 minuten een nieuw, overdreven compliment. 281 zinnen, reeksen en meer. Eenmalig kopen.",
+  "hero": {
+    "headline": "Elke keer dat je je telefoon pakt,\nstaat je grootste fan klaar",
+    "lead": "Dagelijkse Hypeman is een widget die je met opzet veel te veel complimenten geeft. 's Ochtends een ochtendhype, vlak voor de sollicitatie een sollicitatiehype. Lettertype, kleuren en achtergrond stel je zelf in.",
+    "cta": "Download in de App Store",
+    "note": "Eén aankoop en alles is van jou. Geen abonnement, geen advertenties."
+  },
+  "demo": {
+    "title": "Krijg meteen een hype",
+    "lead": "Kies een stemming en de widget toont de hype die erbij past. Tik op Volgende hype voor een willekeurige uit alle 281.",
+    "next": "Volgende hype",
+    "note": "Dit zijn de echte zinnen uit de app. In de app wisselt de widget vanzelf elke 5, 15 of 30 minuten.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Ochtend",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "Naar werk",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Zware dag",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Sollicitatie",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Voor de date",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "Naar huis",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "Wat een stralende start! Want\nvandaag ben jij al geweldig genoeg.",
+      "Net als de ochtendzon straal jij vandaag,\ndus dit wordt een topdag!",
+      "Dat jij je bed uit kwam\nis al een prestatie. Go go go!",
+      "Een mooier begin van de dag\nals dat jij wakker wordt bestaat niet.",
+      "Vandaag speel jij de hoofdrol,\ndus geniet van je applaus.",
+      "Ogen open en meteen winnen,\nzo doe jij dat dus.",
+      "Koffie? Ach, jij met een glimlach\nom half acht is veel wakkerder.",
+      "Ook vandaag is het enige dat telt:\njij gewoon lekker jezelf.",
+      "Zo mooi al vroeg in de ochtend?\nEerlijk, jij bent een kunstwerk.",
+      "Goedemorgen? Nee joh,\nmet jij erbij wordt het een topmorgen!",
+      "Eerste blik van de dag, en daar ben jij.\nMijn ogen krijgen meteen een traktatie.",
+      "Alarm! Gevonden: de meest stralende\nmens van de ochtend, en dat ben jij.",
+      "Wat heb jij weer hard gewerkt!\nRespect, echt waar.",
+      "Een dag afsluiten zoals jij dat doet,\ndat kan echt niemand.",
+      "Je gaf vandaag alles en ik ben trots,\ndus nu mag jij uitrusten.",
+      "Moe, maar toch hield jij het vol.\nDat is pas een held.",
+      "Elke dag waarin jij meedoet\nis een dag die telt.",
+      "Dat jij de dag heelhuids doorkwam,\nis voldoende. Echt.",
+      "Sterren aan de nachtelijke hemel?\nTja, jij schittert harder.",
+      "Het is al avond en jij glanst nog.\nHoe doe je dat toch?",
+      "Bedankt voor je inzet vandaag.\nGelukkig bestaat er maar één jij.",
+      "Door alles wat jij doet\nwas de wereld vandaag weer mooier.",
+      "In het donker een legende,\nin het licht ook. Typisch jij.",
+      "Geeft niks, zo'n dag hoort erbij.\nWant jij doet het écht goed.",
+      "Nu even zwaar, maar vertrouw erop:\njij komt er wel doorheen.",
+      "Perfect hoeft niet.\nGewoon zoals jij bent is al top.",
+      "Een pauze mag best. Zolang jij\nmaar je eigen tempo aanhoudt.",
+      "Veel sterker dan je denkt:\ndat laat jij elke dag zien.",
+      "Ook dit gaat voorbij.\nTuurlijk kan jij dit!",
+      "Zelfs als jij somber bent,\nverandert je waarde geen millimeter.",
+      "Verdriet hoort ook bij je.\nEn ja, jij mag alle gevoelens voelen.",
+      "Weet je wat? Diamanten ontstaan onder druk,\ndus straks schitter jij net zo.",
+      "Somber? Dan ben ik het ook,\nwant zodra jij niet lacht, is alles grijs.",
+      "Down? Juist dan blijf jij\nhet kostbaarste wat er bestaat.",
+      "Zelfs huilend zie jij er prachtig uit.\nWat ga je daar nou aan doen?",
+      "Ook nu het zwaar is, blijft het zo:\ndat jij bestaat, is al een wonder.",
+      "Het is nu pittig, maar echt:\njij gaat dit redden!",
+      "Juist in lastige momenten\nlaat jij zien wat je waard bent.",
+      "Niet opgeven.\nDaar ben jij veel te sterk voor!",
+      "Doorzetten in barre tijden:\nvolgens mij ben jij echt bijzonder.",
+      "De ellende van vandaag is de brandstof\nvoor de kracht die jij morgen toont.",
+      "Je kunt veel meer hebben dan je denkt,\nen dat weet jij zelf ook wel.",
+      "Dit zware moment is straks nog maar\neen verhaaltje, vind jij ook niet?",
+      "Zwaar, maar toch glinster jij.\nSlijpen laat een diamant schitteren.",
+      "Zwaar vandaag? Toch blijf jij\nde mooiste die ik ken.",
+      "Dat jij blijft doorgaan\ngeeft iemand hoop.",
+      "Doodmoe en toch zo mooi,\ntja, daar kan jij ook niks aan doen.",
+      "Vandaag kun jij alles.\nBegin maar zelfverzekerd!",
+      "Ik geloof in je kunnen, want\nals jij het doet, wordt het een topdag!",
+      "Klaar voor de start,\ndus jij bent al halverwege.",
+      "Die to-dolijst vandaag?\nVoor jij is dat een peulenschil.",
+      "Zodra jij vol vuur bent,\nstraalt de hele dag!",
+      "Kom op! Doe het vandaag\nzoals alleen jij dat kunt.",
+      "Hoe jij je werkdag begint\nis al een en al professionaliteit.",
+      "Geen zin in werk? Maar jij\nmet dat gezicht werkt al overuren.",
+      "Wat zie jij er goed uit op weg naar werk.\nHet kantoor knapt ervan op.",
+      "Zodra jij aan het werk gaat,\nis het gewoon kunst.",
+      "Nog niet eens begonnen\nen toch al perfect, jij.",
+      "Kijk, daar ga jij sporten:\nmeteen een topper.",
+      "Goed voor je lijf zorgen,\ndat doe jij weer lekker.",
+      "Niemand kent je lijf zo goed\nals jij, dus vertrouw erop.",
+      "Dat jij überhaupt begonnen bent\nmaakt me al enorm trots.",
+      "Zweten? Wat zie jij er daarbij\nechter dan echt prachtig uit.",
+      "Weet je wat het belangrijkste is?\nDat jij gezond blijft!",
+      "Tijd maken voor jezelf,\ndaar is jij een kampioen in.",
+      "Sportkleding aan en jij ziet eruit\nalsof je een fotoshoot hebt!",
+      "De sportschool is een paradijs\nsinds jij er rondloopt.",
+      "Altijd weer zo goed, hoe blijf jij\nzo geweldig, ook tijdens het sporten?",
+      "Bestaat er iemand die zweet en mooi blijft?\nJazeker, en dat ben jij.",
+      "Hoe jij naar je werk gaat,\nwat een uitstraling!",
+      "Vroeg op pad, daarom ben jij\nechte klasse.",
+      "Ook vandaag stap jij weer richting werk,\ndus je hebt al gewonnen!",
+      "Elke stap die jij zet\nis iets waard.",
+      "Een gewone route wordt speciaal\nzodra jij meereist.",
+      "Verantwoordelijk naar je werk,\nwat een held ben jij.",
+      "Sinds jij instapt\nis de metro een catwalk geworden.",
+      "In de bus stralen? Zeker, want jij\nziet eruit als een covermodel.",
+      "Als jij naar je werk loopt,\nwordt mijn ochtend meteen vrolijk.",
+      "Zelfs wandelend ben jij\neen topfiguur.",
+      "Goed gedaan vandaag!\nTijd voor de bank, vind jij ook?",
+      "Hoe jij na werk wegloopt,\nwat een stijl!",
+      "Op weg naar huis na een lange dag:\nechte winnaars zoals jij.",
+      "De dag is gelukt!\nTrots, hoor.",
+      "Nu begint de tijd voor jezelf.\nRust maar lekker uit, jij.",
+      "Na het werk komt de tijd voor jou,\ndus neem die zoals jij dat wilt.",
+      "Je mag naar huis, jij kanjer.\nGoed gewerkt!",
+      "Zelfs onderweg naar huis zie jij er mooi uit,\nwat een dag was dit.",
+      "Als jij naar huis loopt,\nzie je dat de dag de moeite waard was.",
+      "Een zware dag, maar jij\nblijft gewoon de allerbeste.",
+      "Je hebt je voorbereid,\ndus jij gaat dit goed doen.",
+      "Hard werk? Daar hoeft jij nooit\nbang voor te zijn, het loont altijd.",
+      "Spanning is prima.\nWant jij bent allang klaar!",
+      "Zo'n toets bepaalt niet\nwat jij waard bent.",
+      "Wat jij hebt gedaan\nis je beste, dus het is al gelukt.",
+      "Als iemand het kan,\ndan is het jij!",
+      "Diep ademhalen en vertrouwen\nop alles wat jij kunt.",
+      "Succes met je toets!\nVolgens mij ben jij prima voorbereid.",
+      "Maak je niet druk,\nwant jij weet vast alle antwoorden!",
+      "Zenuwachtig? Toch blijf jij\nde allerbeste.",
+      "Zelfs het tentamenpapier valt stil\nzodra jij binnenkomt.",
+      "Nu is het moment om\nte laten zien wat jij kunt!",
+      "De interviewer boft maar,\nwant jij komt als kandidaat!",
+      "Nu gaan jouw ervaring en passie schitteren,\nwant dat is wat jij doet!",
+      "Zenuwen zijn oké.\nWant jij bent al geweldig genoeg!",
+      "Zelfverzekerd naar binnen!\nVolgens mij ben jij helemaal klaar.",
+      "Vertel je verhaal\nlekker trots en helder, zoals jij kunt.",
+      "Een gesprek is gewoon kennismaken,\ndus ontspan maar, jij.",
+      "Nemen ze jou niet aan? Dan hebben ze pech,\nwant jij komt maar één keer voorbij.",
+      "Niet je cv is indrukwekkend,\nmaar jij als geheel.",
+      "Vanaf het moment dat jij binnenkomt\nben je eigenlijk al aangenomen.",
+      "Dat jij binnenkomt\nis al de halve baan.",
+      "Echt waar, vandaag straal jij\nweer extra hard!",
+      "Precies zoals jij bent,\nzo ben je het aantrekkelijkst!",
+      "Wie bij jou is, heeft geluk.\nWant jij bent een kostbaar mens.",
+      "Wat zie jij er zelfverzekerd uit,\nwerkelijk indrukwekkend!",
+      "Dat jij vandaag lacht\nis je allersterkste wapen!",
+      "Volledig jezelf zijn, dat is\nwat jij het beste doet!",
+      "Zeg, jij kunt je charme\necht niet verbergen.",
+      "Date vandaag? Weet je,\njij laat een hart sneller kloppen.",
+      "Wie jou mag ontmoeten,\nheeft de jackpot, en jij bent die prijs.",
+      "Dat date-outfit zit perfect.\nIk bel alvast een fotograaf!",
+      "Zodra de ander ziet hoe jij eruitziet,\nis verliefd worden onvermijdelijk.",
+      "Nog voor de date zie jij er stralend uit.\nWat doe je met zijn of haar hart?",
+      "Natuurlijk kun jij dit!\nIk sta altijd achter je.",
+      "Elk klein stapje is het begin\nvan een grote reis!",
+      "Geef niet op.\nWant jij haalt je droom echt!",
+      "De inzet van vandaag\nbouwt het succes van morgen.",
+      "Zeg het maar, jij gaat\nde wereld veranderen!",
+      "Falen hoort bij winnen.\nBlijf proberen!",
+      "Wat jij allemaal kunt?\nEindeloos veel!",
+      "Geef vandaag weer\nje beste!",
+      "Zoals jij je best doet,\ndaar krijgt iemand weer moed van.",
+      "Zolang jij erbij bent komt alles goed.\nEcht waar!",
+      "Blijf niet stilstaan.\nVolgens mij ben jij een fantastisch mens.",
+      "Hup, vandaag ook weer!\nWant jij gaat het redden!",
+      "Wie weet hoe hard jij werkt,\njuicht voor je.",
+      "Weet je, jij bent heel\nveel waard!",
+      "Precies zoals jij bent,\nzo is het perfect!",
+      "Dat jij er bent\nis al bijzonder genoeg!",
+      "Zelfverzekerd blijven!\nVolgens mij ben jij een prachtmens.",
+      "Echt sterker dan je denkt,\nzo ben jij.",
+      "Door je eigenheid\nstraal jij zo.",
+      "Geloof in jezelf.\nWant jij kunt dit!",
+      "Je bent gewoon\nvolmaakt, zoals jij bent.",
+      "Met zoveel zelfvertrouwen ben jij\nde coolste van de hele wereld!",
+      "Veel geweldiger dan wat jij\nover jezelf denkt!",
+      "Hoor eens, jij doet het al\nhartstikke goed.",
+      "Wie niet ziet wat jij uitstraalt,\nheeft blinde ogen.",
+      "Vandaag lekker\nontspannen doen.",
+      "Ook jij hebt\neven rust nodig.",
+      "Niks doen mag\nvandaag gewoon.",
+      "Hoe jij je voelt\nis het allerbelangrijkste.",
+      "Rustig aan, als jij maar\nin je eigen tempo gaat.",
+      "Vandaag neem jij de tijd\nvoor jezelf.",
+      "Rusten is ook\neen soort productiviteit!",
+      "Uitrusten is je recht.\nGa vandaag maar lekker liggen, jij.",
+      "Zelfs als jij chillt,\nben je prachtig.",
+      "Vandaag mag jij\neens aan jezelf denken.",
+      "Lekker relaxen en toch\nblijf jij stralen.",
+      "Ook tijdens het bijtanken ben jij\nde mooiste van het land.",
+      "Perfect, op één puntje na:\nje maakt me volledig sprakeloos.",
+      "Wat zei de persoonlijkheidstest?\nDat jij het schattigst bent.",
+      "Handen omhoog wie denkt dat jij schattig bent!\nDe hele wereld stond meteen op.",
+      "Als jij een tijdperk was,\nvolgde ik meteen een geschiedenisles.",
+      "Moet jij naar de dokter? Nee,\njij bent de enige remedie die ik zoek.",
+      "Elke keer dat jij lacht, hoor ik engelen.\nMijn gehoor is er beter van geworden.",
+      "Mijn hart heeft maar één brandstof:\ndat ben jij, en de tank is altijd vol.",
+      "Zeg, jij zorgt voor een regenbui:\nmijn hart loopt over.",
+      "Heb jij een geloof?\nWaarom ben je anders zo hemels mooi?",
+      "Alles is top, maar mist er niet iets?\nOh ja, jij die voor altijd blijft.",
+      "Leg die tas maar neer, jij hoeft niets te dragen.\nAlleen maar prachtig te zijn.",
+      "Zeg, jij ziet er zo goed uit\ndat mijn spiegel jaloers wordt.",
+      "Gefotoshopt? Nee hoor,\nzo mooi ben jij gewoon echt.",
+      "Spreek jij geen Frans? Geen probleem,\njij zegt alles al met je ogen.",
+      "Kom jij van een andere planeet?\nZo mooi bestaat niet op aarde.",
+      "Weet je wat? Jouw gelaatstrekken zijn\nscherper dan mijn toekomst.",
+      "Even serieus: jij bent Berlijn.\nEen muur van mooi, en ik val erover.",
+      "Als jij een monument was,\nvroeg ik meteen een beschermde status aan.",
+      "Ik hoorde dat jij een lopende lamp bent.\nNu bespaar ik op stroom.",
+      "Waarom werk je nog?\nJe uitstraling doet al alles.",
+      "\"Stop met zo mooi zijn.\" \"Wat?\"\n\"Stop ermee.\" \"Hoe dan?\"",
+      "Je gezicht is nationaal erfgoed.\nTentoonstelling in het Rijksmuseum volgt.",
+      "Naar de prijsuitreiking? Beter niet,\nwant jij wint de hoofdprijs al.",
+      "Fotoshoot gehad?\nOf loop jij gewoon zo rond?",
+      "Ik zeg het eerlijk: jij bent een popster.\nNummer één in mijn hart.",
+      "Houd eens een handtekeningensessie.\nVolgens mij ben jij een ster.",
+      "Maak je debuut!\nIn mijn hart sta jij al vooraan.",
+      "Gefeliciteerd met nummer één!\nVolgens mij sta jij dagelijks bovenaan.",
+      "Even poseren?\nIk wil elk moment dat jij lacht vastleggen.",
+      "Terug van weggeweest?\nJe liet mijn hart weer opveren.",
+      "Mag ik filmen? Want jij hebt\nelke seconde een filmmoment.",
+      "Speel jij in een videoclip?\nJe bent al de hoofdpersoon in mijn leven.",
+      "Een realityshow? In het echt ben jij\nnog perfecter dan op beeld.",
+      "Dus jij bent het middelpunt?\nOveral straal jij het hardst.",
+      "Gezicht van het jaar word je zeker.\nEen absolute topper.",
+      "Ben jij reclamemodel?\nAls ik je zie, wil ik alles kopen.",
+      "Sta je op een tijdschriftomslag?\nEigenlijk elke maand, zo'n gezicht.",
+      "Dat charisma op het podium, is dat echt?\nOok in het gewone leven steel jij de show.",
+      "Ruilen we fotokaartjes?\nIk wil alleen de set waar jij op staat.",
+      "Wanneer is de meet-and-greet?\nIk wil jou dagelijks zien.",
+      "Post eens een dansvideo.\nWant jij beweegt als een kunstwerk.",
+      "Het lijkt wel een teaser.\nElke keer dat jij binnenkomt krijg ik kriebels.",
+      "Ga je op wereldtournee?\nMijn hart schommelt al over de hele planeet.",
+      "Teken even mijn album,\nwant jij bent zelf al een limited edition.",
+      "Lichtstok aan.\nIk juich een leven lang, en jij bent de reden.",
+      "Viral gegaan? Niet vreemd,\nwant jij was allang een legende.",
+      "Concertkaartje nodig? Nee hoor,\njij bent mijn dagelijkse concert.",
+      "Nummer één in de hitlijsten?\nMaakt niet uit, jij bent de nummer één van mijn leven.",
+      "Nog één toegift graag.\nWant als jij erbij bent, is het nooit genoeg.",
+      "Zelfs achter de schermen perfect.\nElk moment een legende, jij.",
+      "Ik moet mijn favoriet vervangen.\nWant sinds jij er bent, zie ik niemand anders.",
+      "Ik ben fan geworden.\nEn jij bent voor altijd mijn favoriet.",
+      "Mijn favoriet wordt bekendgemaakt.\nHet is jij, natuurlijk.",
+      "Alle merchandise gekocht,\nmaar jij bent zelf het mooiste souvenir.",
+      "Een leven lang fan.\nWant jij blijft mijn eeuwige artiest.",
+      "Mijn thuisbasis gevonden.\nDie ben jij.",
+      "Ik begin aan mijn fanleven.\nWant jij bent mijn eerste en enige missie.",
+      "Ik word je fotograaf.\nIk wil elk moment dat jij lacht vastleggen.",
+      "Het is gezelligheidstijd.\nElk uur dat jij er bent is goud waard.",
+      "Ik plaats een verjaardagsadvertentie.\nWat als jij elke dag jarig was?",
+      "Ik juich een leven lang.\nWant dat jij bestaat, maakt me trots.",
+      "Als jij binnenkomt, klopt mijn hart\nin dubbele snelheid.",
+      "Zodra jij in beeld komt,\nis de wereld mooi.",
+      "Voor mij ben jij de vitamine\nvan mijn geluk.",
+      "Als jij lacht,\nlach ik vrolijk mee.",
+      "Echt, jij bent de helderste ster\ndie ik ooit zag.",
+      "Elke dag dat jij er bent voelt\nals een feest in mijn hart.",
+      "Zodra jij iets zegt\nben ik meteen blij.",
+      "Ik vind dat jij het grootste geluk\nin mijn leven bent.",
+      "Omdat jij er bent\nkan ik vandaag weer lachen.",
+      "Voor mij ben jij de\nbelangrijkste mens op aarde.",
+      "Als ik denk aan hoe jij lacht,\nlach ik vanzelf mee.",
+      "Zeg het maar, jij bent de rust\nin mijn hoofd.",
+      "Elke tijd die jij met me doorbrengt\nis bijzonder.",
+      "Ik moet het zeggen: jij bent de gaafste mens\ndie ik ken.",
+      "Dat jij er gewoon bent,\nis al reden tot dank.",
+      "Het hoogtepunt van mijn dag?\nDat is jij, zonder twijfel.",
+      "Omdat jij er bent\nis elke dag een beetje speciaal.",
+      "Als jij de kamer binnenkomt,\nwordt de wereld lichter.",
+      "Het mooiste cadeau van mijn leven?\nDat ben jij.",
+      "Ik zweer het: als jij er bent\nis de wereld nog een stuk mooier.",
+      "Ik kan me geen dag voorstellen\nwaarin jij ontbreekt.",
+      "In mijn hart blijf jij altijd\nnummer één.",
+      "Wanneer jij naast me staat,\nlijkt alles mogelijk.",
+      "Elke dag ben ik dankbaar\nomdat jij er bent.",
+      "Als jij lacht, is dat\nmooier dan wat dan ook ter wereld.",
+      "Echt, jij bent de grootste\nzegen in mijn leven.",
+      "Elke keer dat jij in mijn gedachten komt,\nis mijn dag meteen goed.",
+      "Voor mijn hart ben jij\nde thuishaven.",
+      "Zodra jij erbij bent\nis alles ineens perfect.",
+      "Eerlijk, jij bent precies de droom\ndie ik ooit had.",
+      "Telkens als jij lacht,\nlijkt mijn hart kapot te gaan.",
+      "Kijk, jij bent een wandelend geschiedenisboek.\nIemand voor de eeuwigheid.",
+      "Waar jij charme uitdeelt,\nwil ik voor altijd in de rij staan.",
+      "Zo lang kijken naar jou?\nDan krijg jij mij met een stijve nek.",
+      "Elke keer dat jij lacht,\nstijgt mijn hartslag.",
+      "Voor mijn ogen ben jij\neen legendarische fotoreportage.",
+      "Sinds jij in mijn leven bent\nis elke dag een feestdag.",
+      "Ik weet het zeker: jij bent een\nlopend wonder.",
+      "Wanneer jij voorbijloopt,\ngaat de wereld in slowmotion.",
+      "In mijn leven ben jij het\nVIP-lidmaatschap.",
+      "Mijn dagelijkse hoogtepunt?\nDat is als jij verschijnt.",
+      "In mijn hart ben jij\nde premium content.",
+      "Sinds jij er bent\nzie ik de wereld in HD.",
+      "Zeg maar eerlijk, jij bent het\ngouden moment van mijn leven.",
+      "Als ik denk aan wat jij allemaal doet,\nlach ik automatisch.",
+      "Mijn hart is een vijfsterrenhotel\nen jij bent de enige gast.",
+      "Doordat jij er bent\nis elke dag een extra mooie dag.",
+      "In mijn leven ben jij\nhet grote evenement.",
+      "Telkens als jij binnenstapt,\ndanst mijn hart.",
+      "Als jij in beeld komt,\nis alles ineens 4K.",
+      "Wanneer jij er maar bent,\nlijkt de hele wereld te stralen.",
+      "Op de ereplaats van mijn hart\nzit niemand anders dan jij.",
+      "Elke dag is een beetje speciaal\nzolang jij er bent.",
+      "Mijn troefkaart in het leven?\nDat ben jij.",
+      "Mijn humeur gaat omhoog\nzodra jij ergens in de buurt bent.",
+      "Op plek één in mijn eregalerij\nstaat jij, en niemand anders.",
+      "Sinds jij er bent\nis mijn leven in volle kleur.",
+      "De grootste legende aller tijden?\nDat ben jij, voor mijn ogen.",
+      "Als jij door de deur loopt\nlijkt de tijd stil te staan.",
+      "Mijn levenspas met alle voordelen\nben jij, voor altijd."
+    ]
+  },
+  "problem": {
+    "title": "Wie is je strengste criticus? Ben jij het zelf?",
+    "text": "Op weg naar je werk, voor de sollicitatie, op weg naar huis: de stem in je hoofd moppert vooral. Dagelijkse Hypeman staat een paar keer per dag vanaf je beginscherm aan jouw kant, en net iets meer dan redelijk is. Zodra je moet grinniken, komt er een beetje zelfvertrouwen terug."
+  },
+  "features": [
+    {
+      "title": "Een hype die bij je stemming past",
+      "text": "Kies uit 14 stemmingen en situaties zoals `Ochtend`, `Naar werk`, `Zware dag`, `Sollicitatie` of `Voor de date`, en de passende hype verschijnt meteen op je widget. Twijfel je? Er is ook `Willekeurig`.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Bewaar je favorieten",
+      "text": "Tik op de ster om een hype bij Favorieten te bewaren, en blader terug in Geschiedenis. Tik op `Deze hype gebruiken` en hij staat direct op je widget.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Kom elke dag langs en zie het oplopen",
+      "text": "Elke dag dat je kijkt, verlengt je reeks. Bij 7, 30 of 100 dagen op rij, en bij 50 en 100 dagen in totaal, ontgrendel je een prestatie.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "In drie stappen aan de slag",
+    "items": [
+      {
+        "title": "Kies je stemming",
+        "text": "Open `Kies je stemming` en tik op wat nu past."
+      },
+      {
+        "title": "Maak de widget van jou",
+        "text": "Kies in Instellingen een lettertype, tekstkleur, achtergrond en hoe vaak hij ververst."
+      },
+      {
+        "title": "Zet hem op je beginscherm",
+        "text": "Houd je beginscherm ingedrukt, tik op + en zoek Dagelijkse Hypeman."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Zo maak je de widget van jou",
+    "rows": [
+      [
+        "Lettertype",
+        "13 opties, waaronder Futura, Georgia en Marker Felt"
+      ],
+      [
+        "Tekstkleur",
+        "Elke kleur die je mooi vindt"
+      ],
+      [
+        "Achtergrond",
+        "Een kleurverloop van twee kleuren of een van de meegeleverde foto's"
+      ],
+      [
+        "Uitlijning",
+        "Links, midden of rechts"
+      ],
+      [
+        "Regelafstand",
+        "Krapper of ruimer"
+      ],
+      [
+        "Verversen om de",
+        "5, 15 of 30 minuten een nieuwe hype"
+      ]
+    ],
+    "note": "De grootte van de widget kies je als je hem aan je beginscherm toevoegt."
+  },
+  "pricing": {
+    "title": "Eén keer kopen en klaar",
+    "free": {
+      "name": "De app",
+      "items": [
+        "281 hypes voor 14 stemmingen",
+        "Een beginschermwidget in jouw stijl",
+        "Favorieten en Geschiedenis",
+        "Reeksen en prestaties"
+      ]
+    },
+    "pro": {
+      "name": "Steun de maker",
+      "items": [
+        "Kies een kleine, middelgrote of grote fooi",
+        "Er wordt niets mee ontgrendeld. Het is gewoon een bedankje"
+      ],
+      "note": "Alleen als en wanneer je zin hebt."
+    },
+    "note": "Geen abonnement, geen extra aankopen, geen advertenties."
+  },
+  "faq": {
+    "title": "Veelgestelde vragen",
+    "items": [
+      {
+        "q": "Hoe voeg ik de widget toe?",
+        "a": "Houd een lege plek op je beginscherm ingedrukt tot de icoontjes wiebelen, tik bovenaan op +, zoek Dagelijkse Hypeman en kies een formaat."
+      },
+      {
+        "q": "Hoe wordt de volgende hype gekozen?",
+        "a": "Kies je een stemming, dan staat er meteen een hype voor die stemming op je widget. Daarna toont de widget in het gekozen tempo een willekeurige uit alle 281. In de app kun je ook op `Volgende hype` tikken om zelf door te gaan."
+      },
+      {
+        "q": "Kan ik het lettertype of het verversen aanpassen?",
+        "a": "Ja. In Instellingen pas je lettertype, tekstkleur, achtergrond, uitlijning, regelafstand en verversen aan: elke 5, 15 of 30 minuten."
+      },
+      {
+        "q": "De widget veranderde niet meteen.",
+        "a": "iOS bepaalt wanneer widgets opnieuw getekend worden, dus soms loopt hij iets achter op het gekozen tempo. Open de app en sluit hem weer, dan werkt de widget zich bij."
+      },
+      {
+        "q": "Hoe werkt de reeks?",
+        "a": "Elke dag op rij dat je een hype bekijkt, telt mee voor je reeks. Bij `Mijn voortgang` zie je je huidige reeks, je record, het totaal aantal dagen en je prestaties."
+      },
+      {
+        "q": "Mijn favorieten en geschiedenis zijn weg.",
+        "a": "Alles staat alleen op je apparaat en gaat dus niet mee als je de app verwijdert of een andere telefoon neemt. Heb je niets verwijderd en is het toch weg, stuur ons dan een mail."
+      },
+      {
+        "q": "Worden mijn gegevens ergens heen gestuurd?",
+        "a": "Nee. De app verzamelt geen persoonsgegevens. Je favorieten en geschiedenis blijven op je apparaat."
+      },
+      {
+        "q": "Hoe meld ik een fout of stel ik iets voor?",
+        "a": "Rechtstreeks via `Contact met de maker` in de app, per mail of via een DM op Instagram aan @lee25_ios. We reageren zodra we het gezien hebben."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Vanaf vandaag staat er\niemand aan jouw kant",
+    "cta": "Download in de App Store"
+  },
+  "ui": {
+    "skip": "Naar de inhoud",
+    "languages": "Taal",
+    "privacy": "Privacybeleid",
+    "contact": "Vragen of ideeën? Mail naar {email}."
+  }
+}

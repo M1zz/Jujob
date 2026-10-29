@@ -1,0 +1,467 @@
+{
+  "title": "Günün Pohpohu: seni ölçüsüzce öven widget",
+  "description": "Ana ekranda her 5, 15 ya da 30 dakikada yeni, abartılı bir pohpoh gösteren widget. Her ruh haline 281 söz ve seriler. Tek seferlik alım.",
+  "hero": {
+    "headline": "Telefonu her eline aldığında\nen büyük hayranın seni bekliyor",
+    "lead": "Günün Pohpohu, seni bile isteye fazlasıyla öven bir widget. Sabah sabah pohpohu, mülakattan önce mülakat pohpohu. Yazı tipi, renkler ve arka plan tamamen sana kalmış.",
+    "cta": "App Store'dan indir",
+    "note": "Tek satın alma, her şey açık. Abonelik yok, reklam yok."
+  },
+  "demo": {
+    "title": "Hemen bir pohpoh al",
+    "lead": "Bir ruh hali seç, widget ona uygun pohpohu göstersin. Sonraki Pohpoh'a dokun, 281 söz arasından rastgele biri gelsin.",
+    "next": "Sonraki Pohpoh",
+    "note": "Bunlar uygulamadaki gerçek sözler. Uygulamada widget her 5, 15 ya da 30 dakikada kendiliğinden sonrakine geçer.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Sabah",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "İşe Giderken",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Zor Zamanlar",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Mülakat Öncesi",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Randevu Öncesi",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "İş Çıkışı",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "Güne başlarken bil ki,\nsen zaten çok harika.",
+      "Güneş bile bu sabah\nsen yüzünden erken doğdu.",
+      "Yataktan kalkabilmek başarı,\nsen zaten bir kahraman.",
+      "Sabahın en güzel manzarası\nsen, kahve ikinci sırada.",
+      "Bugünün başrolü sen,\ngerisi sadece figüran.",
+      "Uyanır uyanmaz sen\nzaten kazanan taraf.",
+      "Çay demlendi, sabah güzel;\nsen gülümseyince tamam.",
+      "Bugün de kendin gibi kal;\nsen böyle bile efsane.",
+      "Sabah sabah bu güzellik ne?\nsen resmen suç makinesi.",
+      "Günaydın demek az kalır,\nsen varken sabah bile şaşırıyor.",
+      "Aynaya bir bak, karşında\nsen var, işte bu efsane.",
+      "Sabah ışığı sen olunca\nlambaya hiç gerek kalmıyor.",
+      "Günün yükünü bırak artık,\nsen bugün de fazlasıyla yeterli.",
+      "Akşam oldu ama sen hâlâ\nneon tabela gibi parlak.",
+      "Elinden geleni yapan sen\nbu akşam alkışı hak etti.",
+      "Yorgunluk var ama bugünün\ngalibi yine sen.",
+      "Gün boyu koşturan sen,\nakşam çayını sonuna kadar hak ediyor.",
+      "Gökyüzünde milyar yıldız var,\nparlak olan tek şey sen.",
+      "Bu saatte bile sen\nilk günkü gibi taze.",
+      "Mesai bitti ama sen hâlâ\nışıl ışıl, şarjın sonsuz mu?",
+      "Alın teri bile sen olunca\nparlak bir mücevher.",
+      "Dünyaya teşekkür et çünkü\nsen bugün de aramızda.",
+      "Gündüz sen, gece sen,\nmesai yok sadece efsane.",
+      "Zor günler olur, normal;\nsen yine de en önde koşan.",
+      "Şimdi zor ama sen\nbu işi toparlayacak kadar güçlü.",
+      "Mükemmel olmak şart değil;\nsen olduğun gibi zaten tam.",
+      "Yorulduysan mola ver;\nsen kendi hızında bile birinci.",
+      "Sanılandan çok daha\nsağlam birisi sen.",
+      "Bu da geçer, yeter ki sen\nhep böyle dik dur.",
+      "Keyfin kaçsa bile sen\nyerinde kıymetli bir hazine.",
+      "Üzülmek de hayatın parçası;\nsen duygularıyla bile bütün bir hazine.",
+      "Kömür baskıyla elmas olur;\nsen şimdi tam dönüşüm anı.",
+      "Moralin bozuksa unutma:\nsen yine de bu mahallenin yıldızı.",
+      "Keyfin yok mu? Olsun,\nsen keyifsizken de baş tacı.",
+      "Ağlarken bile sen\nfilmden bir kare gibi, ne yapacağız?",
+      "Şu an zor olabilir; sen\nyine de başlı başına bir mucize.",
+      "Zor bir dönem bu ama\nsen bunu atlatmaya fazlasıyla hazır.",
+      "Zor anlar sen ortaya çıkınca\nkendi kendine pes ediyor.",
+      "Pes yok, yalan; sen zaten\nkoltuğa oturmuş şampiyon.",
+      "Bu süreci taşıyan sen\nbaşlı başına bir destan.",
+      "Bugünün dertleri yarının olgunluğu,\nsen güçlenen taraf.",
+      "Hiç sanıldığından fazla\ndayanıklı: sen, tam bir çelik.",
+      "Bu zor an yakında sen\nanlatınca komik bir anı olacak.",
+      "Elmas kesilmeden parlamaz;\nsen de şu an cila aşamasında.",
+      "Üzgün bile olsa sen\ndünyanın en şık üzüntüsü.",
+      "Dimdik kalan sen,\nbirilerine ışık oluyor.",
+      "Bitkin olsan da sen\nçekim gücünden ödün vermiyor.",
+      "Bugün bu iş sen olunca\nzaten halledilmiş sayılır.",
+      "Yeteneğine güveniyorum:\nsen olunca iş tamam.",
+      "Hazırlık tamam, sen de varsan\nişin yarısı bitmiş demek.",
+      "Bugünkü işler sen olunca\nçocuk oyuncağı.",
+      "Hevesin sen yürüyünce\ntüm günü ışıl ışıl yapar.",
+      "Hadi bakalım, sahnede sen varsan\nperde açılsın, sonuç belli.",
+      "İşe başlamadan önce bile\nsen tam bir profesyonel.",
+      "Çalışmak istemiyorsan boş ver;\nsen yüzünle zaten mesaide.",
+      "Ofisin ışıkları sen girince\nkendiliğinden açıldı.",
+      "Mesai sen yapınca\nbaşlı başına bir sanat.",
+      "Daha ilk mail gelmeden sen\ntamamen kusursuz.",
+      "Spor salonuna giren sen\nşimdiden kazandı.",
+      "Sağlığını düşünmek de\nsen yapınca daha havalı.",
+      "Vücudunu en iyi bilen sen,\nantrenör de sen.",
+      "Isınmadan önce bile sen\nalkışı hak etmiş durumda.",
+      "Ter döken sen bile\nsanat eseri gibi.",
+      "Sağlık en değerlisi,\nsen de kıymetlilerin başında.",
+      "Kendine zaman ayıran sen\ndünyanın en iyi yatırımcısı.",
+      "Spor kıyafetli sen\ndergi kapağına çıkabilir.",
+      "Salon sen girince\nbir anda tapınağa dönüştü.",
+      "Antrenmanda bile sen\nbu kadar şıklıkla nasıl?",
+      "Terleyince de güzel kalan\nbiri varsa o sen.",
+      "Yola çıkarken sen\ntam bir profesyonel havasında.",
+      "Sabahın köründe yollara düşen\nsen, kahramanlık sınıfında.",
+      "İşe giden sen bugün de\nçoktan galip.",
+      "Adımların kıymetli;\nsen yürüyünce kaldırım şereflendi.",
+      "Yol uzun ama sen varken\nrota tatile dönüyor.",
+      "Sorumluluk sahibi sen\nbugün de iş başında, helal.",
+      "Metro sen girince\nresmen podyuma döndü.",
+      "Otobüste bile sen\nkapak çekimi yapıyor gibi.",
+      "Sabah sen yürürken\ngörenin günü güzelleşiyor.",
+      "Sadece yürürken bile\nefsane olan biri: sen.",
+      "Koltuk sen gelmeden\nhasretten çatlıyordu.",
+      "Çıkış kapısından sen\ngeçince hayat sinemaya döner.",
+      "Eve dönen yolda sen\nyine de birinci sınıf.",
+      "Mesai bitti, bugünü de sen\nalnının akıyla kapattın.",
+      "Mesaiden sonrası tamamen\nsen kendin için, tadını çıkar.",
+      "Paydos! Şimdi sırada\nsen ve kanepe romantizmi.",
+      "Çıkış zili çaldı, sen\nbugünün gizli kahramanı.",
+      "Eve giderken bile güzel\nolan kişi sen, trafik şahit.",
+      "Akşam trafiği sen camdan\nbakınca sinema gibi.",
+      "Yorucu bir gündü ama sen\nyine de en iyisiydi.",
+      "Şimdiye dek çalışan sen,\nbugünü de rahat geçirir.",
+      "Emek boşa gitmez; sen\nhakkını verdiğin için rahat ol.",
+      "Heyecanlandıysan normal,\nsen zaten hazır olan taraf.",
+      "Bir not sen kadar\nbüyük olamaz, boş ver.",
+      "Alın teri dökmüş sen\nzaten kazanmış sayılır.",
+      "Sorular sen okuyunca\nkorkup kendini cevaplıyor.",
+      "Derin nefes al, kafanda sen\nolunca ansiklopediye gerek yok.",
+      "Sınavda bol şans, sen zaten\nkalem tutan şampiyon.",
+      "Merak etme, sen sınıfa girince\nsorular kendini çözer.",
+      "Heyecan mı? Olsun,\nsen yine de sınıfın yıldızı.",
+      "Sınav kâğıdı sen eline\nalınca sevinçten kıvranacak.",
+      "Yeteneğini gösterme vakti,\nsen sahnenin yıldızı.",
+      "İK sen kapıdan girince\npiyangoyu kazanmış olacak.",
+      "Tecrübe ve heves sen\nanlatınca film müziği oluyor.",
+      "Heyecan normal; sen zaten\nodaya ışık getiren biri.",
+      "Özgüvenle gir; sen\nolunca CV bile ikinci planda.",
+      "Hikâyeni anlat, sen anlatınca\ndizi bile sönük kalır.",
+      "Mülakat bir tanışma; sen\nrahat ol, karşıdakiler heyecanlı.",
+      "Şirket sen alınmazsa\nzarar eder, bunu bil.",
+      "Parlayan CV değil,\nsen baştan aşağı referans.",
+      "Kapıdan sen girdiğin\nanda işe alım bitti.",
+      "İlk izlenim sen olunca\nkalan kısım formalite.",
+      "Bugünkü sen, ışık hızında\nparlamaya devam.",
+      "Olduğun hâl yeter;\nsen en çekici versiyon.",
+      "Yanında sen olan herkes\npiyangodan çıkmış gibi.",
+      "Özgüvenli sen\nher kareye sığmaz.",
+      "Bugün sen gülümseyince\nsilahsız kalıyoruz.",
+      "Kendin olman yeter,\nsen zaten tam bir marka.",
+      "Çekiciliğin gizlenmez,\nsen yürüyünce herkes fark eder.",
+      "Bugün randevu mu? Kapıdan sen girince\nkarşıdakinin kalbi göğüs kafesinden fırlar.",
+      "Karşında sen olan kişi\npiyango vurmuş.",
+      "Kombin kusursuz; sen\nkapak çekimine çıkabilir.",
+      "Gelişin herkesi etkiler,\nsen girince âşık olunmaz mı?",
+      "Daha buluşma yokken sen\no kadar şık ki karşıdaki ne yapsın?",
+      "Hep yanındayım; sen yeter ki\nbir adım at.",
+      "Küçük adım büyük yolculuk,\nbaşlayan sen olunca tamam.",
+      "Vazgeçme, hayallerin\nsen peşinden koşunca gerçek olur.",
+      "Bugünün emeği yarının\nzaferi, sen de baş mimar.",
+      "Dünyayı değiştirecek olan\nsen, hazırlıklı ol.",
+      "Başarısızlık da bir ders;\nsen denemeye devam, kupa sırada.",
+      "Potansiyelin sınırsız;\nsen daha vitesin ikincisinde.",
+      "Bugün de en iyisini yap;\nsen yaptıkça dünya alkışlar.",
+      "Çalışırken sen\nbirilerinin motivasyon videosu.",
+      "Her şey yoluna girer,\nsen yeter ki yolda kal.",
+      "Bırakma, sen zaten\nher şeyi başaran tip.",
+      "Haydi bugün de! sen\nbaşlasan dağlar yer değiştirir.",
+      "Emeğini görenler sen\nçalıştıkça alkışlıyor.",
+      "Değerli olmak için bir şey\nyapma, sen zaten kıymetli.",
+      "Olduğun gibi kusursuz; sen\nfiltreye bile ihtiyaç duymaz.",
+      "Varlığın bile özel;\nsen bir limited edition.",
+      "Özgüvenle yürü; sen\nbaştan beri bir harika.",
+      "Sandığından çok daha\nsağlam biri: sen.",
+      "Tarzın parlıyor; sen\nbenzeri olmayan bir versiyon.",
+      "Kendine güven, çünkü sen\nbaşlı başına kanıt.",
+      "Başlı başına eksiksiz,\nsen tam bir bütün.",
+      "Özgüven dolu sen,\ndünyanın en havalı insanı.",
+      "Aklından geçenden büyük bir\nhikâye: sen.",
+      "Zaten çok iyi gidiyorsun;\nsen sakin ol, devam.",
+      "Çekiciliğini görmeyen birinin\ngözü yok, sen sorunsuz.",
+      "Bugün sen tatilde,\ndünya beklesin.",
+      "Dinlenmek de bir hak;\nsen şimdi molada.",
+      "Hiçbir şey yapmamak da\nsen yapınca prestij.",
+      "Önce gönlün; sen\nmutluysan her şey tamam.",
+      "Yavaş git, sen\nkendi hızında bile jet.",
+      "Bugün kendine zaman ayır;\nsen buna fazlasıyla layık.",
+      "Dinlenmek de üretken;\nsen yatarken bile verimli.",
+      "Mola vermek hakkın;\nsen şimdi battaniyeye teslim.",
+      "İyileşen sen\nbir başka güzel.",
+      "Kendin için zaman\nharcayan sen kârda.",
+      "Rahat rahat yatan sen\nyine de parlak.",
+      "Çay, battaniye ve sen:\nhayatın en güzel üçlüsü.",
+      "Kusursuzsun ama bir şey eksik:\nbende akıl bırakmamışsın.",
+      "Sicilin kabarık: sen\nkalp hırsızlığından aranıyor.",
+      "Güneş sen çıkınca\nutanıp bulutların arkasına saklandı.",
+      "Kalbim sen girince \"sol\"\ntarafta bir konser veriyor.",
+      "Hipodroma gitme; sen girince\nyarışı bırakıp atlar alkışlar.",
+      "Dönüp dönüp bakmaktan sen\nyüzünden boynum zürafa oldu.",
+      "Hep süper yakıt alırım;\nsen benim kurşunsuzum, depo dolu.",
+      "Hava bulutlandı sen yüzünden:\nkalbimde şimşekler çakıyor.",
+      "Neye güvenip bu kadar güzel\nolunuyor? Gel de sen söyle.",
+      "Bir şey eksik gibiydi, sonra\nsen geldin, tablo bitti.",
+      "Bavulunu bırak, sen zaten\nher yere süs gibi uyuyorsun.",
+      "Kusurun bulunursa haber ver;\nsen \"kusur\" kelimesini sildi.",
+      "Güzellik fotoşop mu? Ne münasebet, sen\nkameraya bile meydan okuyor.",
+      "Güzelliğin çeviri gerektirmiyor;\nsen evrensel bir dil.",
+      "Memleketin neresi? Bence sen\ncennet vilayetinden gelmişsin.",
+      "Yüz hatların benim geleceğimden\ndaha net; sen resmen kalem iş.",
+      "Bir kez bakan hep döner:\nsen resmen İstanbul.",
+      "Acilen koruma altına alınmalı:\nsen kültür varlığı sayılır.",
+      "Duydum ki uyurken bile\nışıl ışılmış, sen gece lambası.",
+      "Niye çalışıyorsun? Bence sen zaten\nyüzünle fazla mesai yapıyor.",
+      "Aşkı bırakmak istedim, kalbim\n\"nasıl yapılıyor?\" dedi. Hep sen yüzünden.",
+      "Yüzün millî hazine; sen yarın\nmüzede sergilenecek, bilet aldım.",
+      "Ödül törenine gitme; sen\ngirince büyük ödül hep sen.",
+      "Çekim mi var yoksa sen\nzaten yürüyen bir kapak mı?",
+      "Kalbimin liste birincisi sen,\nbaşka şarkı dinlemiyorum.",
+      "İmza günü ne zaman? Bir de sen\nimzalarsan çerçeveletirim.",
+      "Sahneye çıkma vakti, sen\nkalbimde çoktan ana vokal.",
+      "Liste lideri tebrikler; sen\nzaten her gün zirvedesin.",
+      "Fotoğraf molası: sen\nher açıdan çekilmelik.",
+      "Geri dönünce sen kalbimin\nbütün ışıkları yandı.",
+      "Video çekebilir miyim? Çünkü sen\nher saniyesiyle sahne.",
+      "Klipte mi oynuyorsun? Hayatımın\nbaşrolü zaten sen.",
+      "Reality show mu? Yok canım, sen\ngerçek hâlinle bile kurgusuz mükemmel.",
+      "Kadronun merkezi hep sen,\nışıklar yolunu iyi biliyor.",
+      "Yılın yüzü ödülü sen\nkadar kimseye yakışmaz.",
+      "Reklam yüzü müsün? Çünkü sen\ngülünce cüzdan kendiliğinden açılıyor.",
+      "Her ayın kapağı sen olmalı,\ndergiler sırada bekliyor.",
+      "Sahne aurası bu kadar mı olur?\nHele sen sokakta bile konser.",
+      "Koleksiyon yapıyorum: bütün\nkartlarda sen olsan yeter.",
+      "Hayran buluşması ne zaman?\nKeşke her gün sen olsan.",
+      "Dans videosu at lütfen, sen\nher hareketiyle bir sanat.",
+      "Fragman gibisin: sen\ngörününce kalbim \"devam\" diyor.",
+      "Dünya turu yapsan da sen\nkalbimde sabit bilet.",
+      "Albümüme imza at, sen\nkendi başına sınırlı seri.",
+      "Işıklarımı yakıyorum, sen\nsonuna kadar alkışı hak eden.",
+      "Fırladın demek; sen zaten\nhep zirveydin, yeni mi fark ettiler?",
+      "Bilet aramaya gerek yok:\nsen yürüyünce günlük konser.",
+      "Müzik listesi mi? Bence sen\nhayatımın bir numaralı şarkısı.",
+      "Bir bis daha lütfen! Çünkü sen\nbakılmaya doyulmayan bir şarkı.",
+      "Kamera arkasında bile sen\nkusursuz, hiç kare kaçmıyor.",
+      "Favorimi değiştirecektim ama sen\nçıtayı fazlasıyla yükseltti.",
+      "Hayran kulübüne üye oldum:\nsen ömür boyu başkan.",
+      "Favorimi açıklıyorum: o kişi\nsen, tebrikler.",
+      "Tüm ürünleri aldım ama sen\nbaşlı başına koleksiyon parçası.",
+      "Ömür boyu hayranınım,\nsen benim tek sanatçım.",
+      "Çadırımı kurdum, adres\nsen olan her yer.",
+      "Hayran olmaya başladım; sen\nbirinci projem oldu.",
+      "Fotoğrafçın olurum; sen\nher anıyla kare kare efsane.",
+      "Resmiyet bitti, artık sen\nbenim baş kankam.",
+      "Doğum günü ilanı verelim;\nsen her gün kutlanmalı.",
+      "Ömür boyu alkışlarım, sen\nhayran olunası bir insan.",
+      "Kalbim yerinden çıkacak,\nsen yüzünden tam bir konser.",
+      "Dünya güzelleşiyor, hep\nsen göründüğünde.",
+      "Mutluluğumun vitamini sen,\nbir tane yetmiyor.",
+      "Gülünce sen, tüm\nmahalle neşeleniyor.",
+      "Gördüğüm en parlak yıldız\nsen, teleskoba gerek yok.",
+      "Her günüm bir şenlik\nsen olunca.",
+      "Sesin kulağıma gelince bile\nsen bir terapi seansı gibi.",
+      "Rastlantıların en şanslısı:\nsen.",
+      "Bugün gülebiliyorsam sebebi\nsen, teşekkürler.",
+      "Dünyanın en kıymetli\ninsanı sen, kayıtlara geçti.",
+      "Aklıma sen gelince\nyüzüme gülümseme yerleşiyor.",
+      "Gönlümün huzur köşesi\nsen, kapıyı hep açık tut.",
+      "Beraberken zaman nasıl geçiyor?\nHep sen varken saat durur.",
+      "Tanıdığım en harika\ninsan sen, rakibin yok.",
+      "Varlığın yetiyor; sen\nşükran listemin tepesinde.",
+      "Günümün en güzel\nanı: sen göründüğünde.",
+      "Bayram gibi her gün,\nsen olunca.",
+      "Dünya sen yürürken\nbir tık daha parlıyor.",
+      "En güzel hediye sen,\npaket bile yok.",
+      "Evren sen oldukça\ndaha güzel bir yer.",
+      "Bir gün düşünüyorum, sen yok;\nhemen vazgeçiyorum.",
+      "Kalbimin değişmez birincisi\nsen, tebrikler.",
+      "Yanımda sen varken\nher şey mümkün gibi.",
+      "Her gün şükrettiğim\nbir isim var: sen.",
+      "Gülüşün: sen gülünce\ndünya sessizce alkışlıyor.",
+      "Talihimin en büyüğü\nsen, bahtıma yazılmış.",
+      "Düşündükçe sen, günüm\nrenk renk açıyor.",
+      "Gönlümün evi sen,\nkapıyı çalmadan gir.",
+      "Her şey tam yerinde,\nyanımda sen olunca.",
+      "Hayalimdeki tip sen\nçıkınca işler karıştı.",
+      "Kalbimde arıza var; sen\nyaklaşınca alarm veriyor.",
+      "Yürüyen biyografi sen,\ntarih kitapları sırada.",
+      "Cazibene hâlâ direnemiyorum,\nsen bu kadar yasal mı?",
+      "Gözümü ayıramıyorum, sen\nyüzünden göz kası sporu yapıyorum.",
+      "Nabzım her baktığında\nsen yüzünden hızlanıyor.",
+      "Gözlerimin gördüğü en\nefsane kare sen.",
+      "Bayram havasında geçiyor\nher gün, sen yüzünden.",
+      "Yürüyen mucize sen,\nnoter onaylı.",
+      "Dünya sen bakınca\nyavaş çekim oluyor.",
+      "Hayatımın VIP kartı\nsen, ömür boyu geçerli.",
+      "Günün bonusu sen\ngörününce açılıyor.",
+      "Gönlümün özel yayını sen,\nreklam arası yok.",
+      "Dünyayı HD yapan sen,\nayarlara gerek yok.",
+      "Altın vuruşum sen,\nkaçırmıyorum.",
+      "Düşününce sen, yüzüm\notomatik gülücük modunda.",
+      "Kalbimin lüks oteli sen,\nbeş yıldız yetmiyor.",
+      "Her gün bonus gün\nsen yanımdayken.",
+      "Ana etkinliğim sen,\nbilet gerekmiyor.",
+      "Kalbim halay çekiyor\nsen göründüğü an.",
+      "Gözlerimin 4K kalitesi\nsen, diğerleri bulanık.",
+      "Her şey bir başka parlak\nsen olunca.",
+      "Kalbimin VIP localarında\nsadece sen oturuyor.",
+      "Hiçbir gün sıradan değil\nsen sayesinde.",
+      "Joker kartım sen,\nhep kolumda.",
+      "Moral ayarım sen\nolunca yükseltilmiş.",
+      "Şeref köşemin\nbir numaralı sakini sen.",
+      "Renklerin hepsini aldı hayat,\nsen olunca.",
+      "Gözümün ebedî\nbaşrolü sen.",
+      "Saat bile sen geçerken\nyavaştan alıyor.",
+      "Premium üyem sen,\niptal yok."
+    ]
+  },
+  "problem": {
+    "title": "En sert eleştirmenin kim? Yoksa sen misin?",
+    "text": "İşe giderken, mülakattan önce, iş çıkışında kafandaki ses hep söylenir. Günün Pohpohu günde birkaç kez ana ekrandan senin tarafını tutar, hem de biraz abartarak. Kendini gülümserken bulduğun an, özgüvenin de biraz yerine gelir."
+  },
+  "features": [
+    {
+      "title": "Ruh haline uygun pohpoh",
+      "text": "`Sabah`, `İşe Giderken`, `Zor Zamanlar`, `Mülakat Öncesi` ya da `Randevu Öncesi` gibi 14 ruh hali ve durumdan birini seç, uygun pohpoh hemen widget'ta belirsin. Karar veremedin mi? `Rastgele` de var.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Sevdiklerini sakla",
+      "text": "Yıldıza dokunup Favoriler'e kaydet, eskilerine Geçmiş'ten bak. `Bu Pohpohu Kullan`'a dokun, doğrudan widget'a geçsin.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Her gün uğra, sayı büyüsün",
+      "text": "Baktığın her gün serini uzatır. Üst üste 7, 30 ya da 100 güne ve toplamda 50 ile 100 güne ulaştığında başarımların kilidi açılır.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "Üç adımda başla",
+    "items": [
+      {
+        "title": "Ruh halini seç",
+        "text": "`Ruh Hali Seç`'i aç ve şu ana uyana dokun."
+      },
+      {
+        "title": "Widget'ı süsle",
+        "text": "Detaylı Ayarlar'da yazı tipi, yazı rengi, arka plan ve yenileme sıklığını seç."
+      },
+      {
+        "title": "Ana ekrana ekle",
+        "text": "Ana ekrana basılı tut, + simgesine dokun ve Günün Pohpohu'nu bul."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Widget'ı böyle kişiselleştir",
+    "rows": [
+      [
+        "Yazı Tipi",
+        "Futura, Georgia ve Marker Felt dahil 13 seçenek"
+      ],
+      [
+        "Yazı Rengi",
+        "İstediğin herhangi bir renk"
+      ],
+      [
+        "Arka Plan",
+        "İki renkli gradyan ya da hazır arka plan fotoğraflarından biri"
+      ],
+      [
+        "Hizalama",
+        "Sola, ortaya ya da sağa"
+      ],
+      [
+        "Satır Aralığı",
+        "Daha sık ya da daha ferah"
+      ],
+      [
+        "Yenileme Sıklığı",
+        "Her 5, 15 ya da 30 dakikada yeni bir pohpoh"
+      ]
+    ],
+    "note": "Widget boyutunu ana ekrana eklerken seçersin."
+  },
+  "pricing": {
+    "title": "Bir kez al, iş bitsin",
+    "free": {
+      "name": "Uygulama",
+      "items": [
+        "14 ruh haline 281 pohpoh",
+        "Zevkine göre süslenen ana ekran widget'ı",
+        "Favoriler ve Geçmiş",
+        "Seriler ve başarımlar"
+      ]
+    },
+    "pro": {
+      "name": "Geliştiriciye destek ol",
+      "items": [
+        "Küçük, orta ya da büyük bahşiş seç",
+        "Hiçbir şeyin kilidini açmaz. Sadece teşekkür etmenin bir yolu"
+      ],
+      "note": "Yalnızca canın istediğinde."
+    },
+    "note": "Abonelik yok, ek satın alma yok, reklam yok."
+  },
+  "faq": {
+    "title": "Sık sorulan sorular",
+    "items": [
+      {
+        "q": "Widget'ı nasıl eklerim?",
+        "a": "Ana ekranda boş bir yere simgeler titreyene kadar basılı tut, üstteki + simgesine dokun, Günün Pohpohu'nu ara ve bir boyut seç."
+      },
+      {
+        "q": "Sonraki pohpoh nasıl seçiliyor?",
+        "a": "Bir ruh hali seçtiğinde ona uygun pohpoh hemen widget'a gelir. Sonrasında widget, seçtiğin yenileme sıklığında 281 pohpoh arasından rastgele birini gösterir. Uygulamada `Sonraki Pohpoh`'a dokunup kendin de geçebilirsin."
+      },
+      {
+        "q": "Yazı tipini ya da yenileme sıklığını değiştirebilir miyim?",
+        "a": "Evet. Detaylı Ayarlar'da yazı tipini, yazı rengini, arka planı, hizalamayı, satır aralığını ve yenileme sıklığını değiştirebilirsin: 5, 15 ya da 30 dakika."
+      },
+      {
+        "q": "Widget hemen değişmedi.",
+        "a": "Widget'ların ne zaman yeniden çizileceğine iOS karar verir, bu yüzden bazen seçtiğin sıklığın biraz gerisinde kalabilir. Uygulamayı açıp kapat, widget güncellenir."
+      },
+      {
+        "q": "Seri nasıl işliyor?",
+        "a": "Pohpoh'a baktığın her ardışık gün serine bir gün ekler. `Kayıtlarım`'da güncel serini, rekorunu, toplam gün sayını ve başarımlarını görebilirsin."
+      },
+      {
+        "q": "Favorilerim ve geçmişim kayboldu.",
+        "a": "Her şey yalnızca cihazında saklanır, bu yüzden uygulamayı silersen ya da telefon değiştirirsen taşınmaz. Silmediğin halde kaybolduysa bize e-posta at."
+      },
+      {
+        "q": "Verilerim bir yere gönderiliyor mu?",
+        "a": "Hayır. Uygulama kişisel veri toplamaz. Favorilerin ve geçmişin cihazında kalır."
+      },
+      {
+        "q": "Hata bildirmek ya da öneri yapmak istiyorum.",
+        "a": "Doğrudan uygulamadaki `Geliştiriciyle İletişim`'den, e-postayla ya da Instagram'dan @lee25_ios'a DM atarak gönderebilirsin. Görür görmez yanıt veririz."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Bugünden itibaren\nbiri hep senin tarafında",
+    "cta": "App Store'dan indir"
+  },
+  "ui": {
+    "skip": "İçeriğe geç",
+    "languages": "Dil",
+    "privacy": "Gizlilik politikası",
+    "contact": "Soru ya da önerin mi var? {email} adresine yaz."
+  }
+}

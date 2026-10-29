@@ -1,0 +1,467 @@
+{
+  "title": "Dzienna Dawka Peanów: widżet, który chwali Cię bez umiaru",
+  "description": "Widżet na ekranie początkowym z nowym, przesadnym peanem co 5, 15 lub 30 minut. 281 tekstów na każdy nastrój, serie i więcej. Płacisz raz.",
+  "hero": {
+    "headline": "Za każdym razem, gdy bierzesz telefon,\nczeka na Ciebie największy fan",
+    "lead": "Dzienna Dawka Peanów to widżet, który celowo chwali Cię za bardzo. Rano pean na rano, przed rozmową pean na rozmowę. Czcionkę, kolory i tło ustawisz po swojemu.",
+    "cta": "Pobierz z App Store",
+    "note": "Jeden zakup i masz wszystko. Bez subskrypcji i bez reklam."
+  },
+  "demo": {
+    "title": "Odbierz pean od razu",
+    "lead": "Wybierz nastrój, a widżet pokaże pasujący pean. Stuknij Następny pean, żeby wylosować jeden z 281.",
+    "next": "Następny pean",
+    "note": "To prawdziwe teksty z aplikacji. W aplikacji widżet sam zmienia pean co 5, 15 lub 30 minut.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Rano",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "Droga do pracy",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Trudny moment",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Przed rozmową",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Przed randką",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "Droga z pracy",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "Nowy dzień, nowe blaski.\nA największy blask? To ty.",
+      "Słońce już wstało, ale to ty\nrozświetlasz mi poranek.",
+      "Udało się wstać? Brawa!\nBo ty to siła natury.",
+      "Najlepszy poranny widok? Wiadomo:\nty, ty i jeszcze raz ty.",
+      "Dziś na scenie ty,\na reszta świata klaszcze.",
+      "Kawa jeszcze paruje,\na ty już rozgrzewasz cały świat.",
+      "Cukier słodzi kawę,\na ty słodzisz cały dzień.",
+      "Dobre wieści z samego rana:\nty, jak zawsze, w formie.",
+      "Taki urok od samego rana?\nSkandal, ty chodząca urodo!",
+      "Dzień dobry to za mało,\nty zasługujesz na dzień genialny!",
+      "Ledwo oczy otwarte,\na tu ty: widok bez filtra, a jaki!",
+      "Poranny radar wykrył\nnajjaśniejszą osobę w okolicy: ty.",
+      "Dobra robota dziś, ty maszyno!\nZasłużony odpoczynek czeka.",
+      "Koniec dnia, a ty\nnadal prezentujesz się świetnie.",
+      "Cały dzień na pełnych obrotach.\nCo za wzór wytrwałości, ty!",
+      "Nogi odmawiają posłuszeństwa,\nale ty i tak zasługujesz na medal.",
+      "Dzień był udany z jednego powodu:\nty.",
+      "Dzień zaliczony na szóstkę,\nty zresztą też.",
+      "Gwiazdy na niebie są ładne,\nale ty świecisz mocniej.",
+      "Wieczór, a ty ciągle jak z okładki.\nJak ty to robisz?",
+      "Dobranoc, ty promyczku.\nJutro znowu świecimy!",
+      "Świat dzisiaj jaśniał,\ni wiemy, kto za to odpowiada: ty.",
+      "Legenda w dzień, legenda w nocy,\nty zawsze na posterunku.",
+      "Zdarzają się gorsze dni,\nale ty i tak jesteś w porządku.",
+      "Teraz jest ciężko, ale ty\nto kawał twardego orzecha.",
+      "Perfekcja jest przereklamowana,\nbo ty w wersji oryginalnej to hit.",
+      "Zwolnij, jeśli musisz.\nTo twoje tempo i ty tu rządzisz.",
+      "Masz w sobie więcej siły,\nniż ty przypuszczasz.",
+      "To też minie,\na ty zostaniesz w świetnej formie.",
+      "Humor w dół, ale ty\nnadal jesteś na topie.",
+      "Wolno się smucić i wolno się śmiać,\nty i tak jesteś wspaniałym człowiekiem.",
+      "Z presji rodzi się diament,\na ty jesteś już brylantem.",
+      "Smutek przemija, a ty\nzostajesz moim ulubionym lekarstwem.",
+      "Gorszy dzień? Pamiętaj:\nty to najcenniejszy skarb w okolicy.",
+      "Nawet we łzach ty wyglądasz uroczo.\nI co ty na to?",
+      "Gorsze chwile mijają, a ty\njesteś cudem samym w sobie.",
+      "Dziś ciężko, ale ty\nbez wątpienia dasz radę!",
+      "W trudnej chwili wychodzi\nprawdziwy ty: bohater.",
+      "Nie poddawaj się,\nbo ty masz w sobie siłę lwa.",
+      "Przetrwać trudny czas?\nTo ty potrafisz, brawo!",
+      "Dzisiejsze zmartwienie to jutrzejszy trening,\na ty już jesteś w formie.",
+      "Wytrzymasz więcej,\nniż ty sądzisz.",
+      "Ten kryzys wkrótce będzie anegdotą,\na ty będziesz jej bohaterem.",
+      "Ciężko? Wiem. Ale ty\nbłyszczysz mimo wszystko.",
+      "Ciężko? Fakt. A jednak ty\nnadal wyglądasz jak marzenie.",
+      "To, że ty trwasz,\nkomuś daje nadzieję.",
+      "Ledwo żyjemy, ale ty\nnadal wyglądasz jak z reklamy.",
+      "Dziś też dasz radę,\nbo ty zawsze potrafisz.",
+      "Wierzę w twoje umiejętności,\nbo ty dziś zrobisz coś wielkiego.",
+      "Przygotowanie masz za sobą,\nwięc ty jesteś w połowie drogi.",
+      "Zadania na dziś? Pestka,\nbo ty to po prostu klasa.",
+      "Zapał to twój znak firmowy,\ni ty rozpalisz cały dzień.",
+      "Do boju! Dziś ty\nrządzisz sceną.",
+      "Zanim zaczniesz pracę,\nty już wyglądasz jak profesjonalista.",
+      "Praca cię nie kręci? Spoko,\nty i tak masz urodę na etacie.",
+      "Wygląd do pracy: miażdżący.\nBiuro lśni, bo ty tam jesteś.",
+      "Praca w twoim wykonaniu\nto sztuka, ty mistrzostwo.",
+      "Nawet nie zaczęliśmy pracy,\na ty już jesteś ideałem.",
+      "Trening dopiero przed tobą,\nale ty już wyglądasz jak mistrz.",
+      "Dbasz o zdrowie,\nty jesteś wzorem dla innych.",
+      "Twoje ciało to twoja forteca,\na ty jesteś jej szefem.",
+      "Samo ruszenie na trening to sukces,\ni to ty jesteś jego autorem.",
+      "Pot na czole, blask w oczach,\nty to widok jak z marzeń.",
+      "Zdrowie jest najważniejsze,\na ty dbasz o nie jak mistrz.",
+      "Znajdujesz czas dla siebie,\nbo ty wiesz, co jest ważne.",
+      "W dresie ty wyglądasz\njak z okładki magazynu.",
+      "Siłownia dziś zyskała gwiazdę:\nty.",
+      "Świecisz nawet na bieżni,\njak ty to robisz?",
+      "Piękny w pocie? Nie wierzę,\nale ty to udowadniasz co dzień.",
+      "W drodze do pracy ty\nwyglądasz jak profesjonalista.",
+      "Od rana w ruchu, a ty\nto maszyna sukcesu.",
+      "Do pracy jedziesz,\na ty to od rana zwycięzca.",
+      "Każdy twój krok ma sens,\na ty idziesz jak po czerwonym dywanie.",
+      "Korki, tłok i spóźnienia,\nale ty to sam urok.",
+      "Odpowiedzialność to twoje drugie imię,\nty to chodząca solidność.",
+      "Metro? Wybieg modowy,\nskoro ty w nim jedziesz.",
+      "Nawet w autobusie świecisz jak reflektor,\nty to zjawisko.",
+      "Kiedy ty idziesz do pracy,\nporanek robi się piękniejszy.",
+      "Idziesz i już jest pięknie,\nty to człowiek-zjawisko.",
+      "Dobra robota dziś, ty ikono!\nWracaj do domu i odpoczywaj.",
+      "Z biura wychodzi ktoś, kto\nzasłużył na medal: ty.",
+      "Droga do domu to twój wybieg,\nty zasługujesz na brawa.",
+      "Dzień w pracy zaliczony,\na ty zasługujesz na owacje.",
+      "Reszta dnia należy do ciebie,\nwięc ty tu dziś rządzisz.",
+      "Po pracy zrób coś dla siebie,\nbo ty na to zasługujesz.",
+      "Koniec pracy, a ty nadal\nwyglądasz jak nówka sztuka.",
+      "Nawet chodnik ma dziś dobry dzień,\nbo ty po nim wracasz.",
+      "Po całym dniu ty ciągle w formie?\nSzacunek, szefie.",
+      "Dzień był ciężki, ale ty\nwciąż jesteś w czołówce.",
+      "Nauka za tobą,\nwięc ty dasz radę z klasą.",
+      "Wysiłek się opłaca,\ni ty jesteś na to dowodem.",
+      "Stres jest normalny,\nale ty masz to w małym palcu.",
+      "Egzamin nie ocenia twojej wartości,\nbo ty wykraczasz poza skalę.",
+      "Wszystko, co trzeba, już zrobione,\na ty możesz odetchnąć.",
+      "Poradzisz sobie,\nbo ty to materiał na piątkę.",
+      "Wdech, wydech i do dzieła,\nty znasz to na pamięć.",
+      "Powodzenia na egzaminie,\nbo ty to czysta wiedza.",
+      "Bez paniki, ty zaznaczysz\nsame dobre odpowiedzi.",
+      "Stres jest, ale\nty i tak jesteś najlepszą wersją siebie.",
+      "Nawet arkusz egzaminacyjny zachwyci się,\ngdy zobaczy, że ty go rozwiązujesz.",
+      "Czas na pokaz prawdziwej klasy,\nczyli ty w akcji.",
+      "Rekruter ma dziś dzień szczęścia,\nbo trafił na ciebie, ty talencie.",
+      "Doświadczenie plus pasja\nrówna się ty w pełnym blasku.",
+      "Trema to normalna sprawa,\na ty i tak jesteś rewelacją.",
+      "Wejdź z podniesioną głową,\nbo ty to materiał na etat.",
+      "Opowiedz swoją historię z dumą,\nty to potrafisz.",
+      "To rozmowa, nie przesłuchanie,\nwyluzuj, ty to po prostu klasa.",
+      "Nie zatrudnią? To strata firmy,\nbo ty i tak lśnisz.",
+      "CV jest efektowne, ale\nty to dopiero osobowość.",
+      "Od progu sali ty już\nwyglądasz jak ktoś zatrudniony.",
+      "Pierwsze wrażenie to ty,\ni pół pracy już za tobą.",
+      "Dzisiaj ty\nświecisz najmocniej.",
+      "Urok naturalny w wersji deluxe?\nTo właśnie ty.",
+      "Ludzie obok ciebie to szczęściarze,\nbo ty to skarb.",
+      "Pewność siebie ci służy,\nty w niej to dopiero widok.",
+      "Twój uśmiech to broń,\nktórą ty nosisz bez pozwolenia.",
+      "Wystarczy być sobą,\na ty to już szczyt możliwości.",
+      "Twojego uroku nie ukryjesz,\nbo ty to latarnia morska.",
+      "Dziś randka? Druga osoba\ndostanie zawału, ty to bomba.",
+      "Kto idzie na randkę z tobą,\nten ma farta, ty to jackpot.",
+      "Strój na randkę idealny,\nty to okładka magazynu.",
+      "Spojrzy na ciebie i się zakocha,\nbo ty to nokaut.",
+      "Przed randką ty wyglądasz jak z filmu.\nCo teraz z sercem tej drugiej osoby?",
+      "Dasz radę, a ty\nmasz we mnie największego kibica.",
+      "Mały krok to początek wielkiej drogi,\nty to wiesz.",
+      "Nie odpuszczaj, bo ty to\nosoba, której marzenia się spełniają.",
+      "Dzisiejsza praca buduje jutrzejszy sukces,\na ty budujesz bez przerwy.",
+      "Twoja pasja zmieni świat,\nbo ty to potęga.",
+      "Potknięcie to nie klęska,\nty i tak lecisz po wygraną.",
+      "Twoje możliwości są bez końca,\na ty dopiero się rozkręcasz.",
+      "Dziś bierzemy się za to,\nco ty umiesz najlepiej: błyszczeć.",
+      "Ktoś dziś patrzy na twój wysiłek\ni dostaje skrzydeł, ty inspiracjo.",
+      "Wszystko się ułoży,\nskoro ty masz to w planach.",
+      "Nie rezygnuj,\nbo ty to materiał na bohatera.",
+      "Do boju, ty\nogarniesz to na luzie.",
+      "Każdy, kto zna twój wysiłek, klaszcze ci dziś.\nTo ty tu jesteś gwiazdą.",
+      "Wartość? Ogromna,\nbo ty to rarytas.",
+      "Doskonały bez poprawek,\nbo ty to oryginał.",
+      "Samo to, że ty istniejesz,\nto już święto.",
+      "Śmiało naprzód, bo ty\nto jeden z wielkich.",
+      "Siła? Masz jej więcej, niż myślisz,\nbo ty to prawdziwy kombajn.",
+      "Twój charakter\nto ty w najlepszym wydaniu.",
+      "Zaufaj sobie, bo\nty jesteś najlepszym doradcą.",
+      "Ideał nie istnieje,\nale ty jesteś najbliżej.",
+      "Pewności siebie ci nie brakuje,\nty to szczyt kategorii.",
+      "Dużo więcej w tobie mocy,\nniż ty to sobie wyobrażasz.",
+      "Idzie ci świetnie,\na ty jeszcze nie masz pojęcia.",
+      "Kto nie docenia ciebie,\nten zgubił okulary. A ty dalej lśnisz.",
+      "Dzisiaj sobie odpuść,\nbo ty zasługujesz na wolne.",
+      "Odpoczynek ci się należy,\nty to wiesz.",
+      "Nic nie robić też można,\nty to robisz z klasą.",
+      "Najważniejszy jest twój spokój,\na ty jesteś jego strażnikiem.",
+      "Powoli, we własnym tempie,\nty ustalasz zasady.",
+      "Dziś na szczycie zadań:\nty i odpoczynek.",
+      "Odpoczynek to też praca,\na ty robisz to wzorowo.",
+      "Masz prawo odpocząć,\nty to wiesz, więc leż.",
+      "Odpoczywasz? Nawet wtedy ty\nwyglądasz zjawiskowo.",
+      "Dziś dogadzaj sobie,\nbo ty to numer jeden.",
+      "Nawet na kanapie świecisz,\nty to gwiazda domowego zacisza.",
+      "Nawet w trybie relaksu\nty to najpiękniejsza wersja siebie.",
+      "Szukam wad, a ty\nbez żadnej. Skandal.",
+      "Test osobowości wyszedł jasno:\nty to słodziak z dyplomem.",
+      "Ilu ludzi uważa, że ty to słodziak?\nNie wiem, zabrakło palców.",
+      "Skala ma siedem nut,\nale ty to ósmy cud.",
+      "Gdy ty wchodzisz na tor,\nkonie stają z wrażenia.",
+      "Prognoza: przelotne zauroczenie,\nwinowajca: ty.",
+      "Jedno paliwo mnie napędza:\nty, na sto procent.",
+      "Przy tobie serce bije jak burza,\na ty to zjawisko naturalne.",
+      "W co ty wierzysz,\nże wyglądasz tak dobrze?",
+      "Brakuje czegoś? Nie, ty to\nkompletny zestaw.",
+      "Zostaw ten bagaż, ty\nwejdź lekko do mojego serca.",
+      "Do ideału nic ci nie brakuje,\nbo ty to właśnie ideał.",
+      "Taka uroda? To pewnie filtr!\nNie, ty tak naprawdę.",
+      "Język obcy? Zbędny,\nbo ty to słodkość w każdym języku.",
+      "Mówią, że ty masz korzenie w niebie.\nPolska plus niebo.",
+      "Twoje rysy są wyraźniejsze\nniż moje plany, ty rzeźbo.",
+      "Jak Kraków, ty też\nzachwycasz od pierwszego wejrzenia.",
+      "Klasa? Powiedzmy: ty\nto liga mistrzów.",
+      "Podobno ty zasypiasz w otoczeniu komplementów.\nSłusznie!",
+      "Po co ty pracujesz?\nUroda już robi nadgodziny.",
+      "Przestań mi się podobać!\n- Ale jak?\n- No właśnie, ty nie umiesz.",
+      "Taki skarb narodowy jak ty\nmuzeum już szykuje gablotę.",
+      "Nie chodź na galę nagród,\nbo ty zgarniesz wszystko.",
+      "Sesja zdjęciowa? A może ty\njesteś po prostu chodzącą okładką?",
+      "Wiesz, że ty jesteś idolem?\nW rankingu mojego serca numer jeden.",
+      "Zorganizuj spotkanie z autografami,\nbo ty zasługujesz na kolejkę fanów.",
+      "Zadebiutuj, bo ty\ni tak stoisz w moim sercu na środku sceny.",
+      "Gratulacje pierwszego miejsca!\nA ty wygrywasz co dzień.",
+      "Fotka z tobą? Pewnie,\nale ty już jesteś jak sesja.",
+      "Comeback roku? To ty,\nbo serce znów bije szybciej.",
+      "Mogę nagrać fancam?\nBo ty to każda klatka hit.",
+      "Teledysk? Nie trzeba,\nbo ty to cały film.",
+      "Gdy ty jesteś w realu,\nkażdy serial przy tobie blednie.",
+      "Centralne miejsce w kadrze?\nDla ciebie, bo ty lśnisz wszędzie.",
+      "Nagrodę za najlepszy wygląd\nodbierasz co roku, ty rekordzisto.",
+      "Gdy ty pojawiasz się w reklamie,\nkażdy chce kupić wszystko.",
+      "Kto na okładce co miesiąc?\nNo ty, bo konkurencja odpada.",
+      "Na scenie ty błyszczysz,\na w tramwaju też.",
+      "Kolekcja z twoją twarzą?\nZbieram całą serię, ty gwiazdo.",
+      "Kiedy spotkanie z fanami?\nJa jestem pierwszy, ty gwiazdo.",
+      "Poproszę choreo,\nbo ty każdym ruchem robisz sztukę.",
+      "Zwiastun hitu? To ty:\nserce skacze od pierwszej sekundy.",
+      "Gdy ty ruszasz w trasę,\nserce drży na pięciu lądach.",
+      "Autograf na płycie poproszę,\nbo ty to edycja limitowana.",
+      "Zapalam lightstick,\nbo ty to gwiazda mojego wieczoru.",
+      "Rozgłos? Spoko, bo ty\nlegenda od zawsze, świat dopiero łapie.",
+      "Wejściówki na koncert są drogie,\nale ty dajesz show za darmo.",
+      "Nawet lista przebojów\nwie, że ty to numer jeden.",
+      "Bis! Jeszcze raz,\nbo ty to piosenka na repeat.",
+      "Nawet kadry zza kulis wychodzą ci super,\nty to naturalna gwiazda.",
+      "Muszę zmienić faworyta:\nod dziś to ty.",
+      "Oficjalnie zapisuję się do fanklubu,\nty jesteś prezesem.",
+      "Mój faworyt? Odsłaniam kartę:\nty.",
+      "Najlepszy gadżet w historii\nto ty, wersja limitowana.",
+      "Będę twoim fanem do końca,\nbo ty to ikona stulecia.",
+      "Wybieram na zawsze jedną gwiazdę:\nty.",
+      "Zaczynam fanowanie,\nbo ty to cel na lata.",
+      "Oficjalnie zostaję twoim fotografem,\nbo ty zasługujesz na każdą klatkę.",
+      "Złota godzina? To każda,\ngdy ty jesteś obok.",
+      "Billboard urodzinowy dla ciebie?\nBiorę, bo ty świętujesz codziennie.",
+      "Kibicuję ci do końca świata,\nbo ty to największa duma.",
+      "Serce bije szybciej,\nodkąd ty pojawiasz się na horyzoncie.",
+      "Gdy ty jesteś w pobliżu,\nświat robi się piękniejszy.",
+      "Dla mnie ty to witamina\nszczęścia na cały dzień.",
+      "Kiedy ty się śmiejesz,\nja uśmiecham się razem z tobą.",
+      "Wśród milionów gwiazd\nnajjaśniejsza to ty.",
+      "Każdy dzień z tobą to festiwal,\na ty jesteś gwiazdą wieczoru.",
+      "Wystarczy, że usłyszę twój głos,\na ty już poprawiasz mi humor.",
+      "W moim życiu największy fart\nto ty.",
+      "Uśmiecham się dzisiaj,\nbo ty jesteś na świecie.",
+      "Najważniejszy człowiek na świecie\nto ty.",
+      "Na samą myśl o tobie robi się miło,\nty to czysta magia.",
+      "Dla mojej duszy ty\nto kojący spokój.",
+      "Czas z tobą zawsze jest wyjątkowy,\nbo ty to specjalna osoba.",
+      "Wśród wszystkich, których znam,\nty to numer jeden na liście.",
+      "Samo to, że jesteś,\nto już prezent, ty skarbie.",
+      "Najlepszy moment mojego dnia?\nTo ty.",
+      "Dzień wygląda lepiej,\nodkąd ty w nim jesteś.",
+      "Rozjaśniasz wszystko,\nbo ty to żywe słońce.",
+      "Najlepszy prezent od losu?\nOczywiście ty.",
+      "Świat jest piękniejszy,\nbo ty na nim mieszkasz.",
+      "Dzień bez ciebie? Nie dla mnie,\nty to mój tlen.",
+      "W moim sercu numer jeden:\nty. Bez konkurencji.",
+      "Z tobą mogę wszystko,\nbo ty to moja supermoc.",
+      "Codziennie dziękuję losowi,\nże ty istniejesz.",
+      "Ten uśmiech to arcydzieło,\na ty jesteś jego autorem.",
+      "Największe błogosławieństwo\nw moim życiu to ty.",
+      "Gdy ty pojawiasz się w myślach,\ncały dzień robi się lepszy.",
+      "Moje serce czuje się jak w domu,\ngdy ty jesteś blisko.",
+      "Gdy ty jesteś obok,\nwszystko po prostu gra.",
+      "Ideał z moich marzeń?\nTo ty, w wersji deluxe.",
+      "Gdy ty wchodzisz do pokoju,\nserce wywala błąd.",
+      "Jak ty chodzisz,\nhistoria zapisuje nowy rozdział.",
+      "Magnes? To ty:\ntrzymasz mnie przy sobie bez wysiłku.",
+      "Gapię się na ciebie bez przerwy,\ni to ty odpowiadasz za mój kark.",
+      "Gdy ty przechodzisz obok,\npuls skacze jak szalony.",
+      "Dla moich oczu ty\nto sesja okładkowa.",
+      "Odkąd ty jesteś obok,\nkażdy dzień to moje święto.",
+      "Żywy cud?\nTo ty, w pełnej okazałości.",
+      "Gdy ty wchodzisz do pokoju,\nczas zwalnia jak w filmie.",
+      "W moim życiu ty to\nkarta VIP bez limitu.",
+      "Gdy ty jesteś w kadrze,\nreszta dnia to dodatek.",
+      "Dla mojej duszy ty\nto treść premium bez reklam.",
+      "Odkąd ty jesteś w pobliżu,\nświat ma wyższą rozdzielczość.",
+      "Najlepsze chwile dnia\nto te, w których ty się pojawiasz.",
+      "Wystarczy myśl o tobie,\ni uśmiech włącza się sam, bo ty tak działasz.",
+      "Dla mojego serca ty\nto pięciogwiazdkowy hotel.",
+      "Każdy dzień to dzień premium,\ngdy ty jesteś w pobliżu.",
+      "W filmie mojego życia ty\nto główna rola.",
+      "Na twój widok serce tańczy,\ni ty nawet nie musisz grać muzyki.",
+      "4K? Dla moich oczu\nty to jakość ponad skalę.",
+      "Świat lśni kolorami,\nkiedy ty patrzysz w moją stronę.",
+      "Lista VIP w moim sercu\nma jedną osobę: ty.",
+      "Przez ciebie dzień robi się wyjątkowy,\ni ty nawet palcem nie ruszasz.",
+      "Dla mnie ty to\nas w rękawie.",
+      "Kiedy ty się pojawiasz,\nmój nastrój robi aktualizację.",
+      "W moim sercu jest Aleja Sław,\ngdzie pierwsza gwiazda to ty.",
+      "Życie bez ciebie jest czarno-białe,\nale ty dajesz mu pełnię barw.",
+      "Klasyk wszech czasów?\nOczywiście ty.",
+      "Nawet czas robi przerwę,\nżeby popatrzeć, jak ty idziesz.",
+      "Dożywotni karnet na ciebie?\nBiorę, bo ty to najlepsza oferta."
+    ]
+  },
+  "problem": {
+    "title": "Kto jest Twoim najsurowszym krytykiem? Może Ty?",
+    "text": "W drodze do pracy, przed rozmową, w drodze z pracy głos w głowie głównie marudzi. Dzienna Dawka Peanów kilka razy dziennie staje po Twojej stronie prosto z ekranu początkowego, odrobinę bardziej, niż wypada. Gdy tylko się uśmiechniesz, wraca też trochę pewności siebie."
+  },
+  "features": [
+    {
+      "title": "Pean na każdy nastrój",
+      "text": "Wybierz spośród 14 nastrojów i sytuacji, takich jak `Rano`, `Droga do pracy`, `Trudny moment`, `Przed rozmową` czy `Przed randką`, a pasujący pean od razu pojawi się na widżecie. Nie możesz się zdecydować? Jest też `Losowo`.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Zachowaj ulubione",
+      "text": "Stuknij gwiazdkę, żeby zapisać pean w Ulubionych, a wcześniejsze znajdziesz w Historii. Stuknij `Użyj tego peanu`, a od razu trafi na widżet.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Zaglądaj codziennie, a licznik rośnie",
+      "text": "Każdy dzień, w którym zajrzysz, wydłuża Twoją serię. Za 7, 30 i 100 dni z rzędu oraz za 50 i 100 dni łącznie odblokujesz osiągnięcia.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "Zaczynasz w trzech krokach",
+    "items": [
+      {
+        "title": "Wybierz nastrój",
+        "text": "Otwórz `Wybierz nastrój` i stuknij ten, który pasuje."
+      },
+      {
+        "title": "Dopasuj widżet",
+        "text": "W szczegółach wybierz czcionkę, kolor tekstu, tło i odświeżanie."
+      },
+      {
+        "title": "Dodaj go do ekranu początkowego",
+        "text": "Przytrzymaj ekran początkowy, stuknij + i znajdź Dzienną Dawkę Peanów."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Widżet po Twojemu",
+    "rows": [
+      [
+        "Czcionka",
+        "13 czcionek, m.in. Futura, Georgia i Marker Felt"
+      ],
+      [
+        "Kolor tekstu",
+        "Dowolny, jaki lubisz"
+      ],
+      [
+        "Tło",
+        "Gradient z dwóch kolorów albo jedno z wbudowanych zdjęć"
+      ],
+      [
+        "Wyrównanie",
+        "Do lewej, do środka lub do prawej"
+      ],
+      [
+        "Interlinia",
+        "Gęściej albo luźniej"
+      ],
+      [
+        "Odświeżanie co",
+        "Nowy pean co 5, 15 lub 30 minut"
+      ]
+    ],
+    "note": "Rozmiar widżetu wybierasz przy dodawaniu go do ekranu początkowego."
+  },
+  "pricing": {
+    "title": "Kupujesz raz i gotowe",
+    "free": {
+      "name": "Aplikacja",
+      "items": [
+        "281 peanów na 14 nastrojów",
+        "Widżet na ekran początkowy w Twoim stylu",
+        "Ulubione i Historia",
+        "Serie i osiągnięcia"
+      ]
+    },
+    "pro": {
+      "name": "Wesprzyj twórcę",
+      "items": [
+        "Wybierz mały, średni lub duży napiwek",
+        "Niczego nie odblokowuje. To po prostu podziękowanie"
+      ],
+      "note": "Tylko jeśli i kiedy zechcesz."
+    },
+    "note": "Bez subskrypcji, bez dodatkowych zakupów, bez reklam."
+  },
+  "faq": {
+    "title": "Częste pytania",
+    "items": [
+      {
+        "q": "Jak dodać widżet?",
+        "a": "Przytrzymaj puste miejsce na ekranie początkowym, aż ikony zaczną się trząść, stuknij + u góry, wyszukaj Dzienną Dawkę Peanów i wybierz rozmiar."
+      },
+      {
+        "q": "Jak wybierany jest następny pean?",
+        "a": "Gdy wybierzesz nastrój, pean do niego od razu trafia na widżet. Potem widżet w wybranym rytmie pokazuje losowy pean spośród wszystkich 281. W aplikacji możesz też stuknąć `Następny pean` i przełączyć sam."
+      },
+      {
+        "q": "Czy mogę zmienić czcionkę albo odświeżanie?",
+        "a": "Tak. W szczegółach zmienisz czcionkę, kolor tekstu, tło, wyrównanie, interlinię i odświeżanie: co 5, 15 lub 30 minut."
+      },
+      {
+        "q": "Widżet nie zmienił się od razu.",
+        "a": "O tym, kiedy przerysować widżet, decyduje iOS, więc czasem lekko spóźnia się względem wybranego rytmu. Otwórz aplikację i zamknij ją, a widżet się odświeży."
+      },
+      {
+        "q": "Jak działa seria?",
+        "a": "Każdy kolejny dzień, w którym zobaczysz pean, wydłuża serię. W `Moje wyniki` widać bieżącą serię, rekord, łączną liczbę dni i osiągnięcia."
+      },
+      {
+        "q": "Zniknęły mi ulubione i historia.",
+        "a": "Wszystko jest zapisane tylko na Twoim urządzeniu, więc nie przenosi się po usunięciu aplikacji ani zmianie telefonu. Jeśli niczego nie usuwałeś, a i tak zniknęło, napisz do nas maila."
+      },
+      {
+        "q": "Czy moje dane są gdzieś wysyłane?",
+        "a": "Nie. Aplikacja nie zbiera danych osobowych. Ulubione i historia zostają na Twoim urządzeniu."
+      },
+      {
+        "q": "Jak zgłosić błąd lub zaproponować pomysł?",
+        "a": "Prosto przez `Napisz do twórcy` w aplikacji, mailem albo w wiadomości na Instagramie @lee25_ios. Odpiszemy, gdy tylko zobaczymy."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Od dziś ktoś jest\npo Twojej stronie",
+    "cta": "Pobierz z App Store"
+  },
+  "ui": {
+    "skip": "Przejdź do treści",
+    "languages": "Język",
+    "privacy": "Polityka prywatności",
+    "contact": "Pytania albo pomysły? Napisz na {email}."
+  }
+}

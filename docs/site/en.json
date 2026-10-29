@@ -1,0 +1,467 @@
+{
+  "title": "Daily Hype: the widget that hypes you up, a lot",
+  "description": "A home screen widget with a fresh, over-the-top compliment every 5, 15 or 30 minutes. 281 lines for every mood, streaks and more. Pay once.",
+  "hero": {
+    "headline": "Your biggest fan,\nright on your home screen",
+    "lead": "Daily Hype is a widget that compliments you way too much, on purpose. Morning hype in the morning, interview hype before the interview. Style it with your own font, colors and background.",
+    "cta": "Get it on the App Store",
+    "note": "One purchase unlocks everything. No subscription, no ads."
+  },
+  "demo": {
+    "title": "Get hyped right now",
+    "lead": "Pick a mood and the widget shows a line for it. Tap Next Hype for a random one out of all 281.",
+    "next": "Next Hype",
+    "note": "These are the real lines from the app. In the app, the widget moves on by itself every 5, 15 or 30 minutes.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Morning",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "Commute",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Rough Day",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Before an Interview",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Before a Date",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "Heading Home",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "Rise and shine! Honestly,\nyou already look like a main character.",
+      "The sun came up and said,\n\"Wow, you outshine me.\"",
+      "Honestly, you woke up today,\nand that alone deserves a trophy!",
+      "Mornings are better because\nyou are in them. Fact.",
+      "Today, you get\nthe leading role again!",
+      "Eyes open, and you\nalready won the day.",
+      "Forget coffee. Everyone agrees\nyou are the real morning boost.",
+      "Just be you today.\nIt is the best look in town!",
+      "Looking this good before breakfast?\nHonestly, you should be arrested for it.",
+      "Good morning? No no,\nwith you here it's a GREAT morning!",
+      "First thing I see is you.\nMy eyes just hit the jackpot.",
+      "Breaking news this morning:\nyou are the brightest thing out there.",
+      "Long day, huh? Seriously,\nyou handled it like a legend.",
+      "Wrapping up the day,\nand you still look amazing!",
+      "You gave it everything today,\nand we are so proud of you!",
+      "Tired, sure, but look:\nyou survived the whole day!",
+      "Every day with you in it\nis a day worth having.",
+      "Today, you got through in one piece.\nThat is plenty!",
+      "The stars came out tonight\nbut you were already glowing.",
+      "It is evening and you still sparkle.\nHow do you do it all day?",
+      "Thanks for all that hard work.\nLucky me, I know you.",
+      "The whole world looked nicer today\nbecause you were in it.",
+      "Legend at night,\nlegend in daylight. Never a dull you.",
+      "It is okay, rough days happen.\nYou are doing better than you think.",
+      "It is tough right now,\nbut you can absolutely get through it!",
+      "Nobody needs perfect.\nThe real you is already the best!",
+      "Rest if you need to.\nYou can go at the pace you like, you know.",
+      "Plot twist: you are\nway tougher than you think!",
+      "This will pass, and\nyou will be the one still standing.",
+      "Feeling low? Sure, but\nyou still have the same big value.",
+      "Sadness is a part of you too.\nFeel it all, you are allowed.",
+      "Diamonds only form under pressure,\nso yeah, you sparkle hardest now.",
+      "Feeling blue? Look at me.\nI am glued to you, so I am blue too.",
+      "Down in the dumps? Even then\nyou are the most precious thing around.",
+      "You look good sad,\nyou look good crying. What now?",
+      "Even on a bad day,\nyou being here is a small miracle.",
+      "It is hard right now,\nbut you will totally pull through!",
+      "Tough moments are when\nyou show how awesome you are!",
+      "Do not quit. You are\nmade of stronger stuff than you think.",
+      "Hanging in there through all this?\nHonestly, you are a hero.",
+      "Today's struggle is just\nfertilizer, and you are about to bloom.",
+      "You can handle\nway more than you believe!",
+      "Soon this hard stretch will be\na story you tell about how you won.",
+      "Diamonds shine after the cutting,\nso of course you glow right now.",
+      "Having a rough time?\nStill, you are the best-looking thing in the room.",
+      "Somebody out there sees you hang on\nand thinks, I can too.",
+      "Drained and exhausted, and\nyou still look this good? Rude.",
+      "Today you can do it!\nStart like you mean it!",
+      "I believe in you,\nand today will be a good one!",
+      "Look at that, you showed up ready,\nso half the win is done!",
+      "Whatever is on the list today,\nyou will crush it without breaking a sweat.",
+      "Watch out, the fire in you\nwill light up the whole day.",
+      "Go get it! Do it\nthe way only you can!",
+      "Before work even starts,\nyou already look like a pro!",
+      "Do not feel like working?\nWell, you still look like you are working it.",
+      "Commute looks? Unreal.\nThe office glows because you walk in.",
+      "Watching you work\nis basically performance art.",
+      "The day has not even started\nand you are already flawless.",
+      "Working out? Of course,\nyou are already a legend at it.",
+      "Taking care of that health again?\nHonestly, you are impressive.",
+      "Nobody knows that body like you do,\nso trust the expert!",
+      "Just starting a workout?\nHonestly, you should be proud already!",
+      "Sweat looks good on you.\nTruly, absolutely stunning!",
+      "Remember, you\ncome first. Always!",
+      "Some me-time again? Wow,\nyou are on a champion streak!",
+      "Gym clothes on you?\nSomeone get a camera crew.",
+      "The gym just turned into paradise\nbecause you walked in.",
+      "Glowing mid-workout?\nHow do you look this good all the time?",
+      "Someone looks good while sweating?\nYes, you. It is you.",
+      "On the way to work,\nyou look like a total professional!",
+      "Up and moving this early?\nHonestly, you are a machine.",
+      "Off to work again?\nTrust me, you already won today!",
+      "Every single step you take\nmatters, and I mean it!",
+      "Even a commute feels special\nwhen you are on it.",
+      "Showing up for work\nwith heart? Respect to you!",
+      "The subway became a runway\nthe moment you stepped on.",
+      "Glowing on the bus again?\nIs there a shoot, you gorgeous thing?",
+      "Seeing you head to work\nmakes my morning happy.",
+      "Somebody looks great\njust walking, and that somebody is you.",
+      "Today you worked hard!\nNow go home and rest up.",
+      "From behind, you walking out\nlooks pretty legendary!",
+      "Heading home after a long day,\nand you are still the best!",
+      "Another day done and dusted!\nSo proud of you!",
+      "Now it is time for you,\nso go enjoy every minute of it!",
+      "After work, do something\nthat is just for you!",
+      "Off work, finally! Big thanks\nto you for another great day.",
+      "Even the walk home looks good on you.\nYou were great today.",
+      "Seeing you head home\nmakes the whole day feel worth it.",
+      "Rough day? Sure,\nbut you still came out on top!",
+      "You prepared for this,\nso you will do great!",
+      "Hard work never\nlets you down!",
+      "Nervous is fine.\nTruth is, you are more than ready!",
+      "A test cannot decide\nhow awesome you are!",
+      "You did the best you could,\nwhich already counts as a win!",
+      "If anyone can do it,\nyou can, no question!",
+      "Deep breath, and\ntrust what you know!",
+      "Good luck on the test!\nYou studied, you are ready.",
+      "Do not worry. I bet\nyou will get every answer right!",
+      "Feeling jittery?\nWell, you are still the best!",
+      "Even the test paper will see you\nand say, \"wow, finally someone good.\"",
+      "It is time for you\nto show what you are made of!",
+      "The interviewer will feel lucky\nto meet you!",
+      "Watch out, because the story and drive in you\nare about to shine!",
+      "Nervous is okay.\nStill, you are impressive!",
+      "Stand tall! You know\nyou are totally ready!",
+      "Tell them the story of you\nwith pride!",
+      "An interview is just two people chatting,\nso relax and be you.",
+      "If they skip over you,\nthat company just lost big.",
+      "Your resume is not the shiny part,\nyou are the shiny part.",
+      "The moment you walk in,\nyou already got the job.",
+      "With a first impression like you,\nhalf the job is already done!",
+      "Today, you\nare absolutely glowing!",
+      "Just being you\nis the most attractive thing about you!",
+      "Anyone who gets to hang with you\nis seriously lucky!",
+      "Look at you being so confident.\nAbsolutely iconic!",
+      "Today, you can use that smile\nas a secret weapon!",
+      "Exactly as you are,\nyou are the best!",
+      "Sorry, but you cannot hide\nthat charm, so do not try!",
+      "A date today? Whoever it is,\nI think you will make their heart drop.",
+      "Whoever gets to meet you\nhit the jackpot.",
+      "That date outfit is perfect.\nHonestly, you could be on a magazine cover!",
+      "Honestly, one look at you\nand anyone would fall in love.",
+      "Not even on the date yet and you look this good?\nThink of their poor heart!",
+      "You can do this!\nI am always cheering for you!",
+      "Even small steps from you\nare the start of something huge!",
+      "Do not give up.\nWe know you will reach that dream!",
+      "Today's effort from you is\nbuilding tomorrow's win!",
+      "The fire inside you\nis going to change the world!",
+      "Failing is just practice for winning!\nKeep going, you!",
+      "Everyone agrees: you have\ncompletely unlimited potential!",
+      "Give today\neverything you have!",
+      "Watching you try hard\nmotivates a lot of people, you know.",
+      "Everything will work out for you.\nSeriously, I mean it!",
+      "Do not quit. You are\nan amazing person and you know it.",
+      "Go get them today!\nSeriously, you have totally got this!",
+      "Anyone who sees how hard you work\nwill be rooting for you.",
+      "Say it with me: you are more than enough\nand worth every bit of hype!",
+      "Just as you are,\nyou are perfect!",
+      "Fun fact: you simply existing\nis already special!",
+      "Hold that head high!\nTruth is, you are amazing!",
+      "Surprise: you are\nmuch stronger than you think!",
+      "What makes you\nunique is what makes you shine!",
+      "Believe in you. I do,\nbecause you are the real deal!",
+      "Honestly, you are\nperfect just as you are.",
+      "All that confidence?\nHonestly, you look incredible in it!",
+      "You are far more\nawesome than you think credit for!",
+      "Truth is, you are\nalready doing great.",
+      "Anyone who cannot see how charming you are\nneeds new glasses.",
+      "Today, let it all go,\nbecause you deserve to just rest.",
+      "Even you\nneed a break sometimes.",
+      "Doing nothing at all?\nIt is a fine plan, and you can own it.",
+      "How you feel inside\nis what matters most.",
+      "Go slow. Take it\nat the speed you like.",
+      "Today, take some time\nthat belongs to you.",
+      "Rest is productive too,\nand you are the proof!",
+      "Resting is a right, and you have it.\nTake it easy today, you deserve it.",
+      "Look at you recharging.\nEven that looks beautiful.",
+      "Spend some time on you today.\nNo guilt allowed!",
+      "Even while lounging,\nyou glow like a star.",
+      "Chilling at home? Even so,\nyou still look like a million bucks.",
+      "You are perfect, but I found\none small flaw: you have a hole-in-one on my heart.",
+      "Your personality test says\nyou are 100% adorable. Case closed.",
+      "They said, \"hands up if you think you are cute\"\nand the whole planet raised both hands.",
+      "If I rated you from do to ti,\nI would run out of notes. Off the scale!",
+      "Do not enter any beauty contest, you.\nThe others would just quit.",
+      "Each time you looked great, I clapped my hands.\nNow they hurt, but I would not stop.",
+      "There is only one fuel I ever put\nin my tank: you, always you.",
+      "I think it is going to rain,\nbecause you are a total storm of cute.",
+      "Do you have a religion?\nBecause you look like a miracle.",
+      "Everything is great, but something seems missing.\nOh wait, it was you.",
+      "Can you put that charm down for a second?\nSome of us need to function.",
+      "I feel a wall in you.\nA wall of pure perfection.",
+      "Is the beauty a bit overhyped?\nNope. Honestly, you are the real thing.",
+      "You say you are bad at math?\nWell, you still add up to everything.",
+      "Are you part angel?\nBecause you look heaven-sent.",
+      "Did you know those features are\nsharper than my future plans?",
+      "Honestly, you are a gift\nthat keeps on giving to my smile.",
+      "Fact: you are a landmark.\nSomeone should put up a sign.",
+      "They say you sleep with three pillows?\nWell, that is how fluffy the fan club is.",
+      "Why are you working?\nYour looks already do overtime.",
+      "\"Stop liking me.\" \"What?\"\n\"I said stop.\" \"How do I even do that?\"",
+      "Face this rare? Sorry, you\nbelong in a museum.",
+      "Do not go to the awards show.\nThe grand prize is already you.",
+      "Are you doing a photoshoot,\nor are you just a walking one?",
+      "Truth is, you are an idol,\nthe number one star in my heart.",
+      "Please host a signing event.\nI want an autograph from you every day.",
+      "Just debut already.\nTruth is, you are the center of my heart.",
+      "Congrats on the top chart spot.\nLooks like you win it every day anyway.",
+      "One photo op, please.\nI could take a picture of you daily.",
+      "A new comeback? Wow, you just\nbrought my heart back to life.",
+      "Can I film a fancam of you?\nEvery moment is a highlight reel.",
+      "Starring in a music video?\nWell, you already star in my whole life.",
+      "Are you filming a reality show?\nThe real you is better than any script.",
+      "You are the center of the group, right?\nBecause you shine everywhere you go.",
+      "Seriously, you need to win Face of the Year.\nIt is not even close.",
+      "Are you modeling for an ad?\nOne look at you and I want to buy everything.",
+      "Look, you must be a magazine cover star.\nThat face belongs on every issue.",
+      "That stage charisma is real?\nEven you doing errands looks like a show.",
+      "Want to trade photocards?\nI only collect the full set of you.",
+      "When is the fan meeting?\nI would like to see you every day.",
+      "Post the dance video, please.\nEvery move you make is art.",
+      "Watching you is like a teaser trailer.\nI get excited every single time.",
+      "Going on a world tour?\nFun fact: you already shook my heart worldwide.",
+      "Sign my album, please.\nFact: you are a limited edition.",
+      "I am turning on my light stick.\nI will cheer for you for life.",
+      "Admit it, you blew up overnight?\nYou were a legend way before that.",
+      "I need concert tickets.\nWatching you is my daily live show.",
+      "Did you hit number one on the charts?\nYou are the song stuck in my head forever.",
+      "One more encore, please.\nI can never see enough of you.",
+      "Even you in the behind-the-scenes shots? Perfect.\nNo off moments, only legend.",
+      "I have to change my favorite.\nI cannot look at anyone but you.",
+      "I just became a fan.\nI will stan you forever.",
+      "Revealing my favorite:\nit is you, always you.",
+      "I bought all the merch.\nReal talk: you are the merch. Rare and mine.",
+      "I am a fan for life.\nFact: you are my forever artist.",
+      "Planted my flag.\nNo doubt, you are my number one.",
+      "I am starting my fandom era.\nAll in on you.",
+      "I will be the fan photographer.\nI want to catch every moment of you.",
+      "It is a free-for-all of praise time.\nEvery minute with you is golden.",
+      "I will buy a birthday billboard.\nI wish every day were a birthday for you.",
+      "Cheering for you for life.\nBeing a fan is my proudest thing.",
+      "My heart is going\nthump-thump because of you.",
+      "Everything looks lovely\nwhenever I look at you.",
+      "Real talk: you are the vitamin\nmy happiness runs on.",
+      "When you smile,\nI end up smiling too.",
+      "No doubt, you are the brightest star\nI have ever seen.",
+      "Every day with you\nis a festival in my heart.",
+      "Even hearing you talk\nmakes my mood better.",
+      "Honestly, you are the best luck\nI ever had in life.",
+      "Because of you,\nI can smile again today.",
+      "Fact: you are the most precious\nperson in the world.",
+      "Thinking of you\nmakes me smile on its own.",
+      "Truth is, you are the calm\nin my heart.",
+      "Time spent with you\nis always special.",
+      "Seriously, you are the coolest\nperson I know.",
+      "Just having you around\nis reason enough to be grateful.",
+      "Look, you are the highlight\nof my day.",
+      "Every day feels special\nthanks to you.",
+      "When I look at you,\nthe world gets brighter.",
+      "Admit it, you are the best gift\nlife ever gave me.",
+      "The world is prettier\nbecause you exist.",
+      "A day without you?\nI cannot even picture it.",
+      "Real talk: you are forever number one\nin my heart.",
+      "With you around,\nI feel like I can do anything.",
+      "No doubt, you are the one I am\nthankful for every day.",
+      "Nothing in the world\nbeats it when you smile.",
+      "Honestly, you are the biggest blessing\nin my life.",
+      "Thinking about you\nmakes the whole day happy.",
+      "Fact: you are the home\nof my heart.",
+      "When you are here,\neverything is just perfect.",
+      "Truth is, you are literally\nthe person I dreamed of.",
+      "Seeing you makes me think\nmy heart is broken. It is racing!",
+      "Seriously, you are a walking history book.\nPure legend material.",
+      "I would happily keep falling\nfor the charm of you.",
+      "I stared at you so long\nI might need a neck brace.",
+      "Every time I see you,\nmy heart rate goes up.",
+      "Look, you are a legendary\nphotoshoot for my eyes.",
+      "Because of you,\nevery day is favorite day.",
+      "Admit it, you are a living,\nbreathing miracle.",
+      "Whenever I see you,\neverything goes slow motion.",
+      "Real talk: you are the VIP pass\nto my whole life.",
+      "Looking at you is\nthe highlight of my routine.",
+      "No doubt, you are the premium content\nof my heart.",
+      "Because of you,\nthe world looks like HD.",
+      "Honestly, you are the golden hour\nof my life.",
+      "Just thinking of you\nputs a smile on my face.",
+      "Fact: you are the five-star hotel\nof my heart.",
+      "Thanks to you,\nevery day is a treat day.",
+      "Truth is, you are the main event\nof my life.",
+      "When I see you,\nmy heart starts dancing.",
+      "Seriously, you are the 4K quality\nof my view.",
+      "Whenever I see you,\neverything looks brighter.",
+      "Look, you are the VIP\nof my heart.",
+      "Because of you,\nthe day turns special.",
+      "Admit it, you are the ace\nup my sleeve.",
+      "Just thinking of you\nupgrades my whole mood.",
+      "Real talk: you are the first one\nin my hall of fame.",
+      "Thanks to you,\nlife is in full color.",
+      "No doubt, you are the all-time\nlegend of my eyes.",
+      "Whenever I see you,\nit feels like a slow-motion replay.",
+      "Honestly, you are the premium pass\nto my life."
+    ]
+  },
+  "problem": {
+    "title": "Who's the harshest critic you know? Is it you?",
+    "text": "On the commute, before the interview, on the way home, the voice in your head mostly nags. Daily Hype takes your side from the home screen, several times a day, a little more than seems reasonable. The moment you snort at your phone, some confidence comes back."
+  },
+  "features": [
+    {
+      "title": "Hype that fits the moment",
+      "text": "Choose from 14 moods and situations like `Morning`, `Commute`, `Rough Day`, `Before an Interview` and `Before a Date`, and a matching line lands on your widget right away. Can't decide? There's `Random` too.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Keep the ones you love",
+      "text": "Tap the star to save a line to Favorites, and scroll back through past lines in History. Tap `Use This Hype` and it goes straight onto your widget.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Show up daily and watch it add up",
+      "text": "Every day you check in keeps your streak going. Hit 7, 30 or 100 days in a row, or 50 and 100 days in total, and an achievement unlocks.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "Three steps to start",
+    "items": [
+      {
+        "title": "Pick a mood",
+        "text": "Open `Pick a Mood` and tap whatever fits right now."
+      },
+      {
+        "title": "Style the widget",
+        "text": "Choose a font, text color, background and refresh interval in Advanced Settings."
+      },
+      {
+        "title": "Add it to your home screen",
+        "text": "Touch and hold the home screen, tap +, and find Daily Hype."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Make the widget yours",
+    "rows": [
+      [
+        "Font",
+        "13 options, including Futura, Georgia and Marker Felt"
+      ],
+      [
+        "Text color",
+        "Any color you like"
+      ],
+      [
+        "Background",
+        "A two-color gradient, or one of the built-in photos"
+      ],
+      [
+        "Alignment",
+        "Left, center or right"
+      ],
+      [
+        "Line spacing",
+        "Tighter or looser lines"
+      ],
+      [
+        "Refresh interval",
+        "A new line every 5, 15 or 30 minutes"
+      ]
+    ],
+    "note": "You choose the widget size when you add it to the home screen."
+  },
+  "pricing": {
+    "title": "Buy it once and you're done",
+    "free": {
+      "name": "The app",
+      "items": [
+        "281 lines across 14 moods",
+        "A home screen widget you can style",
+        "Favorites and History",
+        "Streaks and achievements"
+      ]
+    },
+    "pro": {
+      "name": "Support the developer",
+      "items": [
+        "Pick a small, medium or large tip",
+        "It doesn't unlock anything. It's simply a way to say thanks"
+      ],
+      "note": "Only if and when you feel like it."
+    },
+    "note": "No subscription, no extra purchases, no ads."
+  },
+  "faq": {
+    "title": "Questions",
+    "items": [
+      {
+        "q": "How do I add the widget?",
+        "a": "Touch and hold an empty spot on your home screen until the icons jiggle, tap + at the top, search for Daily Hype and pick a size."
+      },
+      {
+        "q": "How is the next line chosen?",
+        "a": "When you pick a mood, a line for that mood goes straight onto your widget. After that, the widget shows a random line from all 281 at the refresh interval you chose. You can also tap `Next Hype` in the app to skip ahead."
+      },
+      {
+        "q": "Can I change the widget's font or refresh interval?",
+        "a": "Yes. In Advanced Settings you can change the font, text color, background, alignment, line spacing and refresh interval. The interval can be 5, 15 or 30 minutes."
+      },
+      {
+        "q": "The widget didn't change right away.",
+        "a": "iOS decides exactly when widgets redraw, so it can run a little behind the interval you picked. Open the app and close it again, and the widget updates."
+      },
+      {
+        "q": "How does the streak work?",
+        "a": "Each day in a row that you check in adds to your streak. `My Stats` shows your current streak, your best, total days and your achievements."
+      },
+      {
+        "q": "My favorites and history are gone.",
+        "a": "Everything is stored only on your device, so it doesn't carry over if you delete the app or switch phones. If you didn't delete the app and it still vanished, please email us."
+      },
+      {
+        "q": "Is any of my data sent anywhere?",
+        "a": "No. The app collects no personal data. Your favorites and history stay on your device."
+      },
+      {
+        "q": "How do I report a bug or suggest something?",
+        "a": "Right from `Contact the Developer` in the app, or by email or Instagram DM at @lee25_ios. We reply as soon as we've had a look."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Put someone on your side\nstarting today",
+    "cta": "Get it on the App Store"
+  },
+  "ui": {
+    "skip": "Skip to content",
+    "languages": "Language",
+    "privacy": "Privacy Policy",
+    "contact": "Questions or feedback? Write to {email}."
+  }
+}

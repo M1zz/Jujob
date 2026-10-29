@@ -1,0 +1,467 @@
+{
+  "title": "Elogio Exagerado: o widget que te bajula sem dó",
+  "description": "Um widget na Tela de Início com um elogio exagerado novo a cada 5, 15 ou 30 minutos. 281 frases para cada humor, sequências e mais. Compra única.",
+  "hero": {
+    "headline": "Toda vez que você pega o celular,\nseu fã número um está lá",
+    "lead": "Elogio Exagerado é um widget que te elogia demais, de propósito. De manhã, elogio de manhã; antes da entrevista, elogio de entrevista. Fonte, cores e fundo ficam do jeito que você quiser.",
+    "cta": "Baixe na App Store",
+    "note": "Uma compra só e tudo liberado. Sem assinatura e sem anúncios."
+  },
+  "demo": {
+    "title": "Ganhe um elogio agora",
+    "lead": "Escolha um humor e o widget mostra o elogio certo para ele. Toque em Próximo para sortear um entre os 281.",
+    "next": "Próximo",
+    "note": "São as frases de verdade do app. No app, o widget troca sozinho a cada 5, 15 ou 30 minutos.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Manhã",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "Ida pro trabalho",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Dia difícil",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Pré-entrevista",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Pré-date",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "Volta pra casa",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "Bom dia! O sol só nasceu\nporque você acordou.",
+      "Hoje o mundo tá melhor,\ne a prova é que você acordou.",
+      "Levantou da cama? Já ganhou!\nAgora é só você brilhar.",
+      "Seu sorriso de manhã vale\nmais que café, e você sabe.",
+      "Hoje o protagonista do dia\né você, sem teste de elenco.",
+      "Abriu os olhos e o dia pensou:\nnossa, olha só quem chegou, você!",
+      "Café é bom, mas você de manhã\nacorda o Brasil inteiro.",
+      "Acordou com o brilho\nno modo turbo, e você nem viu.",
+      "Acordar com essa beleza é crime,\ne você reincide todo dia.",
+      "Bom dia? Nada, é \"dia ótimo\",\nporque você chegou.",
+      "O despertador toca, mas quem\nacorda o dia de verdade é você.",
+      "Mesmo de segunda-feira, você\nfaz a manhã parecer sábado.",
+      "Missão do dia cumprida!\nAgora você merece aplauso de pé.",
+      "Hoje você deu conta de tudo,\naté do que não era com você.",
+      "Fim do dia: sofá, descanso\ne você de parabéns.",
+      "Deu sono, mas o dia deu certo\nporque você apareceu.",
+      "Cansaço é o troféu de quem\nfez tudo certo, e você fez.",
+      "Dia encerrado! Hoje você merece\nmedalha, abraço e brigadeiro.",
+      "As estrelas saíram só\npra copiar o seu brilho.",
+      "Lá fora é noite, mas você\ncontinua iluminando tudo.",
+      "Boa noite pro mundo, e pra você\nmeus parabéns pelo dia.",
+      "A lua tá linda hoje,\nmas você tá de outro nível.",
+      "Dia ruim ou dia bom, o saldo\nfinal é que você é demais.",
+      "Calma, dias ruins existem.\nMas você ainda é um espetáculo.",
+      "Respira fundo: você já\npassou por pior e venceu.",
+      "Perfeição é superestimada.\nAté porque você sendo você já é demais.",
+      "Descansar faz parte.\nVai no seu ritmo, você chega lá.",
+      "Mais forte do que imagina,\né isso que você é. E eu imagino muito.",
+      "Isso também vai passar,\ne você vai passar por cima.",
+      "Dia nublado por dentro?\nPelo menos você continua valendo ouro.",
+      "Chorar faz parte, e até\nchorando você tem estilo.",
+      "Diamante só nasce sob pressão,\nentão você tá virando joia.",
+      "Se bater tristeza, lembra:\nvocê é a melhor parte do dia de alguém.",
+      "Baixo astral é visita,\nvocê é morador do meu coração.",
+      "Mesmo sem energia, você\ncontinua sendo um luxo.",
+      "Que bom que você existe,\naté nos dias cinzentos.",
+      "Tá puxado agora, mas você\nnasceu pra fazer o impossível.",
+      "Nas horas difíceis é que\nvocê mostra a que veio.",
+      "Desistir? Nem pensar!\nPois você tem fibra de gigante.",
+      "Aguentar tudo isso e ainda sorrir?\nSó pode ser que você veio de outro mundo.",
+      "A dor de hoje é o músculo\nde amanhã. Segue firme!",
+      "Pode apostar que você aguenta\nmuito mais do que acha que aguenta.",
+      "Um dia você vai rir disso\ne dizer: eu sobrevivi!",
+      "Até diamante apanha pra brilhar,\ne você já tá ofuscando geral.",
+      "Tá difícil, mas você continua\nsendo a coisa mais bonita daqui.",
+      "Sua persistência vira esperança\npra alguém, e você nem sabe.",
+      "Mesmo no limite, você\nsegue com o charme em dia.",
+      "Bora! Com você no time,\nqualquer meta vira brincadeira.",
+      "Acredito em você mais do que\nno Wi-Fi do escritório.",
+      "Se você já chegou, o dia\njá tem cara de sucesso.",
+      "Pode vir tarefa, que tem você\npra resolver tudo.",
+      "Hoje o seu brilho ilumina\naté a segunda, e você sabe disso.",
+      "Vai lá, faz do seu jeito,\nque você sempre dá um show.",
+      "Com essa postura, você\nnem precisa de crachá: é VIP.",
+      "Sem vontade de trabalhar?\nSeu rosto já trabalha por você.",
+      "A empresa nem sabe, mas você\né o melhor benefício dela.",
+      "Visual de reunião:\nvocê ofuscando o projetor.",
+      "Nem começou o expediente e\nvocê já é case de sucesso.",
+      "Pegou o tênis? Então você\njá ganhou metade do treino.",
+      "Cuidar da saúde é amor,\ne você tá dando show de amor-próprio.",
+      "Seu corpo agradece, e a sua\nversão de amanhã também.",
+      "Só de você chegar na academia,\no ventilador já aplaude.",
+      "Suou? Então você já\né a pessoa mais bonita de lá.",
+      "Saúde em primeiro lugar,\ne você em primeiro no ranking.",
+      "Esse tempinho que você tira\npra você é puro ouro.",
+      "De roupa de treino, você\nparece capa de revista.",
+      "A academia virou passarela\ndesde que você chegou.",
+      "Treinando ou parado, você\ntem aura de campeonato.",
+      "Gente que fica bonita suando\nexiste? Existe: é você.",
+      "No caminho pro trabalho,\nvocê é a trilha sonora do dia.",
+      "Madrugou e foi à luta?\nIsso, você já é inspiração.",
+      "Saiu de casa cedo? Então\nvocê já bateu a meta do dia.",
+      "Cada passo seu na calçada\nvale mais que ação em alta, você sabe.",
+      "Com você junto, até o\ntrânsito vira passeio.",
+      "Responsabilidade e estilo:\nesse é o seu combo de sempre.",
+      "O ônibus lotado virou passarela\nquando você entrou.",
+      "Fone no ouvido e você\ndesfilando na calçada: cinema.",
+      "A manhã fica mais feliz\nquando você passa.",
+      "Até no sinal fechado, você\né a vista mais bonita.",
+      "Bateu o ponto, bateu a meta.\nAgora descansa, você merece.",
+      "Saindo do trabalho, você\nparece final de novela: aplaudidíssimo.",
+      "Hora de voltar pra casa,\ne você leva o brilho junto.",
+      "Mais um dia vencido!\nE olha, você é de dar orgulho.",
+      "Agora o tempo é seu.\nHoje você merece sofá e carinho.",
+      "Fechou o notebook? Abre\no coração, você mereceu a pausa.",
+      "Foi puxado, mas você\nchegou ao fim com classe.",
+      "Até voltando pra casa, você\ndeixa a rua mais bonita.",
+      "Cansaço é prova de que você\ndeu o seu melhor hoje.",
+      "Hoje você mandou tão bem\nque a segunda-feira ficou com inveja.",
+      "Respira, você estudou\ne o cérebro lembra de tudo.",
+      "O esforço que você fez\nnão vai te deixar na mão.",
+      "Se bater nervoso, lembra:\nvocê sabe muito mais do que pensa.",
+      "Prova nenhuma mede o\ntanto que você vale.",
+      "Já deu o seu melhor, e você\nsempre entrega ainda mais.",
+      "Se alguém vai passar, esse alguém\né você. Sem dúvida.",
+      "Respira fundo e confia:\nvocê nasceu pra mandar bem.",
+      "Boa prova! Pode ir,\nque você vai arrasar.",
+      "Vai acertar tudo, e até o que\nvocê chutar vai estar certo.",
+      "Nervosismo? Normal. Mas você\nbrilha até sob pressão.",
+      "A folha de prova vai olhar\npra você e dizer: uau!",
+      "É a sua hora de mostrar\nque você é o prêmio.",
+      "O recrutador vai ter sorte\nde conhecer você.",
+      "Sua história é um case,\ne você conta com orgulho.",
+      "Frio na barriga é normal,\nmas você tem charme de sobra.",
+      "Entra firme, que você\njá merece a vaga.",
+      "Conta a sua história, você\né o melhor roteiro que existe.",
+      "Entrevista é só um papo,\ne papo é com você mesmo.",
+      "Se a empresa não te contratar,\nela é que perdeu você.",
+      "Currículo bom é bom,\nmas você ao vivo é melhor.",
+      "Passou pela porta, passou\nno processo. Lógica pura, você sabe.",
+      "Primeira impressão? Aí você\nganha de lavada.",
+      "Hoje você tá tão bem que\no espelho pediu autógrafo.",
+      "Do jeito que você é, já\ndá pra encher qualquer olhar.",
+      "Quem sai com você tira\na sorte grande.",
+      "Autoconfiança dá um brilho\nque você carrega muito bem.",
+      "O sorriso de hoje é a\nmelhor arma que você tem.",
+      "Seja você mesmo: essa\nversão já é um encanto.",
+      "Charme assim, você até tenta\nesconder, mas não adianta.",
+      "Date hoje? Avisa a outra pessoa:\nsegura o coração.",
+      "Quem vai encontrar você\njá ganhou na loteria.",
+      "Esse look tá um espetáculo.\nAgora você só precisa chegar.",
+      "Se apaixonar por você\né questão de segundos.",
+      "Antes mesmo do encontro,\nvocê já derrete corações.",
+      "Vai com tudo! Eu aposto\nem você, sempre.",
+      "Passinho pequeno também\né caminho, e você anda bem.",
+      "Não desiste, que o seu\nsonho só tá aquecendo.",
+      "O esforço de hoje é o\nsucesso de amanhã.",
+      "Com essa garra, você\nainda muda o mundo.",
+      "Errou? Faz parte. É\nassim que você vira lenda.",
+      "Com um potencial desse, você\nnão cabe nem no mapa.",
+      "Hoje é dia de você\ndar o seu melhor. De novo.",
+      "Quando você se esforça, alguém\nlá fora se inspira em silêncio.",
+      "Vai dar certo. Falo sério,\ne você sabe que eu sei.",
+      "Segue o baile! Aí você\ntem talento de sobra.",
+      "Foco, força e fé:\nvocê já tem os três.",
+      "Quem vê o seu esforço\nvira torcedor de você.",
+      "Fato, não opinião: você\ntem valor de sobra.",
+      "Do jeito que você é, já\nvem de fábrica com tudo.",
+      "Existir já te torna especial.\nE você existe com muito estilo.",
+      "Peito aberto, queixo erguido:\nvocê é demais.",
+      "Mais forte do que pensa,\né o que você é.",
+      "O seu jeito único é o\nsuperpoder que você tem.",
+      "Acredita: você dá conta\ne ainda sobra estilo.",
+      "Ninguém é igual a você,\ne esse é o melhor spoiler.",
+      "Com essa confiança, você\né o centro do universo.",
+      "Se pudesse se ver com\nos meus olhos, você nem piscava.",
+      "Tá indo bem, e você\nnem percebe o tanto.",
+      "Quem não vê seu valor\nprecisa trocar de óculos.",
+      "Hoje o plano é nenhum.\nSó você e o seu descanso.",
+      "Pausa merecida: você\ntrabalhou o suficiente por três.",
+      "Não fazer nada também\né ótimo programa pra você.",
+      "Cuida do coração, que é\no que você tem de mais precioso.",
+      "No seu tempo, do seu jeito.\nPode confiar que você chega lá.",
+      "O evento de hoje é você\ne o seu bem-estar.",
+      "Descansar é produtivo.\nSeu corpo agradece, e você também.",
+      "Descansar é direito seu,\ne você pode usar à vontade.",
+      "Cuidando de si, você\nfica ainda mais radiante.",
+      "Mesmo em modo soneca,\nvocê continua incrível.",
+      "Gastar tempo com você\né o melhor investimento.",
+      "Até relaxando, você\nganha o prêmio de pessoa mais bonita.",
+      "Sabe o que falta em você?\nNada. Nem um defeitinho pra contar.",
+      "Cuidado: você causa vício,\ne ainda não existe reabilitação.",
+      "Se beleza fosse crime, você\npegava prisão perpétua.",
+      "Tá com GPS? Porque você\nme deixou perdido de vez.",
+      "Dizem que perfeição não existe,\nmas aí vem você e desmente.",
+      "Se você fosse um verbo,\nseria \"brilhar\": irregular e único.",
+      "Me explica: como você pode\nser tão incrível e ainda humilde?",
+      "Será que você é Wi-Fi?\nPorque senti conexão na hora.",
+      "Seu sorriso devia pagar imposto,\nde tão valioso.",
+      "Pernas pra que te quero?\nSó pra chegar até você.",
+      "Mapa do tesouro? Achei.\nO X marca onde você está.",
+      "Usou filtro? Nada! Aí você\ntem beleza de fábrica.",
+      "Sua presença soma, multiplica\ne nunca divide a alegria.",
+      "Aviso: quem passa perto\nde você sai com o coração acelerado.",
+      "Tá com febre? Não, é\nsó o efeito que você causa.",
+      "Ponto turístico? Não, é só\nvocê andando pela rua.",
+      "Ave Maria! Aí você é uma\nobra-prima sem moldura.",
+      "Se sorriso fosse moeda,\nvocê já teria banco próprio.",
+      "Pelas minhas contas, você\ntem 100% de aprovação. As contas são minhas.",
+      "Perguntaram quem é o melhor.\nRespondi sem pensar: você.",
+      "Por que trabalhar, se a sua beleza\njá faz hora extra?",
+      "Dizem que a lua é linda,\nmas nunca viram você de perto.",
+      "Se você fosse bateria,\nseria 100% e sem descarregar.",
+      "Sabe aquele filme bom\nque a gente quer rever? É você.",
+      "Que anúncio é esse?\nAh, é você chegando com tudo.",
+      "Isso é uma pessoa ou\num filtro de cinema? Ah, é você.",
+      "Se simpatia ganhasse prêmio,\nvocê levava a taça e a torcida.",
+      "Até o horóscopo disse:\n\"hoje é dia de elogiar você\".",
+      "Sem querer incomodar, mas\nvocê é demais, tá?",
+      "Para de ser tão incrível:\no ranking acabou, só tem você.",
+      "A receita do bolo perfeito?\nUma pitada de você.",
+      "Meu café com você\ntem gosto de domingo.",
+      "Pessoa de verdade é melhor que\nfiltro, e você nem usa filtro.",
+      "Dizem que ninguém é insubstituível,\nmas ninguém tentou trocar você.",
+      "Nasceu com estrela?\nQue nada, você nasceu com o céu inteiro.",
+      "Procurei um elogio à sua altura.\nNão existe, mas você merece.",
+      "Cada vez que você ri,\num unicórnio ganha asas.",
+      "Se carisma fosse um rio,\nvocê seria a cachoeira.",
+      "Tá todo mundo perguntando:\nquem é essa lenda? É você.",
+      "Mitou! Pode soltar o\n\"lacrou\" que você merece.",
+      "Olha só! Aí vem você,\ne o chão vira tapete vermelho.",
+      "Vai ser difícil competir:\nvocê tem torcida organizada.",
+      "Já pode abrir o fã-clube:\neu sou o presidente, você é o astro.",
+      "Esgotou! O ingresso pra ver\nvocê sorrir já acabou.",
+      "Pedido de bis: você\nchegando de novo pro dia todo.",
+      "Ei, na primeira fila,\nsó tem fã de você.",
+      "Assina aqui? Quero levar\num autógrafo seu pra vida inteira.",
+      "Hit do verão? Que nada,\no hit do ano inteiro é você.",
+      "Na minha playlist, só você\ntoca no repeat.",
+      "Viralizou! Sua beleza\njá tá nos trending topics.",
+      "Capa de revista é pouco:\no seu charme pede edição especial.",
+      "Turnê mundial? Pode ir,\nque eu já sou fã de você.",
+      "Virei fã de carteirinha:\nvocê é minha estrela favorita.",
+      "Show é o seu bom dia:\nvocê rouba a cena de graça.",
+      "Tapete vermelho pra quê?\nJá que você chega brilhando.",
+      "Pedi um álbum e ganhei\no disco da minha vida: você.",
+      "Ensaio fotográfico? Aí você\nnem precisa, já nasceu em alta resolução.",
+      "Acabei de criar um fã-clube.\nPrimeira sócia: eu. Líder: você.",
+      "Estreia mundial! Em cartaz, o filme\n\"Arrasando\": estrelando você.",
+      "Fiz fila pra ver você.\nValeu cada minuto, hein!",
+      "Troféu de melhor sorriso:\nvai pra você, sem votação.",
+      "Quando você aparece, meu\ncoração faz solo de bateria.",
+      "Olhar pra você deixa\no mundo bem mais bonito.",
+      "Com você por perto, o dia\nvira vitamina de felicidade.",
+      "O seu riso é contagiante,\ne eu já peguei de você.",
+      "Tem estrela que só brilha\nporque você deixou emprestado.",
+      "Toda manhã é festival\ndesde que você existe.",
+      "Escutar você falar já\nmelhora o meu humor.",
+      "Que sorte a minha de\nconhecer você!",
+      "Ter você por perto é\nganhar na loteria todo dia.",
+      "Pessoa mais importante da sala:\nsempre você, sem votação.",
+      "Só de pensar em você\no sorriso aparece sozinho.",
+      "Paz de espírito tem nome,\ne o nome é você.",
+      "Momentos com você são\nsempre edição de colecionador.",
+      "Olha, de todo mundo que\nconheço, você é a melhor versão.",
+      "Agradeço todo dia só\npor você existir.",
+      "O melhor momento do meu dia\né quando você aparece.",
+      "Graças a você, todo dia\ntem cara de feriado.",
+      "Quando você chega, a\nescuridão pede licença.",
+      "Presente do universo?\nSó pode ser você.",
+      "O mundo ganhou mais cor\ndesde que você chegou.",
+      "Imaginar um dia sem você?\nImpossível, já tentei.",
+      "No pódio do meu coração,\nvocê ocupa os três lugares.",
+      "Se você tá do meu lado,\nqualquer plano dá certo.",
+      "Agradecimento do dia:\nvocê, na primeira linha.",
+      "Seu sorriso ganha de\nqualquer pôr do sol.",
+      "Maior bênção da minha vida?\nFoi você aparecer.",
+      "Pensou em você, o dia\njá ficou mais leve.",
+      "Casa, doce casa:\nvocê é o meu cantinho favorito.",
+      "Perto de você tudo fica\nno lugar, até a bagunça.",
+      "Meu tipo ideal? Chegou:\nvocê, em tamanho real.",
+      "Meu coração perdeu o\ncompasso quando viu você.",
+      "Biografia ambulante, é\nisso que você é: pura história.",
+      "Seu charme me derrota toda vez.\nPior: você nem tenta, né?",
+      "De tanto olhar pra você\no pescoço já pediu arrego.",
+      "Cada vez que você passa\nmeu coração faz hora extra.",
+      "Pra mim você é capa de\nrevista que anda e fala.",
+      "Todo dia vira folga\ncom você por perto.",
+      "Milagre? Que nada,\nmilagre é pouco: é você.",
+      "Quando você passa, o\nmundo ativa a câmera lenta.",
+      "Cartão VIP da vida:\nvocê é a lista inteira.",
+      "Ver você é o meu\nprograma favorito do dia.",
+      "Em pleno domingo, você\né o melhor conteúdo da minha tela.",
+      "Depois de você, o mundo\npassou a ser em alta definição.",
+      "Hora de ouro? É a hora\nem que você aparece.",
+      "Pensar em você ativa\no sorriso automático.",
+      "Hotel cinco estrelas? É meu\ncoração, e você é o hóspede VIP.",
+      "Com você, até terça-feira\nvira dia de festa.",
+      "No grande evento da vida,\nvocê é a atração principal.",
+      "Olho pra você e o\ncoração começa a dançar.",
+      "Visão de 4K? Só se\nfor pra olhar pra você.",
+      "Tudo parece mais brilhante\nquando você tá em cena.",
+      "Pra mim você é\na lista VIP de uma pessoa só.",
+      "Graças a você, o dia\nganha trilha sonora e tudo.",
+      "Carta na manga? Aqui\na carta de ouro é você.",
+      "Só de pensar em você\no humor sobe de nível.",
+      "Hall da fama, vaga número um:\nreservada pra você, claro.",
+      "A vida era preto e branco,\naí você chegou e pintou tudo.",
+      "De todos os tempos, você\né a lenda que nunca sai de moda.",
+      "Ao seu lado o relógio\nfica tímido: você faz o tempo parar.",
+      "Passe livre pra vida inteira?\nJá tenho: você."
+    ]
+  },
+  "problem": {
+    "title": "Quem é o seu crítico mais duro? Será que é você?",
+    "text": "Na ida pro trabalho, antes da entrevista, na volta pra casa, a voz na cabeça só reclama. O Elogio Exagerado fica do seu lado direto da Tela de Início, várias vezes por dia, um pouquinho além da conta. Na hora que você solta um sorriso, um pouco da confiança volta."
+  },
+  "features": [
+    {
+      "title": "Um elogio para cada momento",
+      "text": "Escolha entre 14 humores e situações como `Manhã`, `Ida pro trabalho`, `Dia difícil`, `Pré-entrevista` ou `Pré-date`, e o elogio certo aparece na hora no seu widget. Na dúvida? Tem `Aleatório` também.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Guarde os que você mais curtir",
+      "text": "Toque na estrela para salvar nos Favoritos e reveja os anteriores no Histórico. Toque em `Usar este elogio` e ele vai direto pro widget.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Volte todo dia e veja somar",
+      "text": "Cada dia que você confere aumenta a sua sequência. Com 7, 30 ou 100 dias seguidos, e 50 e 100 dias no total, você desbloqueia conquistas.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "Comece em três passos",
+    "items": [
+      {
+        "title": "Escolha o humor",
+        "text": "Abra `Escolha o humor` e toque no que combina com agora."
+      },
+      {
+        "title": "Deixe o widget com a sua cara",
+        "text": "Nos ajustes avançados, escolha fonte, cor do texto, fundo e frequência."
+      },
+      {
+        "title": "Coloque na Tela de Início",
+        "text": "Toque e segure a Tela de Início, toque em + e procure Elogio Exagerado."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Do jeito que você quiser",
+    "rows": [
+      [
+        "Fonte",
+        "13 opções, como Futura, Georgia e Marker Felt"
+      ],
+      [
+        "Cor do texto",
+        "Qualquer cor que você curtir"
+      ],
+      [
+        "Fundo",
+        "Um degradê de duas cores ou uma das fotos que vêm no app"
+      ],
+      [
+        "Alinhamento",
+        "À esquerda, centralizado ou à direita"
+      ],
+      [
+        "Entrelinha",
+        "Linhas mais juntas ou mais soltas"
+      ],
+      [
+        "Atualizar a cada",
+        "Um elogio novo a cada 5, 15 ou 30 minutos"
+      ]
+    ],
+    "note": "O tamanho do widget você escolhe ao adicionar na Tela de Início."
+  },
+  "pricing": {
+    "title": "Comprou uma vez, pronto",
+    "free": {
+      "name": "O app",
+      "items": [
+        "281 elogios para 14 humores",
+        "Um widget de Tela de Início do seu jeito",
+        "Favoritos e Histórico",
+        "Sequências e conquistas"
+      ]
+    },
+    "pro": {
+      "name": "Apoie o desenvolvedor",
+      "items": [
+        "Escolha uma gorjeta pequena, média ou grande",
+        "Não libera nada. É só um jeito de agradecer"
+      ],
+      "note": "Só se e quando der vontade."
+    },
+    "note": "Sem assinatura, sem compras extras e sem anúncios."
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "items": [
+      {
+        "q": "Como adiciono o widget?",
+        "a": "Toque e segure um espaço vazio da Tela de Início até os ícones tremerem, toque em + lá em cima, procure Elogio Exagerado e escolha um tamanho."
+      },
+      {
+        "q": "Como o próximo elogio é escolhido?",
+        "a": "Quando você escolhe um humor, um elogio desse humor aparece na hora no widget. Depois disso, o widget mostra um aleatório entre os 281 na frequência que você escolheu. No app, dá para tocar em `Próximo` e trocar você mesmo."
+      },
+      {
+        "q": "Dá para mudar a fonte ou a frequência do widget?",
+        "a": "Dá. Nos ajustes avançados você muda fonte, cor do texto, fundo, alinhamento, entrelinha e frequência de atualização: 5, 15 ou 30 minutos."
+      },
+      {
+        "q": "O widget não mudou na hora.",
+        "a": "Quem decide quando redesenhar os widgets é o iOS, então às vezes ele atrasa um pouco em relação à frequência escolhida. Abra o app e feche de novo, e o widget atualiza."
+      },
+      {
+        "q": "Como funciona a sequência?",
+        "a": "Cada dia seguido em que você vê um elogio soma um na sequência. Em `Minha jornada` você vê a sequência atual, o recorde, o total de dias e as conquistas."
+      },
+      {
+        "q": "Meus favoritos e o histórico sumiram.",
+        "a": "Tudo fica salvo só no seu aparelho, então não vai junto se você apagar o app ou trocar de celular. Se você não apagou e mesmo assim sumiu, manda um e-mail pra gente."
+      },
+      {
+        "q": "Meus dados são enviados para algum lugar?",
+        "a": "Não. O app não coleta dados pessoais. Seus favoritos e seu histórico ficam no seu aparelho."
+      },
+      {
+        "q": "Como relato um bug ou sugiro uma ideia?",
+        "a": "Direto em `Falar com o dev` no app, por e-mail ou por DM no Instagram @lee25_ios. A gente responde assim que ver."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "A partir de hoje, alguém\ndo seu lado",
+    "cta": "Baixe na App Store"
+  },
+  "ui": {
+    "skip": "Pular para o conteúdo",
+    "languages": "Idioma",
+    "privacy": "Privacidade",
+    "contact": "Dúvidas ou sugestões? Escreva para {email}."
+  }
+}

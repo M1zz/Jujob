@@ -1,56 +1,192 @@
 <!doctype html>
 <html lang="ja">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>今日のほめちぎり — 一緒にほめちぎろう</title>
-<meta name="description" content="大げさにほめて、全力で応援する。ほめちぎりウィジェットアプリ「今日のほめちぎり」です。">
-<!--hreflang-->
-<link rel="alternate" hreflang="ko" href="https://m1zz.github.io/Jujob/ko/index.html">
-<link rel="alternate" hreflang="en" href="https://m1zz.github.io/Jujob/en/index.html">
-<link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/Jujob/en-GB/index.html">
-<link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/Jujob/zh-Hans/index.html">
-<link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/Jujob/zh-Hant/index.html">
-<link rel="alternate" hreflang="ja" href="https://m1zz.github.io/Jujob/ja/index.html">
-<link rel="alternate" hreflang="ru" href="https://m1zz.github.io/Jujob/ru/index.html">
-<link rel="alternate" hreflang="es" href="https://m1zz.github.io/Jujob/es/index.html">
-<link rel="alternate" hreflang="de" href="https://m1zz.github.io/Jujob/de/index.html">
-<link rel="alternate" hreflang="fr" href="https://m1zz.github.io/Jujob/fr/index.html">
-<link rel="alternate" hreflang="it" href="https://m1zz.github.io/Jujob/it/index.html">
-<link rel="alternate" hreflang="pt-BR" href="https://m1zz.github.io/Jujob/pt-BR/index.html">
-<link rel="alternate" hreflang="th" href="https://m1zz.github.io/Jujob/th/index.html">
-<link rel="alternate" hreflang="vi" href="https://m1zz.github.io/Jujob/vi/index.html">
-<link rel="alternate" hreflang="cs" href="https://m1zz.github.io/Jujob/cs/index.html">
-<link rel="alternate" hreflang="da" href="https://m1zz.github.io/Jujob/da/index.html">
-<link rel="alternate" hreflang="el" href="https://m1zz.github.io/Jujob/el/index.html">
-<link rel="alternate" hreflang="fi" href="https://m1zz.github.io/Jujob/fi/index.html">
-<link rel="alternate" hreflang="id" href="https://m1zz.github.io/Jujob/id/index.html">
-<link rel="alternate" hreflang="nb" href="https://m1zz.github.io/Jujob/nb/index.html">
-<link rel="alternate" hreflang="nl" href="https://m1zz.github.io/Jujob/nl/index.html">
-<link rel="alternate" hreflang="pl" href="https://m1zz.github.io/Jujob/pl/index.html">
-<link rel="alternate" hreflang="sv" href="https://m1zz.github.io/Jujob/sv/index.html">
-<link rel="alternate" hreflang="tr" href="https://m1zz.github.io/Jujob/tr/index.html">
-<link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/Jujob/en/index.html">
-<!--/hreflang-->
-<style>body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.7;max-width:720px;margin:0 auto;padding:24px 18px 48px;color:#1c1c1e;background:#fff}
-@media(prefers-color-scheme:dark){body{color:#f2f2f7;background:#1c1c1e}a{color:#64b5ff}}
-h1{font-size:1.7em;margin:.6em 0 .2em}h2{font-size:1.15em;margin:1.6em 0 .4em}nav.top{display:flex;gap:16px;flex-wrap:wrap;font-size:.95em;margin-bottom:12px}
-.sub{opacity:.7;margin-top:0}ul{padding-left:1.2em}.langs{margin-top:40px;padding-top:16px;border-top:1px solid #8884;font-size:.9em}.langs a{display:inline-block;margin:2px 8px 2px 0}footer{margin-top:24px;opacity:.6;font-size:.85em}</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>今日のほめちぎり：ホーム画面で大げさにほめてくれるウィジェット</title>
+  <meta name="description" content="ホーム画面のウィジェットが5分、15分、30分ごとに新しいほめ言葉を表示。気分に合わせた281のフレーズ、ウィジェットのカスタマイズ、連続記録まで。買い切りです。">
+  <meta name="theme-color" content="#C2600A" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0a0d0f" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6450839961">
+  <link rel="canonical" href="https://m1zz.github.io/Jujob/ja/">
+  <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/Jujob/ko/">
+  <link rel="alternate" hreflang="en" href="https://m1zz.github.io/Jujob/en/">
+  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/Jujob/en-GB/">
+  <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/Jujob/zh-Hans/">
+  <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/Jujob/zh-Hant/">
+  <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/Jujob/ja/">
+  <link rel="alternate" hreflang="ru" href="https://m1zz.github.io/Jujob/ru/">
+  <link rel="alternate" hreflang="es" href="https://m1zz.github.io/Jujob/es/">
+  <link rel="alternate" hreflang="de" href="https://m1zz.github.io/Jujob/de/">
+  <link rel="alternate" hreflang="fr" href="https://m1zz.github.io/Jujob/fr/">
+  <link rel="alternate" hreflang="it" href="https://m1zz.github.io/Jujob/it/">
+  <link rel="alternate" hreflang="pt-BR" href="https://m1zz.github.io/Jujob/pt-BR/">
+  <link rel="alternate" hreflang="th" href="https://m1zz.github.io/Jujob/th/">
+  <link rel="alternate" hreflang="vi" href="https://m1zz.github.io/Jujob/vi/">
+  <link rel="alternate" hreflang="cs" href="https://m1zz.github.io/Jujob/cs/">
+  <link rel="alternate" hreflang="da" href="https://m1zz.github.io/Jujob/da/">
+  <link rel="alternate" hreflang="el" href="https://m1zz.github.io/Jujob/el/">
+  <link rel="alternate" hreflang="fi" href="https://m1zz.github.io/Jujob/fi/">
+  <link rel="alternate" hreflang="id" href="https://m1zz.github.io/Jujob/id/">
+  <link rel="alternate" hreflang="nb" href="https://m1zz.github.io/Jujob/nb/">
+  <link rel="alternate" hreflang="nl" href="https://m1zz.github.io/Jujob/nl/">
+  <link rel="alternate" hreflang="pl" href="https://m1zz.github.io/Jujob/pl/">
+  <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/Jujob/sv/">
+  <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/Jujob/tr/">
+  <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/Jujob/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="今日のほめちぎり：ホーム画面で大げさにほめてくれるウィジェット">
+  <meta property="og:description" content="ホーム画面のウィジェットが5分、15分、30分ごとに新しいほめ言葉を表示。気分に合わせた281のフレーズ、ウィジェットのカスタマイズ、連続記録まで。買い切りです。">
+  <meta property="og:url" content="https://m1zz.github.io/Jujob/ja/">
+  <meta property="og:image" content="https://m1zz.github.io/Jujob/img/ja/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#C2600A}@media (prefers-color-scheme:dark){:root{--accent:#FFB547}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="top"><a href="index.html" aria-current=page>紹介</a><a href="privacy.html">プライバシーポリシー</a><a href="support.html">サポート</a></nav>
-<h1>今日のほめちぎり</h1>
-<p class="sub">一緒にほめちぎろう</p>
-<p>大げさにほめて、全力で応援する。ほめちぎりウィジェットアプリ「今日のほめちぎり」です。</p>
-<ul>
-<li>ホーム画面ウィジェットで281個のほめちぎりに出会えます</li>
-<li>気分やシーンに合わせてほめちぎりを選べます</li>
-<li>自分の名前を入れて、あなた専用のひとことに変身</li>
-<li>お気に入りと履歴で、好きなひとことを集められます</li>
-<li>連続記録と実績で、毎日コツコツ応援されます</li>
-</ul>
-<p><a href="privacy.html">プライバシーポリシー</a> · <a href="support.html">サポート</a></p>
-<div class="langs"><!--langs--><a href="../ko/index.html" hreflang="ko" lang="ko">한국어</a> <a href="../en/index.html" hreflang="en" lang="en">English</a> <a href="../en-GB/index.html" hreflang="en-GB" lang="en-GB">English (UK)</a> <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> <a href="../es/index.html" hreflang="es" lang="es">Español</a> <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a><!--/langs--></div>
-<footer>© 2026 Leeo</footer>
+  <a class="skip" href="#main">本文へスキップ</a>
+  <header class="bar">
+    <a class="brand" href="../ja/"><img src="../icon.png" alt="" width="32" height="32">今日のほめちぎり</a>
+    <a class="lang-link" href="#languages">言語</a>
+  </header>
+
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>スマホを見るたび、<br>熱烈なファンが待っている</h1>
+        <p class="lead">今日のほめちぎりは、ちょっと大げさすぎるくらいにほめてくれるウィジェット。朝には朝のひと言、面接前には面接前のひと言。フォントや色、背景も好きなように変えられます。</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6450839961">App Storeで入手</a><a class="try" href="#try">ほめ言葉をもらってみる ↓</a></div>
+        <p class="muted small">一度の購入ですべての機能が使えます。サブスクも広告もありません。</p>
+      </div>
+      <div class="phone"><img src="../img/ja/01-main.jpg" alt="スマホを見るたび、 熱烈なファンが待っている" width="720" height="1564" decoding="async"></div>
+    </section>
+
+
+    <section class="reveal" id="try">
+      <h2>ほめ言葉をもらってみる</h2>
+      <p class="muted">気分を選ぶと、その気分のひと言がウィジェットに表示されます。「次へ」を押すと、281の中からランダムに出てきます。</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;ほめ言葉をもらってみる&quot;, &quot;lead&quot;: &quot;気分を選ぶと、その気分のひと言がウィジェットに表示されます。「次へ」を押すと、281の中からランダムに出てきます。&quot;, &quot;next&quot;: &quot;次へ&quot;, &quot;note&quot;: &quot;アプリに入っている文章そのままです。アプリでは5分、15分、30分ごとにウィジェットが自動で次のひと言に変わります。&quot;, &quot;moods&quot;: [{&quot;emoji&quot;: &quot;🌅&quot;, &quot;name&quot;: &quot;朝&quot;, &quot;first&quot;: 0}, {&quot;emoji&quot;: &quot;🚶&quot;, &quot;name&quot;: &quot;通勤中&quot;, &quot;first&quot;: 69}, {&quot;emoji&quot;: &quot;💪&quot;, &quot;name&quot;: &quot;つらい時&quot;, &quot;first&quot;: 36}, {&quot;emoji&quot;: &quot;👔&quot;, &quot;name&quot;: &quot;面接前&quot;, &quot;first&quot;: 100}, {&quot;emoji&quot;: &quot;💕&quot;, &quot;name&quot;: &quot;デート前&quot;, &quot;first&quot;: 111}, {&quot;emoji&quot;: &quot;🏠&quot;, &quot;name&quot;: &quot;帰り道&quot;, &quot;first&quot;: 79}], &quot;quotes&quot;: [&quot;新しい一日のはじまり。\nあなたはもう十分すてきですよ。&quot;, &quot;朝日みたいにまぶしいあなたが\n今日も最高の一日を連れてきます!&quot;, &quot;起きた時点で、あなたはもう優勝。\n拍手が鳴りやみません!&quot;, &quot;世界でいちばん美しい朝は\nあなたが目覚めた朝です。&quot;, &quot;おはようの一言で\nあなたが主役の一日が始まります。&quot;, &quot;目を開けた瞬間から\nあなたは勝者の顔をしています。&quot;, &quot;コーヒーより目が覚めるのは\nあなたの寝ぐせ付きスマイル!&quot;, &quot;ありのままのあなたでいこう。\nそれが毎日いちばん強い!&quot;, &quot;朝からそんなにかわいくていいの?\nこれはもう顔面の条件違反。&quot;, &quot;グッドモーニングじゃ足りない。\nあなたがいるからベストモーニング!&quot;, &quot;起きてすぐ見るあなた、\n目の保養がすぎます。&quot;, &quot;朝イチで発見しました、\nこの世でいちばん輝いている人を。&quot;, &quot;一日おつかれさま!\nあなたの頑張りは国宝級です。&quot;, &quot;夕暮れに染まるあなたの横顔、\nそのまま額に入れたい。&quot;, &quot;全力を出し切った今日のあなたに\n花丸を千個あげます!&quot;, &quot;くたくたでも乗り切った。\nそれだけで殿堂入りです。&quot;, &quot;価値のない日なんて一日もない。\nあなたが過ごした日だから。&quot;, &quot;無事に終わった、\nそれだけで今日は百点満点!&quot;, &quot;夜空の星だって\nあなたの輝きに嫉妬してます。&quot;, &quot;夜になってもまだ輝いてる。\nあなたの電池、どうなってるの?&quot;, &quot;ずっとお疲れさま。\nあなたがあなたでよかった。&quot;, &quot;今日の世界がきれいだったのは\nあなたがそこにいたからです。&quot;, &quot;夜に見ても伝説、\n昼に見ても伝説。&quot;, &quot;大丈夫、そんな日もあるよ。\nあなたは十分がんばってる。&quot;, &quot;しんどい今を越えられるのは\nあなたしかいません!&quot;, &quot;完璧じゃなくていいんです。\nそのままのあなたが最高だから。&quot;, &quot;つかれたら休もう。\nあなたのペースで進めばいい。&quot;, &quot;思っているよりずっと\nタフなんですよ、あなたって。&quot;, &quot;これもいつか過ぎていく。\nあなたならきっと大丈夫!&quot;, &quot;気分が沈んでも\nあなたの価値は一ミリも下がりません。&quot;, &quot;悲しみもあなたの一部。\nどんな気持ちも感じていいんだよ。&quot;, &quot;知ってました? ダイヤは圧力で生まれる。\nつまりいまのあなた、磨かれ中です。&quot;, &quot;落ち込んだら私を見て。\nあなたに夢中すぎて私も落ち込み中。&quot;, &quot;気分ダウン? 上等です。\nあなたはそんな日でも世界一大切。&quot;, &quot;泣いてもかわいいし、\n落ち込んでもかわいい。どうしましょう?&quot;, &quot;つらい時でも、あなたがここにいること\nそれ自体が奇跡なんです。&quot;, &quot;苦しいのは今だけ。\nあなたは必ずやりとげます。&quot;, &quot;ピンチの時こそ\nあなたの本当の実力が光ります!&quot;, &quot;あきらめないで。\nあなたは自分で思うより強いから。&quot;, &quot;つらい時期を耐えているあなた、\nもうヒーローです。&quot;, &quot;今日の苦労は、明日の自分を\nぐんと育てる肥料になります!&quot;, &quot;耐える力だって、あなたは\n想像の三倍くらい持ってますよ。&quot;, &quot;このしんどさも、そのうち\n笑い話になる日が来ます!&quot;, &quot;削られるほど輝くのがダイヤ。\nあなたもいま、きらめき途中です。&quot;, &quot;つらいって? それでも\nあなたは世界一かわいい。&quot;, &quot;踏ん張るあなたの姿が\n誰かの希望になっています。&quot;, &quot;しんどくて倒れそうでも\nかわいいのは止められないんですね。&quot;, &quot;やれますよ、あなたなら!\n自信満々でいってみよう。&quot;, &quot;あなたの実力、信じてます。\n今日もきっといい日になる!&quot;, &quot;準備万端のあなたは、\nもう成功の半分をつかんでます。&quot;, &quot;今日のタスクなんて、\nあなたにかかればおやつ前です。&quot;, &quot;燃えるあなたの情熱が\n今日をぴかぴかにします!&quot;, &quot;ファイト! 今日も\n自分らしくやりきろう!&quot;, &quot;仕事前のあなたの佇まい、\nすでにプロの風格です。&quot;, &quot;働きたくない? それでも\nあなたの顔面は絶賛フル稼働中。&quot;, &quot;通勤中のビジュアルが強すぎる。\n会社があなたのおかげで明るい!&quot;, &quot;真剣に働くあなたの姿は\nもはや芸術作品です。&quot;, &quot;仕事を始める前から\nもう完成されているあなた。&quot;, &quot;運動しようとしてる時点で、\nかっこいい人確定です。&quot;, &quot;自分の体をいたわるあなた、\n本当にえらい!&quot;, &quot;自分の体のことは\n自分がいちばんよく知っています。&quot;, &quot;運動を始めただけでも\n胸を張っていいんですよ。&quot;, &quot;汗をかくあなたの姿、\n光って見えるのは気のせいじゃない。&quot;, &quot;いちばん大事なのは\nあなた自身の健康です。&quot;, &quot;自分のために時間を使える人、\nそれだけでもう最高。&quot;, &quot;ウェア姿のあなた、\nそのまま表紙を飾れます。&quot;, &quot;ジムがあなたのおかげで\n天国のフロアになりました。&quot;, &quot;運動中まで輝くなんて、\nどうしてそんなに素敵なの?&quot;, &quot;汗をかいても美しい人?\nはい、あなたのことです。&quot;, &quot;通勤するあなたの姿は\n本当にプロフェッショナル!&quot;, &quot;朝から動き出すなんて、\nそれだけで尊敬します。&quot;, &quot;今日も出勤、えらすぎる。\nもう勝ちが決まってます。&quot;, &quot;あなたの一歩一歩には\nちゃんと価値があります!&quot;, &quot;通勤路も、あなたと一緒なら\nちょっと特別になります。&quot;, &quot;責任感を持って家を出る姿、\nとてもかっこいいです!&quot;, &quot;あなたが乗っただけで\n満員電車がランウェイに早変わり。&quot;, &quot;バスの中でも輝くなんて、\nまた撮影ですか?&quot;, &quot;出勤するあなたを見ると\n朝がうれしくなります。&quot;, &quot;歩いているだけで絵になる人、\nそれがあなたです。&quot;, &quot;一日おつかれさま!\n帰ったらゆっくり休んでね。&quot;, &quot;帰っていくあなたの背中、\nかっこよすぎます!&quot;, &quot;仕事を終えた帰り道も、\nあなたはやっぱり最高です!&quot;, &quot;無事に終わりました!\n自分をほめてあげて!&quot;, &quot;ここからはあなただけの時間。\nたっぷり休んでください!&quot;, &quot;終業後の時間は、\n自分のためだけに使おう!&quot;, &quot;お仕事を終えたあなた、\nがんばりました。拍手!&quot;, &quot;帰り道さえ絵になる人。\n今日もいい仕事でした。&quot;, &quot;帰るあなたを見ていると\n今日がいい一日だった気がします。&quot;, &quot;大変な一日だったのに\nあなたは最後まで堂々としてました。&quot;, &quot;ここまで準備してきたあなたなら\n絶対うまくいきます。&quot;, &quot;努力は、あなたを\n裏切りません!&quot;, &quot;緊張しても大丈夫。\nあなたはもう準備できています!&quot;, &quot;試験の点数で\nあなたの価値は決まりません!&quot;, &quot;最善を尽くしたあなたは、\nもう成功しています!&quot;, &quot;あなたなら、\nきっとやりとげられます!&quot;, &quot;深呼吸して、\n自分の実力を信じよう!&quot;, &quot;試験がんばって!\n準備はもうばっちりだよ。&quot;, &quot;心配いりません。\nあなたなら全問正解の顔をしています!&quot;, &quot;緊張してる?\nそれでもあなたは最高です!&quot;, &quot;答案用紙もあなたの顔を見て\nうっとりしますよ、きっと。&quot;, &quot;あなたの底力を\n見せる時が来ました!&quot;, &quot;面接官もあなたに会えて\nラッキーだと思っています!&quot;, &quot;これまでの経験と情熱が\n光り輝く時間です!&quot;, &quot;緊張しても平気。\nあなたは十分にすてきです!&quot;, &quot;自信を持って!\nもう準備は整っています!&quot;, &quot;あなたの物語を\n堂々と語ってきましょう!&quot;, &quot;面接はお互いを知る時間。\nリラックスして行こう!&quot;, &quot;あなたを落とすなんて、\nその会社の大損です。&quot;, &quot;スペックが華やかなんじゃない、\nあなた自身が華やかなんです。&quot;, &quot;面接室に入った瞬間に\nもう合格の空気です。&quot;, &quot;第一印象だけで\n半分は勝ったようなものです!&quot;, &quot;まぶしすぎます、今日のあなた!\nサングラスが必要です。&quot;, &quot;飾らないあなたこそ\nいちばん魅力的!&quot;, &quot;あなたのそばにいられる人は\nとんでもなく幸運です!&quot;, &quot;自信たっぷりのあなたは、\nとびきりかっこいい!&quot;, &quot;今日のあなたの笑顔は\n最強の武器になります!&quot;, &quot;ありのままで大丈夫。\nそれがあなたの最高形です!&quot;, &quot;あふれる魅力は\n隠そうとしても隠せません!&quot;, &quot;今日デート?\n相手の心臓が持つか心配です。&quot;, &quot;あなたに会える人は、\n一生分の運を使い切ってます。&quot;, &quot;デートコーデ完璧です。\nそのまま雑誌に載れます!&quot;, &quot;今日のあなたを見たら\n誰でも恋に落ちてしまいそう。&quot;, &quot;デート前なのにもうかわいい。\n相手の心臓、どうなっちゃうの?&quot;, &quot;できますよ、あなたなら!\nいつでも味方です!&quot;, &quot;小さな一歩だって\n大きな旅のはじまりです!&quot;, &quot;あきらめないで。\nきっと夢はかないます!&quot;, &quot;今日の努力が\n明日の成功をつくります!&quot;, &quot;あなたの情熱は、\nいつか世界を動かします!&quot;, &quot;失敗は成功のもと!\nどんどんチャレンジしよう!&quot;, &quot;あなたの可能性は\nどこまでも広がっています!&quot;, &quot;今日という日を\nせいいっぱい楽しもう!&quot;, &quot;努力するあなたの姿が\n誰かのやる気スイッチになっています。&quot;, &quot;大丈夫、あなたならうまくいく。\n本当にそう思ってるんです!&quot;, &quot;あきらめないでね。\nあなたはじゅうぶん素敵な人だから。&quot;, &quot;今日もがんばろう!\nあなたならやれるよ!&quot;, &quot;努力を知っている人は、\nきっとあなたを応援してくれます。&quot;, &quot;それだけで\nあなたは価値のある人なんです!&quot;, &quot;ありのままのあなたが、\nもう完成形ですよ!&quot;, &quot;存在してくれているだけで、\nあなたはもう特別です!&quot;, &quot;胸を張って!\nあなたはすてきな人です!&quot;, &quot;実はあなた、\n自分で思うよりずっと強いです!&quot;, &quot;その個性こそが\nあなたを輝かせています!&quot;, &quot;自分を信じて。\nあなたならできる!&quot;, &quot;あなたは存在そのものが\n完璧な人です。&quot;, &quot;自信にあふれるあなたは\nきっと世界でいちばんかっこいい!&quot;, &quot;自分で思うより\nずっとすごい人なんですよ、あなたは!&quot;, &quot;実はもう\nじゅうぶんうまくやれています。&quot;, &quot;あなたの魅力に気づけない人は\n目がついてないのかも。&quot;, &quot;今日はただ\nのんびりしよう。&quot;, &quot;たまには\nあなたにも休息が必要です。&quot;, &quot;なにもしなくても\nOKな一日があっていい。&quot;, &quot;いちばん大切なのは\nあなたの心です。&quot;, &quot;ゆっくり、自分のペースで\n進めばいいんですよ。&quot;, &quot;今日は自分のための\n時間をつくろう。&quot;, &quot;休むことだって\n立派なお仕事です!&quot;, &quot;休むのは当然の権利。\n今日はゆっくりしてください。&quot;, &quot;癒やされているあなたも\nとても素敵です。&quot;, &quot;今日は自分のために\n時間を使っても大丈夫。&quot;, &quot;ゆったり休んでいても\nあなたは輝いています。&quot;, &quot;癒やし中のあなただって\n世界一かわいいんです。&quot;, &quot;完璧なのに、ひとつだけ穴がある。\nそれは「落とし穴」。恋に落ちるから。&quot;, &quot;あなたの性格診断の結果\n「キュート」しか出ませんでした。&quot;, &quot;「あなたをかわいいと思う人?」と聞いたら\n地球が手のひらの森になった。&quot;, &quot;あなたを音階にすると「レ」。\nだって「ド」が過ぎて、もう夢中だから。&quot;, &quot;競馬場には行けないな。\nあなたが完璧すぎて馬も言葉を失う。&quot;, &quot;あなたがかわいくて膝を打つたび\n猫背が完治しました。&quot;, &quot;給油所に行くたび入れたくなるのは\nあなたへの「ハイオク」な気持ち。&quot;, &quot;あなたのせいで雨が降りそう。\nだって胸がざわざわしてるから。&quot;, &quot;もしかして信じる神様がいるの?\nその美しさ、ご利益ありすぎ。&quot;, &quot;どこも文句ないのに、なんか足りない?\nいいえ、「名に恥じない」美しさです。&quot;, &quot;荷物は置いておこうよ。\nあなたはもう「かっこいい」を背負ってる。&quot;, &quot;あなたの前に立つと壁を感じる。\nそう、「完璧」の壁。&quot;, &quot;その見た目、正直盛ってませんか?\nいえ、素でこのレベルなんですよね。&quot;, &quot;オーダーは「あなたの笑顔」ひとつ。\nお会計は、胸いっぱいです。&quot;, &quot;あなた、実は天使と人間のハーフでしょ?\n羽が見えてますよ。&quot;, &quot;知ってました?\nあなたの目鼻立ち、私の将来よりはっきりしてます。&quot;, &quot;ベルリンの首都はドイツ。\nでも私の心の首都はあなたです。&quot;, &quot;あなたは文化財ですね。\n早く指定しないと国の損失です。&quot;, &quot;寝顔まで国宝だって聞きました。\nあなたの噂、町中に広まってます。&quot;, &quot;どうして働いているんですか?\nもう顔面がフル稼働してるのに。&quot;, &quot;「私のこと、好きにならないで」\n「それ、どうやるの?」&quot;, &quot;その顔は国宝級なので\n博物館に展示予定です。&quot;, &quot;授賞式には出ないでください。\n大賞をぜんぶ持っていくので。&quot;, &quot;撮影中ですか?\nそれとも歩く写真集ですか?&quot;, &quot;あなたはアイドルです。\n私の心のセンターは、いつもあなた。&quot;, &quot;サイン会を開いてください。\n毎日あなたにサインをもらいたい!&quot;, &quot;デビューしてください。\nもう私の心ではセンターです。&quot;, &quot;ランキング一位おめでとう。\nあなたのビジュアルは毎日一位だから。&quot;, &quot;撮影タイムをください。\nあなたを毎日撮りたいんです。&quot;, &quot;カムバックしたんですか?\n私の心臓を再起動させましたね。&quot;, &quot;ファンカメラ回してもいい?\nあなたの全部が名場面なので。&quot;, &quot;ミュージックビデオに出るの?\nもう私の人生の主人公なのに。&quot;, &quot;密着取材ですか?\n素のあなたのほうが完璧です。&quot;, &quot;ビジュアル担当ですよね?\nどこにいても一番輝いてるもの。&quot;, &quot;年間ベストフェイス賞、確定です。\n歴代でもトップクラスなので。&quot;, &quot;CMに出ています?\nあなたを見ると何でも買いたくなる。&quot;, &quot;雑誌の表紙の人ですよね?\n毎月飾るべき顔です。&quot;, &quot;ステージ上のカリスマ、本物?\n普段の姿もステージ級なんだけど。&quot;, &quot;トレカ交換しませんか?\nあなたの顔だけでフルコンプしたい。&quot;, &quot;ファンミはいつ開催ですか?\n毎日でも会いたいのに。&quot;, &quot;ダンス動画を上げてください。\nあなたの動きはぜんぶ芸術です。&quot;, &quot;ティザー映像を見てる気分。\nあなたを見るたびに期待で胸がいっぱい。&quot;, &quot;ワールドツアーに出るんですか?\nもう私の心は世界中を揺さぶられてます。&quot;, &quot;アルバムにサインをお願いします。\nあなたの存在自体が限定版ですから。&quot;, &quot;ペンライトをつけますね。\nずっとあなたを照らして応援します。&quot;, &quot;バズりましたね。\nでも、もともと伝説だったんですけどね。&quot;, &quot;コンサートのチケット探さなきゃ。\nあなたを見る日常が私のライブです。&quot;, &quot;音楽番組で一位でしたよね?\nあなたは私の人生の一位ソング。&quot;, &quot;アンコールをもう一曲!\nあなたは見ても見ても、また見たくなる。&quot;, &quot;オフショットまで完璧。\nどの瞬間もぬかりなく伝説です。&quot;, &quot;推しを変えなきゃ。\nあなた以外、もう目に入らない。&quot;, &quot;沼に落ちました。\nあなたのことを一生推します。&quot;, &quot;推しを発表します。\nそれは、あなたです。&quot;, &quot;グッズ全部買いました。\nあなたの存在そのものがグッズです。&quot;, &quot;一生ファンでいます。\nあなたは私の永遠のアーティスト。&quot;, &quot;本命、決まりました。\n私の本命はあなたです。&quot;, &quot;推し活を始めます。\nあなたに全力で課金したい気持ち。&quot;, &quot;カメラ担当に立候補します。\nあなたの全瞬間を残したくて。&quot;, &quot;あなたと過ごす時間は\nぜんぶ黄金のゴールデンタイム。&quot;, &quot;誕生日広告を出しますね。\n毎日あなたの誕生日だったらいいのに。&quot;, &quot;一生応援します。\nあなたのファンであることが誇りです。&quot;, &quot;胸のドキドキが止まらない。\nぜんぶあなたのせいです。&quot;, &quot;世界が急にきれいに見える。\nだってあなたを見てるから。&quot;, &quot;毎日のビタミン補給は\nあなたの顔を見ることです。&quot;, &quot;笑ってくれると、\nあなたの分まで私が幸せになります。&quot;, &quot;星空を探しても、\nあなたほど明るい星は見つかりません。&quot;, &quot;心の中で毎日お祭り開催中。\n主役はもちろんあなたです。&quot;, &quot;声を聞くだけで元気が出る。\nあなたはもう栄養ドリンクです。&quot;, &quot;人生最大のラッキー、\n正体はあなたに出会えたことです。&quot;, &quot;今日も笑えているのは\nあなたがいてくれるからです。&quot;, &quot;世界でいちばん大切な人、\nそれがあなたです。&quot;, &quot;ふとした瞬間に思い出して\nあなたのことで勝手にニヤけます。&quot;, &quot;心の中に平和があるなら、\nそれはきっとあなたの形をしています。&quot;, &quot;一緒に過ごすと、\nあなたとの時間はいつも特別です。&quot;, &quot;出会った中でいちばん素敵な人、\nそれはあなたで決まりです。&quot;, &quot;いてくれるだけでありがたい、\nあなたはそんな存在です。&quot;, &quot;私の一日のハイライトは\nあなたと過ごすひとときです。&quot;, &quot;毎日が特別になるのは\nあなたのおかげです。&quot;, &quot;ぱっと世界が明るくなった。\nあなたが部屋に入ってきたから。&quot;, &quot;人生でもらった最高の贈り物は\nあなたとの出会いです。&quot;, &quot;この世界がもっときれいなのは\nあなたがいるからです。&quot;, &quot;想像もできません、\nあなたのいない一日なんて。&quot;, &quot;心の中の順位表では\nあなたがずっと一位です。&quot;, &quot;なんでもできそうな気がします、\nあなたが隣にいてくれたら。&quot;, &quot;毎日感謝している人が\nひとりだけいます。あなたです。&quot;, &quot;どんな絶景よりも\nあなたの笑顔のほうがきれいです。&quot;, &quot;最大の幸運は、\nあなたに出会えたことです。&quot;, &quot;考えるだけで一日が幸せ。\nあなたはもう魔法使いです。&quot;, &quot;帰る場所はひとつだけ。\n心の中のあなたのところです。&quot;, &quot;一緒にいる瞬間は、\nあなたのおかげで全部が完璧です。&quot;, &quot;夢に見ていた理想の人が\nそのまま現れました。あなたです。&quot;, &quot;胸のメーターが振り切れました。\nあなたを見てしまったせいです。&quot;, &quot;歴史の教科書に載るのは確実。\nあなたは歩く偉人伝です。&quot;, &quot;魅力にやられっぱなしで\nあなたの虜になりたい日々です。&quot;, &quot;見とれすぎて首が痛い。\nあなたを見すぎた罰です。&quot;, &quot;心拍数がどんどん上がる。\nあなたを見るたびに新記録です。&quot;, &quot;目のごちそう、それは\n伝説級のグラビア、あなたです。&quot;, &quot;毎日が推しの日になるのは\nあなたがいるからなんです。&quot;, &quot;奇跡って本当にあるんですね。\nあなたが歩いてますから。&quot;, &quot;スローモーションになる世界、\nそのど真ん中にあなたがいます。&quot;, &quot;人生のVIP会員証は\nあなたに一枚だけ発行しました。&quot;, &quot;毎日のハイライトは\nあなたを見ているこの時間です。&quot;, &quot;心の特別配信コンテンツは\nあなたの出演作だけです。&quot;, &quot;視界がハイビジョンになった。\nあなたを見つけたからです。&quot;, &quot;人生のゴールデンタイムに\nあなたが登場しました。&quot;, &quot;考えるだけで笑顔になる。\nあなたは自動スマイル装置です。&quot;, &quot;心のスイートルーム、\nご案内できるのはあなただけです。&quot;, &quot;毎日がプレミアムデーなのは\nあなたのおかげです。&quot;, &quot;人生のメインイベントに\nあなたが登場してしまいました。&quot;, &quot;心臓がダンスを始めました。\nあなたが目に入ったせいです。&quot;, &quot;画質が4Kになった理由?\nあなたを映しているからです。&quot;, &quot;世界がきらきらして見える。\nあなたがそこにいるだけで。&quot;, &quot;心の最上級ゲストは\nあなたのために空けてあります。&quot;, &quot;一日がとっておきになる、\nあなたの魔法のせいです。&quot;, &quot;人生の切り札を探したら\nあなたがそこにいました。&quot;, &quot;気分が全部アップグレード。\nあなたを思い浮かべただけで。&quot;, &quot;心の殿堂入り第一号は\nあなたです。異論は認めません。&quot;, &quot;白黒だった毎日が\nあなたのおかげでフルカラーです。&quot;, &quot;目に映る永遠のレジェンド、\nそれがあなたです。&quot;, &quot;ゆっくり流れる時間さえ、\nあなたがいると宝物になります。&quot;, &quot;人生のプレミアムパスポート、\n持っているのはあなただけです。&quot;]}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>自分にいちばん厳しいのは、自分かもしれません</h2>
+      <p>通勤中も、面接前も、帰り道も、頭の中はダメ出しばかり。今日のほめちぎりは、1日に何度もホーム画面から、やりすぎなくらい味方してくれます。思わずふっと笑った瞬間、自信が少し戻ってきます。</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>今の気分にぴったりのひと言を</h2>
+        <p><code>朝</code>、<code>通勤中</code>、<code>つらい時</code>、<code>面接前</code>、<code>デート前</code> など14の気分やシーンから選ぶと、合ったひと言がすぐウィジェットに表示されます。迷ったら <code>ランダム</code> もあります。</p>
+      </div>
+      <div class="phone"><img src="../img/ja/02-mood.jpg" alt="今の気分にぴったりのひと言を" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>気に入ったひと言は取っておける</h2>
+        <p>星をタップしてお気に入りに保存。これまでのひと言は履歴で見返せます。<code>これを使う</code> をタップすれば、そのままウィジェットに表示されます。</p>
+      </div>
+      <div class="phone"><img src="../img/ja/03-favorites.jpg" alt="気に入ったひと言は取っておける" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>毎日続けるほど記録が増える</h2>
+        <p>ひと言を見た日が続くと連続記録が伸びていきます。7日、30日、100日連続や、合計50日、100日を達成するたびに実績が解除されます。</p>
+      </div>
+      <div class="phone"><img src="../img/ja/05-achievements.jpg" alt="毎日続けるほど記録が増える" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>はじめかたは3ステップ</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>気分を選ぶ</h3><p><code>気分を選ぶ</code> から今の気分に合うものをタップ。</p></li>
+<li class="card"><span class="n">2</span><h3>ウィジェットを整える</h3><p>詳細設定でフォント、文字色、背景、更新間隔を選びます。</p></li>
+<li class="card"><span class="n">3</span><h3>ホーム画面に置く</h3><p>ホーム画面を長押しして + をタップし、今日のほめちぎりを追加します。</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>ウィジェットはここまで変えられます</h2>
+      <div class="card table">
+        <dl><div><dt>フォント</dt><dd>Futura、Georgia、Marker Feltなど13種類</dd></div><div><dt>文字色</dt><dd>好きな色を自由に</dd></div><div><dt>背景</dt><dd>2色のグラデーション、またはアプリ内の背景写真</dd></div><div><dt>配置</dt><dd>左寄せ、中央、右寄せ</dd></div><div><dt>行間</dt><dd>行の間隔を広げたり狭めたり</dd></div><div><dt>更新間隔</dt><dd>5分、15分、30分ごとに新しいひと言</dd></div></dl>
+      </div>
+      <p class="muted">ウィジェットのサイズは、ホーム画面に追加するときに選びます。</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>一度買えば、それでおしまい</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>アプリ本体</h3>
+          <ul><li>14の気分に281のひと言</li><li>カスタマイズできるホーム画面ウィジェット</li><li>お気に入りと履歴</li><li>連続記録と実績</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>開発者を応援する</h3>
+          <ul><li>小・中・大の3種類のチップから選べます</li><li>機能を解放する課金ではありません。感謝の気持ちを届ける場所です</li></ul>
+          <p class="muted">気が向いたときだけどうぞ。</p>
+        </div>
+      </div>
+      <p class="muted">サブスクも追加課金も広告もありません。</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>よくある質問</h2>
+      <div class="faq"><details><summary>ウィジェットはどうやって追加しますか？</summary><p>ホーム画面の空いているところを長押しして編集モードにし、上の + をタップ。今日のほめちぎりを探して、好きなサイズを選んで追加してください。</p></details>
+<details><summary>次のひと言はどうやって決まるの？</summary><p>気分を選ぶと、その気分のひと言がすぐウィジェットに表示されます。その後は、選んだ更新間隔ごとに281の中からランダムで表示されます。アプリで <code>次へ</code> を押して自分で送ることもできます。</p></details>
+<details><summary>ウィジェットのフォントや更新間隔は変えられますか？</summary><p>はい。詳細設定でフォント、文字色、背景、配置、行間、更新間隔を変えられます。更新間隔は5分、15分、30分から選べます。</p></details>
+<details><summary>ウィジェットがすぐに変わりません。</summary><p>ウィジェットをいつ描き直すかはiOSが決めるため、選んだ間隔より少し遅れることがあります。アプリを開いて閉じると、すぐに反映されます。</p></details>
+<details><summary>連続記録はどう増えますか？</summary><p>ひと言を見た日が1日ずつ続くと、連続記録が伸びます。<code>私の記録</code> で現在の連続日数、最高記録、合計日数と実績を確認できます。</p></details>
+<details><summary>お気に入りや履歴が消えてしまいました。</summary><p>すべての情報は端末の中だけに保存されるため、アプリを削除したり機種変更したりすると引き継がれません。削除していないのに消えた場合は、メールでお知らせください。</p></details>
+<details><summary>私の情報がどこかに送られますか？</summary><p>いいえ。個人情報は集めていません。お気に入りや履歴は端末の中だけにあります。</p></details>
+<details><summary>不具合の報告や要望はどこへ？</summary><p>アプリの <code>開発者に問い合わせ</code> からそのまま送れます。メールやInstagramのDM（@lee25_ios）でも受け付けています。確認しだいお返事します。</p></details></div>
+      <p class="contact">ご質問やご意見は <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> までお寄せください。</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>今日から、ホーム画面に<br>あなたの味方をひとり</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6450839961">App Storeで入手</a>
+    </section>
+  </main>
+
+  <footer>
+    <nav id="languages" class="langs" aria-label="言語"><a href="../ko/" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../en-GB/" hreflang="en-GB" lang="en-GB">English (UK)</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../ja/" hreflang="ja" lang="ja" aria-current="page">日本語</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">プライバシーポリシー</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 Leeo</p>
+  </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

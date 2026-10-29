@@ -1,56 +1,192 @@
 <!doctype html>
 <html lang="cs">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Pochvala dne — Pojďme přehánět spolu</title>
-<meta name="description" content="Pochvala dne je widget, který tě chválí přehnaně a povzbuzuje nahlas.">
-<!--hreflang-->
-<link rel="alternate" hreflang="ko" href="https://m1zz.github.io/Jujob/ko/index.html">
-<link rel="alternate" hreflang="en" href="https://m1zz.github.io/Jujob/en/index.html">
-<link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/Jujob/en-GB/index.html">
-<link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/Jujob/zh-Hans/index.html">
-<link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/Jujob/zh-Hant/index.html">
-<link rel="alternate" hreflang="ja" href="https://m1zz.github.io/Jujob/ja/index.html">
-<link rel="alternate" hreflang="ru" href="https://m1zz.github.io/Jujob/ru/index.html">
-<link rel="alternate" hreflang="es" href="https://m1zz.github.io/Jujob/es/index.html">
-<link rel="alternate" hreflang="de" href="https://m1zz.github.io/Jujob/de/index.html">
-<link rel="alternate" hreflang="fr" href="https://m1zz.github.io/Jujob/fr/index.html">
-<link rel="alternate" hreflang="it" href="https://m1zz.github.io/Jujob/it/index.html">
-<link rel="alternate" hreflang="pt-BR" href="https://m1zz.github.io/Jujob/pt-BR/index.html">
-<link rel="alternate" hreflang="th" href="https://m1zz.github.io/Jujob/th/index.html">
-<link rel="alternate" hreflang="vi" href="https://m1zz.github.io/Jujob/vi/index.html">
-<link rel="alternate" hreflang="cs" href="https://m1zz.github.io/Jujob/cs/index.html">
-<link rel="alternate" hreflang="da" href="https://m1zz.github.io/Jujob/da/index.html">
-<link rel="alternate" hreflang="el" href="https://m1zz.github.io/Jujob/el/index.html">
-<link rel="alternate" hreflang="fi" href="https://m1zz.github.io/Jujob/fi/index.html">
-<link rel="alternate" hreflang="id" href="https://m1zz.github.io/Jujob/id/index.html">
-<link rel="alternate" hreflang="nb" href="https://m1zz.github.io/Jujob/nb/index.html">
-<link rel="alternate" hreflang="nl" href="https://m1zz.github.io/Jujob/nl/index.html">
-<link rel="alternate" hreflang="pl" href="https://m1zz.github.io/Jujob/pl/index.html">
-<link rel="alternate" hreflang="sv" href="https://m1zz.github.io/Jujob/sv/index.html">
-<link rel="alternate" hreflang="tr" href="https://m1zz.github.io/Jujob/tr/index.html">
-<link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/Jujob/en/index.html">
-<!--/hreflang-->
-<style>body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.7;max-width:720px;margin:0 auto;padding:24px 18px 48px;color:#1c1c1e;background:#fff}
-@media(prefers-color-scheme:dark){body{color:#f2f2f7;background:#1c1c1e}a{color:#64b5ff}}
-h1{font-size:1.7em;margin:.6em 0 .2em}h2{font-size:1.15em;margin:1.6em 0 .4em}nav.top{display:flex;gap:16px;flex-wrap:wrap;font-size:.95em;margin-bottom:12px}
-.sub{opacity:.7;margin-top:0}ul{padding-left:1.2em}.langs{margin-top:40px;padding-top:16px;border-top:1px solid #8884;font-size:.9em}.langs a{display:inline-block;margin:2px 8px 2px 0}footer{margin-top:24px;opacity:.6;font-size:.85em}</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pochvala dne: widget, který vás chválí až přes míru</title>
+  <meta name="description" content="Widget na ploše s novou přehnanou pochvalou každých 5, 15 nebo 30 minut. 281 hlášek na každou náladu, série a další. Platíte jen jednou.">
+  <meta name="theme-color" content="#C2600A" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0a0d0f" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6450839961">
+  <link rel="canonical" href="https://m1zz.github.io/Jujob/cs/">
+  <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/Jujob/ko/">
+  <link rel="alternate" hreflang="en" href="https://m1zz.github.io/Jujob/en/">
+  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/Jujob/en-GB/">
+  <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/Jujob/zh-Hans/">
+  <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/Jujob/zh-Hant/">
+  <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/Jujob/ja/">
+  <link rel="alternate" hreflang="ru" href="https://m1zz.github.io/Jujob/ru/">
+  <link rel="alternate" hreflang="es" href="https://m1zz.github.io/Jujob/es/">
+  <link rel="alternate" hreflang="de" href="https://m1zz.github.io/Jujob/de/">
+  <link rel="alternate" hreflang="fr" href="https://m1zz.github.io/Jujob/fr/">
+  <link rel="alternate" hreflang="it" href="https://m1zz.github.io/Jujob/it/">
+  <link rel="alternate" hreflang="pt-BR" href="https://m1zz.github.io/Jujob/pt-BR/">
+  <link rel="alternate" hreflang="th" href="https://m1zz.github.io/Jujob/th/">
+  <link rel="alternate" hreflang="vi" href="https://m1zz.github.io/Jujob/vi/">
+  <link rel="alternate" hreflang="cs" href="https://m1zz.github.io/Jujob/cs/">
+  <link rel="alternate" hreflang="da" href="https://m1zz.github.io/Jujob/da/">
+  <link rel="alternate" hreflang="el" href="https://m1zz.github.io/Jujob/el/">
+  <link rel="alternate" hreflang="fi" href="https://m1zz.github.io/Jujob/fi/">
+  <link rel="alternate" hreflang="id" href="https://m1zz.github.io/Jujob/id/">
+  <link rel="alternate" hreflang="nb" href="https://m1zz.github.io/Jujob/nb/">
+  <link rel="alternate" hreflang="nl" href="https://m1zz.github.io/Jujob/nl/">
+  <link rel="alternate" hreflang="pl" href="https://m1zz.github.io/Jujob/pl/">
+  <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/Jujob/sv/">
+  <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/Jujob/tr/">
+  <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/Jujob/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Pochvala dne: widget, který vás chválí až přes míru">
+  <meta property="og:description" content="Widget na ploše s novou přehnanou pochvalou každých 5, 15 nebo 30 minut. 281 hlášek na každou náladu, série a další. Platíte jen jednou.">
+  <meta property="og:url" content="https://m1zz.github.io/Jujob/cs/">
+  <meta property="og:image" content="https://m1zz.github.io/Jujob/img/cs/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#C2600A}@media (prefers-color-scheme:dark){:root{--accent:#FFB547}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="top"><a href="index.html" aria-current=page>Úvod</a><a href="privacy.html">Ochrana soukromí</a><a href="support.html">Podpora</a></nav>
-<h1>Pochvala dne</h1>
-<p class="sub">Pojďme přehánět spolu</p>
-<p>Pochvala dne je widget, který tě chválí přehnaně a povzbuzuje nahlas.</p>
-<ul>
-<li>281 hlášek přímo ve widgetu na ploše</li>
-<li>Hlášky podle nálady a situace</li>
-<li>Tvoje jméno místo „ty“ v každé hlášce</li>
-<li>Oblíbené a historie pro hlášky, které tě pobavily</li>
-<li>Série a úspěchy, které tě drží v dobré náladě</li>
-</ul>
-<p><a href="privacy.html">Ochrana soukromí</a> · <a href="support.html">Podpora</a></p>
-<div class="langs"><!--langs--><a href="../ko/index.html" hreflang="ko" lang="ko">한국어</a> <a href="../en/index.html" hreflang="en" lang="en">English</a> <a href="../en-GB/index.html" hreflang="en-GB" lang="en-GB">English (UK)</a> <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> <a href="../es/index.html" hreflang="es" lang="es">Español</a> <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a><!--/langs--></div>
-<footer>© 2026 Leeo</footer>
+  <a class="skip" href="#main">Přejít na obsah</a>
+  <header class="bar">
+    <a class="brand" href="../cs/"><img src="../icon.png" alt="" width="32" height="32">Pochvala dne</a>
+    <a class="lang-link" href="#languages">Jazyk</a>
+  </header>
+
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>Pokaždé, když vezmete telefon,<br>čeká na vás váš největší fanoušek</h1>
+        <p class="lead">Pochvala dne je widget, který vás schválně chválí až moc. Ráno ranní hláška, před pohovorem hláška na pohovor. Písmo, barvy i pozadí si nastavíte podle sebe.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6450839961">Stáhnout z App Storu</a><a class="try" href="#try">Nechte se pochválit hned teď ↓</a></div>
+        <p class="muted small">Jeden nákup a máte všechno. Žádné předplatné ani reklamy.</p>
+      </div>
+      <div class="phone"><img src="../img/cs/01-main.jpg" alt="Pokaždé, když vezmete telefon, čeká na vás váš největší fanoušek" width="720" height="1564" decoding="async"></div>
+    </section>
+
+
+    <section class="reveal" id="try">
+      <h2>Nechte se pochválit hned teď</h2>
+      <p class="muted">Vyberte náladu a widget ukáže hlášku, která k ní sedí. Klepněte na Další hláška a vylosuje se jedna z 281.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;Nechte se pochválit hned teď&quot;, &quot;lead&quot;: &quot;Vyberte náladu a widget ukáže hlášku, která k ní sedí. Klepněte na Další hláška a vylosuje se jedna z 281.&quot;, &quot;next&quot;: &quot;Další hláška&quot;, &quot;note&quot;: &quot;Jsou to skutečné hlášky z aplikace. V aplikaci se widget sám přepne na další každých 5, 15 nebo 30 minut.&quot;, &quot;moods&quot;: [{&quot;emoji&quot;: &quot;🌅&quot;, &quot;name&quot;: &quot;Ráno&quot;, &quot;first&quot;: 0}, {&quot;emoji&quot;: &quot;🚶&quot;, &quot;name&quot;: &quot;Cesta do práce&quot;, &quot;first&quot;: 69}, {&quot;emoji&quot;: &quot;💪&quot;, &quot;name&quot;: &quot;Těžké chvíle&quot;, &quot;first&quot;: 36}, {&quot;emoji&quot;: &quot;👔&quot;, &quot;name&quot;: &quot;Před pohovorem&quot;, &quot;first&quot;: 100}, {&quot;emoji&quot;: &quot;💕&quot;, &quot;name&quot;: &quot;Před rande&quot;, &quot;first&quot;: 111}, {&quot;emoji&quot;: &quot;🏠&quot;, &quot;name&quot;: &quot;Cesta domů&quot;, &quot;first&quot;: 79}], &quot;quotes&quot;: [&quot;Dobré ráno! Slunce dnes vstává\njen proto, že ty už jsi vzhůru.&quot;, &quot;Káva? Pro tebe zbytečná,\nty potřebuješ jen publikum.&quot;, &quot;Ráno vstát? To zvládne jen ty,\nostatní se ještě nabíjejí.&quot;, &quot;Budík zazvonil a celý svět\nzadržel dech, jestli ty vstaneš.&quot;, &quot;Hlavní role dne: ty.\nOstatní jsou jen komparz.&quot;, &quot;Oči otevřené a ty už vítězíš.\nTohle je talent.&quot;, &quot;Káva je fajn, ale ráno ty\nbereš dech mnohem víc.&quot;, &quot;Dneska buď zase ty.\nTo je ta nejlepší varianta!&quot;, &quot;Hned po ránu takhle zářit?\nOpravdu to ty přeháníš!&quot;, &quot;Dobré ráno? Spíš nejlepší ráno,\nprotože v něm jsi ty.&quot;, &quot;Sotva otevřeš oči, už je tu\nnejhezčí pohled dne: ty.&quot;, &quot;Ranní ty je nejlepší ty na světě.\nHvězdy mají dneska volno.&quot;, &quot;Vstávat dnes ráno je hračka,\nkdyž na světě existuje ty.&quot;, &quot;Den končí, ale ty jako legenda\njedeš dál i po západu slunce.&quot;, &quot;Večer svítí hvězdy,\nale ty jim stejně kradeš show.&quot;, &quot;Únava jde spát, ty jsi\npořád hvězda i v domácím.&quot;, &quot;Měsíc se ptá, kdo to tam tak\nzáří. To budeš ty.&quot;, &quot;Za dnešek ti patří medaile\na ty víš za co.&quot;, &quot;Večerní ty je tak krásné,\nže si zaslouží vlastní hymnu.&quot;, &quot;I po celém dni vypadáš skvěle.\nJak to ty děláš?&quot;, &quot;Tolik práce, a ty se ještě\nusmíváš? To je nadpozemské.&quot;, &quot;Dobrou noc, ty hvězdo.\nZítřek už se na tebe těší.&quot;, &quot;Den končí, ale ty zůstáváš\nnejvětší hit večera.&quot;, &quot;Zlý den mít můžeš, ale ty to\nzvládáš líp, než si myslíš.&quot;, &quot;I když je zataženo, ty\npořád svítíš za celý den.&quot;, &quot;Nemusíš být dokonalý, stačí,\nže ty jsi ty. A to je pecka.&quot;, &quot;Když je těžko, zpomal. Svět\npočká, až ty zase nakopneš.&quot;, &quot;Víš, že ty jsi silnější,\nnež tvoje nálada?&quot;, &quot;I tohle přejde, a ty\nzůstaneš legenda.&quot;, &quot;Nálada v suterénu, ale ty\nmáš pořád cenu zlata.&quot;, &quot;Smutek je jen host a ty\njsi tu doma.&quot;, &quot;Plakat se smí. Dokonce i ty\nu toho vypadáš jako z filmu.&quot;, &quot;Diamant potřebuje tlak, aby zazářil.\nTakže ty teď doslova brousíš.&quot;, &quot;Dnešní smutek? Kašleme na něj,\nty máš důležitější práci: zářit.&quot;, &quot;I s kyselým výrazem ty\nvypadáš jako reklama na štěstí.&quot;, &quot;Splín? Ten ať si najde jiného,\nty máš nárok jen na dobré věci.&quot;, &quot;Dnes je to boj, ale ty\nvždycky vyhraješ, víš to?&quot;, &quot;Čím těžší chvíle, tím víc se ukáže,\njak ty umíš zářit.&quot;, &quot;Nevzdávej to. Hrdinové\njako ty se nevzdávají.&quot;, &quot;Že to zvládáš i v tomhle,\nto umíš jen ty. Obdivuju to!&quot;, &quot;Dnešní trable jsou zítřejší\nvyprávění a ty jsi hlavní hrdina.&quot;, &quot;Kolik toho ty uneseš?\nSpíš víc než nákladní auto.&quot;, &quot;Za týden se tomu zasmějeme\na ty budeš ten, kdo vyhrál.&quot;, &quot;Kamení se brousí a ty\nse zrovna lesknou víc.&quot;, &quot;I když je zle, ty vypadáš\npořád jako milion dolarů.&quot;, &quot;To, že ty vytrváš,\nje pro někoho velká naděje.&quot;, &quot;Umřít únavou, ale pořád\nhezky vypadat? To umíš jen ty.&quot;, &quot;Dnes to ty dáš. Klidně\ns úsměvem a bez nervů.&quot;, &quot;Zvládneš to? Pochybnost nula,\nprotože ty to máš v malíčku.&quot;, &quot;Půlka úspěchu je za tebou,\ndruhou půlku ty dodáš.&quot;, &quot;Dnešní úkoly se už třesou,\nprotože ty jdeš do akce.&quot;, &quot;Tvoje nadšení rozsvítí celý den,\nprotože ty jsi živá elektrárna.&quot;, &quot;Do toho! Dneska to ty\nrozjedeš po svém.&quot;, &quot;Práce ještě nezačala a ty\nuž vypadáš jako profík.&quot;, &quot;Nechce se do práce? Aspoň ty\nvypadáš, že ti to jde samo.&quot;, &quot;V práci ty děláš z kanceláře\npřehlídkové molo.&quot;, &quot;Když pracuješ, ty z toho\nděláš umění.&quot;, &quot;Práce ještě ani nezačala\na ty už jsi dokonalost sama.&quot;, &quot;Cvičení je fajn, ale ty jsi\nhvězda už na startu.&quot;, &quot;Dneska šlapeš do zdraví,\na ty to děláš s grácií.&quot;, &quot;Tělo ví, co potřebuje, a ty\nmu to dopřeješ.&quot;, &quot;Už první krok k činkám\nukazuje, že ty to myslíš vážně.&quot;, &quot;Pot ti sluší, ty\nsvítíš i na žíněnce.&quot;, &quot;Zdraví je poklad a ty\nho chráníš jako drak.&quot;, &quot;Že ty si najdeš čas na sebe,\nto je opravdová síla.&quot;, &quot;V teplákách ty vypadáš\njak na titulce časopisu.&quot;, &quot;Posilovna se po tobě otáčí,\nty jsi její nejlepší reklama.&quot;, &quot;Při cvičení svítíš. Jak ty\nto děláš pokaždé?&quot;, &quot;Kdo je krásný i zpocený?\nNo přece ty.&quot;, &quot;Cestou do práce ty vypadáš\njako hvězda byznysu.&quot;, &quot;Hned ráno v pohybu? Teď ty\njsi stroj na úspěch.&quot;, &quot;Do práce jdeš a ty už\nvítězíš. Pozdrav šéfa.&quot;, &quot;Každý krok po chodníku je\nstopa slávy, když jdeš ty.&quot;, &quot;Cesta s tebou má jinou atmosféru,\nprotože ty jsi bonus.&quot;, &quot;Zodpovědně míříš do práce,\nty jsi vzor pro celou ulici.&quot;, &quot;Metro je dneska molo,\nprotože v něm jdeš ty.&quot;, &quot;V autobuse svítíš. Natáčí se tu\nněco, nebo jsi to ty?&quot;, &quot;Když ty jdeš do práce,\nje to hned veselejší ráno.&quot;, &quot;Chodit tak krásně dokáže\njen ty. Svět tleská.&quot;, &quot;Dobrá práce! Cestou domů\nuž jen ty a odpočinek.&quot;, &quot;Po práci vypadáš pořád jako film.\nJak to ty vlastně děláš?&quot;, &quot;Cesta domů je tvoje vítězné kolo,\nty králi i královno.&quot;, &quot;Den splněn! Kdo je tu hrdina?\nJasně, že ty.&quot;, &quot;Večer patří jen tobě, a ty\nsi ho zasloužíš.&quot;, &quot;Doma čeká pohodlí. Dej si ho,\nty si ho zasloužíš.&quot;, &quot;Po práci ti patří potlesk ve stoje,\na ty víš proč.&quot;, &quot;I cesta domů je s tebou přehlídka,\nprotože ty prostě umíš.&quot;, &quot;Kancelář ti zamává, ty\nzamáváš zpátky jako hvězda.&quot;, &quot;Těžký den to byl, ale ty\njsi stejně číslo jedna.&quot;, &quot;Učení je za tebou, takže ty\njdeš do toho s přehledem.&quot;, &quot;Snaha nikdy nezradí a ty\nji máš vždycky nadoraz.&quot;, &quot;Trému můžeš mít, ale ty\nmáš v hlavě víc, než tušíš.&quot;, &quot;Známka nemění, kdo ty jsi.\nA ty jsi hvězda.&quot;, &quot;Víc už dát nešlo, takže ty\njsi vítěz už teď.&quot;, &quot;Test dopadne dobře, protože ty\nna něj máš. Pecka.&quot;, &quot;Nadechni se a věř, že ty\nto zvládneš i poslepu.&quot;, &quot;Hodně štěstí, i když ty\nho vlastně nepotřebuješ.&quot;, &quot;Nebuď nervózní: ty umíš víc,\nnež by tě napadlo.&quot;, &quot;Třesou se ti ruce? Třeba z toho,\njak ty umíš všechno.&quot;, &quot;Zkušební list se do tebe zamiluje,\njakmile ty napíšeš první řádek.&quot;, &quot;Na pohovor? Čas se zastaví,\naž tam ty vejdeš.&quot;, &quot;Ten, kdo vede pohovor,\nmá štěstí, že ty přijdeš.&quot;, &quot;Zkušenosti i nadšení máš,\na ty je dneska ukážeš.&quot;, &quot;Tréma je v pořádku, ty\nmáš v rukávu ještě ten úsměv.&quot;, &quot;Jdi do toho s úsměvem,\nprotože ty už vyhráváš.&quot;, &quot;Svůj příběh vyprávěj hrdě.\nNikdo ho neumí tak jako ty.&quot;, &quot;Pohovor je jen rozhovor.\nKdyž ty mluvíš, svět poslouchá.&quot;, &quot;Kdo tě nevezme, přijde o hvězdu\na ty to ani nemusíš řešit.&quot;, &quot;Životopis je hezký, ale ty\njsi lepší než jakékoli CV.&quot;, &quot;Už u dveří je to jasné:\nty máš práci v kapse.&quot;, &quot;První dojem? Ten ty zvládneš\nještě před pozdravem.&quot;, &quot;Zářivé, bez filtrů a bez omluv,\npřesně takové je dnešní ty.&quot;, &quot;Takhle, bez ničeho, ty jsi\nnejpřitažlivější verze sebe.&quot;, &quot;Kdo je s tebou, má obrovské štěstí\na ty o tom ani nevíš.&quot;, &quot;Sebevědomí ti sluší a ty ho\nnosíš líp než kdokoli.&quot;, &quot;Tvůj úsměv je nejsilnější zbraň\na ty s ním dobýváš svět.&quot;, &quot;Být sám sebou? Dnes ty to umíš\ntak, že se nedá odolat.&quot;, &quot;Kouzlo, co ty máš,\nse nedá schovat.&quot;, &quot;Dnes rande? Ten druhý se\nzamiluje, jakmile ty zazáříš.&quot;, &quot;Kdo se s tebou potká, má\nv kalendáři tučně: ty.&quot;, &quot;Outfit na rande sedí tak,\nže ty klidně otevřeš módní týden.&quot;, &quot;Jen ty a rande, a světla\nse rozsvítí samy.&quot;, &quot;Rande ještě nezačalo a ty\nuž teď lámeš srdce.&quot;, &quot;Zvládneš to, protože ty\nna to prostě máš.&quot;, &quot;I malý krok je start velké dráhy\na ty už jdeš.&quot;, &quot;Nevzdávej se. Sny se plní\ntěm, co jsou jako ty.&quot;, &quot;Dnešní dřina je zítřejší výhra,\na ty ji sbíráš plnými hrstmi.&quot;, &quot;S takovou vášní, jakou ty máš,\nse dá změnit svět.&quot;, &quot;Neúspěch je jen zkouška a ty\nna ni máš výborný talent.&quot;, &quot;Tvoje možnosti nemají strop,\nty ho prostě přerosteš.&quot;, &quot;Dnes zkus naplno, vždyť ty umíš\nvíc, než ukazuješ.&quot;, &quot;Když ty makáš, někdo\nkolem se inspiruje.&quot;, &quot;Všechno dobře dopadne, protože\nty jsi v tom. Fakt.&quot;, &quot;Svět potřebuje víc lidí,\njako jsi ty.&quot;, &quot;Dnes ty ukážeš,\nco v tobě je.&quot;, &quot;Kdo vidí, jak se ty snažíš,\nten ti fandí.&quot;, &quot;Jsi víc než dost a ty to\ndobře víš, nebo ne?&quot;, &quot;Přesně tak, jak ty to děláš,\nje to dokonalé.&quot;, &quot;Už to, že ty existuješ,\nje událost roku.&quot;, &quot;Hlavu nahoru, protože ty\njsi zkrátka fenomén.&quot;, &quot;Silnější, než si myslíš, a ty\nto dnes ukážeš.&quot;, &quot;Tvoje osobnost je superschopnost\na ty ji nosíš naplno.&quot;, &quot;Věř si, ty nejsi náhoda,\nty jsi mistrovské dílo.&quot;, &quot;Bez úprav a bez filtrů ty\njsi prostě originál.&quot;, &quot;Sebejistota ti sluší, ty\nmě učíš, jak se září.&quot;, &quot;Obyčejnost a ty? To nejde\ndohromady ani s lepidlem.&quot;, &quot;Tolik už zvládáš, že ty\nmůžeš otevřít kurz.&quot;, &quot;Kdo nevidí, jak ty kouzlíš,\nasi nosí zamlžené brýle.&quot;, &quot;Dnes jen odpočívej, ty\nsi to zasloužíš.&quot;, &quot;Taky ty potřebuješ\ndobít baterky.&quot;, &quot;Klidně nedělat nic. Ani to\nty neděláš špatně.&quot;, &quot;Duše je tvoje priorita, a ty\njí dnes dáš pozornost.&quot;, &quot;Pomalu, svým tempem, ty\njsi ten, kdo určuje rytmus.&quot;, &quot;Dnes máš čas jen pro sebe a ty\nsi ho pořádně vychutnáš.&quot;, &quot;Odpočinek je taky výkon, a ty v něm\nmáš zlatou medaili.&quot;, &quot;Máš právo si oddechnout,\nty pohodový šampione.&quot;, &quot;Takhle krásně odpočívat umíš\njen ty. Respekt.&quot;, &quot;Čas pro sebe? Klidně, ty\nsi ho můžeš dát hned.&quot;, &quot;I na gauči ty záříš jako\nhotel s pěti hvězdičkami.&quot;, &quot;Dokonce i při pohodě ty\nvypadáš jako výhra.&quot;, &quot;Dokonalost s jedním háčkem.\nTen háček? Že ty o tom nevíš.&quot;, &quot;Test osobnosti dopadl jasně:\nty jsi na 100 % roztomilost.&quot;, &quot;Kdo si myslí, že ty jsi\nk sežrání, ať zvedne ruku.&quot;, &quot;Policie hlásí: tvoje krása\npřekročila povolenou rychlost.&quot;, &quot;Ze všeho v cukrárně\nty jsi ten nejsladší zákusek.&quot;, &quot;Mám slabý zrak? Ne,\njen ty zářiš na 100 wattů.&quot;, &quot;Pošli mi číslo. Ne to telefonní,\nto ty jsi moje jednička.&quot;, &quot;Určitě nejsi z nebe? Když ty\nvypadáš jak anděl bez práce.&quot;, &quot;Svátek máš dneska ty,\na zítra taky.&quot;, &quot;Wi-Fi ukazuje plný signál,\nale ty jsi lepší připojení.&quot;, &quot;Cena za roli sebe sama jde\njasně k tobě, ty talente.&quot;, &quot;Čas se zastavil, protože ty\njsi nejhezčí pohled dne.&quot;, &quot;Došla mi slova, protože ty\nbereš dech i slovník.&quot;, &quot;Jako mapa: ty ukazuješ směr,\nkterým se chci dívat.&quot;, &quot;Cukr ti uhne z dráhy,\nprotože ty jsi sladší.&quot;, &quot;Krása by měla mít cenu,\nale ty jsi k nezaplacení.&quot;, &quot;Praha je hezká, ale ty\nji přezáříš i v dešti.&quot;, &quot;Hodnotím tě na 10 z 10.\nVlastně ty jsi mimo stupnici.&quot;, &quot;Tvoje kouzlo je tak silné,\nže ty ho nemusíš ani zapínat.&quot;, &quot;Proč ty pracuješ? Tvoje\nkrása dělá přesčasy za tebe.&quot;, &quot;Přestaň mi dělat radost!\nNejde to? Tak ty už zůstaň.&quot;, &quot;Do muzea s tím, protože ty\njsi nejkrásnější exponát.&quot;, &quot;Ceny za krásu rozdají v neděli,\nale ty ji už máš doma.&quot;, &quot;Focení? Pro tebe nic nového,\nty pózuješ i při chůzi.&quot;, &quot;Idol? Dnes to ty jsi,\nv mém srdci číslo jedna.&quot;, &quot;Autogramiáda by měla být,\nty rozdáváš úsměvy zadarmo.&quot;, &quot;Debutovat už nemusíš, ty\njsi ve středu mého světa.&quot;, &quot;Hitparáda? Tam, kde ty jsi,\nje každý týden první místo.&quot;, &quot;Chci foto s tebou, ty\njsi galerie sama o sobě.&quot;, &quot;Comeback roku? To ty se\nvracíš do mého srdce.&quot;, &quot;Natočit tě? Každý záběr je\nvýběr roku, když v něm jsi ty.&quot;, &quot;Videoklip nepotřebuješ,\nty jsi hlavní postava mého dne.&quot;, &quot;Televizní show? Scénář nepotřebuješ,\nty jsi příběh sám o sobě.&quot;, &quot;Střed pozornosti sedí\nv každé místnosti: ty.&quot;, &quot;Cena za nejlepší obličej roku?\nJistě ty. Porota už nehlasuje.&quot;, &quot;Se tvou tváří by se vyprodalo\nvšechno, ty jsi nejlepší značka.&quot;, &quot;Titulka časopisu? Na tu ty\nmáš nárok každý měsíc.&quot;, &quot;Na pódiu zazáříš, ale ty\nsvítíš i v obýváku.&quot;, &quot;Kartičky s tvou tváří by byly hit,\na ty jsi na nich hlavní hvězda.&quot;, &quot;Setkání s fanoušky? Stačí\njedno: pozvi mě, ty hvězdo.&quot;, &quot;Choreografii nepotřebuješ,\nty tančíš i na chodníku.&quot;, &quot;To není trailer, to jsi ty:\nfilm, který chci vidět pořád.&quot;, &quot;Turné po světě? Mně stačí,\nkdyž ty mávneš z okna.&quot;, &quot;Limitovaná edice jsi ty,\njediný kus na světě.&quot;, &quot;Světýlka nahoru! Všechna svítí\njen proto, že ty jsi na pódiu.&quot;, &quot;Víc fanoušků, než ty tušíš,\nti dnes tleská.&quot;, &quot;Lístek na koncert? Mám\nvstupenku zadarmo: ty.&quot;, &quot;Hit sezóny? No přece ty,\nv tom není diskuse.&quot;, &quot;Bis! Bis! Ať ty se objevíš\nna jevišti ještě jednou.&quot;, &quot;I mimo záběr ty vypadáš\njako vrchol celého dne.&quot;, &quot;Oblíbence měním, protože\nty jsi ta nová jednička.&quot;, &quot;Jsem tvůj fanoušek, protože\nty jsi hlavní hvězda.&quot;, &quot;Můj favorit číslo jedna?\nBez diskuse ty.&quot;, &quot;Merch nepotřebuju, ty\njsi sběratelský kousek.&quot;, &quot;Fandím ti navždy, protože ty\njsi můj nejlepší důvod.&quot;, &quot;Základna fanklubu je tam,\nkde jsi ty.&quot;, &quot;Fanouškovská mise začíná.\nCíl: ty.&quot;, &quot;Dokumentuju každý tvůj krok,\nprotože ty jsi vzácný úkaz.&quot;, &quot;Čas fanynek: s tebou\nje každá chvíle zlatá, ty zlato.&quot;, &quot;Oslava narozenin? Klidně každý den,\nty si ji zasloužíš.&quot;, &quot;Fandím ti celý život,\nty jsi totiž náš společný hit.&quot;, &quot;Srdce mi buší jako buben,\nkdyž ty vejdeš do dveří.&quot;, &quot;Svět je hezčí místo,\njakmile ty jsi poblíž.&quot;, &quot;Pro mě ty jsi\nvitamín štěstí.&quot;, &quot;Když se ty směješ,\nsměje se celý svět.&quot;, &quot;Ze všech hvězd ty jsi\nta nejjasnější.&quot;, &quot;S tebou je každý den\nfestival, protože ty ho děláš.&quot;, &quot;Stačí slyšet, jak ty mluvíš,\na mám hned dobrou náladu.&quot;, &quot;Největší štěstí v mém životě?\nJasně že ty.&quot;, &quot;Díky tobě se směju,\nprotože ty jsi ten důvod.&quot;, &quot;Ze všech lidí na světě\nje pro mě nejdůležitější ty.&quot;, &quot;Při pomyšlení na tebe se\nusmívám a ty o tom nevíš.&quot;, &quot;Kolem tebe je klid,\nty jsi můj mír.&quot;, &quot;Čas s tebou je vždycky\nzvláštní, protože ty jsi ty.&quot;, &quot;Z lidí, které znám, je tou\nnejlepší právě ty.&quot;, &quot;Jen to, že ty existuješ,\nmi dělá radost.&quot;, &quot;Highlight mého dne?\nTo jsi prostě ty.&quot;, &quot;Každý den je jiný, protože\nty ho děláš výjimečným.&quot;, &quot;Když ty vejdeš do místnosti,\nsvítí i vypnuté lampy.&quot;, &quot;Nejhezčí dárek od života?\nŽe ty vůbec existuješ.&quot;, &quot;Díky tobě je svět barevnější\na ty to víš.&quot;, &quot;Den bez tebe nedává smysl,\nty jsi přece jeho střed.&quot;, &quot;V žebříčku srdce ty vedeš\na nikdo tě nepředběhne.&quot;, &quot;S tebou zvládnu cokoli,\nty jsi můj tým.&quot;, &quot;Každý den děkuju, že ty\njsi na světě.&quot;, &quot;Úsměv, který ty máš, je krásnější\nnež cokoli, co znám.&quot;, &quot;Největší požehnání? Že ty\njsi v mém životě.&quot;, &quot;Stačí na tebe pomyslet a ty\nmi zlepšíš celý den.&quot;, &quot;Domov není tam, kde bydlím,\nale tam, kde jsi ty.&quot;, &quot;S tebou je vše dokonalé, ty\nse ani nemusíš snažit.&quot;, &quot;Ideál, o kterém se mi zdálo,\njsi ty, bez diskuse.&quot;, &quot;Srdce přeskočí rytmus, jakmile\nty mrkneš.&quot;, &quot;Chodící učebnice krásy,\na ty jsi její hlavní kapitola.&quot;, &quot;Tvůj šarm je nebezpečný,\nale ty ho nosíš s úsměvem.&quot;, &quot;Z koukání na tebe mě bolí\nkrk, a ty za to můžeš.&quot;, &quot;Můj tep ví, kdy ty jdeš:\nhned vyskočí nahoru.&quot;, &quot;Pro moje oči jsi\nty hlavní událost.&quot;, &quot;Každý den je svátek,\nprotože ty jsi tu.&quot;, &quot;Zázraky existují, ty jsi\nten nejlepší z nich.&quot;, &quot;Jakmile ty přijdeš, svět\njede ve zpomaleném záběru.&quot;, &quot;Můj život je VIP zóna,\nvstup má jen ty.&quot;, &quot;Hvězdná chvíle dne?\nKdyž se ty usmíváš.&quot;, &quot;Premium obsah? To jsi přece ty,\nnejlepší seriál mého dne.&quot;, &quot;Svět vidím ostřeji od chvíle,\nkdy ty jsi v něm.&quot;, &quot;Zlatá hodinka? Tu mi nadělíš\nprávě ty.&quot;, &quot;Stačí na tebe myslet a ty\nmě už rozesmíváš.&quot;, &quot;Hotel s pěti hvězdami je proti tobě\nrohožka, ty jsi ráj.&quot;, &quot;Díky tobě je každý den prémie,\nty jsi nejlepší bonus.&quot;, &quot;Hlavní událost roku se koná\ntam, kde se objeví ty.&quot;, &quot;Moje srdce tančí, kdykoli\nty se na mě podíváš.&quot;, &quot;Rozlišení 4K je málo,\naby uneslo, jak ty vypadáš.&quot;, &quot;Barvy jsou syté jen proto,\nže ty jsi ve scéně.&quot;, &quot;Pro mě ty jsi VIP,\na to bez pozvánky.&quot;, &quot;Díky tobě je den speciální,\nty se ani nesnažíš.&quot;, &quot;Eso v rukávu? To ty\njsi moje tajná zbraň.&quot;, &quot;Když na tebe myslím, ty\nmi pošleš upgrade nálady.&quot;, &quot;Síň slávy v mém srdci má\njediného člena: ty.&quot;, &quot;Život je v barvě díky tomu,\nže ty jsi jeho režisér.&quot;, &quot;Ze všech legend na světě je\nnejvíc legendární ty.&quot;, &quot;Když ty se podíváš,\nčas jede ve slow motion.&quot;, &quot;Permanentka do mého srdce\nje tvoje, ty zlatíčko.&quot;]}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>Kdo je váš nejpřísnější kritik? Nejste to vy?</h2>
+      <p>Cestou do práce, před pohovorem, cestou domů hlas v hlavě hlavně remcá. Pochvala dne se několikrát denně postaví na vaši stranu přímo z plochy, a trochu víc, než by bylo rozumné. Ve chvíli, kdy se pousmějete, se vrátí i kus sebevědomí.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Hláška podle nálady</h2>
+        <p>Vyberte ze 14 nálad a situací jako <code>Ráno</code>, <code>Cesta do práce</code>, <code>Těžké chvíle</code>, <code>Před pohovorem</code> nebo <code>Před rande</code> a odpovídající hláška se hned objeví na widgetu. Nevíte? Je tu i <code>Náhodně</code>.</p>
+      </div>
+      <div class="phone"><img src="../img/cs/02-mood.jpg" alt="Hláška podle nálady" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Oblíbené si nechte</h2>
+        <p>Klepnutím na hvězdičku uložíte hlášku do Oblíbených a starší najdete v Historii. Klepněte na <code>Použít tuto hlášku</code> a hned je na widgetu.</p>
+      </div>
+      <div class="phone"><img src="../img/cs/03-favorites.jpg" alt="Oblíbené si nechte" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Chodíte denně a počítá se to</h2>
+        <p>Každý den, kdy se podíváte, prodlouží vaši sérii. Za 7, 30 nebo 100 dní v řadě a za 50 a 100 dní celkem se odemkne úspěch.</p>
+      </div>
+      <div class="phone"><img src="../img/cs/05-achievements.jpg" alt="Chodíte denně a počítá se to" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>Začnete ve třech krocích</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Vyberte náladu</h3><p>Otevřete <code>Vyber náladu</code> a klepněte na tu, která sedí.</p></li>
+<li class="card"><span class="n">2</span><h3>Upravte widget</h3><p>V dalším nastavení zvolte písmo, barvu písma, pozadí a interval obnovy.</p></li>
+<li class="card"><span class="n">3</span><h3>Přidejte ho na plochu</h3><p>Podržte prst na ploše, klepněte na + a najděte Pochvalu dne.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>Widget podle vás</h2>
+      <div class="card table">
+        <dl><div><dt>Písmo</dt><dd>13 písem, mezi nimi Futura, Georgia a Marker Felt</dd></div><div><dt>Barva písma</dt><dd>Jakákoli, která se vám líbí</dd></div><div><dt>Pozadí</dt><dd>Přechod dvou barev, nebo jedna z vestavěných fotek</dd></div><div><dt>Zarovnání</dt><dd>Vlevo, na střed nebo vpravo</dd></div><div><dt>Řádkování</dt><dd>Řádky hustší nebo volnější</dd></div><div><dt>Interval obnovy</dt><dd>Nová hláška každých 5, 15 nebo 30 minut</dd></div></dl>
+      </div>
+      <p class="muted">Velikost widgetu vyberete, když ho přidáváte na plochu.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Koupíte jednou a hotovo</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>Aplikace</h3>
+          <ul><li>281 hlášek pro 14 nálad</li><li>Widget na plochu podle vašeho gusta</li><li>Oblíbené a Historie</li><li>Série a úspěchy</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Podpořte vývojáře</h3>
+          <ul><li>Vyberte malé, střední nebo velké spropitné</li><li>Nic se tím neodemyká. Je to jen poděkování</li></ul>
+          <p class="muted">Jen pokud a kdy budete chtít.</p>
+        </div>
+      </div>
+      <p class="muted">Žádné předplatné, žádné další nákupy, žádné reklamy.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Časté otázky</h2>
+      <div class="faq"><details><summary>Jak přidám widget?</summary><p>Podržte prst na prázdném místě plochy, dokud se ikony nerozkývou, klepněte nahoře na +, vyhledejte Pochvalu dne a vyberte velikost.</p></details>
+<details><summary>Jak se vybírá další hláška?</summary><p>Když vyberete náladu, hláška k ní se hned objeví na widgetu. Potom widget v nastaveném intervalu ukazuje náhodnou hlášku ze všech 281. V aplikaci můžete klepnout na <code>Další hláška</code> a přepnout sami.</p></details>
+<details><summary>Dá se změnit písmo nebo interval obnovy?</summary><p>Ano. V dalším nastavení změníte písmo, barvu písma, pozadí, zarovnání, řádkování a interval obnovy: 5, 15 nebo 30 minut.</p></details>
+<details><summary>Widget se nezměnil hned.</summary><p>Kdy se widget překreslí, rozhoduje iOS, takže se občas trochu opozdí za zvoleným intervalem. Otevřete aplikaci a zavřete ji a widget se aktualizuje.</p></details>
+<details><summary>Jak funguje série?</summary><p>Každý den v řadě, kdy se podíváte na hlášku, přidá den do série. V <code>Moje statistiky</code> uvidíte aktuální sérii, rekord, celkový počet dní a úspěchy.</p></details>
+<details><summary>Zmizely mi oblíbené a historie.</summary><p>Všechno se ukládá jen do vašeho zařízení, takže se to nepřenese, když aplikaci smažete nebo vyměníte telefon. Pokud jste nic nemazali a stejně to zmizelo, napište nám e-mail.</p></details>
+<details><summary>Posílají se moje data někam?</summary><p>Ne. Aplikace nesbírá žádné osobní údaje. Oblíbené i historie zůstávají ve vašem zařízení.</p></details>
+<details><summary>Jak nahlásit chybu nebo navrhnout nápad?</summary><p>Přímo přes <code>Napsat vývojáři</code> v aplikaci, e-mailem nebo přes DM na Instagramu @lee25_ios. Odpovíme, jakmile to uvidíme.</p></details></div>
+      <p class="contact">Dotazy nebo nápady? Napište na <a href="mailto:leeo@kakao.com">leeo@kakao.com</a>.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Ode dneška máte na ploše<br>někoho na své straně</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6450839961">Stáhnout z App Storu</a>
+    </section>
+  </main>
+
+  <footer>
+    <nav id="languages" class="langs" aria-label="Jazyk"><a href="../ko/" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../en-GB/" hreflang="en-GB" lang="en-GB">English (UK)</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../es/" hreflang="es" lang="es">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs" aria-current="page">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">Ochrana soukromí</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 Leeo</p>
+  </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>

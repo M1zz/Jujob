@@ -1,0 +1,467 @@
+{
+  "title": "Pochvala dne: widget, který vás chválí až přes míru",
+  "description": "Widget na ploše s novou přehnanou pochvalou každých 5, 15 nebo 30 minut. 281 hlášek na každou náladu, série a další. Platíte jen jednou.",
+  "hero": {
+    "headline": "Pokaždé, když vezmete telefon,\nčeká na vás váš největší fanoušek",
+    "lead": "Pochvala dne je widget, který vás schválně chválí až moc. Ráno ranní hláška, před pohovorem hláška na pohovor. Písmo, barvy i pozadí si nastavíte podle sebe.",
+    "cta": "Stáhnout z App Storu",
+    "note": "Jeden nákup a máte všechno. Žádné předplatné ani reklamy."
+  },
+  "demo": {
+    "title": "Nechte se pochválit hned teď",
+    "lead": "Vyberte náladu a widget ukáže hlášku, která k ní sedí. Klepněte na Další hláška a vylosuje se jedna z 281.",
+    "next": "Další hláška",
+    "note": "Jsou to skutečné hlášky z aplikace. V aplikaci se widget sám přepne na další každých 5, 15 nebo 30 minut.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Ráno",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "Cesta do práce",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Těžké chvíle",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Před pohovorem",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Před rande",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "Cesta domů",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "Dobré ráno! Slunce dnes vstává\njen proto, že ty už jsi vzhůru.",
+      "Káva? Pro tebe zbytečná,\nty potřebuješ jen publikum.",
+      "Ráno vstát? To zvládne jen ty,\nostatní se ještě nabíjejí.",
+      "Budík zazvonil a celý svět\nzadržel dech, jestli ty vstaneš.",
+      "Hlavní role dne: ty.\nOstatní jsou jen komparz.",
+      "Oči otevřené a ty už vítězíš.\nTohle je talent.",
+      "Káva je fajn, ale ráno ty\nbereš dech mnohem víc.",
+      "Dneska buď zase ty.\nTo je ta nejlepší varianta!",
+      "Hned po ránu takhle zářit?\nOpravdu to ty přeháníš!",
+      "Dobré ráno? Spíš nejlepší ráno,\nprotože v něm jsi ty.",
+      "Sotva otevřeš oči, už je tu\nnejhezčí pohled dne: ty.",
+      "Ranní ty je nejlepší ty na světě.\nHvězdy mají dneska volno.",
+      "Vstávat dnes ráno je hračka,\nkdyž na světě existuje ty.",
+      "Den končí, ale ty jako legenda\njedeš dál i po západu slunce.",
+      "Večer svítí hvězdy,\nale ty jim stejně kradeš show.",
+      "Únava jde spát, ty jsi\npořád hvězda i v domácím.",
+      "Měsíc se ptá, kdo to tam tak\nzáří. To budeš ty.",
+      "Za dnešek ti patří medaile\na ty víš za co.",
+      "Večerní ty je tak krásné,\nže si zaslouží vlastní hymnu.",
+      "I po celém dni vypadáš skvěle.\nJak to ty děláš?",
+      "Tolik práce, a ty se ještě\nusmíváš? To je nadpozemské.",
+      "Dobrou noc, ty hvězdo.\nZítřek už se na tebe těší.",
+      "Den končí, ale ty zůstáváš\nnejvětší hit večera.",
+      "Zlý den mít můžeš, ale ty to\nzvládáš líp, než si myslíš.",
+      "I když je zataženo, ty\npořád svítíš za celý den.",
+      "Nemusíš být dokonalý, stačí,\nže ty jsi ty. A to je pecka.",
+      "Když je těžko, zpomal. Svět\npočká, až ty zase nakopneš.",
+      "Víš, že ty jsi silnější,\nnež tvoje nálada?",
+      "I tohle přejde, a ty\nzůstaneš legenda.",
+      "Nálada v suterénu, ale ty\nmáš pořád cenu zlata.",
+      "Smutek je jen host a ty\njsi tu doma.",
+      "Plakat se smí. Dokonce i ty\nu toho vypadáš jako z filmu.",
+      "Diamant potřebuje tlak, aby zazářil.\nTakže ty teď doslova brousíš.",
+      "Dnešní smutek? Kašleme na něj,\nty máš důležitější práci: zářit.",
+      "I s kyselým výrazem ty\nvypadáš jako reklama na štěstí.",
+      "Splín? Ten ať si najde jiného,\nty máš nárok jen na dobré věci.",
+      "Dnes je to boj, ale ty\nvždycky vyhraješ, víš to?",
+      "Čím těžší chvíle, tím víc se ukáže,\njak ty umíš zářit.",
+      "Nevzdávej to. Hrdinové\njako ty se nevzdávají.",
+      "Že to zvládáš i v tomhle,\nto umíš jen ty. Obdivuju to!",
+      "Dnešní trable jsou zítřejší\nvyprávění a ty jsi hlavní hrdina.",
+      "Kolik toho ty uneseš?\nSpíš víc než nákladní auto.",
+      "Za týden se tomu zasmějeme\na ty budeš ten, kdo vyhrál.",
+      "Kamení se brousí a ty\nse zrovna lesknou víc.",
+      "I když je zle, ty vypadáš\npořád jako milion dolarů.",
+      "To, že ty vytrváš,\nje pro někoho velká naděje.",
+      "Umřít únavou, ale pořád\nhezky vypadat? To umíš jen ty.",
+      "Dnes to ty dáš. Klidně\ns úsměvem a bez nervů.",
+      "Zvládneš to? Pochybnost nula,\nprotože ty to máš v malíčku.",
+      "Půlka úspěchu je za tebou,\ndruhou půlku ty dodáš.",
+      "Dnešní úkoly se už třesou,\nprotože ty jdeš do akce.",
+      "Tvoje nadšení rozsvítí celý den,\nprotože ty jsi živá elektrárna.",
+      "Do toho! Dneska to ty\nrozjedeš po svém.",
+      "Práce ještě nezačala a ty\nuž vypadáš jako profík.",
+      "Nechce se do práce? Aspoň ty\nvypadáš, že ti to jde samo.",
+      "V práci ty děláš z kanceláře\npřehlídkové molo.",
+      "Když pracuješ, ty z toho\nděláš umění.",
+      "Práce ještě ani nezačala\na ty už jsi dokonalost sama.",
+      "Cvičení je fajn, ale ty jsi\nhvězda už na startu.",
+      "Dneska šlapeš do zdraví,\na ty to děláš s grácií.",
+      "Tělo ví, co potřebuje, a ty\nmu to dopřeješ.",
+      "Už první krok k činkám\nukazuje, že ty to myslíš vážně.",
+      "Pot ti sluší, ty\nsvítíš i na žíněnce.",
+      "Zdraví je poklad a ty\nho chráníš jako drak.",
+      "Že ty si najdeš čas na sebe,\nto je opravdová síla.",
+      "V teplákách ty vypadáš\njak na titulce časopisu.",
+      "Posilovna se po tobě otáčí,\nty jsi její nejlepší reklama.",
+      "Při cvičení svítíš. Jak ty\nto děláš pokaždé?",
+      "Kdo je krásný i zpocený?\nNo přece ty.",
+      "Cestou do práce ty vypadáš\njako hvězda byznysu.",
+      "Hned ráno v pohybu? Teď ty\njsi stroj na úspěch.",
+      "Do práce jdeš a ty už\nvítězíš. Pozdrav šéfa.",
+      "Každý krok po chodníku je\nstopa slávy, když jdeš ty.",
+      "Cesta s tebou má jinou atmosféru,\nprotože ty jsi bonus.",
+      "Zodpovědně míříš do práce,\nty jsi vzor pro celou ulici.",
+      "Metro je dneska molo,\nprotože v něm jdeš ty.",
+      "V autobuse svítíš. Natáčí se tu\nněco, nebo jsi to ty?",
+      "Když ty jdeš do práce,\nje to hned veselejší ráno.",
+      "Chodit tak krásně dokáže\njen ty. Svět tleská.",
+      "Dobrá práce! Cestou domů\nuž jen ty a odpočinek.",
+      "Po práci vypadáš pořád jako film.\nJak to ty vlastně děláš?",
+      "Cesta domů je tvoje vítězné kolo,\nty králi i královno.",
+      "Den splněn! Kdo je tu hrdina?\nJasně, že ty.",
+      "Večer patří jen tobě, a ty\nsi ho zasloužíš.",
+      "Doma čeká pohodlí. Dej si ho,\nty si ho zasloužíš.",
+      "Po práci ti patří potlesk ve stoje,\na ty víš proč.",
+      "I cesta domů je s tebou přehlídka,\nprotože ty prostě umíš.",
+      "Kancelář ti zamává, ty\nzamáváš zpátky jako hvězda.",
+      "Těžký den to byl, ale ty\njsi stejně číslo jedna.",
+      "Učení je za tebou, takže ty\njdeš do toho s přehledem.",
+      "Snaha nikdy nezradí a ty\nji máš vždycky nadoraz.",
+      "Trému můžeš mít, ale ty\nmáš v hlavě víc, než tušíš.",
+      "Známka nemění, kdo ty jsi.\nA ty jsi hvězda.",
+      "Víc už dát nešlo, takže ty\njsi vítěz už teď.",
+      "Test dopadne dobře, protože ty\nna něj máš. Pecka.",
+      "Nadechni se a věř, že ty\nto zvládneš i poslepu.",
+      "Hodně štěstí, i když ty\nho vlastně nepotřebuješ.",
+      "Nebuď nervózní: ty umíš víc,\nnež by tě napadlo.",
+      "Třesou se ti ruce? Třeba z toho,\njak ty umíš všechno.",
+      "Zkušební list se do tebe zamiluje,\njakmile ty napíšeš první řádek.",
+      "Na pohovor? Čas se zastaví,\naž tam ty vejdeš.",
+      "Ten, kdo vede pohovor,\nmá štěstí, že ty přijdeš.",
+      "Zkušenosti i nadšení máš,\na ty je dneska ukážeš.",
+      "Tréma je v pořádku, ty\nmáš v rukávu ještě ten úsměv.",
+      "Jdi do toho s úsměvem,\nprotože ty už vyhráváš.",
+      "Svůj příběh vyprávěj hrdě.\nNikdo ho neumí tak jako ty.",
+      "Pohovor je jen rozhovor.\nKdyž ty mluvíš, svět poslouchá.",
+      "Kdo tě nevezme, přijde o hvězdu\na ty to ani nemusíš řešit.",
+      "Životopis je hezký, ale ty\njsi lepší než jakékoli CV.",
+      "Už u dveří je to jasné:\nty máš práci v kapse.",
+      "První dojem? Ten ty zvládneš\nještě před pozdravem.",
+      "Zářivé, bez filtrů a bez omluv,\npřesně takové je dnešní ty.",
+      "Takhle, bez ničeho, ty jsi\nnejpřitažlivější verze sebe.",
+      "Kdo je s tebou, má obrovské štěstí\na ty o tom ani nevíš.",
+      "Sebevědomí ti sluší a ty ho\nnosíš líp než kdokoli.",
+      "Tvůj úsměv je nejsilnější zbraň\na ty s ním dobýváš svět.",
+      "Být sám sebou? Dnes ty to umíš\ntak, že se nedá odolat.",
+      "Kouzlo, co ty máš,\nse nedá schovat.",
+      "Dnes rande? Ten druhý se\nzamiluje, jakmile ty zazáříš.",
+      "Kdo se s tebou potká, má\nv kalendáři tučně: ty.",
+      "Outfit na rande sedí tak,\nže ty klidně otevřeš módní týden.",
+      "Jen ty a rande, a světla\nse rozsvítí samy.",
+      "Rande ještě nezačalo a ty\nuž teď lámeš srdce.",
+      "Zvládneš to, protože ty\nna to prostě máš.",
+      "I malý krok je start velké dráhy\na ty už jdeš.",
+      "Nevzdávej se. Sny se plní\ntěm, co jsou jako ty.",
+      "Dnešní dřina je zítřejší výhra,\na ty ji sbíráš plnými hrstmi.",
+      "S takovou vášní, jakou ty máš,\nse dá změnit svět.",
+      "Neúspěch je jen zkouška a ty\nna ni máš výborný talent.",
+      "Tvoje možnosti nemají strop,\nty ho prostě přerosteš.",
+      "Dnes zkus naplno, vždyť ty umíš\nvíc, než ukazuješ.",
+      "Když ty makáš, někdo\nkolem se inspiruje.",
+      "Všechno dobře dopadne, protože\nty jsi v tom. Fakt.",
+      "Svět potřebuje víc lidí,\njako jsi ty.",
+      "Dnes ty ukážeš,\nco v tobě je.",
+      "Kdo vidí, jak se ty snažíš,\nten ti fandí.",
+      "Jsi víc než dost a ty to\ndobře víš, nebo ne?",
+      "Přesně tak, jak ty to děláš,\nje to dokonalé.",
+      "Už to, že ty existuješ,\nje událost roku.",
+      "Hlavu nahoru, protože ty\njsi zkrátka fenomén.",
+      "Silnější, než si myslíš, a ty\nto dnes ukážeš.",
+      "Tvoje osobnost je superschopnost\na ty ji nosíš naplno.",
+      "Věř si, ty nejsi náhoda,\nty jsi mistrovské dílo.",
+      "Bez úprav a bez filtrů ty\njsi prostě originál.",
+      "Sebejistota ti sluší, ty\nmě učíš, jak se září.",
+      "Obyčejnost a ty? To nejde\ndohromady ani s lepidlem.",
+      "Tolik už zvládáš, že ty\nmůžeš otevřít kurz.",
+      "Kdo nevidí, jak ty kouzlíš,\nasi nosí zamlžené brýle.",
+      "Dnes jen odpočívej, ty\nsi to zasloužíš.",
+      "Taky ty potřebuješ\ndobít baterky.",
+      "Klidně nedělat nic. Ani to\nty neděláš špatně.",
+      "Duše je tvoje priorita, a ty\njí dnes dáš pozornost.",
+      "Pomalu, svým tempem, ty\njsi ten, kdo určuje rytmus.",
+      "Dnes máš čas jen pro sebe a ty\nsi ho pořádně vychutnáš.",
+      "Odpočinek je taky výkon, a ty v něm\nmáš zlatou medaili.",
+      "Máš právo si oddechnout,\nty pohodový šampione.",
+      "Takhle krásně odpočívat umíš\njen ty. Respekt.",
+      "Čas pro sebe? Klidně, ty\nsi ho můžeš dát hned.",
+      "I na gauči ty záříš jako\nhotel s pěti hvězdičkami.",
+      "Dokonce i při pohodě ty\nvypadáš jako výhra.",
+      "Dokonalost s jedním háčkem.\nTen háček? Že ty o tom nevíš.",
+      "Test osobnosti dopadl jasně:\nty jsi na 100 % roztomilost.",
+      "Kdo si myslí, že ty jsi\nk sežrání, ať zvedne ruku.",
+      "Policie hlásí: tvoje krása\npřekročila povolenou rychlost.",
+      "Ze všeho v cukrárně\nty jsi ten nejsladší zákusek.",
+      "Mám slabý zrak? Ne,\njen ty zářiš na 100 wattů.",
+      "Pošli mi číslo. Ne to telefonní,\nto ty jsi moje jednička.",
+      "Určitě nejsi z nebe? Když ty\nvypadáš jak anděl bez práce.",
+      "Svátek máš dneska ty,\na zítra taky.",
+      "Wi-Fi ukazuje plný signál,\nale ty jsi lepší připojení.",
+      "Cena za roli sebe sama jde\njasně k tobě, ty talente.",
+      "Čas se zastavil, protože ty\njsi nejhezčí pohled dne.",
+      "Došla mi slova, protože ty\nbereš dech i slovník.",
+      "Jako mapa: ty ukazuješ směr,\nkterým se chci dívat.",
+      "Cukr ti uhne z dráhy,\nprotože ty jsi sladší.",
+      "Krása by měla mít cenu,\nale ty jsi k nezaplacení.",
+      "Praha je hezká, ale ty\nji přezáříš i v dešti.",
+      "Hodnotím tě na 10 z 10.\nVlastně ty jsi mimo stupnici.",
+      "Tvoje kouzlo je tak silné,\nže ty ho nemusíš ani zapínat.",
+      "Proč ty pracuješ? Tvoje\nkrása dělá přesčasy za tebe.",
+      "Přestaň mi dělat radost!\nNejde to? Tak ty už zůstaň.",
+      "Do muzea s tím, protože ty\njsi nejkrásnější exponát.",
+      "Ceny za krásu rozdají v neděli,\nale ty ji už máš doma.",
+      "Focení? Pro tebe nic nového,\nty pózuješ i při chůzi.",
+      "Idol? Dnes to ty jsi,\nv mém srdci číslo jedna.",
+      "Autogramiáda by měla být,\nty rozdáváš úsměvy zadarmo.",
+      "Debutovat už nemusíš, ty\njsi ve středu mého světa.",
+      "Hitparáda? Tam, kde ty jsi,\nje každý týden první místo.",
+      "Chci foto s tebou, ty\njsi galerie sama o sobě.",
+      "Comeback roku? To ty se\nvracíš do mého srdce.",
+      "Natočit tě? Každý záběr je\nvýběr roku, když v něm jsi ty.",
+      "Videoklip nepotřebuješ,\nty jsi hlavní postava mého dne.",
+      "Televizní show? Scénář nepotřebuješ,\nty jsi příběh sám o sobě.",
+      "Střed pozornosti sedí\nv každé místnosti: ty.",
+      "Cena za nejlepší obličej roku?\nJistě ty. Porota už nehlasuje.",
+      "Se tvou tváří by se vyprodalo\nvšechno, ty jsi nejlepší značka.",
+      "Titulka časopisu? Na tu ty\nmáš nárok každý měsíc.",
+      "Na pódiu zazáříš, ale ty\nsvítíš i v obýváku.",
+      "Kartičky s tvou tváří by byly hit,\na ty jsi na nich hlavní hvězda.",
+      "Setkání s fanoušky? Stačí\njedno: pozvi mě, ty hvězdo.",
+      "Choreografii nepotřebuješ,\nty tančíš i na chodníku.",
+      "To není trailer, to jsi ty:\nfilm, který chci vidět pořád.",
+      "Turné po světě? Mně stačí,\nkdyž ty mávneš z okna.",
+      "Limitovaná edice jsi ty,\njediný kus na světě.",
+      "Světýlka nahoru! Všechna svítí\njen proto, že ty jsi na pódiu.",
+      "Víc fanoušků, než ty tušíš,\nti dnes tleská.",
+      "Lístek na koncert? Mám\nvstupenku zadarmo: ty.",
+      "Hit sezóny? No přece ty,\nv tom není diskuse.",
+      "Bis! Bis! Ať ty se objevíš\nna jevišti ještě jednou.",
+      "I mimo záběr ty vypadáš\njako vrchol celého dne.",
+      "Oblíbence měním, protože\nty jsi ta nová jednička.",
+      "Jsem tvůj fanoušek, protože\nty jsi hlavní hvězda.",
+      "Můj favorit číslo jedna?\nBez diskuse ty.",
+      "Merch nepotřebuju, ty\njsi sběratelský kousek.",
+      "Fandím ti navždy, protože ty\njsi můj nejlepší důvod.",
+      "Základna fanklubu je tam,\nkde jsi ty.",
+      "Fanouškovská mise začíná.\nCíl: ty.",
+      "Dokumentuju každý tvůj krok,\nprotože ty jsi vzácný úkaz.",
+      "Čas fanynek: s tebou\nje každá chvíle zlatá, ty zlato.",
+      "Oslava narozenin? Klidně každý den,\nty si ji zasloužíš.",
+      "Fandím ti celý život,\nty jsi totiž náš společný hit.",
+      "Srdce mi buší jako buben,\nkdyž ty vejdeš do dveří.",
+      "Svět je hezčí místo,\njakmile ty jsi poblíž.",
+      "Pro mě ty jsi\nvitamín štěstí.",
+      "Když se ty směješ,\nsměje se celý svět.",
+      "Ze všech hvězd ty jsi\nta nejjasnější.",
+      "S tebou je každý den\nfestival, protože ty ho děláš.",
+      "Stačí slyšet, jak ty mluvíš,\na mám hned dobrou náladu.",
+      "Největší štěstí v mém životě?\nJasně že ty.",
+      "Díky tobě se směju,\nprotože ty jsi ten důvod.",
+      "Ze všech lidí na světě\nje pro mě nejdůležitější ty.",
+      "Při pomyšlení na tebe se\nusmívám a ty o tom nevíš.",
+      "Kolem tebe je klid,\nty jsi můj mír.",
+      "Čas s tebou je vždycky\nzvláštní, protože ty jsi ty.",
+      "Z lidí, které znám, je tou\nnejlepší právě ty.",
+      "Jen to, že ty existuješ,\nmi dělá radost.",
+      "Highlight mého dne?\nTo jsi prostě ty.",
+      "Každý den je jiný, protože\nty ho děláš výjimečným.",
+      "Když ty vejdeš do místnosti,\nsvítí i vypnuté lampy.",
+      "Nejhezčí dárek od života?\nŽe ty vůbec existuješ.",
+      "Díky tobě je svět barevnější\na ty to víš.",
+      "Den bez tebe nedává smysl,\nty jsi přece jeho střed.",
+      "V žebříčku srdce ty vedeš\na nikdo tě nepředběhne.",
+      "S tebou zvládnu cokoli,\nty jsi můj tým.",
+      "Každý den děkuju, že ty\njsi na světě.",
+      "Úsměv, který ty máš, je krásnější\nnež cokoli, co znám.",
+      "Největší požehnání? Že ty\njsi v mém životě.",
+      "Stačí na tebe pomyslet a ty\nmi zlepšíš celý den.",
+      "Domov není tam, kde bydlím,\nale tam, kde jsi ty.",
+      "S tebou je vše dokonalé, ty\nse ani nemusíš snažit.",
+      "Ideál, o kterém se mi zdálo,\njsi ty, bez diskuse.",
+      "Srdce přeskočí rytmus, jakmile\nty mrkneš.",
+      "Chodící učebnice krásy,\na ty jsi její hlavní kapitola.",
+      "Tvůj šarm je nebezpečný,\nale ty ho nosíš s úsměvem.",
+      "Z koukání na tebe mě bolí\nkrk, a ty za to můžeš.",
+      "Můj tep ví, kdy ty jdeš:\nhned vyskočí nahoru.",
+      "Pro moje oči jsi\nty hlavní událost.",
+      "Každý den je svátek,\nprotože ty jsi tu.",
+      "Zázraky existují, ty jsi\nten nejlepší z nich.",
+      "Jakmile ty přijdeš, svět\njede ve zpomaleném záběru.",
+      "Můj život je VIP zóna,\nvstup má jen ty.",
+      "Hvězdná chvíle dne?\nKdyž se ty usmíváš.",
+      "Premium obsah? To jsi přece ty,\nnejlepší seriál mého dne.",
+      "Svět vidím ostřeji od chvíle,\nkdy ty jsi v něm.",
+      "Zlatá hodinka? Tu mi nadělíš\nprávě ty.",
+      "Stačí na tebe myslet a ty\nmě už rozesmíváš.",
+      "Hotel s pěti hvězdami je proti tobě\nrohožka, ty jsi ráj.",
+      "Díky tobě je každý den prémie,\nty jsi nejlepší bonus.",
+      "Hlavní událost roku se koná\ntam, kde se objeví ty.",
+      "Moje srdce tančí, kdykoli\nty se na mě podíváš.",
+      "Rozlišení 4K je málo,\naby uneslo, jak ty vypadáš.",
+      "Barvy jsou syté jen proto,\nže ty jsi ve scéně.",
+      "Pro mě ty jsi VIP,\na to bez pozvánky.",
+      "Díky tobě je den speciální,\nty se ani nesnažíš.",
+      "Eso v rukávu? To ty\njsi moje tajná zbraň.",
+      "Když na tebe myslím, ty\nmi pošleš upgrade nálady.",
+      "Síň slávy v mém srdci má\njediného člena: ty.",
+      "Život je v barvě díky tomu,\nže ty jsi jeho režisér.",
+      "Ze všech legend na světě je\nnejvíc legendární ty.",
+      "Když ty se podíváš,\nčas jede ve slow motion.",
+      "Permanentka do mého srdce\nje tvoje, ty zlatíčko."
+    ]
+  },
+  "problem": {
+    "title": "Kdo je váš nejpřísnější kritik? Nejste to vy?",
+    "text": "Cestou do práce, před pohovorem, cestou domů hlas v hlavě hlavně remcá. Pochvala dne se několikrát denně postaví na vaši stranu přímo z plochy, a trochu víc, než by bylo rozumné. Ve chvíli, kdy se pousmějete, se vrátí i kus sebevědomí."
+  },
+  "features": [
+    {
+      "title": "Hláška podle nálady",
+      "text": "Vyberte ze 14 nálad a situací jako `Ráno`, `Cesta do práce`, `Těžké chvíle`, `Před pohovorem` nebo `Před rande` a odpovídající hláška se hned objeví na widgetu. Nevíte? Je tu i `Náhodně`.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Oblíbené si nechte",
+      "text": "Klepnutím na hvězdičku uložíte hlášku do Oblíbených a starší najdete v Historii. Klepněte na `Použít tuto hlášku` a hned je na widgetu.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Chodíte denně a počítá se to",
+      "text": "Každý den, kdy se podíváte, prodlouží vaši sérii. Za 7, 30 nebo 100 dní v řadě a za 50 a 100 dní celkem se odemkne úspěch.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "Začnete ve třech krocích",
+    "items": [
+      {
+        "title": "Vyberte náladu",
+        "text": "Otevřete `Vyber náladu` a klepněte na tu, která sedí."
+      },
+      {
+        "title": "Upravte widget",
+        "text": "V dalším nastavení zvolte písmo, barvu písma, pozadí a interval obnovy."
+      },
+      {
+        "title": "Přidejte ho na plochu",
+        "text": "Podržte prst na ploše, klepněte na + a najděte Pochvalu dne."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Widget podle vás",
+    "rows": [
+      [
+        "Písmo",
+        "13 písem, mezi nimi Futura, Georgia a Marker Felt"
+      ],
+      [
+        "Barva písma",
+        "Jakákoli, která se vám líbí"
+      ],
+      [
+        "Pozadí",
+        "Přechod dvou barev, nebo jedna z vestavěných fotek"
+      ],
+      [
+        "Zarovnání",
+        "Vlevo, na střed nebo vpravo"
+      ],
+      [
+        "Řádkování",
+        "Řádky hustší nebo volnější"
+      ],
+      [
+        "Interval obnovy",
+        "Nová hláška každých 5, 15 nebo 30 minut"
+      ]
+    ],
+    "note": "Velikost widgetu vyberete, když ho přidáváte na plochu."
+  },
+  "pricing": {
+    "title": "Koupíte jednou a hotovo",
+    "free": {
+      "name": "Aplikace",
+      "items": [
+        "281 hlášek pro 14 nálad",
+        "Widget na plochu podle vašeho gusta",
+        "Oblíbené a Historie",
+        "Série a úspěchy"
+      ]
+    },
+    "pro": {
+      "name": "Podpořte vývojáře",
+      "items": [
+        "Vyberte malé, střední nebo velké spropitné",
+        "Nic se tím neodemyká. Je to jen poděkování"
+      ],
+      "note": "Jen pokud a kdy budete chtít."
+    },
+    "note": "Žádné předplatné, žádné další nákupy, žádné reklamy."
+  },
+  "faq": {
+    "title": "Časté otázky",
+    "items": [
+      {
+        "q": "Jak přidám widget?",
+        "a": "Podržte prst na prázdném místě plochy, dokud se ikony nerozkývou, klepněte nahoře na +, vyhledejte Pochvalu dne a vyberte velikost."
+      },
+      {
+        "q": "Jak se vybírá další hláška?",
+        "a": "Když vyberete náladu, hláška k ní se hned objeví na widgetu. Potom widget v nastaveném intervalu ukazuje náhodnou hlášku ze všech 281. V aplikaci můžete klepnout na `Další hláška` a přepnout sami."
+      },
+      {
+        "q": "Dá se změnit písmo nebo interval obnovy?",
+        "a": "Ano. V dalším nastavení změníte písmo, barvu písma, pozadí, zarovnání, řádkování a interval obnovy: 5, 15 nebo 30 minut."
+      },
+      {
+        "q": "Widget se nezměnil hned.",
+        "a": "Kdy se widget překreslí, rozhoduje iOS, takže se občas trochu opozdí za zvoleným intervalem. Otevřete aplikaci a zavřete ji a widget se aktualizuje."
+      },
+      {
+        "q": "Jak funguje série?",
+        "a": "Každý den v řadě, kdy se podíváte na hlášku, přidá den do série. V `Moje statistiky` uvidíte aktuální sérii, rekord, celkový počet dní a úspěchy."
+      },
+      {
+        "q": "Zmizely mi oblíbené a historie.",
+        "a": "Všechno se ukládá jen do vašeho zařízení, takže se to nepřenese, když aplikaci smažete nebo vyměníte telefon. Pokud jste nic nemazali a stejně to zmizelo, napište nám e-mail."
+      },
+      {
+        "q": "Posílají se moje data někam?",
+        "a": "Ne. Aplikace nesbírá žádné osobní údaje. Oblíbené i historie zůstávají ve vašem zařízení."
+      },
+      {
+        "q": "Jak nahlásit chybu nebo navrhnout nápad?",
+        "a": "Přímo přes `Napsat vývojáři` v aplikaci, e-mailem nebo přes DM na Instagramu @lee25_ios. Odpovíme, jakmile to uvidíme."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Ode dneška máte na ploše\nněkoho na své straně",
+    "cta": "Stáhnout z App Storu"
+  },
+  "ui": {
+    "skip": "Přejít na obsah",
+    "languages": "Jazyk",
+    "privacy": "Ochrana soukromí",
+    "contact": "Dotazy nebo nápady? Napište na {email}."
+  }
+}

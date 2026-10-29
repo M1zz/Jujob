@@ -1,0 +1,467 @@
+{
+  "title": "Overdose di Complimenti: il widget che ti esalta senza ritegno",
+  "description": "Un widget nella schermata Home con un complimento esagerato nuovo ogni 5, 15 o 30 minuti. 281 frasi per ogni umore, serie e altro. Acquisto unico.",
+  "hero": {
+    "headline": "Ogni volta che prendi il telefono,\nil tuo fan numero uno ti aspetta",
+    "lead": "Overdose di Complimenti è un widget che ti fa complimenti decisamente troppo, e apposta. Di mattina un complimento da mattina, prima del colloquio uno da colloquio. Font, colori e sfondo li scegli tu.",
+    "cta": "Scaricala dall'App Store",
+    "note": "Un solo acquisto e hai tutto. Niente abbonamenti né pubblicità."
+  },
+  "demo": {
+    "title": "Prenditi un complimento adesso",
+    "lead": "Scegli un umore e il widget mostra il complimento giusto. Tocca Prossimo per pescarne uno a caso tra tutti i 281.",
+    "next": "Prossimo",
+    "note": "Sono le frasi vere dell'app. Nell'app il widget passa da solo al successivo ogni 5, 15 o 30 minuti.",
+    "moods": [
+      {
+        "emoji": "🌅",
+        "name": "Mattina",
+        "first": 0
+      },
+      {
+        "emoji": "🚶",
+        "name": "Verso il lavoro",
+        "first": 69
+      },
+      {
+        "emoji": "💪",
+        "name": "Giornata dura",
+        "first": 36
+      },
+      {
+        "emoji": "👔",
+        "name": "Prima del colloquio",
+        "first": 100
+      },
+      {
+        "emoji": "💕",
+        "name": "Prima del date",
+        "first": 111
+      },
+      {
+        "emoji": "🏠",
+        "name": "Verso casa",
+        "first": 79
+      }
+    ],
+    "quotes": [
+      "Buongiorno! Il sole è in ritardo\nperché stai già brillando tu.",
+      "Ehi tu, sì, proprio tu:\nè iniziata la giornata migliore!",
+      "Sei già in piedi? Applausi:\nl'eroe del mattino sei tu.",
+      "Il caffè è buono, ma sei tu\nil vero buongiorno di oggi.",
+      "Oggi il protagonista sei tu.\nGli altri sono comparse.",
+      "Appena apri gli occhi, tu\nhai già vinto contro la sveglia!",
+      "Più dolce di un cornetto caldo?\nSolo tu, a quest'ora.",
+      "Presentarsi così alle sette?\nSenza trucco, sei tu la star.",
+      "Che luce è questa alle sette?\nChiamate i vigili: tu sei fuori legge.",
+      "Buongiorno? Troppo poco.\nSe ci sei tu, è un giorno da dieci.",
+      "Il primo raggio di sole\nha chiesto di te. Sì, proprio tu!",
+      "Che bella novità stamattina:\nci sei tu, il resto è dettaglio.",
+      "Sera! Giornata chiusa:\nanche oggi la leggenda sei tu.",
+      "Ehi tu, buonasera!\nIl tramonto è uscito apposta per salutarti.",
+      "Hai dato il massimo e si vede.\nLa stella della serata sei tu.",
+      "Un po' di stanchezza?\ne tu hai retto la giornata da fuoriclasse.",
+      "Una giornata fa il suo corso,\nma il pezzo forte di oggi sei tu.",
+      "Missione compiuta anche oggi.\nBasta così: tu hai già vinto.",
+      "Come le stelle nel cielo,\nanche tu fai luce senza sforzo.",
+      "È sera e brilli ancora.\nCome fai tu a non spegnerti mai?",
+      "Grazie per la giornata.\nIl bello è che c'eri tu.",
+      "Il mondo oggi era più bello:\nc'eri tu e si vedeva.",
+      "Di giorno sei un mito,\ndi notte pure. Sì, proprio tu.",
+      "Va bene anche una giornata storta.\nSei a posto così, e lo sai pure tu.",
+      "Adesso pesa, lo so.\nMa tu sei più forte di questo.",
+      "Non serve essere perfetti:\nti basta essere così, e tu lo sai.",
+      "Fai una pausa quando vuoi:\nanche tu hai diritto al freno.",
+      "Sei più forte di quel che pensi.\nParola di chi guarda: tu non molli.",
+      "Passerà, vedrai.\nE tu ne uscirai a testa alta.",
+      "Il morale è giù, ma quanto vali tu\nnon si sposta di un millimetro.",
+      "Puoi sentire ogni emozione:\nè così che tu resti vero.",
+      "I diamanti nascono sotto pressione.\nGuarda che luce fai tu adesso.",
+      "Tristezza? Ha sbagliato indirizzo.\nQui l'inquilino speciale sei tu.",
+      "Anche col broncio sei un incanto.\nChi altro riesce così? Solo tu.",
+      "Una lacrima non ti scalfisce:\nresti un capolavoro, sì, tu.",
+      "Anche nei giorni grigi\nil colore sei tu.",
+      "Adesso è dura, ma tu\nce la farai, lo sento.",
+      "Un momento difficile\nmostra quanto vali tu.",
+      "Non mollare, eh.\nSe c'è uno tosto, quello sei tu.",
+      "Reggere questi giorni?\nUn fuoriclasse come te. Cioè, tu.",
+      "La fatica di oggi\nè il successo di domani, e tu lo sai.",
+      "Sai quanto puoi reggere?\nPiù di quanto immagini tu.",
+      "Questo momento diventerà un ricordo,\ne tu lo racconterai ridendo.",
+      "Anche i diamanti vanno levigati.\nSe brilli così è perché tu non cedi.",
+      "Giornata no? Capita.\nMa il panorama migliore resti tu.",
+      "Se tu resisti, per qualcuno\nè già un faro. Lo sapevi?",
+      "Stai crollando? Con una classe\nche solo tu ti puoi permettere.",
+      "Oggi tu ce la fai, e lo sai.\nPartiamo sicuri!",
+      "Hai talento da vendere.\nOggi tu farai faville, vedrai.",
+      "Pronti, partenza, via:\ntu sei già al traguardo.",
+      "Il lavoro di oggi? Una passeggiata\nse a farlo sei tu.",
+      "La passione che ci metti\nilluminerebbe l'ufficio. Sì, anche tu.",
+      "Forza! Oggi tu fai\ncose belle, io faccio il tifo.",
+      "Prima ancora di cominciare\nsembri già un pro. Chi? Sei tu.",
+      "Zero voglia di lavorare? Pazienza:\ntu sei già in servizio con quel sorriso.",
+      "Che outfit stamattina!\nL'azienda brilla solo perché ci sei tu.",
+      "Quando lavori, tu fai arte.\nBasta guardarti.",
+      "Non hai ancora iniziato\ne il risultato è già eccellente: sei tu.",
+      "Ti stai allenando?\nGià questo dice che tu sei una forza.",
+      "Ti prendi cura di te ogni giorno:\nsolo tu hai questa disciplina.",
+      "Il corpo sa che tu\nlo tratti bene, e ringrazia.",
+      "Muoversi è già vincere.\nE tu hai già iniziato!",
+      "Il sudore ti sta d'incanto:\nsembri uno spot, e tu non lo sai.",
+      "La salute è la cosa più importante,\ne tu la tratti da VIP.",
+      "Ritagliarsi del tempo per sé:\nquesto sì che è amore, e tu lo fai.",
+      "Con quella tenuta sportiva\npotresti fare la copertina. Sì, tu.",
+      "La palestra è un paradiso\nsolo da quando ci vai tu.",
+      "Come si fa a stare bene anche\nsotto sforzo? Dimmelo, tu che sai.",
+      "Esiste qualcuno che sudando resta incantevole?\nSì: sei tu.",
+      "Verso l'ufficio con quel passo?\nSolo tu trasformi il percorso in una sfilata.",
+      "Già in marcia di prima mattina:\nche forza che hai, tu!",
+      "Vai al lavoro oggi?\nLa star del treno delle sette sei tu.",
+      "Ogni passo verso l'ufficio vale oro,\nperché a farlo sei tu.",
+      "Un tragitto qualsiasi diventa speciale\nquando ci sei tu.",
+      "Ti presenti al lavoro ogni giorno:\nche affidabilità, tu!",
+      "Il metrò è una passerella\nda quando ci sali tu.",
+      "Sull'autobus brilli.\nStai facendo un servizio fotografico, tu?",
+      "Vederti uscire di casa\nrende felici. Eh sì, tu fai questo effetto.",
+      "Perfino camminando\nsei un mito. Chi? Sei tu.",
+      "Giornata finita! Vai a casa\ne riposa: tu te lo sei guadagnato.",
+      "Dalla schiena sembri già in pace:\nche stile quando esci, tu!",
+      "Strada di casa: tu\nhai fatto un lavoro eccellente.",
+      "Per oggi è fatta! Fieri di te,\ne forse anche tu lo sei.",
+      "Ora il tempo è solo per te.\nRilassati, tu lo meriti.",
+      "Staccare la spina è un'arte,\ne l'artista sei tu.",
+      "Finito il lavoro: ora si stacca.\nPoche storie, tu hai già dato il massimo.",
+      "Anche la strada di casa è più bella\nquando ci cammini tu.",
+      "Chi ti incrocia al ritorno\nha vinto la giornata. Oh sì: tu.",
+      "Una giornata faticosa?\nComunque vada, sei tu il numero uno.",
+      "Hai ripassato a lungo:\nvedrai che tu la spacchi.",
+      "L'impegno non tradisce:\nfidati, tu hai seminato bene.",
+      "Un po' d'ansia? Normale.\nTanto tu hai già fatto il difficile.",
+      "Un voto non decide chi sei.\ne tu vali ben oltre un numero.",
+      "Hai dato il massimo:\nper noi è già un dieci. E tu?",
+      "Chi se la cava meglio?\nSolo tu, senza dubbio.",
+      "Respira a fondo.\ne tu conosci la materia meglio del libro.",
+      "In bocca al lupo!\nCrepi, e intanto tu fai il resto.",
+      "Niente paura:\nalle domande risponde il genio che sei tu.",
+      "Batticuore? Capita ai migliori.\nSolo che tu sei il migliore.",
+      "Persino il foglio dell'esame\nsi emoziona quando scrivi tu.",
+      "È il momento di mostrare\nchi sei tu davvero.",
+      "Selezionatori in festa:\noggi il candidato dei sogni sei tu.",
+      "Esperienza e carica ce le hai:\nè l'ora di brillare, tu.",
+      "Un po' di tensione va bene:\ntu sei comunque il migliore in sala.",
+      "A testa alta! tu sai già\ncosa dire, e come dirlo.",
+      "Racconta con orgoglio il percorso:\ntu sei la storia migliore del giorno.",
+      "Il colloquio è una chiacchierata.\nE tu in questo sei un asso.",
+      "Se non ti assumono,\nl'azienda perde un pezzo grosso: tu.",
+      "Il curriculum è un'opera d'arte,\nma l'opera migliore sei tu.",
+      "Varcata la porta, è già un sì:\ntu hai quella luce lì.",
+      "La prima impressione?\nLa vinci col sorriso, e lo sai tu.",
+      "Oggi sei una luce.\nProprio tu, guarda un po'.",
+      "Così come sei va benissimo:\nsul serio, tu non cambiare niente.",
+      "Chi ti sta accanto ha vinto un premio,\ne quel premio sei tu.",
+      "Che carica! Se tu vai avanti così\nla giornata ti applaude.",
+      "Quel sorriso di oggi è un'arma:\nspara, tu non hai rivali.",
+      "Semplice è bello, e tu\nsei la semplicità fatta persona.",
+      "Il fascino non si nasconde:\ntu ci hai provato? Non ce la fai.",
+      "Cena a due stasera?\nL'altra persona rischia un infarto: tu sei troppo.",
+      "Chi esce con te stasera\nha fatto bingo: il premio sei tu.",
+      "Look perfetto per l'appuntamento:\nsulla copertina di una rivista ci stai tu.",
+      "Se ti vedo stasera\nmi innamoro. E tu lo sai, vero?",
+      "Già un incanto prima di uscire.\nAl cuore di chi ti aspetta pensaci tu.",
+      "Ce la fai: tu hai\nsempre il mio tifo.",
+      "Un piccolo passo, oggi:\ncosì parte il viaggio più bello. Chi parte? Sei tu.",
+      "Non mollare.\nI sogni si avverano, e tu sei in pista.",
+      "L'impegno di oggi\nè il successo di domani. Vai, tu.",
+      "L'energia che metti\ncambia il mondo, e quell'energia sei tu.",
+      "Sbagliare fa parte del gioco:\nriprova, tu hai ancora mille tentativi.",
+      "Le possibilità sono infinite,\ne tu ci nuoti dentro.",
+      "Oggi dai il massimo,\ntanto tu già lo fai senza pensarci.",
+      "Quando ti impegni, tu sei\nl'ispirazione di qualcuno.",
+      "Andrà alla grande, fidati,\nse al timone ci sei tu.",
+      "Non arrenderti. Lo sai tu quanto vali,\ne sai che è moltissimo.",
+      "Forza e coraggio!\nCe la fai, e lo sai bene anche tu.",
+      "Chi vede quanto ti impegni\nfa il tifo per te. E tu non lo sapevi?",
+      "Vali tanto, e tu lo sai.\nDavvero tanto.",
+      "Così come sei va già benissimo:\ntu non devi aggiungere altro.",
+      "Esisti, ed è già speciale.\nLo so io, e dovresti saperlo anche tu.",
+      "Fiducia alle stelle!\nSe tu entri in sala, la festa inizia.",
+      "Sei più tosto di quanto credi.\nSì, tu, proprio tu.",
+      "Le stranezze sono stelle,\ne tu sei una costellazione.",
+      "Credi in te.\nma tu sei più capace di quanto pensi.",
+      "Sei un capolavoro già finito.\ne tu non hai bisogno di ritocchi.",
+      "Sicurezza al massimo!\nIl numero uno dell'universo sei tu.",
+      "Vali più di quanto pensi tu,\ne si vede da lontano.",
+      "Stai già andando alla grande,\ne tu non te ne accorgi.",
+      "Se qualcuno non vede quanto brilli tu,\nè ora che compri gli occhiali.",
+      "Oggi si sta comodi:\nun po' di pace la merita proprio tu.",
+      "Anche tu hai il diritto\ndi riposarti.",
+      "Giornata a zero impegni?\nVa benissimo: tu ne hai già fatti abbastanza.",
+      "Conta il benessere del cuore.\nLo sai tu meglio di chiunque.",
+      "Con calma, a passo morbido:\ntu non hai fretta.",
+      "Stasera il tempo è per te.\nAccendi una candela: tu ci stai bene.",
+      "Riposare è un lavoro serio,\ne il capo sei tu.",
+      "Fermarsi è un diritto sacrosanto:\noggi tu sei in ferie dal mondo.",
+      "Mentre ti rilassi\nsei ancora più dolce. Sì, tu.",
+      "Prendersi del tempo va bene.\nIl mondo aspetta, tu no.",
+      "Rilassarsi sul divano?\nAnche da fermo, tu brilli.",
+      "Chi riposa è sempre incantevole,\ne tu ne sei la prova.",
+      "Hai un solo difetto: che tu\nnon abbia nessun difetto.",
+      "Sei tu il Wi-Fi?\nPerché con te sento una connessione.",
+      "Sei una bomba, ma di quelle buone:\nsolo tu esplodi di simpatia.",
+      "Dimmi tu se esisti davvero:\nsembri uscito da un sogno.",
+      "Il navigatore dice \"ricalcolo\":\nla nuova destinazione sei tu.",
+      "Furto confermato:\nil cuore è sparito e il ladro sei tu.",
+      "La pizza è invidiosa:\nsolo tu piaci a chiunque, come lei.",
+      "Ho cercato \"fascino\" nel dizionario:\nc'era una foto. Eri tu.",
+      "Non credevo ai miracoli.\nOra guardo te e il miracolo sei tu.",
+      "Mi mancava qualcosa, poi\nho capito: mancavi tu.",
+      "Hai un asso nella manica?\nNo: l'asso e la manica sei tu.",
+      "Roma avrebbe otto colli,\nse l'ottavo fossi tu.",
+      "Il Colosseo è bello, certo,\nma il monumento più amato sei tu.",
+      "Il tiramisù tira su il morale?\nSì, ma tu lo tiri su meglio.",
+      "Come l'espresso: corto e intenso.\nIl mio risveglio quotidiano sei tu.",
+      "Con te il tempo vola.\nChi ha messo le ali alle ore? Sei tu.",
+      "Sei come il parmigiano:\nogni piatto migliora se ci sei tu.",
+      "Ti darei dieci e lode,\nma tu meriti un voto nuovo.",
+      "Non è un concorso di bellezza,\nma se lo fosse, tu avresti già vinto.",
+      "Lavori ancora? Eppure\ntu hai già il fascino a tempo pieno.",
+      "Smettila di essere adorabile!\n\"E come si fa?\"\nAppunto: tu non sai farlo.",
+      "Una vetrina di museo ti vuole in vetrina:\ntu sei un capolavoro che cammina.",
+      "Che premiazione inutile:\nse ci sei tu, i vincitori sono già noti.",
+      "Servizio fotografico o passeggiata?\nIn ogni caso tu sei una copertina.",
+      "Sei una star: nel mio cuore\nil primo in classifica sei tu.",
+      "Fai un firmacopie, ti prego!\nCi sarò ogni giorno, tu lo sai.",
+      "Debutta pure: nel mio cuore\ntu sei già il frontman.",
+      "Primo in classifica ancora?\nNormale, tu vinci ogni giorno col sorriso.",
+      "Concedimi una foto:\nsolo tu sei uno scatto perfetto.",
+      "Nuovo singolo? Il mio cuore\nlo riascolta a ogni battito. La hit sei tu.",
+      "Posso riprenderti da vicino?\nOgni istante con te, tu, è da applausi.",
+      "Videoclip? No, tu sei già\nil film che vorrei vedere ogni sera.",
+      "Un reality su di te?\nSarebbe un record d'ascolti, tu lo sai.",
+      "Il centro della scena\nlo occupi sempre tu.",
+      "Meriti il premio faccia dell'anno.\nPer ora vince sempre tu.",
+      "Fai pubblicità? Appena ti vedo\nvoglio comprare qualsiasi cosa. Che potere, tu.",
+      "Dimmi che sei in copertina:\nsul giornale ci sta solo tu.",
+      "Che carisma sul palco!\nMa anche a casa sei una star, tu.",
+      "Faccio l'album delle figurine:\nin ogni pagina ci sei tu.",
+      "Quand'è l'incontro con i fan?\nIo ci sono ogni giorno, e tu?",
+      "Posta un video di ballo, dai:\nogni mossa è arte, e tu lo sai.",
+      "Mi sembra un trailer:\nogni volta che arrivi tu, il cuore parte.",
+      "Tournée mondiale? Io salgo sul bus.\nSe ci sei tu, il viaggio è già bello.",
+      "Edizione limitata?\nNo, tu sei un pezzo unico.",
+      "Alzo la torcia del telefono:\nper te, che illumini la sala. Sì, tu.",
+      "Scalata in classifica?\nIn vetta eri già da sempre, tu.",
+      "Concerto? Io vado\nsolo per vedere se ci sei tu.",
+      "Primo posto in hit parade?\nPer me la canzone numero uno sei tu.",
+      "Bis, bis, bis!\nUna canzone che riascolto sempre? Sei tu.",
+      "Anche dietro le quinte\nsei una leggenda, tu.",
+      "Cambio la mia star preferita:\nda oggi la numero uno sei tu.",
+      "Tessera numero uno al fan club:\nci tengo, perché il capo sei tu.",
+      "Svelo il mio preferito:\nin tre, due, uno... sei tu.",
+      "Ho comprato ogni gadget:\ntanto il pezzo da collezione sei tu.",
+      "Faccio il tifo a vita:\nho un solo idolo, e sei tu.",
+      "Ho scelto la mia squadra:\nlo stadio è dove sei tu.",
+      "Parte la mia fase fan:\nsei tu il mio unico pensiero.",
+      "Faccio il fotografo ufficiale:\nvoglio immortalare ogni attimo in cui ridi tu.",
+      "Ora di parlarci da amici:\nmi piaci da morire, tu.",
+      "Pago un cartellone in piazza:\nogni giorno dovrebbe essere festa, perché ci sei tu.",
+      "Tifo per te per sempre.\nChe orgoglio essere fan di quello che sei tu.",
+      "Quando ci sei tu\nil cuore fa il tamburo.",
+      "Se ci sei tu\nil mondo diventa un quadro.",
+      "Sei la mia vitamina quotidiana:\ntu lo sai, e fa bene al cuore.",
+      "Se sorridi tu,\nsorrido pure io, in automatico.",
+      "Tra le stelle, la più luminosa\nche abbia mai visto sei tu.",
+      "Ogni giorno con te è una sagra:\ne il re della festa sei tu.",
+      "Se parli tu,\nla giornata parte col sorriso.",
+      "Nel gioco della vita\nil jolly migliore sei tu.",
+      "Se oggi rido,\nè perché ci sei tu.",
+      "Nel mondo intero\nla persona più preziosa sei tu.",
+      "Se penso a te mi parte il sorriso:\nlo fai apposta, tu?",
+      "Sei la pace del mio cuore,\ne lo sai pure tu.",
+      "Ogni minuto accanto a te\nè speciale. Ma tu non te ne accorgi.",
+      "Non conosco persona più in gamba:\nil record lo detieni tu.",
+      "Esistere già basta:\nti ringrazio, tu che sei un dono.",
+      "Il clou\ndella giornata sei tu.",
+      "Basta che ci sia tu\ne il giorno diventa speciale.",
+      "Quando arrivi tu\nla stanza si illumina.",
+      "Il regalo migliore della mia vita?\nSenza dubbio sei tu.",
+      "Il mondo è un posto migliore\nsolo perché ci sei tu.",
+      "Una giornata senza te? Impensabile.\nOgni giorno ho bisogno che ci sia tu.",
+      "Nel mio cuore, il numero uno\nè sempre e solo tu.",
+      "Se ci sei tu\nsi può affrontare qualsiasi cosa.",
+      "Ringrazio ogni giorno il cielo\nperché esisti tu.",
+      "Nessun sorriso al mondo\nbatte quello che fai tu.",
+      "La benedizione più grande\nche conosca sei tu.",
+      "Se penso a te, la giornata\ndiventa felice. Sì, a te: tu fai miracoli.",
+      "Sei il mio posto sicuro, lo sai:\ncasa mia è dove ci sei tu.",
+      "Quando ci sei tu\nogni cosa va al posto giusto.",
+      "Il mio tipo ideale?\nDescrizione esatta: sei tu.",
+      "Il cuore va in tilt\nogni volta che passi tu.",
+      "Se esistesse un libro dei grandi,\nin copertina ci sarebbe tu.",
+      "Mi lascio incantare ogni volta:\nfai sempre centro, tu.",
+      "Mi viene il torcicollo a forza\ndi voltarmi quando passi tu.",
+      "I battiti salgono\nogni volta che appari tu.",
+      "Che spettacolo per gli occhi:\nuna copertina che cammina, tu.",
+      "Ogni giorno è da preferiti,\nperché ci sei tu.",
+      "Un miracolo a passeggio:\nsei tu.",
+      "Appena arrivi tu\nil mondo va al rallentatore.",
+      "Nella mia vita hai l'accesso VIP:\nanzi, il locale esclusivo sei tu.",
+      "Il punto più alto della mia giornata\nè il momento in cui arrivi tu.",
+      "L'unica serie che rivedrei all'infinito\nè quella dove ci sei tu.",
+      "Da quando ci sei tu\nvedo il mondo in alta definizione.",
+      "Nella mia vita arrivi\nal momento giusto. Sempre, tu.",
+      "Sei il pensiero che fa sorridere:\nlo sai tu quanto?",
+      "Il mio cuore è un grand hotel,\ne la suite migliore l'hai presa tu.",
+      "Ogni giorno è giorno di festa,\nper merito di chi? Solo tu.",
+      "Il protagonista del mio film\nsei tu, e non cambio il cast.",
+      "Quando passi tu\nil mio cuore balla la breakdance.",
+      "Per i miei occhi sei in 4K:\nche nitidezza, tu.",
+      "Se ci sei tu\nil mondo splende di più.",
+      "Per il mio cuore\nsei una persona VVIP, tu e nessun altro.",
+      "Il giorno cambia faccia\nquando entri in scena tu.",
+      "La mia carta segreta?\nChe domande: sei tu.",
+      "Pensare a te mi mette di buon umore.\nCome fai tu?",
+      "Nel mio pantheon personale\nil primo posto d'onore sei tu.",
+      "La mia vita è a colori\nda quando ci sei tu.",
+      "Sei un classico senza tempo,\nnel mio cuore ci sei sempre tu.",
+      "Appena passi tu\nmi sembra un film al rallentatore.",
+      "Il mio pass per la felicità\nsei tu, e non scade mai."
+    ]
+  },
+  "problem": {
+    "title": "Il tuo critico più severo? Forse sei tu",
+    "text": "Verso il lavoro, prima del colloquio, verso casa, la vocina in testa non fa che brontolare. Overdose di Complimenti si schiera dalla tua parte dalla schermata Home, più volte al giorno, un po' più del ragionevole. Appena ti scappa un sorriso, torna anche un po' di fiducia."
+  },
+  "features": [
+    {
+      "title": "Il complimento giusto per l'umore",
+      "text": "Scegli tra 14 umori e situazioni come `Mattina`, `Verso il lavoro`, `Giornata dura`, `Prima del colloquio` o `Prima del date`, e il complimento adatto arriva subito sul widget. Indeciso? C'è anche `Casuale`.",
+      "shot": "02-mood"
+    },
+    {
+      "title": "Tieni quelli che ami",
+      "text": "Tocca la stella per salvarlo nei Preferiti e ritrova i precedenti nella Cronologia. Tocca `Usa questo` e va dritto sul widget.",
+      "shot": "03-favorites"
+    },
+    {
+      "title": "Passa ogni giorno e il conto sale",
+      "text": "Ogni giorno in cui dai un'occhiata allunga la tua serie. A 7, 30 o 100 giorni di fila, e a 50 e 100 giorni in totale, sblocchi un traguardo.",
+      "shot": "05-achievements"
+    }
+  ],
+  "steps": {
+    "title": "Si parte in tre passi",
+    "items": [
+      {
+        "title": "Scegli l'umore",
+        "text": "Apri `Scegli l'umore` e tocca quello del momento."
+      },
+      {
+        "title": "Personalizza il widget",
+        "text": "Nelle impostazioni avanzate scegli font, colore del testo, sfondo e frequenza."
+      },
+      {
+        "title": "Mettilo nella schermata Home",
+        "text": "Tieni premuto sulla schermata Home, tocca + e cerca Overdose di Complimenti."
+      }
+    ]
+  },
+  "reference": {
+    "title": "Il widget, come vuoi tu",
+    "rows": [
+      [
+        "Font",
+        "13 font, tra cui Futura, Georgia e Marker Felt"
+      ],
+      [
+        "Colore del testo",
+        "Quello che preferisci"
+      ],
+      [
+        "Sfondo",
+        "Una sfumatura di due colori o una delle foto incluse"
+      ],
+      [
+        "Allineamento",
+        "A sinistra, al centro o a destra"
+      ],
+      [
+        "Interlinea",
+        "Righe più strette o più ariose"
+      ],
+      [
+        "Frequenza di aggiornamento",
+        "Un complimento nuovo ogni 5, 15 o 30 minuti"
+      ]
+    ],
+    "note": "La dimensione del widget si sceglie quando lo aggiungi alla schermata Home."
+  },
+  "pricing": {
+    "title": "Lo compri una volta e basta",
+    "free": {
+      "name": "L'app",
+      "items": [
+        "281 complimenti per 14 umori",
+        "Un widget per la schermata Home a tuo gusto",
+        "Preferiti e Cronologia",
+        "Serie e traguardi"
+      ]
+    },
+    "pro": {
+      "name": "Sostieni lo sviluppatore",
+      "items": [
+        "Scegli una mancia piccola, media o grande",
+        "Non sblocca nulla. È solo un modo per dire grazie"
+      ],
+      "note": "Solo se e quando ti va."
+    },
+    "note": "Niente abbonamenti, niente acquisti extra, niente pubblicità."
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "items": [
+      {
+        "q": "Come aggiungo il widget?",
+        "a": "Tieni premuto uno spazio vuoto della schermata Home finché le icone non tremano, tocca + in alto, cerca Overdose di Complimenti e scegli una dimensione."
+      },
+      {
+        "q": "Come viene scelto il complimento successivo?",
+        "a": "Quando scegli un umore, un complimento adatto arriva subito sul widget. Poi il widget ne mostra uno a caso tra tutti i 281, con la frequenza che hai scelto. Nell'app puoi anche toccare `Prossimo` per andare avanti da te."
+      },
+      {
+        "q": "Posso cambiare font o frequenza del widget?",
+        "a": "Sì. Nelle impostazioni avanzate cambi font, colore del testo, sfondo, allineamento, interlinea e frequenza di aggiornamento: 5, 15 o 30 minuti."
+      },
+      {
+        "q": "Il widget non è cambiato subito.",
+        "a": "È iOS a decidere quando ridisegnare i widget, quindi a volte resta un po' indietro rispetto alla frequenza scelta. Apri l'app e chiudila, e il widget si aggiorna."
+      },
+      {
+        "q": "Come funziona la serie?",
+        "a": "Ogni giorno di fila in cui guardi un complimento allunga la serie. In `I miei record` vedi la serie attuale, il tuo record, i giorni totali e i traguardi."
+      },
+      {
+        "q": "Preferiti e cronologia sono spariti.",
+        "a": "Tutto è salvato solo sul tuo dispositivo, quindi non ti segue se elimini l'app o cambi telefono. Se non hai eliminato nulla e sono spariti lo stesso, scrivici un'email."
+      },
+      {
+        "q": "I miei dati vengono inviati da qualche parte?",
+        "a": "No. L'app non raccoglie dati personali. Preferiti e cronologia restano sul tuo dispositivo."
+      },
+      {
+        "q": "Come segnalo un bug o propongo un'idea?",
+        "a": "Direttamente da `Contatta lo sviluppatore` nell'app, via email o in DM su Instagram a @lee25_ios. Rispondiamo appena possibile."
+      }
+    ]
+  },
+  "closing": {
+    "headline": "Da oggi, qualcuno\ndalla tua parte",
+    "cta": "Scaricala dall'App Store"
+  },
+  "ui": {
+    "skip": "Vai al contenuto",
+    "languages": "Lingua",
+    "privacy": "Privacy",
+    "contact": "Domande o suggerimenti? Scrivi a {email}."
+  }
+}

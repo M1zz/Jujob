@@ -1,56 +1,192 @@
 <!doctype html>
 <html lang="es">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Piropo del Día — Exageremos juntos</title>
-<meta name="description" content="Piropo del Día es una app con widget que te cubre de cumplidos exagerados y te anima a lo grande.">
-<!--hreflang-->
-<link rel="alternate" hreflang="ko" href="https://m1zz.github.io/Jujob/ko/index.html">
-<link rel="alternate" hreflang="en" href="https://m1zz.github.io/Jujob/en/index.html">
-<link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/Jujob/en-GB/index.html">
-<link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/Jujob/zh-Hans/index.html">
-<link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/Jujob/zh-Hant/index.html">
-<link rel="alternate" hreflang="ja" href="https://m1zz.github.io/Jujob/ja/index.html">
-<link rel="alternate" hreflang="ru" href="https://m1zz.github.io/Jujob/ru/index.html">
-<link rel="alternate" hreflang="es" href="https://m1zz.github.io/Jujob/es/index.html">
-<link rel="alternate" hreflang="de" href="https://m1zz.github.io/Jujob/de/index.html">
-<link rel="alternate" hreflang="fr" href="https://m1zz.github.io/Jujob/fr/index.html">
-<link rel="alternate" hreflang="it" href="https://m1zz.github.io/Jujob/it/index.html">
-<link rel="alternate" hreflang="pt-BR" href="https://m1zz.github.io/Jujob/pt-BR/index.html">
-<link rel="alternate" hreflang="th" href="https://m1zz.github.io/Jujob/th/index.html">
-<link rel="alternate" hreflang="vi" href="https://m1zz.github.io/Jujob/vi/index.html">
-<link rel="alternate" hreflang="cs" href="https://m1zz.github.io/Jujob/cs/index.html">
-<link rel="alternate" hreflang="da" href="https://m1zz.github.io/Jujob/da/index.html">
-<link rel="alternate" hreflang="el" href="https://m1zz.github.io/Jujob/el/index.html">
-<link rel="alternate" hreflang="fi" href="https://m1zz.github.io/Jujob/fi/index.html">
-<link rel="alternate" hreflang="id" href="https://m1zz.github.io/Jujob/id/index.html">
-<link rel="alternate" hreflang="nb" href="https://m1zz.github.io/Jujob/nb/index.html">
-<link rel="alternate" hreflang="nl" href="https://m1zz.github.io/Jujob/nl/index.html">
-<link rel="alternate" hreflang="pl" href="https://m1zz.github.io/Jujob/pl/index.html">
-<link rel="alternate" hreflang="sv" href="https://m1zz.github.io/Jujob/sv/index.html">
-<link rel="alternate" hreflang="tr" href="https://m1zz.github.io/Jujob/tr/index.html">
-<link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/Jujob/en/index.html">
-<!--/hreflang-->
-<style>body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.7;max-width:720px;margin:0 auto;padding:24px 18px 48px;color:#1c1c1e;background:#fff}
-@media(prefers-color-scheme:dark){body{color:#f2f2f7;background:#1c1c1e}a{color:#64b5ff}}
-h1{font-size:1.7em;margin:.6em 0 .2em}h2{font-size:1.15em;margin:1.6em 0 .4em}nav.top{display:flex;gap:16px;flex-wrap:wrap;font-size:.95em;margin-bottom:12px}
-.sub{opacity:.7;margin-top:0}ul{padding-left:1.2em}.langs{margin-top:40px;padding-top:16px;border-top:1px solid #8884;font-size:.9em}.langs a{display:inline-block;margin:2px 8px 2px 0}footer{margin-top:24px;opacity:.6;font-size:.85em}</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Piropo del Día: el widget que te pone por las nubes</title>
+  <meta name="description" content="Un widget en tu pantalla de inicio con un piropo exagerado nuevo cada 5, 15 o 30 minutos. 281 frases para cada estado, rachas y más. Pago único.">
+  <meta name="theme-color" content="#C2600A" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0a0d0f" media="(prefers-color-scheme: dark)">
+  <meta name="apple-itunes-app" content="app-id=6450839961">
+  <link rel="canonical" href="https://m1zz.github.io/Jujob/es/">
+  <link rel="alternate" hreflang="ko" href="https://m1zz.github.io/Jujob/ko/">
+  <link rel="alternate" hreflang="en" href="https://m1zz.github.io/Jujob/en/">
+  <link rel="alternate" hreflang="en-GB" href="https://m1zz.github.io/Jujob/en-GB/">
+  <link rel="alternate" hreflang="zh-Hans" href="https://m1zz.github.io/Jujob/zh-Hans/">
+  <link rel="alternate" hreflang="zh-Hant" href="https://m1zz.github.io/Jujob/zh-Hant/">
+  <link rel="alternate" hreflang="ja" href="https://m1zz.github.io/Jujob/ja/">
+  <link rel="alternate" hreflang="ru" href="https://m1zz.github.io/Jujob/ru/">
+  <link rel="alternate" hreflang="es" href="https://m1zz.github.io/Jujob/es/">
+  <link rel="alternate" hreflang="de" href="https://m1zz.github.io/Jujob/de/">
+  <link rel="alternate" hreflang="fr" href="https://m1zz.github.io/Jujob/fr/">
+  <link rel="alternate" hreflang="it" href="https://m1zz.github.io/Jujob/it/">
+  <link rel="alternate" hreflang="pt-BR" href="https://m1zz.github.io/Jujob/pt-BR/">
+  <link rel="alternate" hreflang="th" href="https://m1zz.github.io/Jujob/th/">
+  <link rel="alternate" hreflang="vi" href="https://m1zz.github.io/Jujob/vi/">
+  <link rel="alternate" hreflang="cs" href="https://m1zz.github.io/Jujob/cs/">
+  <link rel="alternate" hreflang="da" href="https://m1zz.github.io/Jujob/da/">
+  <link rel="alternate" hreflang="el" href="https://m1zz.github.io/Jujob/el/">
+  <link rel="alternate" hreflang="fi" href="https://m1zz.github.io/Jujob/fi/">
+  <link rel="alternate" hreflang="id" href="https://m1zz.github.io/Jujob/id/">
+  <link rel="alternate" hreflang="nb" href="https://m1zz.github.io/Jujob/nb/">
+  <link rel="alternate" hreflang="nl" href="https://m1zz.github.io/Jujob/nl/">
+  <link rel="alternate" hreflang="pl" href="https://m1zz.github.io/Jujob/pl/">
+  <link rel="alternate" hreflang="sv" href="https://m1zz.github.io/Jujob/sv/">
+  <link rel="alternate" hreflang="tr" href="https://m1zz.github.io/Jujob/tr/">
+  <link rel="alternate" hreflang="x-default" href="https://m1zz.github.io/Jujob/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Piropo del Día: el widget que te pone por las nubes">
+  <meta property="og:description" content="Un widget en tu pantalla de inicio con un piropo exagerado nuevo cada 5, 15 o 30 minutos. 281 frases para cada estado, rachas y más. Pago único.">
+  <meta property="og:url" content="https://m1zz.github.io/Jujob/es/">
+  <meta property="og:image" content="https://m1zz.github.io/Jujob/img/es/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="../icon.png">
+  <link rel="apple-touch-icon" href="../icon.png">
+  <link rel="stylesheet" href="../site.css">
+  <link rel="stylesheet" href="../demo.css">
+  <style>:root{--accent:#C2600A}@media (prefers-color-scheme:dark){:root{--accent:#FFB547}}</style>
+  <script>document.documentElement.classList.add("js")</script>
 </head>
 <body>
-<nav class="top"><a href="index.html" aria-current=page>Inicio</a><a href="privacy.html">Política de privacidad</a><a href="support.html">Soporte</a></nav>
-<h1>Piropo del Día</h1>
-<p class="sub">Exageremos juntos</p>
-<p>Piropo del Día es una app con widget que te cubre de cumplidos exagerados y te anima a lo grande.</p>
-<ul>
-<li>Descubre 281 piropos exagerados en el widget de tu pantalla de inicio</li>
-<li>Elige el piropo que encaja con tu estado de ánimo o tu situación</li>
-<li>Pon tu nombre y convierte cada piropo en uno hecho para ti</li>
-<li>Guarda tus favoritos y revisa el historial de los que te gustaron</li>
-<li>Con rachas y logros, recibe ánimos día tras día</li>
-</ul>
-<p><a href="privacy.html">Política de privacidad</a> · <a href="support.html">Soporte</a></p>
-<div class="langs"><!--langs--><a href="../ko/index.html" hreflang="ko" lang="ko">한국어</a> <a href="../en/index.html" hreflang="en" lang="en">English</a> <a href="../en-GB/index.html" hreflang="en-GB" lang="en-GB">English (UK)</a> <a href="../zh-Hans/index.html" hreflang="zh-Hans" lang="zh-Hans">简体中文</a> <a href="../zh-Hant/index.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a> <a href="../ja/index.html" hreflang="ja" lang="ja">日本語</a> <a href="../ru/index.html" hreflang="ru" lang="ru">Русский</a> <a href="../es/index.html" hreflang="es" lang="es">Español</a> <a href="../de/index.html" hreflang="de" lang="de">Deutsch</a> <a href="../fr/index.html" hreflang="fr" lang="fr">Français</a> <a href="../it/index.html" hreflang="it" lang="it">Italiano</a> <a href="../pt-BR/index.html" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a> <a href="../th/index.html" hreflang="th" lang="th">ไทย</a> <a href="../vi/index.html" hreflang="vi" lang="vi">Tiếng Việt</a> <a href="../cs/index.html" hreflang="cs" lang="cs">Čeština</a> <a href="../da/index.html" hreflang="da" lang="da">Dansk</a> <a href="../el/index.html" hreflang="el" lang="el">Ελληνικά</a> <a href="../fi/index.html" hreflang="fi" lang="fi">Suomi</a> <a href="../id/index.html" hreflang="id" lang="id">Bahasa Indonesia</a> <a href="../nb/index.html" hreflang="nb" lang="nb">Norsk bokmål</a> <a href="../nl/index.html" hreflang="nl" lang="nl">Nederlands</a> <a href="../pl/index.html" hreflang="pl" lang="pl">Polski</a> <a href="../sv/index.html" hreflang="sv" lang="sv">Svenska</a> <a href="../tr/index.html" hreflang="tr" lang="tr">Türkçe</a><!--/langs--></div>
-<footer>© 2026 Leeo</footer>
+  <a class="skip" href="#main">Ir al contenido</a>
+  <header class="bar">
+    <a class="brand" href="../es/"><img src="../icon.png" alt="" width="32" height="32">Piropo del Día</a>
+    <a class="lang-link" href="#languages">Idioma</a>
+  </header>
+
+  <main id="main">
+    <section class="hero">
+      <div class="copy">
+        <h1>Cada vez que miras el móvil,<br>tu fan número uno te espera</h1>
+        <p class="lead">Piropo del Día es un widget que te halaga demasiado, y a propósito. Un piropo de mañana por la mañana, uno de entrevista antes de la entrevista. Cámbiale la fuente, los colores y el fondo a tu gusto.</p>
+        <div class="actions"><a class="cta" href="https://apps.apple.com/app/id6450839961">Descárgala en el App Store</a><a class="try" href="#try">Llévate un piropo ahora ↓</a></div>
+        <p class="muted small">Una sola compra y lo tienes todo. Sin suscripción ni anuncios.</p>
+      </div>
+      <div class="phone"><img src="../img/es/01-main.jpg" alt="Cada vez que miras el móvil, tu fan número uno te espera" width="720" height="1564" decoding="async"></div>
+    </section>
+
+
+    <section class="reveal" id="try">
+      <h2>Llévate un piropo ahora</h2>
+      <p class="muted">Elige un estado y el widget te muestra un piropo para él. Toca Otro piropo y sale uno al azar de los 281.</p>
+      <div id="demo" class="card demo-card" data-text="{&quot;title&quot;: &quot;Llévate un piropo ahora&quot;, &quot;lead&quot;: &quot;Elige un estado y el widget te muestra un piropo para él. Toca Otro piropo y sale uno al azar de los 281.&quot;, &quot;next&quot;: &quot;Otro piropo&quot;, &quot;note&quot;: &quot;Son las frases reales de la app. En la app, el widget cambia solo cada 5, 15 o 30 minutos.&quot;, &quot;moods&quot;: [{&quot;emoji&quot;: &quot;🌅&quot;, &quot;name&quot;: &quot;Mañana&quot;, &quot;first&quot;: 0}, {&quot;emoji&quot;: &quot;🚶&quot;, &quot;name&quot;: &quot;Camino al trabajo&quot;, &quot;first&quot;: 69}, {&quot;emoji&quot;: &quot;💪&quot;, &quot;name&quot;: &quot;Días duros&quot;, &quot;first&quot;: 36}, {&quot;emoji&quot;: &quot;👔&quot;, &quot;name&quot;: &quot;Entrevista&quot;, &quot;first&quot;: 100}, {&quot;emoji&quot;: &quot;💕&quot;, &quot;name&quot;: &quot;Antes de la cita&quot;, &quot;first&quot;: 111}, {&quot;emoji&quot;: &quot;🏠&quot;, &quot;name&quot;: &quot;Vuelta a casa&quot;, &quot;first&quot;: 79}], &quot;quotes&quot;: [&quot;El sol sale cada mañana\npara ver quién brilla más: tú.&quot;, &quot;Despierta, que hoy la luz\nmás potente de la casa eres tú.&quot;, &quot;Abres los ojos y el día\nya es tuyo. Imparable, tú.&quot;, &quot;Se levanta una leyenda\ny esa leyenda eres tú.&quot;, &quot;Ni el café despierta tanto\ncomo tú. En serio.&quot;, &quot;Suena el despertador y la\nestrella del día eres tú.&quot;, &quot;Lo más bonito del amanecer\nno es el sol: eres tú.&quot;, &quot;Sé tú, a tu aire:\nes lo mejor que le pasa al día.&quot;, &quot;Madrugar y encima brillar:\nesa combinación solo la tienes tú.&quot;, &quot;¿Buenos días? Qué va:\nmejores días, si estás tú.&quot;, &quot;Mejor plan para esta mañana:\nlo tienes tú, y nadie más.&quot;, &quot;Alerta de luz: ya amaneció\nporque has llegado tú.&quot;, &quot;Día completado con nota,\ny la mejor de la clase eres tú.&quot;, &quot;Cierras el día como lo abriste:\na lo grande, como solo tú.&quot;, &quot;Hoy lo diste todo. Quien merece\nun aplauso largo eres tú.&quot;, &quot;Con todo el cansancio, aguantaste\nel día como nadie. Un mito, tú.&quot;, &quot;Tu día valió la pena\nporque lo viviste tú.&quot;, &quot;Otro día más y sigues en pie.\nHéroe de lo cotidiano: tú.&quot;, &quot;Mira el cielo: miles de estrellas\ny ninguna como tú.&quot;, &quot;Anochece, pero la luz sigue\nencendida. La luz eres tú.&quot;, &quot;Gracias por el día, tú:\nsin ti habría sido uno cualquiera.&quot;, &quot;Hoy el mundo fue más bonito\nporque estabas tú.&quot;, &quot;De día, leyenda. De noche,\nleyenda. Siempre tú.&quot;, &quot;Un mal día no cuenta.\nLo que cuenta eres tú.&quot;, &quot;Esto pasará, y quien seguirá\nde pie, como siempre, eres tú.&quot;, &quot;Perfección no se pide, pero\nla más cercana eres tú.&quot;, &quot;Descansa si hace falta.\nIr a tu ritmo es de sabios, tú.&quot;, &quot;Más fuerte de lo que crees:\neso eres tú.&quot;, &quot;Todo pasa, también esto.\nY aquí seguirás tú, de pie.&quot;, &quot;Con el ánimo por los suelos\nvales oro igual, tú.&quot;, &quot;Sentir tristeza es normal.\nTodas tus emociones valen, tú.&quot;, &quot;¿Sabías que el diamante\nse forma bajo presión? Como tú.&quot;, &quot;De bajón o no, la persona\nmás valiosa del mundo eres tú.&quot;, &quot;Estar de bajón no cambia\nque el tesoro eres tú.&quot;, &quot;Hasta llorando brillas\ncomo una joya.&quot;, &quot;Que hoy cueste no cambia\nlo esencial: el milagro eres tú.&quot;, &quot;Hoy cuesta, pero lo lograrás:\nlo digo yo y lo sabes tú.&quot;, &quot;En los malos ratos se nota\nquién tiene casta: tú.&quot;, &quot;No te rindas. Fuerza de sobra\nla tienes tú.&quot;, &quot;Aguantar como lo haces\nes cosa de héroes, tú.&quot;, &quot;Los palos de hoy son abono:\nmañana la flor serás tú.&quot;, &quot;Aguanta más de lo imaginable\nquien, como tú, no se rinde.&quot;, &quot;Este mal rato será anécdota\ny quien la cuente, leyenda: tú.&quot;, &quot;Los diamantes brillan tras\nel pulido. Igual que tú.&quot;, &quot;¿Mal día? Aun así, lo mejor\nque he visto hoy eres tú.&quot;, &quot;Que sigas adelante es la\nesperanza de alguien, tú.&quot;, &quot;Con la moral por los suelos\nsigue habiendo luz: eres tú.&quot;, &quot;Hoy se puede con todo, y\nquien mejor lo sabe eres tú.&quot;, &quot;Confío en tu talento:\npara esto, el mejor eres tú.&quot;, &quot;Preparación lista: media\nvictoria ya es tuya, tú.&quot;, &quot;Lo que toque hoy tiene\nsolución, y la solución eres tú.&quot;, &quot;Tu ilusión iluminará el día\nentero, tú, farola humana.&quot;, &quot;¡Vamos! A lo grande,\ncomo siempre, tú.&quot;, &quot;Antes de empezar ya tenías\naire de profesional, tú.&quot;, &quot;¿Sin ganas de trabajar? Aun así\nrindes más que nadie: tú.&quot;, &quot;La oficina sube de nivel:\nel fichaje del día eres tú.&quot;, &quot;Verte trabajar es un\nespectáculo. La estrella, tú.&quot;, &quot;Aún no has empezado\ny ya vas ganando, tú.&quot;, &quot;Entrenar ya es un triunfo,\ny quien lo logra hoy eres tú.&quot;, &quot;Cuidarte cada día\nes de admirar, tú.&quot;, &quot;Nadie conoce tu cuerpo\ncomo lo conoces tú.&quot;, &quot;Solo por ponerte en marcha\nya mereces aplauso.&quot;, &quot;Sudar te sienta de lujo,\ntú, pura energía.&quot;, &quot;Tu salud es lo primero\ny nadie lo sabe como tú.&quot;, &quot;Sacar tiempo para ti\nes de campeones, como tú.&quot;, &quot;Con esa ropa deportiva\nsaldrías en una revista, tú.&quot;, &quot;El gimnasio se ilumina\ncuando quien entra eres tú.&quot;, &quot;Sudas y brillas a la vez.\n¿Quién lo hace así? Solo tú.&quot;, &quot;¿Alguien a quien el sudor\nle quede bien? Sí: tú.&quot;, &quot;Rumbo al trabajo, caminando\ncomo un profesional: tú.&quot;, &quot;Madrugar y salir a la calle\nmerece un aplauso, tú.&quot;, &quot;Otro día camino al trabajo\ny ya vas ganando, tú.&quot;, &quot;Cada paso que das\nvale oro, tú.&quot;, &quot;Hasta el trayecto es especial\nsi quien lo recorre eres tú.&quot;, &quot;Responsable y puntual:\nnadie cumple como tú.&quot;, &quot;El metro hoy es pasarela\ny la estrella del desfile eres tú.&quot;, &quot;Hasta en el autobús brillas, tú.\n¿Hoy toca sesión de fotos?&quot;, &quot;Verte camino al trabajo\nanima cualquier mañana, tú.&quot;, &quot;Caminar y verse tan bien:\ntalento que solo tienes tú.&quot;, &quot;¡Día cumplido! A casa a descansar,\nque lo mereces.&quot;, &quot;Salir del trabajo es un\nespectáculo si sales tú.&quot;, &quot;En el camino de vuelta\nsigues siendo lo mejor, tú.&quot;, &quot;Otro día resuelto sin dramas.\nTalento puro.&quot;, &quot;Ahora empieza tu tiempo.\nDisfrútalo a tope, tú.&quot;, &quot;Tras el trabajo, tu tiempo es\nsagrado. Mímate, tú.&quot;, &quot;Fin de la jornada: matrícula\nde honor para quien la ganó, tú.&quot;, &quot;Hasta de vuelta a casa\nbrillas, tú. Menudo día.&quot;, &quot;Al verte salir parece que\nel día valió la pena, tú.&quot;, &quot;Fue un día duro, pero\nsigues siendo de lo mejor, tú.&quot;, &quot;Has estudiado de sobra,\nasí que lo bordas, tú.&quot;, &quot;Tu esfuerzo nunca falla,\ny eso lo sabes mejor que tú.&quot;, &quot;Es normal tener nervios.\nLo tienes todo preparado, tú.&quot;, &quot;Un examen no mide lo que vales:\ntú vales mucho más.&quot;, &quot;Lo diste todo y eso ya\nes un aprobado. Matrícula, tú.&quot;, &quot;Si te lo propones, lo sacas.\nY tú siempre te lo propones.&quot;, &quot;Respira hondo y confía\nen todo lo que sabes, tú.&quot;, &quot;Suerte con el examen, que\ntú vas con preparación de sobra.&quot;, &quot;Cero preocupación: acertarás\nhasta lo que no estudiaste, tú.&quot;, &quot;¿Nervios? Aun así, la mejor cabeza\nde esa aula es la tuya, tú.&quot;, &quot;Al verte, hasta el folio del examen\nsusurrará: «ya aprobó», tú.&quot;, &quot;Ha llegado el momento\nde brillar, y tú lo sabes hacer.&quot;, &quot;Tu experiencia y tu ilusión\nson tu mejor carta, tú.&quot;, &quot;Si hay nervios, no pasa nada:\nlo que hay delante es de lo mejor, tú.&quot;, &quot;Cabeza alta, que tú vienes\ncon todo preparado.&quot;, &quot;Cuenta tu historia con orgullo:\nmaterial tienes de sobra, tú.&quot;, &quot;Una entrevista es conocerse.\nCalma, que de eso sabes tú.&quot;, &quot;Si esa empresa no te ficha,\nla pérdida es suya.&quot;, &quot;Dicen que tu currículum brilla,\npero el brillo de verdad eres tú.&quot;, &quot;Entras a la sala y el puesto\nya está en tu bolsillo, tú.&quot;, &quot;Tu primera impresión vale\nmedio contrato, y tú lo sabes.&quot;, &quot;Ojo, recursos humanos:\nla leyenda de hoy eres tú.&quot;, &quot;Hoy estás radiante,\ny no es el café: eres tú.&quot;, &quot;Tal como eres, ya resultas\nirresistible. Sí, tú.&quot;, &quot;Quien salga contigo ha\nganado la lotería, tú.&quot;, &quot;Con esa confianza seduces\nhasta al espejo, tú.&quot;, &quot;Tu sonrisa de hoy es tu mejor\narma de seducción, tú.&quot;, &quot;Tal cual eres: eso ya\nes un diez. Así de simple, tú.&quot;, &quot;Tu encanto es imposible de\nesconder, ni lo intentes, tú.&quot;, &quot;¿Cita hoy? A la otra persona\nle va a dar un vuelco el corazón.&quot;, &quot;Quien quede contigo ha tocado\nel premio gordo. ¿Lo sabes, tú?&quot;, &quot;Tu look es perfecto.\n¿Sesión de fotos o cita? Solo tú.&quot;, &quot;Con verte hoy, cualquiera\nse enamora un poquito, tú.&quot;, &quot;La cita ni ha empezado y\nya le has robado el corazón.&quot;, &quot;Puedes con ello, tú.\nEstoy aquí para animarte siempre.&quot;, &quot;Un pequeño paso es el inicio\nde un gran viaje, y lo das tú.&quot;, &quot;No te rindas: tus sueños\nse cumplirán, y tú ya lo sabes.&quot;, &quot;El esfuerzo de hoy es\nel éxito de mañana. Palabra.&quot;, &quot;Tu pasión puede cambiar\nel mundo. Sigue así, tú.&quot;, &quot;Fallar es parte del camino.\nInsiste, que tú puedes.&quot;, &quot;Tu potencial no tiene techo.\nSin límites, como tú.&quot;, &quot;A darlo todo hoy,\nque tú sabes cómo.&quot;, &quot;Verte esforzarte motiva\na más de uno, tú.&quot;, &quot;Todo va a salir bien,\nporque lo harás tú.&quot;, &quot;No te rindas: ya eres\nuna gran persona, tú.&quot;, &quot;¡Ánimo! Tienes lo que hay\nque tener, y de sobra, tú.&quot;, &quot;Quien conoce tu esfuerzo\nte aplaude. Y yo también, tú.&quot;, &quot;Vales muchísimo,\ncon todas las letras, tú.&quot;, &quot;Tal cual, la perfección\ntiene nombre: tú.&quot;, &quot;Que existas ya es algo\nespecial. Y existes tú.&quot;, &quot;Cabeza alta: una persona\ngenial eres tú.&quot;, &quot;Eres más fuerte de lo que\ncrees. Mucho más, tú.&quot;, &quot;Tu forma de ser es\ntu mayor brillo, tú.&quot;, &quot;Cree en ti: lo necesario\nlo tienes tú.&quot;, &quot;Eres una persona completa\ntal cual, tú.&quot;, &quot;Con tanta seguridad\neres lo más grande, tú.&quot;, &quot;Vales mucho más de\nlo que piensas, tú.&quot;, &quot;Ya lo haces muy bien,\nde verdad, y lo sabes tú.&quot;, &quot;Quien no ve tu encanto\nes que no tiene ojos, tú.&quot;, &quot;Hoy toca relajarse,\nsin prisas ni culpas, tú.&quot;, &quot;Un descanso lo necesita\ncualquiera, también tú.&quot;, &quot;No hacer nada es un plan\nperfecto hoy.&quot;, &quot;Tu bienestar es lo primero\ny tú lo sabes.&quot;, &quot;Poco a poco, a tu ritmo,\nllegas igual, tú.&quot;, &quot;Hoy es tu día: un tiempo\nsolo para ti, tú.&quot;, &quot;Descansar también es avanzar.\nSin culpa.&quot;, &quot;Descansar es un derecho.\nHoy, a relajarte, tú.&quot;, &quot;Relajarte tiene su encanto\ncasi tanto como tú.&quot;, &quot;Dedicarte un rato está más\nque bien, y lo mereces tú.&quot;, &quot;Hasta en pijama y en el sofá\nbrillas, tú.&quot;, &quot;Mientras descansas, sigues\nsiendo lo más bonito, tú.&quot;, &quot;Defectos tuyos: he buscado\ndos veces y nada. Error 404, tú.&quot;, &quot;¿El número Pi? Infinito,\nirracional y muy de nota. Igual que tú.&quot;, &quot;Si ser guapo fuera delito,\nla cadena perpetua llevaría tu nombre.&quot;, &quot;Test de personalidad: resultado\n«madre mía, qué maravilla». Eres tú.&quot;, &quot;No necesitas filtro: ya vienes\nen alta definición, tú.&quot;, &quot;Dicen que el dinero no da la\nfelicidad. Pero tú sí, y sin IVA.&quot;, &quot;Si fueras un cuento,\nserías el que nunca se acaba.&quot;, &quot;Perdona, se te ha caído algo:\nmi mandíbula al verte, tú.&quot;, &quot;No eres de este mundo.\nVienes de uno mejor.&quot;, &quot;Tu sonrisa tiene más «me gusta»\nque toda mi vida junta, tú.&quot;, &quot;¿Llevas mapa? Es que\nme pierdo en tu mirada.&quot;, &quot;Si esto es un sueño, que no\nme despierte nadie. Tan real: tú.&quot;, &quot;Mi Ctrl+Z de los días malos\nsiempre eres tú.&quot;, &quot;Grupo sanguíneo: A positivo.\nPura buena onda, como tú.&quot;, &quot;Eres tan guay que\nel hielo se pone celoso, tú.&quot;, &quot;¿Cuánto pesas? Oro, como mínimo.\nQuilates a tope, tú.&quot;, &quot;Tanto talento junto\ndebería tributar aparte, tú.&quot;, &quot;Si fueras un verbo, serías\n«brillar»: siempre en presente.&quot;, &quot;Si fueras un restaurante,\nhabría lista de espera de un año, tú.&quot;, &quot;Dicen que el amor es ciego,\npero le devuelves la vista.&quot;, &quot;Tu cara ya es patrimonio\nde la humanidad, tú.&quot;, &quot;Cancelen la gala: el premio\ngordo de este año ya tiene dueño: tú.&quot;, &quot;¿Sesión de fotos o es que\ncaminas así por la vida, tú?&quot;, &quot;Mi artista número uno,\nen bucle en mi cabeza: tú.&quot;, &quot;Quiero tu autógrafo\ntodos los días, tú.&quot;, &quot;Debuta ya: en mi corazón\nya eres cabeza de cartel, tú.&quot;, &quot;Número uno en mi lista\nsemana tras semana: tú.&quot;, &quot;Posa un momento: quiero\nuna foto tuya cada día, tú.&quot;, &quot;¿Vuelves? Mi corazón acaba\nde reiniciarse, tú.&quot;, &quot;¿Te grabo? Cada momento tuyo\nes de ver en bucle.&quot;, &quot;¿En un videoclip? Ya eres\nprotagonista de mi vida, tú.&quot;, &quot;¿Documental de tu vida?\nAl natural ganas a todos.&quot;, &quot;Siempre en el centro: donde\nvayas, brillas más que nadie, tú.&quot;, &quot;Premio a la cara del año.\nY de la década. Gana tú.&quot;, &quot;Si sales en un anuncio,\nvendes hasta lo que no existe.&quot;, &quot;Portada de revista cada mes:\nesa cara lo merece, tú.&quot;, &quot;¿Tu carisma es real? La calle\ncontigo ya es un escenario.&quot;, &quot;¿Cromos? Yo quiero la colección\ncompleta, tú.&quot;, &quot;¿Cuándo es el encuentro con fans?\nYo, a diario, tú.&quot;, &quot;Sube un vídeo bailando:\nmoverte ya es arte, tú.&quot;, &quot;Verte es como un tráiler,\ny el estreno favorito eres tú.&quot;, &quot;¿Gira mundial? Ya me has\nsacudido el corazón entero, tú.&quot;, &quot;Firma mi disco: eres\nedición limitada, tú.&quot;, &quot;Enciendo la linterna del móvil\ny te aplaudo toda la vida, tú.&quot;, &quot;Vas en ascenso, aunque\nsiempre fuiste de leyenda, tú.&quot;, &quot;Busco entradas para verte:\neres mi concierto diario.&quot;, &quot;¿Número uno? Lo eres\nen mi lista de éxitos, tú.&quot;, &quot;Bis, bis, bis: otra vez,\nque no me canso de verte, tú.&quot;, &quot;Hasta en las tomas falsas\nresultas de leyenda, tú.&quot;, &quot;Cambio de favorito:\nsin ti no veo a nadie más.&quot;, &quot;Me he hecho fan tuyo.\nDe por vida, tú.&quot;, &quot;Revelo mi favorito:\nni más ni menos que tú.&quot;, &quot;Compré todo el merchandising,\npero el mejor souvenir eres tú.&quot;, &quot;Fan para siempre: mi\nartista de cabecera eres tú.&quot;, &quot;Ya he elegido bando:\nel tuyo. Mi equipo eres tú.&quot;, &quot;Abro tu club de fans:\nel carnet número uno es mío, tú.&quot;, &quot;Hago de paparazzi: no quiero\nperderme ni un momento tuyo, tú.&quot;, &quot;Cualquier rato a tu lado\nes tiempo de oro, tú.&quot;, &quot;Pongo pancartas de cumpleaños:\nojalá cada día fuera el tuyo, tú.&quot;, &quot;Te aplaudiré siempre.\nSer tu fan es mi orgullo, tú.&quot;, &quot;Si el encanto cotizara en bolsa,\ntú serías el valor más alto.&quot;, &quot;Me haces latir el corazón\ncomo un bombo, tú.&quot;, &quot;Mirarte hace el mundo\nmás bonito, tú.&quot;, &quot;Mi vitamina diaria de\nfelicidad: tú.&quot;, &quot;Cuando sonríes, yo\nme alegro en cadena, tú.&quot;, &quot;La estrella más brillante\nque he visto: tú.&quot;, &quot;Cada día contigo es fiesta\ny el DJ eres tú.&quot;, &quot;Solo con oír tu voz\nse me arregla el humor, tú.&quot;, &quot;En mi vida, la mayor\nsuerte eres tú.&quot;, &quot;Gracias a ti sonrío hoy.\nSolo tú lo consigues.&quot;, &quot;Nadie es más valioso\npara mí que tú.&quot;, &quot;Se me escapa una sonrisa\ncada vez que apareces, tú.&quot;, &quot;Hay ruido en mi cabeza,\npero la calma eres tú.&quot;, &quot;El tiempo a tu lado\nsiempre es especial, tú.&quot;, &quot;De toda la gente que conozco,\nlo máximo eres tú.&quot;, &quot;Que existas, tú,\nya es motivo de gratitud.&quot;, &quot;Lo mejor de mi día\nsiempre eres tú.&quot;, &quot;Cada día es especial\nporque existes tú.&quot;, &quot;Si apareces, el mundo\nse enciende. Solo tú.&quot;, &quot;El mejor regalo de mi vida\neres tú, sin envoltorio.&quot;, &quot;El mundo es más bonito\ndesde que estás tú.&quot;, &quot;Un día sin ti da pereza.\nUn día contigo es fiesta, tú.&quot;, &quot;Imposible imaginar mi día\nsin la persona que eres tú.&quot;, &quot;En mi corazón hay un puesto\nde honor y su dueño eres tú.&quot;, &quot;Con alguien a mi lado, todo\nes posible. Ese alguien eres tú.&quot;, &quot;Doy gracias a diario\npor alguien como tú.&quot;, &quot;Tu sonrisa le gana\na cualquier cosa, tú.&quot;, &quot;La mayor bendición\nde mi vida eres tú.&quot;, &quot;Pensar en ti mejora el día.\nDe verdad, tú.&quot;, &quot;Mi hogar no es un lugar:\nes una persona, tú.&quot;, &quot;A tu lado cada momento\nes perfecto, tú.&quot;, &quot;Justo el tipo de persona\ncon el que soñaba: tú.&quot;, &quot;Me miras y mi corazón\nse vuelve loco, tú.&quot;, &quot;Una persona de libro de\nhistoria eres tú.&quot;, &quot;Tu encanto es un hechizo\ny yo caigo siempre, tú.&quot;, &quot;Mirarte tanto me va a\ndar tortícolis, tú.&quot;, &quot;Cada vez que te veo el\ncorazón sube de revoluciones, tú.&quot;, &quot;Mi película favorita\nde todas eres tú.&quot;, &quot;Cada día es el día del favorito\nsi estás tú.&quot;, &quot;Un milagro con patas\ny ese milagro eres tú.&quot;, &quot;Contigo el mundo va a\ncámara lenta, tú.&quot;, &quot;Tienes carnet VIP\nen mi vida, tú.&quot;, &quot;Verte es el momento\nmás top de mi rutina, tú.&quot;, &quot;Contenido premium\nde mi corazón: tú.&quot;, &quot;Tengo la vida en HD\ndesde que apareciste, tú.&quot;, &quot;La hora dorada de mi vida\neres tú.&quot;, &quot;Pienso en ti y sonrío\nsin querer. Culpa tuya, tú.&quot;, &quot;Mi hotel de cinco estrellas\nes tu abrazo, tú.&quot;, &quot;La carta ganadora\nde mi baraja eres tú.&quot;, &quot;Mi sitio favorito del\nmundo eres tú.&quot;, &quot;Un cambio de plan\na mejor: tú.&quot;, &quot;Quien lo tiene todo\ny no se da cuenta eres tú.&quot;, &quot;Mi lista de reproducción\nfavorita se llama «tú».&quot;, &quot;Por ti la vida\ntiene otro color, tú.&quot;, &quot;Mi evento principal\ndel año eres tú.&quot;, &quot;Mi nivel de felicidad\nsube cuando apareces, tú.&quot;, &quot;Mi salón de la fama\ntiene un solo nombre: tú.&quot;, &quot;Desde que estás tú\nla vida va a todo color.&quot;, &quot;Mi pase VIP a la felicidad\neres tú.&quot;, &quot;Mis ganas de verte\nvan en aumento, tú.&quot;, &quot;Si el cariño fuera dinero,\ntú serías mi banco.&quot;]}"></div>
+    </section>
+
+    <section class="problem reveal">
+      <h2>¿Quién es tu crítico más duro? ¿Tú?</h2>
+      <p>Camino al trabajo, antes de la entrevista, de vuelta a casa, la voz de tu cabeza no para de echarte la bronca. Piropo del Día se pone de tu lado desde la pantalla de inicio varias veces al día, un pelín más de la cuenta. En cuanto se te escapa una sonrisa, vuelve un poco de confianza.</p>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Un piropo para cada momento</h2>
+        <p>Elige entre 14 estados y situaciones como <code>Mañana</code>, <code>Camino al trabajo</code>, <code>Días duros</code>, <code>Entrevista</code> o <code>Antes de la cita</code>, y el piropo que encaja aparece en tu widget al momento. ¿No te decides? También está <code>Al azar</code>.</p>
+      </div>
+      <div class="phone"><img src="../img/es/02-mood.jpg" alt="Un piropo para cada momento" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Guarda los que más te gusten</h2>
+        <p>Toca la estrella para guardarlo en Favoritos y repasa los anteriores en el Historial. Toca <code>Usar este piropo</code> y pasa directo a tu widget.</p>
+      </div>
+      <div class="phone"><img src="../img/es/03-favorites.jpg" alt="Guarda los que más te gusten" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="feature reveal">
+      <div class="copy">
+        <h2>Entra cada día y suma</h2>
+        <p>Cada día que lo miras alarga tu racha. Al llegar a 7, 30 o 100 días seguidos, o a 50 y 100 días en total, desbloqueas un logro.</p>
+      </div>
+      <div class="phone"><img src="../img/es/05-achievements.jpg" alt="Entra cada día y suma" width="720" height="1564" loading="lazy" decoding="async"></div>
+    </section>
+
+    <section class="reveal">
+      <h2>Empieza en tres pasos</h2>
+      <ol class="steps"><li class="card"><span class="n">1</span><h3>Elige tu estado</h3><p>Abre <code>Elige tu estado</code> y toca el que encaje ahora.</p></li>
+<li class="card"><span class="n">2</span><h3>Personaliza el widget</h3><p>En Ajustes avanzados elige fuente, color del texto, fondo y frecuencia.</p></li>
+<li class="card"><span class="n">3</span><h3>Ponlo en tu pantalla de inicio</h3><p>Mantén pulsada la pantalla de inicio, toca + y busca Piropo del Día.</p></li></ol>
+    </section>
+
+    <section class="reveal" id="commands">
+      <h2>Así puedes dejar el widget</h2>
+      <div class="card table">
+        <dl><div><dt>Fuente</dt><dd>13 opciones, entre ellas Futura, Georgia y Marker Felt</dd></div><div><dt>Color del texto</dt><dd>El que más te guste</dd></div><div><dt>Fondo</dt><dd>Un degradado de dos colores o una de las fotos incluidas</dd></div><div><dt>Alineación</dt><dd>Izquierda, centro o derecha</dd></div><div><dt>Interlineado</dt><dd>Líneas más juntas o más separadas</dd></div><div><dt>Frecuencia de actualización</dt><dd>Un piropo nuevo cada 5, 15 o 30 minutos</dd></div></dl>
+      </div>
+      <p class="muted">El tamaño del widget lo eliges al añadirlo a la pantalla de inicio.</p>
+    </section>
+
+
+    <section class="reveal" id="pricing">
+      <h2>Lo compras una vez y listo</h2>
+      <div class="plans">
+        <div class="card plan free">
+          <h3>La app</h3>
+          <ul><li>281 piropos para 14 estados</li><li>Un widget de pantalla de inicio a tu estilo</li><li>Favoritos e Historial</li><li>Rachas y logros</li></ul>
+          
+        </div>
+        <div class="card plan pro">
+          <h3>Apoya al desarrollador</h3>
+          <ul><li>Elige una propina pequeña, mediana o grande</li><li>No desbloquea nada. Es solo una forma de dar las gracias</li></ul>
+          <p class="muted">Solo si te apetece y cuando te apetezca.</p>
+        </div>
+      </div>
+      <p class="muted">Sin suscripción, sin compras extra y sin anuncios.</p>
+    </section>
+
+    <section class="reveal" id="faq">
+      <h2>Preguntas frecuentes</h2>
+      <div class="faq"><details><summary>¿Cómo añado el widget?</summary><p>Mantén pulsado un hueco libre de la pantalla de inicio hasta que los iconos se muevan, toca + arriba, busca Piropo del Día y elige un tamaño.</p></details>
+<details><summary>¿Cómo se elige el siguiente piropo?</summary><p>Al elegir un estado, un piropo para ese estado aparece al momento en tu widget. Después, el widget muestra uno al azar de los 281 con la frecuencia que elegiste. También puedes tocar <code>Otro piropo</code> en la app para pasar al siguiente.</p></details>
+<details><summary>¿Puedo cambiar la fuente o la frecuencia del widget?</summary><p>Sí. En Ajustes avanzados cambias la fuente, el color del texto, el fondo, la alineación, el interlineado y la frecuencia de actualización, que puede ser de 5, 15 o 30 minutos.</p></details>
+<details><summary>El widget no ha cambiado enseguida.</summary><p>iOS decide cuándo se redibujan los widgets, así que a veces va un poco por detrás de la frecuencia elegida. Abre la app y ciérrala, y el widget se actualiza.</p></details>
+<details><summary>¿Cómo funciona la racha?</summary><p>Cada día seguido que miras un piropo suma uno a tu racha. En <code>Mi racha</code> ves la racha actual, tu mejor marca, los días totales y tus logros.</p></details>
+<details><summary>Han desaparecido mis favoritos y el historial.</summary><p>Todo se guarda solo en tu dispositivo, así que no se conserva si borras la app o cambias de móvil. Si no la has borrado y aun así ha desaparecido, escríbenos un correo.</p></details>
+<details><summary>¿Se envían mis datos a algún sitio?</summary><p>No. La app no recoge datos personales. Tus favoritos y tu historial se quedan en tu dispositivo.</p></details>
+<details><summary>¿Cómo aviso de un error o propongo una idea?</summary><p>Desde <code>Contactar con el desarrollador</code> en la app, por correo o por mensaje directo en Instagram a @lee25_ios. Te respondemos en cuanto lo veamos.</p></details></div>
+      <p class="contact">¿Dudas o sugerencias? Escríbenos a <a href="mailto:leeo@kakao.com">leeo@kakao.com</a>.</p>
+    </section>
+
+    <section class="closing reveal">
+      <h2>Desde hoy, alguien de tu parte<br>en la pantalla de inicio</h2>
+      <a class="cta" href="https://apps.apple.com/app/id6450839961">Descárgala en el App Store</a>
+    </section>
+  </main>
+
+  <footer>
+    <nav id="languages" class="langs" aria-label="Idioma"><a href="../ko/" hreflang="ko" lang="ko">한국어</a>
+<a href="../en/" hreflang="en" lang="en">English</a>
+<a href="../en-GB/" hreflang="en-GB" lang="en-GB">English (UK)</a>
+<a href="../zh-Hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+<a href="../zh-Hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+<a href="../ja/" hreflang="ja" lang="ja">日本語</a>
+<a href="../ru/" hreflang="ru" lang="ru">Русский</a>
+<a href="../es/" hreflang="es" lang="es" aria-current="page">Español</a>
+<a href="../de/" hreflang="de" lang="de">Deutsch</a>
+<a href="../fr/" hreflang="fr" lang="fr">Français</a>
+<a href="../it/" hreflang="it" lang="it">Italiano</a>
+<a href="../pt-BR/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a>
+<a href="../th/" hreflang="th" lang="th">ไทย</a>
+<a href="../vi/" hreflang="vi" lang="vi">Tiếng Việt</a>
+<a href="../cs/" hreflang="cs" lang="cs">Čeština</a>
+<a href="../da/" hreflang="da" lang="da">Dansk</a>
+<a href="../el/" hreflang="el" lang="el">Ελληνικά</a>
+<a href="../fi/" hreflang="fi" lang="fi">Suomi</a>
+<a href="../id/" hreflang="id" lang="id">Bahasa Indonesia</a>
+<a href="../nb/" hreflang="nb" lang="nb">Norsk bokmål</a>
+<a href="../nl/" hreflang="nl" lang="nl">Nederlands</a>
+<a href="../pl/" hreflang="pl" lang="pl">Polski</a>
+<a href="../sv/" hreflang="sv" lang="sv">Svenska</a>
+<a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></nav>
+    <p><a href="privacy.html">Privacidad</a> · <a href="mailto:leeo@kakao.com">leeo@kakao.com</a> · © 2026 Leeo</p>
+  </footer>
+
+  <script>
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target) }
+    }), { rootMargin: "0px 0px -10% 0px" });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+  <script src="../demo.js"></script>
 </body>
 </html>
