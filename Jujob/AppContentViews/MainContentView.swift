@@ -439,6 +439,8 @@ struct MainContentView: View {
                             .foregroundColor(.gray)
                     }
                 }
+                // 개발자 응원하기 — 판매 중인 팁이 있어야 선다
+                JujobTipJarRow()
             }
             .padding()
             .background(RoundedRectangle(cornerRadius: 15).foregroundColor(Color(#colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1))))

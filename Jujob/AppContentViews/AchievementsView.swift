@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import LeeoKit
 
 struct AchievementsView: View {
     @ObservedObject var preferencesManager = UserPreferencesManager.shared
@@ -20,6 +21,9 @@ struct AchievementsView: View {
                 ScrollView {
                     VStack(spacing: 25) {
                         StreakSection
+                        // 주접을 받은 날이 쌓였을 때만, 드물게 응원을 부탁한다 (모달 아님)
+                        LeeoTipAskSlot<JujobSpec>(tipJar: JujobSpec.tipJar,
+                                                  reached: JujobTipMoments.reached(daysViewed: preferencesManager.dailyStreak.totalDaysViewed))
                         AchievementsSection
                     }
                     .padding()

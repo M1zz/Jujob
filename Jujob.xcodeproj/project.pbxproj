@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		581A09922A53227A004F2DBA /* JujobApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09912A53227A004F2DBA /* JujobApp.swift */; };
+		5C1A7E0A2F00000000000002 /* JujobTipJar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1A7E0A2F00000000000001 /* JujobTipJar.swift */; };
 		581A09962A53227B004F2DBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 581A09952A53227B004F2DBA /* Assets.xcassets */; };
 		581A09992A53227B004F2DBA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 581A09982A53227B004F2DBA /* Preview Assets.xcassets */; };
 		581A09A72A5322EB004F2DBA /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 581A09A62A5322EB004F2DBA /* WidgetKit.framework */; };
@@ -45,6 +46,7 @@
 		5C1000000000000000000013 /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5C1000000000000000000003 /* InfoPlist.xcstrings */; };
 		5C1000000000000000000021 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5C1000000000000000000001 /* Localizable.xcstrings */; };
 		5C1000000000000000000022 /* Quotes.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5C1000000000000000000002 /* Quotes.xcstrings */; };
+		8B0ABFB40B6246F2A6ED03E8 /* LeeoKit in Frameworks */ = {isa = PBXBuildFile; productRef = 8663D8EF93B74BDA848B7162 /* LeeoKit */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +76,7 @@
 /* Begin PBXFileReference section */
 		581A098E2A53227A004F2DBA /* Jujob.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Jujob.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		581A09912A53227A004F2DBA /* JujobApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JujobApp.swift; sourceTree = "<group>"; };
+		5C1A7E0A2F00000000000001 /* JujobTipJar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JujobTipJar.swift; sourceTree = "<group>"; };
 		581A09952A53227B004F2DBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		581A09982A53227B004F2DBA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		581A099F2A532289004F2DBA /* Jujob.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Jujob.entitlements; sourceTree = "<group>"; };
@@ -114,6 +117,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B0ABFB40B6246F2A6ED03E8 /* LeeoKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,6 +223,7 @@
 			children = (
 				581A09C72A53274D004F2DBA /* AppConfig.swift */,
 				581A09912A53227A004F2DBA /* JujobApp.swift */,
+				5C1A7E0A2F00000000000001 /* JujobTipJar.swift */,
 			);
 			path = AppDelegate;
 			sourceTree = "<group>";
@@ -258,6 +263,9 @@
 			);
 			dependencies = (
 				581A09B32A5322EC004F2DBA /* PBXTargetDependency */,
+			);
+			packageProductDependencies = (
+				8663D8EF93B74BDA848B7162 /* LeeoKit */,
 			);
 			name = Jujob;
 			productName = Jujob;
@@ -331,6 +339,9 @@
 				Base,
 			);
 			mainGroup = 581A09852A53227A004F2DBA;
+			packageReferences = (
+				BF9174CA89B646799B8B99B1 /* XCRemoteSwiftPackageReference "LeeoKit" */,
+			);
 			productRefGroup = 581A098F2A53227A004F2DBA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -382,6 +393,7 @@
 				581A09D72A532760004F2DBA /* PKDarkThemeView.swift in Sources */,
 				581A09C92A53274D004F2DBA /* AppConfig.swift in Sources */,
 				581A09922A53227A004F2DBA /* JujobApp.swift in Sources */,
+				5C1A7E0A2F00000000000002 /* JujobTipJar.swift in Sources */,
 				581A09C32A532731004F2DBA /* WidgetView.swift in Sources */,
 				581A09D82A532760004F2DBA /* TutorialContentView.swift in Sources */,
 				581A09D92A532760004F2DBA /* MainContentView.swift in Sources */,
@@ -696,6 +708,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		BF9174CA89B646799B8B99B1 /* XCRemoteSwiftPackageReference "LeeoKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/M1zz/LeeoKit.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.25.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		8663D8EF93B74BDA848B7162 /* LeeoKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = BF9174CA89B646799B8B99B1 /* XCRemoteSwiftPackageReference "LeeoKit" */;
+			productName = LeeoKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 581A09862A53227A004F2DBA /* Project object */;
 }
