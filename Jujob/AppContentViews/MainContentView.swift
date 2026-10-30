@@ -96,7 +96,7 @@ struct MainContentView: View {
 
                     // 프리뷰를 가운데 배치
                     WidgetSizePreview(manager: manager)
-                        .frame(height: UIScreen.main.bounds.height * 0.3)
+                        .frame(height: windowHeight * 0.3)
 
                     Spacer()
                 }
@@ -104,6 +104,11 @@ struct MainContentView: View {
                 EditingToolsView
             }
         }
+    }
+
+    /// 창 높이. 보통 아이폰은 화면 높이와 같고, 듀오 바깥 화면처럼 화면(`UIScreen.main`)과 창이 다르면 창을 따른다.
+    private var windowHeight: CGFloat {
+        fold.windowSize.height > 0 ? fold.windowSize.height : UIScreen.main.bounds.height
     }
 
     /// 펼친 화면의 결과 쪽: 제목과 위젯 미리보기. 미리보기는 화면이 아니라 이 판 크기로 잰다.
