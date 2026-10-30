@@ -14,6 +14,8 @@ struct JujobApp: App {
     var body: some Scene {
         return WindowGroup {
             MainContentView(manager: WidgetManager())
+                // 아이폰 듀오: 창 크기로 접힘을 재서 아래로 흘린다. 시트 · 알림창도 접힌 선을 비킨다 (LeeoKit Fold).
+                .foldAware()
                 .onReceive(NotificationCenter.default.publisher(for: UIApplication.willResignActiveNotification)) { _ in
                     WidgetCenter.shared.reloadAllTimelines()
                 }

@@ -77,7 +77,7 @@ struct JujobTipJarRow: View {
                     LeeoTipJarView<JujobSpec>(tipJar: tipJar)
                         .toolbar {
                             ToolbarItem(placement: .cancellationAction) {
-                                Button("닫기") { showTipJar = false }
+                                Button { showTipJar = false } label: { Label("닫기", systemImage: "xmark") }
                             }
                         }
                 }

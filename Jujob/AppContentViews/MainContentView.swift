@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import LeeoKit
 
 /// Custom presentation mode
 enum PresentationType: Identifiable {
@@ -34,27 +35,16 @@ struct MainContentView: View {
     @ObservedObject var manager: WidgetManager
     @State private var actionSheet: PresentationType?
     @State private var guideAlert: GuideAlert?
+    // 아이폰 듀오: 펴면 왼쪽(세로면 아래) 꾸미기 | 오른쪽(위) 위젯 미리보기 (LeeoKit Fold)
+    @Environment(\.foldLayout) private var fold
     private let previewSize = UIScreen.main.bounds.width/1.3
     
     var body: some View {
-        ZStack {
-            //            Color(#colorLiteral(red: 0.9490196078, green: 0.9490196078, blue: 0.968627451, alpha: 1)).edgesIgnoringSafeArea(.all)
-            TutorialButton
-            VStack(alignment: .center, spacing: 0) {
-                HeaderView
-                    .padding(.horizontal)
-                    .padding(.top)
-
-                Spacer()
-
-                // 프리뷰를 가운데 배치
-                WidgetSizePreview(manager: manager)
-                    .frame(height: UIScreen.main.bounds.height * 0.3)
-
-                Spacer()
-
-                EditingToolsView
-            }
+        // 접혀 있거나 보통 아이폰이면 고르는 쪽만 그린다. 지금 화면 그대로다.
+        FoldSplitView {
+            mainScreen
+        } result: {
+            foldPreviewPane
         }
         .sheet(item: $actionSheet, content: { item in
             switch item {
@@ -88,6 +78,50 @@ struct MainContentView: View {
         }
     }
     
+    /// 접힌 화면 그대로의 본 화면. 펴면 제목 · 미리보기는 결과 쪽 판으로 가고 꾸미기 도구만 남는다.
+    /// 꾸미기 도구는 늘 같은 자리에 있어서 펴고 접어도 스크롤한 자리가 이어진다.
+    private var mainScreen: some View {
+        ZStack {
+            //            Color(#colorLiteral(red: 0.9490196078, green: 0.9490196078, blue: 0.968627451, alpha: 1)).edgesIgnoringSafeArea(.all)
+            if !fold.isUnfolded {
+                TutorialButton
+            }
+            VStack(alignment: .center, spacing: 0) {
+                if !fold.isUnfolded {
+                    HeaderView
+                        .padding(.horizontal)
+                        .padding(.top)
+
+                    Spacer()
+
+                    // 프리뷰를 가운데 배치
+                    WidgetSizePreview(manager: manager)
+                        .frame(height: UIScreen.main.bounds.height * 0.3)
+
+                    Spacer()
+                }
+
+                EditingToolsView
+            }
+        }
+    }
+
+    /// 펼친 화면의 결과 쪽: 제목과 위젯 미리보기. 미리보기는 화면이 아니라 이 판 크기로 잰다.
+    private var foldPreviewPane: some View {
+        ZStack {
+            TutorialButton
+            VStack(alignment: .center, spacing: 0) {
+                HeaderView
+                    .padding(.horizontal)
+                    .padding(.top)
+                GeometryReader { proxy in
+                    WidgetSizePreview(manager: manager, fitting: proxy.size)
+                        .frame(maxHeight: .infinity)
+                }
+            }
+        }
+    }
+
     /// Tutorial button
     private var TutorialButton: some View {
         VStack {
