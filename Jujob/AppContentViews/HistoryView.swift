@@ -78,14 +78,14 @@ struct HistoryQuoteCard: View {
 
     private var formattedDate: String {
         let formatter = DateFormatter()
-        formatter.dateFormat = "MM/dd HH:mm"
+        formatter.setLocalizedDateFormatFromTemplate("MMdd jjmm")
         return formatter.string(from: history.viewedAt)
     }
 
     var body: some View {
         VStack(alignment: .leading, spacing: 12) {
             HStack {
-                Text(history.category)
+                Text(QuoteCategory(rawValue: history.category)?.displayName ?? history.category)
                     .font(.system(.caption))
                     .padding(.horizontal, 10)
                     .padding(.vertical, 5)

@@ -135,7 +135,7 @@ struct AchievementCard: View {
     private var formattedDate: String? {
         guard let date = achievement.unlockedDate else { return nil }
         let formatter = DateFormatter()
-        formatter.dateFormat = "yyyy.MM.dd"
+        formatter.dateStyle = .medium
         return formatter.string(from: date)
     }
 

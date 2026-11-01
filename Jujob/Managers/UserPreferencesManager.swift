@@ -395,10 +395,59 @@ class UserPreferencesManager: ObservableObject {
         }
 
         // "당신" -> 사용자 이름으로 변경
-        return quoteText.replacingOccurrences(of: Self.nameToken, with: userName)
+        return Self.insertName(userName, into: quoteText)
+    }
+
+    /// 문구 속 `nameToken` 을 이름으로 바꾼다. 띄어쓰기 언어에서 낱말 일부(영어 you → yourself)는 건드리지 않는다.
+    static func insertName(_ name: String, into text: String) -> String {
+        let letter = "[\\p{Latin}\\p{Cyrillic}\\p{Greek}]"
+        let pattern = "(?<!\(letter))\(NSRegularExpression.escapedPattern(for: nameToken))(?!\(letter))"
+        return text.replacingOccurrences(of: pattern,
+                                         with: NSRegularExpression.escapedTemplate(for: name),
+                                         options: .regularExpression)
     }
 
     /// 주접 문구에서 사용자 이름으로 바꿔 넣을 2인칭 표현.
     /// 언어마다 그 언어 주접 문구에 실제로 쓰인 낱말과 같아야 이름 넣기가 동작한다.
     static let nameToken = String(localized: "당신", comment: "Name setting: the second-person word in the quotes that gets replaced with the user's name. Must match the exact word used in this language's quote translations.")
 }
+
+#if DEBUG
+// MARK: - 스토어 스크린샷용 데모 데이터 (디버그 빌드에서 실행 인자 -JujobDemo <화면> 일 때만)
+extension UserPreferencesManager {
+    func loadScreenshotDemo(name: String) {
+        let quotes = QuotesManager.quotes
+        let now = Date()
+        userName = name
+        favoriteQuotes = Set([1, 9, 24, 60].map { quotes[$0 % quotes.count].text })
+        quoteHistory = [8, 27, 45, 70, 102, 130].enumerated().map { offset, index in
+            let quote = quotes[index % quotes.count]
+            return QuoteHistory(quoteText: quote.text,
+                                category: quote.category.rawValue,
+                                viewedAt: now.addingTimeInterval(Double(-offset) * 5_400 - 600))
+        }
+        dailyStreak.currentStreak = 12
+        dailyStreak.longestStreak = 31
+        dailyStreak.totalDaysViewed = 57
+        dailyStreak.lastViewDate = now
+        let unlocked = ["streak_7": 50.0, "streak_30": 27.0, "total_50": 6.0]
+        achievements = Achievement.allAchievements.map { definition in
+            var achievement = definition
+            if let daysAgo = unlocked[definition.id] {
+                achievement.isUnlocked = true
+                achievement.unlockedDate = now.addingTimeInterval(-daysAgo * 86_400)
+            }
+            return achievement
+        }
+    }
+}
+
+private extension QuoteHistory {
+    init(quoteText: String, category: String, viewedAt: Date) {
+        self.id = UUID()
+        self.quoteText = quoteText
+        self.viewedAt = viewedAt
+        self.category = category
+    }
+}
+#endif

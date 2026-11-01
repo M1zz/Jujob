@@ -140,7 +140,7 @@ struct PreviewQuote: View {
         if tempName.isEmpty {
             return original
         } else {
-            return original.replacingOccurrences(of: UserPreferencesManager.nameToken, with: tempName)
+            return UserPreferencesManager.insertName(tempName, into: original)
         }
     }
 

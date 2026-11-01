@@ -47,36 +47,61 @@ struct MainContentView: View {
             foldPreviewPane
         }
         .sheet(item: $actionSheet, content: { item in
-            switch item {
-            case .photoPicker:
-                LocalPhotoGallery(manager: manager)
-            case .tutorial:
-                TutorialContentView()
-            case .fontPicker:
-                FontsListView(manager: manager)
-            case .categoryPicker:
-                CategoriesListView(manager: manager)
-            case .purchases:
-                Text("premium")
-            case .moodSelection:
-                MoodSelectionView(manager: manager)
-            case .favorites:
-                FavoritesView(widgetManager: manager)
-            case .history:
-                HistoryView(widgetManager: manager)
-            case .achievements:
-                AchievementsView()
-            case .userNameSetting:
-                UserNameSettingView()
+            Group {
+                switch item {
+                case .photoPicker:
+                    LocalPhotoGallery(manager: manager)
+                case .tutorial:
+                    TutorialContentView()
+                case .fontPicker:
+                    FontsListView(manager: manager)
+                case .categoryPicker:
+                    CategoriesListView(manager: manager)
+                case .purchases:
+                    Text("premium")
+                case .moodSelection:
+                    MoodSelectionView(manager: manager)
+                case .favorites:
+                    FavoritesView(widgetManager: manager)
+                case .history:
+                    HistoryView(widgetManager: manager)
+                case .achievements:
+                    AchievementsView()
+                case .userNameSetting:
+                    UserNameSettingView()
+                }
             }
+            // 시트 화면은 모두 어두운 바탕이라 제목·버튼도 어두운 모양으로 맞춘다
+            .preferredColorScheme(.dark)
         })
         .onAppear {
             primaryColor = manager.gradientColors.first!
             secondaryColor = manager.gradientColors.last!
             textAlignmentIndex = manager.contentAlignment.indexValue
             refreshIntervalIndex = manager.refreshInterval.indexValue
+            #if DEBUG
+            applyScreenshotDemo()
+            #endif
         }
     }
+
+    #if DEBUG
+    /// 스토어 스크린샷용: 실행 인자 `-JujobDemo main|mood|favorites|history|achievements|name`
+    /// (`-JujobDemoName <이름>` 은 이름 넣기 화면에 쓴다)
+    private func applyScreenshotDemo() {
+        let defaults = UserDefaults.standard
+        guard let screen = defaults.string(forKey: "JujobDemo") else { return }
+        UserPreferencesManager.shared.loadScreenshotDemo(name: defaults.string(forKey: "JujobDemoName") ?? "")
+        let quote = QuotesManager.quotes[8]
+        manager.currentQuoteCategory = quote.category
+        manager.currentQuote = quote
+        let sheets: [String: PresentationType] = [
+            "mood": .moodSelection, "favorites": .favorites, "history": .history,
+            "achievements": .achievements, "name": .userNameSetting
+        ]
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) { actionSheet = sheets[screen] }
+    }
+    #endif
     
     /// 접힌 화면 그대로의 본 화면. 펴면 제목 · 미리보기는 결과 쪽 판으로 가고 꾸미기 도구만 남는다.
     /// 꾸미기 도구는 늘 같은 자리에 있어서 펴고 접어도 스크롤한 자리가 이어진다.

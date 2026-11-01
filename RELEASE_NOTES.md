@@ -14,7 +14,7 @@ Get hype lines in many languages now
 Contact the developer from Settings
 Report bugs and ideas by email or DM
 
-### 앱스토어 (영어(영국))
+### App Store (en-GB)
 
 Get gushes in many languages now
 Contact the developer from Settings
@@ -116,7 +116,7 @@ Sekarang tersedia dalam banyak bahasa
 Hubungi developer dari layar Pengaturan
 Lapor bug dan saran via email atau IG
 
-### 앱스토어 (노르웨이어(보크몰))
+### 앱스토어 (노르웨이어(보크말))
 
 Nå kan du få skryt på mange språk
 Kontakt utvikleren fra innstillingene
