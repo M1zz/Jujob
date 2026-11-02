@@ -161,17 +161,23 @@ class UserPreferencesManager: ObservableObject {
     }
 
     private func loadFavoriteQuotes() {
-        if let data = userDefaults.data(forKey: favoriteQuotesKey),
-           let decoded = try? JSONDecoder().decode(Set<String>.self, from: data) {
-            favoriteQuotes = decoded
+        guard let data = userDefaults.data(forKey: favoriteQuotesKey) else { return }
+        guard let decoded = try? JSONDecoder().decode(Set<String>.self, from: data) else {
+            // 못 읽은 원본을 옆에 남긴다 — 빈 목록으로 시작해 다음 저장이 덮어써도 되찾을 수 있게
+            userDefaults.set(data, forKey: favoriteQuotesKey + ".unreadable")
+            return
         }
+        favoriteQuotes = decoded
     }
 
     private func loadQuoteHistory() {
-        if let data = userDefaults.data(forKey: quoteHistoryKey),
-           let decoded = try? JSONDecoder().decode([QuoteHistory].self, from: data) {
-            quoteHistory = decoded
+        guard let data = userDefaults.data(forKey: quoteHistoryKey) else { return }
+        guard let decoded = try? JSONDecoder().decode([QuoteHistory].self, from: data) else {
+            // 못 읽은 원본을 옆에 남긴다 — 빈 목록으로 시작해 다음 저장이 덮어써도 되찾을 수 있게
+            userDefaults.set(data, forKey: quoteHistoryKey + ".unreadable")
+            return
         }
+        quoteHistory = decoded
     }
 
     private func loadQuoteFeedbacks() {
