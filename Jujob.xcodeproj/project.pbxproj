@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D62F786B0DA73F75D855703 /* AppShortcuts.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 0295B9D599EF781A948EE072 /* AppShortcuts.xcstrings */; };
 		581A09922A53227A004F2DBA /* JujobApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581A09912A53227A004F2DBA /* JujobApp.swift */; };
-		5C1A7E0A2F00000000000002 /* JujobTipJar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1A7E0A2F00000000000001 /* JujobTipJar.swift */; };
 		581A09962A53227B004F2DBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 581A09952A53227B004F2DBA /* Assets.xcassets */; };
 		581A09992A53227B004F2DBA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 581A09982A53227B004F2DBA /* Preview Assets.xcassets */; };
 		581A09A72A5322EB004F2DBA /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 581A09A62A5322EB004F2DBA /* WidgetKit.framework */; };
@@ -46,7 +46,9 @@
 		5C1000000000000000000013 /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5C1000000000000000000003 /* InfoPlist.xcstrings */; };
 		5C1000000000000000000021 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5C1000000000000000000001 /* Localizable.xcstrings */; };
 		5C1000000000000000000022 /* Quotes.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5C1000000000000000000002 /* Quotes.xcstrings */; };
+		5C1A7E0A2F00000000000002 /* JujobTipJar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1A7E0A2F00000000000001 /* JujobTipJar.swift */; };
 		8B0ABFB40B6246F2A6ED03E8 /* LeeoKit in Frameworks */ = {isa = PBXBuildFile; productRef = 8663D8EF93B74BDA848B7162 /* LeeoKit */; };
+		B1140315717828E1DDBF0FC8 /* CheerIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = D978FD6BE64D25AB5BAA12BC /* CheerIntents.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,9 +76,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0295B9D599EF781A948EE072 /* AppShortcuts.xcstrings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json.xcstrings; path = AppShortcuts.xcstrings; sourceTree = "<group>"; };
 		581A098E2A53227A004F2DBA /* Jujob.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Jujob.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		581A09912A53227A004F2DBA /* JujobApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JujobApp.swift; sourceTree = "<group>"; };
-		5C1A7E0A2F00000000000001 /* JujobTipJar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JujobTipJar.swift; sourceTree = "<group>"; };
 		581A09952A53227B004F2DBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		581A09982A53227B004F2DBA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		581A099F2A532289004F2DBA /* Jujob.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Jujob.entitlements; sourceTree = "<group>"; };
@@ -110,6 +112,8 @@
 		5C1000000000000000000002 /* Quotes.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Quotes.xcstrings; sourceTree = "<group>"; };
 		5C1000000000000000000003 /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
 		5C1000000000000000000004 /* Version.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config/Version.xcconfig; sourceTree = SOURCE_ROOT; };
+		5C1A7E0A2F00000000000001 /* JujobTipJar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JujobTipJar.swift; sourceTree = "<group>"; };
+		D978FD6BE64D25AB5BAA12BC /* CheerIntents.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CheerIntents.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +171,7 @@
 				5C1000000000000000000003 /* InfoPlist.xcstrings */,
 				5C1000000000000000000004 /* Version.xcconfig */,
 				581A09972A53227B004F2DBA /* Preview Content */,
+				0295B9D599EF781A948EE072 /* AppShortcuts.xcstrings */,
 			);
 			path = Jujob;
 			sourceTree = "<group>";
@@ -205,6 +210,7 @@
 				581A09BB2A53238E004F2DBA /* QuotesManager.swift */,
 				581A09BC2A53238E004F2DBA /* WidgetManager.swift */,
 				581A09FF2B6F3400004F2DBA /* UserPreferencesManager.swift */,
+				D978FD6BE64D25AB5BAA12BC /* CheerIntents.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -264,10 +270,10 @@
 			dependencies = (
 				581A09B32A5322EC004F2DBA /* PBXTargetDependency */,
 			);
+			name = Jujob;
 			packageProductDependencies = (
 				8663D8EF93B74BDA848B7162 /* LeeoKit */,
 			);
-			name = Jujob;
 			productName = Jujob;
 			productReference = 581A098E2A53227A004F2DBA /* Jujob.app */;
 			productType = "com.apple.product-type.application";
@@ -363,6 +369,7 @@
 				5C1000000000000000000011 /* Localizable.xcstrings in Resources */,
 				5C1000000000000000000012 /* Quotes.xcstrings in Resources */,
 				5C1000000000000000000013 /* InfoPlist.xcstrings in Resources */,
+				4D62F786B0DA73F75D855703 /* AppShortcuts.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -403,6 +410,7 @@
 				581A0A062B6F3403004F2DBA /* HistoryView.swift in Sources */,
 				581A0A082B6F3404004F2DBA /* AchievementsView.swift in Sources */,
 				581A0A0A2B6F3405004F2DBA /* UserNameSettingView.swift in Sources */,
+				B1140315717828E1DDBF0FC8 /* CheerIntents.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -576,12 +584,12 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.leeo.JuJob;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
-				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -611,12 +619,12 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.leeo.JuJob;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
-				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -640,10 +648,10 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.leeo.JuJob.JuJobWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -667,10 +675,10 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.leeo.JuJob.JuJobWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
