@@ -2,13 +2,14 @@
 //  JujobTipJar.swift
 //  Jujob
 //
-//  개발자 응원하기(팁). LeeoKit 은 이 화면에만 쓴다.
+//  개발자 응원하기(팁)와 백업 금고. LeeoKit 은 이 둘에만 쓴다.
 //
 
 import SwiftUI
 import LeeoKit
 
-/// ⚠️ 여기서 bootstrap · 피드백 · 분석을 켜지 않는다 — 계약을 채우는 값일 뿐 아무것도 돌지 않는다.
+/// ⚠️ 여기서 bootstrap · 피드백 · 분석을 켜지 않는다 — 계약을 채우는 값일 뿐이다.
+/// 도는 것은 백업 금고 하나(`LeeoVault.start`, JujobApp)뿐이다.
 enum JujobSpec: LeeoAppSpec {
     static let appName = "오늘의 주접"
     static let developerEmail = "leeo@kakao.com"
@@ -21,6 +22,11 @@ enum JujobSpec: LeeoAppSpec {
         supportURL: URL(string: "https://m1zz.github.io/Jujob/ko/support.html")!
     )
     static let monetization = LeeoMonetization.paidUpfront
+
+    /// 백업 금고가 함께 떠 두는 공유 저장소 (위젯과 나누는 설정 · 기록).
+    static let appGroups = ["group.com.leeo.JuJob"]
+    /// 이 앱 entitlements 에는 피드백 허브 iCloud 컨테이너가 없다. 켜 두면 앱이 죽는다.
+    static let vaultUsesICloud = false
 
     /// 고마운 사람이 조금 더 내고 싶을 때 내는 곳. 소모성 상품 셋, 작은 것부터. 기능을 열지 않는다.
     @MainActor static let tipJar = LeeoTipJar(config: LeeoTipJarConfig(productIDs: [
@@ -81,6 +87,43 @@ struct JujobTipJarRow: View {
                             }
                         }
                 }
+            }
+        }
+    }
+}
+
+/// '개발자에게 문의' 묶음에 서는 백업 및 복원 줄. 응원하기 줄처럼 시트로 연다.
+struct JujobVaultRow: View {
+    @State private var showVault = false
+
+    var body: some View {
+        VStack(spacing: 20) {
+            Divider().background(Color.white)
+            Button {
+                showVault = true
+            } label: {
+                HStack {
+                    Image(systemName: "externaldrive.badge.timemachine")
+                        .font(.system(size: 18))
+                        .foregroundColor(.green)
+                        .frame(width: 28)
+                    Text(LeeoVaultText.entry)
+                        .foregroundColor(.white)
+                    Spacer()
+                    Image(systemName: "chevron.right")
+                        .font(.system(size: 13, weight: .semibold))
+                        .foregroundColor(.gray)
+                }
+            }
+        }
+        .sheet(isPresented: $showVault) {
+            NavigationStack {
+                LeeoVaultView(appName: JujobSpec.displayName)
+                    .toolbar {
+                        ToolbarItem(placement: .cancellationAction) {
+                            Button { showVault = false } label: { Label("닫기", systemImage: "xmark") }
+                        }
+                    }
             }
         }
     }

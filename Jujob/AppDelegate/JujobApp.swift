@@ -11,6 +11,11 @@ import LeeoKit
 
 @main
 struct JujobApp: App {
+    init() {
+        // 백업 금고 — 예약된 복원 적용 · 매일/업데이트 직전 백업. 저장소를 읽기 전에 먼저.
+        LeeoVault.start(JujobSpec.self)
+    }
+
     var body: some Scene {
         return WindowGroup {
             MainContentView(manager: WidgetManager())

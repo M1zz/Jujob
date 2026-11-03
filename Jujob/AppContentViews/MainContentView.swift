@@ -518,6 +518,8 @@ struct MainContentView: View {
                 }
                 // 개발자 응원하기 — 판매 중인 팁이 있어야 선다
                 JujobTipJarRow()
+                // 백업 및 복원 — 매일 · 업데이트 직전 떠 둔 백업에서 되살린다
+                JujobVaultRow()
             }
             .padding()
             .background(RoundedRectangle(cornerRadius: 15).foregroundColor(Color(#colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1))))
