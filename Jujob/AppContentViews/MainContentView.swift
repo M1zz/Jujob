@@ -74,6 +74,11 @@ struct MainContentView: View {
             // 시트 화면은 모두 어두운 바탕이라 제목·버튼도 어두운 모양으로 맞춘다
             .preferredColorScheme(.dark)
         })
+        // Spotlight 에서 즐겨찾는 주접을 누르면 즐겨찾기를 연다 (→ CheerIntents.swift)
+        .onReceive(JujobRouter.shared.$showFavorites.filter { $0 }) { _ in
+            JujobRouter.shared.showFavorites = false
+            actionSheet = .favorites
+        }
         .onAppear {
             primaryColor = manager.gradientColors.first!
             secondaryColor = manager.gradientColors.last!
