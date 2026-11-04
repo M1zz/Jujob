@@ -25,9 +25,6 @@ enum JujobSpec: LeeoAppSpec {
 
     /// 백업 금고가 함께 떠 두는 공유 저장소 (위젯과 나누는 설정 · 기록).
     static let appGroups = ["group.com.leeo.JuJob"]
-    /// 이 앱 entitlements 에는 피드백 허브 iCloud 컨테이너가 없다. 켜 두면 앱이 죽는다.
-    static let vaultUsesICloud = false
-
     /// 고마운 사람이 조금 더 내고 싶을 때 내는 곳. 소모성 상품 셋, 작은 것부터. 기능을 열지 않는다.
     @MainActor static let tipJar = LeeoTipJar(config: LeeoTipJarConfig(productIDs: [
         "com.leeo.JuJob.tip.small",
