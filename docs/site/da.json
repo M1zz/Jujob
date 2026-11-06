@@ -1,11 +1,11 @@
 {
   "title": "Dagens Ros: widgetten, der roser dig helt over gevind",
-  "description": "En widget på hjemmeskærmen med ny, overdreven ros hvert 5., 15. eller 30. minut. 281 sætninger til hvert humør, stribe og mere. Køb én gang.",
+  "description": "En widget på hjemmeskærmen med ny, overdreven ros hvert 5., 15. eller 30. minut. 281 sætninger til hvert humør, stribe og mere. Gratis at hente.",
   "hero": {
     "headline": "Hver gang du tager telefonen,\nventer din største fan",
     "lead": "Dagens Ros er en widget, der med vilje roser dig alt for meget. Morgenros om morgenen, jobsamtale-ros før jobsamtalen. Skrifttype, farver og baggrund vælger du selv.",
     "cta": "Hent i App Store",
-    "note": "Ét køb, og du har det hele. Intet abonnement, ingen reklamer."
+    "note": "Gratis at hente. At give widgetten dit eget udtryk er Pro."
   },
   "demo": {
     "title": "Få en portion ros nu",
@@ -397,25 +397,26 @@
     "note": "Widgettens størrelse vælger du, når du føjer den til hjemmeskærmen."
   },
   "pricing": {
-    "title": "Køb den én gang, så er det klaret",
+    "title": "Kom gratis i gang",
     "free": {
-      "name": "Appen",
+      "name": "Gratis",
       "items": [
         "281 roser til 14 humør",
-        "En hjemmeskærmswidget i din stil",
+        "Widget med 3 skrifttyper, justering og opdateringsinterval",
         "Favoritter og Historik",
         "Striber og præstationer"
       ]
     },
     "pro": {
-      "name": "Støt udvikleren",
+      "name": "Dagens Ros Pro",
       "items": [
-        "Vælg en lille, mellem eller stor drikkepenge",
-        "Det låser ikke noget op. Det er bare en måde at sige tak på"
+        "Alle 13 skrifttyper og baggrundsbilleder",
+        "Vælg selv baggrunds- og tekstfarve, plus linjeafstand",
+        "Ugentligt, månedligt, årligt eller én gang for livstid"
       ],
-      "note": "Kun hvis og når du har lyst."
+      "note": "Købte du appen, før den blev gratis? Så har du Pro."
     },
-    "note": "Intet abonnement, ingen ekstra køb, ingen reklamer."
+    "note": "Drikkepenge er et tak og låser ikke noget op. Ingen reklamer."
   },
   "faq": {
     "title": "Ofte stillede spørgsmål",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Kan jeg ændre skrifttype eller opdateringsinterval?",
-        "a": "Ja. I Avancerede indstillinger ændrer du skrifttype, tekstfarve, baggrund, justering, linjeafstand og opdateringsinterval: 5, 15 eller 30 minutter."
+        "a": "Ja. I Avancerede indstillinger ændrer du skrifttype, tekstfarve, baggrund, justering, linjeafstand og opdateringsinterval: 5, 15 eller 30 minutter. Tre skrifttyper, justering og opdateringsinterval er gratis. De øvrige skrifttyper, baggrundsbilleder, farver og linjeafstand følger med Pro."
       },
       {
         "q": "Widgetten skiftede ikke med det samme.",

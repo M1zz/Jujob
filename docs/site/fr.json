@@ -1,11 +1,11 @@
 {
   "title": "Trop Fan de Toi : le widget qui te couvre de compliments",
-  "description": "Un widget d'écran d'accueil avec un compliment XXL toutes les 5, 15 ou 30 minutes. 281 phrases pour chaque humeur, des séries. Achat unique.",
+  "description": "Un widget d'écran d'accueil avec un compliment XXL toutes les 5, 15 ou 30 minutes. 281 phrases pour chaque humeur, des séries. Téléchargement gratuit.",
   "hero": {
     "headline": "Chaque fois que tu prends ton téléphone,\nton plus grand fan t'attend",
     "lead": "Trop Fan de Toi est un widget qui te complimente beaucoup trop, et c'est fait exprès. Un compliment du matin le matin, un compliment d'entretien avant l'entretien. Police, couleurs et fond se règlent comme tu veux.",
     "cta": "Télécharger sur l'App Store",
-    "note": "Un seul achat pour tout débloquer. Ni abonnement, ni pub."
+    "note": "Téléchargement gratuit. Personnaliser le widget à ton goût, c'est Pro."
   },
   "demo": {
     "title": "Reçois un compliment tout de suite",
@@ -397,25 +397,26 @@
     "note": "La taille du widget se choisit au moment de l'ajouter à l'écran d'accueil."
   },
   "pricing": {
-    "title": "Tu l'achètes une fois, c'est tout",
+    "title": "Commence gratuitement",
     "free": {
-      "name": "L'app",
+      "name": "Gratuit",
       "items": [
         "281 compliments pour 14 humeurs",
-        "Un widget d'écran d'accueil à ton style",
+        "Widget avec 3 polices, alignement et fréquence d'actualisation",
         "Favoris et Historique",
         "Séries et succès"
       ]
     },
     "pro": {
-      "name": "Soutenir le développeur",
+      "name": "Trop Fan de Toi Pro",
       "items": [
-        "Un petit, moyen ou grand pourboire, au choix",
-        "Cela ne débloque rien. C'est juste une façon de dire merci"
+        "Les 13 polices et les images de fond",
+        "Couleurs du fond et du texte au choix, et interligne",
+        "À la semaine, au mois, à l'année, ou une fois pour toutes"
       ],
-      "note": "Seulement si l'envie t'en prend."
+      "note": "Tu as acheté l'app avant qu'elle devienne gratuite ? Pro est à toi."
     },
-    "note": "Pas d'abonnement, pas d'achat en plus, pas de pub."
+    "note": "Les pourboires sont un merci et ne débloquent rien. Aucune pub."
   },
   "faq": {
     "title": "Questions fréquentes",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Je peux changer la police ou la fréquence du widget ?",
-        "a": "Oui. Dans les réglages avancés, tu changes la police, la couleur du texte, le fond, l'alignement, l'interligne et la fréquence de rafraîchissement : 5, 15 ou 30 minutes."
+        "a": "Oui. Dans les réglages avancés, tu changes la police, la couleur du texte, le fond, l'alignement, l'interligne et la fréquence de rafraîchissement : 5, 15 ou 30 minutes. Trois polices, l'alignement et la fréquence sont gratuits. Les autres polices, les images de fond, les couleurs et l'interligne sont dans Pro."
       },
       {
         "q": "Le widget n'a pas changé tout de suite.",

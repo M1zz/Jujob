@@ -1,11 +1,11 @@
 {
   "title": "Pochvala dne: widget, který vás chválí až přes míru",
-  "description": "Widget na ploše s novou přehnanou pochvalou každých 5, 15 nebo 30 minut. 281 hlášek na každou náladu, série a další. Platíte jen jednou.",
+  "description": "Widget na ploše s novou přehnanou pochvalou každých 5, 15 nebo 30 minut. 281 hlášek na každou náladu, série a další. Stažení zdarma.",
   "hero": {
     "headline": "Pokaždé, když vezmete telefon,\nčeká na vás váš největší fanoušek",
     "lead": "Pochvala dne je widget, který vás schválně chválí až moc. Ráno ranní hláška, před pohovorem hláška na pohovor. Písmo, barvy i pozadí si nastavíte podle sebe.",
     "cta": "Stáhnout z App Storu",
-    "note": "Jeden nákup a máte všechno. Žádné předplatné ani reklamy."
+    "note": "Stažení zdarma. Vyladit widget podle sebe umí Pro."
   },
   "demo": {
     "title": "Nechte se pochválit hned teď",
@@ -397,25 +397,26 @@
     "note": "Velikost widgetu vyberete, když ho přidáváte na plochu."
   },
   "pricing": {
-    "title": "Koupíte jednou a hotovo",
+    "title": "Začněte zdarma",
     "free": {
-      "name": "Aplikace",
+      "name": "Zdarma",
       "items": [
         "281 hlášek pro 14 nálad",
-        "Widget na plochu podle vašeho gusta",
+        "Widget se 3 písmy, zarovnáním a intervalem obnovení",
         "Oblíbené a Historie",
         "Série a úspěchy"
       ]
     },
     "pro": {
-      "name": "Podpořte vývojáře",
+      "name": "Pochvala dne Pro",
       "items": [
-        "Vyberte malé, střední nebo velké spropitné",
-        "Nic se tím neodemyká. Je to jen poděkování"
+        "Všech 13 písem a obrázky na pozadí",
+        "Vlastní barva pozadí a písma, řádkování",
+        "Týdně, měsíčně, ročně, nebo jednou navždy"
       ],
-      "note": "Jen pokud a kdy budete chtít."
+      "note": "Koupili jste si aplikaci dřív, než byla zdarma? Pro máte."
     },
-    "note": "Žádné předplatné, žádné další nákupy, žádné reklamy."
+    "note": "Spropitné je poděkování a nic neodemyká. Žádné reklamy."
   },
   "faq": {
     "title": "Časté otázky",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Dá se změnit písmo nebo interval obnovy?",
-        "a": "Ano. V dalším nastavení změníte písmo, barvu písma, pozadí, zarovnání, řádkování a interval obnovy: 5, 15 nebo 30 minut."
+        "a": "Ano. V dalším nastavení změníte písmo, barvu písma, pozadí, zarovnání, řádkování a interval obnovy: 5, 15 nebo 30 minut. Tři písma, zarovnání a interval obnovení jsou zdarma. Další písma, obrázky na pozadí, barvy a řádkování jsou v Pro."
       },
       {
         "q": "Widget se nezměnil hned.",

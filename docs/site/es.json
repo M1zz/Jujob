@@ -1,11 +1,11 @@
 {
   "title": "Piropo del Día: el widget que te pone por las nubes",
-  "description": "Un widget en tu pantalla de inicio con un piropo exagerado nuevo cada 5, 15 o 30 minutos. 281 frases para cada estado, rachas y más. Pago único.",
+  "description": "Un widget en tu pantalla de inicio con un piropo exagerado nuevo cada 5, 15 o 30 minutos. 281 frases para cada estado, rachas y más. Descarga gratis.",
   "hero": {
     "headline": "Cada vez que miras el móvil,\ntu fan número uno te espera",
     "lead": "Piropo del Día es un widget que te halaga demasiado, y a propósito. Un piropo de mañana por la mañana, uno de entrevista antes de la entrevista. Cámbiale la fuente, los colores y el fondo a tu gusto.",
     "cta": "Descárgala en el App Store",
-    "note": "Una sola compra y lo tienes todo. Sin suscripción ni anuncios."
+    "note": "Descarga gratis. Dejar el widget a tu gusto es Pro."
   },
   "demo": {
     "title": "Llévate un piropo ahora",
@@ -397,25 +397,26 @@
     "note": "El tamaño del widget lo eliges al añadirlo a la pantalla de inicio."
   },
   "pricing": {
-    "title": "Lo compras una vez y listo",
+    "title": "Empieza gratis",
     "free": {
-      "name": "La app",
+      "name": "Gratis",
       "items": [
         "281 piropos para 14 estados",
-        "Un widget de pantalla de inicio a tu estilo",
+        "Widget con 3 fuentes, alineación y frecuencia de actualización",
         "Favoritos e Historial",
         "Rachas y logros"
       ]
     },
     "pro": {
-      "name": "Apoya al desarrollador",
+      "name": "Piropo del Día Pro",
       "items": [
-        "Elige una propina pequeña, mediana o grande",
-        "No desbloquea nada. Es solo una forma de dar las gracias"
+        "Las 13 fuentes y las imágenes de fondo",
+        "Color de fondo y de texto a tu elección, e interlineado",
+        "Semanal, mensual o anual, o un pago único para siempre"
       ],
-      "note": "Solo si te apetece y cuando te apetezca."
+      "note": "Si compraste la app antes de que fuera gratis, ya tienes Pro."
     },
-    "note": "Sin suscripción, sin compras extra y sin anuncios."
+    "note": "Las propinas son un gracias y no desbloquean nada. Sin anuncios."
   },
   "faq": {
     "title": "Preguntas frecuentes",
@@ -430,7 +431,7 @@
       },
       {
         "q": "¿Puedo cambiar la fuente o la frecuencia del widget?",
-        "a": "Sí. En Ajustes avanzados cambias la fuente, el color del texto, el fondo, la alineación, el interlineado y la frecuencia de actualización, que puede ser de 5, 15 o 30 minutos."
+        "a": "Sí. En Ajustes avanzados cambias la fuente, el color del texto, el fondo, la alineación, el interlineado y la frecuencia de actualización, que puede ser de 5, 15 o 30 minutos. Tres fuentes, la alineación y la frecuencia son gratis. Las demás fuentes, las imágenes de fondo, los colores y el interlineado vienen con Pro."
       },
       {
         "q": "El widget no ha cambiado enseguida.",

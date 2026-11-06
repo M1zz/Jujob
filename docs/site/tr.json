@@ -1,11 +1,11 @@
 {
   "title": "Günün Pohpohu: seni ölçüsüzce öven widget",
-  "description": "Ana ekranda her 5, 15 ya da 30 dakikada yeni, abartılı bir pohpoh gösteren widget. Her ruh haline 281 söz ve seriler. Tek seferlik alım.",
+  "description": "Ana ekranda her 5, 15 ya da 30 dakikada yeni, abartılı bir pohpoh gösteren widget. Her ruh haline 281 söz ve seriler. Ücretsiz indir.",
   "hero": {
     "headline": "Telefonu her eline aldığında\nen büyük hayranın seni bekliyor",
     "lead": "Günün Pohpohu, seni bile isteye fazlasıyla öven bir widget. Sabah sabah pohpohu, mülakattan önce mülakat pohpohu. Yazı tipi, renkler ve arka plan tamamen sana kalmış.",
     "cta": "App Store'dan indir",
-    "note": "Tek satın alma, her şey açık. Abonelik yok, reklam yok."
+    "note": "Ücretsiz indir. Widget'ı zevkine göre süslemek Pro'da."
   },
   "demo": {
     "title": "Hemen bir pohpoh al",
@@ -397,25 +397,26 @@
     "note": "Widget boyutunu ana ekrana eklerken seçersin."
   },
   "pricing": {
-    "title": "Bir kez al, iş bitsin",
+    "title": "Ücretsiz başla",
     "free": {
-      "name": "Uygulama",
+      "name": "Ücretsiz",
       "items": [
         "14 ruh haline 281 pohpoh",
-        "Zevkine göre süslenen ana ekran widget'ı",
+        "3 yazı tipi, hizalama ve yenileme sıklığıyla widget",
         "Favoriler ve Geçmiş",
         "Seriler ve başarımlar"
       ]
     },
     "pro": {
-      "name": "Geliştiriciye destek ol",
+      "name": "Günün Pohpohu Pro",
       "items": [
-        "Küçük, orta ya da büyük bahşiş seç",
-        "Hiçbir şeyin kilidini açmaz. Sadece teşekkür etmenin bir yolu"
+        "13 yazı tipinin tamamı ve arka plan görselleri",
+        "Arka plan ve yazı rengini kendin seç, satır aralığını ayarla",
+        "Haftalık, aylık, yıllık ya da tek seferde ömür boyu"
       ],
-      "note": "Yalnızca canın istediğinde."
+      "note": "Uygulamayı ücretsiz olmadan önce aldıysan Pro senin."
     },
-    "note": "Abonelik yok, ek satın alma yok, reklam yok."
+    "note": "Bahşiş bir teşekkürdür, hiçbir şeyin kilidini açmaz. Reklam yok."
   },
   "faq": {
     "title": "Sık sorulan sorular",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Yazı tipini ya da yenileme sıklığını değiştirebilir miyim?",
-        "a": "Evet. Detaylı Ayarlar'da yazı tipini, yazı rengini, arka planı, hizalamayı, satır aralığını ve yenileme sıklığını değiştirebilirsin: 5, 15 ya da 30 dakika."
+        "a": "Evet. Detaylı Ayarlar'da yazı tipini, yazı rengini, arka planı, hizalamayı, satır aralığını ve yenileme sıklığını değiştirebilirsin: 5, 15 ya da 30 dakika. Üç yazı tipi, hizalama ve yenileme sıklığı ücretsiz. Diğer yazı tipleri, arka plan görselleri, renkler ve satır aralığı Pro'da."
       },
       {
         "q": "Widget hemen değişmedi.",

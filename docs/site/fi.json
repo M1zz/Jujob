@@ -1,11 +1,11 @@
 {
   "title": "Päivän hehkutus: widget, joka kehuu sinua ylitsevuotavasti",
-  "description": "Koti-valikon widget, joka näyttää uuden, ylitsevuotavan kehun 5, 15 tai 30 minuutin välein. 281 kehua joka fiilikseen, putkia ja muuta. Kertaosto.",
+  "description": "Koti-valikon widget, joka näyttää uuden, ylitsevuotavan kehun 5, 15 tai 30 minuutin välein. 281 kehua joka fiilikseen, putkia ja muuta. Ilmainen ladata.",
   "hero": {
     "headline": "Aina kun otat puhelimen käteen,\nsuurin fanisi odottaa",
     "lead": "Päivän hehkutus on widget, joka kehuu sinua tahallaan aivan liikaa. Aamulla aamukehu, ennen haastattelua haastattelukehu. Fontin, värit ja taustan valitset itse.",
     "cta": "Lataa App Storesta",
-    "note": "Yksi ostos ja kaikki on käytössä. Ei tilausta, ei mainoksia."
+    "note": "Ilmainen ladata. Widgetin muokkaaminen omannäköiseksi kuuluu Prohon."
   },
   "demo": {
     "title": "Ota kehu vastaan heti",
@@ -397,25 +397,26 @@
     "note": "Widgetin koon valitset, kun lisäät sen Koti-valikkoon."
   },
   "pricing": {
-    "title": "Osta kerran, ja asia on sillä selvä",
+    "title": "Aloita ilmaiseksi",
     "free": {
-      "name": "Sovellus",
+      "name": "Ilmainen",
       "items": [
         "281 kehua 14 fiilikseen",
-        "Oman näköisesi widget Koti-valikkoon",
+        "Widget 3 fontilla, tasauksella ja päivitysvälillä",
         "Suosikit ja Historia",
         "Putket ja saavutukset"
       ]
     },
     "pro": {
-      "name": "Tue kehittäjää",
+      "name": "Päivän hehkutus Pro",
       "items": [
-        "Valitse pieni, keskikokoinen tai iso tippi",
-        "Se ei avaa mitään. Se on vain tapa sanoa kiitos"
+        "Kaikki 13 fonttia ja taustakuvat",
+        "Omat taustan ja tekstin värit sekä riviväli",
+        "Viikko-, kuukausi- tai vuositilaus tai kertamaksu ikuisesti"
       ],
-      "note": "Vain jos ja kun siltä tuntuu."
+      "note": "Ostitko sovelluksen ennen kuin siitä tuli ilmainen? Pro on sinun."
     },
-    "note": "Ei tilausta, ei lisäostoja, ei mainoksia."
+    "note": "Tippi on kiitos eikä avaa mitään. Ei mainoksia."
   },
   "faq": {
     "title": "Usein kysyttyä",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Voinko vaihtaa fontin tai päivitysvälin?",
-        "a": "Voit. Lisäasetuksissa vaihdat fontin, tekstin värin, taustan, tasauksen, rivivälin ja päivitysvälin: 5, 15 tai 30 minuuttia."
+        "a": "Voit. Lisäasetuksissa vaihdat fontin, tekstin värin, taustan, tasauksen, rivivälin ja päivitysvälin: 5, 15 tai 30 minuuttia. Kolme fonttia, tasaus ja päivitysväli ovat ilmaisia. Muut fontit, taustakuvat, värit ja riviväli kuuluvat Prohon."
       },
       {
         "q": "Widget ei vaihtunut heti.",

@@ -1,11 +1,11 @@
 {
   "title": "Dagens Pepp: widgeten som hajpar dig utan hämningar",
-  "description": "En widget på hemskärmen med ny, överdriven pepp var 5:e, 15:e eller 30:e minut. 281 rader för varje humör, sviter och mer. Köp en gång.",
+  "description": "En widget på hemskärmen med ny, överdriven pepp var 5:e, 15:e eller 30:e minut. 281 rader för varje humör, sviter och mer. Gratis att ladda ner.",
   "hero": {
     "headline": "Varje gång du tar upp mobilen\nväntar ditt största fan",
     "lead": "Dagens Pepp är en widget som med flit berömmer dig alldeles för mycket. Morgonpepp på morgonen, intervjupepp före intervjun. Typsnitt, färger och bakgrund väljer du själv.",
     "cta": "Hämta på App Store",
-    "note": "Ett köp och du har allt. Ingen prenumeration, ingen reklam."
+    "note": "Gratis att ladda ner. Att göra widgeten till din egen är Pro."
   },
   "demo": {
     "title": "Få lite pepp direkt",
@@ -397,25 +397,26 @@
     "note": "Widgetens storlek väljer du när du lägger till den på hemskärmen."
   },
   "pricing": {
-    "title": "Köp den en gång, sen är det klart",
+    "title": "Kom igång gratis",
     "free": {
-      "name": "Appen",
+      "name": "Gratis",
       "items": [
         "281 peppar för 14 humör",
-        "En hemskärmswidget i din stil",
+        "Widget med 3 typsnitt, justering och uppdateringsintervall",
         "Favoriter och Historik",
         "Sviter och prestationer"
       ]
     },
     "pro": {
-      "name": "Stöd utvecklaren",
+      "name": "Dagens Pepp Pro",
       "items": [
-        "Välj en liten, mellan eller stor dricks",
-        "Den låser inte upp något. Det är bara ett sätt att säga tack"
+        "Alla 13 typsnitt och bakgrundsbilder",
+        "Välj bakgrunds- och textfärg själv, plus radavstånd",
+        "Vecka, månad eller år, eller en gång för livstid"
       ],
-      "note": "Bara om och när du känner för det."
+      "note": "Köpte du appen innan den blev gratis? Då har du Pro."
     },
-    "note": "Ingen prenumeration, inga extraköp, ingen reklam."
+    "note": "Dricks är ett tack och låser inte upp något. Ingen reklam."
   },
   "faq": {
     "title": "Vanliga frågor",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Kan jag ändra typsnitt eller uppdateringsintervall?",
-        "a": "Ja. Under Detaljer ändrar du typsnitt, textfärg, bakgrund, justering, radavstånd och uppdateringsintervall: 5, 15 eller 30 minuter."
+        "a": "Ja. Under Detaljer ändrar du typsnitt, textfärg, bakgrund, justering, radavstånd och uppdateringsintervall: 5, 15 eller 30 minuter. Tre typsnitt, justering och uppdateringsintervall är gratis. Övriga typsnitt, bakgrundsbilder, färger och radavstånd ingår i Pro."
       },
       {
         "q": "Widgeten ändrades inte direkt.",

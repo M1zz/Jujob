@@ -1,11 +1,11 @@
 {
   "title": "Dagens skryt: widgeten som skryter av deg uten måte",
-  "description": "En widget på Hjem-skjermen med nytt, overdrevent skryt hvert 5., 15. eller 30. minutt. 281 setninger for hvert humør, rekker og mer. Kjøp én gang.",
+  "description": "En widget på Hjem-skjermen med nytt, overdrevent skryt hvert 5., 15. eller 30. minutt. 281 setninger for hvert humør, rekker og mer. Gratis å laste ned.",
   "hero": {
     "headline": "Hver gang du tar opp telefonen,\nventer din største fan",
     "lead": "Dagens skryt er en widget som med vilje skryter altfor mye av deg. Morgenskryt om morgenen, intervjuskryt før intervjuet. Skrift, farger og bakgrunn velger du selv.",
     "cta": "Last ned i App Store",
-    "note": "Ett kjøp, og du har alt. Ikke noe abonnement, ingen reklame."
+    "note": "Gratis å laste ned. Å gi widgeten ditt preg er Pro."
   },
   "demo": {
     "title": "Få litt skryt med en gang",
@@ -397,25 +397,26 @@
     "note": "Størrelsen på widgeten velger du når du legger den til på Hjem-skjermen."
   },
   "pricing": {
-    "title": "Kjøp den én gang, så er det gjort",
+    "title": "Kom gratis i gang",
     "free": {
-      "name": "Appen",
+      "name": "Gratis",
       "items": [
         "281 skryt for 14 humør",
-        "En Hjem-skjerm-widget i din stil",
+        "Widget med 3 skrifttyper, justering og oppdateringsintervall",
         "Favoritter og Historikk",
         "Rekker og prestasjoner"
       ]
     },
     "pro": {
-      "name": "Støtt utvikleren",
+      "name": "Dagens skryt Pro",
       "items": [
-        "Velg en liten, middels eller stor tips",
-        "Den låser ikke opp noe. Det er bare en måte å si takk på"
+        "Alle 13 skrifttyper og bakgrunnsbilder",
+        "Velg bakgrunns- og tekstfarge selv, pluss linjeavstand",
+        "Ukentlig, månedlig, årlig eller én gang for livstid"
       ],
-      "note": "Bare hvis og når du har lyst."
+      "note": "Kjøpte du appen før den ble gratis? Da har du Pro."
     },
-    "note": "Ikke noe abonnement, ingen ekstrakjøp, ingen reklame."
+    "note": "Tips er en takk og låser ikke opp noe. Ingen reklame."
   },
   "faq": {
     "title": "Vanlige spørsmål",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Kan jeg endre skrift eller oppdateringsintervall?",
-        "a": "Ja. I Avanserte innstillinger endrer du skrift, tekstfarge, bakgrunn, justering, linjeavstand og oppdateringsintervall: 5, 15 eller 30 minutter."
+        "a": "Ja. I Avanserte innstillinger endrer du skrift, tekstfarge, bakgrunn, justering, linjeavstand og oppdateringsintervall: 5, 15 eller 30 minutter. Tre skrifttyper, justering og oppdateringsintervall er gratis. De andre skrifttypene, bakgrunnsbilder, farger og linjeavstand følger med Pro."
       },
       {
         "q": "Widgeten endret seg ikke med en gang.",

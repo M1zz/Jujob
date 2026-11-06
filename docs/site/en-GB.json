@@ -1,11 +1,11 @@
 {
   "title": "Daily Gush: the widget that's properly over the top about you",
-  "description": "A home screen widget with a fresh, over-the-top compliment every 5, 15 or 30 minutes. 281 lines for every mood, streaks and more. Pay once.",
+  "description": "A home screen widget with a fresh, over-the-top compliment every 5, 15 or 30 minutes. 281 lines for every mood, streaks and more. Free to download.",
   "hero": {
     "headline": "Your biggest fan,\nright on your home screen",
     "lead": "Daily Gush is a widget that compliments you far too much, on purpose. Morning gushes in the morning, pre-interview gushes before the interview. Dress it up with your own font, colours and background.",
     "cta": "Get it on the App Store",
-    "note": "One purchase unlocks everything. No subscription, no ads."
+    "note": "Free to download. Styling the widget your way is Pro."
   },
   "demo": {
     "title": "Get a gush right now",
@@ -397,25 +397,26 @@
     "note": "You choose the widget size when you add it to the home screen."
   },
   "pricing": {
-    "title": "Buy it once and that's that",
+    "title": "Free to start",
     "free": {
-      "name": "The app",
+      "name": "Free",
       "items": [
         "281 lines across 14 moods",
-        "A home screen widget you can style",
+        "Style the widget with 3 fonts, alignment and refresh interval",
         "Favourites and History",
         "Streaks and achievements"
       ]
     },
     "pro": {
-      "name": "Support the developer",
+      "name": "Daily Gush Pro",
       "items": [
-        "Pick a small, medium or large tip",
-        "It doesn't unlock anything. It's simply a way to say thanks"
+        "All 13 fonts and background images",
+        "Your own background and text colours, plus line spacing",
+        "Weekly, monthly or yearly, or pay once for lifetime"
       ],
-      "note": "Only if and when you fancy it."
+      "note": "Bought the app before it went free? Pro is yours."
     },
-    "note": "No subscription, no extra purchases, no ads."
+    "note": "Tips are a thank-you and unlock nothing. No ads."
   },
   "faq": {
     "title": "Questions",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Can I change the widget's font or refresh interval?",
-        "a": "Yes. In Advanced settings you can change the font, text colour, background, alignment, line spacing and refresh interval. The interval can be 5, 15 or 30 minutes."
+        "a": "Yes. In Advanced settings you can change the font, text colour, background, alignment, line spacing and refresh interval. The interval can be 5, 15 or 30 minutes. Three fonts, alignment and the refresh interval are free. The other fonts, background images, colours and line spacing come with Pro."
       },
       {
         "q": "The widget didn't change straight away.",

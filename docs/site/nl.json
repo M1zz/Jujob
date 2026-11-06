@@ -1,11 +1,11 @@
 {
   "title": "Dagelijkse Hypeman: de widget die je schaamteloos ophemelt",
-  "description": "Een widget op je beginscherm met elke 5, 15 of 30 minuten een nieuw, overdreven compliment. 281 zinnen, reeksen en meer. Eenmalig kopen.",
+  "description": "Een widget op je beginscherm met elke 5, 15 of 30 minuten een nieuw, overdreven compliment. 281 zinnen, reeksen en meer. Gratis te downloaden.",
   "hero": {
     "headline": "Elke keer dat je je telefoon pakt,\nstaat je grootste fan klaar",
     "lead": "Dagelijkse Hypeman is een widget die je met opzet veel te veel complimenten geeft. 's Ochtends een ochtendhype, vlak voor de sollicitatie een sollicitatiehype. Lettertype, kleuren en achtergrond stel je zelf in.",
     "cta": "Download in de App Store",
-    "note": "Eén aankoop en alles is van jou. Geen abonnement, geen advertenties."
+    "note": "Gratis te downloaden. De widget helemaal naar je smaak maken is Pro."
   },
   "demo": {
     "title": "Krijg meteen een hype",
@@ -397,25 +397,26 @@
     "note": "De grootte van de widget kies je als je hem aan je beginscherm toevoegt."
   },
   "pricing": {
-    "title": "Eén keer kopen en klaar",
+    "title": "Begin gratis",
     "free": {
-      "name": "De app",
+      "name": "Gratis",
       "items": [
         "281 hypes voor 14 stemmingen",
-        "Een beginschermwidget in jouw stijl",
+        "Widget met 3 lettertypen, uitlijning en vernieuwen",
         "Favorieten en Geschiedenis",
         "Reeksen en prestaties"
       ]
     },
     "pro": {
-      "name": "Steun de maker",
+      "name": "Dagelijkse Hypeman Pro",
       "items": [
-        "Kies een kleine, middelgrote of grote fooi",
-        "Er wordt niets mee ontgrendeld. Het is gewoon een bedankje"
+        "Alle 13 lettertypen en achtergrondfoto's",
+        "Zelf achtergrond- en tekstkleur kiezen, plus regelafstand",
+        "Per week, maand of jaar, of één keer voor altijd"
       ],
-      "note": "Alleen als en wanneer je zin hebt."
+      "note": "Kocht je de app voordat hij gratis werd? Dan heb je Pro."
     },
-    "note": "Geen abonnement, geen extra aankopen, geen advertenties."
+    "note": "Fooien zijn een bedankje en ontgrendelen niets. Geen advertenties."
   },
   "faq": {
     "title": "Veelgestelde vragen",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Kan ik het lettertype of het verversen aanpassen?",
-        "a": "Ja. In Instellingen pas je lettertype, tekstkleur, achtergrond, uitlijning, regelafstand en verversen aan: elke 5, 15 of 30 minuten."
+        "a": "Ja. In Instellingen pas je lettertype, tekstkleur, achtergrond, uitlijning, regelafstand en verversen aan: elke 5, 15 of 30 minuten. Drie lettertypen, uitlijning en vernieuwen zijn gratis. De andere lettertypen, achtergrondfoto's, kleuren en regelafstand horen bij Pro."
       },
       {
         "q": "De widget veranderde niet meteen.",

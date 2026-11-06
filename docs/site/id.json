@@ -1,11 +1,11 @@
 {
   "title": "Pujian Lebay Harian: widget yang memujimu habis-habisan",
-  "description": "Widget Layar Utama yang menampilkan pujian lebay baru tiap 5, 15, atau 30 menit. 281 kalimat untuk tiap mood, rekor beruntun. Sekali beli.",
+  "description": "Widget Layar Utama yang menampilkan pujian lebay baru tiap 5, 15, atau 30 menit. 281 kalimat untuk tiap mood, rekor beruntun. Gratis diunduh.",
   "hero": {
     "headline": "Tiap kali buka HP,\nfans beratmu sudah menunggu",
     "lead": "Pujian Lebay Harian adalah widget yang sengaja memujimu kelewatan. Pagi-pagi dapat pujian pagi, sebelum wawancara dapat pujian wawancara. Font, warna, dan latarnya bisa kamu atur sesukamu.",
     "cta": "Unduh di App Store",
-    "note": "Sekali beli, semua fitur terbuka. Tanpa langganan, tanpa iklan."
+    "note": "Gratis diunduh. Menghias widget sesukamu ada di Pro."
   },
   "demo": {
     "title": "Dapatkan satu pujian sekarang",
@@ -397,25 +397,26 @@
     "note": "Ukuran widget dipilih saat kamu menambahkannya ke Layar Utama."
   },
   "pricing": {
-    "title": "Sekali beli, beres",
+    "title": "Mulai gratis",
     "free": {
-      "name": "Aplikasinya",
+      "name": "Gratis",
       "items": [
         "281 pujian untuk 14 mood",
-        "Widget Layar Utama yang bisa dihias",
+        "Hias widget dengan 3 font, perataan, dan interval muat ulang",
         "Favorit dan Riwayat",
         "Rekor beruntun dan pencapaian"
       ]
     },
     "pro": {
-      "name": "Dukung pengembang",
+      "name": "Pujian Lebay Harian Pro",
       "items": [
-        "Pilih tip kecil, sedang, atau besar",
-        "Tidak membuka fitur apa pun. Hanya cara untuk berterima kasih"
+        "Semua 13 font dan gambar latar",
+        "Pilih sendiri warna latar dan teks, plus jarak baris",
+        "Mingguan, bulanan, tahunan, atau sekali bayar seumur hidup"
       ],
-      "note": "Hanya kalau dan kapan kamu mau."
+      "note": "Sudah beli aplikasinya sebelum jadi gratis? Pro jadi milikmu."
     },
-    "note": "Tanpa langganan, tanpa pembelian tambahan, tanpa iklan."
+    "note": "Tip adalah ucapan terima kasih dan tidak membuka apa pun. Tanpa iklan."
   },
   "faq": {
     "title": "Pertanyaan umum",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Bisakah ganti font atau interval refresh?",
-        "a": "Bisa. Di Pengaturan Lanjutan kamu bisa ganti font, warna teks, latar, perataan, jarak baris, dan interval refresh: 5, 15, atau 30 menit."
+        "a": "Bisa. Di Pengaturan Lanjutan kamu bisa ganti font, warna teks, latar, perataan, jarak baris, dan interval refresh: 5, 15, atau 30 menit. Tiga font, perataan, dan interval muat ulang gratis. Font lain, gambar latar, warna, dan jarak baris ada di Pro."
       },
       {
         "q": "Widget-nya tidak langsung berubah.",

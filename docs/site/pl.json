@@ -1,11 +1,11 @@
 {
   "title": "Dzienna Dawka Peanów: widżet, który chwali Cię bez umiaru",
-  "description": "Widżet na ekranie początkowym z nowym, przesadnym peanem co 5, 15 lub 30 minut. 281 tekstów na każdy nastrój, serie i więcej. Płacisz raz.",
+  "description": "Widżet na ekranie początkowym z nowym, przesadnym peanem co 5, 15 lub 30 minut. 281 tekstów na każdy nastrój, serie i więcej. Pobierasz za darmo.",
   "hero": {
     "headline": "Za każdym razem, gdy bierzesz telefon,\nczeka na Ciebie największy fan",
     "lead": "Dzienna Dawka Peanów to widżet, który celowo chwali Cię za bardzo. Rano pean na rano, przed rozmową pean na rozmowę. Czcionkę, kolory i tło ustawisz po swojemu.",
     "cta": "Pobierz z App Store",
-    "note": "Jeden zakup i masz wszystko. Bez subskrypcji i bez reklam."
+    "note": "Pobierasz za darmo. Urządzenie widżetu po swojemu to Pro."
   },
   "demo": {
     "title": "Odbierz pean od razu",
@@ -397,25 +397,26 @@
     "note": "Rozmiar widżetu wybierasz przy dodawaniu go do ekranu początkowego."
   },
   "pricing": {
-    "title": "Kupujesz raz i gotowe",
+    "title": "Zacznij za darmo",
     "free": {
-      "name": "Aplikacja",
+      "name": "Za darmo",
       "items": [
         "281 peanów na 14 nastrojów",
-        "Widżet na ekran początkowy w Twoim stylu",
+        "Widżet z 3 czcionkami, wyrównaniem i odświeżaniem",
         "Ulubione i Historia",
         "Serie i osiągnięcia"
       ]
     },
     "pro": {
-      "name": "Wesprzyj twórcę",
+      "name": "Dzienna Dawka Peanów Pro",
       "items": [
-        "Wybierz mały, średni lub duży napiwek",
-        "Niczego nie odblokowuje. To po prostu podziękowanie"
+        "Wszystkie 13 czcionek i obrazy tła",
+        "Własny kolor tła i tekstu oraz interlinia",
+        "Tygodniowo, miesięcznie, rocznie albo raz na zawsze"
       ],
-      "note": "Tylko jeśli i kiedy zechcesz."
+      "note": "Aplikacja kupiona, zanim stała się darmowa? Pro jest Twoje."
     },
-    "note": "Bez subskrypcji, bez dodatkowych zakupów, bez reklam."
+    "note": "Napiwki to podziękowanie i niczego nie odblokowują. Bez reklam."
   },
   "faq": {
     "title": "Częste pytania",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Czy mogę zmienić czcionkę albo odświeżanie?",
-        "a": "Tak. W szczegółach zmienisz czcionkę, kolor tekstu, tło, wyrównanie, interlinię i odświeżanie: co 5, 15 lub 30 minut."
+        "a": "Tak. W szczegółach zmienisz czcionkę, kolor tekstu, tło, wyrównanie, interlinię i odświeżanie: co 5, 15 lub 30 minut. Trzy czcionki, wyrównanie i odświeżanie są za darmo. Pozostałe czcionki, obrazy tła, kolory i interlinia są w Pro."
       },
       {
         "q": "Widżet nie zmienił się od razu.",

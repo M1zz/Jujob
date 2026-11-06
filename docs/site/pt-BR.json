@@ -1,11 +1,11 @@
 {
   "title": "Elogio Exagerado: o widget que te bajula sem dó",
-  "description": "Um widget na Tela de Início com um elogio exagerado novo a cada 5, 15 ou 30 minutos. 281 frases para cada humor, sequências e mais. Compra única.",
+  "description": "Um widget na Tela de Início com um elogio exagerado novo a cada 5, 15 ou 30 minutos. 281 frases para cada humor, sequências e mais. Download grátis.",
   "hero": {
     "headline": "Toda vez que você pega o celular,\nseu fã número um está lá",
     "lead": "Elogio Exagerado é um widget que te elogia demais, de propósito. De manhã, elogio de manhã; antes da entrevista, elogio de entrevista. Fonte, cores e fundo ficam do jeito que você quiser.",
     "cta": "Baixe na App Store",
-    "note": "Uma compra só e tudo liberado. Sem assinatura e sem anúncios."
+    "note": "Download grátis. Deixar o widget do seu jeito é Pro."
   },
   "demo": {
     "title": "Ganhe um elogio agora",
@@ -397,25 +397,26 @@
     "note": "O tamanho do widget você escolhe ao adicionar na Tela de Início."
   },
   "pricing": {
-    "title": "Comprou uma vez, pronto",
+    "title": "Comece de graça",
     "free": {
-      "name": "O app",
+      "name": "Grátis",
       "items": [
         "281 elogios para 14 humores",
-        "Um widget de Tela de Início do seu jeito",
+        "Widget com 3 fontes, alinhamento e frequência de atualização",
         "Favoritos e Histórico",
         "Sequências e conquistas"
       ]
     },
     "pro": {
-      "name": "Apoie o desenvolvedor",
+      "name": "Elogio Exagerado Pro",
       "items": [
-        "Escolha uma gorjeta pequena, média ou grande",
-        "Não libera nada. É só um jeito de agradecer"
+        "Todas as 13 fontes e imagens de fundo",
+        "Cor do fundo e do texto à sua escolha, e entrelinha",
+        "Semanal, mensal, anual ou vitalício com pagamento único"
       ],
-      "note": "Só se e quando der vontade."
+      "note": "Comprou o app antes de ele ficar grátis? O Pro é seu."
     },
-    "note": "Sem assinatura, sem compras extras e sem anúncios."
+    "note": "As gorjetas são um agradecimento e não liberam nada. Sem anúncios."
   },
   "faq": {
     "title": "Perguntas frequentes",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Dá para mudar a fonte ou a frequência do widget?",
-        "a": "Dá. Nos ajustes avançados você muda fonte, cor do texto, fundo, alinhamento, entrelinha e frequência de atualização: 5, 15 ou 30 minutos."
+        "a": "Dá. Nos ajustes avançados você muda fonte, cor do texto, fundo, alinhamento, entrelinha e frequência de atualização: 5, 15 ou 30 minutos. Três fontes, alinhamento e frequência são grátis. As outras fontes, imagens de fundo, cores e entrelinha vêm com o Pro."
       },
       {
         "q": "O widget não mudou na hora.",

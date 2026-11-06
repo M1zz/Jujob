@@ -1,11 +1,11 @@
 {
   "title": "Overdose di Complimenti: il widget che ti esalta senza ritegno",
-  "description": "Un widget nella schermata Home con un complimento esagerato nuovo ogni 5, 15 o 30 minuti. 281 frasi per ogni umore, serie e altro. Acquisto unico.",
+  "description": "Un widget nella schermata Home con un complimento esagerato nuovo ogni 5, 15 o 30 minuti. 281 frasi per ogni umore, serie e altro. Download gratuito.",
   "hero": {
     "headline": "Ogni volta che prendi il telefono,\nil tuo fan numero uno ti aspetta",
     "lead": "Overdose di Complimenti è un widget che ti fa complimenti decisamente troppo, e apposta. Di mattina un complimento da mattina, prima del colloquio uno da colloquio. Font, colori e sfondo li scegli tu.",
     "cta": "Scaricala dall'App Store",
-    "note": "Un solo acquisto e hai tutto. Niente abbonamenti né pubblicità."
+    "note": "Download gratuito. Personalizzare il widget a tuo gusto è Pro."
   },
   "demo": {
     "title": "Prenditi un complimento adesso",
@@ -397,25 +397,26 @@
     "note": "La dimensione del widget si sceglie quando lo aggiungi alla schermata Home."
   },
   "pricing": {
-    "title": "Lo compri una volta e basta",
+    "title": "Inizia gratis",
     "free": {
-      "name": "L'app",
+      "name": "Gratis",
       "items": [
         "281 complimenti per 14 umori",
-        "Un widget per la schermata Home a tuo gusto",
+        "Widget con 3 font, allineamento e frequenza di aggiornamento",
         "Preferiti e Cronologia",
         "Serie e traguardi"
       ]
     },
     "pro": {
-      "name": "Sostieni lo sviluppatore",
+      "name": "Overdose di Complimenti Pro",
       "items": [
-        "Scegli una mancia piccola, media o grande",
-        "Non sblocca nulla. È solo un modo per dire grazie"
+        "Tutti i 13 font e le immagini di sfondo",
+        "Colori di sfondo e testo a scelta, e interlinea",
+        "Settimanale, mensile, annuale o una volta per sempre"
       ],
-      "note": "Solo se e quando ti va."
+      "note": "Hai comprato l'app prima che diventasse gratuita? Pro è tuo."
     },
-    "note": "Niente abbonamenti, niente acquisti extra, niente pubblicità."
+    "note": "Le mance sono un grazie e non sbloccano nulla. Niente pubblicità."
   },
   "faq": {
     "title": "Domande frequenti",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Posso cambiare font o frequenza del widget?",
-        "a": "Sì. Nelle impostazioni avanzate cambi font, colore del testo, sfondo, allineamento, interlinea e frequenza di aggiornamento: 5, 15 o 30 minuti."
+        "a": "Sì. Nelle impostazioni avanzate cambi font, colore del testo, sfondo, allineamento, interlinea e frequenza di aggiornamento: 5, 15 o 30 minuti. Tre font, allineamento e frequenza sono gratis. Gli altri font, le immagini di sfondo, i colori e l'interlinea sono inclusi in Pro."
       },
       {
         "q": "Il widget non è cambiato subito.",

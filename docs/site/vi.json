@@ -1,11 +1,11 @@
 {
   "title": "Khen Lố Mỗi Ngày: widget khen bạn hết cỡ",
-  "description": "Widget trên Màn hình chính đổi một câu khen siêu lố mỗi 5, 15 hoặc 30 phút. 281 câu cho mọi tâm trạng, chuỗi ngày và hơn thế nữa. Mua một lần.",
+  "description": "Widget trên Màn hình chính đổi một câu khen siêu lố mỗi 5, 15 hoặc 30 phút. 281 câu cho mọi tâm trạng, chuỗi ngày và hơn thế nữa. Tải về miễn phí.",
   "hero": {
     "headline": "Mỗi lần cầm điện thoại,\nfan cứng của bạn đã chờ sẵn",
     "lead": "Khen Lố Mỗi Ngày là widget cố tình khen bạn quá đà. Buổi sáng có câu khen buổi sáng, trước phỏng vấn có câu khen trước phỏng vấn. Phông chữ, màu sắc và nền đều chỉnh theo ý bạn.",
     "cta": "Tải trên App Store",
-    "note": "Mua một lần, dùng mọi tính năng. Không thuê bao, không quảng cáo."
+    "note": "Tải về miễn phí. Trang trí widget theo ý mình là Pro."
   },
   "demo": {
     "title": "Nhận ngay một câu khen",
@@ -397,25 +397,26 @@
     "note": "Kích thước widget được chọn khi thêm vào Màn hình chính."
   },
   "pricing": {
-    "title": "Mua một lần là xong",
+    "title": "Bắt đầu miễn phí",
     "free": {
-      "name": "Ứng dụng",
+      "name": "Miễn phí",
       "items": [
         "281 câu khen cho 14 tâm trạng",
-        "Widget Màn hình chính tùy chỉnh được",
+        "Widget với 3 phông chữ, căn lề và chu kỳ làm mới",
         "Yêu thích và Lịch sử",
         "Chuỗi ngày và thành tựu"
       ]
     },
     "pro": {
-      "name": "Ủng hộ nhà phát triển",
+      "name": "Khen Lố Mỗi Ngày Pro",
       "items": [
-        "Chọn mức tip nhỏ, vừa hoặc lớn",
-        "Không mở khóa tính năng nào. Chỉ là một lời cảm ơn"
+        "Đủ 13 phông chữ và ảnh nền",
+        "Tự chọn màu nền, màu chữ và chỉnh giãn dòng",
+        "Theo tuần, tháng, năm hoặc trả một lần dùng trọn đời"
       ],
-      "note": "Chỉ khi nào bạn muốn."
+      "note": "Đã mua ứng dụng trước khi chuyển sang miễn phí? Pro là của bạn."
     },
-    "note": "Không thuê bao, không mua thêm, không quảng cáo."
+    "note": "Tiền tip là lời cảm ơn, không mở khóa gì. Không có quảng cáo."
   },
   "faq": {
     "title": "Câu hỏi thường gặp",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Đổi phông chữ hay chu kỳ làm mới được không?",
-        "a": "Được. Trong Cài đặt chi tiết, bạn đổi được phông chữ, màu chữ, nền, căn lề, giãn dòng và chu kỳ làm mới: 5, 15 hoặc 30 phút."
+        "a": "Được. Trong Cài đặt chi tiết, bạn đổi được phông chữ, màu chữ, nền, căn lề, giãn dòng và chu kỳ làm mới: 5, 15 hoặc 30 phút. 3 phông chữ, căn lề và chu kỳ làm mới là miễn phí. Các phông chữ khác, ảnh nền, màu sắc và giãn dòng có trong Pro."
       },
       {
         "q": "Widget không đổi ngay.",

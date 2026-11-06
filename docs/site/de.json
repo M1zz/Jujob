@@ -1,11 +1,11 @@
 {
   "title": "Hype des Tages: das Widget, das dich maßlos lobt",
-  "description": "Ein Widget auf dem Home-Bildschirm mit neuem, völlig übertriebenem Lob alle 5, 15 oder 30 Minuten. 281 Sprüche, Serien und mehr. Einmal kaufen.",
+  "description": "Ein Widget auf dem Home-Bildschirm mit neuem, völlig übertriebenem Lob alle 5, 15 oder 30 Minuten. 281 Sprüche, Serien und mehr. Kostenlos laden.",
   "hero": {
     "headline": "Jedes Mal, wenn du aufs Handy schaust,\nwartet dein größter Fan",
     "lead": "Hype des Tages ist ein Widget, das dich mit voller Absicht viel zu sehr lobt. Morgens ein Morgen-Spruch, vorm Interview ein Interview-Spruch. Schrift, Farben und Hintergrund stellst du ein, wie du magst.",
     "cta": "Im App Store laden",
-    "note": "Ein Kauf, alles drin. Kein Abo, keine Werbung."
+    "note": "Kostenlos laden. Das Widget nach deinem Geschmack gestalten ist Pro."
   },
   "demo": {
     "title": "Hol dir gleich einen Spruch",
@@ -397,25 +397,26 @@
     "note": "Die Größe des Widgets wählst du beim Hinzufügen zum Home-Bildschirm."
   },
   "pricing": {
-    "title": "Einmal kaufen, fertig",
+    "title": "Kostenlos starten",
     "free": {
-      "name": "Die App",
+      "name": "Kostenlos",
       "items": [
         "281 Sprüche für 14 Stimmungen",
-        "Ein Home-Bildschirm-Widget nach deinem Geschmack",
+        "Widget mit 3 Schriften, Ausrichtung und Aktualisierung",
         "Favoriten und Verlauf",
         "Serien und Erfolge"
       ]
     },
     "pro": {
-      "name": "Den Entwickler unterstützen",
+      "name": "Hype des Tages Pro",
       "items": [
-        "Wähl ein kleines, mittleres oder großes Trinkgeld",
-        "Damit wird nichts freigeschaltet. Es ist einfach ein Dankeschön"
+        "Alle 13 Schriften und Hintergrundbilder",
+        "Eigene Hintergrund- und Schriftfarbe, dazu der Zeilenabstand",
+        "Wöchentlich, monatlich, jährlich oder einmal für immer"
       ],
-      "note": "Nur wenn und wann du magst."
+      "note": "Du hast die App gekauft, bevor sie kostenlos wurde? Dann hast du Pro."
     },
-    "note": "Kein Abo, keine Zusatzkäufe, keine Werbung."
+    "note": "Trinkgeld ist ein Dankeschön und schaltet nichts frei. Keine Werbung."
   },
   "faq": {
     "title": "Häufige Fragen",
@@ -430,7 +431,7 @@
       },
       {
         "q": "Kann ich Schrift oder Aktualisierung ändern?",
-        "a": "Ja. In den Feineinstellungen änderst du Schrift, Schriftfarbe, Hintergrund, Ausrichtung, Zeilenabstand und Aktualisierung. Zur Wahl stehen 5, 15 oder 30 Minuten."
+        "a": "Ja. In den Feineinstellungen änderst du Schrift, Schriftfarbe, Hintergrund, Ausrichtung, Zeilenabstand und Aktualisierung. Zur Wahl stehen 5, 15 oder 30 Minuten. Drei Schriften, Ausrichtung und Aktualisierung sind kostenlos. Weitere Schriften, Hintergrundbilder, Farben und Zeilenabstand gibt es mit Pro."
       },
       {
         "q": "Das Widget hat sich nicht sofort geändert.",
