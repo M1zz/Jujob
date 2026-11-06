@@ -15,18 +15,7 @@ struct JujobWidget: Widget {
         StaticConfiguration(kind: kind, provider: Provider()) { entry in
             if #available(iOS 17.0, *) {
                 WidgetView(entry: entry, manager: WidgetManager())
-                    .containerBackground(for: .widget) {
-                        let manager = WidgetManager()
-                        ZStack {
-                            LinearGradient(gradient: Gradient(colors: manager.selectedBackgroundColor), startPoint: .top, endPoint: .bottom)
-                            if !manager.backgroundImageName.isEmpty {
-                                GeometryReader { _ in
-                                    Image(uiImage: UIImage(named: manager.backgroundImageName)!)
-                                        .resizable().aspectRatio(contentMode: .fill)
-                                }
-                            }
-                        }
-                    }
+                    .containerBackground(for: .widget) { WidgetBackground(manager: WidgetManager()) }
             } else {
                 WidgetView(entry: entry, manager: WidgetManager())
             }
@@ -40,18 +29,7 @@ struct JujobWidget_Previews: PreviewProvider {
     static var previews: some View {
         if #available(iOS 17.0, *) {
             WidgetView(entry: QuoteEntry(date: Date(), quote: nil), manager: WidgetManager())
-                .containerBackground(for: .widget) {
-                    let manager = WidgetManager()
-                    ZStack {
-                        LinearGradient(gradient: Gradient(colors: manager.selectedBackgroundColor), startPoint: .top, endPoint: .bottom)
-                        if !manager.backgroundImageName.isEmpty {
-                            GeometryReader { _ in
-                                Image(uiImage: UIImage(named: manager.backgroundImageName)!)
-                                    .resizable().aspectRatio(contentMode: .fill)
-                            }
-                        }
-                    }
-                }
+                .containerBackground(for: .widget) { WidgetBackground(manager: WidgetManager()) }
                 .previewContext(WidgetPreviewContext(family: .systemSmall))
         } else {
             WidgetView(entry: QuoteEntry(date: Date(), quote: nil), manager: WidgetManager())

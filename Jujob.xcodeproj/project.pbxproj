@@ -47,6 +47,8 @@
 		5C1000000000000000000021 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5C1000000000000000000001 /* Localizable.xcstrings */; };
 		5C1000000000000000000022 /* Quotes.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5C1000000000000000000002 /* Quotes.xcstrings */; };
 		5C1A7E0A2F00000000000002 /* JujobTipJar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1A7E0A2F00000000000001 /* JujobTipJar.swift */; };
+		5C1A7E0A2F00000000000012 /* JujobPro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1A7E0A2F00000000000011 /* JujobPro.swift */; };
+		5C1A7E0A2F00000000000014 /* ProPaywallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1A7E0A2F00000000000013 /* ProPaywallView.swift */; };
 		8B0ABFB40B6246F2A6ED03E8 /* LeeoKit in Frameworks */ = {isa = PBXBuildFile; productRef = 8663D8EF93B74BDA848B7162 /* LeeoKit */; };
 		B1140315717828E1DDBF0FC8 /* CheerIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = D978FD6BE64D25AB5BAA12BC /* CheerIntents.swift */; };
 /* End PBXBuildFile section */
@@ -113,6 +115,9 @@
 		5C1000000000000000000003 /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
 		5C1000000000000000000004 /* Version.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config/Version.xcconfig; sourceTree = SOURCE_ROOT; };
 		5C1A7E0A2F00000000000001 /* JujobTipJar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JujobTipJar.swift; sourceTree = "<group>"; };
+		5C1A7E0A2F00000000000011 /* JujobPro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JujobPro.swift; sourceTree = "<group>"; };
+		5C1A7E0A2F00000000000013 /* ProPaywallView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProPaywallView.swift; sourceTree = "<group>"; };
+		5C1A7E0A2F00000000000015 /* Products.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Products.storekit; sourceTree = "<group>"; };
 		D978FD6BE64D25AB5BAA12BC /* CheerIntents.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CheerIntents.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -167,6 +172,7 @@
 				581A099F2A532289004F2DBA /* Jujob.entitlements */,
 				581A09952A53227B004F2DBA /* Assets.xcassets */,
 				5C1000000000000000000001 /* Localizable.xcstrings */,
+				5C1A7E0A2F00000000000015 /* Products.storekit */,
 				5C1000000000000000000002 /* Quotes.xcstrings */,
 				5C1000000000000000000003 /* InfoPlist.xcstrings */,
 				5C1000000000000000000004 /* Version.xcconfig */,
@@ -230,6 +236,7 @@
 				581A09C72A53274D004F2DBA /* AppConfig.swift */,
 				581A09912A53227A004F2DBA /* JujobApp.swift */,
 				5C1A7E0A2F00000000000001 /* JujobTipJar.swift */,
+				5C1A7E0A2F00000000000011 /* JujobPro.swift */,
 			);
 			path = AppDelegate;
 			sourceTree = "<group>";
@@ -249,6 +256,7 @@
 				581A0A052B6F3403004F2DBA /* HistoryView.swift */,
 				581A0A072B6F3404004F2DBA /* AchievementsView.swift */,
 				581A0A092B6F3405004F2DBA /* UserNameSettingView.swift */,
+				5C1A7E0A2F00000000000013 /* ProPaywallView.swift */,
 			);
 			path = AppContentViews;
 			sourceTree = "<group>";
@@ -392,6 +400,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				581A09D42A532760004F2DBA /* LocalPhotoGallery.swift in Sources */,
+				5C1A7E0A2F00000000000012 /* JujobPro.swift in Sources */,
+				5C1A7E0A2F00000000000014 /* ProPaywallView.swift in Sources */,
 				581A09BE2A53238E004F2DBA /* WidgetManager.swift in Sources */,
 				581A09D62A532760004F2DBA /* FontsListView.swift in Sources */,
 				581A09BD2A53238E004F2DBA /* QuotesManager.swift in Sources */,

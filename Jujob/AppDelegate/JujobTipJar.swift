@@ -2,14 +2,14 @@
 //  JujobTipJar.swift
 //  Jujob
 //
-//  개발자 응원하기(팁)와 백업 금고. LeeoKit 은 이 둘에만 쓴다.
+//  앱의 계약(JujobSpec), 개발자 응원하기(팁), 백업 금고.
 //
 
 import SwiftUI
 import LeeoKit
 
 /// ⚠️ 여기서 bootstrap · 피드백 · 분석을 켜지 않는다 — 계약을 채우는 값일 뿐이다.
-/// 도는 것은 백업 금고 하나(`LeeoVault.start`, JujobApp)뿐이다.
+/// 도는 것은 백업 금고(`LeeoVault.start`), 팁, Pro(`JujobPro`) 셋이다 (→ JujobApp).
 enum JujobSpec: LeeoAppSpec {
     static let appName = "오늘의 주접"
     static let developerEmail = "leeo@kakao.com"
@@ -21,11 +21,24 @@ enum JujobSpec: LeeoAppSpec {
         privacyURL: URL(string: "https://m1zz.github.io/Jujob/ko/privacy.html")!,
         supportURL: URL(string: "https://m1zz.github.io/Jujob/ko/support.html")!
     )
-    static let monetization = LeeoMonetization.paidUpfront
+    /// **주접은 전부 무료, 위젯을 내 홈 화면에 어울리게 꾸미는 것은 Pro.**
+    ///
+    /// 무료 · Pro 두 칸. Pro 는 주 · 월 · 연 구독(한 구독 그룹)과 평생, 구독 졸업 평생.
+    /// 무엇이 열리는지는 `ProGate`, 상품 ID 는 `ProProduct`, 열려 있는지는 `JujobPro.isOpen` 한 곳에 있다.
+    /// 유료 다운로드(₩3,300)였던 1.0.5(빌드 5)까지 받은 사람은 Pro 평생이다(`JujobPro.lastPaidBuild`).
+    static let monetization = LeeoMonetization.freemiumSubscription(
+        LeeoSubscriptionConfig(
+            productIDs: ProProduct.all,
+            // 자체 약관이 없으므로 애플 표준 사용권 계약(EULA)을 건다.
+            termsURL: URL(string: "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/")!,
+            gate: LeeoGatePolicy(proOnly: Set(ProGate.allCases.map(\.rawValue))),
+            cacheSuiteName: "group.com.leeo.JuJob"))
 
     /// 백업 금고가 함께 떠 두는 공유 저장소 (위젯과 나누는 설정 · 기록).
     static let appGroups = ["group.com.leeo.JuJob"]
-    /// 고마운 사람이 조금 더 내고 싶을 때 내는 곳. 소모성 상품 셋, 작은 것부터. 기능을 열지 않는다.
+    /// 고마운 사람이 조금 더 내고 싶을 때 내는 곳. 소모성 상품 셋, 작은 것부터.
+    /// Pro 의 LeeoStore 와 따로 혼자 받는다 — 지금까지 센 팁이 이 기기의 기본 저장소에 있다.
+    /// ⚠️ 기능을 여는 상품이 아니다 — `ProProduct` 에 넣지 않는다.
     @MainActor static let tipJar = LeeoTipJar(config: LeeoTipJarConfig(productIDs: [
         "com.leeo.JuJob.tip.small",
         "com.leeo.JuJob.tip.medium",

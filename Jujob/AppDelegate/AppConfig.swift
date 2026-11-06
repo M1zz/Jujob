@@ -14,15 +14,6 @@ class AppConfig {
     /// App Group name/id
     static let appGroupId: String = "group.com.leeo.JuJob"
     
-    /// Premium version details
-    static let productId: String = "proVersion"
-    
-    /// How many categories can user select for free version
-    static let freeCategoriesSelectionCount: Int = 2
-    
-    /// This is for testing purposes only. Set it to `true` if you want to bypass the in-app purchases or remove in-app purchases completely
-    static let bypassInAppPurchases: Bool = false
-    
     /// Show scheduled quotes in the logs. You must run the `QuotesWidgetExtension`
     static let showScheduledQuotesLogs: Bool = false
 }

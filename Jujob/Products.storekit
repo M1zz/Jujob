@@ -1,0 +1,211 @@
+{
+  "identifier": "C54A84D8-86C7-4492-96E7-13809A0191AE",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "17.99",
+      "familyShareable": true,
+      "internalID": "7B6A5287-6BAD-4281-B40F-05D2593F0E71",
+      "localizations": [
+        {
+          "description": "Fonts, backgrounds, colors and line spacing",
+          "displayName": "Daily Hype Pro (Lifetime)",
+          "locale": "en_US"
+        },
+        {
+          "description": "글꼴 · 배경 이미지 · 색 · 행간 꾸미기",
+          "displayName": "오늘의 주접 Pro (평생)",
+          "locale": "ko_KR"
+        }
+      ],
+      "productID": "com.leeo.JuJob.pro.lifetime",
+      "referenceName": "Daily Hype Pro Lifetime",
+      "type": "NonConsumable"
+    },
+    {
+      "displayPrice": "11.99",
+      "familyShareable": true,
+      "internalID": "F621AC3B-F87F-45AB-8463-1BDE41CF8A06",
+      "localizations": [
+        {
+          "description": "Lifetime price for subscribers",
+          "displayName": "Daily Hype Pro (Graduation)",
+          "locale": "en_US"
+        },
+        {
+          "description": "구독하신 분께 드리는 평생가",
+          "displayName": "오늘의 주접 Pro (구독 졸업)",
+          "locale": "ko_KR"
+        }
+      ],
+      "productID": "com.leeo.JuJob.pro.graduate",
+      "referenceName": "Daily Hype Pro Graduate",
+      "type": "NonConsumable"
+    },
+    {
+      "displayPrice": "0.99",
+      "familyShareable": false,
+      "internalID": "C455B0FC-4B49-480F-BDF3-2679541A62F4",
+      "localizations": [
+        {
+          "description": "Thanks the developer. Unlocks nothing.",
+          "displayName": "Small tip",
+          "locale": "en_US"
+        },
+        {
+          "description": "기능은 그대로, 개발자에게 응원을",
+          "displayName": "작은 응원",
+          "locale": "ko_KR"
+        }
+      ],
+      "productID": "com.leeo.JuJob.tip.small",
+      "referenceName": "Tip small",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "6CC0CAC3-EEEB-4D32-B82D-8E289D3E9F9F",
+      "localizations": [
+        {
+          "description": "Thanks the developer. Unlocks nothing.",
+          "displayName": "Kind tip",
+          "locale": "en_US"
+        },
+        {
+          "description": "기능은 그대로, 개발자에게 응원을",
+          "displayName": "따뜻한 응원",
+          "locale": "ko_KR"
+        }
+      ],
+      "productID": "com.leeo.JuJob.tip.medium",
+      "referenceName": "Tip medium",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "9.99",
+      "familyShareable": false,
+      "internalID": "CBFBE699-3234-40CB-BCFE-CE82031EDC00",
+      "localizations": [
+        {
+          "description": "Thanks the developer. Unlocks nothing.",
+          "displayName": "Generous tip",
+          "locale": "en_US"
+        },
+        {
+          "description": "기능은 그대로, 개발자에게 응원을",
+          "displayName": "큰 응원",
+          "locale": "ko_KR"
+        }
+      ],
+      "productID": "com.leeo.JuJob.tip.large",
+      "referenceName": "Tip large",
+      "type": "Consumable"
+    }
+  ],
+  "settings": {
+    "_failTransactionsEnabled": false,
+    "_lastSynchronizedDate": 0,
+    "_locale": "en_US",
+    "_storefront": "USA",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [
+    {
+      "id": "E895B1F2-CEEE-4C2C-BDD3-F25D5CA4A3A2",
+      "localizations": [],
+      "name": "Daily Hype Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "5.99",
+          "familyShareable": true,
+          "groupNumber": 1,
+          "internalID": "4F81AAA3-7AA4-4293-B60D-2965D2881A67",
+          "localizations": [
+            {
+              "description": "Fonts, backgrounds, colors and line spacing",
+              "displayName": "Daily Hype Pro (Yearly)",
+              "locale": "en_US"
+            },
+            {
+              "description": "글꼴 · 배경 이미지 · 색 · 행간 꾸미기",
+              "displayName": "오늘의 주접 Pro (연)",
+              "locale": "ko_KR"
+            }
+          ],
+          "productID": "com.leeo.JuJob.pro.yearly",
+          "recurringSubscriptionPeriod": "P1Y",
+          "referenceName": "Daily Hype Pro Yearly",
+          "subscriptionGroupID": "E895B1F2-CEEE-4C2C-BDD3-F25D5CA4A3A2",
+          "type": "RecurringSubscription",
+          "winbackOffers": [],
+          "introductoryOffer": {
+            "displayPrice": "2.99",
+            "internalID": "4A7E37C2-7A47-4B07-A4F6-21853703BEB8",
+            "numberOfPeriods": 1,
+            "paymentMode": "payUpFront",
+            "subscriptionPeriod": "P1Y"
+          }
+        },
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": true,
+          "groupNumber": 1,
+          "internalID": "75CE810E-87E5-484E-A719-31EB8643DD8B",
+          "localizations": [
+            {
+              "description": "Fonts, backgrounds, colors and line spacing",
+              "displayName": "Daily Hype Pro (Monthly)",
+              "locale": "en_US"
+            },
+            {
+              "description": "글꼴 · 배경 이미지 · 색 · 행간 꾸미기",
+              "displayName": "오늘의 주접 Pro (월)",
+              "locale": "ko_KR"
+            }
+          ],
+          "productID": "com.leeo.JuJob.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Daily Hype Pro Monthly",
+          "subscriptionGroupID": "E895B1F2-CEEE-4C2C-BDD3-F25D5CA4A3A2",
+          "type": "RecurringSubscription",
+          "winbackOffers": []
+        },
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "0.99",
+          "familyShareable": true,
+          "groupNumber": 1,
+          "internalID": "7FA19BAE-5ABB-4F2E-A6F4-9D2D1E7898E2",
+          "localizations": [
+            {
+              "description": "Fonts, backgrounds, colors and line spacing",
+              "displayName": "Daily Hype Pro (Weekly)",
+              "locale": "en_US"
+            },
+            {
+              "description": "글꼴 · 배경 이미지 · 색 · 행간 꾸미기",
+              "displayName": "오늘의 주접 Pro (주)",
+              "locale": "ko_KR"
+            }
+          ],
+          "productID": "com.leeo.JuJob.pro.weekly",
+          "recurringSubscriptionPeriod": "P1W",
+          "referenceName": "Daily Hype Pro Weekly",
+          "subscriptionGroupID": "E895B1F2-CEEE-4C2C-BDD3-F25D5CA4A3A2",
+          "type": "RecurringSubscription",
+          "winbackOffers": []
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}

@@ -24,7 +24,7 @@ struct JujobApp: App {
                 .onReceive(NotificationCenter.default.publisher(for: UIApplication.willResignActiveNotification)) { _ in
                     WidgetCenter.shared.reloadAllTimelines()
                 }
-                // 팁 상품을 불러오고 끝나지 않은 팁을 마저 센다 (LeeoStore 없이 혼자)
+                // 팁 상품을 불러오고 끝나지 않은 팁을 마저 센다 (팁은 Pro 의 LeeoStore 와 따로 혼자)
                 .task { await JujobSpec.tipJar.startStandalone() }
                 // 즐겨찾기한 주접을 Spotlight 에 맞춘다 — 켤 때 한 번, 바꿀 때마다 (→ CheerIntents.swift)
                 .onReceive(UserPreferencesManager.shared.$favoriteQuotes) { FavoriteCheerEntity.reindex($0) }

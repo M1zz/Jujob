@@ -9,12 +9,13 @@ import SwiftUI
 import LeeoKit
 
 /// Custom presentation mode
-enum PresentationType: Identifiable {
+enum PresentationType: Identifiable, Hashable {
     case photoPicker
     case fontPicker
     case categoryPicker
     case tutorial
-    case purchases
+    case paywall(ProMoment)
+    case graduation
     case moodSelection
     case favorites
     case history
@@ -33,6 +34,8 @@ enum GuideAlert: String, Identifiable {
 /// Main screen for the app
 struct MainContentView: View {
     @ObservedObject var manager: WidgetManager
+    @ObservedObject private var pro = JujobPro.shared
+    @Environment(\.scenePhase) private var scenePhase
     @State private var actionSheet: PresentationType?
     @State private var guideAlert: GuideAlert?
     // 아이폰 듀오: 펴면 왼쪽(세로면 아래) 꾸미기 | 오른쪽(위) 위젯 미리보기 (LeeoKit Fold)
@@ -57,8 +60,10 @@ struct MainContentView: View {
                     FontsListView(manager: manager)
                 case .categoryPicker:
                     CategoriesListView(manager: manager)
-                case .purchases:
-                    Text("premium")
+                case .paywall(let moment):
+                    ProPaywallView(moment: moment)
+                case .graduation:
+                    ProGraduationSheet().onAppear { pro.markGraduationOffered() }
                 case .moodSelection:
                     MoodSelectionView(manager: manager)
                 case .favorites:
@@ -78,6 +83,15 @@ struct MainContentView: View {
         .onReceive(JujobRouter.shared.$showFavorites.filter { $0 }) { _ in
             JujobRouter.shared.showFavorites = false
             actionSheet = .favorites
+        }
+        // 페이월은 여기 한 곳에서만 뜬다. 글꼴 목록 같은 다른 시트에서 불러도 그 시트를 페이월로 바꿔 띄운다.
+        .onReceive(pro.paywallRequests) { actionSheet = .paywall($0) }
+        .onReceive(pro.graduationRequests) { if actionSheet == nil { actionSheet = .graduation } }
+        // 권한이 바뀌면 미리보기도 같은 모양으로 그린다 (위젯에는 JujobPro 가 App Group 으로 비춘다).
+        .onReceive(pro.$isOpen) { manager.isPremiumUser = $0 }
+        // 켤 때와 다시 앞에 올 때마다 영수증 · 상품을 다시 읽는다. 구독 졸업 때가 됐으면 여기서 뜬다.
+        .onChange(of: scenePhase, initial: true) { _, phase in
+            if phase == .active { Task { await pro.refresh() } }
         }
         .onAppear {
             primaryColor = manager.gradientColors.first!
@@ -102,7 +116,8 @@ struct MainContentView: View {
         manager.currentQuote = quote
         let sheets: [String: PresentationType] = [
             "mood": .moodSelection, "favorites": .favorites, "history": .history,
-            "achievements": .achievements, "name": .userNameSetting
+            "achievements": .achievements, "name": .userNameSetting,
+            "paywall": .paywall(.font("Marker Felt")), "paywallStreak": .paywall(.streak)
         ]
         DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) { actionSheet = sheets[screen] }
     }
@@ -196,6 +211,8 @@ struct MainContentView: View {
                 NewFeatures
                 Spacer(minLength: 40)
                 DetailedSettings
+                Spacer(minLength: 40)
+                ProSection
                 Spacer(minLength: 40)
                 DeveloperContact
                 Spacer(minLength: 50)
@@ -331,13 +348,17 @@ struct MainContentView: View {
             .padding(.bottom, 10)
 
             VStack(spacing: 20) {
-                HStack(spacing: 20) {
-                    ColorPicker("그라데이션 색", selection: $primaryColor).onChange(of: primaryColor) {  _, newValue in
-                        manager.selectedBackgroundColor = [newValue, secondaryColor]
+                if pro.isOpen {
+                    HStack(spacing: 20) {
+                        ColorPicker("그라데이션 색", selection: $primaryColor).onChange(of: primaryColor) {  _, newValue in
+                            manager.selectedBackgroundColor = [newValue, secondaryColor]
+                        }
+                        ColorPicker("그라데이션 끝 색", selection: $secondaryColor).labelsHidden().onChange(of: secondaryColor) { _, newValue in
+                            manager.selectedBackgroundColor = [primaryColor, newValue]
+                        }
                     }
-                    ColorPicker("그라데이션 끝 색", selection: $secondaryColor).labelsHidden().onChange(of: secondaryColor) { _, newValue in
-                        manager.selectedBackgroundColor = [primaryColor, newValue]
-                    }
+                } else {
+                    LockedRow(title: "그라데이션 색") { pro.present(.colors) }
                 }
                 Divider().background(Color.white)
                 HStack {
@@ -353,18 +374,20 @@ struct MainContentView: View {
                     .accessibilityLabel(Text("배경이미지 삭제"))
                     .padding(.trailing, 15)
                     
+                    if !pro.isOpen {
+                        ProBadge().padding(.trailing, 10)
+                    }
+
                     Button(action: {
-                        
-                        actionSheet = .photoPicker
-                        //                        if manager.isPremiumUser {
-                        //
-                        //                        } else {
-                        //                            actionSheet = .purchases
-                        //                        }
+                        if pro.isOpen {
+                            actionSheet = .photoPicker
+                        } else {
+                            pro.present(.backgroundImage)
+                        }
                     }, label: {
                         VStack {
-                            if !manager.backgroundImageName.isEmpty {
-                                Image(uiImage: UIImage(named: manager.backgroundImageName)!)
+                            if let image = UIImage(named: manager.displayBackgroundImageName) {
+                                Image(uiImage: image)
                                     .resizable()
                                     .aspectRatio(contentMode: .fill)
                                     .cornerRadius(10)
@@ -405,21 +428,28 @@ struct MainContentView: View {
                     Button(action: {
                         actionSheet = .fontPicker
                     }, label: {
-                        Text(manager.selectedFont).bold()
+                        Text(manager.displayFont).bold()
                     })
                 }
                 Divider().background(Color.white)
-                HStack {
-                    Text("행간")
-                    Spacer()
-                        .frame(width: 70)
-                    Slider(value: $manager.selectedTextLineSpacing, in: 0...40)
-                        .accessibilityLabel(Text("행간"))
-                        .accessibilityValue(Text(verbatim: "\(Int(manager.selectedTextLineSpacing))"))
-                        
+                if pro.isOpen {
+                    HStack {
+                        Text("행간")
+                        Spacer()
+                            .frame(width: 70)
+                        Slider(value: $manager.selectedTextLineSpacing, in: 0...40)
+                            .accessibilityLabel(Text("행간"))
+                            .accessibilityValue(Text(verbatim: "\(Int(manager.selectedTextLineSpacing))"))
+                    }
+                } else {
+                    LockedRow(title: "행간") { pro.present(.lineSpacing) }
                 }
                 Divider().background(Color.white)
-                ColorPicker("글자 색", selection: $manager.selectedTextColor)
+                if pro.isOpen {
+                    ColorPicker("글자 색", selection: $manager.selectedTextColor)
+                } else {
+                    LockedRow(title: "글자 색") { pro.present(.colors) }
+                }
                 Divider().background(Color.white)
                 TextAlignmentPicker(selection: $textAlignmentIndex, manager: manager)
             }
@@ -475,6 +505,17 @@ struct MainContentView: View {
             }
             .padding()
             .background(RoundedRectangle(cornerRadius: 15).foregroundColor(Color(#colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1))))
+        }
+    }
+
+    // MARK: - 오늘의 주접 Pro
+    private var ProSection: some View {
+        VStack {
+            createSectionHeader(title: String(localized: "오늘의 주접 Pro"))
+                .padding(.bottom, 10)
+            ProSettingsSection { actionSheet = .graduation }
+                .padding()
+                .background(RoundedRectangle(cornerRadius: 15).foregroundColor(Color(#colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1))))
         }
     }
 
@@ -572,6 +613,28 @@ struct FeatureButton: View {
                     .fill(Color(#colorLiteral(red: 0.1764705926, green: 0.1921568662, blue: 0.2078431398, alpha: 1)))
             )
         }
+    }
+}
+
+// MARK: - 잠긴 꾸밈 줄
+/// Pro 에서 열리는 꾸밈(색 · 행간)의 자리. 누르면 페이월이 뜬다.
+struct LockedRow: View {
+    let title: LocalizedStringKey
+    let action: () -> Void
+
+    var body: some View {
+        Button(action: action) {
+            HStack {
+                Text(title).foregroundColor(.white)
+                Spacer()
+                ProBadge()
+            }
+            .contentShape(Rectangle())
+        }
+        .accessibilityElement(children: .ignore)
+        .accessibilityLabel(Text(title))
+        .accessibilityValue(Text("Pro에서 열려요"))
+        .accessibilityAddTraits(.isButton)
     }
 }
 

@@ -11,7 +11,6 @@ import SwiftUI
 struct CategoriesListView: View {
     @ObservedObject var manager: WidgetManager
     @Environment(\.presentationMode) var presentation
-    @State private var showPurchases: Bool = false
     
     var body: some View {
         NavigationView {
@@ -31,9 +30,6 @@ struct CategoriesListView: View {
             }
             .navigationTitle("Select a category")
         }
-//        .sheet(isPresented: $showPurchases, content: {
-//            JujobApp.premiumScreen(manager)
-//        })
     }
     
     private var categories: [[String]] {
@@ -42,25 +38,15 @@ struct CategoriesListView: View {
     
     private func CategoryView(row: Int, item: Int) -> some View {
         let tileWidth = UIScreen.main.bounds.width / 2
-        let currentItem = categories[row][item]
-        let flatMapItems = categories.reduce([], +)
-        let isLocked = (flatMapItems.firstIndex(where: { $0 == currentItem }) ?? 0 >= AppConfig.freeCategoriesSelectionCount && !manager.isPremiumUser)
         return ZStack {
             Color(#colorLiteral(red: 0.8759310233, green: 0.8759310233, blue: 0.8759310233, alpha: 1))
             GeometryReader { _ in
                 Image(uiImage: UIImage(named: categories[row][item])!)
                     .resizable().aspectRatio(contentMode: .fill)
-                    .overlay(Color.black.opacity(isLocked ? 0.5 : 0))
                 LinearGradient(gradient: Gradient(colors: [Color.black.opacity(0.9), Color.black.opacity(0), Color.black.opacity(0)]), startPoint: .bottom, endPoint: .top).layoutPriority(1)
             }
             VStack {
                 Spacer()
-                if isLocked {
-                    Spacer()
-                    Image(systemName: "lock.fill").resizable().aspectRatio(contentMode: .fit)
-                        .frame(width: 30).foregroundColor(.white)
-                    Spacer()
-                }
                 Text(QuoteCategory(rawValue: categories[row][item])?.displayName ?? categories[row][item]).foregroundColor(.white).bold().padding()
             }
             VStack {
@@ -78,13 +64,9 @@ struct CategoriesListView: View {
         .contentShape(Rectangle())
         .clipped().cornerRadius(20)
         .onTapGesture(perform: {
-            if isLocked {
-                showPurchases = true
-            } else {
-                manager.currentQuoteCategory = QuoteCategory(rawValue: categories[row][item])!
-                manager.updateCurrentQuote()
-                presentation.wrappedValue.dismiss()
-            }
+            manager.currentQuoteCategory = QuoteCategory(rawValue: categories[row][item])!
+            manager.updateCurrentQuote()
+            presentation.wrappedValue.dismiss()
         })
     }
 }

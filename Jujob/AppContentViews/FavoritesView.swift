@@ -38,6 +38,16 @@ struct FavoritesView: View {
             .navigationTitle("즐겨찾기")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
+                // 즐겨찾기한 주접을 글로 내보내기 · 공유 (무료)
+                if !preferencesManager.favoriteQuotes.isEmpty {
+                    ToolbarItem(placement: .navigationBarLeading) {
+                        ShareLink(item: favoritesText) {
+                            Image(systemName: "square.and.arrow.up")
+                                .foregroundColor(.white)
+                        }
+                        .accessibilityLabel(Text("즐겨찾기 공유"))
+                    }
+                }
                 ToolbarItem(placement: .navigationBarTrailing) {
                     Button(action: {
                         presentationMode.wrappedValue.dismiss()
@@ -49,6 +59,13 @@ struct FavoritesView: View {
                 }
             }
         }
+    }
+
+    /// 즐겨찾기한 주접을 한 줄 띄워 이은 글. 이름을 넣었으면 '당신' 대신 그 이름으로.
+    private var favoritesText: String {
+        preferencesManager.favoriteQuotes.sorted()
+            .map { preferencesManager.customizeQuote($0) }
+            .joined(separator: "\n\n")
     }
 
     private var EmptyStateView: some View {

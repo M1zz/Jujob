@@ -11,6 +11,9 @@ import LeeoKit
 struct AchievementsView: View {
     @ObservedObject var preferencesManager = UserPreferencesManager.shared
     @Environment(\.presentationMode) var presentationMode
+    @ObservedObject private var pro = JujobPro.shared
+    /// 7일 연속 카드를 닫았는가. 한 번 닫으면 다시 서지 않는다.
+    @AppStorage("pro.streakCard.dismissed") private var streakCardDismissed = false
 
     var body: some View {
         NavigationView {
@@ -21,9 +24,13 @@ struct AchievementsView: View {
                 ScrollView {
                     VStack(spacing: 25) {
                         StreakSection
-                        // 주접을 받은 날이 쌓였을 때만, 드물게 응원을 부탁한다 (모달 아님)
-                        LeeoTipAskSlot<JujobSpec>(tipJar: JujobSpec.tipJar,
-                                                  reached: JujobTipMoments.reached(daysViewed: preferencesManager.dailyStreak.totalDaysViewed))
+                        if pro.hasPro {
+                            // 주접을 받은 날이 쌓였을 때만, 드물게 응원을 부탁한다 (모달 아님). 이미 Pro 를 가진 사람에게만.
+                            LeeoTipAskSlot<JujobSpec>(tipJar: JujobSpec.tipJar,
+                                                      reached: JujobTipMoments.reached(daysViewed: preferencesManager.dailyStreak.totalDaysViewed))
+                        } else if showsStreakProCard {
+                            StreakProCard
+                        }
                         AchievementsSection
                     }
                     .padding()
@@ -43,6 +50,53 @@ struct AchievementsView: View {
                 }
             }
         }
+    }
+
+    /// 7일 연속 기록 업적이 **오늘** 열렸고, 꾸밈이 잠겨 있으면 작은 카드 하나.
+    private var showsStreakProCard: Bool {
+        guard !pro.isOpen, !streakCardDismissed,
+              let unlocked = preferencesManager.achievements.first(where: { $0.id == "streak_7" })?.unlockedDate else { return false }
+        return Calendar.current.isDateInToday(unlocked)
+    }
+
+    /// 매일 챙겨 보는 습관이 된 날 — 오래 둘 위젯이니 한 번에 꾸며 두자는 작은 카드. 누르면 평생이 먼저 고른 페이월.
+    private var StreakProCard: some View {
+        HStack(alignment: .top, spacing: 12) {
+            Image(systemName: "trophy.fill")
+                .font(.title2)
+                .foregroundColor(.orange)
+                .accessibilityHidden(true)
+            VStack(alignment: .leading, spacing: 8) {
+                Text("7일 연속으로 주접을 받았어요")
+                    .font(.body.weight(.semibold))
+                    .foregroundColor(.white)
+                Text("오래 둘 위젯이니 내 홈 화면에 어울리게 꾸며 보세요.")
+                    .font(.body)
+                    .foregroundColor(.gray)
+                    .fixedSize(horizontal: false, vertical: true)
+                Button {
+                    streakCardDismissed = true
+                    pro.present(.streak)
+                } label: {
+                    Text("오늘의 주접 Pro 보기").font(.body.weight(.semibold))
+                }
+                .tint(.orange)
+            }
+            Spacer(minLength: 0)
+            Button {
+                streakCardDismissed = true
+            } label: {
+                Image(systemName: "xmark")
+                    .font(.body)
+                    .foregroundColor(.gray)
+            }
+            .accessibilityLabel(Text("닫기"))
+        }
+        .padding()
+        .background(
+            RoundedRectangle(cornerRadius: 15)
+                .fill(Color(#colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1)))
+        )
     }
 
     private var StreakSection: some View {

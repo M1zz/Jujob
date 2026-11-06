@@ -21,13 +21,7 @@ struct WidgetView: View {
         } else {
             // iOS 16 이하 또는 앱 내 프리뷰: 기존 방식
             ZStack {
-                LinearGradient(gradient: Gradient(colors: manager.selectedBackgroundColor), startPoint: .top, endPoint: .bottom)
-                if !manager.backgroundImageName.isEmpty {
-                    GeometryReader { _ in
-                        Image(uiImage: UIImage(named: manager.backgroundImageName)!)
-                            .resizable().aspectRatio(contentMode: .fill)
-                    }
-                }
+                WidgetBackground(manager: manager)
                 contentView
             }
         }
@@ -44,15 +38,15 @@ struct WidgetView: View {
                 Spacer().frame(height: 10)
                 Divider()
                 Text("— \(entry.quote?.author ?? manager.currentQuote.author)")
-                    .font(.custom(manager.selectedFont, size: manager.textFontSize / 1.5))
+                    .font(.custom(manager.displayFont, size: manager.textFontSize / 1.5))
             }
 
             Spacer()
         }
         .multilineTextAlignment(textAlignment)
-        .font(.custom(manager.selectedFont, size: manager.textFontSize))
-        .foregroundColor(manager.selectedTextColor)
-        .lineSpacing(manager.textLineSpacing ?? 0)
+        .font(.custom(manager.displayFont, size: manager.textFontSize))
+        .foregroundColor(manager.displayTextColor)
+        .lineSpacing(manager.displayLineSpacing)
         .minimumScaleFactor(0.2)
         .padding()
     }
@@ -66,6 +60,23 @@ struct WidgetView: View {
             return .trailing
         default:
             return .center
+        }
+    }
+}
+
+/// 위젯 배경: 그라데이션 위에 배경 이미지. Pro 권한이 없으면 기본 모양으로 그린다 (`WidgetManager.display…`).
+struct WidgetBackground: View {
+    @ObservedObject var manager: WidgetManager
+
+    var body: some View {
+        ZStack {
+            LinearGradient(gradient: Gradient(colors: manager.displayBackgroundColors), startPoint: .top, endPoint: .bottom)
+            if let image = UIImage(named: manager.displayBackgroundImageName) {
+                GeometryReader { _ in
+                    Image(uiImage: image)
+                        .resizable().aspectRatio(contentMode: .fill)
+                }
+            }
         }
     }
 }
@@ -86,18 +97,7 @@ struct WidgetView_Previews: PreviewProvider {
     static var previews: some View {
         if #available(iOS 17.0, *) {
             WidgetView(entry: QuoteEntry(date: Date(), quote: nil), manager: WidgetManager())
-                .containerBackground(for: .widget) {
-                    let manager = WidgetManager()
-                    ZStack {
-                        LinearGradient(gradient: Gradient(colors: manager.selectedBackgroundColor), startPoint: .top, endPoint: .bottom)
-                        if !manager.backgroundImageName.isEmpty {
-                            GeometryReader { _ in
-                                Image(uiImage: UIImage(named: manager.backgroundImageName)!)
-                                    .resizable().aspectRatio(contentMode: .fill)
-                            }
-                        }
-                    }
-                }
+                .containerBackground(for: .widget) { WidgetBackground(manager: WidgetManager()) }
                 .previewContext(WidgetPreviewContext(family: .systemSmall))
         } else {
             WidgetView(entry: QuoteEntry(date: Date(), quote: nil), manager: WidgetManager())

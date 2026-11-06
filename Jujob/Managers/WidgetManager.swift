@@ -47,8 +47,7 @@ class WidgetManager: WidgetConfigurator, ObservableObject {
     /// Default initializer will retrieve all configurations
     override init() {
         super.init()
-        isPremiumUser = UserDefaults.standard.bool(forKey: "isPremiumUser")
-        if AppConfig.bypassInAppPurchases { isPremiumUser = true }
+        isPremiumUser = UserDefaults(suiteName: AppConfig.appGroupId)?.object(forKey: Self.styleOpenKey) as? Bool ?? true
         retrieveSavedConfigurations()
     }
     
@@ -121,13 +120,34 @@ class WidgetManager: WidgetConfigurator, ObservableObject {
         }
     }
 
-    /// Determine if user purchased the pro version
-    @Published public var isPremiumUser: Bool = false {
-        didSet {
-            UserDefaults.standard.setValue(isPremiumUser, forKey: "isPremiumUser")
-            UserDefaults.standard.synchronize()
-        }
+    // MARK: - Pro 꾸밈 (글꼴 13종 · 배경 이미지 · 색 · 행간)
+
+    /// 꾸밈이 열려 있는가. **권한은 앱의 `JujobPro` 한 곳이 정하고** App Group 에 적는다 — 위젯은 그 값을 읽기만 한다.
+    /// 한 번도 적히지 않았으면 열린 것으로 본다. 업데이트 직후 앱을 열기 전에 이미 꾸민 위젯이 바뀌지 않게.
+    @Published public var isPremiumUser: Bool = true
+
+    /// App Group 에 적는 열림 값의 키.
+    static let styleOpenKey = "pro.styleOpen"
+
+    /// 무료로 쓰는 글꼴 3종 (`fonts` 의 앞 셋).
+    static let freeFontCount = 3
+
+    /// 무료 위젯의 모양 — 주황 그라데이션 · 흰 글자 · 기본 행간 · 배경 이미지 없음.
+    static let defaultBackgroundColors = [Color(#colorLiteral(red: 0.9529411793, green: 0.6862745285, blue: 0.1333333403, alpha: 1)), Color(#colorLiteral(red: 0.9529411793, green: 0.5576358299, blue: 0.1333333403, alpha: 1))]
+    static let defaultTextColor = Color.white
+
+    /// 이 글꼴이 Pro 에서만 열리는가.
+    func isFontLocked(_ font: String) -> Bool {
+        !isPremiumUser && !fonts.prefix(Self.freeFontCount).contains(font)
     }
+
+    // 위젯과 미리보기는 아래 값으로 그린다. 권한이 없어지면 **고른 값은 남기고** 기본 모양으로 그린다 —
+    // 다시 Pro 가 되면 고른 모양이 그대로 돌아온다.
+    var displayFont: String { isFontLocked(selectedFont) ? fonts[0] : selectedFont }
+    var displayBackgroundColors: [Color] { isPremiumUser ? selectedBackgroundColor : Self.defaultBackgroundColors }
+    var displayTextColor: Color { isPremiumUser ? selectedTextColor : Self.defaultTextColor }
+    var displayLineSpacing: Double { isPremiumUser ? selectedTextLineSpacing : 0 }
+    var displayBackgroundImageName: String { isPremiumUser ? backgroundImageName : "" }
     
     /// Hide Show quote author
     @Published public var showQuoteAuthor: Bool = false {

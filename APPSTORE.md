@@ -45,6 +45,8 @@ https://m1zz.github.io/Jujob/ko/index.html
 개인정보는 수집하지 않아요. 이름과 즐겨찾기 같은 정보는 내 기기 안에만 저장돼요.
 버그 제보와 기능 제안은 설정 화면에서 이메일이나 인스타그램으로 보내 주세요.
 
+무료로 받아 주접 281개와 위젯, 이름 넣기, 즐겨찾기, 연속 기록을 모두 써요. 글꼴 13종 전부, 배경 이미지, 배경 색과 글자 색 고르기, 행간 조절은 오늘의 주접 Pro(주 · 월 · 연 구독 또는 평생)예요. 무료로 바뀌기 전에 앱을 사신 분은 그대로 Pro예요.
+
 ## en
 
 ### 지원 URL
@@ -90,6 +92,8 @@ What you get
 Your privacy matters. The app collects no personal information, and things like your name and favorites stay on your device only.
 Bug reports and feature ideas are welcome from the settings screen, by email or Instagram.
 
+Download for free and get all 281 lines, the widget, your name, favorites and streaks. All 13 fonts, background images, your own background and text colors, and line spacing come with Daily Hype Pro (weekly, monthly, yearly or lifetime). If you bought the app before it went free, Pro is already yours.
+
 ## en-GB
 
 ### 지원 URL
@@ -134,6 +138,8 @@ What you get
 
 No personal data is collected. Your name, favourites and history stay on your device and nowhere else.
 Found a bug or have a bright idea? Send it by email or Instagram from the Settings screen. We would love to hear from you.
+
+Download for free and get all 281 lines, the widget, your name, favourites and streaks. All 13 fonts, background images, your own background and text colours, and line spacing come with Daily Gush Pro (weekly, monthly, yearly or lifetime). If you bought the app before it went free, Pro is already yours.
 
 ## zh-Hans
 
@@ -182,6 +188,8 @@ https://m1zz.github.io/Jujob/zh-Hans/index.html
 不收集任何个人信息。名字、收藏等数据只保存在你的设备里。
 遇到问题或有好点子，欢迎在设置页通过邮件或Instagram告诉我们。
 
+免费下载即可使用全部281句彩虹屁、小组件、填名字、收藏和连续记录。全部13种字体、背景图片、自选背景色和文字颜色、行距调整属于今日彩虹屁 Pro（按周、按月、按年订阅或永久买断）。在改为免费之前买过本应用的用户，直接享有 Pro。
+
 ## zh-Hant
 
 ### 지원 URL
@@ -226,6 +234,8 @@ https://m1zz.github.io/Jujob/zh-Hant/index.html
 
 不蒐集任何個人資料。名字、我的最愛等資訊只存放在你的裝置裡。
 遇到問題或有想法，歡迎在設定頁用電子郵件或 Instagram 告訴開發者。
+
+免費下載即可使用全部281句彩虹屁、小工具、填名字、我的最愛和連續紀錄。全部13種字型、背景圖片、自選背景色和文字顏色、行距調整屬於今日彩虹屁 Pro（按週、按月、按年訂閱或永久買斷）。在改為免費之前買過本 App 的人，直接享有 Pro。
 
 ## ja
 
@@ -272,6 +282,8 @@ https://m1zz.github.io/Jujob/ja/index.html
 個人情報は収集しません。名前やお気に入りなどの情報は、お使いの端末の中にだけ保存されます。
 不具合の報告や機能のご提案は、設定画面からメールまたはInstagramでお送りください。
 
+無料でダウンロードして、281のほめちぎり、ウィジェット、名前の挿入、お気に入り、連続記録がすべて使えます。13種すべてのフォント、背景画像、背景色と文字色の選択、行間の調整は今日のほめちぎり Pro（週額・月額・年額または買い切り）です。無料になる前にアプリを購入した方は、そのままProです。
+
 ## ru
 
 ### 지원 URL
@@ -316,6 +328,8 @@ https://m1zz.github.io/Jujob/ru/index.html
 
 Мы не собираем личные данные. Имя, избранное и настройки хранятся только на вашем устройстве.
 Нашли ошибку или есть идея? Напишите разработчику прямо из настроек: на почту или в Instagram.
+
+Скачайте бесплатно и пользуйтесь всеми 281 одами, виджетом, своим именем, избранным и сериями. Все 13 шрифтов, фоновые фото, свой цвет фона и текста и интервал строк входят в Ода дня Pro (подписка на неделю, месяц или год либо покупка навсегда). Если вы купили приложение до того, как оно стало бесплатным, Pro уже ваш.
 
 ## es
 
@@ -363,6 +377,8 @@ Qué puedes hacer
 Tu privacidad importa: la app no recoge ningún dato personal. Tu nombre, tus favoritos y tus ajustes se quedan solo en tu dispositivo.
 ¿Has encontrado un error o tienes una idea? Escríbenos desde los ajustes, por correo o por Instagram.
 
+Descárgala gratis y disfruta de los 281 piropos, el widget, tu nombre, los favoritos y las rachas. Las 13 fuentes, las imágenes de fondo, el color de fondo y de texto a tu gusto y el interlineado vienen con Piropo del Día Pro (semanal, mensual, anual o para siempre). Si compraste la app antes de que fuera gratis, ya tienes Pro.
+
 ## de
 
 ### 지원 URL
@@ -407,6 +423,8 @@ Das kann die App
 
 Datenschutz ist uns wichtig: Die App sammelt keine persönlichen Daten. Name, Favoriten und Einstellungen bleiben ausschließlich auf deinem Gerät.
 Fehler gemeldet, Idee gehabt? Schreib uns in den Einstellungen per E-Mail oder auf Instagram.
+
+Kostenlos laden und alle 281 Sprüche, das Widget, deinen Namen, Favoriten und Serien nutzen. Alle 13 Schriften, Hintergrundbilder, eigene Hintergrund- und Schriftfarbe sowie der Zeilenabstand gehören zu Hype des Tages Pro (wöchentlich, monatlich, jährlich oder für immer). Wer die App gekauft hat, bevor sie kostenlos wurde, hat Pro bereits.
 
 ## fr
 
@@ -453,6 +471,8 @@ Ce que tu peux faire
 Zéro collecte de données personnelles. Ton prénom et tes favoris restent uniquement sur ton appareil.
 Un bug, une idée ? Écris-nous par e-mail ou sur Instagram depuis les réglages.
 
+Télécharge-la gratuitement et profite des 281 compliments, du widget, de ton prénom, des favoris et des séries. Les 13 polices, les images de fond, les couleurs du fond et du texte au choix et l'interligne font partie de Trop Fan de Toi Pro (à la semaine, au mois, à l'année ou à vie). Si tu as acheté l'app avant qu'elle devienne gratuite, Pro est déjà à toi.
+
 ## it
 
 ### 지원 URL
@@ -497,6 +517,8 @@ Cosa trovi
 
 Nessun dato personale viene raccolto. Nome, preferiti e impostazioni restano solo sul dispositivo.
 Per segnalare un bug o proporre un'idea, scrivi via email o Instagram dalle impostazioni.
+
+Scaricala gratis e usa tutti i 281 complimenti, il widget, il tuo nome, i preferiti e i giorni di fila. Tutti i 13 font, le immagini di sfondo, i colori di sfondo e testo a scelta e l'interlinea sono inclusi in Overdose di Complimenti Pro (settimanale, mensile, annuale o a vita). Se hai comprato l'app prima che diventasse gratuita, Pro è già tuo.
 
 ## pt-BR
 
@@ -543,6 +565,8 @@ O que tem no app
 Privacidade em primeiro lugar: o app não coleta nenhum dado pessoal. Seu nome, seus favoritos e seus ajustes ficam guardados só no seu aparelho.
 Achou um bug ou tem uma ideia? Mande por e-mail ou Instagram direto pelos ajustes do app.
 
+Baixe de graça e use todos os 281 elogios, o widget, seu nome, os favoritos e as sequências. Todas as 13 fontes, imagens de fundo, cor do fundo e do texto à sua escolha e a entrelinha fazem parte do Elogio Exagerado Pro (semanal, mensal, anual ou vitalício). Se você comprou o app antes de ele ficar grátis, o Pro já é seu.
+
 ## th
 
 ### 지원 URL
@@ -587,6 +611,8 @@ https://m1zz.github.io/Jujob/th/index.html
 
 เราไม่เก็บข้อมูลส่วนตัวของคุณ ชื่อ รายการโปรด และข้อมูลอื่นๆ จะอยู่ในเครื่องของคุณเท่านั้น
 แจ้งบั๊กหรือเสนอฟีเจอร์ได้ทางอีเมลหรืออินสตาแกรมจากหน้าตั้งค่า
+
+ดาวน์โหลดฟรีแล้วใช้คำชม 281 ประโยค วิดเจ็ต การใส่ชื่อ รายการโปรด และสถิติต่อเนื่องได้ทั้งหมด ฟอนต์ครบ 13 แบบ รูปพื้นหลัง การเลือกสีพื้นหลังและสีตัวอักษร และการปรับระยะบรรทัด อยู่ใน ชมเว่อร์ทุกวัน Pro (รายสัปดาห์ รายเดือน รายปี หรือตลอดชีพ) ใครซื้อแอปไว้ก่อนเปลี่ยนเป็นฟรี ได้ Pro ไปเลย
 
 ## vi
 
@@ -633,6 +659,8 @@ Tính năng chính
 Ứng dụng không thu thập dữ liệu cá nhân. Tên, mục yêu thích và mọi thông tin khác chỉ nằm trong thiết bị của bạn.
 Báo lỗi và góp ý qua email hoặc Instagram ngay trong phần Cài đặt nhé.
 
+Tải miễn phí và dùng toàn bộ 281 câu khen, widget, gắn tên, mục yêu thích và chuỗi ngày. Đủ 13 phông chữ, ảnh nền, tự chọn màu nền và màu chữ, chỉnh giãn dòng có trong Khen Lố Mỗi Ngày Pro (theo tuần, tháng, năm hoặc trọn đời). Nếu bạn đã mua ứng dụng trước khi chuyển sang miễn phí, Pro đã là của bạn.
+
 ## cs
 
 ### 지원 URL
@@ -677,6 +705,8 @@ Co v aplikaci najdeš
 
 Osobní údaje nesbíráme. Jméno, oblíbené a další data zůstávají jen v tvém zařízení.
 Chyby a nápady na vylepšení nám pošli e-mailem nebo přes Instagram přímo z nastavení.
+
+Stáhněte si ji zdarma a používejte všech 281 hlášek, widget, své jméno, oblíbené i série. Všech 13 písem, obrázky na pozadí, vlastní barva pozadí a písma a řádkování jsou součástí Pochvala dne Pro (týdně, měsíčně, ročně nebo navždy). Kdo si aplikaci koupil dřív, než byla zdarma, má Pro.
 
 ## da
 
@@ -723,6 +753,8 @@ Det kan appen
 Dit privatliv er helt i fred. Appen indsamler ingen personlige oplysninger, og dit navn og dine favoritter bliver kun på din egen enhed.
 Har du en fejl at melde eller et forslag? Skriv en e-mail eller en besked på Instagram fra indstillinger.
 
+Hent den gratis og brug alle 281 roser, widgetten, dit navn, favoritter og striber. Alle 13 skrifttyper, baggrundsbilleder, egen baggrunds- og tekstfarve og linjeafstand følger med Dagens Ros Pro (ugentligt, månedligt, årligt eller livstid). Købte du appen, før den blev gratis, har du allerede Pro.
+
 ## el
 
 ### 지원 URL
@@ -767,6 +799,8 @@ widget,κομπλιμέντα,κίνητρο,αυτοπεποίθηση,θετι
 
 Η ιδιωτικότητά σου μένει ανέγγιχτη. Δεν συλλέγουμε προσωπικά δεδομένα, και ό,τι αποθηκεύεται, όπως το όνομα και τα αγαπημένα, μένει μόνο στη συσκευή σου.
 Για σφάλματα και ιδέες, γράψε μας από τις ρυθμίσεις με email ή Instagram.
+
+Κατέβασέ την δωρεάν και χρησιμοποίησε και τα 281 παινέματα, το widget, το όνομά σου, τα αγαπημένα και τα σερί. Και οι 13 γραμματοσειρές, οι εικόνες φόντου, το δικό σου χρώμα φόντου και κειμένου και το διάστιχο είναι στο Το Παίνεμα της Ημέρας Pro (εβδομαδιαία, μηνιαία, ετήσια ή εφ' όρου ζωής). Αν αγόρασες την εφαρμογή πριν γίνει δωρεάν, το Pro είναι ήδη δικό σου.
 
 ## fi
 
@@ -814,6 +848,8 @@ Ominaisuudet
 Yksityisyys on meille tärkeää. Sovellus ei kerää mitään henkilötietoja. Nimesi, suosikkisi ja muut tiedot pysyvät vain omalla laitteellasi.
 Virheilmoitukset ja kehitysideat voit lähettää asetuksista sähköpostilla tai Instagramissa.
 
+Lataa ilmaiseksi ja käytä kaikkia 281 hehkutusta, widgetiä, omaa nimeäsi, suosikkeja ja putkia. Kaikki 13 fonttia, taustakuvat, omat taustan ja tekstin värit sekä riviväli kuuluvat Päivän hehkutus Prohon (viikko, kuukausi, vuosi tai ikuinen). Jos ostit sovelluksen ennen kuin siitä tuli ilmainen, Pro on jo sinun.
+
 ## id
 
 ### 지원 URL
@@ -858,6 +894,8 @@ Fitur utama
 
 Privasi aman. Aplikasi ini tidak mengumpulkan data pribadi apa pun. Nama, favorit, dan pengaturan cuma tersimpan di perangkatmu.
 Ada bug atau ide fitur? Kirim lewat email atau Instagram dari layar pengaturan.
+
+Unduh gratis dan pakai semua 281 pujian, widget, nama sendiri, favorit, dan rekor beruntun. Semua 13 font, gambar latar, warna latar dan teks pilihanmu, serta jarak baris ada di Pujian Lebay Harian Pro (mingguan, bulanan, tahunan, atau seumur hidup). Kalau kamu membeli aplikasinya sebelum jadi gratis, Pro sudah jadi milikmu.
 
 ## nb
 
@@ -904,6 +942,8 @@ Dette får du
 Personvern er enkelt. Appen samler ikke inn noe om deg, og alt du lagrer ligger bare på din egen enhet.
 Feil og ideer kan du sende på e-post eller Instagram fra innstillinger i appen.
 
+Last ned gratis og bruk alle 281 skryt, widgeten, navnet ditt, favoritter og dagsrekker. Alle 13 skrifttyper, bakgrunnsbilder, egen bakgrunns- og tekstfarge og linjeavstand følger med Dagens skryt Pro (ukentlig, månedlig, årlig eller livstid). Kjøpte du appen før den ble gratis, har du allerede Pro.
+
 ## nl
 
 ### 지원 URL
@@ -948,6 +988,8 @@ Wat je kunt doen
 
 Je privacy blijft van jou. De app verzamelt geen persoonlijke gegevens. Je naam, favorieten en instellingen blijven alleen op je eigen toestel.
 Bugs of ideeën? Stuur ze via Instellingen per mail of Instagram naar de maker.
+
+Download gratis en gebruik alle 281 hypes, de widget, je naam, favorieten en reeksen. Alle 13 lettertypen, achtergrondfoto's, je eigen achtergrond- en tekstkleur en regelafstand horen bij Dagelijkse Hypeman Pro (per week, maand, jaar of levenslang). Kocht je de app voordat hij gratis werd, dan heb je Pro al.
 
 ## pl
 
@@ -994,6 +1036,8 @@ Co potrafi aplikacja
 Nie zbieramy żadnych danych osobowych. Imię, ulubione i ustawienia zostają wyłącznie na twoim urządzeniu.
 Błędy i pomysły możesz wysłać z ustawień, mailem albo przez Instagram.
 
+Pobierz za darmo i korzystaj ze wszystkich 281 peanów, widżetu, swojego imienia, ulubionych i serii. Wszystkie 13 czcionek, obrazy tła, własny kolor tła i tekstu oraz interlinia są w Dzienna Dawka Peanów Pro (tygodniowo, miesięcznie, rocznie lub na zawsze). Jeśli aplikacja została kupiona, zanim stała się darmowa, Pro jest już Twoje.
+
 ## sv
 
 ### 지원 URL
@@ -1039,6 +1083,8 @@ Det här kan appen:
 Din integritet är viktig. Appen samlar inte in några personuppgifter, och namn, favoriter och inställningar ligger bara kvar på din enhet.
 Har du hittat en bugg eller har ett förslag? Skriv till oss via e-post eller Instagram i inställningarna.
 
+Ladda ner gratis och använd alla 281 peppar, widgeten, ditt namn, favoriter och streaks. Alla 13 typsnitt, bakgrundsbilder, egen bakgrunds- och textfärg och radavstånd ingår i Dagens Pepp Pro (vecka, månad, år eller livstid). Köpte du appen innan den blev gratis har du redan Pro.
+
 ## tr
 
 ### 지원 URL
@@ -1083,6 +1129,8 @@ Fazlasıyla, hem de gereğinden fazla pohpohlayan bir widget uygulaması. Ana ek
 
 Kişisel veri toplamıyoruz. İsmin ve favorilerin gibi bilgiler yalnızca cihazında kalır.
 Hata bildirimi ve önerilerini ayarlar ekranından e-posta veya Instagram üzerinden gönderebilirsin.
+
+Ücretsiz indir; 281 pohpohun tamamını, widget'ı, adını eklemeyi, favorileri ve serileri kullan. 13 yazı tipinin tamamı, arka plan görselleri, arka plan ve yazı rengini seçmek ve satır aralığı Günün Pohpohu Pro'da (haftalık, aylık, yıllık ya da ömür boyu). Uygulamayı ücretsiz olmadan önce aldıysan Pro zaten senin.
 
 ## 손쉬운 사용
 

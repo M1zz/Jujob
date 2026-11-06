@@ -15,24 +15,35 @@ struct FontsListView: View {
     var body: some View {
         NavigationView {
             List {
-                ForEach(0..<manager.fonts.count, content: { index in
+                ForEach(manager.fonts, id: \.self) { font in
+                    let locked = manager.isFontLocked(font)
+                    let selected = manager.displayFont == font
                     Button {
-                        presentation.wrappedValue.dismiss()
-                        manager.selectedFont = manager.fonts[index]
+                        if locked {
+                            // 앞 3종 뒤는 Pro — 글꼴 목록을 페이월로 바꿔 띄운다 (미리보기를 이 글꼴로 그린다)
+                            JujobPro.shared.present(.font(font))
+                        } else {
+                            presentation.wrappedValue.dismiss()
+                            manager.selectedFont = font
+                        }
                     } label: {
                         HStack {
-                            Text(manager.fonts[index]).font(.custom(manager.fonts[index], size: 22, relativeTo: .title2))
+                            Text(font).font(.custom(font, size: 22, relativeTo: .title2))
                             Spacer()
-                            Image(systemName: manager.selectedFont == manager.fonts[index] ? "largecircle.fill.circle" : "circle")
-                                .resizable().aspectRatio(contentMode: .fit)
-                                .frame(width: 25)
-                                .accessibilityHidden(true)
+                            if locked {
+                                ProBadge()
+                            } else {
+                                Image(systemName: selected ? "largecircle.fill.circle" : "circle")
+                                    .resizable().aspectRatio(contentMode: .fit)
+                                    .frame(width: 25)
+                                    .accessibilityHidden(true)
+                            }
                         }
                         .contentShape(Rectangle())
                     }
                     .buttonStyle(.plain)
-                    .accessibilityAddTraits(manager.selectedFont == manager.fonts[index] ? .isSelected : [])
-                })
+                    .accessibilityAddTraits(selected ? .isSelected : [])
+                }
             }
             .environment(\.defaultMinListRowHeight, 50)
             .navigationTitle("Select a font")
