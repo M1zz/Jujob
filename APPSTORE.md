@@ -47,6 +47,11 @@ https://m1zz.github.io/Jujob/ko/index.html
 
 무료로 받아 주접 281개와 위젯, 이름 넣기, 즐겨찾기, 연속 기록을 모두 써요. 글꼴 13종 전부, 배경 이미지, 배경 색과 글자 색 고르기, 행간 조절은 오늘의 주접 Pro(주 · 월 · 연 구독 또는 평생)예요. 무료로 바뀌기 전에 앱을 사신 분은 그대로 Pro예요.
 
+구독 안내
+오늘의 주접 Pro 구독은 자동 갱신 구독이에요. 갱신일 24시간 전까지 해지하지 않으면 Apple 계정으로 자동 결제되며, 설정의 구독 관리에서 언제든 해지할 수 있어요.
+이용약관(EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+개인정보처리방침: https://m1zz.github.io/Jujob/ko/privacy.html
+
 ## en
 
 ### 지원 URL
@@ -94,6 +99,11 @@ Bug reports and feature ideas are welcome from the settings screen, by email or 
 
 Download for free and get all 281 lines, the widget, your name, favorites and streaks. All 13 fonts, background images, your own background and text colors, and line spacing come with Daily Hype Pro (weekly, monthly, yearly or lifetime). If you bought the app before it went free, Pro is already yours.
 
+Subscriptions
+Daily Hype Pro subscriptions renew automatically. Payment is charged to your Apple Account, and a subscription renews unless canceled at least 24 hours before the end of the current period. Manage or cancel anytime in Settings.
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://m1zz.github.io/Jujob/en/privacy.html
+
 ## en-GB
 
 ### 지원 URL
@@ -140,6 +150,11 @@ No personal data is collected. Your name, favourites and history stay on your de
 Found a bug or have a bright idea? Send it by email or Instagram from the Settings screen. We would love to hear from you.
 
 Download for free and get all 281 lines, the widget, your name, favourites and streaks. All 13 fonts, background images, your own background and text colours, and line spacing come with Daily Gush Pro (weekly, monthly, yearly or lifetime). If you bought the app before it went free, Pro is already yours.
+
+Subscriptions
+Daily Gush Pro subscriptions renew automatically. Payment is charged to your Apple Account, and a subscription renews unless cancelled at least 24 hours before the end of the current period. Manage or cancel at any time in Settings.
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://m1zz.github.io/Jujob/en-GB/privacy.html
 
 ## zh-Hans
 
@@ -190,6 +205,11 @@ https://m1zz.github.io/Jujob/zh-Hans/index.html
 
 免费下载即可使用全部281句彩虹屁、小组件、填名字、收藏和连续记录。全部13种字体、背景图片、自选背景色和文字颜色、行距调整属于今日彩虹屁 Pro（按周、按月、按年订阅或永久买断）。在改为免费之前买过本应用的用户，直接享有 Pro。
 
+订阅说明
+今日彩虹屁 Pro 订阅为自动续期订阅。费用从你的 Apple 账户扣除，除非在当期结束前至少 24 小时取消，否则将自动续期。可随时在“设置”中管理或取消。
+使用条款（EULA）: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+隐私政策: https://m1zz.github.io/Jujob/zh-Hans/privacy.html
+
 ## zh-Hant
 
 ### 지원 URL
@@ -236,6 +256,11 @@ https://m1zz.github.io/Jujob/zh-Hant/index.html
 遇到問題或有想法，歡迎在設定頁用電子郵件或 Instagram 告訴開發者。
 
 免費下載即可使用全部281句彩虹屁、小工具、填名字、我的最愛和連續紀錄。全部13種字型、背景圖片、自選背景色和文字顏色、行距調整屬於今日彩虹屁 Pro（按週、按月、按年訂閱或永久買斷）。在改為免費之前買過本 App 的人，直接享有 Pro。
+
+訂閱說明
+今日彩虹屁 Pro 訂閱為自動續訂訂閱。費用會從你的 Apple 帳號扣款，除非在當期結束前至少 24 小時取消，否則將自動續訂。可隨時在「設定」中管理或取消。
+使用條款（EULA）: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+隱私權政策: https://m1zz.github.io/Jujob/zh-Hant/privacy.html
 
 ## ja
 
@@ -284,6 +309,11 @@ https://m1zz.github.io/Jujob/ja/index.html
 
 無料でダウンロードして、281のほめちぎり、ウィジェット、名前の挿入、お気に入り、連続記録がすべて使えます。13種すべてのフォント、背景画像、背景色と文字色の選択、行間の調整は今日のほめちぎり Pro（週額・月額・年額または買い切り）です。無料になる前にアプリを購入した方は、そのままProです。
 
+サブスクリプションについて
+今日のほめちぎり Proのサブスクリプションは自動更新です。期間終了の24時間前までに解約しない限り、Apple Accountに自動で請求され更新されます。設定のサブスクリプション管理からいつでも解約できます。
+利用規約（EULA）: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+プライバシーポリシー: https://m1zz.github.io/Jujob/ja/privacy.html
+
 ## ru
 
 ### 지원 URL
@@ -330,6 +360,11 @@ https://m1zz.github.io/Jujob/ru/index.html
 Нашли ошибку или есть идея? Напишите разработчику прямо из настроек: на почту или в Instagram.
 
 Скачайте бесплатно и пользуйтесь всеми 281 одами, виджетом, своим именем, избранным и сериями. Все 13 шрифтов, фоновые фото, свой цвет фона и текста и интервал строк входят в Ода дня Pro (подписка на неделю, месяц или год либо покупка навсегда). Если вы купили приложение до того, как оно стало бесплатным, Pro уже ваш.
+
+Подписки
+Ода дня Pro — подписка с автопродлением. Оплата списывается с вашего аккаунта Apple, и подписка продлевается, если не отменить её минимум за 24 часа до конца периода. Управлять подпиской и отменить её можно в Настройках.
+Условия использования (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Политика конфиденциальности: https://m1zz.github.io/Jujob/ru/privacy.html
 
 ## es
 
@@ -379,6 +414,11 @@ Tu privacidad importa: la app no recoge ningún dato personal. Tu nombre, tus fa
 
 Descárgala gratis y disfruta de los 281 piropos, el widget, tu nombre, los favoritos y las rachas. Las 13 fuentes, las imágenes de fondo, el color de fondo y de texto a tu gusto y el interlineado vienen con Piropo del Día Pro (semanal, mensual, anual o para siempre). Si compraste la app antes de que fuera gratis, ya tienes Pro.
 
+Suscripciones
+La suscripción a Piropo del Día Pro se renueva automáticamente. El cargo se realiza en tu cuenta de Apple y la suscripción se renueva salvo que la canceles al menos 24 horas antes de que termine el periodo. Puedes gestionarla o cancelarla cuando quieras en Ajustes.
+Términos de uso (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Política de privacidad: https://m1zz.github.io/Jujob/es/privacy.html
+
 ## de
 
 ### 지원 URL
@@ -425,6 +465,11 @@ Datenschutz ist uns wichtig: Die App sammelt keine persönlichen Daten. Name, Fa
 Fehler gemeldet, Idee gehabt? Schreib uns in den Einstellungen per E-Mail oder auf Instagram.
 
 Kostenlos laden und alle 281 Sprüche, das Widget, deinen Namen, Favoriten und Serien nutzen. Alle 13 Schriften, Hintergrundbilder, eigene Hintergrund- und Schriftfarbe sowie der Zeilenabstand gehören zu Hype des Tages Pro (wöchentlich, monatlich, jährlich oder für immer). Wer die App gekauft hat, bevor sie kostenlos wurde, hat Pro bereits.
+
+Abos
+Das Abo von Hype des Tages Pro verlängert sich automatisch. Die Zahlung erfolgt über deinen Apple Account. Das Abo verlängert sich, sofern du nicht mindestens 24 Stunden vor Ablauf des Zeitraums kündigst. Verwalten oder kündigen kannst du jederzeit in den Einstellungen.
+Nutzungsbedingungen (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Datenschutzerklärung: https://m1zz.github.io/Jujob/de/privacy.html
 
 ## fr
 
@@ -473,6 +518,11 @@ Un bug, une idée ? Écris-nous par e-mail ou sur Instagram depuis les réglages
 
 Télécharge-la gratuitement et profite des 281 compliments, du widget, de ton prénom, des favoris et des séries. Les 13 polices, les images de fond, les couleurs du fond et du texte au choix et l'interligne font partie de Trop Fan de Toi Pro (à la semaine, au mois, à l'année ou à vie). Si tu as acheté l'app avant qu'elle devienne gratuite, Pro est déjà à toi.
 
+Abonnements
+L'abonnement Trop Fan de Toi Pro se renouvelle automatiquement. Le paiement est débité sur ton compte Apple, et l'abonnement est reconduit sauf résiliation au moins 24 heures avant la fin de la période en cours. Gère-le ou résilie-le à tout moment dans Réglages.
+Conditions d'utilisation (EULA) : https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Politique de confidentialité : https://m1zz.github.io/Jujob/fr/privacy.html
+
 ## it
 
 ### 지원 URL
@@ -519,6 +569,11 @@ Nessun dato personale viene raccolto. Nome, preferiti e impostazioni restano sol
 Per segnalare un bug o proporre un'idea, scrivi via email o Instagram dalle impostazioni.
 
 Scaricala gratis e usa tutti i 281 complimenti, il widget, il tuo nome, i preferiti e i giorni di fila. Tutti i 13 font, le immagini di sfondo, i colori di sfondo e testo a scelta e l'interlinea sono inclusi in Overdose di Complimenti Pro (settimanale, mensile, annuale o a vita). Se hai comprato l'app prima che diventasse gratuita, Pro è già tuo.
+
+Abbonamenti
+L'abbonamento Overdose di Complimenti Pro si rinnova automaticamente. Il pagamento viene addebitato sul tuo Account Apple e l'abbonamento si rinnova se non lo disdici almeno 24 ore prima della fine del periodo. Puoi gestirlo o disdirlo in qualsiasi momento in Impostazioni.
+Condizioni d'uso (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Informativa sulla privacy: https://m1zz.github.io/Jujob/it/privacy.html
 
 ## pt-BR
 
@@ -567,6 +622,11 @@ Achou um bug ou tem uma ideia? Mande por e-mail ou Instagram direto pelos ajuste
 
 Baixe de graça e use todos os 281 elogios, o widget, seu nome, os favoritos e as sequências. Todas as 13 fontes, imagens de fundo, cor do fundo e do texto à sua escolha e a entrelinha fazem parte do Elogio Exagerado Pro (semanal, mensal, anual ou vitalício). Se você comprou o app antes de ele ficar grátis, o Pro já é seu.
 
+Assinaturas
+A assinatura Elogio Exagerado Pro é renovada automaticamente. A cobrança é feita na sua Conta Apple e a assinatura é renovada, a menos que você cancele pelo menos 24 horas antes do fim do período. Gerencie ou cancele quando quiser em Ajustes.
+Termos de Uso (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Política de Privacidade: https://m1zz.github.io/Jujob/pt-BR/privacy.html
+
 ## th
 
 ### 지원 URL
@@ -613,6 +673,11 @@ https://m1zz.github.io/Jujob/th/index.html
 แจ้งบั๊กหรือเสนอฟีเจอร์ได้ทางอีเมลหรืออินสตาแกรมจากหน้าตั้งค่า
 
 ดาวน์โหลดฟรีแล้วใช้คำชม 281 ประโยค วิดเจ็ต การใส่ชื่อ รายการโปรด และสถิติต่อเนื่องได้ทั้งหมด ฟอนต์ครบ 13 แบบ รูปพื้นหลัง การเลือกสีพื้นหลังและสีตัวอักษร และการปรับระยะบรรทัด อยู่ใน ชมเว่อร์ทุกวัน Pro (รายสัปดาห์ รายเดือน รายปี หรือตลอดชีพ) ใครซื้อแอปไว้ก่อนเปลี่ยนเป็นฟรี ได้ Pro ไปเลย
+
+การสมัครสมาชิก
+ชมเว่อร์ทุกวัน Pro เป็นการสมัครสมาชิกที่ต่ออายุอัตโนมัติ ระบบจะเรียกเก็บเงินจากบัญชี Apple ของคุณและต่ออายุ เว้นแต่จะยกเลิกอย่างน้อย 24 ชั่วโมงก่อนสิ้นสุดรอบ จัดการหรือยกเลิกได้ทุกเมื่อในการตั้งค่า
+ข้อกำหนดการใช้งาน (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+นโยบายความเป็นส่วนตัว: https://m1zz.github.io/Jujob/th/privacy.html
 
 ## vi
 
@@ -661,6 +726,11 @@ Báo lỗi và góp ý qua email hoặc Instagram ngay trong phần Cài đặt 
 
 Tải miễn phí và dùng toàn bộ 281 câu khen, widget, gắn tên, mục yêu thích và chuỗi ngày. Đủ 13 phông chữ, ảnh nền, tự chọn màu nền và màu chữ, chỉnh giãn dòng có trong Khen Lố Mỗi Ngày Pro (theo tuần, tháng, năm hoặc trọn đời). Nếu bạn đã mua ứng dụng trước khi chuyển sang miễn phí, Pro đã là của bạn.
 
+Gói đăng ký
+Khen Lố Mỗi Ngày Pro là gói đăng ký tự động gia hạn. Phí được tính vào Tài khoản Apple của bạn và tự gia hạn trừ khi bạn hủy ít nhất 24 giờ trước khi kỳ hạn kết thúc. Bạn có thể quản lý hoặc hủy bất cứ lúc nào trong Cài đặt.
+Điều khoản sử dụng (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Chính sách quyền riêng tư: https://m1zz.github.io/Jujob/vi/privacy.html
+
 ## cs
 
 ### 지원 URL
@@ -707,6 +777,11 @@ Osobní údaje nesbíráme. Jméno, oblíbené a další data zůstávají jen v
 Chyby a nápady na vylepšení nám pošli e-mailem nebo přes Instagram přímo z nastavení.
 
 Stáhněte si ji zdarma a používejte všech 281 hlášek, widget, své jméno, oblíbené i série. Všech 13 písem, obrázky na pozadí, vlastní barva pozadí a písma a řádkování jsou součástí Pochvala dne Pro (týdně, měsíčně, ročně nebo navždy). Kdo si aplikaci koupil dřív, než byla zdarma, má Pro.
+
+Předplatné
+Pochvala dne Pro je automaticky obnovované předplatné. Platba se strhává z tvého účtu Apple a předplatné se obnoví, pokud ho nezrušíš alespoň 24 hodin před koncem období. Spravovat nebo zrušit ho můžeš kdykoli v Nastavení.
+Podmínky použití (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Zásady ochrany osobních údajů: https://m1zz.github.io/Jujob/cs/privacy.html
 
 ## da
 
@@ -755,6 +830,11 @@ Har du en fejl at melde eller et forslag? Skriv en e-mail eller en besked på In
 
 Hent den gratis og brug alle 281 roser, widgetten, dit navn, favoritter og striber. Alle 13 skrifttyper, baggrundsbilleder, egen baggrunds- og tekstfarve og linjeafstand følger med Dagens Ros Pro (ugentligt, månedligt, årligt eller livstid). Købte du appen, før den blev gratis, har du allerede Pro.
 
+Abonnementer
+Dagens Ros Pro er et abonnement, der fornyes automatisk. Betalingen trækkes på din Apple-konto, og abonnementet fornyes, medmindre du opsiger det mindst 24 timer før perioden slutter. Administrer eller opsig når som helst i Indstillinger.
+Brugsvilkår (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privatlivspolitik: https://m1zz.github.io/Jujob/da/privacy.html
+
 ## el
 
 ### 지원 URL
@@ -801,6 +881,11 @@ widget,κομπλιμέντα,κίνητρο,αυτοπεποίθηση,θετι
 Για σφάλματα και ιδέες, γράψε μας από τις ρυθμίσεις με email ή Instagram.
 
 Κατέβασέ την δωρεάν και χρησιμοποίησε και τα 281 παινέματα, το widget, το όνομά σου, τα αγαπημένα και τα σερί. Και οι 13 γραμματοσειρές, οι εικόνες φόντου, το δικό σου χρώμα φόντου και κειμένου και το διάστιχο είναι στο Το Παίνεμα της Ημέρας Pro (εβδομαδιαία, μηνιαία, ετήσια ή εφ' όρου ζωής). Αν αγόρασες την εφαρμογή πριν γίνει δωρεάν, το Pro είναι ήδη δικό σου.
+
+Συνδρομές
+Το Παίνεμα της Ημέρας Pro είναι συνδρομή με αυτόματη ανανέωση. Η χρέωση γίνεται στον λογαριασμό Apple σου και η συνδρομή ανανεώνεται, εκτός αν την ακυρώσεις τουλάχιστον 24 ώρες πριν λήξει η περίοδος. Μπορείς να τη διαχειριστείς ή να την ακυρώσεις οποτεδήποτε από τις Ρυθμίσεις.
+Όροι χρήσης (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Πολιτική απορρήτου: https://m1zz.github.io/Jujob/el/privacy.html
 
 ## fi
 
@@ -850,6 +935,11 @@ Virheilmoitukset ja kehitysideat voit lähettää asetuksista sähköpostilla ta
 
 Lataa ilmaiseksi ja käytä kaikkia 281 hehkutusta, widgetiä, omaa nimeäsi, suosikkeja ja putkia. Kaikki 13 fonttia, taustakuvat, omat taustan ja tekstin värit sekä riviväli kuuluvat Päivän hehkutus Prohon (viikko, kuukausi, vuosi tai ikuinen). Jos ostit sovelluksen ennen kuin siitä tuli ilmainen, Pro on jo sinun.
 
+Tilaukset
+Päivän hehkutus Pro on automaattisesti uusiutuva tilaus. Maksu veloitetaan Apple-tililtäsi, ja tilaus uusiutuu, ellei sitä peruta vähintään 24 tuntia ennen jakson päättymistä. Hallitse tai peru milloin tahansa Asetuksissa.
+Käyttöehdot (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Tietosuojakäytäntö: https://m1zz.github.io/Jujob/fi/privacy.html
+
 ## id
 
 ### 지원 URL
@@ -896,6 +986,11 @@ Privasi aman. Aplikasi ini tidak mengumpulkan data pribadi apa pun. Nama, favori
 Ada bug atau ide fitur? Kirim lewat email atau Instagram dari layar pengaturan.
 
 Unduh gratis dan pakai semua 281 pujian, widget, nama sendiri, favorit, dan rekor beruntun. Semua 13 font, gambar latar, warna latar dan teks pilihanmu, serta jarak baris ada di Pujian Lebay Harian Pro (mingguan, bulanan, tahunan, atau seumur hidup). Kalau kamu membeli aplikasinya sebelum jadi gratis, Pro sudah jadi milikmu.
+
+Langganan
+Pujian Lebay Harian Pro adalah langganan yang diperpanjang otomatis. Pembayaran ditagihkan ke Akun Apple kamu dan langganan diperpanjang kecuali dibatalkan paling lambat 24 jam sebelum periode berakhir. Kelola atau batalkan kapan saja di Pengaturan.
+Ketentuan Penggunaan (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Kebijakan Privasi: https://m1zz.github.io/Jujob/id/privacy.html
 
 ## nb
 
@@ -944,6 +1039,11 @@ Feil og ideer kan du sende på e-post eller Instagram fra innstillinger i appen.
 
 Last ned gratis og bruk alle 281 skryt, widgeten, navnet ditt, favoritter og dagsrekker. Alle 13 skrifttyper, bakgrunnsbilder, egen bakgrunns- og tekstfarge og linjeavstand følger med Dagens skryt Pro (ukentlig, månedlig, årlig eller livstid). Kjøpte du appen før den ble gratis, har du allerede Pro.
 
+Abonnementer
+Dagens skryt Pro er et abonnement som fornyes automatisk. Betalingen belastes Apple-kontoen din, og abonnementet fornyes med mindre du sier det opp minst 24 timer før perioden er over. Administrer eller si opp når som helst i Innstillinger.
+Bruksvilkår (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Personvernerklæring: https://m1zz.github.io/Jujob/nb/privacy.html
+
 ## nl
 
 ### 지원 URL
@@ -990,6 +1090,11 @@ Je privacy blijft van jou. De app verzamelt geen persoonlijke gegevens. Je naam,
 Bugs of ideeën? Stuur ze via Instellingen per mail of Instagram naar de maker.
 
 Download gratis en gebruik alle 281 hypes, de widget, je naam, favorieten en reeksen. Alle 13 lettertypen, achtergrondfoto's, je eigen achtergrond- en tekstkleur en regelafstand horen bij Dagelijkse Hypeman Pro (per week, maand, jaar of levenslang). Kocht je de app voordat hij gratis werd, dan heb je Pro al.
+
+Abonnementen
+Dagelijkse Hypeman Pro is een automatisch verlengend abonnement. De betaling loopt via je Apple Account en het abonnement wordt verlengd tenzij je minstens 24 uur voor het einde van de periode opzegt. Beheer of zeg op wanneer je wilt in Instellingen.
+Gebruiksvoorwaarden (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacybeleid: https://m1zz.github.io/Jujob/nl/privacy.html
 
 ## pl
 
@@ -1038,6 +1143,11 @@ Błędy i pomysły możesz wysłać z ustawień, mailem albo przez Instagram.
 
 Pobierz za darmo i korzystaj ze wszystkich 281 peanów, widżetu, swojego imienia, ulubionych i serii. Wszystkie 13 czcionek, obrazy tła, własny kolor tła i tekstu oraz interlinia są w Dzienna Dawka Peanów Pro (tygodniowo, miesięcznie, rocznie lub na zawsze). Jeśli aplikacja została kupiona, zanim stała się darmowa, Pro jest już Twoje.
 
+Subskrypcje
+Dzienna Dawka Peanów Pro to subskrypcja odnawiana automatycznie. Opłata jest pobierana z Twojego konta Apple, a subskrypcja odnawia się, jeśli nie anulujesz jej co najmniej 24 godziny przed końcem okresu. Zarządzaj nią lub anuluj ją w dowolnej chwili w Ustawieniach.
+Warunki korzystania (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Polityka prywatności: https://m1zz.github.io/Jujob/pl/privacy.html
+
 ## sv
 
 ### 지원 URL
@@ -1085,6 +1195,11 @@ Har du hittat en bugg eller har ett förslag? Skriv till oss via e-post eller In
 
 Ladda ner gratis och använd alla 281 peppar, widgeten, ditt namn, favoriter och streaks. Alla 13 typsnitt, bakgrundsbilder, egen bakgrunds- och textfärg och radavstånd ingår i Dagens Pepp Pro (vecka, månad, år eller livstid). Köpte du appen innan den blev gratis har du redan Pro.
 
+Prenumerationer
+Dagens Pepp Pro är en prenumeration som förnyas automatiskt. Betalningen dras från ditt Apple-konto och prenumerationen förnyas om du inte avslutar den minst 24 timmar innan perioden slutar. Hantera eller avsluta när som helst i Inställningar.
+Användarvillkor (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Integritetspolicy: https://m1zz.github.io/Jujob/sv/privacy.html
+
 ## tr
 
 ### 지원 URL
@@ -1131,6 +1246,11 @@ Kişisel veri toplamıyoruz. İsmin ve favorilerin gibi bilgiler yalnızca cihaz
 Hata bildirimi ve önerilerini ayarlar ekranından e-posta veya Instagram üzerinden gönderebilirsin.
 
 Ücretsiz indir; 281 pohpohun tamamını, widget'ı, adını eklemeyi, favorileri ve serileri kullan. 13 yazı tipinin tamamı, arka plan görselleri, arka plan ve yazı rengini seçmek ve satır aralığı Günün Pohpohu Pro'da (haftalık, aylık, yıllık ya da ömür boyu). Uygulamayı ücretsiz olmadan önce aldıysan Pro zaten senin.
+
+Abonelikler
+Günün Pohpohu Pro otomatik yenilenen bir aboneliktir. Ödeme Apple Hesabınızdan alınır ve abonelik, dönem bitmeden en az 24 saat önce iptal edilmezse yenilenir. Ayarlar'dan istediğiniz zaman yönetebilir veya iptal edebilirsiniz.
+Kullanım Koşulları (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Gizlilik Politikası: https://m1zz.github.io/Jujob/tr/privacy.html
 
 ## 손쉬운 사용
 
