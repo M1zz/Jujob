@@ -1,5 +1,175 @@
 # 오늘의 주접 릴리즈 노트
 
+## 1.0.5
+
+### 앱스토어 (한국어)
+
+Siri가 지금 시간에 맞는 주접을 읽어 줘요
+즐겨찾은 주접을 iPhone 검색에서 바로 찾아요
+매일 자동으로 백업하고 iCloud나 파일로 되살려요
+즐겨찾기가 사라질 수 있던 문제를 고쳤어요
+
+### 앱스토어 (영어)
+
+Siri now reads you a hype line on cue
+Find your favorites in iPhone Search
+Daily backups, restore from iCloud
+Fixed favorites that could disappear
+
+### App Store (en-GB)
+
+Siri now reads you a gush on cue
+Find your favourites in iPhone Search
+Daily backups, restore from iCloud
+Fixed favourites that could disappear
+
+### 앱스토어 (중국어(간체))
+
+Siri 会按时段为你念一句彩虹屁
+在 iPhone 搜索中找到收藏的彩虹屁
+每天自动备份，可从 iCloud 或文件恢复
+修复了收藏可能丢失的问题
+
+### 앱스토어 (중국어(번체))
+
+Siri 會依時段為你唸一句彩虹屁
+在 iPhone 搜尋中找到收藏的彩虹屁
+每天自動備份，可從 iCloud 或檔案回復
+修正了收藏可能遺失的問題
+
+### 앱스토어 (일본어)
+
+Siriが今にぴったりのほめちぎりを読みます
+お気に入りをiPhoneの検索からすぐ探せます
+毎日自動でバックアップし復元もできます
+お気に入りが消えることがある問題を直しました
+
+### 앱스토어 (러시아어)
+
+Siri прочитает оду под настроение дня
+Избранное теперь есть в Поиске iPhone
+Ежедневная копия с восстановлением
+Избранное больше не пропадает
+
+### 앱스토어 (스페인어)
+
+Siri te dice un piropo según la hora
+Busca tus favoritos desde el iPhone
+Copia diaria, restaurable desde iCloud
+Tus favoritos ya no pueden perderse
+
+### 앱스토어 (독일어)
+
+Siri liest dir den passenden Spruch vor
+Finde Favoriten direkt in der Suche
+Tägliches Backup, wiederherstellbar
+Favoriten gehen nicht mehr verloren
+
+### 앱스토어 (프랑스어)
+
+Siri vous lit un compliment du moment
+Vos favoris dans Recherche
+Sauvegarde quotidienne et restauration
+Les favoris ne disparaissent plus
+
+### 앱스토어 (이탈리아어)
+
+Siri ti legge il complimento del momento
+Trova i preferiti nella Ricerca
+Backup giornaliero, da iCloud o da file
+I preferiti non spariscono più
+
+### 앱스토어 (포르투갈어(브라질))
+
+A Siri lê um elogio para a hora certa
+Ache seus favoritos na Busca do iPhone
+Backup diário, restaure pelo iCloud
+Seus favoritos não somem mais
+
+### 앱스토어 (태국어)
+
+Siri อ่านคำชมที่เข้ากับช่วงเวลาให้ฟัง
+ค้นหารายการโปรดจากการค้นหาใน iPhone
+สำรองทุกวัน กู้คืนจาก iCloud หรือไฟล์ได้
+แก้ปัญหารายการโปรดอาจหายไป
+
+### 앱스토어 (베트남어)
+
+Siri đọc lời khen lố hợp với lúc này
+Tìm mục yêu thích ngay trong Tìm kiếm
+Sao lưu mỗi ngày, khôi phục từ iCloud
+Mục yêu thích không còn bị mất
+
+### 앱스토어 (체코어)
+
+Siri vám přečte hlášku podle denní doby
+Oblíbené najdete ve Vyhledávání
+Denní záloha s obnovou z iCloudu
+Oblíbené už se neztrácejí
+
+### 앱스토어 (덴마크어)
+
+Siri læser roser op, der passer nu
+Find dine favoritter i Søgning
+Daglig backup, gendan fra iCloud
+Favoritter forsvinder ikke længere
+
+### 앱스토어 (그리스어)
+
+Η Siri σάς λέει ένα παίνεμα της ώρας
+Τα αγαπημένα σας στην Αναζήτηση
+Καθημερινό αντίγραφο με επαναφορά
+Τα αγαπημένα δεν χάνονται πια
+
+### 앱스토어 (핀란드어)
+
+Siri lukee kehun, joka sopii hetkeen
+Löydä suosikit iPhonen haulla
+Päivittäinen varmuuskopio ja palautus
+Suosikit eivät enää katoa
+
+### 앱스토어 (인도네시아어)
+
+Siri membacakan pujian sesuai waktu
+Cari favorit Anda di Pencarian
+Cadangan harian, pulihkan dari iCloud
+Favorit tidak akan hilang lagi
+
+### 앱스토어 (노르웨이어(보크말))
+
+Siri leser opp skryt som passer tiden
+Finn favorittene dine i Søk
+Daglig kopi som kan gjenopprettes
+Favoritter forsvinner ikke lenger
+
+### 앱스토어 (네덜란드어)
+
+Siri leest een compliment voor je voor
+Vind je favorieten via Zoeken
+Dagelijkse back-up, herstel via iCloud
+Favorieten verdwijnen niet meer
+
+### 앱스토어 (폴란드어)
+
+Siri przeczyta pean na tę porę dnia
+Ulubione znajdziesz w Wyszukiwaniu
+Codzienna kopia z przywracaniem
+Ulubione już nie znikają
+
+### 앱스토어 (스웨덴어)
+
+Siri läser upp pepp som passar stunden
+Hitta dina favoriter i Sök
+Daglig säkerhetskopia, återställ enkelt
+Favoriter försvinner inte längre
+
+### 앱스토어 (튀르키예어)
+
+Siri saate göre pohpoh okur
+Favorilerini iPhone aramasında bul
+Günlük yedek, iCloud'dan geri yükleme
+Favoriler artık kaybolmaz
+
 ## 1.0.4
 
 ### 앱스토어 (한국어)
