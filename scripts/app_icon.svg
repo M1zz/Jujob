@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF8A5B"/>
+      <stop offset="0.55" stop-color="#FF5470"/>
+      <stop offset="1" stop-color="#F0356F"/>
+    </linearGradient>
+    <linearGradient id="bubble" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE65A"/>
+      <stop offset="1" stop-color="#FFC024"/>
+    </linearGradient>
+    <linearGradient id="heart" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FF5C7A"/>
+      <stop offset="1" stop-color="#E8214F"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.3" cy="0.22" r="0.75">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="22"/>
+      <feOffset dy="26"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.30"/></feComponentTransfer>
+      <feFlood flood-color="#8A0F3C"/><feComposite in2="SourceAlpha" operator="in"/>
+    </filter>
+  </defs>
+
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <rect width="1024" height="1024" fill="url(#glow)"/>
+
+  <!-- 말풍선: 그림자 -->
+  <g opacity="0.32" transform="translate(0,28)" fill="#8A0F3C" style="filter:blur(22px)">
+    <path d="M300 212 H724 A128 128 0 0 1 852 340 V590 A128 128 0 0 1 724 718 H470 L318 846 Q296 864 300 836 L316 718 H300 A128 128 0 0 1 172 590 V340 A128 128 0 0 1 300 212 Z"/>
+  </g>
+  <!-- 말풍선 -->
+  <path fill="url(#bubble)" d="M300 212 H724 A128 128 0 0 1 852 340 V590 A128 128 0 0 1 724 718 H470 L318 846 Q296 864 300 836 L316 718 H300 A128 128 0 0 1 172 590 V340 A128 128 0 0 1 300 212 Z"/>
+  <!-- 말풍선 윗빛 -->
+  <path fill="#FFFFFF" opacity="0.28" d="M300 236 H724 A104 104 0 0 1 826 320 Q790 268 716 268 H308 Q234 268 198 320 A104 104 0 0 1 300 236 Z"/>
+
+  <!-- 왼쪽 눈: 하트 -->
+  <path fill="url(#heart)" transform="translate(372 392) scale(1.18)"
+        d="M0 62 C-74 14 -78 -34 -44 -52 C-22 -63 -6 -52 0 -36 C6 -52 22 -63 44 -52 C78 -34 74 14 0 62 Z"/>
+  <!-- 오른쪽 눈: 윙크 -->
+  <path fill="none" stroke="#4A3350" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"
+        d="M588 356 L700 400 L588 444"/>
+  <!-- 입 -->
+  <path fill="#7A1F3D" d="M356 520 H668 A20 20 0 0 1 688 542 C680 622 608 668 512 668 C416 668 344 622 336 542 A20 20 0 0 1 356 520 Z"/>
+  <!-- 혀 -->
+  <path fill="#FF6B86" d="M430 612 C456 590 488 584 512 584 C536 584 568 590 594 612 C602 620 600 634 590 642 C568 660 542 668 512 668 C482 668 456 660 434 642 C424 634 422 620 430 612 Z"/>
+
+  <!-- 반짝임 -->
+  <path fill="#FFFFFF" d="M836 96 C842 140 858 156 902 162 C858 168 842 184 836 228 C830 184 814 168 770 162 C814 156 830 140 836 96 Z"/>
+  <path fill="#FFFFFF" opacity="0.9" d="M716 78 C719 100 727 108 749 111 C727 114 719 122 716 144 C713 122 705 114 683 111 C705 108 713 100 716 78 Z"/>
+  <path fill="#FFFFFF" opacity="0.9" d="M792 772 C796 802 807 813 837 817 C807 821 796 832 792 862 C788 832 777 821 747 817 C777 813 788 802 792 772 Z"/>
+</svg>

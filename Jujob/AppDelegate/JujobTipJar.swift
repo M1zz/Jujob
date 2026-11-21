@@ -97,6 +97,7 @@ struct JujobTipJarRow: View {
                             }
                         }
                 }
+                .supportSheetStyle()
             }
         }
     }
@@ -135,6 +136,18 @@ struct JujobVaultRow: View {
                         }
                     }
             }
+            .supportSheetStyle()
         }
+    }
+}
+
+private extension View {
+    /// 본 화면의 꾸미기 판은 글자를 흰색으로 건다(`EditingToolsView` 의 `.foregroundColor(.white)`).
+    /// 시트는 띄운 자리의 환경을 물려받으므로, 그대로 두면 밝은 모드에서 목록의 줄이 흰 바탕에 흰 글자가 되어
+    /// 화면이 비어 보인다 — 1.0.5(5) 심사에서 "백업 및 복원이 불러와지지 않는다"로 리젝된 까닭이다.
+    /// 물려받은 글자색을 지우고, 이 앱의 다른 시트처럼 어두운 모양으로 맞춘다.
+    func supportSheetStyle() -> some View {
+        foregroundColor(nil)
+            .preferredColorScheme(.dark)
     }
 }
