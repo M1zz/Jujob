@@ -86,6 +86,8 @@ struct MainContentView: View {
         }
         // 페이월은 여기 한 곳에서만 뜬다. 글꼴 목록 같은 다른 시트에서 불러도 그 시트를 페이월로 바꿔 띄운다.
         .onReceive(pro.paywallRequests) { actionSheet = .paywall($0) }
+        // 할인 기간이면 앱을 연 뒤 한 번 할인 배너를 띄운다. 단추는 Pro 요금제를 연다 (LeeoKit).
+        .leeoSaleBanner { pro.present(.settings) }
         .onReceive(pro.graduationRequests) { if actionSheet == nil { actionSheet = .graduation } }
         // 권한이 바뀌면 미리보기도 같은 모양으로 그린다 (위젯에는 JujobPro 가 App Group 으로 비춘다).
         .onReceive(pro.$isOpen) { manager.isPremiumUser = $0 }
